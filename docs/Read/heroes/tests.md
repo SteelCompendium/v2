@@ -255,7 +255,7 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### Applying Skills
 
-If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
+If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/intrigue/hide.md) skill, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
 
 The +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a [test](../../Browse/rule/test/test.md) that has both the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for a skill and the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for an [edge](../../Browse/rule/dice/edge.md).
 
@@ -265,7 +265,7 @@ You can't apply more than one skill to a [test](../../Browse/rule/test/test.md).
 
 It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../../Browse/rule/test/test.md) using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) the skill represents. If the Director disagrees with you, that's the final word.
 
-Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to impress a noble at a party, using the [Brag](../../Browse/skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Magic](../../Browse/skill/magic.md) skill that you do have!
+Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to impress a noble at a party, using the [Brag](../../Browse/skill/interpersonal/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Magic](../../Browse/skill/lore/magic.md) skill that you do have!
 
 Sometimes you won't have a skill that applies to a [test](../../Browse/rule/test/test.md). That's okay! If your [characteristic](../../Browse/rule/character/characteristic.md) score is decent, you likely have a good chance of success without a skill.
 
@@ -273,31 +273,31 @@ Sometimes you won't have a skill that applies to a [test](../../Browse/rule/test
 
 Although certain skills are often paired with one [characteristic](../../Browse/rule/character/characteristic.md) more than others, a skill can apply to a [test](../../Browse/rule/test/test.md) made using any [characteristic](../../Browse/rule/character/characteristic.md) that makes sense. The Director has the final say on which [characteristic](../../Browse/rule/character/characteristic.md) is used to complete a task, and can call for a different [characteristic](../../Browse/rule/character/characteristic.md) based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md). But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) instead. The [Intimidate](../../Browse/skill/intimidate.md) skill can apply to both [tests](../../Browse/rule/test/test.md). In the same way, scaling the side of a building is covered by a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md), but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) instead. The [Climb](../../Browse/skill/climb.md) skill applies to both of these [tests](../../Browse/rule/test/test.md).
+For example, intimidating someone with a purely verbal threat is a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md). But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) instead. The [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill can apply to both [tests](../../Browse/rule/test/test.md). In the same way, scaling the side of a building is covered by a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md), but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) instead. The [Climb](../../Browse/skill/exploration/climb.md) skill applies to both of these [tests](../../Browse/rule/test/test.md).
 
 #### Many Specific Skills
 
-*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate [Climb](../../Browse/skill/climb.md), [Jump](../../Browse/skill/jump.md), [Lift](../../Browse/skill/lift.md), and [Swim](../../Browse/skill/swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: [Pick Lock](../../Browse/skill/pick-lock.md), [Pick Pocket](../../Browse/skill/pick-pocket.md), and [Sabotage](../../Browse/skill/sabotage.md).
+*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate [Climb](../../Browse/skill/exploration/climb.md), [Jump](../../Browse/skill/exploration/jump.md), [Lift](../../Browse/skill/exploration/lift.md), and [Swim](../../Browse/skill/exploration/swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: [Pick Lock](../../Browse/skill/intrigue/pick-lock.md), [Pick Pocket](../../Browse/skill/intrigue/pick-pocket.md), and [Sabotage](../../Browse/skill/intrigue/sabotage.md).
 
 Having a wide range of specific skills means you'll frequently make [tests](../../Browse/rule/test/test.md) that don't use one of your character's skills, simply applying a [characteristic](../../Browse/rule/character/characteristic.md). By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a [test](../../Browse/rule/test/test.md). That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
 Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/class/elementalist.md) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
-The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/exploration/climb.md) skill for a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 > **[Edges](../../Browse/rule/dice/edge.md) on [Tests](../../Browse/rule/test/test.md) With Specific Skills**
 >
-> Certain features and abilities grant a creature an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made with a specific skill. A creature making a [test](../../Browse/rule/test/test.md) where the specific skill would apply gains an [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) even if they don't have the skill. For example, the [conduit's](../../Browse/class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make [tests](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/hide.md) skill an [edge](../../Browse/rule/dice/edge.md) on those [tests](../../Browse/rule/test/test.md). Any creature who attempts to hide in the fog gains an [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) as long as the [Hide](../../Browse/skill/hide.md) skill would apply to that [test](../../Browse/rule/test/test.md), regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made with a specific skill. A creature making a [test](../../Browse/rule/test/test.md) where the specific skill would apply gains an [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) even if they don't have the skill. For example, the [conduit's](../../Browse/class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make [tests](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/intrigue/hide.md) skill an [edge](../../Browse/rule/dice/edge.md) on those [tests](../../Browse/rule/test/test.md). Any creature who attempts to hide in the fog gains an [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) as long as the [Hide](../../Browse/skill/intrigue/hide.md) skill would apply to that [test](../../Browse/rule/test/test.md), regardless of whether they have that skill or not.
 
 > **Are All Skills Equal?**
 >
-> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](../../Browse/skill/swim.md) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: [Making a Hero](making-a-hero.md)).
+> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the [Swim](../../Browse/skill/exploration/swim.md) skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: [Making a Hero](making-a-hero.md)).
 
 #### Skill Groups
 
 Skills are broken down into five skill groups: crafting, exploration, interpersonal, intrigue, and lore.
 
-##### Crafting Skills
+##### Crafting Skills {data-scc="mcdm.heroes.v1/skill.crafting/crafting"}
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
@@ -320,47 +320,47 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with crafting skil
 | Mechanics     | Build machines and clockwork items                 |
 | Tailoring     | Craft clothing of cloth or leather                 |
 
-###### Alchemy {data-scc="mcdm.heroes.v1/skill/alchemy"}
+###### Alchemy {data-scc="mcdm.heroes.v1/skill.crafting/alchemy"}
 
 Make bombs and potions.
 
-###### Architecture {data-scc="mcdm.heroes.v1/skill/architecture"}
+###### Architecture {data-scc="mcdm.heroes.v1/skill.crafting/architecture"}
 
 Create buildings and vehicles.
 
-###### Blacksmithing {data-scc="mcdm.heroes.v1/skill/blacksmithing"}
+###### Blacksmithing {data-scc="mcdm.heroes.v1/skill.crafting/blacksmithing"}
 
 Forge metal armor and weapons.
 
-###### Carpentry {data-scc="mcdm.heroes.v1/skill/carpentry"}
+###### Carpentry {data-scc="mcdm.heroes.v1/skill.crafting/carpentry"}
 
 Create items out of wood.
 
-###### Cooking {data-scc="mcdm.heroes.v1/skill/cooking"}
+###### Cooking {data-scc="mcdm.heroes.v1/skill.crafting/cooking"}
 
 Create delicious dishes.
 
-###### Fletching {data-scc="mcdm.heroes.v1/skill/fletching"}
+###### Fletching {data-scc="mcdm.heroes.v1/skill.crafting/fletching"}
 
 Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition.
 
-###### Forgery {data-scc="mcdm.heroes.v1/skill/forgery"}
+###### Forgery {data-scc="mcdm.heroes.v1/skill.crafting/forgery"}
 
 Create false badges, documents, and other items.
 
-###### Jewelry {data-scc="mcdm.heroes.v1/skill/jewelry"}
+###### Jewelry {data-scc="mcdm.heroes.v1/skill.crafting/jewelry"}
 
 Create bracelets, crowns, rings, and other jewelry.
 
-###### Mechanics {data-scc="mcdm.heroes.v1/skill/mechanics"}
+###### Mechanics {data-scc="mcdm.heroes.v1/skill.crafting/mechanics"}
 
 Build machines and clockwork items.
 
-###### Tailoring {data-scc="mcdm.heroes.v1/skill/tailoring"}
+###### Tailoring {data-scc="mcdm.heroes.v1/skill.crafting/tailoring"}
 
 Craft clothing of cloth or leather.
 
-##### Exploration Skills
+##### Exploration Skills {data-scc="mcdm.heroes.v1/skill.exploration/exploration"}
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
@@ -383,49 +383,49 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with exploration s
 | Ride       | Ride and control a nonsapient mount, such as a horse            |
 | Swim       | Move through deep liquid                                        |
 
-###### Climb {data-scc="mcdm.heroes.v1/skill/climb"}
+###### Climb {data-scc="mcdm.heroes.v1/skill.exploration/climb"}
 
 Move up vertical surfaces.
 
-###### Drive {data-scc="mcdm.heroes.v1/skill/drive"}
+###### Drive {data-scc="mcdm.heroes.v1/skill.exploration/drive"}
 
 Control vehicles.
 
-###### Endurance {data-scc="mcdm.heroes.v1/skill/endurance"}
+###### Endurance {data-scc="mcdm.heroes.v1/skill.exploration/endurance"}
 
 Remain engaged in strenuous activity over a long period of time.
 
-###### Gymnastics {data-scc="mcdm.heroes.v1/skill/gymnastics"}
+###### Gymnastics {data-scc="mcdm.heroes.v1/skill.exploration/gymnastics"}
 
 Move across unsteady or narrow surfaces; tumble.
 
-###### Heal {data-scc="mcdm.heroes.v1/skill/heal"}
+###### Heal {data-scc="mcdm.heroes.v1/skill.exploration/heal"}
 
 Use mundane first aid.
 
-###### Jump {data-scc="mcdm.heroes.v1/skill/jump"}
+###### Jump {data-scc="mcdm.heroes.v1/skill.exploration/jump"}
 
 Leap vertical and horizontal [distances](../../Browse/rule/combat/distance.md).
 
-###### Lift {data-scc="mcdm.heroes.v1/skill/lift"}
+###### Lift {data-scc="mcdm.heroes.v1/skill.exploration/lift"}
 
 Pick up, carry, and throw heavy objects.
 
-###### Navigate {data-scc="mcdm.heroes.v1/skill/navigate"}
+###### Navigate {data-scc="mcdm.heroes.v1/skill.exploration/navigate"}
 
 Read a map and travel without becoming lost.
 
-###### Ride {data-scc="mcdm.heroes.v1/skill/ride"}
+###### Ride {data-scc="mcdm.heroes.v1/skill.exploration/ride"}
 
 Ride and control a nonsapient mount, such as a horse.
 
-###### Swim {data-scc="mcdm.heroes.v1/skill/swim"}
+###### Swim {data-scc="mcdm.heroes.v1/skill.exploration/swim"}
 
 Move through deep liquid.
 
-##### Interpersonal Skills
+##### Interpersonal Skills {data-scc="mcdm.heroes.v1/skill.interpersonal/interpersonal"}
 
-Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11: [Negotiation](negotiation.md)). Aside from the [Handle Animals](../../Browse/skill/handle-animals.md) skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11: [Negotiation](negotiation.md)). Aside from the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
 
 Rewards for [tests](../../Browse/rule/test/test.md) made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
 
@@ -449,59 +449,59 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with interpersonal
 | Persuade       | Convince someone to agree with you through use of your charms and grace |
 | Read Person    | Read the emotions and body language of other creatures                  |
 
-###### Brag {data-scc="mcdm.heroes.v1/skill/brag"}
+###### Brag {data-scc="mcdm.heroes.v1/skill.interpersonal/brag"}
 
 Impress others with stories of your deeds.
 
-###### Empathize {data-scc="mcdm.heroes.v1/skill/empathize"}
+###### Empathize {data-scc="mcdm.heroes.v1/skill.interpersonal/empathize"}
 
 Relate to someone on a personal level.
 
-###### Flirt {data-scc="mcdm.heroes.v1/skill/flirt"}
+###### Flirt {data-scc="mcdm.heroes.v1/skill.interpersonal/flirt"}
 
 Attract romantic attention from someone.
 
-###### Gamble {data-scc="mcdm.heroes.v1/skill/gamble"}
+###### Gamble {data-scc="mcdm.heroes.v1/skill.interpersonal/gamble"}
 
 Make bets with others.
 
-###### Handle Animals {data-scc="mcdm.heroes.v1/skill/handle-animals"}
+###### Handle Animals {data-scc="mcdm.heroes.v1/skill.interpersonal/handle-animals"}
 
 Interact with nonsapient animal wildlife.
 
-###### Interrogate {data-scc="mcdm.heroes.v1/skill/interrogate"}
+###### Interrogate {data-scc="mcdm.heroes.v1/skill.interpersonal/interrogate"}
 
 Obtain information from a creature withholding it.
 
-###### Intimidate {data-scc="mcdm.heroes.v1/skill/intimidate"}
+###### Intimidate {data-scc="mcdm.heroes.v1/skill.interpersonal/intimidate"}
 
 Awe or scare a creature.
 
-###### Lead {data-scc="mcdm.heroes.v1/skill/lead"}
+###### Lead {data-scc="mcdm.heroes.v1/skill.interpersonal/lead"}
 
 Inspire people to action.
 
-###### Lie {data-scc="mcdm.heroes.v1/skill/lie"}
+###### Lie {data-scc="mcdm.heroes.v1/skill.interpersonal/lie"}
 
 Convince someone that a falsehood is true.
 
-###### Music {data-scc="mcdm.heroes.v1/skill/music"}
+###### Music {data-scc="mcdm.heroes.v1/skill.interpersonal/music"}
 
 Perform music vocally or with an instrument.
 
-###### Perform {data-scc="mcdm.heroes.v1/skill/perform"}
+###### Perform {data-scc="mcdm.heroes.v1/skill.interpersonal/perform"}
 
 Engage in dance, oratory, acting, or some other physical performance.
 
-###### Persuade {data-scc="mcdm.heroes.v1/skill/persuade"}
+###### Persuade {data-scc="mcdm.heroes.v1/skill.interpersonal/persuade"}
 
 Convince someone to agree with you through use of your charms and grace.
 
-###### Read Person {data-scc="mcdm.heroes.v1/skill/read-person"}
+###### Read Person {data-scc="mcdm.heroes.v1/skill.interpersonal/read-person"}
 
 Read the emotions and body language of other creatures.
 
-##### Intrigue Skills
+##### Intrigue Skills {data-scc="mcdm.heroes.v1/skill.intrigue/intrigue"}
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
 
@@ -526,55 +526,55 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with intrigue skil
 | Sneak          | Move silently                                                                                      |
 | Track          | Follow a trail that another creature has left behind                                               |
 
-###### Alertness {data-scc="mcdm.heroes.v1/skill/alertness"}
+###### Alertness {data-scc="mcdm.heroes.v1/skill.intrigue/alertness"}
 
 Intuitively sense the details of your surroundings.
 
-###### Conceal Object {data-scc="mcdm.heroes.v1/skill/conceal-object"}
+###### Conceal Object {data-scc="mcdm.heroes.v1/skill.intrigue/conceal-object"}
 
 Hide an object on your person or in your environment.
 
-###### Disguise {data-scc="mcdm.heroes.v1/skill/disguise"}
+###### Disguise {data-scc="mcdm.heroes.v1/skill.intrigue/disguise"}
 
 Change your appearance to look like a different person.
 
-###### Eavesdrop {data-scc="mcdm.heroes.v1/skill/eavesdrop"}
+###### Eavesdrop {data-scc="mcdm.heroes.v1/skill.intrigue/eavesdrop"}
 
 Actively listen to something that is hard to hear, such as a whispered conversation through a door.
 
-###### Escape Artist {data-scc="mcdm.heroes.v1/skill/escape-artist"}
+###### Escape Artist {data-scc="mcdm.heroes.v1/skill.intrigue/escape-artist"}
 
 Escape from bonds such as rope or manacles.
 
-###### Hide {data-scc="mcdm.heroes.v1/skill/hide"}
+###### Hide {data-scc="mcdm.heroes.v1/skill.intrigue/hide"}
 
 Conceal yourself from others' observation.
 
-###### Pick Lock {data-scc="mcdm.heroes.v1/skill/pick-lock"}
+###### Pick Lock {data-scc="mcdm.heroes.v1/skill.intrigue/pick-lock"}
 
 Open a lock without using the key.
 
-###### Pick Pocket {data-scc="mcdm.heroes.v1/skill/pick-pocket"}
+###### Pick Pocket {data-scc="mcdm.heroes.v1/skill.intrigue/pick-pocket"}
 
 Steal an item that another person wears or carries without them noticing.
 
-###### Sabotage {data-scc="mcdm.heroes.v1/skill/sabotage"}
+###### Sabotage {data-scc="mcdm.heroes.v1/skill.intrigue/sabotage"}
 
 Disable a mechanical device such as a trap.
 
-###### Search {data-scc="mcdm.heroes.v1/skill/search"}
+###### Search {data-scc="mcdm.heroes.v1/skill.intrigue/search"}
 
 Actively search an environment for important details and items.
 
-###### Sneak {data-scc="mcdm.heroes.v1/skill/sneak"}
+###### Sneak {data-scc="mcdm.heroes.v1/skill.intrigue/sneak"}
 
 Move silently.
 
-###### Track {data-scc="mcdm.heroes.v1/skill/track"}
+###### Track {data-scc="mcdm.heroes.v1/skill.intrigue/track"}
 
 Follow a trail that another creature has left behind.
 
-##### Lore Skills
+##### Lore Skills {data-scc="mcdm.heroes.v1/skill.lore/lore"}
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
@@ -599,51 +599,51 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with lore skills t
 | Strategy            | Knowing about battle tactics and logistics                                                 |
 | Timescape           | Knowing about the many worlds of the timescape                                             |
 
-###### Criminal Underworld {data-scc="mcdm.heroes.v1/skill/criminal-underworld"}
+###### Criminal Underworld {data-scc="mcdm.heroes.v1/skill.lore/criminal-underworld"}
 
 Knowing about criminal organizations, their crimes, their relationships, and their leaders.
 
-###### Culture {data-scc="mcdm.heroes.v1/skill/culture"}
+###### Culture {data-scc="mcdm.heroes.v1/skill.lore/culture"}
 
 Knowing about a culture's customs, folktales, and taboos.
 
-###### History {data-scc="mcdm.heroes.v1/skill/history"}
+###### History {data-scc="mcdm.heroes.v1/skill.lore/history"}
 
 Knowing about significant past events.
 
-###### Magic {data-scc="mcdm.heroes.v1/skill/magic"}
+###### Magic {data-scc="mcdm.heroes.v1/skill.lore/magic"}
 
 Knowing about magical places, spells, rituals, items, and phenomena.
 
-###### Monsters {data-scc="mcdm.heroes.v1/skill/monsters"}
+###### Monsters {data-scc="mcdm.heroes.v1/skill.lore/monsters"}
 
 Knowing monster ecology, strengths, and weaknesses.
 
-###### Nature {data-scc="mcdm.heroes.v1/skill/nature"}
+###### Nature {data-scc="mcdm.heroes.v1/skill.lore/nature"}
 
 Knowing about natural flora, fauna, and weather.
 
-###### Psionics {data-scc="mcdm.heroes.v1/skill/psionics"}
+###### Psionics {data-scc="mcdm.heroes.v1/skill.lore/psionics"}
 
 Knowing about psionic places, spells, rituals, items, and phenomena.
 
-###### Religion {data-scc="mcdm.heroes.v1/skill/religion"}
+###### Religion {data-scc="mcdm.heroes.v1/skill.lore/religion"}
 
 Knowing about religious mythology, practices, and rituals.
 
-###### Rumors {data-scc="mcdm.heroes.v1/skill/rumors"}
+###### Rumors {data-scc="mcdm.heroes.v1/skill.lore/rumors"}
 
 Knowing gossip, legends, and uncertain truths.
 
-###### Society {data-scc="mcdm.heroes.v1/skill/society"}
+###### Society {data-scc="mcdm.heroes.v1/skill.lore/society"}
 
 Knowing noble etiquette and the leadership and power dynamics of noble families.
 
-###### Strategy {data-scc="mcdm.heroes.v1/skill/strategy"}
+###### Strategy {data-scc="mcdm.heroes.v1/skill.lore/strategy"}
 
 Knowing about battle tactics and logistics.
 
-###### Timescape {data-scc="mcdm.heroes.v1/skill/timescape"}
+###### Timescape {data-scc="mcdm.heroes.v1/skill.lore/timescape"}
 
 Knowing about the many worlds of the timescape.
 
@@ -666,7 +666,7 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The [test](../../Browse/rule/test/test.md)'s difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a [tactician](../../Browse/class/tactician.md)):** *Let me go first. I've got good [Might](../../Browse/rule/character/might.md) and can throw the others down a rope once I'm up there. And I've got the [Climb](../../Browse/skill/climb.md) skill.*
+**Alyssa (playing Jorn, a [tactician](../../Browse/class/tactician.md)):** *Let me go first. I've got good [Might](../../Browse/rule/character/might.md) and can throw the others down a rope once I'm up there. And I've got the [Climb](../../Browse/skill/exploration/climb.md) skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
@@ -736,7 +736,7 @@ When you attempt to assist another creature, make a [test](../../Browse/rule/tes
 - **12-16:** Your help grants the other creature an [edge](../../Browse/rule/dice/edge.md) on their [test](../../Browse/rule/test/test.md).
 - **17+:** Your help gives the other creature a double [edge](../../Browse/rule/dice/edge.md) on their [test](../../Browse/rule/test/test.md).
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using Flirt. The outcome of that [test](../../Browse/rule/test/test.md) determines the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/interpersonal/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using Flirt. The outcome of that [test](../../Browse/rule/test/test.md) determines the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -746,7 +746,7 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 To hide from a creature, you must have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from that creature (see Chapter 10: [Combat](combat.md)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
-When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver to hide during combat while you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a [test](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/hide.md) skill to determine how well hidden you are.
+When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver to hide during combat while you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a [test](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/intrigue/hide.md) skill to determine how well hidden you are.
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
@@ -758,7 +758,7 @@ You are no longer hidden from a creature if you don't have [cover](../../Browse/
 
 ##### Searching for Hidden Creatures
 
-You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to them. To do so, you use a maneuver to make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/hide.md) skill (see [Opposed Power Rolls](../../Browse/rule/dice/opposed-power-roll.md) earlier in this chapter). At the Director's discretion, different [characteristics](../../Browse/rule/character/characteristic.md) and skills can be used in this opposed [test](../../Browse/rule/test/test.md). For example, your foe might make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Handle Animals](../../Browse/skill/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
+You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to them. To do so, you use a maneuver to make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/intrigue/hide.md) skill (see [Opposed Power Rolls](../../Browse/rule/dice/opposed-power-roll.md) earlier in this chapter). At the Director's discretion, different [characteristics](../../Browse/rule/character/characteristic.md) and skills can be used in this opposed [test](../../Browse/rule/test/test.md). For example, your foe might make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
 
 If the total of your [test](../../Browse/rule/test/test.md) is higher than that of a hidden creature, they are no longer hidden from you. Otherwise, they remain hidden from you. As part of the maneuver used to search for hidden creatures, you can point out any creatures you notice to allies within 10 squares of you, making those creatures no longer hidden from those allies.
 
@@ -901,7 +901,7 @@ When the [test](../../Browse/rule/test/test.md) begins, the Director sets the sc
 
 Urdoncara, a [fury](../../Browse/class/fury.md), starts things off by asking to make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy [test](../../Browse/rule/test/test.md). Urdoncara makes the [test](../../Browse/rule/test/test.md) and gets a total of 12, earning 1 success for the [montage test](../../Browse/rule/test/montage-test.md).
 
-Jorn, a [tactician](../../Browse/class/tactician.md), wants to make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the [Climb](../../Browse/skill/climb.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the [test](../../Browse/rule/test/test.md) and fails with a consequence, which the Director decides will cause him to take a [bane](../../Browse/rule/dice/bane.md) on his next [power roll](../../Browse/rule/dice/power-roll.md) due to the exertion. The [montage test](../../Browse/rule/test/montage-test.md) has 1 success and 1 failure.
+Jorn, a [tactician](../../Browse/class/tactician.md), wants to make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the [Climb](../../Browse/skill/exploration/climb.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the [test](../../Browse/rule/test/test.md) and fails with a consequence, which the Director decides will cause him to take a [bane](../../Browse/rule/dice/bane.md) on his next [power roll](../../Browse/rule/dice/power-roll.md) due to the exertion. The [montage test](../../Browse/rule/test/montage-test.md) has 1 success and 1 failure.
 
 Karrel, an [elementalist](../../Browse/class/elementalist.md), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md). Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the [montage test](../../Browse/rule/test/montage-test.md).
 
@@ -915,7 +915,7 @@ Before the next [montage test](../../Browse/rule/test/montage-test.md) round, th
 
 Urdoncara wants to make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the [test](../../Browse/rule/test/test.md) thanks to the [edge](../../Browse/rule/dice/edge.md) from Val's earlier success. The [montage test](../../Browse/rule/test/montage-test.md) has 4 successes and 1 failure.
 
-Jorn, eager to prove himself after his last failure, asks to make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the [Lead](../../Browse/skill/lead.md) skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the [Lead](../../Browse/skill/lead.md) skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](../../Browse/class/tactician.md) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the [test](../../Browse/rule/test/test.md) at medium difficulty. Making the [test](../../Browse/rule/test/test.md) with a [bane](../../Browse/rule/dice/bane.md) because of his previous failure, the [tactician](../../Browse/class/tactician.md) rolls a 15, which is a success with a consequence. The [montage test](../../Browse/rule/test/montage-test.md) has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
+Jorn, eager to prove himself after his last failure, asks to make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the [Lead](../../Browse/skill/interpersonal/lead.md) skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the [Lead](../../Browse/skill/interpersonal/lead.md) skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](../../Browse/class/tactician.md) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the [test](../../Browse/rule/test/test.md) at medium difficulty. Making the [test](../../Browse/rule/test/test.md) with a [bane](../../Browse/rule/dice/bane.md) because of his previous failure, the [tactician](../../Browse/class/tactician.md) rolls a 15, which is a success with a consequence. The [montage test](../../Browse/rule/test/montage-test.md) has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
 
 Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) to assist and gets a 16, granting Val an [edge](../../Browse/rule/dice/edge.md) on her upcoming [test](../../Browse/rule/test/test.md).
 

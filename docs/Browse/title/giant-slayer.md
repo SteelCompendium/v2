@@ -35,4 +35,4 @@ type: title
 >
 > **Special:** If the target is [size](../rule/character/size.md) 2 or larger, you gain an [edge](../rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../skill/exploration/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Climb](../skill/exploration/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stay on the creature.

@@ -130,7 +130,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> or <a href="../../../../skill/hide/">Hide</a> maneuver.</li><li><b>Prayer Effect:</b> You <a href="../../../../movement/forced-movement/">slide</a> one creature within 10 squares of you up to a number of squares equal to 5 + your <a href="../../../../class/conduit/">conduit</a> level.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> or <a href="../../../../skill/intrigue/hide/">Hide</a> maneuver.</li><li><b>Prayer Effect:</b> You <a href="../../../../movement/forced-movement/">slide</a> one creature within 10 squares of you up to a number of squares equal to 5 + your <a href="../../../../class/conduit/">conduit</a> level.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

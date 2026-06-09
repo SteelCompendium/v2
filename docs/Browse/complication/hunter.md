@@ -15,9 +15,9 @@ You are hunting someone or something—perhaps a wanted criminal, a person who w
 
 **Benefit:** Choose one skill from the following:
 
-- [Interrogate](../skill/interrogate.md) (from the interpersonal skill group)
-- Alertness, Eavesdrop, Search, or Track (from the intrigue skill group)
-- Criminal Underworld, Rumors, or Society (from the lore skill group)
+- [Interrogate](../skill/interpersonal/interrogate.md) (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md))
+- Alertness, Eavesdrop, Search, or Track (from the [intrigue skill group](../skill/intrigue/intrigue.md))
+- Criminal Underworld, Rumors, or Society (from the [lore skill group](../skill/lore/lore.md))
 
 You have that skill, and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to find or learn clues about your quarry.
 

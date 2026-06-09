@@ -15,4 +15,4 @@ Living among a small population, most folks in a [rural](rural.md) community lea
 
 gets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.
 
-**Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../skill/nature.md).)
+**Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../skill/lore/nature.md).)

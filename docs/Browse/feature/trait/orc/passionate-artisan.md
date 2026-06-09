@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a <a href="../../../../rule/downtime/project-roll/">project roll</a> for a <a href="../../../../rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>
+<p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the <a href="../../../../skill/crafting/crafting/">crafting skill group</a>, whether you have those skills or not. Whenever you make a <a href="../../../../rule/downtime/project-roll/">project roll</a> for a <a href="../../../../rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>
 </div>
 </section>

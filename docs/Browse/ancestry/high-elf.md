@@ -86,7 +86,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
 
-A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) using the [Flirt](../skill/flirt.md) or [Persuade](../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) using the [Flirt](../skill/interpersonal/flirt.md) or [Persuade](../skill/interpersonal/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
 ### Purchased High Elf Traits
 

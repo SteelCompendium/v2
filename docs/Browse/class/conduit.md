@@ -3,7 +3,7 @@ flavor: The power of the gods flows through you! As a vessel for divine power, y
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)'
 type: class
 ---
 
@@ -40,7 +40,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/read-person.md), Religion.)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)
 
 ##### Conduit Advancement Table
 
@@ -147,7 +147,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ##### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/hide.md) maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/intrigue/hide.md) maneuver.
 - **Prayer Effect:** You [slide](../movement/forced-movement.md) one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ##### War Domain Piety and Effect
@@ -157,7 +157,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/heal.md) skill from the Life domain.)
+Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/exploration/heal.md) skill from the Life domain.)
 
 ##### 1st-Level Conduit Domain Features Table
 
@@ -192,9 +192,9 @@ Each time you finish a [respite](../rule/resource/respite.md), you can decide th
 
 **Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Search or Navigate skills.
 
-**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/endurance.md) skill.
+**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/exploration/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/track.md) skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/intrigue/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -249,7 +249,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose yo
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the intrigue skill group, you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/intrigue.md), you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
 
 #### Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 
@@ -982,7 +982,7 @@ You have the following ability.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/intrigue/hide.md) or [sneak](../skill/intrigue/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 ##### Impervious Touch
 
@@ -1362,7 +1362,7 @@ Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healin
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/lore.md) before you gained this feature.
 
 #### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.conduit.level-7/light-of-the-burning-sun"}
 

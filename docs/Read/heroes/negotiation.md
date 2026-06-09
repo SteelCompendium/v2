@@ -21,11 +21,11 @@ Negotiation is a framework for important roleplaying encounters in which the her
 
 In order for a negotiation to occur, an [NPC](../../Browse/rule/general/npc.md) must have an [interest](../../Browse/rule/negotiation/interest.md) in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an [NPC](../../Browse/rule/general/npc.md) has that internal tension between [interest](../../Browse/rule/negotiation/interest.md) and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
-Heroes aren't expected to use the negotiation rules every time one character tries to convince an [NPC](../../Browse/rule/general/npc.md) to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Lie](../../Browse/skill/lie.md) skill or a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using [Intimidate](../../Browse/skill/intimidate.md) is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Flirt](../../Browse/skill/flirt.md) skill.
+Heroes aren't expected to use the negotiation rules every time one character tries to convince an [NPC](../../Browse/rule/general/npc.md) to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Lie](../../Browse/skill/interpersonal/lie.md) skill or a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using [Intimidate](../../Browse/skill/interpersonal/intimidate.md) is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Flirt](../../Browse/skill/interpersonal/flirt.md) skill.
 
 By contrast, negotiations typically involve all the heroes interacting with one or more important named [NPCs](../../Browse/rule/general/npc.md) who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a [retainer](../../Browse/rule/general/retainer.md) or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary *Codex Mortis*, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
 
-To negotiate successfully, the heroes must make persuasive arguments to convince [NPCs](../../Browse/rule/general/npc.md) to do what they want. "Do it or we kill you" is a threat that might well accompany a single [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/intimidate.md) skill, but it's not a negotiating tactic.
+To negotiate successfully, the heroes must make persuasive arguments to convince [NPCs](../../Browse/rule/general/npc.md) to do what they want. "Do it or we kill you" is a threat that might well accompany a single [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill, but it's not a negotiating tactic.
 
 #### Limits of Negotiation
 
@@ -278,7 +278,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 #### Appeal to Motivation
 
-If an argument doesn't include a [pitfall](../../Browse/rule/negotiation/pitfall.md) and appeals to one of the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) that hasn't already been appealed to, the hero making the argument can make an medium [test](../../Browse/rule/test/test.md) to attempt to sway the [NPC](../../Browse/rule/general/npc.md) with the argument. Depending on the argument, this can be a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using any applicable skill—most commonly a skill from the interpersonal skill group. The [test](../../Browse/rule/test/test.md) has the following outcomes:
+If an argument doesn't include a [pitfall](../../Browse/rule/negotiation/pitfall.md) and appeals to one of the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) that hasn't already been appealed to, the hero making the argument can make an medium [test](../../Browse/rule/test/test.md) to attempt to sway the [NPC](../../Browse/rule/general/npc.md) with the argument. Depending on the argument, this can be a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using any applicable skill—most commonly a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md). The [test](../../Browse/rule/test/test.md) has the following outcomes:
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
@@ -314,7 +314,7 @@ If a hero lies to an [NPC](../../Browse/rule/general/npc.md) with an argument th
 
 > **Everyone Can Participate**
 >
-> Since [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest [Presence](../../Browse/rule/character/presence.md) who has the [Persuade](../../Browse/skill/persuade.md) skill doesn't automatically have to be the one who makes all the [tests](../../Browse/rule/test/test.md).
+> Since [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest [Presence](../../Browse/rule/character/presence.md) who has the [Persuade](../../Browse/skill/interpersonal/persuade.md) skill doesn't automatically have to be the one who makes all the [tests](../../Browse/rule/test/test.md).
 
 #### Pitfall Used
 
@@ -351,7 +351,7 @@ If a hero has enough [Renown](../../Browse/rule/resource/renown.md) for their sc
 
 ##### Influencing Tests
 
-If a hero is famous to an [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied. If they are infamous to the [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Brag](../../Browse/skill/brag.md), [Interrogate](../../Browse/skill/interrogate.md), or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied. A hero gains this [edge](../../Browse/rule/dice/edge.md) even if they don't have the appropriate skill.
+If a hero is famous to an [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Flirt](../../Browse/skill/interpersonal/flirt.md), Lead, or [Persuade](../../Browse/skill/interpersonal/persuade.md) skill could be applied. If they are infamous to the [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Brag](../../Browse/skill/interpersonal/brag.md), [Interrogate](../../Browse/skill/interpersonal/interrogate.md), or [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill could be applied. A hero gains this [edge](../../Browse/rule/dice/edge.md) even if they don't have the appropriate skill.
 
 ### NPC Response and Offer
 
@@ -543,7 +543,7 @@ Korvo's success has revealed Zola's benevolence [motivation](../../Browse/rule/n
 
 **Director:** *You're appealing to one of her [motivations](../../Browse/rule/negotiation/motivation.md), so make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md).*
 
-**Alyssa:** *Can I use my [Persuade](../../Browse/skill/persuade.md) skill too?*
+**Alyssa:** *Can I use my [Persuade](../../Browse/skill/interpersonal/persuade.md) skill too?*
 
 **Director:** *Absolutely. And you gain an [edge](../../Browse/rule/dice/edge.md) because you're famous to her.*
 

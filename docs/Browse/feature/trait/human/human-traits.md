@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your <a href="../../../../rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
+<p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/exploration/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your <a href="../../../../rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

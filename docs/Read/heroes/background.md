@@ -92,7 +92,7 @@ When you build a culture, select its environment aspect from the following optio
 
 A [nomadic](../../Browse/culture/nomadic.md) culture travels from place to place to survive. Members of a [nomadic](../../Browse/culture/nomadic.md) culture might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in [nomadic](../../Browse/culture/nomadic.md) cultures learn to navigate the wilderness and work closely with others to survive.
 
-**Skill Options:** One skill from the exploration or interpersonal skill groups. (*Quick Build:* [Navigate](../../Browse/skill/navigate.md).)
+**Skill Options:** One skill from the exploration or interpersonal skill groups. (*Quick Build:* [Navigate](../../Browse/skill/exploration/navigate.md).)
 
 ##### Rural {data-scc="mcdm.heroes.v1/culture/rural"}
 
@@ -102,7 +102,7 @@ Living among a small population, most folks in a [rural](../../Browse/culture/ru
 
 gets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.
 
-**Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../../Browse/skill/nature.md).)
+**Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../../Browse/skill/lore/nature.md).)
 
 ##### Secluded {data-scc="mcdm.heroes.v1/culture/secluded"}
 
@@ -110,19 +110,19 @@ A [secluded](../../Browse/culture/secluded.md) culture is based in one relativel
 
 When people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.
 
-**Skill Options:** One skill from the interpersonal or lore skill groups. (*Quick Build:* [Read Person](../../Browse/skill/read-person.md).)
+**Skill Options:** One skill from the interpersonal or lore skill groups. (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md).)
 
 ##### Urban {data-scc="mcdm.heroes.v1/culture/urban"}
 
 An [urban](../../Browse/culture/urban.md) culture is always centered in a city. Such a culture might arise within the walls of [Capital](../../Browse/rule/world/capital.md), a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of [urban](../../Browse/culture/urban.md) cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
-**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Alertness](../../Browse/skill/alertness.md).)
+**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Alertness](../../Browse/skill/intrigue/alertness.md).)
 
 ##### Wilderness {data-scc="mcdm.heroes.v1/culture/wilderness"}
 
 A [wilderness](../../Browse/culture/wilderness.md) culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of [orc](../../Browse/ancestry/orc.md) mercenaries who call the trackless mountains home. People in a [wilderness](../../Browse/culture/wilderness.md) culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Endurance](../../Browse/skill/endurance.md).)
+**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Endurance](../../Browse/skill/exploration/endurance.md).)
 
 #### Organization
 
@@ -138,7 +138,7 @@ have one person at the top, though others might be ruled by a council. A trade g
 
 Those who thrive in [bureaucratic](../../Browse/culture/bureaucratic.md) cultures don't simply follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a [bureaucratic](../../Browse/culture/bureaucratic.md) culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
-**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../../Browse/skill/persuade.md).)
+**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../../Browse/skill/interpersonal/persuade.md).)
 
 ##### Communal {data-scc="mcdm.heroes.v1/culture/communal"}
 
@@ -146,7 +146,7 @@ A [communal](../../Browse/culture/communal.md) culture is a place where all memb
 
 Many [communal](../../Browse/culture/communal.md) cultures operate outside settled lands, sticking to the wilds, a specific district in a larger settlement, city sewers, forgotten ruins, or other isolated places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in [communal](../../Browse/culture/communal.md) cultures focus on fending for themselves while avoiding the danger that other groups can represent.
 
-**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Jump](../../Browse/skill/jump.md).)
+**Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* [Jump](../../Browse/skill/exploration/jump.md).)
 
 #### Upbringing
 
@@ -158,37 +158,37 @@ Pick your upbringing aspect from the following list: [academic](../../Browse/cul
 
 Your hero was raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an [academic](../../Browse/culture/academic.md) culture learn how to wield the power that is knowledge.
 
-**Skill Options:** One skill from the lore skill group. (*Quick Build:* [History](../../Browse/skill/history.md).)
+**Skill Options:** One skill from the [lore skill group](../../Browse/skill/lore/lore.md). (*Quick Build:* [History](../../Browse/skill/lore/history.md).)
 
 ##### Creative {data-scc="mcdm.heroes.v1/culture/creative"}
 
 A hero with a [creative](../../Browse/culture/creative.md) upbringing was raised among folk who create art or other works valuable enough to trade. A [creative](../../Browse/culture/creative.md) culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
-**Skill Options:** The [Music](../../Browse/skill/music.md) or [Perform](../../Browse/skill/perform.md) skill (from the interpersonal skill group), or one skill from the crafting group. (*Quick Build:* [Perform](../../Browse/skill/perform.md).)
+**Skill Options:** The [Music](../../Browse/skill/interpersonal/music.md) or [Perform](../../Browse/skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)), or one skill from the crafting group. (*Quick Build:* [Perform](../../Browse/skill/interpersonal/perform.md).)
 
 ##### Labor {data-scc="mcdm.heroes.v1/culture/labor"}
 
 Your hero came of age in a culture where people labored for a living. They might have been cultivators, typically raising crops or livestock on a farm. They might have harvested natural resources, whether by hunting, trapping, logging, or mining. Or they might have excelled at manual [labor](../../Browse/culture/labor.md) tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a [labor](../../Browse/culture/labor.md) upbringing know the value of hard work.
 
-**Skill Options:** The [Blacksmithing](../../Browse/skill/blacksmithing.md) skill (from the crafting skill group), the [Handle Animals](../../Browse/skill/handle-animals.md) skill (from the interpersonal group), or a skill from the exploration group. (*Quick Build:* [Lift](../../Browse/skill/lift.md).)
+**Skill Options:** The [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md) skill (from the [crafting skill group](../../Browse/skill/crafting/crafting.md)), the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill (from the interpersonal group), or a skill from the exploration group. (*Quick Build:* [Lift](../../Browse/skill/exploration/lift.md).)
 
 ##### Lawless {data-scc="mcdm.heroes.v1/culture/lawless"}
 
 Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered [lawless](../../Browse/culture/lawless.md) in their actions and activities. People brought up in a [lawless](../../Browse/culture/lawless.md) culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 
-**Skill Options:** One skill from the intrigue skill group. (*Quick Build:* [Sneak](../../Browse/skill/sneak.md).)
+**Skill Options:** One skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md). (*Quick Build:* [Sneak](../../Browse/skill/intrigue/sneak.md).)
 
 ##### Martial {data-scc="mcdm.heroes.v1/culture/martial"}
 
 A hero with a [martial](../../Browse/culture/martial.md) upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a [martial](../../Browse/culture/martial.md) upbringing are always ready for a fight—and they know how to finish that fight.
 
-**Skill Options:** One of the following: [Blacksmithing](../../Browse/skill/blacksmithing.md) or [Fletching](../../Browse/skill/fletching.md) from the crafting skill group; [Climb](../../Browse/skill/climb.md), [Endurance](../../Browse/skill/endurance.md), or [Ride](../../Browse/skill/ride.md) from the exploration group; [Intimidate](../../Browse/skill/intimidate.md) from the interpersonal group; [Alertness](../../Browse/skill/alertness.md) or [Track](../../Browse/skill/track.md) from the intrigue group; or [Monsters](../../Browse/skill/monsters.md) or [Strategy](../../Browse/skill/strategy.md) from the lore skill group (*Quick Build:* [Intimidate](../../Browse/skill/intimidate.md).)
+**Skill Options:** One of the following: [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md) or [Fletching](../../Browse/skill/crafting/fletching.md) from the [crafting skill group](../../Browse/skill/crafting/crafting.md); [Climb](../../Browse/skill/exploration/climb.md), [Endurance](../../Browse/skill/exploration/endurance.md), or [Ride](../../Browse/skill/exploration/ride.md) from the exploration group; [Intimidate](../../Browse/skill/interpersonal/intimidate.md) from the interpersonal group; [Alertness](../../Browse/skill/intrigue/alertness.md) or [Track](../../Browse/skill/intrigue/track.md) from the intrigue group; or [Monsters](../../Browse/skill/lore/monsters.md) or [Strategy](../../Browse/skill/lore/strategy.md) from the [lore skill group](../../Browse/skill/lore/lore.md) (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md).)
 
 ##### Noble {data-scc="mcdm.heroes.v1/culture/noble"}
 
 Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are [noble](../../Browse/culture/noble.md)s by birthright, but some cultures have [noble](../../Browse/culture/noble.md) titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
-**Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* [Lead](../../Browse/skill/lead.md).)
+**Skill Options:** One skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md). (*Quick Build:* [Lead](../../Browse/skill/interpersonal/lead.md).)
 
 > **But I Really Want Alertness**
 >
@@ -367,7 +367,7 @@ You worked as a spy for a government or organization. In defining your career, t
 
 You gain the following career benefits:
 
-**Skills:** The [Sneak](../../Browse/skill/sneak.md) skill from the intrigue skill group, plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* [Disguise](../../Browse/skill/disguise.md), [Lie](../../Browse/skill/lie.md), [Sneak](../../Browse/skill/sneak.md).)
+**Skills:** The [Sneak](../../Browse/skill/intrigue/sneak.md) skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md), plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* [Disguise](../../Browse/skill/intrigue/disguise.md), [Lie](../../Browse/skill/interpersonal/lie.md), [Sneak](../../Browse/skill/intrigue/sneak.md).)
 
 **Languages:** Two languages
 
@@ -393,7 +393,7 @@ Career? Who needs a career when you're born into money! Or marry into it! Or con
 
 You gain the following career benefits:
 
-**Skills:** One skill from the interpersonal skill group and one skill from the lore group (*Quick Build:* [Brag](../../Browse/skill/brag.md), [Society](../../Browse/skill/society.md).)
+**Skills:** One skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) and one skill from the lore group (*Quick Build:* [Brag](../../Browse/skill/interpersonal/brag.md), [Society](../../Browse/skill/lore/society.md).)
 
 **Languages:** One language
 
@@ -423,7 +423,7 @@ You made and sold useful wares. In defining your career, think about the followi
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the crafting skill group (*Quick Build:* [Blacksmithing](../../Browse/skill/blacksmithing.md), [Carpentry](../../Browse/skill/carpentry.md).)
+**Skills:** Two skills from the [crafting skill group](../../Browse/skill/crafting/crafting.md) (*Quick Build:* [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md), [Carpentry](../../Browse/skill/crafting/carpentry.md).)
 
 **Languages:** One language
 
@@ -451,7 +451,7 @@ You lived by going to a tavern, crossroads, city street, or other busy area and 
 
 You gain the following career benefits:
 
-**Skills:** The [Rumors](../../Browse/skill/rumors.md) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../../Browse/skill/empathize.md), [Endurance](../../Browse/skill/endurance.md), [Rumors](../../Browse/skill/rumors.md).)
+**Skills:** The [Rumors](../../Browse/skill/lore/rumors.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../../Browse/skill/interpersonal/empathize.md), [Endurance](../../Browse/skill/exploration/endurance.md), [Rumors](../../Browse/skill/lore/rumors.md).)
 
 **Languages:** Two languages
 
@@ -477,7 +477,7 @@ You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin
 
 You gain the following career benefits:
 
-**Skills:** The [Criminal Underworld](../../Browse/skill/criminal-underworld.md) skill (from the lore skill group), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](../../Browse/skill/criminal-underworld.md), Pick Lock, Pick Pocket.)
+**Skills:** The [Criminal Underworld](../../Browse/skill/lore/criminal-underworld.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](../../Browse/skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
 
 **Languages:** One language
 
@@ -505,7 +505,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 You gain the following career benefits:
 
-**Skills:** The [Religion](../../Browse/skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../../Browse/skill/culture.md), [Magic](../../Browse/skill/magic.md), [Religion](../../Browse/skill/religion.md).)
+**Skills:** The [Religion](../../Browse/skill/lore/religion.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two more skills from the lore group (*Quick Build:* [Culture](../../Browse/skill/lore/culture.md), [Magic](../../Browse/skill/lore/magic.md), [Religion](../../Browse/skill/lore/religion.md).)
 
 **[Project Points](../../Browse/rule/downtime/project-points.md):** 240
 
@@ -532,7 +532,7 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The [Navigate](../../Browse/skill/navigate.md) skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/climb.md), [Heal](../../Browse/skill/heal.md), [Navigate](../../Browse/skill/navigate.md).)
+**Skills:** The [Navigate](../../Browse/skill/exploration/navigate.md) skill (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/exploration/climb.md), [Heal](../../Browse/skill/exploration/heal.md), [Navigate](../../Browse/skill/exploration/navigate.md).)
 
 **Languages:** Two languages
 
@@ -558,7 +558,7 @@ You grew crops or cared for livestock. In defining your career, think about the 
 
 You gain the following career benefits:
 
-**Skills:** The [Handle Animals](../../Browse/skill/handle-animals.md) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](../../Browse/skill/drive.md), [Handle Animals](../../Browse/skill/handle-animals.md), [Lift](../../Browse/skill/lift.md).)
+**Skills:** The [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)), plus two skills from the exploration group (*Quick Build:* [Drive](../../Browse/skill/exploration/drive.md), [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md), [Lift](../../Browse/skill/exploration/lift.md).)
 
 **Languages:** One language
 
@@ -586,7 +586,7 @@ In the past, you entertained the masses with flashy displays of violence in the 
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../../Browse/skill/gymnastics.md), [Jump](../../Browse/skill/jump.md).)
+**Skills:** Two skills from the [exploration skill group](../../Browse/skill/exploration/exploration.md) (*Quick Build:*  [Gymnastics](../../Browse/skill/exploration/gymnastics.md), [Jump](../../Browse/skill/exploration/jump.md).)
 
 **Languages:** One language
 
@@ -614,7 +614,7 @@ You worked as a [farmer](../../Browse/career/farmer.md), builder, clothes washer
 
 You gain the following career benefits:
 
-**Skills:** The [Endurance](../../Browse/skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../../Browse/skill/blacksmithing.md), [Endurance](../../Browse/skill/endurance.md), [Lift](../../Browse/skill/lift.md).)
+**Skills:** The [Endurance](../../Browse/skill/exploration/endurance.md) skill (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md), [Endurance](../../Browse/skill/exploration/endurance.md), [Lift](../../Browse/skill/exploration/lift.md).)
 
 **Languages:** One language
 
@@ -642,7 +642,7 @@ For long years, you studied magic under the mentorship of a more experienced mag
 
 You gain the following career benefits:
 
-**Skills:** The [Magic](../../Browse/skill/magic.md) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](../../Browse/skill/magic.md), [Monsters](../../Browse/skill/monsters.md), [Timescape](../../Browse/skill/timescape.md).)
+**Skills:** The [Magic](../../Browse/skill/lore/magic.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two other skills from the lore group (*Quick Build:* [Magic](../../Browse/skill/lore/magic.md), [Monsters](../../Browse/skill/lore/monsters.md), [Timescape](../../Browse/skill/lore/timescape.md).)
 
 **Languages:** One language
 
@@ -670,7 +670,7 @@ You can sing, act, or dance well enough that people actually pay you to do it. I
 
 You gain the following career benefits:
 
-**Skills:** The [Music](../../Browse/skill/music.md) or [Perform](../../Browse/skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../../Browse/skill/flirt.md), [Music](../../Browse/skill/music.md), [Perform](../../Browse/skill/perform.md).)
+**Skills:** The [Music](../../Browse/skill/interpersonal/music.md) or [Perform](../../Browse/skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../../Browse/skill/interpersonal/flirt.md), [Music](../../Browse/skill/interpersonal/music.md), [Perform](../../Browse/skill/interpersonal/perform.md).)
 
 **[Renown](../../Browse/rule/resource/renown.md):** +2
 
@@ -696,7 +696,7 @@ You worked as a leader within a formal, bureaucratic organization or government.
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the interpersonal skill group (*Quick Build:* [Lead](../../Browse/skill/lead.md), [Lie](../../Browse/skill/lie.md).)
+**Skills:** Two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) (*Quick Build:* [Lead](../../Browse/skill/interpersonal/lead.md), [Lie](../../Browse/skill/interpersonal/lie.md).)
 
 **Languages:** One language
 
@@ -726,7 +726,7 @@ From an early age, you dedicated yourself to learning, whether you shared the kn
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the lore skill group (*Quick Build:* [History](../../Browse/skill/history.md), [Magic](../../Browse/skill/magic.md).)
+**Skills:** Two skills from the [lore skill group](../../Browse/skill/lore/lore.md) (*Quick Build:* [History](../../Browse/skill/lore/history.md), [Magic](../../Browse/skill/lore/magic.md).)
 
 **Languages:** One language
 
@@ -754,7 +754,7 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/climb.md), [Gymnastics](../../Browse/skill/gymnastics.md), [Swim](../../Browse/skill/swim.md).)
+**Skills:** Swim (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/exploration/climb.md), [Gymnastics](../../Browse/skill/exploration/gymnastics.md), [Swim](../../Browse/skill/exploration/swim.md).)
 
 **Languages:** Two languages
 
@@ -780,7 +780,7 @@ In your formative years, you fought tirelessly in skirmishes and campaigns again
 
 You gain the following career benefits:
 
-**Skills:** One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/alertness.md), [Endurance](../../Browse/skill/endurance.md).)
+**Skills:** One skill from the [exploration skill group](../../Browse/skill/exploration/exploration.md) and one skill from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/intrigue/alertness.md), [Endurance](../../Browse/skill/exploration/endurance.md).)
 
 **Languages:** Two languages
 
@@ -808,7 +808,7 @@ You protected a wild region from those who sought to harm it, such as poachers a
 
 You gain the following career benefits:
 
-**Skills:** Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](../../Browse/skill/nature.md), Navigate, Track.)
+**Skills:** Nature (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](../../Browse/skill/lore/nature.md), Navigate, Track.)
 
 **Languages:** One language
 
@@ -837,7 +837,7 @@ You served as an officer of the law for a local government. You might have been 
 
 You gain the following career benefits:
 
-**Skills:** Alertness (from the intrigue skill group), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/alertness.md), [Search](../../Browse/skill/search.md), Track.)
+**Skills:** Alertness (from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md)), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/intrigue/alertness.md), [Search](../../Browse/skill/intrigue/search.md), Track.)
 
 **Languages:** Two languages
 

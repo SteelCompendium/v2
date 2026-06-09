@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/hide.md) or [sneak](../../../../skill/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../../rule/dice/edge/">edge</a> on <a href="../../../../../rule/test/test/">tests</a> made to <a href="../../../../../skill/hide/">hide</a> or <a href="../../../../../skill/sneak/">sneak</a>. The <a href="../../../../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../../rule/dice/edge/">edge</a> on <a href="../../../../../rule/test/test/">tests</a> made to <a href="../../../../../skill/intrigue/hide/">hide</a> or <a href="../../../../../skill/intrigue/sneak/">sneak</a>. The <a href="../../../../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>

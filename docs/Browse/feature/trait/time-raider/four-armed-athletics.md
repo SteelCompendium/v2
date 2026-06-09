@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your unique physiology enhances your movement. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> that use the <a href="../../../../skill/climb/">Climb</a>, <a href="../../../../skill/gymnastics/">Gymnastics</a>, or <a href="../../../../skill/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
+<p>Your unique physiology enhances your movement. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> that use the <a href="../../../../skill/exploration/climb/">Climb</a>, <a href="../../../../skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../../../skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
 </div>
 </section>

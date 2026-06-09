@@ -5,7 +5,7 @@ name: Beggar
 perk: One interpersonal perk (*Quick Build:* [Spot the Tell](../perk/spot-the-tell.md).)
 scc: mcdm.heroes.v1/career/beggar
 skills:
-    - The [Rumors](../skill/rumors.md) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../skill/empathize.md), [Endurance](../skill/endurance.md), [Rumors](../skill/rumors.md).)
+    - The [Rumors](../skill/lore/rumors.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../skill/interpersonal/empathize.md), [Endurance](../skill/exploration/endurance.md), [Rumors](../skill/lore/rumors.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You lived by going to a tavern, crossroads, city street, or other busy area and 
 
 You gain the following career benefits:
 
-**Skills:** The [Rumors](../skill/rumors.md) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../skill/empathize.md), [Endurance](../skill/endurance.md), [Rumors](../skill/rumors.md).)
+**Skills:** The [Rumors](../skill/lore/rumors.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../skill/interpersonal/empathize.md), [Endurance](../skill/exploration/endurance.md), [Rumors](../skill/lore/rumors.md).)
 
 **Languages:** Two languages
 

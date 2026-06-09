@@ -49,7 +49,7 @@ When you attract a new [follower](../general/follower.md), you decide on their n
 
 Artisans are crafting experts who can contribute to your research and [crafting projects](../downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](../../../Read/heroes/downtime-projects.md)). An artisan can contribute one [project roll](../downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](respite.md), adventuring, or other activities. They must remain at your [stronghold](../../title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](../../../Read/heroes/tests.md)). An artisan has a [Might](../character/might.md) or [Agility](../character/agility.md) score of 1 (your choice), a [Reason](../character/reason.md) score of 1, and a 0 in all other [characteristics](../character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit an artisan, choose four skills from the [crafting skill group](../../skill/crafting/crafting.md) that they know (see Skills in Chapter 9: [Tests](../../../Read/heroes/tests.md)). An artisan has a [Might](../character/might.md) or [Agility](../character/agility.md) score of 1 (your choice), a [Reason](../character/reason.md) score of 1, and a 0 in all other [characteristics](../character/characteristic.md). They know Caelian and two other languages of your choice.
 
 #### Retainer {data-scc="mcdm.heroes.v1/rule.general/retainer"}
 
@@ -61,4 +61,4 @@ Rules for retainers are found in *Draw Steel: Monsters*.
 
 Sages are research experts who can contribute to your research and [crafting projects](../downtime/crafting-project.md). A sage can contribute one [project roll](../downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](respite.md), adventuring, or other activities. They must remain at your [stronghold](../../title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a [Reason](../character/reason.md) and [Intuition](../character/intuition.md) score of 1, and a 0 in all other [characteristics](../character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit a sage, choose four skills from the [lore skill group](../../skill/lore/lore.md) that they know. A sage has a [Reason](../character/reason.md) and [Intuition](../character/intuition.md) score of 1, and a 0 in all other [characteristics](../character/characteristic.md). They know Caelian and two other languages of your choice.

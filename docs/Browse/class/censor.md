@@ -3,7 +3,7 @@ flavor: Demons and deathless fear you. Criminals run from the sight of your shad
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)'
+    - 'Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)'
 type: class
 ---
 
@@ -43,7 +43,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **[Recoveries](../rule/health/recoveries.md):** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
+**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)
 
 ##### Censor Advancement Table
 
@@ -68,9 +68,9 @@ As a 1st-level [censor](censor.md), you gain the following features.
 
 [Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor order](../feature/censor/level-1/censor-order.md) from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
 
-- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../skill/read-person.md) skill.
-- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../skill/magic.md) skill.
-- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../skill/lead.md) skill.
+- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../skill/interpersonal/read-person.md) skill.
+- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../skill/lore/magic.md) skill.
+- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../skill/interpersonal/lead.md) skill.
 
 Your [censor order](../feature/censor/level-1/censor-order.md) is your [subclass](../rule/general/subclass.md), and your choice of order determines many of the features you'll gain as you gain new levels.
 
@@ -192,13 +192,13 @@ You can interpret diagrams and charts even if you don't understand the language 
 
 Each time you finish a [respite](../rule/resource/respite.md), you can decide the weather conditions within 100 squares. Until you finish another [respite](../rule/resource/respite.md), the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
 
-**Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Search](../skill/search.md) or [Navigate](../skill/navigate.md) skills.
+**Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Search](../skill/intrigue/search.md) or [Navigate](../skill/exploration/navigate.md) skills.
 
-**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Hide](../skill/hide.md) skill.
+**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Hide](../skill/intrigue/hide.md) skill.
 
-**Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/endurance.md) skill.
+**Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/exploration/endurance.md) skill.
 
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/track.md) skill.
+**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/intrigue/track.md) skill.
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
@@ -253,7 +253,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose yo
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the intrigue skill group, you can use [Presence](../rule/character/presence.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/intrigue.md), you can use [Presence](../rule/character/presence.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
 
 #### Oracular Visions {data-scc="mcdm.heroes.v1/feature.censor.level-1/oracular-visions"}
 
@@ -743,7 +743,7 @@ You have the following ability.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/hide.md) or [sneak](../skill/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/intrigue/hide.md) or [sneak](../skill/intrigue/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
 
 #### Impervious Touch {data-scc="mcdm.heroes.v1/feature.censor.level-4/impervious-touch"}
 
@@ -1056,7 +1056,7 @@ Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/lore.md) before you gained this feature.
 
 #### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.censor.level-7/light-of-the-burning-sun"}
 

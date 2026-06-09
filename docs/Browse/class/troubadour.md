@@ -3,7 +3,7 @@ flavor: The whole world's a stage, and everyone on it, an actor. No one knows th
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
-    - 'You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)'
+    - 'You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)'
 type: class
 ---
 
@@ -39,7 +39,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)
 
 ##### Troubadour Advancement Table
 
@@ -64,9 +64,9 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 
 Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
 
-- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/brag.md) skill.
-- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/gymnastics.md) skill.
-- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/music.md) skill and can play an instrument.
+- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/interpersonal/brag.md) skill.
+- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/exploration/gymnastics.md) skill.
+- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/interpersonal/music.md) skill and can play an instrument.
 
 Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your [subclass](../rule/general/subclass.md), and your choice of class act determines many of the features you'll gain as you gain new levels.
 
@@ -573,7 +573,7 @@ The Director determines when the target receives your notice. When the target re
 
 You can invoke your reputation at the start of a social interaction with one or more [NPCs](../rule/general/npc.md) who haven't met you before, automatically creating a bond with one of those [NPCs](../rule/general/npc.md) from that group as if using your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their [Renown](../rule/resource/renown.md) as 2 higher than usual for the purpose of entering into a negotiation with the bonded [NPC](../rule/general/npc.md).
 
-The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
+The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to interact with creatures in the group using skills from the [interpersonal skill group](../skill/interpersonal/interpersonal.md). You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 

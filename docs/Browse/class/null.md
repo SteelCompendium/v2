@@ -3,7 +3,7 @@ flavor: The mind is not separate from the body. Perfection of one requires perfe
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
-    - 'You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)'
+    - 'You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
 type: class
 ---
 
@@ -39,7 +39,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)
+**Skills:** You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)
 
 ##### Null Advancement Table
 
@@ -62,7 +62,7 @@ As a 1st-level [null](null.md), you gain the following features.
 
 ### Null Tradition {data-scc="mcdm.heroes.v1/feature.null.level-1/null-tradition"}
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../feature/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../skill/monsters.md) skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../feature/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../skill/lore/monsters.md) skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.

@@ -1103,7 +1103,7 @@ This section presents 3rd-[echelon](../../Browse/rule/general/echelon.md) [trink
 
 **Project Goal:** 450
 
-**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../../Browse/rule/combat/surprised.md). Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) that don't use the [Intimidate](../../Browse/skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
+**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../../Browse/rule/combat/surprised.md). Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) that don't use the [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 
@@ -1641,7 +1641,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) against an enemy of your [size](../../Browse/rule/character/size.md) or smaller, you can use [fancy footwork](../../Browse/feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../Browse/condition/prone.md). You also earn 1 [Renown](../../Browse/rule/resource/renown.md).
 
-**9th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) you make using a skill you have from the interpersonal skill group.
+**9th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) you make using a skill you have from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md).
 
 ##### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 
@@ -2115,7 +2115,7 @@ Titles suitable for 1st-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/intimidate.md) skill and don't make an argument that appeals to an [NPC](../../Browse/rule/general/npc.md)'s motivation, you don't lower the [NPC](../../Browse/rule/general/npc.md)'s patience or interest no matter the outcome of the roll.
+- *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill and don't make an argument that appeals to an [NPC](../../Browse/rule/general/npc.md)'s motivation, you don't lower the [NPC](../../Browse/rule/general/npc.md)'s patience or interest no matter the outcome of the roll.
 - *Truce!:* You have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to stop combat and start a negotiation.
 - *Warriors' Understanding:* You gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to interact with creatures you have fought against in combat encounters.
 
@@ -2478,9 +2478,9 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:
 
-- *Gift of Charm:* You have a skill of your choice from the interpersonal skill group.
+- *Gift of Charm:* You have a skill of your choice from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md).
 - *Gift of Foresight:* When resisting [potencies](../../Browse/rule/character/potency.md), your [Intuition](../../Browse/rule/character/intuition.md) score is considered to be 1 higher than usual.
-- *Gift of Knowledge:* You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) you make that use any skill from the lore skill group.
+- *Gift of Knowledge:* You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) you make that use any skill from the [lore skill group](../../Browse/skill/lore/lore.md).
 
 #### Giant Slayer {data-scc="mcdm.heroes.v1/title/giant-slayer"}
 
@@ -2508,7 +2508,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > **Special:** If the target is [size](../../Browse/rule/character/size.md) 2 or larger, you gain an [edge](../../Browse/rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../../Browse/skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the [Climb](../../Browse/skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against you and you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../../Browse/skill/exploration/climb.md) skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the [Climb](../../Browse/skill/exploration/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against you and you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to stay on the creature.
 
 #### Godsworn {data-scc="mcdm.heroes.v1/title/godsworn"}
 
@@ -2588,7 +2588,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 - *Arcane Improvisation:* When you use a damage-dealing magic [signature ability](../../Browse/rule/combat/signature-ability.md), you can change its [damage type](../../Browse/rule/damage/damage-type.md) to acid, cold, corruption, fire, lightning, poison, or sonic damage.
 - *I Have Just the Book:* If you start a Discover Lore project in your hero's [stronghold](../../Browse/title/stronghold.md) or other a permanent base of operations you immediately gain 60 [project points](../../Browse/rule/downtime/project-points.md) toward the completion of that project. If the project costs 60 or fewer points, you complete it in 10 uninterrupted minutes without needing to use a [respite](../../Browse/rule/resource/respite.md) activity.
-- *Picked Up a Few Things:* You know a skill from the lore skill group.
+- *Picked Up a Few Things:* You know a skill from the [lore skill group](../../Browse/skill/lore/lore.md).
 - *Polyglot:* You know two languages. Additionally, the project goal for the Learn New Language project is halved for you.
 
 #### Special Agent {data-scc="mcdm.heroes.v1/title/special-agent"}
@@ -2621,7 +2621,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 **Effect:** Choose one of the following benefits:
 
 - *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) against the target.
-- *Particular Set of Skills:* You know a skill from the intrigue skill group.
+- *Particular Set of Skills:* You know a skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md).
 - *We're In This Together:* When you have a creature [grabbed](../../Browse/condition/grabbed.md) and take damage from an ability not used by that creature, the [grabbed](../../Browse/condition/grabbed.md) creature takes the same damage.
 
 #### Undead Slain {data-scc="mcdm.heroes.v1/title/undead-slain"}
@@ -2766,7 +2766,7 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 - *Masterpiece:* The armor, [implement](../../Browse/rule/treasure/implement.md), or weapon can be imbued a fourth time, with any [enhancement](../../Browse/rule/treasure/enhancement.md) the item qualifies for.
 - *Research Dividends:* You gain the [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md) for an armor, [implement](../../Browse/rule/treasure/implement.md), or weapon [enhancement](../../Browse/rule/treasure/enhancement.md) of your choice. Additionally, you learn the [project source](../../Browse/rule/downtime/project-source.md) language for that [enhancement](../../Browse/rule/treasure/enhancement.md).
-- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
+- *Skilled Hands:* You have a skill from the [crafting skill group](../../Browse/skill/crafting/crafting.md) that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the [crafting skill group](../../Browse/skill/crafting/crafting.md).
 - *Strong Hands Make Light Work:* Whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md), you can use [Might](../../Browse/rule/character/might.md) as the [project roll](../../Browse/rule/downtime/project-roll.md) [characteristic](../../Browse/rule/character/characteristic.md).
 
 #### Noble {data-scc="mcdm.heroes.v1/title/noble"}
@@ -2867,7 +2867,7 @@ Additionally, choose one of the following benefits:
 
 **Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Cosmic Revelation:* When you make a [test](../../Browse/rule/test/test.md) with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
+- *Cosmic Revelation:* When you make a [test](../../Browse/rule/test/test.md) with a skill from the [lore skill group](../../Browse/skill/lore/lore.md) and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 - *Mind Over Matter:* Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md), you can end one [condition](../../Browse/rule/combat/condition.md) on yourself.
 - *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their [speed](../../Browse/rule/character/speed.md) to a space you choose, but can't enter [damaging terrain](../../Browse/movement/damaging-terrain.md) or terrain that could impose a [condition](../../Browse/rule/combat/condition.md) on them. The target doesn't appear to move or [teleport](../../Browse/movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
@@ -2912,9 +2912,9 @@ Additionally, choose one of the following benefits:
 **Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Presence](../../Browse/rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Calm Heads Prevail:* When you make a [test](../../Browse/rule/test/test.md) to stop combat and start a negotiation, you always obtain a tier 3 outcome.
-- *Drop Your Sword:* When you succeed on a [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
+- *Drop Your Sword:* When you succeed on a [test](../../Browse/rule/test/test.md) using the [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
 - *Hear Me Out:* While you are present in a negotiation, an [NPC](../../Browse/rule/general/npc.md)'s starting patience increases by 3 (to a maximum of 5).
-- *Many Paths to Peace:* When you make a [test](../../Browse/rule/test/test.md) with a skill from the interpersonal skill group, you can use any [characteristic](../../Browse/rule/character/characteristic.md) of your choice for the [test](../../Browse/rule/test/test.md).
+- *Many Paths to Peace:* When you make a [test](../../Browse/rule/test/test.md) with a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md), you can use any [characteristic](../../Browse/rule/character/characteristic.md) of your choice for the [test](../../Browse/rule/test/test.md).
 
 #### Reborn {data-scc="mcdm.heroes.v1/title/reborn"}
 
@@ -3009,7 +3009,7 @@ When you attract a new [follower](../../Browse/rule/general/follower.md), you de
 
 Artisans are crafting experts who can contribute to your research and [crafting projects](../../Browse/rule/downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). An artisan can contribute one [project roll](../../Browse/rule/downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](../../Browse/rule/resource/respite.md), adventuring, or other activities. They must remain at your [stronghold](../../Browse/title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](tests.md)). An artisan has a [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score of 1 (your choice), a [Reason](../../Browse/rule/character/reason.md) score of 1, and a 0 in all other [characteristics](../../Browse/rule/character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit an artisan, choose four skills from the [crafting skill group](../../Browse/skill/crafting/crafting.md) that they know (see Skills in Chapter 9: [Tests](tests.md)). An artisan has a [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score of 1 (your choice), a [Reason](../../Browse/rule/character/reason.md) score of 1, and a 0 in all other [characteristics](../../Browse/rule/character/characteristic.md). They know Caelian and two other languages of your choice.
 
 ##### Retainer {data-scc="mcdm.heroes.v1/rule.general/retainer"}
 
@@ -3021,7 +3021,7 @@ Rules for retainers are found in *Draw Steel: Monsters*.
 
 Sages are research experts who can contribute to your research and [crafting projects](../../Browse/rule/downtime/crafting-project.md). A sage can contribute one [project roll](../../Browse/rule/downtime/project-roll.md) per day to a downtime project you choose, whether you spend those days in [respite](../../Browse/rule/resource/respite.md), adventuring, or other activities. They must remain at your [stronghold](../../Browse/title/stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) score of 1, and a 0 in all other [characteristics](../../Browse/rule/character/characteristic.md). They know Caelian and two other languages of your choice.
+When you recruit a sage, choose four skills from the [lore skill group](../../Browse/skill/lore/lore.md) that they know. A sage has a [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) score of 1, and a 0 in all other [characteristics](../../Browse/rule/character/characteristic.md). They know Caelian and two other languages of your choice.
 
 ## Wealth
 

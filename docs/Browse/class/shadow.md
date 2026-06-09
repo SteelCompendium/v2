@@ -65,9 +65,9 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 
 You graduated from a [shadow college](../feature/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
-- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../movement/teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the [Magic](../skill/magic.md) skill.
-- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/alchemy.md) skill.
-- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/lie.md) skill.
+- College of Black Ash: The College of Black Ash founded the art of being a [shadow](shadow.md). Its graduates are unmatched in mobility, using sorcery to [teleport](../movement/teleport.md) around the battlefield, manipulate shadows, and summon darkness. You have the [Magic](../skill/lore/magic.md) skill.
+- College of Caustic Alchemy: The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You have the [Alchemy](../skill/crafting/alchemy.md) skill.
+- College of the Harlequin Mask: Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You have the [Lie](../skill/interpersonal/lie.md) skill.
 
 Your [shadow college](../feature/shadow/level-1/shadow-college.md) is your [subclass](../rule/general/subclass.md), and your choice of college determines many of the features you'll gain as you gain new levels.
 

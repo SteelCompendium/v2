@@ -72,7 +72,7 @@ A tolerance for pain and distress allows you to push through difficult situation
 
 #### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
-Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your [speed](../rule/character/speed.md) is reduced to 3 instead of 2.
+Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Endurance](../skill/exploration/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your [speed](../rule/character/speed.md) is reduced to 3 instead of 2.
 
 #### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 

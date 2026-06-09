@@ -5,7 +5,7 @@ name: Gladiator
 perk: One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
 scc: mcdm.heroes.v1/career/gladiator
 skills:
-    - Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../skill/gymnastics.md), [Jump](../skill/jump.md).)
+    - Two skills from the [exploration skill group](../skill/exploration/exploration.md) (*Quick Build:*  [Gymnastics](../skill/exploration/gymnastics.md), [Jump](../skill/exploration/jump.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ In the past, you entertained the masses with flashy displays of violence in the 
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../skill/gymnastics.md), [Jump](../skill/jump.md).)
+**Skills:** Two skills from the [exploration skill group](../skill/exploration/exploration.md) (*Quick Build:*  [Gymnastics](../skill/exploration/gymnastics.md), [Jump](../skill/exploration/jump.md).)
 
 **Languages:** One language
 

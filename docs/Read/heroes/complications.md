@@ -273,7 +273,7 @@ Perhaps the stars marked you out at birth, or maybe your name appears in an anci
 
 Ever since you were a kid, you've been obsessed with a certain topic. During your travels, you spend your free time gleaning all the information you can on that obsession. You might not be the world's leading expert quite yet, but people should certainly trust your opinion on the topic.
 
-**Benefit:** You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different [project source](../../Browse/rule/downtime/project-source.md), and the project goal increases. (See Chapter 12: [Downtime Projects](downtime-projects.md).)
+**Benefit:** You have one skill of your choice from the [lore skill group](../../Browse/skill/lore/lore.md), and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different [project source](../../Browse/rule/downtime/project-source.md), and the project goal increases. (See Chapter 12: [Downtime Projects](downtime-projects.md).)
 
 **Drawback:** You can't imagine ever being wrong on the topic of your obsession. Whenever you make a [test](../../Browse/rule/test/test.md) to recall lore using your chosen skill, the Director makes the [test](../../Browse/rule/test/test.md) in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 
@@ -320,7 +320,7 @@ Some call you a [coward](../../Browse/complication/coward.md), just because you 
 
 You used to flit around the stars in your own ship. But an ugly run-in with a [pirate](../../Browse/complication/pirate.md) (or a [pirate](../../Browse/complication/pirate.md) [hunter](../../Browse/complication/hunter.md)) has left you marooned on this backwater world. You're prepared to carve out a life here—at least until you can hitch a ride somewhere else.
 
-**Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that [damage type](../../Browse/rule/damage/damage-type.md).
+**Benefit:** You have the Timescape skill (from the [lore skill group](../../Browse/skill/lore/lore.md)). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that [damage type](../../Browse/rule/damage/damage-type.md).
 
 **Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to know about anything related to the world where you [crash landed](../../Browse/complication/crash-landed.md).
 
@@ -388,7 +388,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 You're a [disgraced](../../Browse/complication/disgraced.md) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
-**Benefit:** You earn 1 [Renown](../../Browse/rule/resource/renown.md), and you have one skill of your choice from the interpersonal or intrigue skill group.
+**Benefit:** You earn 1 [Renown](../../Browse/rule/resource/renown.md), and you have one skill of your choice from the interpersonal or [intrigue skill group](../../Browse/skill/intrigue/intrigue.md).
 
 **Drawback:** Anyone who has heard of you and is influenced by your [Renown](../../Browse/rule/resource/renown.md) treats you as infamous. Whenever you are part of a negotiation with an [NPC](../../Browse/rule/general/npc.md) who has an interest of 2 or lower, that [NPC](../../Browse/rule/general/npc.md) makes a plan to hurt you personally after the negotiation ends—and carries that plan out.
 
@@ -428,7 +428,7 @@ Whether you're a convicted criminal, a noble stripped of their title, or a perso
 
 You used to be an immortal creature, dispensing justice and doing the bidding of the gods. Now, whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, but living alongside your fellow mortals gives your life new meaning.
 
-**Benefit:** You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
+**Benefit:** You have the Religion skill (from the [lore skill group](../../Browse/skill/lore/lore.md)). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
 
 **Drawback:** You will never fully gain a mortal's comfort with untruth. Any [test](../../Browse/rule/test/test.md) you make to deceive another creature takes a [bane](../../Browse/rule/dice/bane.md).
 
@@ -516,7 +516,7 @@ You once felt the call of a great tree in the middle of a forest, whose life for
 
 You used to be a con artist, but those days are pretty much behind you. Being a hero is an even better racket. After all, if you're saving the world, who can be mad at you for stealing a few coins along the way?
 
-**Benefit:** You have one skill of your choice from the intrigue skill group.
+**Benefit:** You have one skill of your choice from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md).
 
 **Drawback:** Whenever you meet an [NPC](../../Browse/rule/general/npc.md) for the first time, the Director can decide that [NPC](../../Browse/rule/general/npc.md) was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../../Browse/rule/resource/hero-token.md).
 
@@ -556,7 +556,7 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](..
 
 You have long stayed one step ahead of a pursuer—perhaps a bounty [hunter](../../Browse/complication/hunter.md) determined to bring you to justice, a [revenant](../../Browse/ancestry/revenant.md), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
-**Benefit:** You have one skill of your choice from the intrigue skill group. Additionally, whenever one or more creatures are pursuing you, you can lay low as a [respite](../../Browse/rule/resource/respite.md) activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
+**Benefit:** You have one skill of your choice from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md). Additionally, whenever one or more creatures are pursuing you, you can lay low as a [respite](../../Browse/rule/resource/respite.md) activity. When you do so, anyone pursuing you loses track of your and your party's location and must start their search again.
 
 **Drawback:** Each time you earn [Renown](../../Browse/rule/resource/renown.md), your pursuer learns your location. Unless you lay low or move to a new location, you'll be visited by agents of the pursuer within 1d10 days. If you linger after that, your pursuer finds you.
 
@@ -566,9 +566,9 @@ You are hunting someone or something—perhaps a wanted criminal, a person who w
 
 **Benefit:** Choose one skill from the following:
 
-- [Interrogate](../../Browse/skill/interrogate.md) (from the interpersonal skill group)
-- Alertness, Eavesdrop, Search, or Track (from the intrigue skill group)
-- Criminal Underworld, Rumors, or Society (from the lore skill group)
+- [Interrogate](../../Browse/skill/interpersonal/interrogate.md) (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md))
+- Alertness, Eavesdrop, Search, or Track (from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md))
+- Criminal Underworld, Rumors, or Society (from the [lore skill group](../../Browse/skill/lore/lore.md))
 
 You have that skill, and you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to find or learn clues about your quarry.
 
@@ -673,7 +673,7 @@ You've always had a [lucky](../../Browse/complication/lucky.md) streak. When you
 
 Before you were a hero, you were a chef—and when you retire, you have big plans for your next restaurant or inn. In the meantime, you're on the lookout for rare ingredients that only a wandering adventurer can find. After all, it's food that makes the world go round.
 
-**Benefit:** You have the Cooking skill (from the crafting skill group). Additionally, whenever you finish a [respite](../../Browse/rule/resource/respite.md) or wake up after a night's sleep, you can spend 1 uninterrupted hour to prepare an excellent meal for up to ten creatures, provided you have ingredients and cooking tools. Once over the next 24 hours, each creature who eats the meal can gain the benefit of spending a [Recovery](../../Browse/rule/health/recoveries.md) without spending a [Recovery](../../Browse/rule/health/recoveries.md).
+**Benefit:** You have the Cooking skill (from the [crafting skill group](../../Browse/skill/crafting/crafting.md)). Additionally, whenever you finish a [respite](../../Browse/rule/resource/respite.md) or wake up after a night's sleep, you can spend 1 uninterrupted hour to prepare an excellent meal for up to ten creatures, provided you have ingredients and cooking tools. Once over the next 24 hours, each creature who eats the meal can gain the benefit of spending a [Recovery](../../Browse/rule/health/recoveries.md) without spending a [Recovery](../../Browse/rule/health/recoveries.md).
 
 **Drawback:** The first time each day you eat food you didn't prepare, you lose 2 [Recoveries](../../Browse/rule/health/recoveries.md).
 
@@ -737,7 +737,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you're not often given a chance to prove it. It's no wonder you usually wear a hood.
 
-**Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) involving those creatures where the [Brag](../../Browse/skill/brag.md) or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied, but you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) where the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied.
+**Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) involving those creatures where the [Brag](../../Browse/skill/interpersonal/brag.md) or [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill could be applied, but you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) where the [Flirt](../../Browse/skill/interpersonal/flirt.md), Lead, or [Persuade](../../Browse/skill/interpersonal/persuade.md) skill could be applied.
 
 #### Mundane {data-scc="mcdm.heroes.v1/complication/mundane"}
 
@@ -791,7 +791,7 @@ You were captured by the psionic beings known as voiceless talkers (see *Draw St
 
 You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.
 
-**Benefit:** You have one skill of your choice from the crafting skill group. Additionally, choose one of your skills from the crafting group. You gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) that uses that skill.
+**Benefit:** You have one skill of your choice from the [crafting skill group](../../Browse/skill/crafting/crafting.md). Additionally, choose one of your skills from the crafting group. You gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) that uses that skill.
 
 **Drawback:** Whoever killed your mentor cursed you. You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that doesn't use one of your skills.
 
@@ -824,7 +824,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
 
-**Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're [supernatural](../../Browse/rule/general/supernatural.md)ly compelled to be.
+**Benefit:** You have the Handle Animals skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're [supernatural](../../Browse/rule/general/supernatural.md)ly compelled to be.
 
 **Drawback:** You don't have a culture (see Culture in Chapter 4: [Background](background.md)), though you can speak Caelian.
 
@@ -871,7 +871,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 To your embarrassment, no sinister omens attended your birth and your closet contains no skeletons. You're just an ordinary person raised in a hardworking family. You're expected to carry on the family business—but who can settle down to a boring job when adventure calls! That's why you ran away.
 
-**Benefit:** You have one skill of your choice from the crafting skill group.
+**Benefit:** You have one skill of your choice from the [crafting skill group](../../Browse/skill/crafting/crafting.md).
 
 **Drawback:** Members of your extended family are looking for you, intending to drag you home—and you've never been able to stand up to them.
 
@@ -887,7 +887,7 @@ Your homeland has been corrupted by some terrible curse or plague, and you're th
 
 You're secretly important—but it's not safe for your true identity to be known. Perhaps you're the witness to a crime or a member of a royal family on the run from a usurper. Until you are no longer at risk of being [hunted](../../Browse/complication/hunted.md), you'll maintain the guise of an ordinary adventurer.
 
-**Benefit:** You have a skill of your choice from the intrigue skill group. Additionally, you can resume your true identity temporarily. While in your true identity, your [Renown](../../Browse/rule/resource/renown.md) and [Wealth](../../Browse/rule/resource/wealth.md) are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
+**Benefit:** You have a skill of your choice from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md). Additionally, you can resume your true identity temporarily. While in your true identity, your [Renown](../../Browse/rule/resource/renown.md) and [Wealth](../../Browse/rule/resource/wealth.md) are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 
 **Drawback:** Each time you resume your true identity while you are still [hunted](../../Browse/complication/hunted.md), you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../../Browse/complication/secret-identity.md) for 1 day.
 
@@ -939,7 +939,7 @@ You're the heir to a powerful [supernatural](../../Browse/rule/general/supernatu
 
 You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.
 
-**Benefit:** You have two skills of your choice from the exploration skill group.
+**Benefit:** You have two skills of your choice from the [exploration skill group](../../Browse/skill/exploration/exploration.md).
 
 **Drawback:** You have forgotten one language you know of your choice.
 
@@ -955,7 +955,7 @@ You were tasked with delivering a ceremonial shield to your older sibling, a cel
 
 You were trained by a group of spies, who psionically infused silence into your every step and enhanced your ability to hear distant whispers. But your enhanced hearing has some nasty side effects.
 
-**Benefit:** You have the Eavesdrop and Sneak skills from the intrigue skill group, plus one skill of your choice from the lore skill group. Additionally, you can telepathically communicate with any creature provided they share a language with you and you can observe each other. A creature you communicate with this way can respond telepathically if they choose.
+**Benefit:** You have the Eavesdrop and Sneak skills from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md), plus one skill of your choice from the [lore skill group](../../Browse/skill/lore/lore.md). Additionally, you can telepathically communicate with any creature provided they share a language with you and you can observe each other. A creature you communicate with this way can respond telepathically if they choose.
 
 **Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](../../Browse/condition/dazed.md) until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
@@ -1044,7 +1044,7 @@ You were brought up to a strict standard of behavior. You cannot tell a lie.
 
 **Benefit:** If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) made to persuade a creature of some specific fact.
 
-**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that uses a skill from the interpersonal skill group. You can lose the [bane](../../Browse/rule/dice/bane.md) and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
+**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that uses a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md). You can lose the [bane](../../Browse/rule/dice/bane.md) and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
 
 #### Waking Dreams {data-scc="mcdm.heroes.v1/complication/waking-dreams"}
 
@@ -1134,6 +1134,6 @@ You're quick to anger, never letting an insult go without slinging one right bac
 
 You spent many years imprisoned for a crime you didn't commit. During your long hours of solitary confinement, you honed your skills and recited the names of those who framed you. Someday, you will have your revenge.
 
-**Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
+**Benefit:** You have two skills of your choice, neither of which can be from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md).
 
 **Drawback:** Your health suffered in prison. Whenever you are [winded](../../Browse/rule/health/winded.md), you are stricken with a hacking cough that makes it impossible for you to hide or sneak.

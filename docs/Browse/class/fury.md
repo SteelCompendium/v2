@@ -3,7 +3,7 @@ flavor: You do not temper the heat of battle within you. You unleash it! Your ex
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
-    - 'You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+    - 'You gain the [Nature](../skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
 type: class
 ---
 
@@ -39,7 +39,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **[Recoveries](../rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](../skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ##### Fury Advancement Table
 
@@ -64,9 +64,9 @@ As a 1st-level [fury](fury.md), you gain the following features.
 
 You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../feature/fury/level-1/primordial-aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
-- **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the [Lift](../skill/lift.md) skill.
-- **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the [Hide](../skill/hide.md) skill.
-- **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the [Track](../skill/track.md) skill.
+- **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the [Lift](../skill/exploration/lift.md) skill.
+- **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the [Hide](../skill/intrigue/hide.md) skill.
+- **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the [Track](../skill/intrigue/track.md) skill.
 
 Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) is your [subclass](../rule/general/subclass.md), and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
@@ -154,7 +154,7 @@ As your ferocity grows, you gain benefits as noted on the Berserker [Growing Fer
 
 #### Relentless Hunter {data-scc="mcdm.heroes.v1/feature.fury.level-1/relentless-hunter"}
 
-You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Track](../skill/track.md) skill.
+You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Track](../skill/intrigue/track.md) skill.
 
 ### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action"}
 

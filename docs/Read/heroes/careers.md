@@ -76,7 +76,7 @@ You worked as a spy for a government or organization. In defining your career, t
 
 You gain the following career benefits:
 
-**Skills:** The [Sneak](../../Browse/skill/sneak.md) skill from the intrigue skill group, plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* [Disguise](../../Browse/skill/disguise.md), [Lie](../../Browse/skill/lie.md), [Sneak](../../Browse/skill/sneak.md).)
+**Skills:** The [Sneak](../../Browse/skill/intrigue/sneak.md) skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md), plus one skill from the interpersonal group and one other skill from the intrigue group (*Quick Build:* [Disguise](../../Browse/skill/intrigue/disguise.md), [Lie](../../Browse/skill/interpersonal/lie.md), [Sneak](../../Browse/skill/intrigue/sneak.md).)
 
 **Languages:** Two languages
 
@@ -102,7 +102,7 @@ Career? Who needs a career when you're born into money! Or marry into it! Or con
 
 You gain the following career benefits:
 
-**Skills:** One skill from the interpersonal skill group and one skill from the lore group (*Quick Build:* [Brag](../../Browse/skill/brag.md), [Society](../../Browse/skill/society.md).)
+**Skills:** One skill from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) and one skill from the lore group (*Quick Build:* [Brag](../../Browse/skill/interpersonal/brag.md), [Society](../../Browse/skill/lore/society.md).)
 
 **Languages:** One language
 
@@ -132,7 +132,7 @@ You made and sold useful wares. In defining your career, think about the followi
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the crafting skill group (*Quick Build:* [Blacksmithing](../../Browse/skill/blacksmithing.md), [Carpentry](../../Browse/skill/carpentry.md).)
+**Skills:** Two skills from the [crafting skill group](../../Browse/skill/crafting/crafting.md) (*Quick Build:* [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md), [Carpentry](../../Browse/skill/crafting/carpentry.md).)
 
 **Languages:** One language
 
@@ -160,7 +160,7 @@ You lived by going to a tavern, crossroads, city street, or other busy area and 
 
 You gain the following career benefits:
 
-**Skills:** The [Rumors](../../Browse/skill/rumors.md) skill (from the lore skill group), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../../Browse/skill/empathize.md), [Endurance](../../Browse/skill/endurance.md), [Rumors](../../Browse/skill/rumors.md).)
+**Skills:** The [Rumors](../../Browse/skill/lore/rumors.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus one skill from the exploration group and one skill from the interpersonal group (*Quick Build:* [Empathize](../../Browse/skill/interpersonal/empathize.md), [Endurance](../../Browse/skill/exploration/endurance.md), [Rumors](../../Browse/skill/lore/rumors.md).)
 
 **Languages:** Two languages
 
@@ -186,7 +186,7 @@ You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin
 
 You gain the following career benefits:
 
-**Skills:** The [Criminal Underworld](../../Browse/skill/criminal-underworld.md) skill (from the lore skill group), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](../../Browse/skill/criminal-underworld.md), Pick Lock, Pick Pocket.)
+**Skills:** The [Criminal Underworld](../../Browse/skill/lore/criminal-underworld.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two skills from the intrigue group (*Quick Build:* [Criminal Underworld](../../Browse/skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
 
 **Languages:** One language
 
@@ -214,7 +214,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 You gain the following career benefits:
 
-**Skills:** The [Religion](../../Browse/skill/religion.md) skill (from the lore skill group), plus two more skills from the lore group (*Quick Build:* [Culture](../../Browse/skill/culture.md), [Magic](../../Browse/skill/magic.md), [Religion](../../Browse/skill/religion.md).)
+**Skills:** The [Religion](../../Browse/skill/lore/religion.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two more skills from the lore group (*Quick Build:* [Culture](../../Browse/skill/lore/culture.md), [Magic](../../Browse/skill/lore/magic.md), [Religion](../../Browse/skill/lore/religion.md).)
 
 **[Project Points](../../Browse/rule/downtime/project-points.md):** 240
 
@@ -241,7 +241,7 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The [Navigate](../../Browse/skill/navigate.md) skill (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/climb.md), [Heal](../../Browse/skill/heal.md), [Navigate](../../Browse/skill/navigate.md).)
+**Skills:** The [Navigate](../../Browse/skill/exploration/navigate.md) skill (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/exploration/climb.md), [Heal](../../Browse/skill/exploration/heal.md), [Navigate](../../Browse/skill/exploration/navigate.md).)
 
 **Languages:** Two languages
 
@@ -267,7 +267,7 @@ You grew crops or cared for livestock. In defining your career, think about the 
 
 You gain the following career benefits:
 
-**Skills:** The [Handle Animals](../../Browse/skill/handle-animals.md) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](../../Browse/skill/drive.md), [Handle Animals](../../Browse/skill/handle-animals.md), [Lift](../../Browse/skill/lift.md).)
+**Skills:** The [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)), plus two skills from the exploration group (*Quick Build:* [Drive](../../Browse/skill/exploration/drive.md), [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md), [Lift](../../Browse/skill/exploration/lift.md).)
 
 **Languages:** One language
 
@@ -295,7 +295,7 @@ In the past, you entertained the masses with flashy displays of violence in the 
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../../Browse/skill/gymnastics.md), [Jump](../../Browse/skill/jump.md).)
+**Skills:** Two skills from the [exploration skill group](../../Browse/skill/exploration/exploration.md) (*Quick Build:*  [Gymnastics](../../Browse/skill/exploration/gymnastics.md), [Jump](../../Browse/skill/exploration/jump.md).)
 
 **Languages:** One language
 
@@ -323,7 +323,7 @@ You worked as a [farmer](../../Browse/career/farmer.md), builder, clothes washer
 
 You gain the following career benefits:
 
-**Skills:** The [Endurance](../../Browse/skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../../Browse/skill/blacksmithing.md), [Endurance](../../Browse/skill/endurance.md), [Lift](../../Browse/skill/lift.md).)
+**Skills:** The [Endurance](../../Browse/skill/exploration/endurance.md) skill (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../../Browse/skill/crafting/blacksmithing.md), [Endurance](../../Browse/skill/exploration/endurance.md), [Lift](../../Browse/skill/exploration/lift.md).)
 
 **Languages:** One language
 
@@ -351,7 +351,7 @@ For long years, you studied magic under the mentorship of a more experienced mag
 
 You gain the following career benefits:
 
-**Skills:** The [Magic](../../Browse/skill/magic.md) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](../../Browse/skill/magic.md), [Monsters](../../Browse/skill/monsters.md), [Timescape](../../Browse/skill/timescape.md).)
+**Skills:** The [Magic](../../Browse/skill/lore/magic.md) skill (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus two other skills from the lore group (*Quick Build:* [Magic](../../Browse/skill/lore/magic.md), [Monsters](../../Browse/skill/lore/monsters.md), [Timescape](../../Browse/skill/lore/timescape.md).)
 
 **Languages:** One language
 
@@ -379,7 +379,7 @@ You can sing, act, or dance well enough that people actually pay you to do it. I
 
 You gain the following career benefits:
 
-**Skills:** The [Music](../../Browse/skill/music.md) or [Perform](../../Browse/skill/perform.md) skill (from the interpersonal skill group), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../../Browse/skill/flirt.md), [Music](../../Browse/skill/music.md), [Perform](../../Browse/skill/perform.md).)
+**Skills:** The [Music](../../Browse/skill/interpersonal/music.md) or [Perform](../../Browse/skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md)), plus two more skills from the interpersonal group (*Quick Build:* [Flirt](../../Browse/skill/interpersonal/flirt.md), [Music](../../Browse/skill/interpersonal/music.md), [Perform](../../Browse/skill/interpersonal/perform.md).)
 
 **[Renown](../../Browse/rule/resource/renown.md):** +2
 
@@ -405,7 +405,7 @@ You worked as a leader within a formal, bureaucratic organization or government.
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the interpersonal skill group (*Quick Build:* [Lead](../../Browse/skill/lead.md), [Lie](../../Browse/skill/lie.md).)
+**Skills:** Two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) (*Quick Build:* [Lead](../../Browse/skill/interpersonal/lead.md), [Lie](../../Browse/skill/interpersonal/lie.md).)
 
 **Languages:** One language
 
@@ -435,7 +435,7 @@ From an early age, you dedicated yourself to learning, whether you shared the kn
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the lore skill group (*Quick Build:* [History](../../Browse/skill/history.md), [Magic](../../Browse/skill/magic.md).)
+**Skills:** Two skills from the [lore skill group](../../Browse/skill/lore/lore.md) (*Quick Build:* [History](../../Browse/skill/lore/history.md), [Magic](../../Browse/skill/lore/magic.md).)
 
 **Languages:** One language
 
@@ -463,7 +463,7 @@ You worked on a ship, whether a merchant cog, a mercenary or military craft, or 
 
 You gain the following career benefits:
 
-**Skills:** Swim (from the exploration skill group), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/climb.md), [Gymnastics](../../Browse/skill/gymnastics.md), [Swim](../../Browse/skill/swim.md).)
+**Skills:** Swim (from the [exploration skill group](../../Browse/skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../../Browse/skill/exploration/climb.md), [Gymnastics](../../Browse/skill/exploration/gymnastics.md), [Swim](../../Browse/skill/exploration/swim.md).)
 
 **Languages:** Two languages
 
@@ -489,7 +489,7 @@ In your formative years, you fought tirelessly in skirmishes and campaigns again
 
 You gain the following career benefits:
 
-**Skills:** One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/alertness.md), [Endurance](../../Browse/skill/endurance.md).)
+**Skills:** One skill from the [exploration skill group](../../Browse/skill/exploration/exploration.md) and one skill from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/intrigue/alertness.md), [Endurance](../../Browse/skill/exploration/endurance.md).)
 
 **Languages:** Two languages
 
@@ -517,7 +517,7 @@ You protected a wild region from those who sought to harm it, such as poachers a
 
 You gain the following career benefits:
 
-**Skills:** Nature (from the lore skill group), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](../../Browse/skill/nature.md), Navigate, Track.)
+**Skills:** Nature (from the [lore skill group](../../Browse/skill/lore/lore.md)), plus one skill from the exploration group and one skill from the intrigue group (*Quick Build:*  [Nature](../../Browse/skill/lore/nature.md), Navigate, Track.)
 
 **Languages:** One language
 
@@ -546,7 +546,7 @@ You served as an officer of the law for a local government. You might have been 
 
 You gain the following career benefits:
 
-**Skills:** Alertness (from the intrigue skill group), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/alertness.md), [Search](../../Browse/skill/search.md), Track.)
+**Skills:** Alertness (from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md)), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../../Browse/skill/intrigue/alertness.md), [Search](../../Browse/skill/intrigue/search.md), Track.)
 
 **Languages:** Two languages
 

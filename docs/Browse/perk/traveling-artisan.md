@@ -9,7 +9,7 @@ type: perk
 
 ---
 
-On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [crafting project](../rule/downtime/crafting-project.md) using a skill you have from the crafting skill group. If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
+On any day when you don't take a [respite](../rule/resource/respite.md), you can spend 1 uninterrupted hour working on a [crafting project](../rule/downtime/crafting-project.md) using a skill you have from the [crafting skill group](../skill/crafting/crafting.md). If you do so, you gain 1d10 [project points](../rule/downtime/project-points.md) toward that project.
 
 > **Perks and [Tests](../rule/test/test.md)**
 >

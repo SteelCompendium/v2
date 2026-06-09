@@ -15,4 +15,4 @@ have one person at the top, though others might be ruled by a council. A trade g
 
 Those who thrive in [bureaucratic](bureaucratic.md) cultures don't simply follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a [bureaucratic](bureaucratic.md) culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
-**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../skill/persuade.md).)
+**Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../skill/interpersonal/persuade.md).)

@@ -5,7 +5,7 @@ name: Laborer
 perk: One exploration perk (*Quick Build:* Brawny.)
 scc: mcdm.heroes.v1/career/laborer
 skills:
-    - The [Endurance](../skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/blacksmithing.md), [Endurance](../skill/endurance.md), [Lift](../skill/lift.md).)
+    - The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You worked as a [farmer](farmer.md), builder, clothes washer, forester, miner, o
 
 You gain the following career benefits:
 
-**Skills:** The [Endurance](../skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/blacksmithing.md), [Endurance](../skill/endurance.md), [Lift](../skill/lift.md).)
+**Skills:** The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
 
 **Languages:** One language
 
