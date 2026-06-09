@@ -1,0 +1,40 @@
+{#-
+  Custom footer copyright partial — overrides mkdocs-material 9.7.6's bundled
+  partials/copyright.html. Differences from upstream:
+    * renders steel-etl + v2 site build stamps from config.extra.*
+    * adds a "Report a bug" link (config.extra.bug_report_url)
+    * drops the "Made with Material for MkDocs" notice
+  Re-sync the .md-copyright / .md-copyright__highlight wrapper markup if Material
+  changes it on upgrade.
+-#}
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  {% if config.extra.etl_sha or config.extra.site_sha %}
+    <div class="md-copyright__build">
+      <small>
+        build:
+        {%- if config.extra.etl_sha %}
+          steel-etl
+          <a href="https://github.com/SteelCompendium/steel-etl/commit/{{ config.extra.etl_sha }}">{{ config.extra.etl_sha }}</a>
+        {%- endif %}
+        {%- if config.extra.etl_sha and config.extra.site_sha %} &middot; {% endif %}
+        {%- if config.extra.site_sha %}
+          site
+          <a href="https://github.com/SteelCompendium/v2/commit/{{ config.extra.site_sha }}">{{ config.extra.site_sha }}</a>
+        {%- endif %}
+        {%- if config.extra.site_date %} ({{ config.extra.site_date }}){% endif %}
+      </small>
+    </div>
+  {% endif %}
+  {% if config.extra.bug_report_url %}
+    <div class="md-copyright__bug">
+      <small>
+        <a href="{{ config.extra.bug_report_url }}" target="_blank" rel="noopener">Report a bug</a>
+      </small>
+    </div>
+  {% endif %}
+</div>
