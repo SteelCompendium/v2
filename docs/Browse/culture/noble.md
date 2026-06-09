@@ -11,7 +11,7 @@ type: culture
 
 Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are [noble](noble.md)s by birthright, but some cultures have [noble](noble.md) titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
-**Skill Options:** One skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md). (*Quick Build:* [Lead](../skill/interpersonal/lead.md).)
+**Skill Options:** One skill from the [interpersonal skill group](../skill/group/interpersonal.md). (*Quick Build:* [Lead](../skill/interpersonal/lead.md).)
 
 > **But I Really Want Alertness**
 >

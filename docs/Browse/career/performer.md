@@ -4,7 +4,7 @@ name: Performer
 perk: One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
 scc: mcdm.heroes.v1/career/performer
 skills:
-    - The [Music](../skill/interpersonal/music.md) or [Perform](../skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two more skills from the [interpersonal group](../skill/interpersonal/interpersonal.md) (*Quick Build:* [Flirt](../skill/interpersonal/flirt.md), [Music](../skill/interpersonal/music.md), [Perform](../skill/interpersonal/perform.md).)
+    - The [Music](../skill/interpersonal/music.md) or [Perform](../skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../skill/group/interpersonal.md)), plus two more skills from the [interpersonal group](../skill/group/interpersonal.md) (*Quick Build:* [Flirt](../skill/interpersonal/flirt.md), [Music](../skill/interpersonal/music.md), [Perform](../skill/interpersonal/perform.md).)
 type: career
 ---
 
@@ -21,7 +21,7 @@ You can sing, act, or dance well enough that people actually pay you to do it. I
 
 You gain the following career benefits:
 
-**Skills:** The [Music](../skill/interpersonal/music.md) or [Perform](../skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two more skills from the [interpersonal group](../skill/interpersonal/interpersonal.md) (*Quick Build:* [Flirt](../skill/interpersonal/flirt.md), [Music](../skill/interpersonal/music.md), [Perform](../skill/interpersonal/perform.md).)
+**Skills:** The [Music](../skill/interpersonal/music.md) or [Perform](../skill/interpersonal/perform.md) skill (from the [interpersonal skill group](../skill/group/interpersonal.md)), plus two more skills from the [interpersonal group](../skill/group/interpersonal.md) (*Quick Build:* [Flirt](../skill/interpersonal/flirt.md), [Music](../skill/interpersonal/music.md), [Perform](../skill/interpersonal/perform.md).)
 
 **[Renown](../rule/resource/renown.md):** +2
 

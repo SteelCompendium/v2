@@ -8,7 +8,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](ajax-the-invincible/statblock/)
-- [Ajax the Invincible](ajax-the-invincible/ajax-the-invincible.md)
 - [Ajax's Malice](ajax-the-invincible/ajaxs-malice.md)
 - [Tactical Stance](ajax-the-invincible/tactical-stance.md)
 
@@ -23,7 +22,6 @@
 
 - [Statblock](angulotls/statblock/)
 - [Angulotl Malice](angulotls/angulotl-malice.md)
-- [Angulotls](angulotls/angulotls.md)
 
 </div>
 
@@ -35,7 +33,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](animals/statblock/)
-- [Animals](animals/animals.md)
 
 </div>
 
@@ -48,7 +45,6 @@
 
 - [Statblock](arixx/statblock/)
 - [Arixx Malice](arixx/arixx-malice.md)
-- [Arixx](arixx/arixx.md)
 
 </div>
 
@@ -61,7 +57,6 @@
 
 - [Statblock](ashen-hoarder/statblock/)
 - [Ashen Hoarder Malice](ashen-hoarder/ashen-hoarder-malice.md)
-- [Ashen Hoarder](ashen-hoarder/ashen-hoarder.md)
 
 </div>
 
@@ -74,7 +69,6 @@
 
 - [Statblock](basilisks/statblock/)
 - [Basilisk Malice](basilisks/basilisk-malice.md)
-- [Basilisks](basilisks/basilisks.md)
 
 </div>
 
@@ -87,7 +81,6 @@
 
 - [Statblock](bredbeddle/statblock/)
 - [Bredbeddle Malice](bredbeddle/bredbeddle-malice.md)
-- [Bredbeddle](bredbeddle/bredbeddle.md)
 
 </div>
 
@@ -100,7 +93,6 @@
 
 - [Statblock](bugbears/statblock/)
 - [Bugbear Malice](bugbears/bugbear-malice.md)
-- [Bugbears](bugbears/bugbears.md)
 
 </div>
 
@@ -113,7 +105,6 @@
 
 - [Statblock](chimera/statblock/)
 - [Chimera Malice](chimera/chimera-malice.md)
-- [Chimera](chimera/chimera.md)
 
 </div>
 
@@ -125,7 +116,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](count-rhodar-von-glauer/statblock/)
-- [Count Rhodar Von Glauer](count-rhodar-von-glauer/count-rhodar-von-glauer.md)
 - [Rhodar's Malice](count-rhodar-von-glauer/rhodars-malice.md)
 
 </div>
@@ -141,7 +131,6 @@
 - [2nd Echelon](demons/2nd-echelon/)
 - [3rd Echelon](demons/3rd-echelon/)
 - [4th Echelon](demons/4th-echelon/)
-- [Demons](demons/demons.md)
 
 </div>
 
@@ -154,7 +143,6 @@
 
 - [Statblock](devils/statblock/)
 - [Devil Malice](devils/devil-malice.md)
-- [Devils](devils/devils.md)
 
 </div>
 
@@ -167,7 +155,6 @@
 
 - [Statblock](draconians/statblock/)
 - [Draconian Malice](draconians/draconian-malice.md)
-- [Draconians](draconians/draconians.md)
 
 </div>
 
@@ -180,7 +167,6 @@
 
 - [Statblock](dragons/statblock/)
 - [Crucible Dragon Malice](dragons/crucible-dragon-malice.md)
-- [Dragons](dragons/dragons.md)
 - [Gloom Dragon Malice](dragons/gloom-dragon-malice.md)
 - [Meteor Dragon Malice](dragons/meteor-dragon-malice.md)
 - [Omen Dragon Malice](dragons/omen-dragon-malice.md)
@@ -197,7 +183,6 @@
 
 - [Statblock](dwarves/statblock/)
 - [Dwarf Malice](dwarves/dwarf-malice.md)
-- [Dwarves](dwarves/dwarves.md)
 
 </div>
 
@@ -210,7 +195,6 @@
 
 - [Statblock](elementals/statblock/)
 - [Elemental Malice](elementals/elemental-malice.md)
-- [Elementals](elementals/elementals.md)
 
 </div>
 
@@ -222,7 +206,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](elves-high/statblock/)
-- [Elves, High](elves-high/elves-high.md)
 - [High Elf Malice](elves-high/high-elf-malice.md)
 
 </div>
@@ -235,7 +218,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](elves-shadow/statblock/)
-- [Elves, Shadow](elves-shadow/elves-shadow.md)
 - [Shadow Elf Malice](elves-shadow/shadow-elf-malice.md)
 
 </div>
@@ -248,7 +230,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](elves-wode/statblock/)
-- [Elves, Wode](elves-wode/elves-wode.md)
 - [Wode Elf Malice](elves-wode/wode-elf-malice.md)
 
 </div>
@@ -262,7 +243,6 @@
 
 - [Statblock](fossil-cryptic/statblock/)
 - [Fossil Cryptic Malice](fossil-cryptic/fossil-cryptic-malice.md)
-- [Fossil Cryptic](fossil-cryptic/fossil-cryptic.md)
 
 </div>
 
@@ -275,7 +255,6 @@
 
 - [Statblock](giants/statblock/)
 - [Giant Malice](giants/giant-malice.md)
-- [Giants](giants/giants.md)
 
 </div>
 
@@ -288,7 +267,6 @@
 
 - [Statblock](gnolls/statblock/)
 - [Gnoll Malice](gnolls/gnoll-malice.md)
-- [Gnolls](gnolls/gnolls.md)
 
 </div>
 
@@ -301,7 +279,6 @@
 
 - [Statblock](goblins/statblock/)
 - [Goblin Malice](goblins/goblin-malice.md)
-- [Goblins](goblins/goblins.md)
 
 </div>
 
@@ -314,7 +291,6 @@
 
 - [Statblock](griffons/statblock/)
 - [Griffon Malice](griffons/griffon-malice.md)
-- [Griffons](griffons/griffons.md)
 
 </div>
 
@@ -327,7 +303,6 @@
 
 - [Statblock](hag/statblock/)
 - [Hag Malice](hag/hag-malice.md)
-- [Hag](hag/hag.md)
 
 </div>
 
@@ -340,7 +315,6 @@
 
 - [Statblock](hobgoblins/statblock/)
 - [Hobgoblin Malice](hobgoblins/hobgoblin-malice.md)
-- [Hobgoblins](hobgoblins/hobgoblins.md)
 
 </div>
 
@@ -353,7 +327,6 @@
 
 - [Statblock](humans/statblock/)
 - [Human Malice](humans/human-malice.md)
-- [Humans](humans/humans.md)
 
 </div>
 
@@ -366,7 +339,6 @@
 
 - [Statblock](kingfissure-worm/statblock/)
 - [Kingfissure Worm Malice](kingfissure-worm/kingfissure-worm-malice.md)
-- [Kingfissure Worm](kingfissure-worm/kingfissure-worm.md)
 
 </div>
 
@@ -379,7 +351,6 @@
 
 - [Statblock](kobolds/statblock/)
 - [Kobold Malice](kobolds/kobold-malice.md)
-- [Kobolds](kobolds/kobolds.md)
 
 </div>
 
@@ -392,7 +363,6 @@
 
 - [Statblock](lich/statblock/)
 - [Lich Malice](lich/lich-malice.md)
-- [Lich](lich/lich.md)
 
 </div>
 
@@ -405,7 +375,6 @@
 
 - [Statblock](lightbenders/statblock/)
 - [Lightbender Malice](lightbenders/lightbender-malice.md)
-- [Lightbenders](lightbenders/lightbenders.md)
 
 </div>
 
@@ -418,7 +387,6 @@
 
 - [Statblock](lizardfolk/statblock/)
 - [Lizardfolk Malice](lizardfolk/lizardfolk-malice.md)
-- [Lizardfolk](lizardfolk/lizardfolk.md)
 
 </div>
 
@@ -430,7 +398,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](lord-syuul/statblock/)
-- [Lord Syuul](lord-syuul/lord-syuul.md)
 - [Lord Syuul's Malice](lord-syuul/lord-syuuls-malice.md)
 
 </div>
@@ -444,7 +411,6 @@
 
 - [Statblock](manticore/statblock/)
 - [Manticore Malice](manticore/manticore-malice.md)
-- [Manticore](manticore/manticore.md)
 
 </div>
 
@@ -457,7 +423,6 @@
 
 - [Statblock](medusa/statblock/)
 - [Medusa Malice](medusa/medusa-malice.md)
-- [Medusa](medusa/medusa.md)
 
 </div>
 
@@ -470,7 +435,6 @@
 
 - [Statblock](minotaurs/statblock/)
 - [Minotaur Malice](minotaurs/minotaur-malice.md)
-- [Minotaurs](minotaurs/minotaurs.md)
 
 </div>
 
@@ -494,7 +458,6 @@
 
 - [Statblock](ogres/statblock/)
 - [Ogre Malice](ogres/ogre-malice.md)
-- [Ogres](ogres/ogres.md)
 
 </div>
 
@@ -507,7 +470,6 @@
 
 - [Statblock](olothec/statblock/)
 - [Olothec Malice](olothec/olothec-malice.md)
-- [Olothec](olothec/olothec.md)
 
 </div>
 
@@ -520,7 +482,6 @@
 
 - [Statblock](orcs/statblock/)
 - [Orc Malice](orcs/orc-malice.md)
-- [Orcs](orcs/orcs.md)
 
 </div>
 
@@ -533,7 +494,6 @@
 
 - [Statblock](radenwights/statblock/)
 - [Radenwight Malice](radenwights/radenwight-malice.md)
-- [Radenwights](radenwights/radenwights.md)
 
 </div>
 
@@ -549,7 +509,6 @@
 - [3rd Echelon](rivals/3rd-echelon/)
 - [4th Echelon](rivals/4th-echelon/)
 - [Rival Malice (Level 1+ Malice Features)](rivals/rival-malice-level-1-malice-features.md)
-- [Rivals](rivals/rivals.md)
 
 </div>
 
@@ -562,7 +521,6 @@
 
 - [Statblock](shambling-mound/statblock/)
 - [Shambling Mound Malice](shambling-mound/shambling-mound-malice.md)
-- [Shambling Mound](shambling-mound/shambling-mound.md)
 
 </div>
 
@@ -575,7 +533,6 @@
 
 - [Statblock](time-raiders/statblock/)
 - [Time Raider Malice](time-raiders/time-raider-malice.md)
-- [Time Raiders](time-raiders/time-raiders.md)
 
 </div>
 
@@ -588,7 +545,6 @@
 
 - [Statblock](trolls/statblock/)
 - [Troll Malice](trolls/troll-malice.md)
-- [Trolls](trolls/trolls.md)
 
 </div>
 
@@ -603,7 +559,6 @@
 - [2nd Echelon](undead/2nd-echelon/)
 - [3rd Echelon](undead/3rd-echelon/)
 - [4th Echelon](undead/4th-echelon/)
-- [Undead](undead/undead.md)
 
 </div>
 
@@ -616,7 +571,6 @@
 
 - [Statblock](valok/statblock/)
 - [Valok Malice](valok/valok-malice.md)
-- [Valok](valok/valok.md)
 
 </div>
 
@@ -629,7 +583,6 @@
 
 - [Statblock](voiceless-talkers/statblock/)
 - [Voiceless Talker Malice](voiceless-talkers/voiceless-talker-malice.md)
-- [Voiceless Talkers](voiceless-talkers/voiceless-talkers.md)
 
 </div>
 
@@ -644,7 +597,6 @@
 - [2nd Echelon](war-dogs/2nd-echelon/)
 - [3rd Echelon](war-dogs/3rd-echelon/)
 - [4th Echelon](war-dogs/4th-echelon/)
-- [War Dogs](war-dogs/war-dogs.md)
 
 </div>
 
@@ -657,7 +609,6 @@
 
 - [Statblock](werewolf/statblock/)
 - [Werewolf Malice](werewolf/werewolf-malice.md)
-- [Werewolf](werewolf/werewolf.md)
 
 </div>
 
@@ -670,7 +621,6 @@
 
 - [Statblock](wyverns/statblock/)
 - [Wyvern Malice](wyverns/wyvern-malice.md)
-- [Wyverns](wyverns/wyverns.md)
 
 </div>
 
@@ -682,7 +632,6 @@
 <div class="browse-index" markdown>
 
 - [Statblock](xorannox-the-tyract/statblock/)
-- [Xorannox the Tyract](xorannox-the-tyract/xorannox-the-tyract.md)
 - [Xorannox's Malice](xorannox-the-tyract/xorannoxs-malice.md)
 
 </div>

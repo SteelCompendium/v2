@@ -3,7 +3,7 @@ flavor: Strategist. Defender. Leader. With weapon in hand, you lead allies into 
 name: Tactician
 scc: mcdm.heroes.v1/class/tactician
 skills:
-    - 'You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/exploration/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)'
+    - 'You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/group/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)'
 type: class
 ---
 
@@ -39,7 +39,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **[Recoveries](../rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/exploration/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](../skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../skill/group/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)
 
 ##### Tactician Advancement Table
 
@@ -64,9 +64,9 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 
 Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the [Intimidate](../skill/interpersonal/intimidate.md) skill.)
 
-- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the [intrigue skill group](../skill/intrigue/intrigue.md).
-- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the [lore skill group](../skill/lore/lore.md).
-- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md).
+- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the [intrigue skill group](../skill/group/intrigue.md).
+- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the [lore skill group](../skill/group/lore.md).
+- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the [interpersonal skill group](../skill/group/interpersonal.md).
 
 Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) is your [subclass](../rule/general/subclass.md), and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
@@ -110,9 +110,9 @@ You command any room you walk into. While you are present during a negotiation, 
 
 #### Covert Operations {data-scc="mcdm.heroes.v1/feature.tactician.level-1/covert-operations"}
 
-While in your presence or working according to your plans, each of your allies gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) using any skill from the [intrigue skill group](../skill/intrigue/intrigue.md). Additionally, you can use the [Lead](../skill/interpersonal/lead.md) skill to assist another creature with any [test](../rule/test/test.md) made using a skill from the [intrigue group](../skill/intrigue/intrigue.md).
+While in your presence or working according to your plans, each of your allies gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) using any skill from the [intrigue skill group](../skill/group/intrigue.md). Additionally, you can use the [Lead](../skill/interpersonal/lead.md) skill to assist another creature with any [test](../rule/test/test.md) made using a skill from the [intrigue group](../skill/group/intrigue.md).
 
-At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../skill/intrigue/intrigue.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
+At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../skill/group/intrigue.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
 #### Studied Commander {data-scc="mcdm.heroes.v1/feature.tactician.level-1/studied-commander"}
 
@@ -851,15 +851,15 @@ Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) gran
 
 #### Asymmetric Warfare {data-scc="mcdm.heroes.v1/feature.tactician.level-7/asymmetric-warfare"}
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [intrigue skill group](../skill/intrigue/intrigue.md). Additionally, you can use skills from the [intrigue skill group](../skill/intrigue/intrigue.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [intrigue skill group](../skill/group/intrigue.md). Additionally, you can use skills from the [intrigue skill group](../skill/group/intrigue.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 #### Grand Strategy {data-scc="mcdm.heroes.v1/feature.tactician.level-7/grand-strategy"}
 
-You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [lore skill group](../skill/lore/lore.md). Additionally, when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [research project](../rule/downtime/research-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
+You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [lore skill group](../skill/group/lore.md). Additionally, when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [research project](../rule/downtime/research-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
 
 #### Shock and Awe {data-scc="mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe"}
 
-You have expanded your leadership skills, strengthening your [followers](../rule/general/follower.md)' morale and providing logistical support. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md). Additionally, you can convince a group of people to help you with a [crafting project](../rule/downtime/crafting-project.md) during a [respite](../rule/resource/respite.md). If these people are available when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
+You have expanded your leadership skills, strengthening your [followers](../rule/general/follower.md)' morale and providing logistical support. During a [montage test](../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../rule/test/test.md) made using a skill from the [interpersonal skill group](../skill/group/interpersonal.md). Additionally, you can convince a group of people to help you with a [crafting project](../rule/downtime/crafting-project.md) during a [respite](../rule/resource/respite.md). If these people are available when you take a [respite](../rule/resource/respite.md), you can make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) in addition to undertaking another [respite](../rule/resource/respite.md) activity.
 
 ## 8th-Level Features
 

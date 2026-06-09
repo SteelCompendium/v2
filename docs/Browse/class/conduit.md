@@ -3,7 +3,7 @@ flavor: The power of the gods flows through you! As a vessel for divine power, y
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
-    - 'Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)'
+    - 'Choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)'
 type: class
 ---
 
@@ -40,7 +40,7 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)
+**Skills:** Choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)
 
 ##### Conduit Advancement Table
 
@@ -249,7 +249,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose yo
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/intrigue.md), you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/group/intrigue.md), you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
 
 #### Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 
@@ -1362,7 +1362,7 @@ Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healin
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/lore.md) before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/group/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/group/lore.md) before you gained this feature.
 
 #### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.conduit.level-7/light-of-the-burning-sun"}
 

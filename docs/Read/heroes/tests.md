@@ -297,7 +297,7 @@ The rules for skills allow for them to be flexibly applied to any [test](../../B
 
 Skills are broken down into five skill groups: crafting, exploration, interpersonal, intrigue, and lore.
 
-##### Crafting Skills {data-scc="mcdm.heroes.v1/skill.crafting/crafting"}
+##### Crafting Skills {data-scc="mcdm.heroes.v1/skill.group/crafting"}
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
@@ -360,7 +360,7 @@ Build machines and clockwork items.
 
 Craft clothing of cloth or leather.
 
-##### Exploration Skills {data-scc="mcdm.heroes.v1/skill.exploration/exploration"}
+##### Exploration Skills {data-scc="mcdm.heroes.v1/skill.group/exploration"}
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
@@ -423,7 +423,7 @@ Ride and control a nonsapient mount, such as a horse.
 
 Move through deep liquid.
 
-##### Interpersonal Skills {data-scc="mcdm.heroes.v1/skill.interpersonal/interpersonal"}
+##### Interpersonal Skills {data-scc="mcdm.heroes.v1/skill.group/interpersonal"}
 
 Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11: [Negotiation](negotiation.md)). Aside from the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
 
@@ -501,7 +501,7 @@ Convince someone to agree with you through use of your charms and grace.
 
 Read the emotions and body language of other creatures.
 
-##### Intrigue Skills {data-scc="mcdm.heroes.v1/skill.intrigue/intrigue"}
+##### Intrigue Skills {data-scc="mcdm.heroes.v1/skill.group/intrigue"}
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
 
@@ -574,7 +574,7 @@ Move silently.
 
 Follow a trail that another creature has left behind.
 
-##### Lore Skills {data-scc="mcdm.heroes.v1/skill.lore/lore"}
+##### Lore Skills {data-scc="mcdm.heroes.v1/skill.group/lore"}
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 

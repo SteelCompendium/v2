@@ -17,6 +17,6 @@ type: title
 
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:
 
-- *Gift of Charm:* You have a skill of your choice from the [interpersonal skill group](../skill/interpersonal/interpersonal.md).
+- *Gift of Charm:* You have a skill of your choice from the [interpersonal skill group](../skill/group/interpersonal.md).
 - *Gift of Foresight:* When resisting [potencies](../rule/character/potency.md), your [Intuition](../rule/character/intuition.md) score is considered to be 1 higher than usual.
-- *Gift of Knowledge:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) you make that use any skill from the [lore skill group](../skill/lore/lore.md).
+- *Gift of Knowledge:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) you make that use any skill from the [lore skill group](../skill/group/lore.md).

@@ -5,7 +5,7 @@ name: Laborer
 perk: One exploration perk (*Quick Build:* Brawny.)
 scc: mcdm.heroes.v1/career/laborer
 skills:
-    - The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two skills from either the [crafting group](../skill/crafting/crafting.md) or the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
+    - The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/group/exploration.md)), plus two skills from either the [crafting group](../skill/group/crafting.md) or the [exploration group](../skill/group/exploration.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You worked as a [farmer](farmer.md), builder, clothes washer, forester, miner, o
 
 You gain the following career benefits:
 
-**Skills:** The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two skills from either the [crafting group](../skill/crafting/crafting.md) or the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
+**Skills:** The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/group/exploration.md)), plus two skills from either the [crafting group](../skill/group/crafting.md) or the [exploration group](../skill/group/exploration.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)
 
 **Languages:** One language
 

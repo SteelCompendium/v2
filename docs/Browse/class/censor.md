@@ -3,7 +3,7 @@ flavor: Demons and deathless fear you. Criminals run from the sight of your shad
 name: Censor
 scc: mcdm.heroes.v1/class/censor
 skills:
-    - 'Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)'
+    - 'Choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)'
 type: class
 ---
 
@@ -43,7 +43,7 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **[Recoveries](../rule/health/recoveries.md):** 12
 
-**Skills:** Choose any two skills from the [interpersonal](../skill/interpersonal/interpersonal.md) or [lore](../skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)
+**Skills:** Choose any two skills from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/interpersonal/intimidate.md), [Religion](../skill/lore/religion.md).)
 
 ##### Censor Advancement Table
 
@@ -253,7 +253,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose yo
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/intrigue.md), you can use [Presence](../rule/character/presence.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/group/intrigue.md), you can use [Presence](../rule/character/presence.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
 
 #### Oracular Visions {data-scc="mcdm.heroes.v1/feature.censor.level-1/oracular-visions"}
 
@@ -1056,7 +1056,7 @@ Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/lore.md) before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/group/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/group/lore.md) before you gained this feature.
 
 #### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.censor.level-7/light-of-the-burning-sun"}
 

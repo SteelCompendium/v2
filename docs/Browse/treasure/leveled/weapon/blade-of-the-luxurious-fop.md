@@ -30,4 +30,4 @@ type: treasure
 
 **5th Level:** The weapon's damage [bonus](../../../rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../../../rule/combat/opportunity-attack.md) against an enemy of your [size](../../../rule/character/size.md) or smaller, you can use [fancy footwork](../../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../../condition/prone.md). You also earn 1 [Renown](../../../rule/resource/renown.md).
 
-**9th Level:** The weapon's damage [bonus](../../../rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../../../rule/dice/edge.md) on any [test](../../../rule/test/test.md) you make using a skill you have from the [interpersonal skill group](../../../skill/interpersonal/interpersonal.md).
+**9th Level:** The weapon's damage [bonus](../../../rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../../../rule/dice/edge.md) on any [test](../../../rule/test/test.md) you make using a skill you have from the [interpersonal skill group](../../../skill/group/interpersonal.md).

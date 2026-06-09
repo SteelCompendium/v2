@@ -15,7 +15,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/intrigue/sneak/">Sneak</a> skill from the <a href="../skill/intrigue/intrigue/">intrigue skill group</a>, plus one skill from the <a href="../skill/interpersonal/interpersonal/">interpersonal group</a> and one other skill from the <a href="../skill/intrigue/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/disguise/">Disguise</a>, <a href="../skill/interpersonal/lie/">Lie</a>, <a href="../skill/intrigue/sneak/">Sneak</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/intrigue/sneak/">Sneak</a> skill from the <a href="../skill/group/intrigue/">intrigue skill group</a>, plus one skill from the <a href="../skill/group/interpersonal/">interpersonal group</a> and one other skill from the <a href="../skill/group/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/disguise/">Disguise</a>, <a href="../skill/interpersonal/lie/">Lie</a>, <a href="../skill/intrigue/sneak/">Sneak</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One intrigue perk (<em>Quick Build:</em> <a href="../perk/forgettable-face/">Forgettable Face</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -30,7 +30,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> One skill from the <a href="../skill/interpersonal/interpersonal/">interpersonal skill group</a> and one skill from the <a href="../skill/lore/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/brag/">Brag</a>, <a href="../skill/lore/society/">Society</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> One skill from the <a href="../skill/group/interpersonal/">interpersonal skill group</a> and one skill from the <a href="../skill/group/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/brag/">Brag</a>, <a href="../skill/lore/society/">Society</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One lore perk (<em>Quick Build:</em> I've Read About This Place.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -45,7 +45,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/crafting/crafting/">crafting skill group</a> (<em>Quick Build:</em> <a href="../skill/crafting/blacksmithing/">Blacksmithing</a>, <a href="../skill/crafting/carpentry/">Carpentry</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/group/crafting/">crafting skill group</a> (<em>Quick Build:</em> <a href="../skill/crafting/blacksmithing/">Blacksmithing</a>, <a href="../skill/crafting/carpentry/">Carpentry</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One crafting perk (<em>Quick Build:</em> <a href="../perk/area-of-expertise/">Area of Expertise</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -60,7 +60,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/rumors/">Rumors</a> skill (from the <a href="../skill/lore/lore/">lore skill group</a>), plus one skill from the <a href="../skill/exploration/exploration/">exploration group</a> and one skill from the <a href="../skill/interpersonal/interpersonal/">interpersonal group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/empathize/">Empathize</a>, <a href="../skill/exploration/endurance/">Endurance</a>, <a href="../skill/lore/rumors/">Rumors</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/rumors/">Rumors</a> skill (from the <a href="../skill/group/lore/">lore skill group</a>), plus one skill from the <a href="../skill/group/exploration/">exploration group</a> and one skill from the <a href="../skill/group/interpersonal/">interpersonal group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/empathize/">Empathize</a>, <a href="../skill/exploration/endurance/">Endurance</a>, <a href="../skill/lore/rumors/">Rumors</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One interpersonal perk (<em>Quick Build:</em> <a href="../perk/spot-the-tell/">Spot the Tell</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -75,7 +75,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/criminal-underworld/">Criminal Underworld</a> skill (from the <a href="../skill/lore/lore/">lore skill group</a>), plus two skills from the <a href="../skill/intrigue/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/lore/criminal-underworld/">Criminal Underworld</a>, Pick Lock, Pick Pocket.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/criminal-underworld/">Criminal Underworld</a> skill (from the <a href="../skill/group/lore/">lore skill group</a>), plus two skills from the <a href="../skill/group/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/lore/criminal-underworld/">Criminal Underworld</a>, Pick Lock, Pick Pocket.)</div>
   <div class="sc-card__line"><b>Perk</b> One intrigue perk (<em>Quick Build:</em> <a href="../perk/criminal-contacts/">Criminal Contacts</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -90,7 +90,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/religion/">Religion</a> skill (from the <a href="../skill/lore/lore/">lore skill group</a>), plus two more skills from the <a href="../skill/lore/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/lore/culture/">Culture</a>, <a href="../skill/lore/magic/">Magic</a>, <a href="../skill/lore/religion/">Religion</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/religion/">Religion</a> skill (from the <a href="../skill/group/lore/">lore skill group</a>), plus two more skills from the <a href="../skill/group/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/lore/culture/">Culture</a>, <a href="../skill/lore/magic/">Magic</a>, <a href="../skill/lore/religion/">Religion</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One <a href="../rule/general/supernatural/">supernatural</a> perk (<em>Quick Build:</em> <a href="../perk/ritualist/">Ritualist</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -105,7 +105,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/exploration/navigate/">Navigate</a> skill (from the <a href="../skill/exploration/exploration/">exploration skill group</a>), plus two more skills from the <a href="../skill/exploration/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/climb/">Climb</a>, <a href="../skill/exploration/heal/">Heal</a>, <a href="../skill/exploration/navigate/">Navigate</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/exploration/navigate/">Navigate</a> skill (from the <a href="../skill/group/exploration/">exploration skill group</a>), plus two more skills from the <a href="../skill/group/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/climb/">Climb</a>, <a href="../skill/exploration/heal/">Heal</a>, <a href="../skill/exploration/navigate/">Navigate</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> <a href="../perk/wood-wise/">Wood Wise</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -120,7 +120,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/interpersonal/handle-animals/">Handle Animals</a> skill (from the <a href="../skill/interpersonal/interpersonal/">interpersonal skill group</a>), plus two skills from the <a href="../skill/exploration/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/drive/">Drive</a>, <a href="../skill/interpersonal/handle-animals/">Handle Animals</a>, <a href="../skill/exploration/lift/">Lift</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/interpersonal/handle-animals/">Handle Animals</a> skill (from the <a href="../skill/group/interpersonal/">interpersonal skill group</a>), plus two skills from the <a href="../skill/group/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/drive/">Drive</a>, <a href="../skill/interpersonal/handle-animals/">Handle Animals</a>, <a href="../skill/exploration/lift/">Lift</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> <a href="../perk/monster-whisperer/">Monster Whisperer</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -135,7 +135,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/exploration/exploration/">exploration skill group</a> (<em>Quick Build:</em>  <a href="../skill/exploration/gymnastics/">Gymnastics</a>, <a href="../skill/exploration/jump/">Jump</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/group/exploration/">exploration skill group</a> (<em>Quick Build:</em>  <a href="../skill/exploration/gymnastics/">Gymnastics</a>, <a href="../skill/exploration/jump/">Jump</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> <a href="../perk/friend-catapult/">Friend Catapult</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -150,7 +150,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/exploration/endurance/">Endurance</a> skill (from the <a href="../skill/exploration/exploration/">exploration skill group</a>), plus two skills from either the <a href="../skill/crafting/crafting/">crafting group</a> or the <a href="../skill/exploration/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/crafting/blacksmithing/">Blacksmithing</a>, <a href="../skill/exploration/endurance/">Endurance</a>, <a href="../skill/exploration/lift/">Lift</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/exploration/endurance/">Endurance</a> skill (from the <a href="../skill/group/exploration/">exploration skill group</a>), plus two skills from either the <a href="../skill/group/crafting/">crafting group</a> or the <a href="../skill/group/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/crafting/blacksmithing/">Blacksmithing</a>, <a href="../skill/exploration/endurance/">Endurance</a>, <a href="../skill/exploration/lift/">Lift</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> Brawny.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -165,7 +165,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/magic/">Magic</a> skill (from the <a href="../skill/lore/lore/">lore skill group</a>), plus two other skills from the <a href="../skill/lore/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/lore/magic/">Magic</a>, <a href="../skill/lore/monsters/">Monsters</a>, <a href="../skill/lore/timescape/">Timescape</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/lore/magic/">Magic</a> skill (from the <a href="../skill/group/lore/">lore skill group</a>), plus two other skills from the <a href="../skill/group/lore/">lore group</a> (<em>Quick Build:</em> <a href="../skill/lore/magic/">Magic</a>, <a href="../skill/lore/monsters/">Monsters</a>, <a href="../skill/lore/timescape/">Timescape</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One <a href="../rule/general/supernatural/">supernatural</a> perk (<em>Quick Build:</em> <a href="../perk/arcane-trick/">Arcane Trick</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -180,7 +180,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/interpersonal/music/">Music</a> or <a href="../skill/interpersonal/perform/">Perform</a> skill (from the <a href="../skill/interpersonal/interpersonal/">interpersonal skill group</a>), plus two more skills from the <a href="../skill/interpersonal/interpersonal/">interpersonal group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/flirt/">Flirt</a>, <a href="../skill/interpersonal/music/">Music</a>, <a href="../skill/interpersonal/perform/">Perform</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> The <a href="../skill/interpersonal/music/">Music</a> or <a href="../skill/interpersonal/perform/">Perform</a> skill (from the <a href="../skill/group/interpersonal/">interpersonal skill group</a>), plus two more skills from the <a href="../skill/group/interpersonal/">interpersonal group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/flirt/">Flirt</a>, <a href="../skill/interpersonal/music/">Music</a>, <a href="../skill/interpersonal/perform/">Perform</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One interpersonal perk (<em>Quick Build:</em> <a href="../perk/harmonizer/">Harmonizer</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -195,7 +195,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/interpersonal/interpersonal/">interpersonal skill group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/lead/">Lead</a>, <a href="../skill/interpersonal/lie/">Lie</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/group/interpersonal/">interpersonal skill group</a> (<em>Quick Build:</em> <a href="../skill/interpersonal/lead/">Lead</a>, <a href="../skill/interpersonal/lie/">Lie</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One interpersonal perk (<em>Quick Build:</em> <a href="../perk/engrossing-monologue/">Engrossing Monologue</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -210,7 +210,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/lore/lore/">lore skill group</a> (<em>Quick Build:</em> <a href="../skill/lore/history/">History</a>, <a href="../skill/lore/magic/">Magic</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> Two skills from the <a href="../skill/group/lore/">lore skill group</a> (<em>Quick Build:</em> <a href="../skill/lore/history/">History</a>, <a href="../skill/lore/magic/">Magic</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One lore perk (<em>Quick Build:</em> <a href="../perk/expert-sage/">Expert Sage</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -225,7 +225,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Swim (from the <a href="../skill/exploration/exploration/">exploration skill group</a>), plus two more skills from the <a href="../skill/exploration/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/climb/">Climb</a>, <a href="../skill/exploration/gymnastics/">Gymnastics</a>, <a href="../skill/exploration/swim/">Swim</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> Swim (from the <a href="../skill/group/exploration/">exploration skill group</a>), plus two more skills from the <a href="../skill/group/exploration/">exploration group</a> (<em>Quick Build:</em> <a href="../skill/exploration/climb/">Climb</a>, <a href="../skill/exploration/gymnastics/">Gymnastics</a>, <a href="../skill/exploration/swim/">Swim</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> Put Your Back Into It!)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -240,7 +240,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> One skill from the <a href="../skill/exploration/exploration/">exploration skill group</a> and one skill from the <a href="../skill/intrigue/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/alertness/">Alertness</a>, <a href="../skill/exploration/endurance/">Endurance</a>.)</div>
+  <div class="sc-card__line"><b>Skills</b> One skill from the <a href="../skill/group/exploration/">exploration skill group</a> and one skill from the <a href="../skill/group/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/alertness/">Alertness</a>, <a href="../skill/exploration/endurance/">Endurance</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> Teamwork.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -255,7 +255,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Nature (from the <a href="../skill/lore/lore/">lore skill group</a>), plus one skill from the <a href="../skill/exploration/exploration/">exploration group</a> and one skill from the <a href="../skill/intrigue/intrigue/">intrigue group</a> (<em>Quick Build:</em>  <a href="../skill/lore/nature/">Nature</a>, Navigate, Track.)</div>
+  <div class="sc-card__line"><b>Skills</b> Nature (from the <a href="../skill/group/lore/">lore skill group</a>), plus one skill from the <a href="../skill/group/exploration/">exploration group</a> and one skill from the <a href="../skill/group/intrigue/">intrigue group</a> (<em>Quick Build:</em>  <a href="../skill/lore/nature/">Nature</a>, Navigate, Track.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> <a href="../perk/camouflage-hunter/">Camouflage Hunter</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
@@ -270,7 +270,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
-  <div class="sc-card__line"><b>Skills</b> Alertness (from the <a href="../skill/intrigue/intrigue/">intrigue skill group</a>), plus two more skills from the <a href="../skill/intrigue/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/alertness/">Alertness</a>, <a href="../skill/intrigue/search/">Search</a>, Track.)</div>
+  <div class="sc-card__line"><b>Skills</b> Alertness (from the <a href="../skill/group/intrigue/">intrigue skill group</a>), plus two more skills from the <a href="../skill/group/intrigue/">intrigue group</a> (<em>Quick Build:</em> <a href="../skill/intrigue/alertness/">Alertness</a>, <a href="../skill/intrigue/search/">Search</a>, Track.)</div>
   <div class="sc-card__line"><b>Perk</b> One exploration perk (<em>Quick Build:</em> <a href="../perk/team-leader/">Team Leader</a>.)</div>
 </div>
 </div>

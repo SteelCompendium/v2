@@ -20,4 +20,4 @@ type: title
 - *Calm Heads Prevail:* When you make a [test](../rule/test/test.md) to stop combat and start a negotiation, you always obtain a tier 3 outcome.
 - *Drop Your Sword:* When you succeed on a [test](../rule/test/test.md) using the [Intimidate](../skill/interpersonal/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
 - *Hear Me Out:* While you are present in a negotiation, an [NPC](../rule/general/npc.md)'s starting patience increases by 3 (to a maximum of 5).
-- *Many Paths to Peace:* When you make a [test](../rule/test/test.md) with a skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md), you can use any [characteristic](../rule/character/characteristic.md) of your choice for the [test](../rule/test/test.md).
+- *Many Paths to Peace:* When you make a [test](../rule/test/test.md) with a skill from the [interpersonal skill group](../skill/group/interpersonal.md), you can use any [characteristic](../rule/character/characteristic.md) of your choice for the [test](../rule/test/test.md).

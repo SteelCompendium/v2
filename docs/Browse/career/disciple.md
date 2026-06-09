@@ -4,7 +4,7 @@ name: Disciple
 perk: One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 scc: mcdm.heroes.v1/career/disciple
 skills:
-    - The [Religion](../skill/lore/religion.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus two more skills from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Culture](../skill/lore/culture.md), [Magic](../skill/lore/magic.md), [Religion](../skill/lore/religion.md).)
+    - The [Religion](../skill/lore/religion.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two more skills from the [lore group](../skill/group/lore.md) (*Quick Build:* [Culture](../skill/lore/culture.md), [Magic](../skill/lore/magic.md), [Religion](../skill/lore/religion.md).)
 type: career
 ---
 
@@ -21,7 +21,7 @@ You worked in a church, temple, or other religious institution as part of the cl
 
 You gain the following career benefits:
 
-**Skills:** The [Religion](../skill/lore/religion.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus two more skills from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Culture](../skill/lore/culture.md), [Magic](../skill/lore/magic.md), [Religion](../skill/lore/religion.md).)
+**Skills:** The [Religion](../skill/lore/religion.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two more skills from the [lore group](../skill/group/lore.md) (*Quick Build:* [Culture](../skill/lore/culture.md), [Magic](../skill/lore/magic.md), [Religion](../skill/lore/religion.md).)
 
 **[Project Points](../rule/downtime/project-points.md):** 240
 

@@ -5,7 +5,7 @@ name: Mage's Apprentice
 perk: One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 scc: mcdm.heroes.v1/career/mages-apprentice
 skills:
-    - The [Magic](../skill/lore/magic.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus two other skills from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Timescape](../skill/lore/timescape.md).)
+    - The [Magic](../skill/lore/magic.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two other skills from the [lore group](../skill/group/lore.md) (*Quick Build:* [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Timescape](../skill/lore/timescape.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ For long years, you studied magic under the mentorship of a more experienced mag
 
 You gain the following career benefits:
 
-**Skills:** The [Magic](../skill/lore/magic.md) skill (from the [lore skill group](../skill/lore/lore.md)), plus two other skills from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Timescape](../skill/lore/timescape.md).)
+**Skills:** The [Magic](../skill/lore/magic.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two other skills from the [lore group](../skill/group/lore.md) (*Quick Build:* [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Timescape](../skill/lore/timescape.md).)
 
 **Languages:** One language
 

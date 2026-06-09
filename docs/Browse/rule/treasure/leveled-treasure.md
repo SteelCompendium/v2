@@ -418,7 +418,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../combat/opportunity-attack.md) against an enemy of your [size](../character/size.md) or smaller, you can use [fancy footwork](../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../condition/prone.md). You also earn 1 [Renown](../resource/renown.md).
 
-**9th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../dice/edge.md) on any [test](../test/test.md) you make using a skill you have from the [interpersonal skill group](../../skill/interpersonal/interpersonal.md).
+**9th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../dice/edge.md) on any [test](../test/test.md) you make using a skill you have from the [interpersonal skill group](../../skill/group/interpersonal.md).
 
 ### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 

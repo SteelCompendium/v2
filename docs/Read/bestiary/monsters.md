@@ -105,7 +105,7 @@ type: chapter
 | Lich                    | 10    | Solo                 | 279  |
 | Ajax the Invincible     | 11    | Solo                 | 31   |
 
-## Ajax the Invincible {data-scc="mcdm.monsters.v1/monster.ajax-the-invincible/ajax-the-invincible"}
+## Ajax the Invincible {data-scc="mcdm.monsters.v1/monster.group/ajax-the-invincible"}
 
 "On behalf of the college, I would like to thank Lord Alvaro for his excellent lecture. The whole school owes you a debt for donating your time today. We will now open the floor to questions. Before we do, I would like to remind you that we enjoy a certain amount of informality here at the war college, but when speaking to Lord Alvaro, let not informality topple over into *familiarity.* We will take the first question now. Francis?"
 
@@ -385,7 +385,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Each target who has I < 5 is knocked prone and can't stand until Ajax deals damage to them. For each target not knocked prone, Ajax can move up to his speed toward that target and use Blade of the Gol King against them.
 
-## Angulotls {data-scc="mcdm.monsters.v1/monster.angulotls/angulotls"}
+## Angulotls {data-scc="mcdm.monsters.v1/monster.group/angulotls"}
 
 Found in freshwater swamps, rivers, and rainforests, angulotls (angwa-LAH-tuls) are diminutive, brightly colored amphibious humanoids. Rather than defending their settlements and breeding grounds against hostile creatures, these poisonous frog folk prefer to establish their homes in places that are nigh-impossible for other humanoids to find, such as underwater caves and other enclosed spaces accessible only by water. Angulotls are happy to hide and watch a gaggle of noisy adventurers stumble past the entrance to their clutch without realizing it. But though they prefer to avoid combat, whenever they're threatened or pressed, angulotls can turn deadly.
 
@@ -734,7 +734,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 >
 > Whenever an adjacent enemy grabs the daybringer or uses a melee ability against them, that enemy takes 3 poison damage.
 
-## Animals {data-scc="mcdm.monsters.v1/monster.animals/animals"}
+## Animals {data-scc="mcdm.monsters.v1/monster.group/animals"}
 
 The natural denizens of every world, animals ferocious, atrocious, and precocious roam the lands between and among settlements of humanoids and other folk. Whether they graze or hunt, stay solitary or move in packs, fight danger or fly from it, all animals share a singular goal—to live. Most animals are not monsters, but some are twisted by magic and malice to *become* monsters. A hero wouldn't mercilessly kill a pack of hungry wolves—but they'll slay rot-magic dire wolves created by vampires. In many cases, animals are more likely to be bystanders than threats in an encounter.
 
@@ -1283,7 +1283,7 @@ The Example Animals table breaks out a number of animals using this notation. Se
 >
 > While outdoors or in a natural environment, the predator can negate a bane on their abilities or turn a double bane into a bane.
 
-## Arixx {data-scc="mcdm.monsters.v1/monster.arixx/arixx"}
+## Arixx {data-scc="mcdm.monsters.v1/monster.group/arixx"}
 
 Pebbles dance as the ground quivers. A spray of rock and earth shatters the afternoon's peace, and an arixx blooms from the earth. Their mandibles drip sizzling acid as a talon impales their next meal sometimes a fat sheep, other times a shepherd.
 
@@ -1451,7 +1451,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 > - **12-16:** 8 acid damage; M < 2 weakened (save ends)
 > - **17+:** 11 acid damage; M < 3 weakened (save ends)
 
-## Ashen Hoarder {data-scc="mcdm.monsters.v1/monster.ashen-hoarder/ashen-hoarder"}
+## Ashen Hoarder {data-scc="mcdm.monsters.v1/monster.group/ashen-hoarder"}
 
 Grave robbing is a dangerous business, but necromancers need bodies for their experiments. To procure supplies and stay out of danger, these mages build ashen hoarders—hulking constructs made of magically reinforced humanoid bones.
 
@@ -1607,7 +1607,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 >
 > **Effect:** The ashen hoarder moves up to their speed and uses Claw and Blade with a double edge against one target. On a tier 3 outcome, the ashen hoarder can use Impale without spending Malice.
 
-## Basilisks {data-scc="mcdm.monsters.v1/monster.basilisks/basilisks"}
+## Basilisks {data-scc="mcdm.monsters.v1/monster.group/basilisks"}
 
 With eight legs, a scaled rough hide, and razor-sharp teeth coated in poison, the basilisk is a deadly threat—even aside from their petrifying eye beams. This dreadful creature can fell the mightiest of foes with a look, turning them into an immobilized stone statue who remains thankfully unaware when the basilisk later consumes their petrified form at their leisure.
 
@@ -1792,7 +1792,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 >
 > Any creature who starts their turn adjacent to the tonguesnapper and has M < 1 is slowed (save ends).
 
-## Bredbeddle {data-scc="mcdm.monsters.v1/monster.bredbeddle/bredbeddle"}
+## Bredbeddle {data-scc="mcdm.monsters.v1/monster.group/bredbeddle"}
 
 In their true forms, bredbeddles are ogre-sized headless giants. Forever searching for their missing heads, they are drawn to populous lands, where they decapitate passers-by and magically adopt their victims' forms.
 
@@ -1954,7 +1954,7 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 > - **12-16:** 7 damage; bleeding (save ends); or if the target has A < 2 they are beheaded
 > - **17+:** 8 damage; bleeding (save ends); or if the target has A < 3 they are beheaded
 
-## Bugbears {data-scc="mcdm.monsters.v1/monster.bugbears/bugbears"}
+## Bugbears {data-scc="mcdm.monsters.v1/monster.group/bugbears"}
 
 Bugbears are the bu'gath in the Khelt language, or "the bearers of the great fear." Modern bugbears come from early goblins who first stepped into the wode centuries ago. Fey magic twisted their bodies, making them grow imposingly tall and hairy while removing all sound from their footsteps.
 
@@ -2374,7 +2374,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 >
 > **Effect:** If the snare started their turn hidden from the target, the target is automatically grabbed. A target grabbed this way or already grabbed by the snare can be vertical pushed up to 4 squares.
 
-## Chimera {data-scc="mcdm.monsters.v1/monster.chimera/chimera"}
+## Chimera {data-scc="mcdm.monsters.v1/monster.group/chimera"}
 
 Massive flexing claws. Lashing draconic tail. Nimble leathery wings. And not one, but three menacing heads: a snarling lion, a helix-horned ram, and a dragon with fire sparking in their throat. Many see the chimera as an aggressor—but few know this creature's origins as a divine guardian.
 
@@ -2520,7 +2520,7 @@ At the start of a chimera's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** The chimera uses Roar, then shifts up to their speed and can make a free strike against each enemy who comes adjacent to them during the shift. When the chimera ends this shift, they use Dragon's Eruption. The use of these abilities as part of this villain action costs no Malice.
 
-## Demons {data-scc="mcdm.monsters.v1/monster.demons/demons"}
+## Demons {data-scc="mcdm.monsters.v1/monster.group/demons"}
 
 Creatures of incarnate hate, demons spawn naturally in the Abyssal Wasteland. They crave violence and suffering the way other creatures need food. A demon cares only for themself, and they torture and tear lesser demons apart for fun.
 
@@ -4062,7 +4062,7 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 > - **12-16:** 15 fire damage; push 2
 > - **17+:** 19 fire damage; push 3
 
-## Devils {data-scc="mcdm.monsters.v1/monster.devils/devils"}
+## Devils {data-scc="mcdm.monsters.v1/monster.group/devils"}
 
 In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
 
@@ -4563,7 +4563,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** If the target is an ally or a creature charmed by All Rise, Compel the Jury, or Devilish Suggestion, the high judge and the target teleport to swap places. Each ally within 12 squares of the high judge can then make a free strike against a target of the high judge's choice. Each creature charmed by All Rise, Compel the Jury, or Devilish Suggestion makes a free strike against a target of the high judge's choice.
 
-## Draconians {data-scc="mcdm.monsters.v1/monster.draconians/draconians"}
+## Draconians {data-scc="mcdm.monsters.v1/monster.group/draconians"}
 
 Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
 
@@ -5025,7 +5025,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 >
 > **Effect:** Dorzinuuth covers the targets in an electrifying mesh. Whenever a target takes damage from a melee ability, the attacker takes 6 lightning damage.
 
-## Dragons {data-scc="mcdm.monsters.v1/monster.dragons/dragons"}
+## Dragons {data-scc="mcdm.monsters.v1/monster.group/dragons"}
 
 "John, you don't have to do this."
 
@@ -6011,7 +6011,7 @@ At the start of a meteor dragon's turn, you can spend Malice to activate one of 
 >
 > A black hole manifests as a 1 cube within 20 squares of the dragon in an unoccupied space. Each creature who has M < 5 and each object of size 3 or smaller is vertical pulled 2 squares toward the area at the start of each round, ignoring stability. Any creature who starts their turn in the area or any object in the area at the end of the round suffers the effect of the dragon's Voidlight Breath ability, and the black hole disappears.
 
-## Dwarves {data-scc="mcdm.monsters.v1/monster.dwarves/dwarves"}
+## Dwarves {data-scc="mcdm.monsters.v1/monster.group/dwarves"}
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid that makes them physically denser than humans or elves. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
@@ -6547,7 +6547,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 >
 > Any restrained or slowed creature who comes adjacent to the war walker is automatically restrained (save ends) and takes a bane on power rolls. A creature restrained this way moves with the war walker.
 
-## Elementals {data-scc="mcdm.monsters.v1/monster.elementals/elementals"}
+## Elementals {data-scc="mcdm.monsters.v1/monster.group/elementals"}
 
 When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
 
@@ -6861,7 +6861,7 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 >
 > The force can burrow through stone, but can't drag other creatures underground when they do so.
 
-## Elves, High {data-scc="mcdm.monsters.v1/monster.elves-high/elves-high"}
+## Elves, High {data-scc="mcdm.monsters.v1/monster.group/elves-high"}
 
 The children of the solar celestials, the high elves were created to tend to the sun elves as librarians and heralds. Now they sequester themselves away from the world amid the fallen cities of the sky elves, remembering a better age, before the arrival of humans and war to the world made the high elves who they are today.
 
@@ -7430,7 +7430,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 >
 > If the ceramic horse's rider has the Otherworldly Grace trait, the ceramic horse also has that trait.
 
-## Elves, Shadow {data-scc="mcdm.monsters.v1/monster.elves-shadow/elves-shadow"}
+## Elves, Shadow {data-scc="mcdm.monsters.v1/monster.group/elves-shadow"}
 
 Children of the Twilight Celestials, the shadow elves are the native denizens of the parasitic manifold of Equinox, also known as Dusk. Theirs is a world of perpetual twilight, a sun that never rises nor sets, a world that knows neither noon nor midnight.
 
@@ -8027,7 +8027,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 >
 > While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.
 
-## Elves, Wode {data-scc="mcdm.monsters.v1/monster.elves-wode/elves-wode"}
+## Elves, Wode {data-scc="mcdm.monsters.v1/monster.group/elves-wode"}
 
 Children of the Sylvan Celestials and masters of the elf-haunted wilds for which they are named, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. In their eyes, humans *should* fear the trees.
 
@@ -8607,7 +8607,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 >
 > If the wodenelg's rider has the Masking Glamor trait, the wodenelg also has that trait.
 
-## Fossil Cryptic {data-scc="mcdm.monsters.v1/monster.fossil-cryptic/fossil-cryptic"}
+## Fossil Cryptic {data-scc="mcdm.monsters.v1/monster.group/fossil-cryptic"}
 
 The cave-diving humans who first found fossil cryptics initially thought they were the fossilized reanimated skeletons of creatures predating recorded history. When the explorers' priest presented a holy symbol and attempted to turn the cryptics, he learned these fossilized bones aren't mindless undead—and seconds later, he wound up crushed to death by a pillar of stone.
 
@@ -8787,7 +8787,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 > - **12-16:** 3 damage; vertical slide 4
 > - **17+:** 4 damage; vertical slide 6; if this movement brings the target into contact with the ceiling, they are restrained (save ends).
 
-## Giants {data-scc="mcdm.monsters.v1/monster.giants/giants"}
+## Giants {data-scc="mcdm.monsters.v1/monster.group/giants"}
 
 Supremely well adapted to harsh environments, giants thrive in extreme conditions. Fire giants build floating cities in the hearts of volcanic calderas, while stone giant villages dot the tallest mountains. Most people often go their entire lives blissfully unaware of the local tribe of giants living atop the nearby mountain range. This is for the best, as few "smallfolk" structures can survive even a handful of sufficiently motivated giants.
 
@@ -9565,7 +9565,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 >
 > Whenever an adjacent enemy grabs the chief or uses a melee ability against them, that enemy takes 9 fire damage, and if they have M < 4 they are weakened (save ends)
 
-## Gnolls {data-scc="mcdm.monsters.v1/monster.gnolls/gnolls"}
+## Gnolls {data-scc="mcdm.monsters.v1/monster.group/gnolls"}
 
 Edacity. The hyena-faced gnolls know only blood and hunger. These fiends carry with them the evil legacy of an unwitting demonic heritage. Originally from the Abyssal Wasteland, gnolls quickly spread across the timescape, and they thrive in deserts, plains, and other sparsely populated places. Though a gnoll's muzzle is just as likely to be bloodied by carrion as by prey, their hunting packs hunger for violence, and they eagerly hunt travelers and raid settlements. A pack's eerie war cry, a wild cackle, presages a night of battle and terror.
 
@@ -10021,7 +10021,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 >
 > **Effect:** Until the end of the encounter, all gnolls have a double edge on power rolls that target a winded enemy.
 
-## Goblins {data-scc="mcdm.monsters.v1/monster.goblins/goblins"}
+## Goblins {data-scc="mcdm.monsters.v1/monster.group/goblins"}
 
 Known among themselves as *rogabrin*, meaning "more of us" in their Szetch language, goblins are one of the most numerous humanoid species in the world. They can be found across many lands, have developed countless distinct cultures, and dare to venture into environments that few other humanoids are willing to hazard.
 
@@ -10537,7 +10537,7 @@ Most goblins speak Caelian and Szetch.
 >
 > If the worg's rider has the Crafty trait, the worg also has that trait.
 
-## Griffons {data-scc="mcdm.monsters.v1/monster.griffons/griffons"}
+## Griffons {data-scc="mcdm.monsters.v1/monster.group/griffons"}
 
 With the head, front legs, and wings of a bird and the powerful body and haunches of a feline, griffons are the apex predator's apex predator. Highly territorial with ranges spanning hundreds of leagues, these air-superiority hunters make quick work of any humanoids foolish enough to stumble into griffon lands.
 
@@ -10711,7 +10711,7 @@ At the start of any griffon's turn, you can spend Malice to activate one of the 
 >
 > The griffon can attempt hide even while observed. Additionally, while no enemy has line of effect to them, the griffon can attempt to hide at the end of their turn.
 
-## Hag {data-scc="mcdm.monsters.v1/monster.hag/hag"}
+## Hag {data-scc="mcdm.monsters.v1/monster.group/hag"}
 
 When fear of death or hunger for power grips a mortal spellcaster, often a druid or a witch, they might forge a pact with an evil archfey. The mortal becomes a hag—aged, clawed, and cruel. A ruthlessly powerful fey in their own right, a hag uses their magic to bring about the misery their archfey wills.
 
@@ -10905,7 +10905,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 > - **Components:** Rare or extinct cooking ingredients, hairpins, gecko tails, roses, werewolf blood
 > - **Project Sources:** Notes in Khelt for the Awe armor enhancement or the Displacing I implement enhancement, notes in Anjali for Stygian Liquor or a Color Cloak (any color)
 
-## Hobgoblins {data-scc="mcdm.monsters.v1/monster.hobgoblins/hobgoblins"}
+## Hobgoblins {data-scc="mcdm.monsters.v1/monster.group/hobgoblins"}
 
 Also known as demogoblins, hobgoblins descend from ancient goblins who made a pact with an infernal power in exchange for increased size and strength. Each hobgoblin has fang-like tusks and one or more horns protruding from their head.
 
@@ -11581,7 +11581,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 >
 > While the slaughter demon is winded, they gain an edge on strikes, and any strike made against them gains an edge.
 
-## Humans {data-scc="mcdm.monsters.v1/monster.humans/humans"}
+## Humans {data-scc="mcdm.monsters.v1/monster.group/humans"}
 
 Humans flourish in every habitable part of the world, from inviting coastal cities to unforgiving mountainous terrain. While most humans live quietly in peaceful communities, some are drawn to adventure by an unquenchable thirst for excitement or power.
 
@@ -12195,7 +12195,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 >
 > Once per turn when the hawk moves, any creature riding the hawk can make a free strike during or after the movement.
 
-## Kingfissure Worm {data-scc="mcdm.monsters.v1/monster.kingfissure-worm/kingfissure-worm"}
+## Kingfissure Worm {data-scc="mcdm.monsters.v1/monster.group/kingfissure-worm"}
 
 Named for their infamous hunting technique, kingfissure worms terraform the earth as they move, building tunnels and crevasses to accommodate their enormous form. They then lie in wait deep underground. Seasoned adventurers know to be wary when traveling past even the smallest crack in the earth. For when a worm senses the vibrations of their prey above, they shoot their multiple serpentine tongues through the crevasses, dragging prey from the surface into their cavernous maw.
 
@@ -12383,7 +12383,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Effect:** Each creature swallowed by the worm is regurgitated and automatically subject to the tier 3 outcome, then lands prone in an unoccupied space within 5 squares of the kingfissure worm.
 
-## Kobolds {data-scc="mcdm.monsters.v1/monster.kobolds/kobolds"}
+## Kobolds {data-scc="mcdm.monsters.v1/monster.group/kobolds"}
 
 Kobold communities, called legions, are found in every biome and across the timescape. Gravitating toward powerful allies and defensible locations, kobolds are equally common in walled cities, secluded temples, subterranean tunnel-mazes, and dragon lairs. Most legions strive to be good neighbors or to go entirely unnoticed, but when a community falls under the sway of a malevolent wyrm or power-hungry kobold centurion, they can pose a significant threat.
 
@@ -12893,7 +12893,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.
 
-## Lightbenders {data-scc="mcdm.monsters.v1/monster.lightbenders/lightbenders"}
+## Lightbenders {data-scc="mcdm.monsters.v1/monster.group/lightbenders"}
 
 Lightbenders prowl deserts, plains, forests—any sunbathed wilderness where they can take advantage of the adaptations that make them skilled daylight predators. This monstrous creature's fur bends and refracts light from the surrounding environment, producing mirages that distract and confuse their prey.
 
@@ -13057,7 +13057,7 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 >
 > Any effect on the pouncer that would be ended by a saving throw instead ends automatically at the end of their next turn.
 
-## Lizardfolk {data-scc="mcdm.monsters.v1/monster.lizardfolk/lizardfolk"}
+## Lizardfolk {data-scc="mcdm.monsters.v1/monster.group/lizardfolk"}
 
 Lizardfolk prefer warm, tropical climates, but they're willing to settle in any humid region—the more moisture in the air, the better. Even in colder environs, lizardfolk can be found in any sufficiently marshy environment. Bogs and wetlands are particularly common nesting grounds.
 
@@ -13398,7 +13398,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
 
-## Manticore {data-scc="mcdm.monsters.v1/monster.manticore/manticore"}
+## Manticore {data-scc="mcdm.monsters.v1/monster.group/manticore"}
 
 A weary traveler hears a call through the forest or friendly voices from a rocky shelter, and their heart leaps at the promise of refuge—only to find themself at the mercy of serrated teeth and poisonous spikes. In a manticore's territory, people go missing without a trace. These fearsome creatures carve out their hunting grounds in forests near small villages, mountain passes where caravans travel, and other locations with plentiful wildlife. Though manticores can subsist on a carnivorous diet of any nearby prey, their choicest meal is humanoid flesh.
 
@@ -13551,7 +13551,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 > - **Project Sources:** Notes in Zaliac for the Warding II armor enhancement, notes in Khelt for the Celerity implement enhancement, notes in Variac for an Onerous Bow
 > - **Wealth:** If the heroes follow blood trails back to a nearby abandoned caravan, each hero earns 1 wealth
 
-## Medusa {data-scc="mcdm.monsters.v1/monster.medusa/medusa"}
+## Medusa {data-scc="mcdm.monsters.v1/monster.group/medusa"}
 
 Hunted as monsters with no thought given to their nature or origin, medusas are some of the most underestimated and misunderstood creatures. Many people fear medusas for their monstrous appearance and ability to turn others to stone, but few realize the truth. Each of these monstrosities was once a humanoid, cursed and transformed for defying a god. But while some medusas embrace wickedness, many simply fight for their lives against those who threaten them through their ignorance.
 
@@ -13741,7 +13741,7 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 >
 > **Effect:** As a free triggered action, each stone statue and creature restrained or slowed by Petrify within distance moves up to their speed and uses a signature ability that gains an edge, targeting an enemy of the medusa's choice. A stone statue without its own statistics has speed 5 and uses the medusa's free strike.
 
-## Minotaurs {data-scc="mcdm.monsters.v1/monster.minotaurs/minotaurs"}
+## Minotaurs {data-scc="mcdm.monsters.v1/monster.group/minotaurs"}
 
 The fearsome minotaur is a study in contrasts. Their imposing humanoid body is muscular with patches of thick hair. Their head is that of a massive horned bull, and their soft eyes convey a soulful intelligence mingled with smoldering intensity.
 
@@ -13983,7 +13983,7 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 >
 > The stampede can move through spaces as if they were a size 2 creature, and can occupy other creatures' spaces. At the start of each of the stampede's turns, they can make a free strike against each creature whose space they share.
 
-## Ogres {data-scc="mcdm.monsters.v1/monster.ogres/ogres"}
+## Ogres {data-scc="mcdm.monsters.v1/monster.group/ogres"}
 
 Massive and bull-necked with bulging muscle and flesh, most ogres indulge their every impulse because few can stop them. Though small for giants, ogres outweigh and tower over humanoids. Most live in the wild where they can create their own rules and ways of life.
 
@@ -14257,7 +14257,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 >
 > The tantrum has damage immunity 3 and speed 8 while their squad has two or fewer minions in it.
 
-## Olothec {data-scc="mcdm.monsters.v1/monster.olothec/olothec"}
+## Olothec {data-scc="mcdm.monsters.v1/monster.group/olothec"}
 
 Protean in form, beings of nearly pure intellect, the Old Ones think in alien geometric logic. Their name for themselves is unrecorded, but sages believe they are the oldest beings in the timescape and simply call them "The Old Ones." Synlirii refer to them as olothec (*OH-luh thek*)-"ancient enemies." But some humanoid scholars have noted this term bears an uncanny similarity to another archaic synlirii word meaning "ancient ancestor."
 
@@ -14451,7 +14451,7 @@ At the start of an olothec's turn, you can spend Malice to activate one of the f
 >
 > **Effect:** A devolved creature has a −1 score for all their characteristics other than Reason.
 
-## Orcs {data-scc="mcdm.monsters.v1/monster.orcs/orcs"}
+## Orcs {data-scc="mcdm.monsters.v1/monster.group/orcs"}
 
 In a long-lost language, the word oruk-"blood fire"-described the glowing appearance of the orc people when they push themselves to their limits. While orcs know one another as kanin ("the people") in their own language, they also use "orc" with great pride, especially when dealing with other folk.
 
@@ -15137,7 +15137,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > While riding the scyza, three size 1 allies can occupy the same space.
 
-## Radenwights {data-scc="mcdm.monsters.v1/monster.radenwights/radenwights"}
+## Radenwights {data-scc="mcdm.monsters.v1/monster.group/radenwights"}
 
 The ratfolk known as radenwights are blessed with coordination and acrobatics so impressive and effective that they might be a highly trained and practiced circus act. They enjoy building their warrens, known as "meddles," under cities where the chaos of daily life makes raiding the people above fun and easy.
 
@@ -15531,7 +15531,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 >
 > **Effect:** Each target stands, makes a free strike, then falls dead again. Any ally of the targets can use Ready Rodent as a free triggered action once in conjunction with these free strikes.
 
-## Rivals {data-scc="mcdm.monsters.v1/monster.rivals/rivals"}
+## Rivals {data-scc="mcdm.monsters.v1/monster.group/rivals"}
 
 They take the jobs you were eyeing on the local town's job board. They sit at your favorite table in the tavern with the best drinks, food, and entertainment. You know their names, and they know yours. They're rivals—heroes just like you. Maybe even better.
 
@@ -16910,7 +16910,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 >
 > At the start of an encounter, the talent chooses one creature within their line of effect. Both the talent and the creature can add a d3 roll to power rolls they make against each other.
 
-## Shambling Mound {data-scc="mcdm.monsters.v1/monster.shambling-mound/shambling-mound"}
+## Shambling Mound {data-scc="mcdm.monsters.v1/monster.group/shambling-mound"}
 
 Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late—the shambling mound has devoured them.
 
@@ -17087,7 +17087,7 @@ At the start of a shambling mound's turn, you can spend Malice to activate one o
 >
 > **Effect:** The shambling mound rips themself apart, exposing the crux of magic holding them together. The distance of the shambling mound's melee abilities increases to melee 10, the creature has a double edge on power rolls, and strikes made against them gain an edge.
 
-## Time Raiders {data-scc="mcdm.monsters.v1/monster.time-raiders/time-raiders"}
+## Time Raiders {data-scc="mcdm.monsters.v1/monster.group/time-raiders"}
 
 Genetic rebels, the space punks known as the time raiders (called the *kuran'zoi* among themselves) scour the Sea of Stars, the Sea Between Worlds, for heavily laden ships of any type. But they prefer the ships of UNISOL and other empires, for they love raiding the frigates of powerful governments who think their money and imperious nature can buy security.
 
@@ -17535,7 +17535,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > **Effect:** The tyrannis fires a sensor mine into each unoccupied square in the area, and creates a gravity well whose area contains one or more squares of the tyrannis's space (see Gravity Well). Whenever an enemy enters a square with a sensor mine in it, the mine explodes, dealing 3 damage to the enemy.
 
-## Trolls {data-scc="mcdm.monsters.v1/monster.trolls/trolls"}
+## Trolls {data-scc="mcdm.monsters.v1/monster.group/trolls"}
 
 Ravenous trolls rampage through the wild to quell their fathomless hunger, leaving only destruction in their wake. Tall and gangly, they have mottled green skin covered by a mane of matted hair that runs down their neck and back. In many ways, they resemble massive humanoids, but their exaggerated features belie this comparison. A troll's lower jaw hangs unhinged and distended, and their long arms end in claws that drag along the ground as they walk.
 
@@ -17805,7 +17805,7 @@ At the start of any troll's turn, you can spend Malice to activate one of the fo
 >
 > The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.
 
-## Undead {data-scc="mcdm.monsters.v1/monster.undead/undead"}
+## Undead {data-scc="mcdm.monsters.v1/monster.group/undead"}
 
 Some serve as mindless soldiers and workers under the control of a necromancer. Others rise when they die a bitter death in a place infused with cursed magic. For a few, it was a choice to become something beyond mortal. However they arose, all undead were once living creatures who now walk the land after death in defiance of the natural order.
 
@@ -19358,7 +19358,7 @@ At the start of any level 10 undead's turn, you can spend Malice to activate one
 >
 > Each ally within 10 squares of the lithgekh gains an edge on magic abilities.
 
-## Count Rhodar Von Glauer {data-scc="mcdm.monsters.v1/monster.count-rhodar-von-glauer/count-rhodar-von-glauer"}
+## Count Rhodar Von Glauer {data-scc="mcdm.monsters.v1/monster.group/count-rhodar-von-glauer"}
 
 After falling to a vampiric curse in his early twenties, Count Rhodar—the last Lord of Glauer—ruled his tiny, heavily forested mountainous county in eastern Rhöl for three hundred years. There were worse overlords, the people said. After all, Rhodar took his pact with the people and the land seriously. He aggressively defended the villages in his demesne against constant incursions from rival counts and barons. He believed his power waxed and waned with the prosperity of the people and the vitality of the land.
 
@@ -19562,7 +19562,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 >
 > **Effect:** Rhodar teleports to an unoccupied space adjacent to one target after the ability resolve.
 
-## Lich {data-scc="mcdm.monsters.v1/monster.lich/lich"}
+## Lich {data-scc="mcdm.monsters.v1/monster.group/lich"}
 
 A lich begins life as a mortal, often a studied mage, fueled by a burning, unquenchable hunger for knowledge at any cost. Knowledge beyond life and death, beyond this world, beyond gods and fiends. Possessed by the unshakable belief that ultimate knowledge brings ultimate power. The necessary rites are forbidden in many cultures, for they require a bloody, evil act: the sacrifice of someone dear to the would-be lich.
 
@@ -19750,7 +19750,7 @@ At the start of a lich's turn, you can spend Malice to activate one of the follo
 >
 > **Effect:** At the end of each of the lich's turns, they regain 10 Stamina for each creature frightened this way.
 
-## Valok {data-scc="mcdm.monsters.v1/monster.valok/valok"}
+## Valok {data-scc="mcdm.monsters.v1/monster.group/valok"}
 
 Abandoned autonomous machines made by the ancient steel dwarves, valok can still be found deep within the crumbling ruins and underground structures of long-dead civilizations. The steel dwarves made their instruments well, though, and valok can still be activated! However, doing so without the correct control phrases could unleash an unstoppable machine overloaded by the weight of time.
 
@@ -20176,7 +20176,7 @@ Most valok communicate exclusively in Rallarian.
 >
 > While the war engine isn't bleeding, weakened, or winded, any power roll made against them is automatically a tier 1 outcome. A critical hit still grants its additional main action.
 
-## Voiceless Talkers {data-scc="mcdm.monsters.v1/monster.voiceless-talkers/voiceless-talkers"}
+## Voiceless Talkers {data-scc="mcdm.monsters.v1/monster.group/voiceless-talkers"}
 
 Among the most powerful psions in the timescape, synlirii (*sin-LEER-ee*, singular: synliroi) are known as the "voiceless talkers" to the denizens of the World Below—and to surface dwellers unfortunate enough to encounter them. Descended from boneless aquatic cephalopods, they are alien in thought and motivation to the humanoid species they loathe. Synlirii consider the "barking ones" (their label for creatures who squeeze air through meat flaps to communicate) an abomination that must be corrected.
 
@@ -20636,7 +20636,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 >
 > **Effect:** Until the end of the encounter, the evolutionist is surrounded by a psionic electrical storm that is a 5 aura. The area is difficult terrain for enemies, and any enemy who enters the area for the first time in a round or starts their turn there takes 8 lightning damage.
 
-## Lord Syuul {data-scc="mcdm.monsters.v1/monster.lord-syuul/lord-syuul"}
+## Lord Syuul {data-scc="mcdm.monsters.v1/monster.group/lord-syuul"}
 
 "Yours is an interesting mind, Tyract. I wonder what it *tastes* like?"
 
@@ -20820,7 +20820,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 >
 > **Effect:** Until the end of the encounter, each target has damage weakness 3.
 
-## War Dogs {data-scc="mcdm.monsters.v1/monster.war-dogs/war-dogs"}
+## War Dogs {data-scc="mcdm.monsters.v1/monster.group/war-dogs"}
 
 Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
@@ -22943,7 +22943,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 >
 > **Effect:** Until the start of the next round, each target enemy who has I < 4 is dazed, each target enemy who has M < 4 is restrained, and each target enemy who has A < 4 can't use triggered actions. Additionally, until the end of the encounter, Alkestis and each target ally have damage immunity 3 and deal an extra 5 damage with strikes.
 
-## Werewolf {data-scc="mcdm.monsters.v1/monster.werewolf/werewolf"}
+## Werewolf {data-scc="mcdm.monsters.v1/monster.group/werewolf"}
 
 A wolf howls and your bowels freeze. Terror overcomes you. Sweat makes your skin slick, your senses sharpened. The moon is high but you feel hot. You're burning up. There's blood in your mouth and a corpse at your feet. Where did that come from?! That animal... that *thing* that almost clawed you to death last week... was it a wolf ? Was it *just* a wolf ?
 
@@ -23107,7 +23107,7 @@ At the start of a werewolf's turn, you can spend Malice to activate one of the f
 >
 > **Effect:** The werewolf shifts up to their speed before and after using this ability.
 
-## Wyverns {data-scc="mcdm.monsters.v1/monster.wyverns/wyverns"}
+## Wyverns {data-scc="mcdm.monsters.v1/monster.group/wyverns"}
 
 The sight of a wyvern perched high atop a rotting tree or lit upon the jagged peak of a shadowy mountain marks the boundary between the known lands and forest primeval. There are raw, ancient sorceries in the wilderness that imbue those lands with power and hate older than roads and carts.
 
@@ -23277,7 +23277,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 >
 > Any creature affected by a condition imposed by a wyvern can't be hidden from the predator.
 
-## Xorannox the Tyract {data-scc="mcdm.monsters.v1/monster.xorannox-the-tyract/xorannox-the-tyract"}
+## Xorannox the Tyract {data-scc="mcdm.monsters.v1/monster.group/xorannox-the-tyract"}
 
 Xorannox the Tyract is an overmind. Formally known by their endonym, vaurath (plural: vaurathi), overminds plot and scheme against their chief rivals, the synlirii and the olothec, for control of the World Below.
 
