@@ -37,4 +37,14 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav
 
+      # Stamp the v2 build version into mkdocs.yml just before deploy. $GITHUB_SHA
+      # is the commit being deployed (no chicken-and-egg). Targeted sed on the
+      # placeholder lines avoids a YAML parser stripping mkdocs.yml's comments and
+      # choking on its !!python/name: tags. Not committed back — gh-deploy only
+      # force-pushes the built site to gh-pages.
+      - name: Stamp site build version
+        run: |
+          sed -i -E "s|^(  site_sha:).*|\1 \"${GITHUB_SHA::7}\"|" mkdocs.yml
+          sed -i -E "s|^(  site_date:).*|\1 \"$(date +%F)\"|" mkdocs.yml
+
       - run: mkdocs gh-deploy --force
