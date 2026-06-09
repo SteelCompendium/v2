@@ -528,7 +528,7 @@ As a [censor](../../Browse/class/censor.md), you're at your best against the str
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 12
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md), [Religion](../../Browse/skill/lore/religion.md).)
+**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) or [lore](../../Browse/skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md), [Religion](../../Browse/skill/lore/religion.md).)
 
 ###### Censor Advancement Table
 
@@ -1887,7 +1887,7 @@ The power of the gods flows through you! As a vessel for [divine power](../../Br
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md), Religion.)
+**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) or [lore](../../Browse/skill/lore/lore.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md), Religion.)
 
 ###### Conduit Advancement Table
 
@@ -3596,7 +3596,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any three skills from the [crafting](../../Browse/skill/crafting/crafting.md) or [lore](../../Browse/skill/lore/lore.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ###### Elementalist Advancement Table
 
@@ -5062,7 +5062,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Nature](../../Browse/skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](../../Browse/skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [exploration](../../Browse/skill/exploration/exploration.md) or [intrigue](../../Browse/skill/intrigue/intrigue.md) skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ###### Fury Advancement Table
 
@@ -6542,7 +6542,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Psionics](../../Browse/skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
+**Skills:** You gain the [Psionics](../../Browse/skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) or [lore](../../Browse/skill/lore/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
 ###### Null Advancement Table
 
@@ -6567,9 +6567,9 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 
 Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../../Browse/feature/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../../Browse/skill/lore/monsters.md) skill.)
 
-- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
-- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
-- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
+- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the [lore group](../../Browse/skill/lore/lore.md).
+- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the [crafting group](../../Browse/skill/crafting/crafting.md).
+- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the [exploration group](../../Browse/skill/exploration/exploration.md).
 
 Your [null tradition](../../Browse/feature/null/level-1/null-tradition.md) is your [subclass](../../Browse/rule/general/subclass.md), and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
@@ -7755,7 +7755,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../../Browse/skill/exploration/exploration.md), [interpersonal](../../Browse/skill/interpersonal/interpersonal.md), or [intrigue](../../Browse/skill/intrigue/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ###### Shadow Advancement Table
 
@@ -9047,7 +9047,7 @@ You command any room you walk into. While you are present during a negotiation, 
 
 ##### Covert Operations {data-scc="mcdm.heroes.v1/feature.tactician.level-1/covert-operations"}
 
-While in your presence or working according to your plans, each of your allies gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) using any skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md). Additionally, you can use the [Lead](../../Browse/skill/interpersonal/lead.md) skill to assist another creature with any [test](../../Browse/rule/test/test.md) made using a skill from the intrigue group.
+While in your presence or working according to your plans, each of your allies gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) using any skill from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md). Additionally, you can use the [Lead](../../Browse/skill/interpersonal/lead.md) skill to assist another creature with any [test](../../Browse/rule/test/test.md) made using a skill from the [intrigue group](../../Browse/skill/intrigue/intrigue.md).
 
 At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../../Browse/skill/intrigue/intrigue.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
@@ -10068,7 +10068,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Psionics and [Read Person](../../Browse/skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
+**Skills:** You gain the Psionics and [Read Person](../../Browse/skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) or [lore](../../Browse/skill/lore/lore.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
 ###### Talent Advancement Table
 
@@ -11158,7 +11158,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../Browse/rule/character/reason.md) score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../Browse/rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) and [lore](../../Browse/skill/lore/lore.md) skill groups. These replacements last until the end of your next [respite](../../Browse/rule/resource/respite.md).
 
 #### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
 
@@ -11524,7 +11524,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../../Browse/skill/interpersonal/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/interpersonal.md) and one skill from the [intrigue](../../Browse/skill/intrigue/intrigue.md) or [lore](../../Browse/skill/lore/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../../Browse/skill/interpersonal/read-person.md), Rumors.)
 
 ###### Troubadour Advancement Table
 
@@ -11596,7 +11596,7 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](kits.md) for m
 
 #### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner"}
 
-Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) to interact with an [NPC](../../Browse/rule/general/npc.md) using a skill from the interpersonal group, you can form a bond with that [NPC](../../Browse/rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../../Browse/rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../../Browse/rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
+Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) to interact with an [NPC](../../Browse/rule/general/npc.md) using a skill from the [interpersonal group](../../Browse/skill/interpersonal/interpersonal.md), you can form a bond with that [NPC](../../Browse/rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../../Browse/rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../../Browse/rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
 
 You can have a number of bonds active equal to your level. When you form a bond with a new [NPC](../../Browse/rule/general/npc.md) that would exceed the limit, you must choose which of your active bonds to lose.
 

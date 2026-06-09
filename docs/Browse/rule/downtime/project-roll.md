@@ -22,7 +22,7 @@ Since [project rolls](project-roll.md) don't use success tiers, they don't follo
 
 ## Skills and Project Rolls
 
-You can apply skills from either the crafting or lore skill groups to [project rolls](project-roll.md) that directly relate to a downtime project (see Skills in Chapter 9: [Tests](../../../Read/heroes/tests.md)). For example, you could use the Tailoring skill for [project rolls](project-roll.md) related to making a magic cloak, and you could use the History skill while attempting to research the location of an ancient battle where a magic crown was lost. At the Director's discretion, you can also use skills from other skill groups, but a skill used for a [project roll](project-roll.md) must be directly related to the project.
+You can apply skills from either the [crafting](../../skill/crafting/crafting.md) or [lore](../../skill/lore/lore.md) skill groups to [project rolls](project-roll.md) that directly relate to a downtime project (see Skills in Chapter 9: [Tests](../../../Read/heroes/tests.md)). For example, you could use the Tailoring skill for [project rolls](project-roll.md) related to making a magic cloak, and you could use the History skill while attempting to research the location of an ancient battle where a magic crown was lost. At the Director's discretion, you can also use skills from other skill groups, but a skill used for a [project roll](project-roll.md) must be directly related to the project.
 
 ## Language and Project Rolls
 

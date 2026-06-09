@@ -791,7 +791,7 @@ You were captured by the psionic beings known as voiceless talkers (see *Draw St
 
 You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.
 
-**Benefit:** You have one skill of your choice from the [crafting skill group](../../Browse/skill/crafting/crafting.md). Additionally, choose one of your skills from the crafting group. You gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) that uses that skill.
+**Benefit:** You have one skill of your choice from the [crafting skill group](../../Browse/skill/crafting/crafting.md). Additionally, choose one of your skills from the [crafting group](../../Browse/skill/crafting/crafting.md). You gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) that uses that skill.
 
 **Drawback:** Whoever killed your mentor cursed you. You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that doesn't use one of your skills.
 

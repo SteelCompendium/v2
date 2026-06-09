@@ -5,7 +5,7 @@ name: Explorer
 perk: One exploration perk (*Quick Build:* [Wood Wise](../perk/wood-wise.md).)
 scc: mcdm.heroes.v1/career/explorer
 skills:
-    - The [Navigate](../skill/exploration/navigate.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../skill/exploration/climb.md), [Heal](../skill/exploration/heal.md), [Navigate](../skill/exploration/navigate.md).)
+    - The [Navigate](../skill/exploration/navigate.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two more skills from the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Climb](../skill/exploration/climb.md), [Heal](../skill/exploration/heal.md), [Navigate](../skill/exploration/navigate.md).)
 type: career
 ---
 
@@ -23,7 +23,7 @@ You ventured into uncharted areas and made your living as a cartographer, resear
 
 You gain the following career benefits:
 
-**Skills:** The [Navigate](../skill/exploration/navigate.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two more skills from the exploration group (*Quick Build:* [Climb](../skill/exploration/climb.md), [Heal](../skill/exploration/heal.md), [Navigate](../skill/exploration/navigate.md).)
+**Skills:** The [Navigate](../skill/exploration/navigate.md) skill (from the [exploration skill group](../skill/exploration/exploration.md)), plus two more skills from the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Climb](../skill/exploration/climb.md), [Heal](../skill/exploration/heal.md), [Navigate](../skill/exploration/navigate.md).)
 
 **Languages:** Two languages
 

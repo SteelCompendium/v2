@@ -5,7 +5,7 @@ name: Farmer
 perk: One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
 scc: mcdm.heroes.v1/career/farmer
 skills:
-    - The [Handle Animals](../skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two skills from the exploration group (*Quick Build:* [Drive](../skill/exploration/drive.md), [Handle Animals](../skill/interpersonal/handle-animals.md), [Lift](../skill/exploration/lift.md).)
+    - The [Handle Animals](../skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two skills from the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Drive](../skill/exploration/drive.md), [Handle Animals](../skill/interpersonal/handle-animals.md), [Lift](../skill/exploration/lift.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You grew crops or cared for livestock. In defining your career, think about the 
 
 You gain the following career benefits:
 
-**Skills:** The [Handle Animals](../skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two skills from the exploration group (*Quick Build:* [Drive](../skill/exploration/drive.md), [Handle Animals](../skill/interpersonal/handle-animals.md), [Lift](../skill/exploration/lift.md).)
+**Skills:** The [Handle Animals](../skill/interpersonal/handle-animals.md) skill (from the [interpersonal skill group](../skill/interpersonal/interpersonal.md)), plus two skills from the [exploration group](../skill/exploration/exploration.md) (*Quick Build:* [Drive](../skill/exploration/drive.md), [Handle Animals](../skill/interpersonal/handle-animals.md), [Lift](../skill/exploration/lift.md).)
 
 **Languages:** One language
 

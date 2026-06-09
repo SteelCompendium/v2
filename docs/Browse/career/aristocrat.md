@@ -5,7 +5,7 @@ name: Aristocrat
 perk: One lore perk (*Quick Build:* I've Read About This Place.)
 scc: mcdm.heroes.v1/career/aristocrat
 skills:
-    - One skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the lore group (*Quick Build:* [Brag](../skill/interpersonal/brag.md), [Society](../skill/lore/society.md).)
+    - One skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Brag](../skill/interpersonal/brag.md), [Society](../skill/lore/society.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ Career? Who needs a career when you're born into money! Or marry into it! Or con
 
 You gain the following career benefits:
 
-**Skills:** One skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the lore group (*Quick Build:* [Brag](../skill/interpersonal/brag.md), [Society](../skill/lore/society.md).)
+**Skills:** One skill from the [interpersonal skill group](../skill/interpersonal/interpersonal.md) and one skill from the [lore group](../skill/lore/lore.md) (*Quick Build:* [Brag](../skill/interpersonal/brag.md), [Society](../skill/lore/society.md).)
 
 **Languages:** One language
 

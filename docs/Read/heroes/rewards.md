@@ -2201,7 +2201,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** Choose one of the following benefits:
 
-- *Easy Marks:* You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+- *Easy Marks:* You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using skills from the [interpersonal](../../Browse/skill/interpersonal/interpersonal.md) and [intrigue](../../Browse/skill/intrigue/intrigue.md) skill groups when influencing members of a community that you have saved.
 - *Local Fame:* You earn 1 [Renown](../../Browse/rule/resource/renown.md).
 - *A New Dawn:* Each time you finish a [respite](../../Browse/rule/resource/respite.md) while in a community you have saved, the party gains a [hero token](../../Browse/rule/resource/hero-token.md). This [hero token](../../Browse/rule/resource/hero-token.md) disappears at the end of your next [respite](../../Browse/rule/resource/respite.md) if it hasn't been used.
 
@@ -2254,7 +2254,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 
-Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../../Browse/title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill.
+Additionally, the faction is a good source of information. The Director chooses a skill from the [crafting](../../Browse/skill/crafting/crafting.md) or [lore](../../Browse/skill/lore/lore.md) skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../../Browse/title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill.
 
 #### Presumed Dead {data-scc="mcdm.heroes.v1/title/presumed-dead"}
 

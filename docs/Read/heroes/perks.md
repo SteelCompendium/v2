@@ -101,7 +101,7 @@ During [montage tests](../../Browse/rule/test/montage-test.md), whenever you mak
 
 #### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
-At the start of a [group test](../../Browse/rule/test/group-test.md) or [montage test](../../Browse/rule/test/montage-test.md), you can spend a [hero token](../../Browse/rule/resource/hero-token.md). If you do, all participants make [tests](../../Browse/rule/test/test.md) as if they also had any skill you have from the exploration group.
+At the start of a [group test](../../Browse/rule/test/group-test.md) or [montage test](../../Browse/rule/test/montage-test.md), you can spend a [hero token](../../Browse/rule/resource/hero-token.md). If you do, all participants make [tests](../../Browse/rule/test/test.md) as if they also had any skill you have from the [exploration group](../../Browse/skill/exploration/exploration.md).
 
 #### Teamwork {data-scc="mcdm.heroes.v1/perk/teamwork"}
 

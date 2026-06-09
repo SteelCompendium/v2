@@ -5,7 +5,7 @@ name: Watch Officer
 perk: One exploration perk (*Quick Build:* [Team Leader](../perk/team-leader.md).)
 scc: mcdm.heroes.v1/career/watch-officer
 skills:
-    - Alertness (from the [intrigue skill group](../skill/intrigue/intrigue.md)), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../skill/intrigue/alertness.md), [Search](../skill/intrigue/search.md), Track.)
+    - Alertness (from the [intrigue skill group](../skill/intrigue/intrigue.md)), plus two more skills from the [intrigue group](../skill/intrigue/intrigue.md) (*Quick Build:* [Alertness](../skill/intrigue/alertness.md), [Search](../skill/intrigue/search.md), Track.)
 type: career
 ---
 
@@ -23,7 +23,7 @@ You served as an officer of the law for a local government. You might have been 
 
 You gain the following career benefits:
 
-**Skills:** Alertness (from the [intrigue skill group](../skill/intrigue/intrigue.md)), plus two more skills from the intrigue group (*Quick Build:* [Alertness](../skill/intrigue/alertness.md), [Search](../skill/intrigue/search.md), Track.)
+**Skills:** Alertness (from the [intrigue skill group](../skill/intrigue/intrigue.md)), plus two more skills from the [intrigue group](../skill/intrigue/intrigue.md) (*Quick Build:* [Alertness](../skill/intrigue/alertness.md), [Search](../skill/intrigue/search.md), Track.)
 
 **Languages:** Two languages
 
