@@ -1,6 +1,6 @@
 site_name: "Steel Compendium: Draw Steel Rules"
 site_url: https://steelcompendium.io/v2
-copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl <a href="https://github.com/SteelCompendium/steel-etl/commit/6e2b81f">6e2b81f</a> (2026-06-08)</small>'
+copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl <a href="https://github.com/SteelCompendium/steel-etl/commit/e2b562b">e2b562b</a> (2026-06-08)</small>'
 theme:
   name: "material"
   palette:

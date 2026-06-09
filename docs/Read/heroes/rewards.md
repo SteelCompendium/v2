@@ -2,7 +2,7 @@
 search:
   exclude: true
 name: Rewards
-order: 16
+order: 13
 scc: mcdm.heroes.v1/chapter/rewards
 type: chapter
 ---
@@ -13,7 +13,7 @@ type: chapter
 
 Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn [renown](../../Browse/rule/resource/renown.md), attract [followers](../../Browse/rule/general/follower.md), and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
 
-## Treasures {data-scc="mcdm.heroes.v1/chapter/treasures"}
+## Treasures
 
 You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
@@ -1235,7 +1235,7 @@ Like [trinkets](../../Browse/rule/treasure/trinket.md), leveled treasures can be
 
 #### Leveled Benefits
 
-Each [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](treasures.md) are cumulative.
+Each [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](rewards.md) are cumulative.
 
 #### Carry Three Safely
 
@@ -1253,7 +1253,7 @@ It's fine to own or possess more than three [leveled treasures](../../Browse/rul
 
 #### Leveled Armor Treasures
 
-Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](treasures.md) in alphabetical order.
+Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](rewards.md) in alphabetical order.
 
 ##### Adaptive Second Skin of Toxins {data-scc="mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins"}
 
@@ -1457,7 +1457,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 #### Leveled Implement Treasures
 
-[Implements](../../Browse/rule/treasure/implement.md) are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](treasures.md) in alphabetical order.
+[Implements](../../Browse/rule/treasure/implement.md) are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](rewards.md) in alphabetical order.
 
 ##### Abjurer's Bastion {data-scc="mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion"}
 
@@ -1581,7 +1581,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 #### Leveled Weapon Treasures
 
-For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](treasures.md) in alphabetical order.
+For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](rewards.md) in alphabetical order.
 
 ##### Authority's End {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end"}
 
@@ -1863,7 +1863,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 #### Other Leveled Treasures
 
-In addition to armor, shields, [implements](../../Browse/rule/treasure/implement.md), and weapons, heroes can make use of a wide range of [magic and psionic treasures](treasures.md). This section presents other types of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) in alphabetical order.
+In addition to armor, shields, [implements](../../Browse/rule/treasure/implement.md), and weapons, heroes can make use of a wide range of [magic and psionic treasures](rewards.md). This section presents other types of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) in alphabetical order.
 
 ##### Bloodbound Band {data-scc="mcdm.heroes.v1/treasure.leveled.other/bloodbound-band"}
 
@@ -2035,7 +2035,7 @@ When the Mortal Coil is left unattended or is in the possession of a creature wh
 
 **Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host—either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
 
-## Titles {data-scc="mcdm.heroes.v1/chapter/titles"}
+## Titles
 
 Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles—sometimes individually, sometimes as a group—by accomplishing heroic tasks. Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty.
 

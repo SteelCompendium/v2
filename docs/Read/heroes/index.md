@@ -44,20 +44,6 @@ search:
   <div class="sc-card__flavor">What makes a hero? Is their desire to stand up for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes tho…</div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="cultures/" aria-label="Culture"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
-    <div><div class="sc-card__type">Chapter</div>
-    <div class="sc-card__name">Culture</div></div></div>
-  <div class="sc-card__flavor">A hero&#39;s culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their g…</div>
-</div>
-<div class="sc-card sc-fil">
-  <a class="sc-card__link" href="careers/" aria-label="Careers"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
-    <div><div class="sc-card__type">Chapter</div>
-    <div class="sc-card__name">Careers</div></div></div>
-  <div class="sc-card__flavor">Being a hero isn&#39;t a job. It&#39;s a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that…</div>
-</div>
-<div class="sc-card sc-fil">
   <a class="sc-card__link" href="classes/" aria-label="Classes"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
     <div><div class="sc-card__type">Chapter</div>
@@ -93,13 +79,6 @@ search:
   <div class="sc-card__flavor">When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you&#39;ll…</div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="skills/" aria-label="Skills"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
-    <div><div class="sc-card__type">Chapter</div>
-    <div class="sc-card__name">Skills</div></div></div>
-  <div class="sc-card__flavor">Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particul…</div>
-</div>
-<div class="sc-card sc-fil">
   <a class="sc-card__link" href="combat/" aria-label="Combat"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
     <div><div class="sc-card__type">Chapter</div>
@@ -126,20 +105,6 @@ search:
     <div><div class="sc-card__type">Chapter</div>
     <div class="sc-card__name">Rewards</div></div></div>
   <div class="sc-card__flavor">Virtue is its own reward... but wouldn&#39;t a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and ama…</div>
-</div>
-<div class="sc-card sc-fil">
-  <a class="sc-card__link" href="treasures/" aria-label="Treasures"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
-    <div><div class="sc-card__type">Chapter</div>
-    <div class="sc-card__name">Treasures</div></div></div>
-  <div class="sc-card__flavor">You&#39;ve helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psi…</div>
-</div>
-<div class="sc-card sc-fil">
-  <a class="sc-card__link" href="titles/" aria-label="Titles"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z"/></svg></span></span>
-    <div><div class="sc-card__type">Chapter</div>
-    <div class="sc-card__name">Titles</div></div></div>
-  <div class="sc-card__flavor">Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles—sometimes individually, sometimes as a group—by accomplishing heroic tasks. Titles are the recor…</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="gods-and-religion/" aria-label="Gods and Religion"></a>

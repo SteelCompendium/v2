@@ -2,7 +2,7 @@
 search:
   exclude: true
 name: Perks
-order: 9
+order: 7
 scc: mcdm.heroes.v1/chapter/perks
 type: chapter
 ---

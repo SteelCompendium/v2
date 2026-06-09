@@ -2,7 +2,7 @@
 search:
   exclude: true
 name: For the Director
-order: 20
+order: 15
 scc: mcdm.heroes.v1/chapter/for-the-director
 type: chapter
 ---
