@@ -27,9 +27,18 @@ th:empty {
    the whole card — text, padding, badges, power-roll panel — proportionally and
    reflows correctly. Applied to top-level cards only; nested cards (abilities or
    sub-traits inside a trait) are reset to zoom:1 so they inherit the parent
-   card's zoom instead of compounding it. */
+   card's zoom instead of compounding it.
+
+   Index/landing pages don't use .sc-ability/.sc-trait — they render card GRIDS:
+   .sc-cards (Browse landing, steel-redesign.css), .sc-folders (folder nav) and
+   .sc-prevs (preview + JS browse results, steel-indexes.css). Zoom the grid
+   container (not each cell) so tracks, gaps, and card contents all scale together
+   and the auto-fill reflow stays coherent. */
 .md-typeset .sc-ability,
-.md-typeset .sc-trait {
+.md-typeset .sc-trait,
+.md-typeset .sc-cards,
+.md-typeset .sc-folders,
+.md-typeset .sc-prevs {
     zoom: var(--sc-card-scale);
 }
 .md-typeset .sc-trait .sc-ability,
