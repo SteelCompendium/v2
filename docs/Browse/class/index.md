@@ -80,7 +80,10 @@
     <div class="sc-card__name">Shadow</div></div></div>
   <div class="sc-card__intro"><p>Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or <a href="shadow/">shadow</a>-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.</p>
 <p><strong>As a <a href="shadow/">shadow</a>, you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.</strong></p>
-<p>&quot;Whenever there is doubt, there is no doubt.&quot; <strong>Motto of the College of Black Ash</strong></p></div>
+<blockquote>
+<p>&quot;Whenever there is doubt, there is no doubt.&quot;</p>
+<p><strong>Motto of the College of Black Ash</strong></p>
+</blockquote></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="summoner/" aria-label="Summoner"></a>
@@ -122,7 +125,9 @@
     <div class="sc-card__name">Troubadour</div></div></div>
   <div class="sc-card__intro"><p>The whole world's a stage, and everyone on it, an actor. No one knows this better than the <a href="troubadour/">troubadour</a>. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.</p>
 <p><strong>As a <a href="troubadour/">troubadour</a>, you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.</strong></p>
-<p>&quot;History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world.&quot; <strong>Jackson Bootblack</strong></p>
-<p>There is no visible text in the image provided. The image appears to show a decorative or scalloped <a href="../rule/dice/edge/">edge</a> pattern, but contains no recognizable letters, words, or symbols.</p></div>
+<blockquote>
+<p>&quot;History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world.&quot;</p>
+<p><strong>Jackson Bootblack</strong></p>
+</blockquote></div>
 </div>
 </div>

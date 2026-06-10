@@ -1,6 +1,6 @@
 site_name: "Steel Compendium: Draw Steel Rules"
 site_url: https://steelcompendium.io/v2
-copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.'
+copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.'
 theme:
   name: "material"
   palette:
@@ -99,7 +99,7 @@ extra:
   # Build stamps shown in the footer. etl_* is written by the local `just`
   # recipes (steel-etl pipeline commit); site_* is written by CI from
   # $GITHUB_SHA right before gh-deploy. Committed empty; filled at build time.
-  etl_sha: "75c2789"
+  etl_sha: "9fa15b2"
   etl_date: "2026-06-10"
   site_sha: ""
   site_date: ""
@@ -119,6 +119,7 @@ extra_css:
   - stylesheets/steel-ability-cards.css
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
+  - stylesheets/steel-bestiary.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
@@ -135,6 +136,7 @@ extra_javascript:
   - javascripts/steel-ability-cards.js
   - javascripts/steel-traits.js
   - javascripts/steel-feature-browser.js
+  - javascripts/steel-bestiary-browser.js
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js

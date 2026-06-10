@@ -7732,7 +7732,9 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **As a [shadow](../../Browse/class/shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
-"Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
+> "Whenever there is doubt, there is no doubt." 
+>
+> **Motto of the College of Black Ash**
 
 ### Basics
 
@@ -11500,9 +11502,9 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 
 **As a [troubadour](../../Browse/class/troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
-"History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
-
-There is no visible text in the image provided. The image appears to show a decorative or scalloped [edge](../../Browse/rule/dice/edge.md) pattern, but contains no recognizable letters, words, or symbols.
+> "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." 
+>
+> **Jackson Bootblack**
 
 ### Basics
 

@@ -67,6 +67,15 @@ sections:
       - treasure/
       - skill/
       - rule/
+      - monster/
+      - dynamic-terrain/
+      - retainer/
+      # Summoner book statblock trees (portfolio minions/fixtures/champions +
+      # the rival summoner) reuse the same bestiary cards as monster/retainer.
+      - minion/
+      - fixture/
+      - champion/
+      - rival/
     exclude:
       - feature/trait/ancestry-traits
     sort: natural
@@ -86,18 +95,14 @@ sections:
       - chapter/
     group_by_book: true
 
-  # Bestiary: modular monster pages (Monsters book). Group lore pages are
-  # lore-only; statblocks/malice live under each group; terrain and retainers
-  # are their own type trees. The book-faithful view is the Read tab's chapters.
-  - name: Bestiary
-    include:
-      - monster/
-      - dynamic-terrain/
-      - retainer/
-      - minion/
-      - fixture/
-      - rival/
-    sort: natural
+  # Bestiary: repurposed from a flat browser into a Search & Filter utility
+  # (Plan B). The monster / dynamic-terrain / retainer browse trees (and the
+  # summoner minion/fixture/champion/rival trees) moved to the Browse section
+  # above on 2026-06-10. Until the search widget ships, the tab is a static
+  # "coming soon" placeholder owned by static_content
+  # (static_content/docs/Bestiary/index.md) — no generated includes here. The
+  # `books:` entry for mcdm.monsters.v1 (folder: bestiary) still drives the Read
+  # tab's book grouping and is unrelated to this section.
 
 # Exclude these sections from search (avoids duplicate results)
 search_exclude:

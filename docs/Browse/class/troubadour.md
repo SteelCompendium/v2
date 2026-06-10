@@ -15,9 +15,9 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 
 **As a [troubadour](troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
 
-"History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." **Jackson Bootblack**
-
-There is no visible text in the image provided. The image appears to show a decorative or scalloped [edge](../rule/dice/edge.md) pattern, but contains no recognizable letters, words, or symbols.
+> "History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world." 
+>
+> **Jackson Bootblack**
 
 ## Basics
 
