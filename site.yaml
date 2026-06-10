@@ -94,6 +94,9 @@ sections:
       - monster/
       - dynamic-terrain/
       - retainer/
+      - minion/
+      - fixture/
+      - rival/
     sort: natural
 
 # Exclude these sections from search (avoids duplicate results)
