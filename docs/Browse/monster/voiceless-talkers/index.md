@@ -60,7 +60,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/hulking-brain/" aria-label="Hulking Brain"></a>
+  <a class="sc-card__link" href="hulking-brain/" aria-label="Hulking Brain"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Brute</div>
     <div class="sc-card__name">Hulking Brain</div></div></div>
@@ -73,7 +73,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/mindkiller-whelp/" aria-label="Mindkiller Whelp"></a>
+  <a class="sc-card__link" href="mindkiller-whelp/" aria-label="Mindkiller Whelp"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">Mindkiller Whelp</div></div></div>
@@ -86,7 +86,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/mindkiller/" aria-label="Mindkiller"></a>
+  <a class="sc-card__link" href="mindkiller/" aria-label="Mindkiller"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Hexer</div>
     <div class="sc-card__name">Mindkiller</div></div></div>
@@ -99,7 +99,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/voiceless-talker-artillerist/" aria-label="Voiceless Talker Artillerist"></a>
+  <a class="sc-card__link" href="voiceless-talker-artillerist/" aria-label="Voiceless Talker Artillerist"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Artillery</div>
     <div class="sc-card__name">Voiceless Talker Artillerist</div></div></div>
@@ -112,7 +112,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/voiceless-talker-evolutionist/" aria-label="Voiceless Talker Evolutionist"></a>
+  <a class="sc-card__link" href="voiceless-talker-evolutionist/" aria-label="Voiceless Talker Evolutionist"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Voiceless Talker Evolutionist</div></div></div>
@@ -125,7 +125,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/voiceless-talker-graywarper/" aria-label="Voiceless Talker Graywarper"></a>
+  <a class="sc-card__link" href="voiceless-talker-graywarper/" aria-label="Voiceless Talker Graywarper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Controller</div>
     <div class="sc-card__name">Voiceless Talker Graywarper</div></div></div>
@@ -138,7 +138,7 @@ Most voiceless talkers communicate telepathically using Mindspeech and speak Var
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/voiceless-talker-invader/" aria-label="Voiceless Talker Invader"></a>
+  <a class="sc-card__link" href="voiceless-talker-invader/" aria-label="Voiceless Talker Invader"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Controller</div>
     <div class="sc-card__name">Voiceless Talker Invader</div></div></div>

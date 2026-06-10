@@ -115,7 +115,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-amalgamite/" aria-label="War Dog Amalgamite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-amalgamite/" aria-label="War Dog Amalgamite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">War Dog Amalgamite</div></div></div>
@@ -128,7 +128,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-commando/" aria-label="War Dog Commando"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-commando/" aria-label="War Dog Commando"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">War Dog Commando</div></div></div>
@@ -141,7 +141,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-conscript/" aria-label="War Dog Conscript"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-conscript/" aria-label="War Dog Conscript"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">War Dog Conscript</div></div></div>
@@ -154,7 +154,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-crucibite/" aria-label="War Dog Crucibite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-crucibite/" aria-label="War Dog Crucibite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Artillery</div>
     <div class="sc-card__name">War Dog Crucibite</div></div></div>
@@ -167,7 +167,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-eviscerite/" aria-label="War Dog Eviscerite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-eviscerite/" aria-label="War Dog Eviscerite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">War Dog Eviscerite</div></div></div>
@@ -180,7 +180,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-ground-commander/" aria-label="War Dog Ground Commander"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-ground-commander/" aria-label="War Dog Ground Commander"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">War Dog Ground Commander</div></div></div>
@@ -193,7 +193,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-neuronite/" aria-label="War Dog Neuronite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-neuronite/" aria-label="War Dog Neuronite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Defender</div>
     <div class="sc-card__name">War Dog Neuronite</div></div></div>
@@ -206,7 +206,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-pestilite/" aria-label="War Dog Pestilite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-pestilite/" aria-label="War Dog Pestilite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">War Dog Pestilite</div></div></div>
@@ -219,7 +219,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-phosphorite/" aria-label="War Dog Phosphorite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-phosphorite/" aria-label="War Dog Phosphorite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">War Dog Phosphorite</div></div></div>
@@ -232,7 +232,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-sharpshooter/" aria-label="War Dog Sharpshooter"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-sharpshooter/" aria-label="War Dog Sharpshooter"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">War Dog Sharpshooter</div></div></div>
@@ -245,7 +245,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-subcommander/" aria-label="War Dog Subcommander"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-subcommander/" aria-label="War Dog Subcommander"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Support</div>
     <div class="sc-card__name">War Dog Subcommander</div></div></div>
@@ -258,7 +258,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-teletalite/" aria-label="War Dog Teletalite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-teletalite/" aria-label="War Dog Teletalite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">War Dog Teletalite</div></div></div>
@@ -271,7 +271,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/war-dog-tetherite/" aria-label="War Dog Tetherite"></a>
+  <a class="sc-card__link" href="1st-echelon/war-dog-tetherite/" aria-label="War Dog Tetherite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">War Dog Tetherite</div></div></div>
@@ -296,7 +296,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-arachnite/" aria-label="War Dog Arachnite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-arachnite/" aria-label="War Dog Arachnite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Artillery</div>
     <div class="sc-card__name">War Dog Arachnite</div></div></div>
@@ -309,7 +309,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-doomthief/" aria-label="War Dog Doomthief"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-doomthief/" aria-label="War Dog Doomthief"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Defender</div>
     <div class="sc-card__name">War Dog Doomthief</div></div></div>
@@ -322,7 +322,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-equivite/" aria-label="War Dog Equivite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-equivite/" aria-label="War Dog Equivite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">War Dog Equivite</div></div></div>
@@ -335,7 +335,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-hypokrite/" aria-label="War Dog Hypokrite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-hypokrite/" aria-label="War Dog Hypokrite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">War Dog Hypokrite</div></div></div>
@@ -348,7 +348,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-mischievite/" aria-label="War Dog Mischievite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-mischievite/" aria-label="War Dog Mischievite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">War Dog Mischievite</div></div></div>
@@ -361,7 +361,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-sparkslinger/" aria-label="War Dog Sparkslinger"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-sparkslinger/" aria-label="War Dog Sparkslinger"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">War Dog Sparkslinger</div></div></div>
@@ -374,7 +374,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-sweeper/" aria-label="War Dog Sweeper"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-sweeper/" aria-label="War Dog Sweeper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">War Dog Sweeper</div></div></div>
@@ -387,7 +387,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-tetrarch/" aria-label="War Dog Tetrarch"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-tetrarch/" aria-label="War Dog Tetrarch"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">War Dog Tetrarch</div></div></div>
@@ -400,7 +400,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-thanatite/" aria-label="War Dog Thanatite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-thanatite/" aria-label="War Dog Thanatite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">War Dog Thanatite</div></div></div>
@@ -413,7 +413,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-tormentite/" aria-label="War Dog Tormentite"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-tormentite/" aria-label="War Dog Tormentite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">War Dog Tormentite</div></div></div>
@@ -426,7 +426,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-war-doc/" aria-label="War Dog War Doc"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-war-doc/" aria-label="War Dog War Doc"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Support</div>
     <div class="sc-card__name">War Dog War Doc</div></div></div>
@@ -439,7 +439,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/war-dog-war-frog/" aria-label="War Dog War Frog"></a>
+  <a class="sc-card__link" href="2nd-echelon/war-dog-war-frog/" aria-label="War Dog War Frog"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">War Dog War Frog</div></div></div>
@@ -464,7 +464,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-aerocite/" aria-label="War Dog Aerocite"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-aerocite/" aria-label="War Dog Aerocite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">War Dog Aerocite</div></div></div>
@@ -477,7 +477,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-ballistite/" aria-label="War Dog Ballistite"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-ballistite/" aria-label="War Dog Ballistite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Artillery</div>
     <div class="sc-card__name">War Dog Ballistite</div></div></div>
@@ -490,7 +490,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-blackcap/" aria-label="War Dog Blackcap"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-blackcap/" aria-label="War Dog Blackcap"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">War Dog Blackcap</div></div></div>
@@ -503,7 +503,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-breaker/" aria-label="War Dog Breaker"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-breaker/" aria-label="War Dog Breaker"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Brute</div>
     <div class="sc-card__name">War Dog Breaker</div></div></div>
@@ -516,7 +516,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-draconite/" aria-label="War Dog Draconite"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-draconite/" aria-label="War Dog Draconite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">War Dog Draconite</div></div></div>
@@ -529,7 +529,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-firestarter/" aria-label="War Dog Firestarter"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-firestarter/" aria-label="War Dog Firestarter"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">War Dog Firestarter</div></div></div>
@@ -542,7 +542,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-geomancer/" aria-label="War Dog Geomancer"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-geomancer/" aria-label="War Dog Geomancer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">War Dog Geomancer</div></div></div>
@@ -555,7 +555,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-iron-priest/" aria-label="War Dog Iron Priest"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-iron-priest/" aria-label="War Dog Iron Priest"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Support</div>
     <div class="sc-card__name">War Dog Iron Priest</div></div></div>
@@ -568,7 +568,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-prismite/" aria-label="War Dog Prismite"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-prismite/" aria-label="War Dog Prismite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Defender</div>
     <div class="sc-card__name">War Dog Prismite</div></div></div>
@@ -581,7 +581,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-saboteur/" aria-label="War Dog Saboteur"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-saboteur/" aria-label="War Dog Saboteur"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">War Dog Saboteur</div></div></div>
@@ -594,7 +594,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-shriketroop/" aria-label="War Dog Shriketroop"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-shriketroop/" aria-label="War Dog Shriketroop"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">War Dog Shriketroop</div></div></div>
@@ -607,7 +607,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/war-dog-taxiarch/" aria-label="War Dog Taxiarch"></a>
+  <a class="sc-card__link" href="3rd-echelon/war-dog-taxiarch/" aria-label="War Dog Taxiarch"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">War Dog Taxiarch</div></div></div>
@@ -632,7 +632,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/castellan-hoplon/" aria-label="Castellan Hoplon"></a>
+  <a class="sc-card__link" href="4th-echelon/castellan-hoplon/" aria-label="Castellan Hoplon"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Defender</div>
     <div class="sc-card__name">Castellan Hoplon</div></div></div>
@@ -645,7 +645,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/iron-champion-doru/" aria-label="Iron Champion Doru"></a>
+  <a class="sc-card__link" href="4th-echelon/iron-champion-doru/" aria-label="Iron Champion Doru"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Brute</div>
     <div class="sc-card__name">Iron Champion Doru</div></div></div>
@@ -658,7 +658,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/logostician-vesper/" aria-label="Logostician Vesper"></a>
+  <a class="sc-card__link" href="4th-echelon/logostician-vesper/" aria-label="Logostician Vesper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Controller</div>
     <div class="sc-card__name">Logostician Vesper</div></div></div>
@@ -671,7 +671,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/soulbinder-psyche/" aria-label="Soulbinder Psyche"></a>
+  <a class="sc-card__link" href="4th-echelon/soulbinder-psyche/" aria-label="Soulbinder Psyche"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Hexer</div>
     <div class="sc-card__name">Soulbinder Psyche</div></div></div>
@@ -684,7 +684,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/strategos-alkestis/" aria-label="Strategos Alkestis"></a>
+  <a class="sc-card__link" href="4th-echelon/strategos-alkestis/" aria-label="Strategos Alkestis"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Strategos Alkestis</div></div></div>
@@ -697,7 +697,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/war-dog-blood-jumper/" aria-label="War Dog Blood Jumper"></a>
+  <a class="sc-card__link" href="4th-echelon/war-dog-blood-jumper/" aria-label="War Dog Blood Jumper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">War Dog Blood Jumper</div></div></div>
@@ -710,7 +710,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/war-dog-hunter-killer/" aria-label="War Dog Hunter-Killer"></a>
+  <a class="sc-card__link" href="4th-echelon/war-dog-hunter-killer/" aria-label="War Dog Hunter-Killer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">War Dog Hunter-Killer</div></div></div>
@@ -723,7 +723,7 @@ Most war dogs speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/war-dog-socialite/" aria-label="War Dog Socialite"></a>
+  <a class="sc-card__link" href="4th-echelon/war-dog-socialite/" aria-label="War Dog Socialite"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">War Dog Socialite</div></div></div>

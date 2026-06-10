@@ -107,7 +107,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/crawling-claw/" aria-label="Crawling Claw"></a>
+  <a class="sc-card__link" href="1st-echelon/crawling-claw/" aria-label="Crawling Claw"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Crawling Claw</div></div></div>
@@ -120,7 +120,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/decrepit-skeleton/" aria-label="Decrepit Skeleton"></a>
+  <a class="sc-card__link" href="1st-echelon/decrepit-skeleton/" aria-label="Decrepit Skeleton"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Decrepit Skeleton</div></div></div>
@@ -133,7 +133,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/ghost/" aria-label="Ghost"></a>
+  <a class="sc-card__link" href="1st-echelon/ghost/" aria-label="Ghost"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Ghost</div></div></div>
@@ -146,7 +146,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/ghoul/" aria-label="Ghoul"></a>
+  <a class="sc-card__link" href="1st-echelon/ghoul/" aria-label="Ghoul"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Ghoul</div></div></div>
@@ -159,7 +159,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/rotting-zombie/" aria-label="Rotting Zombie"></a>
+  <a class="sc-card__link" href="1st-echelon/rotting-zombie/" aria-label="Rotting Zombie"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Rotting Zombie</div></div></div>
@@ -172,7 +172,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/shade/" aria-label="Shade"></a>
+  <a class="sc-card__link" href="1st-echelon/shade/" aria-label="Shade"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">Shade</div></div></div>
@@ -185,7 +185,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/skeleton/" aria-label="Skeleton"></a>
+  <a class="sc-card__link" href="1st-echelon/skeleton/" aria-label="Skeleton"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Artillery</div>
     <div class="sc-card__name">Skeleton</div></div></div>
@@ -198,7 +198,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/soulwight/" aria-label="Soulwight"></a>
+  <a class="sc-card__link" href="1st-echelon/soulwight/" aria-label="Soulwight"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Soulwight</div></div></div>
@@ -211,7 +211,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/specter/" aria-label="Specter"></a>
+  <a class="sc-card__link" href="1st-echelon/specter/" aria-label="Specter"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Specter</div></div></div>
@@ -224,7 +224,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/umbral-stalker/" aria-label="Umbral Stalker"></a>
+  <a class="sc-card__link" href="1st-echelon/umbral-stalker/" aria-label="Umbral Stalker"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">Umbral Stalker</div></div></div>
@@ -237,7 +237,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/zombie/" aria-label="Zombie"></a>
+  <a class="sc-card__link" href="1st-echelon/zombie/" aria-label="Zombie"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">Zombie</div></div></div>
@@ -262,7 +262,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/flesh-mournling/" aria-label="Flesh Mournling"></a>
+  <a class="sc-card__link" href="2nd-echelon/flesh-mournling/" aria-label="Flesh Mournling"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Defender</div>
     <div class="sc-card__name">Flesh Mournling</div></div></div>
@@ -275,7 +275,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/fleshflayed-shambler-zombie/" aria-label="Fleshflayed Shambler Zombie"></a>
+  <a class="sc-card__link" href="2nd-echelon/fleshflayed-shambler-zombie/" aria-label="Fleshflayed Shambler Zombie"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Fleshflayed Shambler Zombie</div></div></div>
@@ -288,7 +288,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/ghoul-craver/" aria-label="Ghoul Craver"></a>
+  <a class="sc-card__link" href="2nd-echelon/ghoul-craver/" aria-label="Ghoul Craver"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Ghoul Craver</div></div></div>
@@ -301,7 +301,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/giant-zombie/" aria-label="Giant Zombie"></a>
+  <a class="sc-card__link" href="2nd-echelon/giant-zombie/" aria-label="Giant Zombie"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Brute</div>
     <div class="sc-card__name">Giant Zombie</div></div></div>
@@ -314,7 +314,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/hollowbone-launcher/" aria-label="Hollowbone Launcher"></a>
+  <a class="sc-card__link" href="2nd-echelon/hollowbone-launcher/" aria-label="Hollowbone Launcher"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Hollowbone Launcher</div></div></div>
@@ -327,7 +327,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/mummy-lord/" aria-label="Mummy Lord"></a>
+  <a class="sc-card__link" href="2nd-echelon/mummy-lord/" aria-label="Mummy Lord"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Mummy Lord</div></div></div>
@@ -340,7 +340,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/mummy/" aria-label="Mummy"></a>
+  <a class="sc-card__link" href="2nd-echelon/mummy/" aria-label="Mummy"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">Mummy</div></div></div>
@@ -353,7 +353,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/vampire-spawn/" aria-label="Vampire Spawn"></a>
+  <a class="sc-card__link" href="2nd-echelon/vampire-spawn/" aria-label="Vampire Spawn"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Vampire Spawn</div></div></div>
@@ -366,7 +366,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/wraith/" aria-label="Wraith"></a>
+  <a class="sc-card__link" href="2nd-echelon/wraith/" aria-label="Wraith"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Wraith</div></div></div>
@@ -391,7 +391,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/blood-starved-vampire/" aria-label="Blood-Starved Vampire"></a>
+  <a class="sc-card__link" href="3rd-echelon/blood-starved-vampire/" aria-label="Blood-Starved Vampire"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Blood-Starved Vampire</div></div></div>
@@ -404,7 +404,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/dirt-mournling/" aria-label="Dirt Mournling"></a>
+  <a class="sc-card__link" href="3rd-echelon/dirt-mournling/" aria-label="Dirt Mournling"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Dirt Mournling</div></div></div>
@@ -417,7 +417,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/faded-echo-spirit/" aria-label="Faded Echo Spirit"></a>
+  <a class="sc-card__link" href="3rd-echelon/faded-echo-spirit/" aria-label="Faded Echo Spirit"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">Faded Echo Spirit</div></div></div>
@@ -430,7 +430,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/haunt/" aria-label="Haunt"></a>
+  <a class="sc-card__link" href="3rd-echelon/haunt/" aria-label="Haunt"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Haunt</div></div></div>
@@ -443,7 +443,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/koptourok/" aria-label="Koptourok"></a>
+  <a class="sc-card__link" href="3rd-echelon/koptourok/" aria-label="Koptourok"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Koptourok</div></div></div>
@@ -456,7 +456,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/mummy-rotwrap/" aria-label="Mummy Rotwrap"></a>
+  <a class="sc-card__link" href="3rd-echelon/mummy-rotwrap/" aria-label="Mummy Rotwrap"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Mummy Rotwrap</div></div></div>
@@ -469,7 +469,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/vampire-lord/" aria-label="Vampire Lord"></a>
+  <a class="sc-card__link" href="3rd-echelon/vampire-lord/" aria-label="Vampire Lord"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Vampire Lord</div></div></div>
@@ -482,7 +482,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/vampire/" aria-label="Vampire"></a>
+  <a class="sc-card__link" href="3rd-echelon/vampire/" aria-label="Vampire"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Vampire</div></div></div>
@@ -495,7 +495,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/waxen/" aria-label="Waxen"></a>
+  <a class="sc-card__link" href="3rd-echelon/waxen/" aria-label="Waxen"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Artillery</div>
     <div class="sc-card__name">Waxen</div></div></div>
@@ -520,7 +520,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/bonecage/" aria-label="Bonecage"></a>
+  <a class="sc-card__link" href="4th-echelon/bonecage/" aria-label="Bonecage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Bonecage</div></div></div>
@@ -533,7 +533,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/giant-shambler-zombie/" aria-label="Giant Shambler Zombie"></a>
+  <a class="sc-card__link" href="4th-echelon/giant-shambler-zombie/" aria-label="Giant Shambler Zombie"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Giant Shambler Zombie</div></div></div>
@@ -546,7 +546,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/lithgekh/" aria-label="Lithgekh"></a>
+  <a class="sc-card__link" href="4th-echelon/lithgekh/" aria-label="Lithgekh"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Lithgekh</div></div></div>
@@ -559,7 +559,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/skeleton-knight/" aria-label="Skeleton Knight"></a>
+  <a class="sc-card__link" href="4th-echelon/skeleton-knight/" aria-label="Skeleton Knight"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Defender</div>
     <div class="sc-card__name">Skeleton Knight</div></div></div>
@@ -572,7 +572,7 @@ Every mage who lives long enough eventually contends with the fact that their kn
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/wraith-skulker/" aria-label="Wraith Skulker"></a>
+  <a class="sc-card__link" href="4th-echelon/wraith-skulker/" aria-label="Wraith Skulker"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Wraith Skulker</div></div></div>

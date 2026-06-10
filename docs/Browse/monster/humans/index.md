@@ -50,7 +50,7 @@ Most humans speak Caelian and one Vaslorian human language.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/giant-hawk/" aria-label="Giant Hawk"></a>
+  <a class="sc-card__link" href="giant-hawk/" aria-label="Giant Hawk"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Mount</div>
     <div class="sc-card__name">Giant Hawk</div></div></div>
@@ -63,7 +63,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-apprentice-mage/" aria-label="Human Apprentice Mage"></a>
+  <a class="sc-card__link" href="human-apprentice-mage/" aria-label="Human Apprentice Mage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Controller</div>
     <div class="sc-card__name">Human Apprentice Mage</div></div></div>
@@ -76,7 +76,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-archer/" aria-label="Human Archer"></a>
+  <a class="sc-card__link" href="human-archer/" aria-label="Human Archer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Human Archer</div></div></div>
@@ -89,7 +89,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-bandit-chief/" aria-label="Human Bandit Chief"></a>
+  <a class="sc-card__link" href="human-bandit-chief/" aria-label="Human Bandit Chief"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Human Bandit Chief</div></div></div>
@@ -102,7 +102,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-blackguard/" aria-label="Human Blackguard"></a>
+  <a class="sc-card__link" href="human-blackguard/" aria-label="Human Blackguard"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Human Blackguard</div></div></div>
@@ -115,7 +115,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-brawler/" aria-label="Human Brawler"></a>
+  <a class="sc-card__link" href="human-brawler/" aria-label="Human Brawler"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Brute</div>
     <div class="sc-card__name">Human Brawler</div></div></div>
@@ -128,7 +128,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-death-acolyte/" aria-label="Human Death Acolyte"></a>
+  <a class="sc-card__link" href="human-death-acolyte/" aria-label="Human Death Acolyte"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">Human Death Acolyte</div></div></div>
@@ -141,7 +141,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-death-cultist/" aria-label="Human Death Cultist"></a>
+  <a class="sc-card__link" href="human-death-cultist/" aria-label="Human Death Cultist"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Support</div>
     <div class="sc-card__name">Human Death Cultist</div></div></div>
@@ -154,7 +154,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-guard/" aria-label="Human Guard"></a>
+  <a class="sc-card__link" href="human-guard/" aria-label="Human Guard"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Human Guard</div></div></div>
@@ -167,7 +167,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-knave/" aria-label="Human Knave"></a>
+  <a class="sc-card__link" href="human-knave/" aria-label="Human Knave"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Defender</div>
     <div class="sc-card__name">Human Knave</div></div></div>
@@ -180,7 +180,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-raider/" aria-label="Human Raider"></a>
+  <a class="sc-card__link" href="human-raider/" aria-label="Human Raider"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Human Raider</div></div></div>
@@ -193,7 +193,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-rogue/" aria-label="Human Rogue"></a>
+  <a class="sc-card__link" href="human-rogue/" aria-label="Human Rogue"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">Human Rogue</div></div></div>
@@ -206,7 +206,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-scoundrel/" aria-label="Human Scoundrel"></a>
+  <a class="sc-card__link" href="human-scoundrel/" aria-label="Human Scoundrel"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Ambusher</div>
     <div class="sc-card__name">Human Scoundrel</div></div></div>
@@ -219,7 +219,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-storm-mage/" aria-label="Human Storm Mage"></a>
+  <a class="sc-card__link" href="human-storm-mage/" aria-label="Human Storm Mage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Controller</div>
     <div class="sc-card__name">Human Storm Mage</div></div></div>
@@ -232,7 +232,7 @@ Most humans speak Caelian and one Vaslorian human language.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/human-trickshot/" aria-label="Human Trickshot"></a>
+  <a class="sc-card__link" href="human-trickshot/" aria-label="Human Trickshot"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Artillery</div>
     <div class="sc-card__name">Human Trickshot</div></div></div>

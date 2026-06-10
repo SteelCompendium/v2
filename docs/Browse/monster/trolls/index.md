@@ -48,7 +48,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-butcher/" aria-label="Troll Butcher"></a>
+  <a class="sc-card__link" href="troll-butcher/" aria-label="Troll Butcher"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Hexer</div>
     <div class="sc-card__name">Troll Butcher</div></div></div>
@@ -61,7 +61,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-crack-trooper/" aria-label="Troll Crack Trooper"></a>
+  <a class="sc-card__link" href="troll-crack-trooper/" aria-label="Troll Crack Trooper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Troll Crack Trooper</div></div></div>
@@ -74,7 +74,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-glutton/" aria-label="Troll Glutton"></a>
+  <a class="sc-card__link" href="troll-glutton/" aria-label="Troll Glutton"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Elite Brute</div>
     <div class="sc-card__name">Troll Glutton</div></div></div>
@@ -87,7 +87,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-limbjumble/" aria-label="Troll Limbjumble"></a>
+  <a class="sc-card__link" href="troll-limbjumble/" aria-label="Troll Limbjumble"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">Troll Limbjumble</div></div></div>
@@ -100,7 +100,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-ravager/" aria-label="Troll Ravager"></a>
+  <a class="sc-card__link" href="troll-ravager/" aria-label="Troll Ravager"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Troll Ravager</div></div></div>
@@ -113,7 +113,7 @@ Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls ar
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/troll-whelp/" aria-label="Troll Whelp"></a>
+  <a class="sc-card__link" href="troll-whelp/" aria-label="Troll Whelp"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Troll Whelp</div></div></div>

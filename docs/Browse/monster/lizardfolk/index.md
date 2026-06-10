@@ -53,7 +53,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-bloodeye/" aria-label="Lizardfolk Bloodeye"></a>
+  <a class="sc-card__link" href="lizardfolk-bloodeye/" aria-label="Lizardfolk Bloodeye"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Hexer</div>
     <div class="sc-card__name">Lizardfolk Bloodeye</div></div></div>
@@ -66,7 +66,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-deathrex/" aria-label="Lizardfolk Deathrex"></a>
+  <a class="sc-card__link" href="lizardfolk-deathrex/" aria-label="Lizardfolk Deathrex"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Lizardfolk Deathrex</div></div></div>
@@ -79,7 +79,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-grunt/" aria-label="Lizardfolk Grunt"></a>
+  <a class="sc-card__link" href="lizardfolk-grunt/" aria-label="Lizardfolk Grunt"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Lizardfolk Grunt</div></div></div>
@@ -92,7 +92,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-scaletooth/" aria-label="Lizardfolk Scaletooth"></a>
+  <a class="sc-card__link" href="lizardfolk-scaletooth/" aria-label="Lizardfolk Scaletooth"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Brute</div>
     <div class="sc-card__name">Lizardfolk Scaletooth</div></div></div>
@@ -105,7 +105,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-shellguard/" aria-label="Lizardfolk Shellguard"></a>
+  <a class="sc-card__link" href="lizardfolk-shellguard/" aria-label="Lizardfolk Shellguard"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Defender</div>
     <div class="sc-card__name">Lizardfolk Shellguard</div></div></div>
@@ -118,7 +118,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-skyterror/" aria-label="Lizardfolk Skyterror"></a>
+  <a class="sc-card__link" href="lizardfolk-skyterror/" aria-label="Lizardfolk Skyterror"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Harrier</div>
     <div class="sc-card__name">Lizardfolk Skyterror</div></div></div>
@@ -131,7 +131,7 @@ Most lizardfolk speak Caelian and their own dialect of Khamish.
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/lizardfolk-tonguer/" aria-label="Lizardfolk Tonguer"></a>
+  <a class="sc-card__link" href="lizardfolk-tonguer/" aria-label="Lizardfolk Tonguer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Lizardfolk Tonguer</div></div></div>

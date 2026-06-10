@@ -73,7 +73,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/brush-stalker/" aria-label="Brush Stalker"></a>
+  <a class="sc-card__link" href="brush-stalker/" aria-label="Brush Stalker"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Mount</div>
     <div class="sc-card__name">Brush Stalker</div></div></div>
@@ -86,7 +86,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-assassin/" aria-label="Shadow Elf Assassin"></a>
+  <a class="sc-card__link" href="shadow-elf-assassin/" aria-label="Shadow Elf Assassin"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Artillery</div>
     <div class="sc-card__name">Shadow Elf Assassin</div></div></div>
@@ -99,7 +99,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-cloak/" aria-label="Shadow Elf Cloak"></a>
+  <a class="sc-card__link" href="shadow-elf-cloak/" aria-label="Shadow Elf Cloak"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Shadow Elf Cloak</div></div></div>
@@ -112,7 +112,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-dusk-mage/" aria-label="Shadow Elf Dusk Mage"></a>
+  <a class="sc-card__link" href="shadow-elf-dusk-mage/" aria-label="Shadow Elf Dusk Mage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Hexer</div>
     <div class="sc-card__name">Shadow Elf Dusk Mage</div></div></div>
@@ -125,7 +125,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-duskcaller/" aria-label="Shadow Elf Duskcaller"></a>
+  <a class="sc-card__link" href="shadow-elf-duskcaller/" aria-label="Shadow Elf Duskcaller"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Controller</div>
     <div class="sc-card__name">Shadow Elf Duskcaller</div></div></div>
@@ -138,7 +138,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-eclipse/" aria-label="Shadow Elf Eclipse"></a>
+  <a class="sc-card__link" href="shadow-elf-eclipse/" aria-label="Shadow Elf Eclipse"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Shadow Elf Eclipse</div></div></div>
@@ -151,7 +151,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-knightfell/" aria-label="Shadow Elf Knightfell"></a>
+  <a class="sc-card__link" href="shadow-elf-knightfell/" aria-label="Shadow Elf Knightfell"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Defender</div>
     <div class="sc-card__name">Shadow Elf Knightfell</div></div></div>
@@ -164,7 +164,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-luminator/" aria-label="Shadow Elf Luminator"></a>
+  <a class="sc-card__link" href="shadow-elf-luminator/" aria-label="Shadow Elf Luminator"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Support</div>
     <div class="sc-card__name">Shadow Elf Luminator</div></div></div>
@@ -177,7 +177,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-moondancer/" aria-label="Shadow Elf Moondancer"></a>
+  <a class="sc-card__link" href="shadow-elf-moondancer/" aria-label="Shadow Elf Moondancer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Harrier</div>
     <div class="sc-card__name">Shadow Elf Moondancer</div></div></div>
@@ -190,7 +190,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-mournblade/" aria-label="Shadow Elf Mournblade"></a>
+  <a class="sc-card__link" href="shadow-elf-mournblade/" aria-label="Shadow Elf Mournblade"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Ambusher</div>
     <div class="sc-card__name">Shadow Elf Mournblade</div></div></div>
@@ -203,7 +203,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-nightstrike/" aria-label="Shadow Elf Nightstrike"></a>
+  <a class="sc-card__link" href="shadow-elf-nightstrike/" aria-label="Shadow Elf Nightstrike"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Ambusher</div>
     <div class="sc-card__name">Shadow Elf Nightstrike</div></div></div>
@@ -216,7 +216,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-noctis-mage/" aria-label="Shadow Elf Noctis Mage"></a>
+  <a class="sc-card__link" href="shadow-elf-noctis-mage/" aria-label="Shadow Elf Noctis Mage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Hexer</div>
     <div class="sc-card__name">Shadow Elf Noctis Mage</div></div></div>
@@ -229,7 +229,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-panther/" aria-label="Shadow Elf Panther"></a>
+  <a class="sc-card__link" href="shadow-elf-panther/" aria-label="Shadow Elf Panther"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Platoon Brute</div>
     <div class="sc-card__name">Shadow Elf Panther</div></div></div>
@@ -242,7 +242,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="statblock/shadow-elf-sniper/" aria-label="Shadow Elf Sniper"></a>
+  <a class="sc-card__link" href="shadow-elf-sniper/" aria-label="Shadow Elf Sniper"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Shadow Elf Sniper</div></div></div>

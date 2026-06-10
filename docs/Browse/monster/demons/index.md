@@ -86,7 +86,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/bendrak/" aria-label="Bendrak"></a>
+  <a class="sc-card__link" href="1st-echelon/bendrak/" aria-label="Bendrak"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Bendrak</div></div></div>
@@ -99,7 +99,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/chorogaunt/" aria-label="Chorogaunt"></a>
+  <a class="sc-card__link" href="1st-echelon/chorogaunt/" aria-label="Chorogaunt"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Chorogaunt</div></div></div>
@@ -112,7 +112,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/ensnarer/" aria-label="Ensnarer"></a>
+  <a class="sc-card__link" href="1st-echelon/ensnarer/" aria-label="Ensnarer"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Ensnarer</div></div></div>
@@ -125,7 +125,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/frenzied/" aria-label="Frenzied"></a>
+  <a class="sc-card__link" href="1st-echelon/frenzied/" aria-label="Frenzied"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Frenzied</div></div></div>
@@ -138,7 +138,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/muceron/" aria-label="Muceron"></a>
+  <a class="sc-card__link" href="1st-echelon/muceron/" aria-label="Muceron"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">Muceron</div></div></div>
@@ -151,7 +151,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/pitling/" aria-label="Pitling"></a>
+  <a class="sc-card__link" href="1st-echelon/pitling/" aria-label="Pitling"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Pitling</div></div></div>
@@ -164,7 +164,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/remasch/" aria-label="Remasch"></a>
+  <a class="sc-card__link" href="1st-echelon/remasch/" aria-label="Remasch"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">Remasch</div></div></div>
@@ -177,7 +177,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/ruinant/" aria-label="Ruinant"></a>
+  <a class="sc-card__link" href="1st-echelon/ruinant/" aria-label="Ruinant"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Ruinant</div></div></div>
@@ -190,7 +190,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/statblock/torlas/" aria-label="Torlas"></a>
+  <a class="sc-card__link" href="1st-echelon/torlas/" aria-label="Torlas"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Torlas</div></div></div>
@@ -215,7 +215,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/bale-eye/" aria-label="Bale Eye"></a>
+  <a class="sc-card__link" href="2nd-echelon/bale-eye/" aria-label="Bale Eye"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Bale Eye</div></div></div>
@@ -228,7 +228,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/fangling/" aria-label="Fangling"></a>
+  <a class="sc-card__link" href="2nd-echelon/fangling/" aria-label="Fangling"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Fangling</div></div></div>
@@ -241,7 +241,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/fiktin/" aria-label="Fiktin"></a>
+  <a class="sc-card__link" href="2nd-echelon/fiktin/" aria-label="Fiktin"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">Fiktin</div></div></div>
@@ -254,7 +254,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/grulqin/" aria-label="Grulqin"></a>
+  <a class="sc-card__link" href="2nd-echelon/grulqin/" aria-label="Grulqin"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Grulqin</div></div></div>
@@ -267,7 +267,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/gunge/" aria-label="Gunge"></a>
+  <a class="sc-card__link" href="2nd-echelon/gunge/" aria-label="Gunge"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Gunge</div></div></div>
@@ -280,7 +280,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/lumbering-egress/" aria-label="Lumbering Egress"></a>
+  <a class="sc-card__link" href="2nd-echelon/lumbering-egress/" aria-label="Lumbering Egress"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Lumbering Egress</div></div></div>
@@ -293,7 +293,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/orliq/" aria-label="Orliq"></a>
+  <a class="sc-card__link" href="2nd-echelon/orliq/" aria-label="Orliq"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Orliq</div></div></div>
@@ -306,7 +306,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/tormenauk/" aria-label="Tormenauk"></a>
+  <a class="sc-card__link" href="2nd-echelon/tormenauk/" aria-label="Tormenauk"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">Tormenauk</div></div></div>
@@ -319,7 +319,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/statblock/wobalas/" aria-label="Wobalas"></a>
+  <a class="sc-card__link" href="2nd-echelon/wobalas/" aria-label="Wobalas"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Wobalas</div></div></div>
@@ -344,7 +344,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/blight-phage/" aria-label="Blight Phage"></a>
+  <a class="sc-card__link" href="3rd-echelon/blight-phage/" aria-label="Blight Phage"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Blight Phage</div></div></div>
@@ -357,7 +357,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/chimeron/" aria-label="Chimeron"></a>
+  <a class="sc-card__link" href="3rd-echelon/chimeron/" aria-label="Chimeron"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Brute</div>
     <div class="sc-card__name">Chimeron</div></div></div>
@@ -370,7 +370,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-handmaiden/" aria-label="Soulraker Handmaiden"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-handmaiden/" aria-label="Soulraker Handmaiden"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Ambusher</div>
     <div class="sc-card__name">Soulraker Handmaiden</div></div></div>
@@ -383,7 +383,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-hivequeen/" aria-label="Soulraker Hivequeen"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-hivequeen/" aria-label="Soulraker Hivequeen"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Soulraker Hivequeen</div></div></div>
@@ -396,7 +396,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-praetorian/" aria-label="Soulraker Praetorian"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-praetorian/" aria-label="Soulraker Praetorian"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Soulraker Praetorian</div></div></div>
@@ -409,7 +409,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-scout/" aria-label="Soulraker Scout"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-scout/" aria-label="Soulraker Scout"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Soulraker Scout</div></div></div>
@@ -422,7 +422,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-soldier/" aria-label="Soulraker Soldier"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-soldier/" aria-label="Soulraker Soldier"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Soulraker Soldier</div></div></div>
@@ -435,7 +435,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/soulraker-stinger/" aria-label="Soulraker Stinger"></a>
+  <a class="sc-card__link" href="3rd-echelon/soulraker-stinger/" aria-label="Soulraker Stinger"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Soulraker Stinger</div></div></div>
@@ -448,7 +448,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/statblock/styrich/" aria-label="Styrich"></a>
+  <a class="sc-card__link" href="3rd-echelon/styrich/" aria-label="Styrich"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Hexer</div>
     <div class="sc-card__name">Styrich</div></div></div>
@@ -473,7 +473,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 </div>
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/aurumvas/" aria-label="Aurumvas"></a>
+  <a class="sc-card__link" href="4th-echelon/aurumvas/" aria-label="Aurumvas"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Leader</div>
     <div class="sc-card__name">Aurumvas</div></div></div>
@@ -486,7 +486,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/izyak/" aria-label="Izyak"></a>
+  <a class="sc-card__link" href="4th-echelon/izyak/" aria-label="Izyak"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Controller</div>
     <div class="sc-card__name">Izyak</div></div></div>
@@ -499,7 +499,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/optacus/" aria-label="Optacus"></a>
+  <a class="sc-card__link" href="4th-echelon/optacus/" aria-label="Optacus"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Artillery</div>
     <div class="sc-card__name">Optacus</div></div></div>
@@ -512,7 +512,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/tyburaki/" aria-label="Tyburaki"></a>
+  <a class="sc-card__link" href="4th-echelon/tyburaki/" aria-label="Tyburaki"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Harrier</div>
     <div class="sc-card__name">Tyburaki</div></div></div>
@@ -525,7 +525,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/unguloid/" aria-label="Unguloid"></a>
+  <a class="sc-card__link" href="4th-echelon/unguloid/" aria-label="Unguloid"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Minion Brute</div>
     <div class="sc-card__name">Unguloid</div></div></div>
@@ -538,7 +538,7 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
   </div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/statblock/vicisitator/" aria-label="Vicisitator"></a>
+  <a class="sc-card__link" href="4th-echelon/vicisitator/" aria-label="Vicisitator"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Horde Harrier</div>
     <div class="sc-card__name">Vicisitator</div></div></div>
