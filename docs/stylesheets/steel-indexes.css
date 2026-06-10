@@ -220,13 +220,13 @@
    ════════════════════════════════════════════════════════════ */
 .md-typeset .sc-browse { margin: 1.1rem 0 0; }
 
-.sc-browse__bar { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; }
+.sc-browse__bar { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem; margin-bottom: .15rem; }
 .sc-browse__search { position: relative; flex: 1 1 16rem; min-width: 12rem; }
-.sc-browse__search svg { position: absolute; left: .7rem; top: 50%; transform: translateY(-50%);
+.sc-browse__search svg { position: absolute; left: .85rem; top: 50%; transform: translateY(-50%);
   width: 16px; height: 16px; stroke: var(--fx-metal); fill: none; stroke-width: 1.8; pointer-events: none; }
 .sc-browse__search input {
   width: 100%; font-family: var(--md-text-font); font-size: .92rem; color: var(--md-default-fg-color);
-  padding: .55rem .8rem .55rem 2.2rem; border-radius: 8px;
+  padding: .68rem .95rem .68rem 2.5rem; border-radius: 8px;
   border: 1px solid var(--fx-metal-faint); background: rgba(0,0,0,.22); outline: none;
   transition: border-color .15s ease, box-shadow .15s ease; }
 [data-md-color-scheme="default"] .sc-browse__search input { background: rgba(0,0,0,.03); }
@@ -245,12 +245,19 @@
 
 /* facet rows — label column + a wrapping chips column. The chips live in their
    own grid column so a long row wraps UNDER the first chip, never under the
-   label (which read as confusing overflow). align-items:center keeps the label
-   and chips vertically centered against each other. */
-.sc-browse__facets { margin-top: .8rem; display: flex; flex-direction: column; gap: .5rem; }
-.sc-browse__facet { display: grid; grid-template-columns: 5.5rem 1fr; align-items: center; gap: .35rem .5rem; }
+   label (which read as confusing overflow). Each row is TOP-aligned and divided
+   from the next by a faint hairline (the same --fx-metal-faint rule the results
+   head uses below) so a category's label clearly heads its whole chip block —
+   even when the chips wrap to several lines — instead of floating mid-stack. */
+.sc-browse__facets { margin-top: 1rem; display: flex; flex-direction: column; }
+.sc-browse__facet { display: grid; grid-template-columns: 5.5rem 1fr; align-items: start; gap: .35rem .6rem;
+  padding: .55rem 0; border-top: 1px solid var(--fx-metal-faint); }
+.sc-browse__facet:first-child { border-top: none; padding-top: .15rem; }
+.sc-browse__facet:last-child { padding-bottom: .15rem; }
+/* nudge the label down so its small-caps text aligns with the first chip's text
+   (chips carry top padding + a border), keeping it visually level with row 1. */
 .sc-browse__facet > .lbl { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .07em;
-  font-size: .78rem; color: var(--fx-metal); align-self: center; }
+  font-size: .78rem; color: var(--fx-metal); align-self: start; padding-top: .22rem; }
 .sc-browse__chips { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
 .sc-chip {
   display: inline-flex; align-items: center;
