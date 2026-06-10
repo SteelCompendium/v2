@@ -216,9 +216,11 @@
 /* Card flavor quote — a COMPACT filigree well echoing the page blockquote's
    corner-bracket + ◆ language, but recessed (darker fill) rather than a raised
    plate: the card already IS the raised card gradient, so a matching plate would
-   vanish. Scaled down (smaller padding + 6px bracket inset) to suit the card.
-   Not caught by `.md-typeset > blockquote` (it's nested, not a direct child). */
-.sc-card__intro blockquote { position: relative; margin: .6rem 0 .2rem; padding: .85rem 1.05rem;
+   vanish. Scaled down (smaller padding + 10px bracket inset) to suit the card.
+   Not caught by `.md-typeset > blockquote` (it's nested, not a direct child).
+   `.md-typeset` prefix is required so the shorthand padding outranks Material's
+   `[dir=ltr] .md-typeset blockquote { padding-left }` (specificity 0,2,1). */
+.md-typeset .sc-card__intro blockquote { position: relative; margin: .6rem 0 .2rem; padding: .85rem 1.05rem;
   color: var(--md-default-fg-color--light); font-style: italic;
   background: rgba(0,0,0,.18); border: 1px solid var(--fx-metal-faint); border-radius: .4rem; }
 [data-md-color-scheme="default"] .sc-card__intro blockquote { background: rgba(0,0,0,.045); }
