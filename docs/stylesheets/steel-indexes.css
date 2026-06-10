@@ -220,7 +220,7 @@
    ════════════════════════════════════════════════════════════ */
 .md-typeset .sc-browse { margin: 1.1rem 0 0; }
 
-.sc-browse__bar { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem; margin-bottom: .15rem; }
+.sc-browse__bar { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem; margin-bottom: 1rem; }
 .sc-browse__search { position: relative; flex: 1 1 16rem; min-width: 12rem; }
 .sc-browse__search svg { position: absolute; left: .85rem; top: 50%; transform: translateY(-50%);
   width: 16px; height: 16px; stroke: var(--fx-metal); fill: none; stroke-width: 1.8; pointer-events: none; }
