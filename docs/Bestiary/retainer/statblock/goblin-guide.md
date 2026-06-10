@@ -50,7 +50,7 @@ type: statblock
 >
 > The guide doesn't provoke opportunity attacks by moving.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🗡 **Weaving Knives (Encounter)**
 >
@@ -66,7 +66,7 @@ type: statblock
 >
 > **Effect:** The guide shifts up to their speed before and after the strike.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🗡 **Sneak and Stab (Encounter)**
 >
@@ -82,7 +82,7 @@ type: statblock
 >
 > **Effect:** If the guide is hidden from the target, this ability has a double edge.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🌀 **Poison Blade (Encounter)**
 >

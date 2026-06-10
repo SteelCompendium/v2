@@ -42,7 +42,7 @@ weaknesses:
 >
 > Each creature adjacent to the violent can't be hidden from them.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🌀 **Cleansing Flense (Encounter)**
 >
@@ -54,7 +54,7 @@ weaknesses:
 >
 > Until the end of the encounter, whenever an enemy kills a target and has P < STRONG, they receive all EoT or save ends effects the target was affected by.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Blightwash 2d10 + highest characteristic (Encounter)**
 >
@@ -72,7 +72,7 @@ weaknesses:
 >
 > The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an edge.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Summon Gorrres (Encounter)**
 >

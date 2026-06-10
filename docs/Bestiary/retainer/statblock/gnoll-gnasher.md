@@ -47,7 +47,7 @@ type: statblock
 >
 > Whenever a non-minion ally within 7 squares of the gnasher is reduced to 0 Stamina, the gnasher moves up to their speed and can make a melee free strike.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > ❗️ **Frenzied Bite (Encounter)**
 >
@@ -59,7 +59,7 @@ type: statblock
 >
 > **Effect:** The gnasher moves up to their speed and can use their signature ability.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🗡 **Flurry of Fangs (Encounter)**
 >
@@ -73,7 +73,7 @@ type: statblock
 > - **12-16:** 11 damage
 > - **17+:** 16 damage
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 👤 **Horrific Feas (Encounter)**
 >

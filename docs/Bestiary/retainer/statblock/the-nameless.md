@@ -59,7 +59,7 @@ type: statblock
 >
 > Ranged strikes against the Nameless take a bane.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > ❇️ **Looming Wings (Encounter)**
 >
@@ -75,7 +75,7 @@ type: statblock
 >
 > **Effect:** If the Nameless's mentor is in the area, ability rolls against the mentor have a double bane until the start of their next turn.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Spew Death (Encounter)**
 >

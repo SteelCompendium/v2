@@ -58,7 +58,7 @@ type: statblock
 >
 > The gorer can't obtain less than a tier 2 outcome when making tests to navigate, search, or seek.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > ❗️ **Horn Toss**
 >
@@ -70,7 +70,7 @@ type: statblock
 >
 > **Effect:** The target is pushed up to 3 squares. If the target has stability 0, they are also knocked prone.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 👤 **Triumphant Bay (Encounter)**
 >
@@ -80,7 +80,7 @@ type: statblock
 >
 > **Effect:** The gorer gains 3 surges, and until the start of the gorer's next turn, strikes made against them and their mentor take a bane.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Horn Rake (Encounter)**
 >

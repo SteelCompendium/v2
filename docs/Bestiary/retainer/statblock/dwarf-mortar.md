@@ -49,7 +49,7 @@ type: statblock
 >
 > The mortar can use a magical rune inscribed on their skin to talk to their mentor over any distance as long as both are in the same world.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🔳 **Signal Shell (Encounter)**
 >
@@ -65,7 +65,7 @@ type: statblock
 > - **12-16:** 8 fire damage
 > - **17+:** 11 fire damage
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🔳 **Pacifier Shell (Encounter)**
 >
@@ -79,7 +79,7 @@ type: statblock
 > - **12-16:** 12 damage; I < AVERAGE dazed (save ends)
 > - **17+:** 16 damage; I < STRONG dazed (save ends) and prone
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🔳 **Screaming Shell (Encounter)**
 >

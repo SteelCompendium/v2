@@ -54,7 +54,7 @@ type: statblock
 >
 > **Effect:** The sidekick makes a free strike against the target.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 👤 **Boost**
 >
@@ -64,7 +64,7 @@ type: statblock
 >
 > **Effect:** If the sidekick's mentor moves adjacent to the sidekick at any point during the mentor's turn, the mentor gains a +1 bonus to speed and can automatically climb at full speed while moving until the end of their turn.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🔳 **Bug Bag (Encounter)**
 >
@@ -78,7 +78,7 @@ type: statblock
 > - **12-16:** 9 poison damage; M < AVERAGE weakened (save ends)
 > - **17+:** 13 poison damage; M < STRONG weakened (save ends)
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Triumphant Squeak (Encounter)**
 >

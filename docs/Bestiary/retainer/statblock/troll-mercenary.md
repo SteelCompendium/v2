@@ -64,7 +64,7 @@ weaknesses:
 >
 > The mercenary dies only if they are reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina, or if they take acid or fire damage while at 0 Stamina.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🗡 **Hangry Frenzy (Encounter)**
 >
@@ -74,7 +74,7 @@ weaknesses:
 >
 > **Effect:** The mercenary must be winded to use this ability. The mercenary uses Big Bite against each target.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❗️ **Fire Bad (Encounter)**
 >

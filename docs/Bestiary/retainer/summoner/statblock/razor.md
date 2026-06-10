@@ -38,7 +38,7 @@ weaknesses:
 >
 > Each creature adjacent to the razor can't be hidden from them.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Soul Sleuth 2d10 + highest characteristic (Encounter)**
 >
@@ -56,7 +56,7 @@ weaknesses:
 >
 > **Effect:** Any enemy that was hiding in the area is revealed. The area is now difficult terrain for enemies.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Summon Violents (Encounter)**
 >

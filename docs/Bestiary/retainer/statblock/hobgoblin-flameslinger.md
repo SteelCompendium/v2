@@ -62,7 +62,7 @@ type: statblock
 >
 > When the flameslinger is reduced to 0 Stamina, they spray buring blood. Each creature adjacent to the flameslinger takes 3 fire damage.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🔳 **Unholy Attraction (Encounter)**
 >
@@ -78,7 +78,7 @@ type: statblock
 >
 > **Effect:** A target who is pulled adjacent to the flameslinger and who has P < AVERAGE is knocked prone.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Fire Spiral (Encounter)**
 >

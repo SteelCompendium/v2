@@ -65,7 +65,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 >
 > Each creature adjacent to the razor can't be hidden from them.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Soul Sleuth 2d10 + highest characteristic (Encounter)**
 >
@@ -83,7 +83,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 >
 > **Effect:** Any enemy that was hiding in the area is revealed. The area is now difficult terrain for enemies.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Summon Violents (Encounter)**
 >
@@ -113,7 +113,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 >
 > Each creature adjacent to the violent can't be hidden from them.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🌀 **Cleansing Flense (Encounter)**
 >
@@ -125,7 +125,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 >
 > Until the end of the encounter, whenever an enemy kills a target and has P < STRONG, they receive all EoT or save ends effects the target was affected by.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Blightwash 2d10 + highest characteristic (Encounter)**
 >
@@ -143,7 +143,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 >
 > The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an edge.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Summon Gorrres (Encounter)**
 >
