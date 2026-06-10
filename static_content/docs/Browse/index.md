@@ -89,4 +89,28 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Treasures](treasure/index.md)
 
+-   ### :material-skull:{ .sc-crest } Monsters
+
+    ---
+
+    Adversaries from the Monsters book — statblocks and malice, grouped by kind
+
+    [:octicons-arrow-right-24: View Monsters](monster/index.md)
+
+-   ### :material-image-filter-hdr:{ .sc-crest } Dynamic Terrain
+
+    ---
+
+    Hazards, fieldworks, mechanisms, and other interactive battlefield terrain
+
+    [:octicons-arrow-right-24: View Dynamic Terrain](dynamic-terrain/index.md)
+
+-   ### :material-account-supervisor:{ .sc-crest } Retainers
+
+    ---
+
+    Allies your heroes can recruit to fight alongside them
+
+    [:octicons-arrow-right-24: View Retainers](retainer/index.md)
+
 </div>
