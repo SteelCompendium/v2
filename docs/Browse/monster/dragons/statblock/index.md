@@ -1,0 +1,71 @@
+# Statblock
+
+---
+
+<div class="sc-cards">
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="crucible-dragon/" aria-label="Crucible Dragon"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
+    <div><div class="sc-card__type">Solo</div>
+    <div class="sc-card__name">Crucible Dragon</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Dragon</span><span class="sc-tag">Elemental</span></div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">6</div><div class="l">Level</div></div>
+    <div class="sc-card__stat"><div class="v">96</div><div class="l">EV</div></div>
+    <div class="sc-card__stat"><div class="v">4</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v">8</div><div class="l">Speed</div></div>
+  </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="gloom-dragon/" aria-label="Gloom Dragon"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
+    <div><div class="sc-card__type">Solo</div>
+    <div class="sc-card__name">Gloom Dragon</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Dragon</span><span class="sc-tag">Elemental</span></div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">4</div><div class="l">Level</div></div>
+    <div class="sc-card__stat"><div class="v">72</div><div class="l">EV</div></div>
+    <div class="sc-card__stat"><div class="v">4</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v">8</div><div class="l">Speed</div></div>
+  </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="meteor-dragon/" aria-label="Meteor Dragon"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
+    <div><div class="sc-card__type">Solo</div>
+    <div class="sc-card__name">Meteor Dragon</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Dragon</span><span class="sc-tag">Elemental</span></div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">10</div><div class="l">Level</div></div>
+    <div class="sc-card__stat"><div class="v">144</div><div class="l">EV</div></div>
+    <div class="sc-card__stat"><div class="v">3</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v">15</div><div class="l">Speed</div></div>
+  </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="omen-dragon/" aria-label="Omen Dragon"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
+    <div><div class="sc-card__type">Solo</div>
+    <div class="sc-card__name">Omen Dragon</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Dragon</span><span class="sc-tag">Elemental</span></div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">8</div><div class="l">Level</div></div>
+    <div class="sc-card__stat"><div class="v">120</div><div class="l">EV</div></div>
+    <div class="sc-card__stat"><div class="v">5</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v">10</div><div class="l">Speed</div></div>
+  </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="thorn-dragon/" aria-label="Thorn Dragon"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
+    <div><div class="sc-card__type">Solo</div>
+    <div class="sc-card__name">Thorn Dragon</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Dragon</span><span class="sc-tag">Elemental</span></div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">2</div><div class="l">Level</div></div>
+    <div class="sc-card__stat"><div class="v">48</div><div class="l">EV</div></div>
+    <div class="sc-card__stat"><div class="v">3</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v">8</div><div class="l">Speed</div></div>
+  </div>
+</div>
+</div>
