@@ -130,6 +130,7 @@ extra_javascript:
   - javascripts/tablesort.js
   - javascripts/settings-core.js
   - javascripts/settings-panel.js
+  - javascripts/ability-cards-core.js
   - javascripts/ability-cards.js
   - javascripts/steel-ability-cards.js
   - javascripts/steel-traits.js

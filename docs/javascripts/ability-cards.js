@@ -9,6 +9,8 @@
 (function () {
   "use strict";
 
+  var Core = (typeof window !== "undefined" && window.AbilityCardsCore) || null;
+
   /* ── Emoji → ability type mapping ── */
   var EMOJI_MAP = [
     { pattern: "🗡",  type: "strike"    },  // 🗡
@@ -159,6 +161,69 @@
     }
   }
 
+  /**
+   * Statblock power rolls: an ability blockquote whose TITLE carries dice
+   * notation ("Nd10 + X") is followed by the first contiguous run of bare,
+   * digit-led tier paragraphs (≤3). Replace that run with a single
+   * .power-roll-tiers badge group (low/mid/high by position), reusing the same
+   * markup transformPowerRolls emits so the existing CSS styles it.
+   */
+  function transformStatblockPowerRolls() {
+    if (!Core) return;
+    var blockquotes = document.querySelectorAll(".md-typeset blockquote");
+    for (var i = 0; i < blockquotes.length; i++) {
+      var bq = blockquotes[i];
+      var titleStrong = bq.querySelector("p strong");
+      if (!titleStrong || !Core.hasStatblockDiceRoll(titleStrong.textContent)) continue;
+
+      // Walk direct children in order; collect the first contiguous run of
+      // bare (no leading <strong>), digit-led <p> tier lines.
+      var run = [];
+      var node = bq.firstElementChild;
+      while (node) {
+        if (node.tagName === "P") {
+          var lead = node.querySelector("strong:first-child");
+          if (!lead && Core.isTierLine(node.textContent)) {
+            run.push(node);
+            if (run.length === 3) break;
+          } else if (run.length > 0) {
+            break; // run ended (e.g. the **Effect:** paragraph)
+          }
+        }
+        node = node.nextElementSibling;
+      }
+      if (run.length < 2) continue;
+      if (run[0].getAttribute("data-power-roll-transformed")) continue;
+
+      var wrapper = document.createElement("div");
+      wrapper.className = "power-roll-tiers";
+      wrapper.setAttribute("data-power-roll-transformed", "");
+
+      for (var k = 0; k < run.length; k++) {
+        var tier = Core.tierKeyAt(k);
+        var row = document.createElement("div");
+        row.className = "power-roll-row";
+
+        var badge = document.createElement("span");
+        badge.className = "ds-glyph power-roll-badge power-roll-badge--" + tier;
+        badge.textContent = TIER_GLYPHS[tier];
+
+        var effect = document.createElement("span");
+        effect.className = "power-roll-effect";
+        effect.innerHTML = run[k].innerHTML;
+
+        row.appendChild(badge);
+        row.appendChild(effect);
+        wrapper.appendChild(row);
+      }
+
+      run[0].parentNode.insertBefore(wrapper, run[0]);
+      for (var m = 0; m < run.length; m++) {
+        run[m].parentNode.removeChild(run[m]);
+      }
+    }
+  }
+
   /** Legacy power roll styling — colored left borders on list items */
   function colorPowerRollTiers() {
     var listItems = document.querySelectorAll(".md-typeset li");
@@ -226,6 +291,7 @@
     classifyAbilityCards();
     if (useClassicStyle()) {
       transformPowerRolls();
+      transformStatblockPowerRolls();
     } else {
       colorPowerRollTiers();
     }
