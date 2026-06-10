@@ -1,0 +1,39 @@
+---
+class: summoner
+level: "6"
+name: Kit Improvement
+scc: mcdm.summoner.v1/feature.summoner.level-6/kit-improvement
+type: feature
+---
+
+# Kit Improvement
+
+---
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Trait</div>
+<h3 class="sc-trait__name">Kit Improvement</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can choose one additional ward from your Summoner&#39;s Kit.</p>
+<p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9-Essence Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can summon the assistance of your future champion (see Portfolio Champion) and allow them to show off a brief display of their power. Select one of the following heroic abilities, each of which costs 9 essence to use.</p>
+</div>
+</section>
+</div>
+</div>
+</section>

@@ -527,6 +527,17 @@
 </details>
 
 <details class="browse-expand" markdown>
+<summary><a href="statblock/">Statblock</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Pixie Bellringer](statblock/pixie-bellringer.md)
+
+</div>
+
+</details>
+
+<details class="browse-expand" markdown>
 <summary><a href="time-raiders/">Time Raiders</a></summary>
 
 <div class="browse-index" markdown>

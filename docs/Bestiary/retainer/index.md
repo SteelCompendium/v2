@@ -33,3 +33,14 @@
 
 </details>
 
+<details class="browse-expand" markdown>
+<summary><a href="summoner/">Summoner</a></summary>
+
+<div class="browse-index" markdown>
+
+- [Statblock](summoner/statblock/)
+
+</div>
+
+</details>
+

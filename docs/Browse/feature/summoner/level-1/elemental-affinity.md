@@ -1,0 +1,25 @@
+---
+class: summoner
+level: "1"
+name: Elemental Affinity
+scc: mcdm.summoner.v1/feature.summoner.level-1/elemental-affinity
+type: feature
+---
+
+# Elemental Affinity
+
+---
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Trait</div>
+<h3 class="sc-trait__name">Elemental Affinity</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you use Call Forth to summon one or more non-signature elemental minions, you can summon one bonus signature minion at no cost. You can choose between a signature minion that shares an Element keyword with the minions you summoned (such as Fire, Earth, or Air) or an elemental mote.</p>
+</div>
+</section>

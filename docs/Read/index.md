@@ -23,6 +23,13 @@ search:
   <div class="sc-card__flavor">The beastheart class and its companion — bond with a monstrous ally and fight as one.</div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="summoner/" aria-label="Summoner"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+    <div><div class="sc-card__type">Book</div>
+    <div class="sc-card__name">Summoner</div></div></div>
+  <div class="sc-card__flavor">The summoner class — call forth minions, signature creatures, and dominion fixtures to fight at your side.</div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="bestiary/" aria-label="Bestiary"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Book</div>

@@ -100,6 +100,14 @@
   <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater [size](../rule/character/size.md) than your own.</span></div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="delegator/" aria-label="Delegator"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Delegator</div></div></div>
+  <div class="sc-card__flavor">They&#39;re all yours, buddy.</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a summoner, and you strike a deal with your portfolio&#39;s champion.</span></div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="demigod/" aria-label="Demigod"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
     <div><div class="sc-card__type">Title</div>
@@ -235,6 +243,14 @@
   <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Troupe Leading Player](troupe-leading-player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.</span></div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="high-summoner-of-the-circle/" aria-label="High Summoner of the Circle"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">High Summoner of the Circle</div></div></div>
+  <div class="sc-card__flavor">As I was taught, so I pass on to you.</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a summoner, and you teach someone how to call forth two or more minions from your portfolio.</span></div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="knight/" aria-label="Knight"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
     <div><div class="sc-card__type">Title</div>
@@ -363,6 +379,22 @@
   <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You died in glorious battle while on a quest for a higher power.</span></div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="ringleader/" aria-label="Ringleader"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Ringleader</div></div></div>
+  <div class="sc-card__flavor">Don&#39;t worry. I&#39;ve got a guy.</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete three downtime projects during the same respite with the help of followers or minions.</span></div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="safeguarded/" aria-label="Safeguarded"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Safeguarded</div></div></div>
+  <div class="sc-card__flavor">They risk their lives for me because I risk my life for theirs. This fight belongs to all of us!</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You earn a noble rank or earn the favor of a knight&#39;s guild.</span></div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="saved-for-a-worse-fate/" aria-label="Saved for a Worse Fate"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
     <div><div class="sc-card__type">Title</div>
@@ -395,6 +427,14 @@
   <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Battlefield Commander](battlefield-commander.md) title, and you lead the defense of a settlement or fortification.</span></div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="sigilwright/" aria-label="Sigilwright"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Sigilwright</div></div></div>
+  <div class="sc-card__flavor">Let&#39;s find out who&#39;s on the other side of the circle.</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete a ritual to summon a non-minion entity using a summoning circle you drew.</span></div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="special-agent/" aria-label="Special Agent"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
     <div><div class="sc-card__type">Title</div>
@@ -408,6 +448,14 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Stronghold</div></div></div>
   <div class="sc-card__flavor">Many followers stay at a stronghold, which is a home base you designate and can change. Your stronghold is typically a location shared by your fellow heroes. It could be a few rooms at an inn in a sleepy village, an old castle you claimed after clearing it of monsters, or a fleet of sailing ships.</div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="summoner-successor/" aria-label="Summoner Successor"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Summoner Successor</div></div></div>
+  <div class="sc-card__flavor">When their leader fell, they started listening to me for some reason.</div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can&#39;t use the Call Forth ability, and you defeat a leader or solo creature with a Summon or Call Forth ability, such as a high elf ordinator.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="sworn-hunter/" aria-label="Sworn Hunter"></a>
