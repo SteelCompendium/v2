@@ -10,7 +10,7 @@ type: feature
 
 ---
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="8">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
@@ -80,7 +80,8 @@ type: feature
 <div class="sc-trait__body">
 <p>You can choose one additional ward from your Summoner&#39;s Kit.</p>
 <p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>
-<div class="sc-trait__nest">
+</div>
+</section>
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
@@ -90,11 +91,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can summon the assistance of your future champion (see Portfolio Champion) and allow them to show off a brief display of their power. Select one of the following heroic abilities, each of which costs 9 essence to use.</p>
-</div>
-</section>
-</div>
-</div>
-</section>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
@@ -195,6 +192,9 @@ type: feature
 <div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Each target is R &lt; AVERAGE weakened (save ends).</p><p>Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>
 </div>
 </div>
 </section>

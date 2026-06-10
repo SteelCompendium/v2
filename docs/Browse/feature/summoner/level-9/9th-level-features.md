@@ -10,7 +10,7 @@ type: feature
 
 ---
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
@@ -43,7 +43,8 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their patience increased by 2.</p>
-<div class="sc-trait__nest">
+</div>
+</section>
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
@@ -53,11 +54,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 essence to use.</p>
-</div>
-</section>
-</div>
-</div>
-</section>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
@@ -146,6 +143,9 @@ type: feature
 <div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>
 </div>
 </div>
 </section>

@@ -10,7 +10,7 @@ type: feature
 
 ---
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
@@ -39,11 +39,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 essence to use. (Quick Build: Rallying Cry.)</p>
-</div>
-</section>
-</div>
-</div>
-</section>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
@@ -200,6 +196,12 @@ type: feature
 <div class="sc-ability__section-body"><p>This strike deals an additional 2 damage for each ally adjacent to you.</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 </div>
 </div>
 </section>
