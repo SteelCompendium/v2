@@ -35,7 +35,7 @@ Use the **tabs** at the top to choose how you want to explore the rules:
 
     Monsters and creatures of Draw Steel, with full statblocks and encounter-building details.
 
-    [:octicons-arrow-right-24: Open the Bestiary](Bestiary/README.md)
+    [:octicons-arrow-right-24: Open the Bestiary](Bestiary/index.md)
 
 </div>
 
