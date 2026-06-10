@@ -15,7 +15,9 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **As a [shadow](shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 
-"Whenever there is doubt, there is no doubt." **Motto of the College of Black Ash**
+> "Whenever there is doubt, there is no doubt." 
+>
+> **Motto of the College of Black Ash**
 
 ## Basics
 
