@@ -49,7 +49,7 @@ type: statblock
 >
 > The warrior ignores concealment if it's granted by a supernatural effect.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > ❗️ **'Scuse Me, Boss (Encounter)**
 >
@@ -61,7 +61,7 @@ type: statblock
 >
 > **Effect:** The warrior and the mentor switch places. The warrior is the strike's new target and the strike has a double bane.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🗡 **Defensive Fighting (Encounter)**
 >
@@ -77,7 +77,7 @@ type: statblock
 >
 > **Effect:** Until the start of the warrior's next turn, ability rolls against the warrior or any ally adjacent to the warrior have a double bane.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Whirlwind of Steel (Encounter)**
 >

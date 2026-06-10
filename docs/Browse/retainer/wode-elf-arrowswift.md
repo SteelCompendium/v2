@@ -50,7 +50,7 @@ type: statblock
 >
 > Abilities targeting the arrowswift that would take a bane from cover or concealment have a double bane instead.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Snipe (Encounter)**
 >
@@ -66,7 +66,7 @@ type: statblock
 >
 > **Effect:** If the arrowswift is hidden when they use this ability, they gain 2 surges that can be used immediately.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 👤 **Magic Arrows (Encounter)**
 >
@@ -76,7 +76,7 @@ type: statblock
 >
 > **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged strike, the strike gains an edge and the arrowswift gains 1 surge that must be used immediately. While the arrowswift's mentor is adjacent to them, the mentor also gains this benefit.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Double Shot (Encounter)**
 >

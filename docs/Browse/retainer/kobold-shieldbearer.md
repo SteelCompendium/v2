@@ -47,7 +47,7 @@ type: statblock
 >
 > While the shieldbearer is adjacent to their mentor, both have a +1 bonus to stability, have cover, and grant cover to allies.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > ❗️ **Shield Block (Encounter)**
 >
@@ -59,7 +59,7 @@ type: statblock
 >
 > **Effect:** The shieldbearer blocks the strike (if adjacent to the mentor) or throws their shield into the mentor's space. The triggering strike's damage is halved and the potency of any potency effects is reduced by 1. If the shieldbearer threw their shield, it bounces back to their hand.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🗡 **Living Backpack**
 >
@@ -69,7 +69,7 @@ type: statblock
 >
 > **Effect:** The shieldbearer straps their shield on their back and climbs onto their mentor's back, entering the mentor's space. While the shieldbearer is on their mentor's back, each of them gains 10 temporary Stamina and can use Shield Block as a triggered action targeting an ally instead of the shieldbearer's mentor. Additionally, the shieldbearer moves with the mentor, and they can't use main actions, maneuvers, or move actions except to end this effect as a maneuver. The effect also ends if the shieldbearer is force moved away from their mentor or knocked prone. If the shieldbearer is still in their mentor's space when the effect ends, they move into an adjacent unoccupied space of their choice.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🗡 **Let's Go Sledding (Encounter)**
 >

@@ -51,7 +51,7 @@ type: statblock
 >
 > The mind healer doesn't take a bane on strikes against creatures with concealment.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Stim Charge (Encounter)**
 >
@@ -61,7 +61,7 @@ type: statblock
 >
 > **Effect:** The target can spend 1 Recovery, and has their speed doubled until the end of their next turn.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🏹 **Mind Whelm (Encounter)**
 >
@@ -75,7 +75,7 @@ type: statblock
 > - **12-16:** 13 psychic damage; R < AVERAGE frightened (save ends)
 > - **17+:** 17 psychic damage; R < STRONG frightened (save ends)
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Psychic Short Circuit (Encounter)**
 >

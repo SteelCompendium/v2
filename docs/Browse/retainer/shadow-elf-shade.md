@@ -59,7 +59,7 @@ type: statblock
 >
 > The shade ignores concealment created by darkness. While the shade is in direct sunlight, they have damage weakness 3. While the shade has concealment, they have damage immunity 3.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🏹 **Slow-Poison Needle (Encounter)**
 >
@@ -75,7 +75,7 @@ type: statblock
 >
 > **Effect:** The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target's next turn. If the shade is hidden, using this ability doesn't cause them to be revealed.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🗡 **Shadow Dagger (Encounter)**
 >

@@ -60,7 +60,7 @@ type: statblock
 >
 > If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🔳 **Flames of Revenge (Encounter)**
 >
@@ -76,7 +76,7 @@ type: statblock
 >
 > **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🔳 **Hell On Earth (Encounter)**
 >

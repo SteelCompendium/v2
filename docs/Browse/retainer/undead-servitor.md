@@ -47,7 +47,7 @@ type: statblock
 >
 > The first time in an encounter that the servitor is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina maximum and fall prone.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🗡 **Grab and Bite (Encounter)**
 >
@@ -77,7 +77,7 @@ type: statblock
 >
 > **Effect:** Before making the strike, the servitor can teleport up to 10 squares to a space containing a dead creature, then burst out of the creature's body.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❗️ **Death Miasma (Encounter)**
 >

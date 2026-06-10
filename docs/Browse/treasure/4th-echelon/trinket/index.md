@@ -28,6 +28,20 @@
   </div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="hagbasket/" aria-label="Hagbasket"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Hagbasket</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This throne woven from wood, hair, and metal floats several feet above the ground. The gentle humming it makes while it soars sounds reminiscent of a hag&#39;s cackle.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A mundane broom, a hag's hut, and a hag's kiss</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="psi-blade/" aria-label="Psi Blade"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
     <div><div class="sc-card__type">Trinket</div>
@@ -37,5 +51,19 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
   </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="warbanner-of-wrath/" aria-label="Warbanner of Wrath"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Warbanner of Wrath</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A large banner billows from this tall flagpole. Its heraldry depicts a dragon breathing fire with outstretched wings covered in holes and tears.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A king's deathbed veil and a solid brass flagpole</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 </div>

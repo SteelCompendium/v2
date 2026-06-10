@@ -67,7 +67,7 @@ type: statblock
 >
 > **Effect:** The target is grabbed by the commando.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🗡 **Face Grab (Encounter)**
 >
@@ -83,7 +83,7 @@ type: statblock
 >
 > **Effect:** While the target is grabbed this way, they can't communicate and all creatures and objects have concealment from them.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🏹 **Shadow Drag (Encounter)**
 >
@@ -100,7 +100,7 @@ type: statblock
 >
 > **Effect:** The target takes 1 damage for each square they are pulled.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🗡 **Neck Snap (Encounter)**
 >

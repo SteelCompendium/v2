@@ -86,6 +86,15 @@
 </blockquote></div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="summoner/" aria-label="Summoner"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
+    <div><div class="sc-card__type">Class</div>
+    <div class="sc-card__name">Summoner</div></div></div>
+  <div class="sc-card__intro"><p>You are the armada. The kings of old would trade armies for your abilities. You've undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p>
+<p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p>
+<p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p></div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="tactician/" aria-label="Tactician"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>

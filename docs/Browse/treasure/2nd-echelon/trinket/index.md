@@ -4,6 +4,20 @@
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="abyssal-map-ink/" aria-label="Abyssal Map Ink"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Abyssal Map Ink</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">The puddle of living ink snarls and snaps while it feeds on parchment and smooth surfaces. It spreads itself across its meal until it resembles a flat, top-down view of its immediate surroundings, wriggling and readjusting itself wherever it goes.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A vial of pitling spit, and a jar of human blood</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Tholl</div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="bastion-belt/" aria-label="Bastion Belt"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
     <div><div class="sc-card__type">Trinket</div>
@@ -24,6 +38,20 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="grasp-of-the-chained-hand/" aria-label="Grasp of the Chained Hand"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Grasp of the Chained Hand</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A gauntlet of loose chains rattles, shackled to each of the user&#39;s fingers. They clatter whenever magic surges through them.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Blood-soaked chains that restrained a demon for at least 30 days</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in the Tholl</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="insightful-crown/" aria-label="Insightful Crown"></a>
@@ -90,6 +118,20 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="thunder-chariot/" aria-label="Thunder Chariot"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Thunder Chariot</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A porcelain cart with golden filigree and wheels that crackle with electricity.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Twenty lightning bolts frozen in time</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in the First Language</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="werewolf-tooth-pendant/" aria-label="Werewolf Tooth Pendant"></a>

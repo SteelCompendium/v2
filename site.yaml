@@ -5,6 +5,7 @@
 source_dirs:
   - ../data/data-rules/en/md-linked
   - ../data/data-beastheart/en/md-linked
+  - ../data/data-summoner/en/md-linked
   - ../data/data-bestiary/en/md-linked
 
 # MkDocs docs directory
@@ -32,10 +33,16 @@ books:
     order: 2
     icon: paw
     description: The beastheart class and its companion — bond with a monstrous ally and fight as one.
+  - key: mcdm.summoner.v1
+    folder: summoner
+    label: Summoner
+    order: 3
+    icon: scroll
+    description: The summoner class — call forth minions, signature creatures, and dominion fixtures to fight at your side.
   - key: mcdm.monsters.v1
     folder: bestiary
     label: Bestiary
-    order: 3
+    order: 4
     icon: skull
     description: Monsters and adversaries to challenge your heroes, with statblocks and encounter-building guidance.
 
@@ -63,6 +70,12 @@ sections:
       - monster/
       - dynamic-terrain/
       - retainer/
+      # Summoner book statblock trees (portfolio minions/fixtures/champions +
+      # the rival summoner) reuse the same bestiary cards as monster/retainer.
+      - minion/
+      - fixture/
+      - champion/
+      - rival/
     exclude:
       - feature/trait/ancestry-traits
     sort: natural
@@ -83,9 +96,10 @@ sections:
     group_by_book: true
 
   # Bestiary: repurposed from a flat browser into a Search & Filter utility
-  # (Plan B). The monster / dynamic-terrain / retainer browse trees moved to the
-  # Browse section above on 2026-06-10. Until the search widget ships, the tab is
-  # a static "coming soon" placeholder owned by static_content
+  # (Plan B). The monster / dynamic-terrain / retainer browse trees (and the
+  # summoner minion/fixture/champion/rival trees) moved to the Browse section
+  # above on 2026-06-10. Until the search widget ships, the tab is a static
+  # "coming soon" placeholder owned by static_content
   # (static_content/docs/Bestiary/index.md) — no generated includes here. The
   # `books:` entry for mcdm.monsters.v1 (folder: bestiary) still drives the Read
   # tab's book grouping and is unrelated to this section.

@@ -52,7 +52,7 @@ type: statblock
 >
 > Whenever an adjacent enemy grabs the hopper or uses a melee ability against them, that enemy takes 3 poison damage.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🗡 **Leaping Attack (Encounter)**
 >
@@ -68,7 +68,7 @@ type: statblock
 >
 > **Effect:** The hopper can jump up to their speed in a straight line before the strike without provoking opportunity attacks. If they jump 2 or more squares this way, they gain 1 surge.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🏹 **Three-Poison Dart (Encounter)**
 >
@@ -82,7 +82,7 @@ type: statblock
 > - **12-16:** 9 poison damage; M < AVERAGE, slowed and weakened (save ends)
 > - **17+:** 12 poison damage; M < STRONG, dazed, slowed, and weakened (save ends)
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❗️ **Trip of the Tongue (Encounter)**
 >

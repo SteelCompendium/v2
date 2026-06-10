@@ -47,7 +47,7 @@ type: statblock
 >
 > If the charger is reduced to 0 Stamina, they can make a free strike before dying. If the target of the free strike is reduced to 0 Stamina, the charger is reduced to 1 Stamina instead.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 👤 **Blood Oath (Encounter)**
 >
@@ -57,7 +57,7 @@ type: statblock
 >
 > **Effect:** Until the start of the charger's next turn, the charger and their mentor each have temporary Stamina equal to their Recovery value and a +2 bonus to speed, and they each gain an edge on reactive tests.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 👤 **Mow 'Em Down (Encounter)**
 >
@@ -67,7 +67,7 @@ type: statblock
 >
 > **Effect:** The charger moves in a straight line up to their speed. During this move, they ignore enemy free strikes, and they can make a melee free strike against any creature they move adjacent to.
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > ❇️ **Vein Burst (Encounter)**
 >

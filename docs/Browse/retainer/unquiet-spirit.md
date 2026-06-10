@@ -59,7 +59,7 @@ type: statblock
 >
 > The unquiet spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature other than their mentor, that creature takes 2 corruption damage.
 
-######## Level 4 Retainer Advancement Ability
+**Level 4 Retainer Advancement Ability**
 
 > 🏹 **Enervating Curse (Encounter)**
 >
@@ -75,7 +75,7 @@ type: statblock
 >
 > **Effect:** The next creature to make a strike against the target gains 1 surge for each level of drain, which must be used on that strike.
 
-######## Level 7 Retainer Advancement Ability
+**Level 7 Retainer Advancement Ability**
 
 > 🔳 **Ectoplasm (Encounter)**
 >
@@ -89,7 +89,7 @@ type: statblock
 > - **12-16:** A < AVERAGE slowed and weakened (save ends)
 > - **17+:** A < STRONG slowed and weakened (save ends)
 
-######## Level 10 Retainer Advancement Ability
+**Level 10 Retainer Advancement Ability**
 
 > 🏹 **Death Phase (Encounter)**
 >

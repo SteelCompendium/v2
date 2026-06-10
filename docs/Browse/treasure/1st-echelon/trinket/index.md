@@ -151,6 +151,20 @@
   <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
+  <a class="sc-card__link" href="snakerattle-bangle/" aria-label="Snakerattle Bangle"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+    <div><div class="sc-card__type">Trinket</div>
+    <div class="sc-card__name">Snakerattle Bangle</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Magic</span></div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This loose-fitting, scaley bangle shifts and slithers while worn. It emits a bone-chilling rattle each time it hits its user&#39;s wrist.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> The tail of a size 3 or larger rattlesnake</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
+</div>
+<div class="sc-card sc-fil">
   <a class="sc-card__link" href="speaking-scarab/" aria-label="Speaking Scarab"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
     <div><div class="sc-card__type">Trinket</div>
