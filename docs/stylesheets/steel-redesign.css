@@ -258,3 +258,99 @@
 @media screen and (max-width: 44.98em) {
   .md-typeset .grid.cards > ul, .md-typeset .sc-cards { grid-template-columns: 1fr; }
 }
+
+/* ============================================================
+   HORIZONTAL RULE — polished-steel ◆ divider with flanking dots.
+   Replaces the dull-grey hr from custom_font.css (loaded earlier in
+   mkdocs.yml, same specificity → this wins on order) with the
+   redesign's center-out steel line, two seed dots, and a haloed
+   diamond. Targets the bare <hr> Markdown emits — no markup change.
+   ============================================================ */
+.md-typeset hr {
+  border: none; height: 1px; position: relative; margin: 2rem 0; padding: 0; overflow: visible;
+  background:
+    linear-gradient(to right, transparent, var(--fx-metal-line)) no-repeat left center,
+    linear-gradient(to left,  transparent, var(--fx-metal-line)) no-repeat right center;
+  background-size: calc(50% - 30px) 1px, calc(50% - 30px) 1px;
+}
+/* the two small seed dots flanking the diamond */
+.md-typeset hr::before {
+  content: ""; position: absolute; top: 50%; left: 50%; width: 48px; height: 4px;
+  transform: translate(-50%, -50%);
+  background:
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat left center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat right center;
+  background-size: 4px 4px, 4px 4px;
+}
+.md-typeset hr::after {
+  content: ""; position: absolute; top: 50%; left: 50%; width: 9px; height: 9px; margin: -4.5px 0 0 -4.5px;
+  /* border:none clears the 2px bottom/right borders the custom_font.css diamond
+     declares — this rule re-declares background/box-shadow but not those borders,
+     so without this reset they'd leak through and snag the new diamond's edges. */
+  border: none;
+  background: var(--fx-metal); transform: rotate(45deg);
+  box-shadow: 0 0 0 4px var(--md-default-bg-color), 0 0 0 5px var(--fx-metal-faint);
+}
+/* tighter, dot-free divider inside the small landing cards */
+.md-typeset .grid.cards > ul > li > hr { margin: .8rem 0; background-size: calc(50% - 12px) 1px, calc(50% - 12px) 1px; }
+.md-typeset .grid.cards > ul > li > hr::before { display: none; }
+.md-typeset .grid.cards > ul > li > hr::after { width: 8px; height: 8px; margin: -4px 0 0 -4px; }
+
+/* ============================================================
+   BLOCKQUOTE — filigree frame.
+   A raised steel plate (card gradient) with four corner L-brackets +
+   corner diamonds seated on the bracket elbows. Overrides Material's
+   thick left-bar blockquote.
+
+   Scoped to TOP-LEVEL prose blockquotes only (flavor asides, notes,
+   the license disclaimer):
+     • child combinator `> blockquote` — matches the blockquotes that
+       are direct children of the content article, so the *nested*
+       `.sc-card__intro blockquote` (index-card class primers) is left
+       with its own compact styling, not wrapped in a heavy frame.
+     • `:not([data-ability-type])` — ability cards render as decorated
+       blockquotes (ability-cards.js + extra.css's colored left border);
+       the filigree frame must skip them.
+   ============================================================ */
+.md-typeset > blockquote:not([data-ability-type]) {
+  position: relative; margin: 1.7rem 0; padding: 1.45rem 1.7rem;
+  color: var(--md-default-fg-color--light); font-style: normal;
+  background: var(--fx-card-bg);
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: .6rem;
+  box-shadow: var(--fx-bevel), 0 6px 18px rgba(0,0,0,.22);
+}
+[data-md-color-scheme="default"] .md-typeset > blockquote:not([data-ability-type]) {
+  border-color: var(--md-default-fg-color--lightest);
+  box-shadow: var(--fx-bevel), 0 4px 12px rgba(0,0,0,.07);
+}
+.md-typeset > blockquote:not([data-ability-type]) > :first-child { margin-top: 0; }
+.md-typeset > blockquote:not([data-ability-type]) > :last-child { margin-bottom: 0; }
+/* four corner L-brackets (8 hairline bg layers, no markup), inset for breathing room */
+.md-typeset > blockquote:not([data-ability-type])::before {
+  content: ""; position: absolute; inset: 12px; pointer-events: none;
+  --c: var(--fx-metal-line); --n: 13px;
+  background:
+    linear-gradient(var(--c), var(--c)) top left,
+    linear-gradient(var(--c), var(--c)) top left,
+    linear-gradient(var(--c), var(--c)) top right,
+    linear-gradient(var(--c), var(--c)) top right,
+    linear-gradient(var(--c), var(--c)) bottom left,
+    linear-gradient(var(--c), var(--c)) bottom left,
+    linear-gradient(var(--c), var(--c)) bottom right,
+    linear-gradient(var(--c), var(--c)) bottom right;
+  background-repeat: no-repeat;
+  background-size: var(--n) 1px, 1px var(--n), var(--n) 1px, 1px var(--n),
+                   var(--n) 1px, 1px var(--n), var(--n) 1px, 1px var(--n);
+}
+/* four corner diamonds centered on the bracket elbows (inset 9px → center at 12px) */
+.md-typeset > blockquote:not([data-ability-type])::after {
+  content: ""; position: absolute; inset: 9px; pointer-events: none;
+  --d: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6' height='6'%3E%3Crect x='1.6' y='1.6' width='2.8' height='2.8' transform='rotate(45 3 3)' fill='%23fff'/%3E%3C/svg%3E");
+  background: var(--fx-metal);
+  -webkit-mask: var(--d) top left, var(--d) top right, var(--d) bottom left, var(--d) bottom right;
+          mask: var(--d) top left, var(--d) top right, var(--d) bottom left, var(--d) bottom right;
+  -webkit-mask-repeat: no-repeat; mask-repeat: no-repeat;
+}
+/* keep the inner content above the frame layers */
+.md-typeset > blockquote:not([data-ability-type]) > * { position: relative; z-index: 1; }
