@@ -119,6 +119,7 @@ extra_css:
   - stylesheets/steel-ability-cards.css
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
+  - stylesheets/steel-bestiary.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
