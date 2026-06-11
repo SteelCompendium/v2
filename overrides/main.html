@@ -81,6 +81,11 @@
             if (s.compact) document.documentElement.setAttribute("data-compact", "true");
             if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
             if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
+            // Statblock layout preferences (data-sb-*) must always be set — an absent
+            // attribute is NOT equivalent to the "Steel Card" default in steel-statblock.css.
+            var sb = s.statblock || {};
+            var sbD = {kwusage:"crest",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
+            for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
         } catch(e) {}
     })();
 </script>
