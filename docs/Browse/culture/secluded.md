@@ -13,4 +13,4 @@ A [secluded](secluded.md) culture is based in one relatively close-quarters stru
 
 When people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.
 
-**Skill Options:** One skill from the [interpersonal](../skill/group/interpersonal.md) or [lore](../skill/group/lore.md) skill groups. (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md).)
+**Skill Options:** One skill from the [interpersonal](../skill/interpersonal/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md).)

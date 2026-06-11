@@ -375,7 +375,7 @@ If your champion would die while taking your place, you lose access to your [Ret
 
 **Prerequisite:** You are a [summoner](../../Browse/class/summoner.md), and you teach someone how to call forth two or more minions from your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md).
 
-**Effect:** You are considered a master that can be learned from using the [Learn from a Master](../project/learn-from-a-master.md) downtime project in Draw Steel: Heroes. Anyone that makes a [project roll](../../Browse/rule/downtime/project-roll.md) using you as the source gains a bonus to their roll equal to your [Reason](../../Browse/rule/character/reason.md). Additionally, choose one of the following benefits:
+**Effect:** You are considered a master that can be learned from using the [Learn from a Master](../../Browse/project/learn-from-a-master.md) downtime project in Draw Steel: Heroes. Anyone that makes a [project roll](../../Browse/rule/downtime/project-roll.md) using you as the source gains a bonus to their roll equal to your [Reason](../../Browse/rule/character/reason.md). Additionally, choose one of the following benefits:
 
 *Essence Mastery:* Your minions cost one fewer [essence](../../Browse/feature/summoner/level-1/essence.md) to summon (minimum cost of 1 essence).
 

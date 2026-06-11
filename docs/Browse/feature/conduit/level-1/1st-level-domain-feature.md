@@ -188,7 +188,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods favor your thievery with magic. Whenever you make a <a href="../../../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../../../skill/group/intrigue/">intrigue skill group</a>, you can use <a href="../../../../rule/character/intuition/">Intuition</a> on the <a href="../../../../rule/test/test/">test</a> instead of another <a href="../../../../rule/character/characteristic/">characteristic</a>.</p>
+<p>The gods favor your thievery with magic. Whenever you make a <a href="../../../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../../../skill/intrigue/">intrigue skill group</a>, you can use <a href="../../../../rule/character/intuition/">Intuition</a> on the <a href="../../../../rule/test/test/">test</a> instead of another <a href="../../../../rule/character/characteristic/">characteristic</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

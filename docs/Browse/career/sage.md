@@ -5,7 +5,7 @@ name: Sage
 perk: One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
 scc: mcdm.heroes.v1/career/sage
 skills:
-    - Two skills from the [lore skill group](../skill/group/lore.md) (*Quick Build:* [History](../skill/lore/history.md), [Magic](../skill/lore/magic.md).)
+    - Two skills from the [lore skill group](../skill/lore/index.md) (*Quick Build:* [History](../skill/lore/history.md), [Magic](../skill/lore/magic.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ From an early age, you dedicated yourself to learning, whether you shared the kn
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the [lore skill group](../skill/group/lore.md) (*Quick Build:* [History](../skill/lore/history.md), [Magic](../skill/lore/magic.md).)
+**Skills:** Two skills from the [lore skill group](../skill/lore/index.md) (*Quick Build:* [History](../skill/lore/history.md), [Magic](../skill/lore/magic.md).)
 
 **Languages:** One language
 

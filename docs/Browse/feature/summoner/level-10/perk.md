@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../skill/group/intrigue/">intrigue</a>, <a href="../../../../skill/group/interpersonal/">interpersonal</a>, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
+<p>You gain an <a href="../../../../skill/intrigue/">intrigue</a>, <a href="../../../../skill/interpersonal/">interpersonal</a>, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>

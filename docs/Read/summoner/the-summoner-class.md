@@ -40,7 +40,7 @@ You can also take advantage of powerful magic to buff your allies, whittle down 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Magic](../../Browse/skill/lore/magic.md) and [Strategy](../../Browse/skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../../Browse/skill/group/intrigue.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* [Eavesdrop](../../Browse/skill/intrigue/eavesdrop.md), [Magic](../../Browse/skill/lore/magic.md), [Monsters](../../Browse/skill/lore/monsters.md), [Strategy](../../Browse/skill/lore/strategy.md).)
+**Skills:** You gain the [Magic](../../Browse/skill/lore/magic.md) and [Strategy](../../Browse/skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../../Browse/skill/intrigue/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* [Eavesdrop](../../Browse/skill/intrigue/eavesdrop.md), [Magic](../../Browse/skill/lore/magic.md), [Monsters](../../Browse/skill/lore/monsters.md), [Strategy](../../Browse/skill/lore/strategy.md).)
 
 ###### Summoner Advancement
 
@@ -1071,7 +1071,7 @@ As a 2nd-level [summoner](../../Browse/class/summoner.md), you gain the followin
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-2/perk"}
 
-You gain an [intrigue](../../Browse/skill/group/intrigue.md), [lore](../../Browse/skill/group/lore.md), or supernatural [perk](../../Browse/feature/summoner/level-2/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../../Browse/skill/intrigue/index.md), [lore](../../Browse/skill/lore/index.md), or supernatural [perk](../../Browse/feature/summoner/level-2/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Summoner's Dominion {data-scc="mcdm.summoner.v1/feature.summoner.level-2/summoners-dominion"}
 
@@ -1662,7 +1662,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 
 You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive.
 
-You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md). On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on [power rolls](../../Browse/rule/dice/power-roll.md) until you exorcise the haunt either by completing the [Find a Cure](../project/find-a-cure.md) downtime project in Draw Steel: Heroes or taking a [respite](../../Browse/rule/resource/respite.md) with an exorcist.
+You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md). On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on [power rolls](../../Browse/rule/dice/power-roll.md) until you exorcise the haunt either by completing the [Find a Cure](../../Browse/project/find-a-cure.md) downtime project in Draw Steel: Heroes or taking a [respite](../../Browse/rule/resource/respite.md) with an exorcist.
 
 After you stop channeling their spirit, you can't use this feature to channel the same creature again.
 
@@ -2019,7 +2019,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-6/perk"}
 
-You gain an [interpersonal](../../Browse/skill/group/interpersonal.md), [lore](../../Browse/skill/group/lore.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [interpersonal](../../Browse/skill/interpersonal/index.md), [lore](../../Browse/skill/lore/index.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Return to the Source {data-scc="mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source"}
 
@@ -2605,7 +2605,7 @@ As a [respite](../../Browse/rule/resource/respite.md) activity, you summon a wil
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-10/perk"}
 
-You gain an [intrigue](../../Browse/skill/group/intrigue.md), [interpersonal](../../Browse/skill/group/interpersonal.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../../Browse/skill/intrigue/index.md), [interpersonal](../../Browse/skill/interpersonal/index.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-10/skill"}
 

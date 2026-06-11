@@ -13,7 +13,7 @@ type: chapter
 
 ## Beastheart {data-scc="mcdm.beastheart.v1/class/beastheart"}
 
-A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a [wolf](../feature-group/companion/wolf.md), a [basilisk](../feature-group/companion/basilisk.md), or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.
+A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a [wolf](../../Browse/feature-group/companion/wolf.md), a [basilisk](../../Browse/feature-group/companion/basilisk.md), or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.
 
 As a beastheart, you face the world's dangers alongside your wild companion. With your combined might, you rush into the thick of combat to challenge enemy champions or prowl around the outskirts to pick off vulnerable foes.
 
@@ -86,9 +86,9 @@ Choose a companion from the following options. (*Quick Build:* Wolf.)
 
 ##### Customizing Your Companion
 
-Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the [condor](../feature-group/companion/condor.md) companion for an escaped Hawklord hawk, the [wolf](../feature-group/companion/wolf.md) for a dog or jackal, or even the [boar](../feature-group/companion/boar.md) for a particularly ornery stag or elk.
+Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the [condor](../../Browse/feature-group/companion/condor.md) companion for an escaped Hawklord hawk, the [wolf](../../Browse/feature-group/companion/wolf.md) for a dog or jackal, or even the [boar](../../Browse/feature-group/companion/boar.md) for a particularly ornery stag or elk.
 
-With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a [hellhound](../feature-group/companion/hellhound.md) you travel with a white wolf that deals cold damage instead of fire damage; maybe your [elemental spark](../feature-group/companion/elemental-spark.md) is an elemental ember that deals fire damage; or maybe your [panther](../feature-group/companion/panther.md) is a shadow whose [Pounce](../../Browse/feature/ability/companion/panther/level-1/pounce.md) maneuver deals corruption or cold damage.
+With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a [hellhound](../../Browse/feature-group/companion/hellhound.md) you travel with a white wolf that deals cold damage instead of fire damage; maybe your [elemental spark](../../Browse/feature-group/companion/elemental-spark.md) is an elemental ember that deals fire damage; or maybe your [panther](../../Browse/feature-group/companion/panther.md) is a shadow whose [Pounce](../../Browse/feature/ability/companion/panther/level-1/pounce.md) maneuver deals corruption or cold damage.
 
 ### Companion Stat Blocks
 
@@ -937,7 +937,7 @@ Your companion can't use every consumable, but with your help, they can benefit 
 
 Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
 
-You companion doesn't need to wear their trinket around their neck: a [condor](../feature-group/companion/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
+You companion doesn't need to wear their trinket around their neck: a [condor](../../Browse/feature-group/companion/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
 
 ###### Leveled Items
 
