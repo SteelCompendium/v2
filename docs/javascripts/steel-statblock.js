@@ -41,6 +41,10 @@
   };
   var TIER_GLYPH = { low: "!", mid: "@", high: "#" }; // ≤11 / 12–16 / 17+
 
+  // Window scroll/resize handlers the sticky mini-header registers, tracked so
+  // they can be torn down on the next navigation (see init / teardown below).
+  var stickyHandlers = [];
+
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -312,20 +316,47 @@
       function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
       window.addEventListener("scroll", onScroll, { passive: true });
       window.addEventListener("resize", onScroll, { passive: true });
+      stickyHandlers.push(onScroll);
       update();
     }
   }
 
-  // Auto-enhance JSON islands on load
+  // Tear down the previous page's sticky scroll/resize listeners. Under
+  // Material's navigation.instant the JS context survives page swaps, so without
+  // this each visited statblock leaks a window listener pinning a detached
+  // .sb-wrap (and recomputing getBoundingClientRect on every scroll forever).
+  function teardown() {
+    stickyHandlers.forEach(function (h) {
+      window.removeEventListener("scroll", h);
+      window.removeEventListener("resize", h);
+    });
+    stickyHandlers = [];
+  }
+
+  // Auto-mount every statblock island. The island IS the only render path for a
+  // statblock (unlike the build-time ability/trait cards), so this MUST run on
+  // EVERY page view. Two navigation.instant hazards, both handled here:
+  //   1) page swaps don't re-fire DOMContentLoaded → subscribe to `document$`.
+  //   2) Material recreates inline <script>s and strips their class/type → we
+  //      locate the island by its `.sc-statblock-mount` DIV (whose attributes
+  //      survive) and read the child <script>, falling back to any <script>.
+  // See .repo-docs/decisions/2026-06-11-client-scripts-navigation-instant.md.
   function init() {
-    var islands = document.querySelectorAll('script[type="application/json"].sc-statblock-data');
-    islands.forEach(function (s) {
-      try { mount(s, JSON.parse(s.textContent)); }
+    teardown();
+    document.querySelectorAll(".sc-statblock-mount").forEach(function (host) {
+      var s = host.querySelector("script.sc-statblock-data") || host.querySelector("script");
+      if (!s) return;
+      try { mount(host, JSON.parse(s.textContent)); }
       catch (err) { if (global.console) console.warn("[steel-statblock] bad JSON island", err); }
     });
   }
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
-  else init();
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(init);
+  } else if (document.readyState !== "loading") {
+    init();
+  } else {
+    document.addEventListener("DOMContentLoaded", init);
+  }
 
   global.SCStatblock = { render: render, mount: mount, ACT: ACT };
 })(window);

@@ -140,6 +140,11 @@
     return node;
   }
 
+  // Auto-enhance JSON islands. Dormant in production today (traits ship as
+  // build-time HTML, not islands), but if the runtime path is ever used this
+  // MUST run on every page view — under Material's `navigation.instant`, page
+  // swaps don't re-fire DOMContentLoaded, so subscribe to `document$`. See
+  // .repo-docs/decisions/2026-06-11-client-scripts-navigation-instant.md.
   function init() {
     var islands = document.querySelectorAll('script[type="application/json"].sc-trait-data');
     islands.forEach(function (s) {
@@ -147,8 +152,13 @@
       catch (err) { if (global.console) console.warn("[steel-trait] bad JSON island", err); }
     });
   }
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
-  else init();
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(init);
+  } else if (document.readyState !== "loading") {
+    init();
+  } else {
+    document.addEventListener("DOMContentLoaded", init);
+  }
 
   global.SCTrait = { render: render, mount: mount };
 })(window);

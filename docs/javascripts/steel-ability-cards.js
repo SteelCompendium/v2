@@ -149,7 +149,11 @@
     return card;
   }
 
-  // Auto-enhance JSON islands on load
+  // Auto-enhance JSON islands. Dormant in production today (abilities ship as
+  // build-time HTML, not islands), but if the runtime path is ever used this
+  // MUST run on every page view — under Material's `navigation.instant`, page
+  // swaps don't re-fire DOMContentLoaded, so subscribe to `document$`. See
+  // .repo-docs/decisions/2026-06-11-client-scripts-navigation-instant.md.
   function init() {
     var islands = document.querySelectorAll('script[type="application/json"].sc-ability-data');
     islands.forEach(function (s) {
@@ -157,8 +161,13 @@
       catch (err) { if (global.console) console.warn("[steel-ability] bad JSON island", err); }
     });
   }
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
-  else init();
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(init);
+  } else if (document.readyState !== "loading") {
+    init();
+  } else {
+    document.addEventListener("DOMContentLoaded", init);
+  }
 
   global.SCAbility = { render: render, mount: mount, ACTIONS: ACTIONS };
 })(window);
