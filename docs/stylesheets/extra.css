@@ -33,16 +33,23 @@ th:empty {
    .sc-cards (Browse landing, steel-redesign.css), .sc-folders (folder nav) and
    .sc-prevs (preview + JS browse results, steel-indexes.css). Zoom the grid
    container (not each cell) so tracks, gaps, and card contents all scale together
-   and the auto-fill reflow stays coherent. */
+   and the auto-fill reflow stays coherent.
+
+   Statblocks: zoom the whole .sb-wrap (header, defenses, characteristics, 2×2
+   meta, AND the features) as one unit — the features inside are .sc-ability
+   elements, so they're reset to zoom:1 (like .sc-trait's nested abilities) to
+   inherit the card's zoom instead of each scaling independently. */
 .md-typeset .sc-ability,
 .md-typeset .sc-trait,
+.md-typeset .sb-wrap,
 .md-typeset .sc-cards,
 .md-typeset .sc-folders,
 .md-typeset .sc-prevs {
     zoom: var(--sc-card-scale);
 }
 .md-typeset .sc-trait .sc-ability,
-.md-typeset .sc-trait .sc-trait {
+.md-typeset .sc-trait .sc-trait,
+.md-typeset .sb-wrap .sc-ability {
     zoom: 1;
 }
 
