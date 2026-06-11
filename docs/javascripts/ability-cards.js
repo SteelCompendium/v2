@@ -224,6 +224,62 @@
     }
   }
 
+  /**
+   * Header-less tier triples: a "test" reuses the ≤11/12-16/17+ tier outcomes
+   * but has NO preceding "**Power Roll +**" header, so transformPowerRolls()
+   * skips it. Find any remaining <ul> whose EVERY item leads with a recognized
+   * tier strong (airtight signature — an ordinary list never matches) and badge
+   * it like a power roll. Runs after transformPowerRolls/transformStatblock,
+   * whose replaced <ul>s are already gone from the DOM, so there is no overlap.
+   */
+  function transformHeaderlessTierLists() {
+    var uls = document.querySelectorAll(".md-typeset ul");
+    for (var i = 0; i < uls.length; i++) {
+      var ul = uls[i];
+      if (ul.getAttribute("data-power-roll-transformed")) continue;
+
+      var lis = ul.querySelectorAll(":scope > li");
+      if (lis.length < 2 || lis.length > 3) continue;
+
+      var rows = [];
+      var allTier = true;
+      for (var j = 0; j < lis.length; j++) {
+        var s = lis[j].querySelector("strong:first-child");
+        var tier = s ? detectTier(s.textContent.trim()) : null;
+        if (!tier) {
+          allTier = false;
+          break;
+        }
+        rows.push({ li: lis[j], strong: s, tier: tier });
+      }
+      if (!allTier || rows.length < 2) continue;
+
+      var wrapper = document.createElement("div");
+      wrapper.className = "power-roll-tiers";
+      wrapper.setAttribute("data-power-roll-transformed", "");
+
+      for (var k = 0; k < rows.length; k++) {
+        var row = document.createElement("div");
+        row.className = "power-roll-row";
+
+        var badge = document.createElement("span");
+        badge.className = "ds-glyph power-roll-badge power-roll-badge--" + rows[k].tier;
+        badge.textContent = TIER_GLYPHS[rows[k].tier];
+        badge.setAttribute("aria-label", rows[k].strong.textContent.trim().replace(/:$/, ""));
+
+        var effect = document.createElement("span");
+        effect.className = "power-roll-effect";
+        effect.innerHTML = getEffectHTML(rows[k].li, rows[k].strong);
+
+        row.appendChild(badge);
+        row.appendChild(effect);
+        wrapper.appendChild(row);
+      }
+
+      ul.parentNode.replaceChild(wrapper, ul);
+    }
+  }
+
   /** Legacy power roll styling — colored left borders on list items */
   function colorPowerRollTiers() {
     var listItems = document.querySelectorAll(".md-typeset li");
@@ -292,6 +348,7 @@
     if (useClassicStyle()) {
       transformPowerRolls();
       transformStatblockPowerRolls();
+      transformHeaderlessTierLists();
     } else {
       colorPowerRollTiers();
     }
