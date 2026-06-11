@@ -27,6 +27,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"abyssal-hyena","name":"Abyssal Hyena","ancestry":"Abyssal, Animal, Gnoll","level":"2","role":"Minion Brute","roleKey":"brute","ev":"4 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-3"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Snapjaw","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"6 damage; grabbed","low":"3 damage","mid":"4 damage"}}},{"kind":"passive","action":"passive","name":"Death Snap","body":"When the abyssal hyena is reduced to 0 Stamina, they can make a melee free strike before dying."}]}
-</script>
+</script></div>

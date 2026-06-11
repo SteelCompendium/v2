@@ -28,6 +28,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"time-raider-archon","name":"Time Raider Archon","ancestry":"Humanoid, Time Raider","level":"3","role":"Minion Harrier","roleKey":"harrier","ev":"5 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Brutal Flail","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; one ally can make a free strike against the target","low":"2 damage","mid":"4 damage"}}},{"kind":"passive","action":"passive","name":"Foresight","body":"The archon doesn't take a bane on strikes against creatures with concealment."}]}
-</script>
+</script></div>

@@ -23,6 +23,6 @@ weaknesses:
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"sprite-orchiguard","name":"Sprite Orchiguard","ancestry":"Sprite Orchiguard","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Fairy Guard","body":"Each non-orchiguard ally takes half damage from abilities while within 1 square of the orchiguard. Whenever the orchiguard reduces damage this way, they take damage equal to half their maximum [Stamina](../../../rule/health/stamina/) and their [free strike](../../../feature/common/main-actions/free-strike/) damage increases by 1."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The orchiguard has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
-</script>
+</script></div>

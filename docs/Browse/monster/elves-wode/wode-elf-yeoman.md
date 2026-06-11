@@ -27,6 +27,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"wode-elf-yeoman","name":"Wode Elf Yeoman","ancestry":"Fey, Humanoid, Wode Elf","level":"1","role":"Minion Artillery","roleKey":"artillery","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Heavy Longbow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 12","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; push 3","low":"2 damage; push 1","mid":"4 damage; push 2"}}},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the yeoman that would take a bane from cover or concealment have a double bane instead."}]}
-</script>
+</script></div>

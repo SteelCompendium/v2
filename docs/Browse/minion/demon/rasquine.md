@@ -24,6 +24,6 @@ weaknesses:
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"rasquine","name":"Rasquine","ancestry":"Rasquine","level":"","role":"Minion Ambusher","roleKey":"ambusher","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Skulker","body":"Once per turn, the rasquine can [hide](../../../feature/common/maneuvers/hide/) as a [free maneuver](../../../rule/combat/free-maneuver/) after [teleporting](../../../movement/teleport/)."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the rasquine can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
-</script>
+</script></div>

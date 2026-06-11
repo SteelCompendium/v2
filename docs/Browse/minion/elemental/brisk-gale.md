@@ -26,6 +26,6 @@ weaknesses:
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"brisk-gale","name":"Brisk Gale","ancestry":"Brisk Gale","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Sonic R","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Cutting the Air","body":"The gale doesn't provoke [opportunity attacks](../../../rule/combat/opportunity-attack/) by moving."},{"kind":"passive","action":"passive","name":"Whirlwind","body":"When the gale is reduced to 0 [Stamina](../../../rule/health/stamina/), winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately [shift](../../../movement/shifting/) (including vertically)."}]}
-</script>
+</script></div>

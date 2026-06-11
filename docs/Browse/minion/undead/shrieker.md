@@ -26,6 +26,6 @@ weaknesses:
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"shrieker","name":"Shrieker","ancestry":"Shrieker","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"1"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Howling Strike","body":"The shrieker's ranged [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 12."},{"kind":"passive","action":"passive","name":"Shrill Alarm","body":"Each enemy within 2 squares of the shrieker can't [hide](../../../feature/common/maneuvers/hide/) or be [hidden](../../../feature/common/maneuvers/hide/)."}]}
-</script>
+</script></div>

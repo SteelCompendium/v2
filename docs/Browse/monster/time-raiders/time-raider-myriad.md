@@ -28,6 +28,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-<script type="application/json" class="sc-statblock-data">
+<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
 {"id":"time-raider-myriad","name":"Time Raider Myriad","ancestry":"Humanoid, Time Raider","level":"3","role":"Minion Brute","roleKey":"brute","ev":"5 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Fifth Fist","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"6 damage; slide 3, prone","low":"3 damage; slide 1","mid":"5 damage; slide 2"}}},{"kind":"passive","action":"passive","name":"Foresight","body":"The myriad doesn't take a bane on strikes against creatures with concealment."}]}
-</script>
+</script></div>
