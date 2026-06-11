@@ -13,7 +13,7 @@ type: feature-group
 | Beast, Companion  |         -         |                       Level 1                       |          -          |            -             |
 |:-----------------:|:-----------------:|:---------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1L**<br>Size   |  **7**<br>Speed   |               **= yours**<br>Stamina                | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Hide**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Hide](../../skill/intrigue/hide.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                  **−1**<br>Reason                   | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 ## Sparking Tail Whip {data-scc="mcdm.beastheart.v1/feature.ability.companion.lightbender.level-1/sparking-tail-whip"}
@@ -36,7 +36,7 @@ Any effect on the lightbender that would be ended by a saving throw instead ends
 
 ### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-3/hit-and-run"}
 
-Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../movement/teleport.md) up to 5 squares and use the Hide maneuver.
+Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../movement/teleport.md) up to 5 squares and use the [Hide](../../skill/intrigue/hide.md) maneuver.
 
 ## Level 6 Lightbender Advancement Feature
 

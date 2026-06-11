@@ -13,7 +13,7 @@ type: feature-group
 |  Companion, Infernal   |         -         |                             Level 1                             |          -          |            -             |
 |:----------------------:|:-----------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |     **1M**<br>Size     |  **7**<br>Speed   |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Fire 3**<br>Immunity | **—**<br>Movement | **Intimidate**<br>Skills |                     |                          |
+| **Fire 3**<br>Immunity | **—**<br>Movement | **[Intimidate](../../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |    **+2**<br>Might     | **+2**<br>Agility |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 ## Fire Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.hellhound.level-1/fire-breath"}

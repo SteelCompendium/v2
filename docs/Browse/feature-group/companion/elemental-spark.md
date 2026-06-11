@@ -13,7 +13,7 @@ type: feature-group
 |    Companion, Elemental     |         -         |                        Level 1                        |          -          |            -             |
 |:---------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |       **1M**<br>Size        |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Lightning 3**<br>Immunity | **—**<br>Movement | **Magic**<br>Skills |                     |                          |
+| **Lightning 3**<br>Immunity | **—**<br>Movement | **[Magic](../../skill/lore/magic.md)**<br>Skills |                     |                          |
 |       **+2**<br>Might       | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 ## Static Shock {data-scc="mcdm.beastheart.v1/feature.ability.companion.elemental-spark.level-1/static-shock"}

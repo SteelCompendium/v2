@@ -33,7 +33,7 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 
 **Recoveries:** 12
 
-**Skills:** You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, Navigate, Track.)
+**Skills:** You gain the [Animal Handling](../skill/interpersonal/handle-animals.md) skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* [Animal Handling](../skill/interpersonal/handle-animals.md), [Navigate](../skill/exploration/navigate.md), [Track](../skill/intrigue/track.md).)
 
 ##### Beastheart Advancement Table
 
@@ -64,13 +64,13 @@ As a 1st-level beastheart, you gain the following features.
 
 Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren't bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (*Quick Build:* Punisher.)
 
-**Guardian:** You are the fearless defender of your pack—anyone who harms them must go through you. You have the Read Person skill.
+**Guardian:** You are the fearless defender of your pack—anyone who harms them must go through you. You have the [Read Person](../skill/interpersonal/read-person.md) skill.
 
-**Prowler:** You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you're there. You have the Hide skill.
+**Prowler:** You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you're there. You have the [Hide](../skill/intrigue/hide.md) skill.
 
-**Punisher:** Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the Endurance skill.
+**Punisher:** Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the [Endurance](../skill/exploration/endurance.md) skill.
 
-**Spark:** Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the Magic skill.
+**Spark:** Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the [Magic](../skill/lore/magic.md) skill.
 
 Your wild nature is your subclass, and your choice of wild nature determines many of the features you'll gain as you gain new levels.
 
@@ -93,7 +93,7 @@ With the Director's permission, you can also change the damage types of your com
 |     Beast, Companion     |         -         |                            Level 1                            |          -          |            -             |
 |:------------------------:|:-----------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
 |      **1L**<br>Size      |  **5**<br>Speed   |                    **= yours**<br>Stamina                     | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **Poison 3**<br>Immunity | **—**<br>Movement | **Alertness**<br>Skills |                     |                          |
+| **Poison 3**<br>Immunity | **—**<br>Movement | **[Alertness](../skill/intrigue/alertness.md)**<br>Skills |                     |                          |
 |     **+2**<br>Might      | **+1**<br>Agility |                       **−1**<br>Reason                        | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 #### Petrify {data-scc="mcdm.beastheart.v1/feature.ability.companion.basilisk.level-1/petrify"}
@@ -135,7 +135,7 @@ While the basilisk is rampaging, you and the basilisk have damage immunity 10 as
 | Animal, Companion |           -           |                             Level 1                             |          -          |            -             |
 |:-----------------:|:---------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1L**<br>Size   |    **5**<br>Speed     |                     **= yours**<br>Stamina                      | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **Intimidate**<br>Skills |                     |                          |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+1**<br>Agility   |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 #### Backhand {data-scc="mcdm.beastheart.v1/feature.ability.companion.bear.level-1/backhand"}
@@ -177,7 +177,7 @@ While the bear is rampaging, you gain a +1 bonus to distance with melee weapon a
 | Animal, Companion |         -         |                         Level 1                         |          -          |            -             |
 |:-----------------:|:-----------------:|:-------------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |  **5**<br>Speed   |                 **= yours**<br>Stamina                  | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Search**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Search](../skill/intrigue/search.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                    **−1**<br>Reason                     | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 #### Gore {data-scc="mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore"}
@@ -219,7 +219,7 @@ Whenever you or the boar use an ability that deals damage while the boar is ramp
 | Animal, Companion |          -          |                            Level 1                            |          -          |            -             |
 |:-----------------:|:-------------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |   **7**<br>Speed    |                    **= yours**<br>Stamina                     | **0**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Fly**<br>Movement | **Alertness**<br>Skills |                     |                          |
+| **—**<br>Immunity | **Fly**<br>Movement | **[Alertness](../skill/intrigue/alertness.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |  **+1**<br>Agility  |                       **−1**<br>Reason                        | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Flurry of Wings {data-scc="mcdm.beastheart.v1/feature.ability.companion.condor.level-1/flurry-of-wings"}
@@ -261,7 +261,7 @@ While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 | Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
 |:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Track**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Terrible Claws {data-scc="mcdm.beastheart.v1/feature.ability.companion.deinonychus.level-1/terrible-claws"}
@@ -303,7 +303,7 @@ The deinonychus's claws slash at creatures underfoot. When the deinonychus moves
 |                                                                  Companion, Dragon                                                                  |          -          |                             Level 1                             |          -          |            -             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |                                                                   **1M**<br>Size                                                                    |   **5**<br>Speed    |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Attuned damage type 3 (see [Elementally Attuned](../feature/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **Intimidate**<br>Skills |                     |                          |
+| **Attuned damage type 3 (see [Elementally Attuned](../feature/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |                                                                   **+2**<br>Might                                                                   |  **+1**<br>Agility  |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 #### Drake Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.drake.level-1/drake-breath"}
@@ -349,7 +349,7 @@ While the drake is rampaging, you and the drake have immunity all to the drake's
 |    Companion, Elemental     |         -         |                        Level 1                        |          -          |            -             |
 |:---------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |       **1M**<br>Size        |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Lightning 3**<br>Immunity | **—**<br>Movement | **Magic**<br>Skills |                     |                          |
+| **Lightning 3**<br>Immunity | **—**<br>Movement | **[Magic](../skill/lore/magic.md)**<br>Skills |                     |                          |
 |       **+2**<br>Might       | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Static Shock {data-scc="mcdm.beastheart.v1/feature.ability.companion.elemental-spark.level-1/static-shock"}
@@ -391,7 +391,7 @@ While the spark is rampaging, you and the spark can [shift](../movement/shifting
 |    Companion, Ooze     |         -         |                        Level 1                        |          -          |            -             |
 |:----------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |     **1L**<br>Size     |  **5**<br>Speed   |                **= yours**<br>Stamina                 | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **Acid 3**<br>Immunity | **—**<br>Movement | **Sneak**<br>Skills |                     |                          |
+| **Acid 3**<br>Immunity | **—**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |    **+2**<br>Might     | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Absorb {data-scc="mcdm.beastheart.v1/feature.ability.companion.gummy-ball.level-1/absorb"}
@@ -433,7 +433,7 @@ While the ball is rampaging, you and the ball have acid immunity 10, and wheneve
 |  Companion, Infernal   |         -         |                             Level 1                             |          -          |            -             |
 |:----------------------:|:-----------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |     **1M**<br>Size     |  **7**<br>Speed   |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Fire 3**<br>Immunity | **—**<br>Movement | **Intimidate**<br>Skills |                     |                          |
+| **Fire 3**<br>Immunity | **—**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |    **+2**<br>Might     | **+2**<br>Agility |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Fire Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.hellhound.level-1/fire-breath"}
@@ -475,7 +475,7 @@ While the hellhound is rampaging, you and the hellhound are surrounded by an aur
 | Beast, Companion  |         -         |                       Level 1                       |          -          |            -             |
 |:-----------------:|:-----------------:|:---------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1L**<br>Size   |  **7**<br>Speed   |               **= yours**<br>Stamina                | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Hide**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Hide](../skill/intrigue/hide.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                  **−1**<br>Reason                   | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 #### Sparking Tail Whip {data-scc="mcdm.beastheart.v1/feature.ability.companion.lightbender.level-1/sparking-tail-whip"}
@@ -498,7 +498,7 @@ Any effect on the lightbender that would be ended by a saving throw instead ends
 
 ##### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-3/hit-and-run"}
 
-Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../movement/teleport.md) up to 5 squares and use the Hide maneuver.
+Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../movement/teleport.md) up to 5 squares and use the [Hide](../skill/intrigue/hide.md) maneuver.
 
 #### Level 6 Lightbender Advancement Feature
 
@@ -517,7 +517,7 @@ While the lightbender is rampaging, your grip on spatial reality is [weakened](.
 | Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
 |:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |    **7**<br>Speed     |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **Sneak**<br>Skills |                     |                          |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+2**<br>Agility   |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Pounce {data-scc="mcdm.beastheart.v1/feature.ability.companion.panther.level-1/pounce"}
@@ -559,7 +559,7 @@ While the panther is rampaging, you and the panther are invisible and can move t
 | Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
 |:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |    **5**<br>Speed     |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **Sneak**<br>Skills |                     |                          |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+2**<br>Agility   |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Web Shot {data-scc="mcdm.beastheart.v1/feature.ability.companion.spider.level-1/web-shot"}
@@ -601,7 +601,7 @@ Whenever you or the spider deals damage with a maneuver while the spider is ramp
 |     Beast, Companion     |         -         |                        Level 1                        |          -          |            -             |
 |:------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |      **1S**<br>Size      |  **5**<br>Speed   |                **= yours**<br>Stamina                 | **0**<br>Stability  | **1 + M**<br>Free Strike |
-| **Poison 3**<br>Immunity | **—**<br>Movement | **Track**<br>Skills |                     |                          |
+| **Poison 3**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |     **+2**<br>Might      | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Spore Puff {data-scc="mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff"}
@@ -643,7 +643,7 @@ While the sporeling is rampaging, you and the sporeling sprout rootlike, grippin
 | Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
 |:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Track**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 #### Clamping Jaws {data-scc="mcdm.beastheart.v1/feature.ability.companion.wolf.level-1/clamping-jaws"}
@@ -882,7 +882,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Trigger:** An enemy within 10 squares deals damage to a creature other than you.
 
-**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the Hide maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.
+**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the [Hide](../skill/intrigue/hide.md) maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.
 
 **Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore [difficult terrain](../movement/difficult-terrain.md) during this movement.
 
@@ -1824,7 +1824,7 @@ As a 9th-level beastheart, you gain the following features.
 
 #### Avatar of the Green {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/avatar-of-the-green"}
 
-Your companion has transcended beasthood. Although they're still your faithful friend, they're also a vessel for nature's wisdom and memories. Your companion's Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the Nature skill and one other skill from the lore skill group.
+Your companion has transcended beasthood. Although they're still your faithful friend, they're also a vessel for nature's wisdom and memories. Your companion's Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the [Nature](../skill/lore/nature.md) skill and one other skill from the lore skill group.
 
 ## 9th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/9th-level-wild-nature-ability"}
 

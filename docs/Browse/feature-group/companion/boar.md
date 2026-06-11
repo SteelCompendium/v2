@@ -13,7 +13,7 @@ type: feature-group
 | Animal, Companion |         -         |                         Level 1                         |          -          |            -             |
 |:-----------------:|:-----------------:|:-------------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |  **5**<br>Speed   |                 **= yours**<br>Stamina                  | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **Search**<br>Skills |                     |                          |
+| **—**<br>Immunity | **—**<br>Movement | **[Search](../../skill/intrigue/search.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                    **−1**<br>Reason                     | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 ## Gore {data-scc="mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore"}

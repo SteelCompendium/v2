@@ -21,6 +21,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares and use the Hide maneuver.</p>
+<p>Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares and use the <a href="../../../../../skill/intrigue/hide/">Hide</a> maneuver.</p>
 </div>
 </section>

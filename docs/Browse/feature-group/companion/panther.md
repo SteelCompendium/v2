@@ -13,7 +13,7 @@ type: feature-group
 | Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
 |:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
 |  **1M**<br>Size   |    **7**<br>Speed     |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **Sneak**<br>Skills |                     |                          |
+| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+2**<br>Agility   |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
 ## Pounce {data-scc="mcdm.beastheart.v1/feature.ability.companion.panther.level-1/pounce"}
