@@ -239,13 +239,20 @@
 [data-sb-kwusage="crest"] .sb__feat-corner { margin-left: 0; }
 [data-sb-kwusage="crest"] .md-typeset .sb__feat-name { font-size: 1.4rem; }
 
-/* ── non-crest modes → flat features with diamond + fading-line separators ── */
+/* ── non-crest modes → flat features with stylized-hr separators (line + dots + diamond) ── */
 :not([data-sb-kwusage="crest"]) .sb__features { gap: 0; }
 :not([data-sb-kwusage="crest"]) .sb__feat { padding: .9rem .2rem; }
 :not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat { position: relative; margin-top: .15rem; padding-top: 1.2rem; }
 :not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat::before {
-  content: ""; position: absolute; top: 0; left: 5%; right: 5%; height: 1px;
-  background: linear-gradient(to right, transparent, var(--fx-metal-line) 18%, var(--fx-metal-line) 82%, transparent);
+  content: ""; position: absolute; top: -2px; left: 5%; right: 5%; height: 4px;
+  /* matches the site's stylized <hr> (steel-redesign.css): center-out steel
+     line + two seed dots flanking the haloed diamond (the ::after below). */
+  background:
+    linear-gradient(to right, transparent, var(--fx-metal-line)) no-repeat left center,
+    linear-gradient(to left,  transparent, var(--fx-metal-line)) no-repeat right center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% - 24px) center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% + 24px) center;
+  background-size: calc(50% - 30px) 1px, calc(50% - 30px) 1px, 4px 4px, 4px 4px;
 }
 :not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat::after {
   content: ""; position: absolute; top: 0; left: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px;
@@ -323,8 +330,13 @@
 /* non-crest features inside a band still get flat separators */
 :not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat { position: relative; margin-top: .15rem; padding-top: 1.2rem; }
 :not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat::before {
-  content: ""; position: absolute; top: 0; left: 5%; right: 5%; height: 1px;
-  background: linear-gradient(to right, transparent, var(--fx-metal-line) 18%, var(--fx-metal-line) 82%, transparent);
+  content: ""; position: absolute; top: -2px; left: 5%; right: 5%; height: 4px;
+  background:
+    linear-gradient(to right, transparent, var(--fx-metal-line)) no-repeat left center,
+    linear-gradient(to left,  transparent, var(--fx-metal-line)) no-repeat right center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% - 24px) center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% + 24px) center;
+  background-size: calc(50% - 30px) 1px, calc(50% - 30px) 1px, 4px 4px, 4px 4px;
 }
 :not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat::after {
   content: ""; position: absolute; top: 0; left: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px;
