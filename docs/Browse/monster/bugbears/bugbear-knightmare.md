@@ -28,30 +28,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Bugbear, Fey, Goblin, Humanoid |         -         |      Level 8      |                Minion Hexer                 | EV 10 for four minions |
-|:------------------------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:----------------------:|
-|         **1L**<br>Size         |  **5**<br>Speed   | **12**<br>Stamina |             **2**<br>Stability              |  **3**<br>Free Strike  |
-|       **-**<br>Immunity        | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness    |
-|        **+4**<br>Might         | **+3**<br>Agility | **+1**<br>Reason  |             **+1**<br>Intuition             |   **+4**<br>Presence   |
-
-> 🗡 **Corrosive Blade (Signature Ability)**
->
-> | **Magic, Melee, Strike, Weapon** |                          **Main action** |
-> |----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                   | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 3 corruption damage
-> - **12-16:** 6 corruption damage; P < 3 bleeding (save ends)
-> - **17+:** 8 corruption damage; grabbed; P < 4 bleeding (save ends)
->
-> **Effect:** A target grabbed this way or already grabbed by the knightmare can be vertical pushed up to 5 squares.
-
-> ⭐️ **Bu'gathic Inspiration**
->
-> Any ally has a +1 bonus to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them.
-
-> ⭐️ **Magic Terror**
->
-> Each enemy has a −1 penalty to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"bugbear-knightmare","name":"Bugbear Knightmare","ancestry":"Bugbear, Fey, Goblin, Humanoid","level":"8","role":"Minion Hexer","roleKey":"hexer","ev":"10 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"12"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+4"}],"features":[{"kind":"ability","action":"main","name":"Corrosive Blade","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 corruption damage; grabbed; P \u003c 4 bleeding (save ends)","low":"3 corruption damage","mid":"6 corruption damage; P \u003c 3 bleeding (save ends)"}},"sections":[{"label":"Effect","text":"A target grabbed this way or already grabbed by the knightmare can be vertical pushed up to 5 squares."}]},{"kind":"passive","action":"passive","name":"Bu'gathic Inspiration","body":"Any ally has a +1 bonus to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them."},{"kind":"passive","action":"passive","name":"Magic Terror","body":"Each enemy has a −1 penalty to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them."}]}
+</script>

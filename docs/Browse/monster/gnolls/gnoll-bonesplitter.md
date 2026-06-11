@@ -25,34 +25,6 @@ type: statblock
 
 ---
 
-|  Abyssal, Gnoll   |         -         |      Level 2      |      Horde Brute      |         EV 4         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1L**<br>Size   |  **5**<br>Speed   | **25**<br>Stamina |  **1**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-| **+2**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> 🗡 **Three-Tail Flail (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage; push 2
-> - **12-16:** 6 damage; push 2
-> - **17+:** 8 damage; grabbed; M < 2 the target takes a bane on the Escape Grab maneuver
->
-> **Effect:** While the bonesplitter has a target grabbed, they can't use Three-Tail Flail against another target.
-
-> ❇️ **Bonesplitter's Cackletongue (4 Malice)**
->
-> | **Area**       |                          **Maneuver** |
-> |----------------|--------------------------------------:|
-> | **📏 2 burst** | **🎯 Self and each ally in the area** |
->
-> **Effect:** Up to three targets can make a free strike. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost.
-
-> ⭐️ **Death Frenzy**
->
-> Whenever a non-minion ally within 5 squares of the bonesplitter is reduced to 0 Stamina, the bonesplitter moves up to their speed and can make a melee free strike.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gnoll-bonesplitter","name":"Gnoll Bonesplitter","ancestry":"Abyssal, Gnoll","level":"2","role":"Horde Brute","roleKey":"brute","ev":"4","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"25"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Three-Tail Flail","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"8 damage; grabbed; M \u003c 2 the target takes a bane on the Escape Grab maneuver","low":"5 damage; push 2","mid":"6 damage; push 2"}},"sections":[{"label":"Effect","text":"While the bonesplitter has a target grabbed, they can't use Three-Tail Flail against another target."}]},{"kind":"ability","action":"maneuver","name":"Bonesplitter's Cackletongue","cost":"4 Malice","usage":"Maneuver","keywords":["Area"],"distance":"2 burst","target":"Self and each ally in the area","sections":[{"label":"Effect","text":"Up to three targets can make a free strike. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost."}]},{"kind":"passive","action":"passive","name":"Death Frenzy","body":"Whenever a non-minion ally within 5 squares of the bonesplitter is reduced to 0 Stamina, the bonesplitter moves up to their speed and can make a melee free strike."}]}
+</script>

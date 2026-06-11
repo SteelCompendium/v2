@@ -29,24 +29,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|   Giant, Troll    |         -         |      Level 5      |                  Minion Brute                  |      EV 7 for four minions      |
-|:-----------------:|:-----------------:|:-----------------:|:----------------------------------------------:|:-------------------------------:|
-|  **1L**<br>Size   |  **6**<br>Speed   | **10**<br>Stamina |               **3**<br>Stability               |      **3**<br>Free Strike       |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **+2 damage bonus to strikes**<br>With Captain |  **Acid 5, fire **<br>Weakness  |
-|  **+3**<br>Might  | **+1**<br>Agility | **-1**<br>Reason  |               **0**<br>Intuition               |        **0**<br>Presence        |
-
-> 🗡 **Jaws and Claws (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 6 damage; slide 1
-> - **17+:** 7 damage; slide 2; M < 2 bleeding (save ends)
-
-> ⭐️ **Lingering Hunger**
->
-> Whenever two or more whelps are simultaneously reduced to 0 Stamina by damage that isn't acid or fire damage, half of those whelps become troll limbjumbles with 4 Stamina.
+<script type="application/json" class="sc-statblock-data">
+{"id":"troll-whelp","name":"Troll Whelp","ancestry":"Giant, Troll","level":"5","role":"Minion Brute","roleKey":"brute","ev":"7 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Acid 5, fire","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Jaws and Claws","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage; slide 2; M \u003c 2 bleeding (save ends)","low":"3 damage","mid":"6 damage; slide 1"}}},{"kind":"passive","action":"passive","name":"Lingering Hunger","body":"Whenever two or more whelps are simultaneously reduced to 0 Stamina by damage that isn't acid or fire damage, half of those whelps become troll limbjumbles with 4 Stamina."}]}
+</script>

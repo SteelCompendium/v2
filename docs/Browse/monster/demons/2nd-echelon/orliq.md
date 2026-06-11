@@ -29,28 +29,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-|  Abyssal, Demon   |          -          |     Level 4      |            Minion Harrier             |  EV 6 for four minions   |
-|:-----------------:|:-------------------:|:----------------:|:-------------------------------------:|:------------------------:|
-|  **1T**<br>Size   |   **6**<br>Speed    | **8**<br>Stamina |          **0**<br>Stability           |   **2**<br>Free Strike   |
-| **-**<br>Immunity | **Fly**<br>Movement |        -         | **+2 bonus to speed**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **-1**<br>Might  |  **+3**<br>Agility  | **+1**<br>Reason |          **+0**<br>Intuition          |    **-1**<br>Presence    |
-
-> 🗡 **Soul Prism (Signature Ability)**
->
-> | **Magic, Melee, Strike, Weapon** |                          **Main action** |
-> |----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                   | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 2 corruption damage; slide 2
-> - **12-16:** 4 corruption damage; vertical slide 2
-> - **17+:** 6 corruption damage; vertical slide 2
-
-> ⭐️ **Imposing Energy**
->
-> Any enemy who starts their turn with two or more orliq adjacent to them is slowed (EoT).
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the orliq can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orliq","name":"Orliq","ancestry":"Abyssal, Demon","level":"4","role":"Minion Harrier","roleKey":"harrier","ev":"6 for four minions","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Soul Prism","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"6 corruption damage; vertical slide 2","low":"2 corruption damage; slide 2","mid":"4 corruption damage; vertical slide 2"}}},{"kind":"passive","action":"passive","name":"Imposing Energy","body":"Any enemy who starts their turn with two or more orliq adjacent to them is slowed (EoT)."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the orliq can't be hidden from them."}]}
+</script>

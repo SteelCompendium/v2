@@ -27,46 +27,6 @@ type: statblock
 
 ---
 
-|                 Undead                 |         -         |      Level 4      |    Horde Defender     |         EV 6         |
-|:--------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **2**<br>Size              |  **6**<br>Speed   | **35**<br>Stamina |  **2**<br>Stability   | **2**<br>Free Strike |
-| **Corruption 4, poison 4**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+3**<br>Might             | **+1**<br>Agility |  **0**<br>Reason  |  **+2**<br>Intuition  |  **-1**<br>Presence  |
-
-> 🗡 **Multiarm Strike (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage
->
-> **Effect:** The target can't shift until the end of their next turn.
->
-> **1 Malice:** This ability targets one additional target.
-
-> ❇️ **Horrid Wail**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 5 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 2 psychic damage
-> - **12-16:** 3 psychic damage; I < 2 frightened (save ends)
-> - **17+:** 4 psychic damage; I < 3 frightened (save ends)
->
-> **Effect:** A target who is still frightened this way at the end of the encounter can't take a respite activity during their next respite.
-
-> ⭐️ **Arise**
->
-> The first time the mournling is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.
-
-> ⭐️ **Immutable Form**
->
-> The mournling's shape can't be changed by any external effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"flesh-mournling","name":"Flesh Mournling","ancestry":"Undead","level":"4","role":"Horde Defender","roleKey":"defender","ev":"6","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"35"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Multiarm Strike","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"9 damage","low":"5 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"The target can't shift until the end of their next turn."}],"enhancements":[{"cost":"1 Malice","text":"This ability targets one additional target."}]},{"kind":"ability","action":"main","name":"Horrid Wail","usage":"Main action","keywords":["Area","Magic"],"distance":"5 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"4 psychic damage; I \u003c 3 frightened (save ends)","low":"2 psychic damage","mid":"3 psychic damage; I \u003c 2 frightened (save ends)"}},"sections":[{"label":"Effect","text":"A target who is still frightened this way at the end of the encounter can't take a respite activity during their next respite."}]},{"kind":"passive","action":"passive","name":"Arise","body":"The first time the mournling is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone."},{"kind":"passive","action":"passive","name":"Immutable Form","body":"The mournling's shape can't be changed by any external effect."}]}
+</script>

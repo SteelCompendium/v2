@@ -29,36 +29,6 @@ type: statblock
 
 ---
 
-|             Undead, Soulless             |             -              |     Level 10      |      Horde Hexer      |        EV 12         |
-|:----------------------------------------:|:--------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|              **1M**<br>Size              |       **6**<br>Speed       | **55**<br>Stamina |  **1**<br>Stability   | **5**<br>Free Strike |
-| **Corruption 10, poison 10**<br>Immunity | **Fly, hover**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|              **0**<br>Might              |     **+1**<br>Agility      | **+5**<br>Reason  |  **+3**<br>Intuition  |  **-1**<br>Presence  |
-
-> 🏹 **Heartstopper (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 15**          | **🎯 One creature or object** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 9 corruption damage; I < 3 frightened (save ends)
-> - **12-16:** 12 corruption damage; I < 4 frightened (save ends)
-> - **17+:** 14 corruption damage; I < 5 frightened (save ends)
->
-> **Effect:** A creature frightened this way takes a bane on any ability that targets undead.
-
-> ❗️ **Mystic Battery (1 Malice)**
->
-> | **Magic, Ranged** |      **Free triggered action** |
-> |-------------------|-------------------------------:|
-> | **📏 Ranged 20**  | **🎯 The triggering creature** |
->
-> **Trigger:** A creature within distance uses a magic ability.
->
-> **Effect:** Any damage dealt by or Stamina regained from the ability is halved. The lithgekh regains Stamina equal to the remaining damage dealt or Stamina gained.
-
-> ⭐️ **Devour Magic**
->
-> Each ally within 10 squares of the lithgekh gains an edge on magic abilities.
+<script type="application/json" class="sc-statblock-data">
+{"id":"lithgekh","name":"Lithgekh","ancestry":"Undead, Soulless","level":"10","role":"Horde Hexer","roleKey":"hexer","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"55"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Corruption 10, poison 10","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+5"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Heartstopper","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 15","target":"One creature or object","powerRoll":{"formula":"+ 5","tiers":{"high":"14 corruption damage; I \u003c 5 frightened (save ends)","low":"9 corruption damage; I \u003c 3 frightened (save ends)","mid":"12 corruption damage; I \u003c 4 frightened (save ends)"}},"sections":[{"label":"Effect","text":"A creature frightened this way takes a bane on any ability that targets undead."}]},{"kind":"ability","action":"triggered","name":"Mystic Battery","cost":"1 Malice","usage":"Free triggered action","keywords":["Magic","Ranged"],"distance":"Ranged 20","target":"The triggering creature","sections":[{"label":"Trigger","text":"A creature within distance uses a magic ability."},{"label":"Effect","text":"Any damage dealt by or Stamina regained from the ability is halved. The lithgekh regains Stamina equal to the remaining damage dealt or Stamina gained."}]},{"kind":"passive","action":"passive","name":"Devour Magic","body":"Each ally within 10 squares of the lithgekh gains an edge on magic abilities."}]}
+</script>

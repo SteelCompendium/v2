@@ -28,28 +28,6 @@ with_captain: +3 bonus to speed
 
 ---
 
-| Humanoid, Soulless, War Dog |          -          |     Level 10      |            Minion Harrier             | EV 12 for four minions |
-|:---------------------------:|:-------------------:|:-----------------:|:-------------------------------------:|:----------------------:|
-|       **1M**<br>Size        |   **7**<br>Speed    | **15**<br>Stamina |          **2**<br>Stability           |  **4**<br>Free Strike  |
-|      **-**<br>Immunity      | **Fly**<br>Movement |         -         | **+3 bonus to speed**<br>With Captain |   **-**<br>Weakness    |
-|       **+5**<br>Might       |  **+4**<br>Agility  | **+2**<br>Reason  |          **+3**<br>Intuition          |   **+2**<br>Presence   |
-
-> 🗡 **Jumplance (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage; A < 4 bleeding (save ends)
-
-> ⭐️ **Drop Troop**
->
-> If the jumper doesn't end their turn on the ground, they fall prone.
-
-> ⭐️ **Loyalty Collar**
->
-> When the jumper is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-blood-jumper","name":"War Dog Blood Jumper","ancestry":"Humanoid, Soulless, War Dog","level":"10","role":"Minion Harrier","roleKey":"harrier","ev":"12 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+5"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Jumplance","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 5","tiers":{"high":"9 damage; A \u003c 4 bleeding (save ends)","low":"4 damage","mid":"7 damage"}}},{"kind":"passive","action":"passive","name":"Drop Troop","body":"If the jumper doesn't end their turn on the ground, they fall prone."},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the jumper is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object."}]}
+</script>

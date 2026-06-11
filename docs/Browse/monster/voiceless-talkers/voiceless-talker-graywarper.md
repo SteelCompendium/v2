@@ -26,24 +26,6 @@ with_captain: +2 bonus to Stamina
 
 ---
 
-| Horror, Voiceless Talker |         -         |     Level 6      |            Minion Controller            | EV 8 for four minions |
-|:------------------------:|:-----------------:|:----------------:|:---------------------------------------:|:---------------------:|
-|      **1M**<br>Size      |  **5**<br>Speed   | **9**<br>Stamina |           **0**<br>Stability            | **3**<br>Free Strike  |
-|    **-**<br>Immunity     | **-**<br>Movement |        -         | **+2 bonus to Stamina**<br>With Captain |   **-**<br>Weakness   |
-|     **-1**<br>Might      | **0**<br>Agility  | **+3**<br>Reason |           **+1**<br>Intuition           |  **+1**<br>Presence   |
-
-> 🏹 **Phase Chant (Signature Ability)**
->
-> | **Psionic, Ranged, Strike** |                          **Main action** |
-> |-----------------------------|-----------------------------------------:|
-> | **📏 Ranged 8**             | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage; slide 2
-> - **17+:** 7 psychic damage; slide 4
-
-> ⭐️ **Psionic Conductor**
->
-> Whenever a non-minion voiceless talker within 5 squares of the graywarper uses a psionic ability, they can do so as if they were in the graywarper's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"voiceless-talker-graywarper","name":"Voiceless Talker Graywarper","ancestry":"Horror, Voiceless Talker","level":"6","role":"Minion Controller","roleKey":"controller","ev":"8 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"9"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Phase Chant","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike"],"distance":"Ranged 8","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 psychic damage; slide 4","low":"3 psychic damage","mid":"5 psychic damage; slide 2"}}},{"kind":"passive","action":"passive","name":"Psionic Conductor","body":"Whenever a non-minion voiceless talker within 5 squares of the graywarper uses a psionic ability, they can do so as if they were in the graywarper's space."}]}
+</script>

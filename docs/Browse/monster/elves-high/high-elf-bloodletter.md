@@ -26,34 +26,6 @@ type: statblock
 
 ---
 
-| Fey, High Elf, Humanoid |         -         |      Level 1      |   Platoon Ambusher    |         EV 6         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **7**<br>Speed   | **30**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      | **+2**<br>Agility |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🗡 **Razor's Edge (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage; R < 2 bleeding (save ends)
->
-> **Effect:** The bloodletter and each of their allies has a double edge on abilities targeting a creature bleeding this way.
-
-> ❇️ **Blood Haze (2 Malice)**
->
-> | **Area, Magic** |   **Maneuver** |
-> |-----------------|---------------:|
-> | **📏 1 burst**  | **🎯 Special** |
->
-> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies, and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
-
-> ⭐️ **Otherworldly Grace**
->
-> At the start of each of their turns, the bloodletter can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"high-elf-bloodletter","name":"High Elf Bloodletter","ancestry":"Fey, High Elf, Humanoid","level":"1","role":"Platoon Ambusher","roleKey":"ambusher","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Razor's Edge","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage; R \u003c 2 bleeding (save ends)","low":"6 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"The bloodletter and each of their allies has a double edge on abilities targeting a creature bleeding this way."}]},{"kind":"ability","action":"maneuver","name":"Blood Haze","cost":"2 Malice","usage":"Maneuver","keywords":["Area","Magic"],"distance":"1 burst","target":"Special","sections":[{"label":"Effect","text":"Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies, and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment."}]},{"kind":"passive","action":"passive","name":"Otherworldly Grace","body":"At the start of each of their turns, the bloodletter can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn."}]}
+</script>

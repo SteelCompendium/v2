@@ -25,46 +25,6 @@ type: statblock
 
 ---
 
-| Elemental, High Elf |         -         |      Level 1      |     Platoon Mount     |         EV 6         |
-|:-------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|    **2**<br>Size    |  **10**<br>Speed  | **30**<br>Stamina |  **2**<br>Stability   | **3**<br>Free Strike |
-|  **-**<br>Immunity  | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|   **+2**<br>Might   | **+2**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Elemental Charge (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 fire damage
-> - **17+:** 9 lightning damage; M < 2 prone
-
-> ❇️ **Stomp**
->
-> | **Area, Weapon** |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** Any target who is prone takes an extra 2 damage.
-
-> 👤 **Buck (2 Malice)**
->
-> | **-**       |              **Maneuver** |
-> |-------------|--------------------------:|
-> | **📏 Self** |  **🎯 The horse's rider** |
->
-> **Effect:** The horse vertical slides the target up to 3 squares, ignoring stability. The target can use a ranged ability at any point during this forced movement, and takes no damage if they then fall.
-
-> ⭐️ **Shared Otherworldly Grace**
->
-> If the ceramic horse's rider has the Otherworldly Grace trait, the ceramic horse also has that trait.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ceramic-horse","name":"Ceramic Horse","ancestry":"Elemental, High Elf","level":"1","role":"Platoon Mount","roleKey":"mount","ev":"6","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"10"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Elemental Charge","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 lightning damage; M \u003c 2 prone","low":"5 damage","mid":"7 fire damage"}}},{"kind":"ability","action":"main","name":"Stomp","usage":"Main action","keywords":["Area","Weapon"],"distance":"1 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"7 damage","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"Any target who is prone takes an extra 2 damage."}]},{"kind":"ability","action":"maneuver","name":"Buck","cost":"2 Malice","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"The horse's rider","sections":[{"label":"Effect","text":"The horse vertical slides the target up to 3 squares, ignoring stability. The target can use a ranged ability at any point during this forced movement, and takes no damage if they then fall."}]},{"kind":"passive","action":"passive","name":"Shared Otherworldly Grace","body":"If the ceramic horse's rider has the Otherworldly Grace trait, the ceramic horse also has that trait."}]}
+</script>

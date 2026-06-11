@@ -26,36 +26,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Wode Elf |         -         |      Level 1      |   Platoon Defender    |         EV 6         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **7**<br>Speed   | **40**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      | **+2**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Growing Longsword (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage
->
-> **Effect:** The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares.
->
-> **2 Malice:** The distance increases to Melee 5.
-
-> 🔳 **Overgrowth (3 Malice)**
->
-> | **Area, Ranged**        |   **Maneuver** |
-> |-------------------------|---------------:|
-> | **📏 3 cube within 10** | **🎯 Special** |
->
-> **Effect:** The area is overgrown with heavy brush and brambles until the end of the encounter, providing cover and concealment for the greenskeeper and their allies. The area is difficult terrain for enemies and any enemy who starts their turn in the area takes 3 damage.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the greenskeeper that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-greenskeeper","name":"Wode Elf Greenskeeper","ancestry":"Fey, Humanoid, Wode Elf","level":"1","role":"Platoon Defender","roleKey":"defender","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Growing Longsword","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage","low":"5 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"The target is taunted until the end of their next turn, and the greenskeeper shifts up to 3 squares."}],"enhancements":[{"cost":"2 Malice","text":"The distance increases to Melee 5."}]},{"kind":"ability","action":"maneuver","name":"Overgrowth","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Ranged"],"distance":"3 cube within 10","target":"Special","sections":[{"label":"Effect","text":"The area is overgrown with heavy brush and brambles until the end of the encounter, providing cover and concealment for the greenskeeper and their allies. The area is difficult terrain for enemies and any enemy who starts their turn in the area takes 3 damage."}]},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the greenskeeper that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

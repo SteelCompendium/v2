@@ -27,34 +27,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Shadow Elf |           -           |      Level 4      |   Platoon Defender    |        EV 12         |
-|:-------------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **70**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|     **-**<br>Immunity     | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **0**<br>Might       |   **+2**<br>Agility   |  **0**<br>Reason  |  **+3**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🏹 **Suffusing Strike (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 3**           | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 8 corruption damage
-> - **12-16:** 12 corruption damage; R < 2 taunted (EoT)
-> - **17+:** 15 corruption damage; R < 3 taunted (EoT)
-
-> ❗️ **Trick of the Eye**
->
-> | **Magic, Melee** | **Triggered action** |
-> |------------------|---------------------:|
-> | **📏 Melee 2**   |      **🎯 One ally** |
->
-> **Trigger:** An enemy within distance makes a strike against the target.
->
-> **Effect:** The target takes half the damage and the knightfell takes the other half.
-
-> ⭐️ **Of the Umbra**
->
-> The knightfell ignores concealment created by darkness. While the knightfell is in direct sunlight, they have damage weakness 3. While the knightfell has concealment, they have damage immunity 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shadow-elf-knightfell","name":"Shadow Elf Knightfell","ancestry":"Fey, Humanoid, Shadow Elf","level":"4","role":"Platoon Defender","roleKey":"defender","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"70"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Suffusing Strike","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 3","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"15 corruption damage; R \u003c 3 taunted (EoT)","low":"8 corruption damage","mid":"12 corruption damage; R \u003c 2 taunted (EoT)"}}},{"kind":"ability","action":"triggered","name":"Trick of the Eye","usage":"Triggered action","keywords":["Magic","Melee"],"distance":"Melee 2","target":"One ally","sections":[{"label":"Trigger","text":"An enemy within distance makes a strike against the target."},{"label":"Effect","text":"The target takes half the damage and the knightfell takes the other half."}]},{"kind":"passive","action":"passive","name":"Of the Umbra","body":"The knightfell ignores concealment created by darkness. While the knightfell is in direct sunlight, they have damage weakness 3. While the knightfell has concealment, they have damage immunity 3."}]}
+</script>

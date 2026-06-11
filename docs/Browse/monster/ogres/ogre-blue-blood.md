@@ -26,30 +26,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-|    Giant, Ogre    |         -         |      Level 7      |                Minion Brute                 | EV 9 for four minions |
-|:-----------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:---------------------:|
-|   **2**<br>Size   |  **5**<br>Speed   | **13**<br>Stamina |             **4**<br>Stability              | **4**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|  **+4**<br>Might  | **+1**<br>Agility | **-1**<br>Reason  |             **0**<br>Intuition              |  **+2**<br>Presence   |
-
-> 🗡 **Crush Underfoot (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage; M < 3 prone
-> - **17+:** 8 damage; prone
->
-> **Effect:** A target who is already prone takes an extra 4 damage.
-
-> ⭐️ **In My Stead**
->
-> Whenever the blue blood would make a free strike, an ally within 5 squares can make a free strike instead.
-
-> ⭐️ **Royal Anger**
->
-> The blue blood has damage immunity 2 while their squad has three or fewer minions in it.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ogre-blue-blood","name":"Ogre Blue Blood","ancestry":"Giant, Ogre","level":"7","role":"Minion Brute","roleKey":"brute","ev":"9 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"13"},{"l":"Stability","v":"4"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Crush Underfoot","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; prone","low":"4 damage","mid":"7 damage; M \u003c 3 prone"}},"sections":[{"label":"Effect","text":"A target who is already prone takes an extra 4 damage."}]},{"kind":"passive","action":"passive","name":"In My Stead","body":"Whenever the blue blood would make a free strike, an ally within 5 squares can make a free strike instead."},{"kind":"passive","action":"passive","name":"Royal Anger","body":"The blue blood has damage immunity 2 while their squad has three or fewer minions in it."}]}
+</script>

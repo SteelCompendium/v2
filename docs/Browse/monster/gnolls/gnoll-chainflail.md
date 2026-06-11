@@ -26,24 +26,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-|  Abyssal, Gnoll   |         -         |     Level 2      |                Minion Artillery                | EV 4 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **4**<br>Stamina |               **1**<br>Stability               | **3**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+1 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|  **+2**<br>Might  | **0**<br>Agility  | **+1**<br>Reason |               **0**<br>Intuition               |  **-2**<br>Presence   |
-
-> 🏹 **Chain Shotput (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 8**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 4 damage; push 1
-> - **17+:** 6 damage; push 3
-
-> ⭐️ **Death Circle**
->
-> Whenever a non-minion ally within 5 squares of the chainflail is reduced to 0 Stamina, the chainflail can move up to their speed.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gnoll-chainflail","name":"Gnoll Chainflail","ancestry":"Abyssal, Gnoll","level":"2","role":"Minion Artillery","roleKey":"artillery","ev":"4 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Chain Shotput","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 8","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"6 damage; push 3","low":"3 damage","mid":"4 damage; push 1"}}},{"kind":"passive","action":"passive","name":"Death Circle","body":"Whenever a non-minion ally within 5 squares of the chainflail is reduced to 0 Stamina, the chainflail can move up to their speed."}]}
+</script>

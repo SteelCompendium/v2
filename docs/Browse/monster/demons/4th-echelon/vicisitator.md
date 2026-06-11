@@ -27,44 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |     Level 10      |     Horde Harrier     |          EV 12           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|  **1M**<br>Size   |  **9**<br>Speed   | **60**<br>Stamina |  **0**<br>Stability   |   **4**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+4**<br>Might  | **+5**<br>Agility | **-1**<br>Reason  |  **-2**<br>Intuition  |    **-3**<br>Presence    |
-
-> ⚔️ **Warp Touch (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |------------------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 9 damage
-> - **12-16:** 12 damage
-> - **17+:** 14 damage; I < 5 the target is slowed and weakened (save ends)
->
-> **Special:** The effects of being slowed and weakened this way can't be ignored.
-
-> 🔳 **Soul Flay (5 Malice)**
->
-> | **Area**                   |                  **Maneuver** |
-> |----------------------------|------------------------------:|                  
-> | **📏 6 x 3 line within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 4 psychic damage; P < 3 bleeding (save ends)
-> - **12-16:** 7 psychic damage; P < 4 bleeding (save ends)
-> - **17+:** 9 psychic damage; P < 5 bleeding (save ends)
->
-> **Effect:** Any creature who is bleeding from this ability loses 2d6 Stamina instead of 1d6.
-
-> ⭐️ **Lethe**
->
-> While the vicisitator is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the vicisitator can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"vicisitator","name":"Vicisitator","ancestry":"Abyssal, Demon","level":"10","role":"Horde Harrier","roleKey":"harrier","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"9"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+5"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"-2"},{"l":"Presence","k":"P","v":"-3"}],"features":[{"kind":"ability","action":"main","name":"Warp Touch","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 5","tiers":{"high":"14 damage; I \u003c 5 the target is slowed and weakened (save ends)","low":"9 damage","mid":"12 damage"}},"sections":[{"label":"Special","text":"The effects of being slowed and weakened this way can't be ignored."}]},{"kind":"ability","action":"maneuver","name":"Soul Flay","cost":"5 Malice","usage":"Maneuver","keywords":["Area"],"distance":"6 x 3 line within 1","target":"Each enemy in the area","powerRoll":{"formula":"+ 5","tiers":{"high":"9 psychic damage; P \u003c 5 bleeding (save ends)","low":"4 psychic damage; P \u003c 3 bleeding (save ends)","mid":"7 psychic damage; P \u003c 4 bleeding (save ends)"}},"sections":[{"label":"Effect","text":"Any creature who is bleeding from this ability loses 2d6 Stamina instead of 1d6."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the vicisitator is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the vicisitator can't be hidden from them."}]}
+</script>

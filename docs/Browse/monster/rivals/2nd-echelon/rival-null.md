@@ -25,40 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 5       |     Elite Harrier     |        EV 28         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   | **140**<br>Stamina |  **3**<br>Stability   | **6**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **0**<br>Might   | **+3**<br>Agility |  **+2**<br>Reason  |  **+3**<br>Intuition  |  **0**<br>Presence   |
-
-> 🗡 **Agile Stride (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage; the null shifts up to 3 squares; A < 1 6 damage
-> - **12-16:** 14 damage; the null shifts up to 4 squares; A < 2 11 damage
-> - **17+:** 17 damage; the null shifts up to 5 squares; A < 3 11 damage
-
-> 🗡 **Deaden (2 Malice)**
->
-> | **Melee, Psionic, Strike, Weapon** |                  **Maneuver** |
-> |------------------------------------|------------------------------:|
-> | **📏 Melee 1**                     | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage; R < 1 dazed (EoT)
-> - **12-16:** 14 damage; R < 2 dazed (save ends)
-> - **17+:** 17 damage; R < 3 dazed and restrained (save ends)
-
-> ⭐️ **Inertial Shield**
->
-> The first time each round that the null is targeted by a damage-dealing strike, they halve the damage.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the null chooses one creature within their line of effect. Both the null and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-null","name":"Rival Null","ancestry":"Humanoid, Rival","level":"5","role":"Elite Harrier","roleKey":"harrier","ev":"28","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"140"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Agile Stride","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"17 damage; the null shifts up to 5 squares; A \u003c 3 11 damage","low":"9 damage; the null shifts up to 3 squares; A \u003c 1 6 damage","mid":"14 damage; the null shifts up to 4 squares; A \u003c 2 11 damage"}}},{"kind":"ability","action":"maneuver","name":"Deaden","cost":"2 Malice","usage":"Maneuver","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"17 damage; R \u003c 3 dazed and restrained (save ends)","low":"9 damage; R \u003c 1 dazed (EoT)","mid":"14 damage; R \u003c 2 dazed (save ends)"}}},{"kind":"passive","action":"passive","name":"Inertial Shield","body":"The first time each round that the null is targeted by a damage-dealing strike, they halve the damage."},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the null chooses one creature within their line of effect. Both the null and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

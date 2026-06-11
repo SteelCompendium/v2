@@ -25,38 +25,6 @@ type: statblock
 
 ---
 
-| Humanoid, Kobold  |         -         |      Level 1      |    Horde Defender     |         EV 3         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1S**<br>Size   |  **5**<br>Speed   | **20**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+1**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
-
-> 🗡 **Gladius (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; taunted (EoT)
-> - **12-16:** 4 damage; taunted (EoT)
-> - **17+:** 5 damage; taunted (EoT)
->
-> **3 Malice:** If the legionary is acting as a captain, they and each member of their squad shift up to 2 squares before this ability is used.
-
-> 🗡 **Shield Bash**
->
-> | **Melee, Strike, Weapon** |                  **Maneuver** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage; push 1; M < 0 prone
-> - **12-16:** 3 damage; push 1; M < 1 prone
-> - **17+:** 4 damage; push 1; M < 2 prone
-
-> ⭐️ **Shield? Shield!**
->
-> While adjacent to an ally who also has this trait, the legionary has stability 1, has cover, and grants cover to allies.
+<script type="application/json" class="sc-statblock-data">
+{"id":"kobold-legionary","name":"Kobold Legionary","ancestry":"Humanoid, Kobold","level":"1","role":"Horde Defender","roleKey":"defender","ev":"3","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Gladius","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; taunted (EoT)","low":"3 damage; taunted (EoT)","mid":"4 damage; taunted (EoT)"}},"enhancements":[{"cost":"3 Malice","text":"If the legionary is acting as a captain, they and each member of their squad shift up to 2 squares before this ability is used."}]},{"kind":"ability","action":"maneuver","name":"Shield Bash","usage":"Maneuver","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"4 damage; push 1; M \u003c 2 prone","low":"2 damage; push 1; M \u003c 0 prone","mid":"3 damage; push 1; M \u003c 1 prone"}}},{"kind":"passive","action":"passive","name":"Shield? Shield!","body":"While adjacent to an ally who also has this trait, the legionary has stability 1, has cover, and grants cover to allies."}]}
+</script>

@@ -25,40 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 10      |     Elite Harrier     |         EV 48         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:---------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   | **240**<br>Stamina |  **3**<br>Stability   | **10**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |   **-**<br>Weakness   |
-|  **+3**<br>Might  | **+5**<br>Agility |  **+4**<br>Reason  |  **+5**<br>Intuition  |   **0**<br>Presence   |
-
-> 🗡 **Kinetic Danse (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 15 damage; the null shifts up to 4 squares; A < 3 10 damage
-> - **12-16:** 20 damage; the null shifts up to 5 squares; A < 4 15 damage
-> - **17+:** 24 damage; the null shifts up to 6 squares; A < 5 19 damage
-
-> 🗡 **Incapacitate (5 Malice)**
->
-> | **Melee, Psionic, Strike, Weapon** |                    **Maneuver** |
-> |------------------------------------|--------------------------------:|
-> | **📏 Melee 1**                     | **🎯 Two creatures or objects** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 13 damage; R < 3 dazed and restrained (save ends)
-> - **12-16:** 17 damage; R < 4 dazed and restrained (save ends)
-> - **17+:** 20 damage; R < 5 dazed and restrained (save ends)
-
-> ⭐️ **Energy Conservation**
->
-> The first time each round that the null is targeted by a strike, it takes a bane and the null halves the damage from it. The creature making the strike takes 10 damage.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the null chooses one creature within their line of effect. Both the null and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-null","name":"Rival Null","ancestry":"Humanoid, Rival","level":"10","role":"Elite Harrier","roleKey":"harrier","ev":"48","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"240"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"10"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+5"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+5"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Kinetic Danse","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 5","tiers":{"high":"24 damage; the null shifts up to 6 squares; A \u003c 5 19 damage","low":"15 damage; the null shifts up to 4 squares; A \u003c 3 10 damage","mid":"20 damage; the null shifts up to 5 squares; A \u003c 4 15 damage"}}},{"kind":"ability","action":"maneuver","name":"Incapacitate","cost":"5 Malice","usage":"Maneuver","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 5","tiers":{"high":"20 damage; R \u003c 5 dazed and restrained (save ends)","low":"13 damage; R \u003c 3 dazed and restrained (save ends)","mid":"17 damage; R \u003c 4 dazed and restrained (save ends)"}}},{"kind":"passive","action":"passive","name":"Energy Conservation","body":"The first time each round that the null is targeted by a strike, it takes a bane and the null halves the damage from it. The creature making the strike takes 10 damage."},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the null chooses one creature within their line of effect. Both the null and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

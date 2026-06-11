@@ -26,24 +26,6 @@ type: statblock
 
 ---
 
-| Eyestalk, Horror, Overmind |             -              |      Level 6      |      Controller       |          EV -        |
-|:--------------------------:|:--------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|       **1M**<br>Size       |       **5**<br>Speed       | **30**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|     **-**<br>Immunity      | **Fly, hover**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **-1**<br>Might       |     **+1**<br>Agility      | **+4**<br>Reason  |  **+1**<br>Intuition  |  **-1**<br>Presence  |
-
-> 🏹 **Telekinetic Beam (Signature Ability)**
->
-> | **Psionic, Ranged, Strike** |                 **Main action** |
-> |-----------------------------|--------------------------------:|
-> | **📏 Ranged 6**             | **🎯 Two creatures or objects** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 11 damage; slide 4
-> - **12-16:** 17 damage; slide 5
-> - **17+:** 20 damage; slide 6
-
-> ⭐️ **Psionic Barrier**
->
-> The mover eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round.
+<script type="application/json" class="sc-statblock-data">
+{"id":"mover-eye","name":"Mover Eye","ancestry":"Eyestalk, Horror, Overmind","level":"6","role":"Controller","roleKey":"controller","ev":"-","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Telekinetic Beam","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike"],"distance":"Ranged 6","target":"Two creatures or objects","powerRoll":{"formula":"+ 4","tiers":{"high":"20 damage; slide 6","low":"11 damage; slide 4","mid":"17 damage; slide 5"}}},{"kind":"passive","action":"passive","name":"Psionic Barrier","body":"The mover eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round."}]}
+</script>

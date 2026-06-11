@@ -25,38 +25,6 @@ type: statblock
 
 ---
 
-|  Dwarf, Humanoid  |         -         |      Level 3      |   Platoon Defender    |        EV 10         | 
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:| 
-|  **1M**<br>Size   |  **5**<br>Speed   | **72**<br>Stamina |  **4**<br>Stability   | **5**<br>Free Strike | 
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   | 
-|  **+2**<br>Might  | **+0**<br>Agility | **+0**<br>Reason  |  **+0**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Wide Axe (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage; slide 1
-> - **12-16:** 10 damage; slide 1
-> - **17+:** 13 damage; slide 1
->
-> **Effect:** The shieldwall can shift 1 square to remain adjacent to the target. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
->
-> **3 Malice:** This ability targets one additional target.
-
-> ❗️ **Intercepting Shield (1 Malice)**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** A creature makes a strike against an ally adjacent to the shieldwall.
->
-> **Effect:** The shieldwall becomes the target of the triggering strike and halves the damage.
-
-> ⭐️ **Call to the Wall**
->
-> Whenever a creature deals damage to or takes damage from the shieldwall, the shieldwall can make that creature taunted until the end of the creature's next turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"dwarf-shieldwall","name":"Dwarf Shieldwall","ancestry":"Dwarf, Humanoid","level":"3","role":"Platoon Defender","roleKey":"defender","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"72"},{"l":"Stability","v":"4"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Wide Axe","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"13 damage; slide 1","low":"7 damage; slide 1","mid":"10 damage; slide 1"}},"sections":[{"label":"Effect","text":"The shieldwall can shift 1 square to remain adjacent to the target. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise."}],"enhancements":[{"cost":"3 Malice","text":"This ability targets one additional target."}]},{"kind":"ability","action":"triggered","name":"Intercepting Shield","cost":"1 Malice","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"A creature makes a strike against an ally adjacent to the shieldwall."},{"label":"Effect","text":"The shieldwall becomes the target of the triggering strike and halves the damage."}]},{"kind":"passive","action":"passive","name":"Call to the Wall","body":"Whenever a creature deals damage to or takes damage from the shieldwall, the shieldwall can make that creature taunted until the end of the creature's next turn."}]}
+</script>

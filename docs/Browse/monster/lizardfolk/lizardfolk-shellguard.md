@@ -27,26 +27,6 @@ with_captain: +2 bonus to Stamina
 
 ---
 
-| Humanoid, Lizardfolk |          -           |     Level 1      |             Minion Defender             | EV 3 for four minions |
-|:--------------------:|:--------------------:|:----------------:|:---------------------------------------:|:---------------------:|
-|    **1L**<br>Size    |    **5**<br>Speed    | **6**<br>Stamina |           **1**<br>Stability            | **1**<br>Free Strike  |
-|  **-**<br>Immunity   | **Swim**<br>Movement |        -         | **+2 bonus to Stamina**<br>With Captain |   **-**<br>Weakness   |
-|   **+2**<br>Might    |  **+1**<br>Agility   | **0**<br>Reason  |           **0**<br>Intuition            |   **0**<br>Presence   |
-
-> 🗡 **Shield Smash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 damage
-> - **12-16:** 2 damage
-> - **17+:** 3 damage
->
-> **Effect:** The target takes a bane on their next strike.
-
-> ⭐️ **Reptilian Escape**
->
-> While the shellguard has a tail, whenever they are grabbed, prone, slowed, or weakened, they can lose their tail to immediately end that condition, then shift up to 2 squares.
+<script type="application/json" class="sc-statblock-data">
+{"id":"lizardfolk-shellguard","name":"Lizardfolk Shellguard","ancestry":"Humanoid, Lizardfolk","level":"1","role":"Minion Defender","roleKey":"defender","ev":"3 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"6"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Shield Smash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 damage","low":"1 damage","mid":"2 damage"}},"sections":[{"label":"Effect","text":"The target takes a bane on their next strike."}]},{"kind":"passive","action":"passive","name":"Reptilian Escape","body":"While the shellguard has a tail, whenever they are grabbed, prone, slowed, or weakened, they can lose their tail to immediately end that condition, then shift up to 2 squares."}]}
+</script>

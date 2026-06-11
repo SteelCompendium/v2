@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-The rasquine are skulking demons that shimmer in the light. They teleport into position before biting the necks of their prey.
-
-| Rasquine | Abyssal, Demon | Signature Minion Ambusher | - | 1 essence per minion summoned |
-|:--------:|:--------------:|:-------------------------:|:-:|:-----------------------------:|
-| **1S**<br>Size | **4**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
-| **—**<br>Immunity | **Teleport**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−1**<br>Might | **0**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Skulker**
->
-> Once per turn, the rasquine can [hide](../../feature/common/maneuvers/hide.md) as a [free maneuver](../../rule/combat/free-maneuver.md) after [teleporting](../../movement/teleport.md).
-
-> ⭐️ **Soulsight**
->
-> Each creature adjacent to the rasquine can't be [hidden](../../feature/common/maneuvers/hide.md) from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rasquine","name":"Rasquine","ancestry":"Rasquine","level":"","role":"Minion Ambusher","roleKey":"ambusher","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Skulker","body":"Once per turn, the rasquine can [hide](../../../feature/common/maneuvers/hide/) as a [free maneuver](../../../rule/combat/free-maneuver/) after [teleporting](../../../movement/teleport/)."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the rasquine can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
+</script>

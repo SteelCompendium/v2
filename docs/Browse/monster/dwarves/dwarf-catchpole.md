@@ -26,22 +26,6 @@ with_captain: +2 bonus to Stamina
 
 ---
 
-|  Dwarf, Humanoid  |         -         |     Level 1      |              Minion Brute               |  EV 3 for 4 minions  | 
-|:-----------------:|:-----------------:|:----------------:|:---------------------------------------:|:--------------------:| 
-|  **1M**<br>Size   |  **5**<br>Speed   | **7**<br>Stamina |           **2**<br>Stability            | **2**<br>Free Strike | 
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+2 bonus to Stamina**<br>With Captain |  **-**<br>Weakness   | 
-|  **+2**<br>Might  | **+0**<br>Agility | **+0**<br>Reason |           **+0**<br>Intuition           |  **+0**<br>Presence  |
-
-> 🗡 **Maul (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage; grabbed or prone
->
-> **Effect:** If the target is restrained, they take an extra 2 damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"dwarf-catchpole","name":"Dwarf Catchpole","ancestry":"Dwarf, Humanoid","level":"1","role":"Minion Brute","roleKey":"brute","ev":"3 for 4 minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Maul","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; grabbed or prone","low":"2 damage","mid":"4 damage"}},"sections":[{"label":"Effect","text":"If the target is restrained, they take an extra 2 damage."}]}]}
+</script>

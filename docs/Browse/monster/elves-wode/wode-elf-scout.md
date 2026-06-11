@@ -27,28 +27,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Fey, Humanoid, Wode Elf |         -         |     Level 1      |               Minion Ambusher               | EV 3 for four minions |
-|:-----------------------:|:-----------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|     **1M**<br>Size      |  **10**<br>Speed  | **4**<br>Stamina |             **0**<br>Stability              | **2**<br>Free Strike  |
-|    **-**<br>Immunity    | **-**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|     **0**<br>Might      | **+2**<br>Agility | **0**<br>Reason  |             **0**<br>Intuition              |  **+1**<br>Presence   |
-
-> ⚔️ **Daggers (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
-
-> ⭐️ **Into the Green**
->
-> The scout can attempt to hide at the end of each of their turns.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the scout that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-scout","name":"Wode Elf Scout","ancestry":"Fey, Humanoid, Wode Elf","level":"1","role":"Minion Ambusher","roleKey":"ambusher","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"10"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Daggers","cost":"Signature","usage":"Main action","keywords":["Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage","low":"2 damage","mid":"4 damage"}}},{"kind":"passive","action":"passive","name":"Into the Green","body":"The scout can attempt to hide at the end of each of their turns."},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the scout that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

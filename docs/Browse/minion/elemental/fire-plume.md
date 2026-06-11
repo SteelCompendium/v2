@@ -26,18 +26,6 @@ weaknesses:
 
 ---
 
-A fire plume burns so bright that their true shape is hard to discern from the flames. They sputter and spit motes of fire in high arcs.
-
-| Fire Plume | Elemental (Fire) | Signature Minion Artillery | - | 1 essence per minion summoned |
-|:----------:|:----------------:|:--------------------------:|:-:|:-----------------------------:|
-| **1T**<br>Size | **5**<br>Speed | **1**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
-| **Fire R**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **Fire**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Spitfire Strike**
->
-> The plume's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10.
-
-> ⭐️ **Pyre**
->
-> When the plume is reduced to 0 [Stamina](../../rule/health/stamina.md), their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"fire-plume","name":"Fire Plume","ancestry":"Fire Plume","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"1"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Fire R","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Spitfire Strike","body":"The plume's ranged [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 10."},{"kind":"passive","action":"passive","name":"Pyre","body":"When the plume is reduced to 0 [Stamina](../../../rule/health/stamina/), their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage."}]}
+</script>

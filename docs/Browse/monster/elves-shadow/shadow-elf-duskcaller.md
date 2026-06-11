@@ -27,36 +27,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Shadow Elf |           -           |      Level 5      |  Platoon Controller   |        EV 14         |
-|:-------------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **60**<br>Stamina |  **0**<br>Stability   | **6**<br>Free Strike |
-|     **-**<br>Immunity     | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **0**<br>Might       |   **+3**<br>Agility   | **+3**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Night Knife (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage
-> - **12-16:** 13 damage
-> - **17+:** 16 damage
->
-> **Effect:** If the duskcaller has concealment, they can target one additional creature or object.
-
-> 🔳 **The Lay of Cor'thoroth**
->
-> | **Area, Magic, Ranged** |   **Maneuver** |
-> |-------------------------|---------------:|
-> | **📏 2 cube within 3**  | **🎯 Special** |
->
-> **Effect:** Until the start of the duskcaller's next turn, the area is filled with darkness.
->
-> **2 Malice:** The size of the cube increases by 3.
-
-> ⭐️ **Of the Umbra**
->
-> The duskcaller ignores concealment created by darkness. While the duskcaller is in direct sunlight, they have damage weakness 3. While the duskcaller has concealment, they have damage immunity 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shadow-elf-duskcaller","name":"Shadow Elf Duskcaller","ancestry":"Fey, Humanoid, Shadow Elf","level":"5","role":"Platoon Controller","roleKey":"controller","ev":"14","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Night Knife","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"16 damage","low":"9 damage","mid":"13 damage"}},"sections":[{"label":"Effect","text":"If the duskcaller has concealment, they can target one additional creature or object."}]},{"kind":"ability","action":"maneuver","name":"The Lay of Cor'thoroth","usage":"Maneuver","keywords":["Area","Magic","Ranged"],"distance":"2 cube within 3","target":"Special","sections":[{"label":"Effect","text":"Until the start of the duskcaller's next turn, the area is filled with darkness."}],"enhancements":[{"cost":"2 Malice","text":"The size of the cube increases by 3."}]},{"kind":"passive","action":"passive","name":"Of the Umbra","body":"The duskcaller ignores concealment created by darkness. While the duskcaller is in direct sunlight, they have damage weakness 3. While the duskcaller has concealment, they have damage immunity 3."}]}
+</script>

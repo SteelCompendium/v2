@@ -26,22 +26,6 @@ weaknesses:
 
 ---
 
-The bellringers are glowing pixies that jingle as they fly. Historically, these pixies worked alongside bowman to ensure their arrows struck true.
-
-| Pixie Bellringer | Fey | Signature Minion Support | - | 1 essence per minion summoned |
-|:----------------:|:---:|:------------------------:|:-:|:-----------------------------:|
-| **1T**<br>Size | **5**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
-| **—**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−3**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Ringing Strike**
->
-> The bellringer's [free strikes](../../feature/common/main-actions/free-strike.md) grant an [edge](../../rule/dice/edge.md) to the next [strike](../../rule/combat/strike.md) made against the target, or a double [edge](../../rule/dice/edge.md) if two or more bellringers strike the same target.
-
-> ⭐️ **Fairy Chime**
->
-> Each ally within 1 square of a bellringer has a +1 to [saving throws](../../rule/general/saving-throw.md). Each enemy within 1 square of a bellringer has a −1 to [saving throws](../../rule/general/saving-throw.md).
-
-> ⭐️ **Minuscule**
->
-> The bellringer has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"pixie-bellringer","name":"Pixie Bellringer","ancestry":"Pixie Bellringer","level":"","role":"Minion Support","roleKey":"support","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Ringing Strike","body":"The bellringer's [free strikes](../../../feature/common/main-actions/free-strike/) grant an [edge](../../../rule/dice/edge/) to the next [strike](../../../rule/combat/strike/) made against the target, or a double [edge](../../../rule/dice/edge/) if two or more bellringers strike the same target."},{"kind":"passive","action":"passive","name":"Fairy Chime","body":"Each ally within 1 square of a bellringer has a +1 to [saving throws](../../../rule/general/saving-throw/). Each enemy within 1 square of a bellringer has a −1 to [saving throws](../../../rule/general/saving-throw/)."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The bellringer has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

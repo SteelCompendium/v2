@@ -25,38 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 2      |     Elite Support     |        EV 16         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **80**<br>Stamina |  **1**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+0**<br>Agility | **+0**<br>Reason  |  **+2**<br>Intuition  |  **+0**<br>Presence  |
-
-> ⚔️ **Thunder of Heavens (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike** |                 **Main action** |
-> |----------------------------------|--------------------------------:|
-> | **📏 Melee 1 or ranged 10**      | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 holy damage
-> - **12-16:** 10 holy damage
-> - **17+:** 13 holy damage
->
-> **Effect:** The conduit or one ally within distance regains Stamina equal to half the damage dealt.
-
-> 🏹 **Imbue with Might (2 Malice)**
->
-> | **Magic, Ranged** |               **Maneuver** |
-> |-------------------|---------------------------:|
-> | **📏 Ranged 10**  | **🎯 Self and five allies** |
->
-> **Effect:** Each target gains an edge on their next strike.
-
-> ⭐️ **Stalwart Guardian**
->
-> Strikes made against allies adjacent to the conduit take a bane.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-conduit","name":"Rival Conduit","ancestry":"Humanoid, Rival","level":"2","role":"Elite Support","roleKey":"support","ev":"16","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"80"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Thunder of Heavens","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike"],"distance":"Melee 1 or ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"13 holy damage","low":"7 holy damage","mid":"10 holy damage"}},"sections":[{"label":"Effect","text":"The conduit or one ally within distance regains Stamina equal to half the damage dealt."}]},{"kind":"ability","action":"maneuver","name":"Imbue with Might","cost":"2 Malice","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"Self and five allies","sections":[{"label":"Effect","text":"Each target gains an edge on their next strike."}]},{"kind":"passive","action":"passive","name":"Stalwart Guardian","body":"Strikes made against allies adjacent to the conduit take a bane."},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

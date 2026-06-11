@@ -27,42 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |      Level 7      |   Horde Controller    |           EV 9           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|   **3**<br>Size   |  **6**<br>Speed   | **40**<br>Stamina |  **0**<br>Stability   |   **3**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+0**<br>Might  | **+0**<br>Agility | **+4**<br>Reason  |  **+2**<br>Intuition  |    **+4**<br>Presence    |
-
-> 🏹 **Blight Pus (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 7 corruption damage
-> - **12-16:** 10 corruption damage
-> - **17+:** 11 corruption damage
->
-> **Effect:** A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature).
-
-> 🔳 **Blight Rain (3 Malice)**
->
-> | **Area, Magic**        |                  **Maneuver** |
-> |------------------------|------------------------------:|
-> | **📏 5 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Special:** The blight phage must create the cube beneath themself.
->
-> **Effect:** The blight phage spins and sheds corruptive blight to fill the area, which is treated as if affected by Seeping Blight.
->
-> **2 Malice:** The blight phage chooses three 2 cube areas within 10 squares of the phage. Each area is covered with blight and treated as if affected by Seeping Blight.
-
-> ⭐️ **Lethe**
->
-> While the blight phage is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the blight phage can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"blight-phage","name":"Blight Phage","ancestry":"Abyssal, Demon","level":"7","role":"Horde Controller","roleKey":"controller","ev":"9","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+4"}],"features":[{"kind":"ability","action":"main","name":"Blight Pus","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"11 corruption damage","low":"7 corruption damage","mid":"10 corruption damage"}},"sections":[{"label":"Effect","text":"A puddle of blight—digested soul juice—covers the ground in the target's square, which is affected as if by Seeping Blight (see the Level 7+ Demon Malice feature)."}]},{"kind":"ability","action":"maneuver","name":"Blight Rain","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Magic"],"distance":"5 cube within 1","target":"Each enemy in the area","sections":[{"label":"Special","text":"The blight phage must create the cube beneath themself."},{"label":"Effect","text":"The blight phage spins and sheds corruptive blight to fill the area, which is treated as if affected by Seeping Blight."}],"enhancements":[{"cost":"2 Malice","text":"The blight phage chooses three 2 cube areas within 10 squares of the phage. Each area is covered with blight and treated as if affected by Seeping Blight."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the blight phage is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the blight phage can't be hidden from them."}]}
+</script>

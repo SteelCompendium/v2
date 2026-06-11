@@ -26,16 +26,6 @@ weaknesses:
 
 ---
 
-| — | Undead | Minion Defender | - | 2 Malice for two minions |
-|:-:|:------:|:---------------:|:-:|:------------------------:|
-| **2**<br>Size | **5**<br>Speed | **8 \| 8**<br>Stamina | **2**<br>Stability | **4**<br>Free Strike |
-| **Corruption 2, poison 2**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Zombie Clutch**
->
-> The lumberer's melee [free strikes](../../../feature/common/main-actions/free-strike.md) inflict A < 1 [grabbed](../../../condition/grabbed.md). A creature or object that starts their turn [grabbed](../../../condition/grabbed.md) by the lumberer takes 2 corruption damage.
-
-> ⭐️ **Death Grasp**
->
-> When the lumberer is reduced to 0 [Stamina](../../../rule/health/stamina.md), they can latch onto an [adjacent](../../../rule/combat/adjacent.md) enemy before being destroyed. The enemy is M < 2 [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md)).
+<script type="application/json" class="sc-statblock-data">
+{"id":"zombie-lumberer","name":"Zombie Lumberer","ancestry":"—","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 2, poison 2","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Zombie Clutch","body":"The lumberer's melee [free strikes](../../../../feature/common/main-actions/free-strike/) inflict A \u003c 1 [grabbed](../../../../condition/grabbed/). A creature or object that starts their turn [grabbed](../../../../condition/grabbed/) by the lumberer takes 2 corruption damage."},{"kind":"passive","action":"passive","name":"Death Grasp","body":"When the lumberer is reduced to 0 [Stamina](../../../../rule/health/stamina/), they can latch onto an [adjacent](../../../../rule/combat/adjacent/) enemy before being destroyed. The enemy is M \u003c 2 [restrained](../../../../condition/restrained/) ([EoT](../../../../rule/combat/end-of-turn/))."}]}
+</script>

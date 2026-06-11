@@ -25,50 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 2      |    Elite Artillery    |        EV 16         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **60**<br>Stamina |  **2**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **0**<br>Agility  | **+1**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
-
-> 🏹 **Dual Targeting Shot (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                 **Main action** |
-> |----------------------------|--------------------------------:|
-> | **📏 Ranged 10**           | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage
->
-> **2 Malice:** Two allies within distance can make a free strike against one of the targets.
-
-> 🏹 **I'll Cover You! (3 Malice)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 8 damage; M < 0 weakened (save ends)
-> - **12-16:** 13 damage; M < 1 weakened (save ends)
-> - **17+:** 16 damage; M < 2 weakened (save ends)
->
-> **Effect:** One ally adjacent to the target regains 5 Stamina.
-
-> ❗️ **Overwatch**
->
-> | **Ranged**       |        **Triggered action** |
-> |------------------|----------------------------:|
-> | **📏 Ranged 10** | **🎯 The triggering enemy** |
->
-> **Trigger:** An enemy within distance willingly moves.
->
-> **Effect:** At any point during the movement, the tactician makes a free strike against the target.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the tactician chooses one creature within their line of effect. Both the tactician and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-tactician","name":"Rival Tactician","ancestry":"Humanoid, Rival","level":"2","role":"Elite Artillery","roleKey":"artillery","ev":"16","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Dual Targeting Shot","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage","low":"7 damage","mid":"11 damage"}},"enhancements":[{"cost":"2 Malice","text":"Two allies within distance can make a free strike against one of the targets."}]},{"kind":"ability","action":"main","name":"I'll Cover You!","cost":"3 Malice","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"16 damage; M \u003c 2 weakened (save ends)","low":"8 damage; M \u003c 0 weakened (save ends)","mid":"13 damage; M \u003c 1 weakened (save ends)"}},"sections":[{"label":"Effect","text":"One ally adjacent to the target regains 5 Stamina."}]},{"kind":"ability","action":"triggered","name":"Overwatch","usage":"Triggered action","keywords":["Ranged"],"distance":"Ranged 10","target":"The triggering enemy","sections":[{"label":"Trigger","text":"An enemy within distance willingly moves."},{"label":"Effect","text":"At any point during the movement, the tactician makes a free strike against the target."}]},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the tactician chooses one creature within their line of effect. Both the tactician and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

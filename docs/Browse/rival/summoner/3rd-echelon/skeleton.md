@@ -28,12 +28,6 @@ weaknesses:
 
 ---
 
-| — | Undead | Signature Minion Harrier | - | 1 Malice per minion summoned |
-|:-:|:------:|:------------------------:|:-:|:----------------------------:|
-| **1M**<br>Size | **6**<br>Speed | **4**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
-| **Corruption 4, poison 4**<br>Immunity | **Climb**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **0**<br>Might | **+4**<br>Agility | **+2**<br>Reason | **+2**<br>Intuition | **0**<br>Presence |
-
-> ⭐️ **Bonetrops**
->
-> When the skeleton is reduced to 0 [Stamina](../../../rule/health/stamina.md), their square becomes [difficult terrain](../../../movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"skeleton","name":"Skeleton","ancestry":"—","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"passive","action":"passive","name":"Bonetrops","body":"When the skeleton is reduced to 0 [Stamina](../../../../rule/health/stamina/), their square becomes [difficult terrain](../../../../movement/difficult-terrain/) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect."}]}
+</script>

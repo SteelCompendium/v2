@@ -26,44 +26,6 @@ type: statblock
 
 ---
 
-| Humanoid, Radenwight |           -           |      Level 1      |    Platoon Harrier    |         EV 6         |
-|:--------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|    **1S**<br>Size    |    **7**<br>Speed     | **30**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|  **-**<br>Immunity   | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|   **-1**<br>Might    |   **+2**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **En Garde (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 6 damage
-> - **17+:** 8 damage
->
-> **Effect:** The ratcrobat shifts up to 2 squares after striking the first target, then can shift 1 square after striking the second target.
-
-> 🗡 **Over Here, Thanks**
->
-> | **Melee**      |     **Maneuver** |
-> |----------------|-----------------:|
-> | **📏 Melee 1** | **🎯 One enemy** |
->
-> **Effect:** The ratcrobat slides the target up to 3 squares, then can shift into any square the target left.
-
-> ❗️ **Ready Rodent**
->
-> | **Melee, Weapon** | **Triggered action** |
-> |-------------------|---------------------:|
-> | **📏 Melee 1**    |  **🎯 One creature** |
->
-> **Trigger:** An ally deals damage to the target.
->
-> **Effect:** The ratcrobat makes a free strike against the target.
-
-> ⭐️ **Gymratstics**
->
-> The ratcrobat gains an edge on strikes against larger creatures.
+<script type="application/json" class="sc-statblock-data">
+{"id":"radenwight-ratcrobat","name":"Radenwight Ratcrobat","ancestry":"Humanoid, Radenwight","level":"1","role":"Platoon Harrier","roleKey":"harrier","ev":"6","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"En Garde","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"8 damage","low":"4 damage","mid":"6 damage"}},"sections":[{"label":"Effect","text":"The ratcrobat shifts up to 2 squares after striking the first target, then can shift 1 square after striking the second target."}]},{"kind":"ability","action":"maneuver","name":"Over Here, Thanks","usage":"Maneuver","keywords":["Melee"],"distance":"Melee 1","target":"One enemy","sections":[{"label":"Effect","text":"The ratcrobat slides the target up to 3 squares, then can shift into any square the target left."}]},{"kind":"ability","action":"triggered","name":"Ready Rodent","usage":"Triggered action","keywords":["Melee","Weapon"],"distance":"Melee 1","target":"One creature","sections":[{"label":"Trigger","text":"An ally deals damage to the target."},{"label":"Effect","text":"The ratcrobat makes a free strike against the target."}]},{"kind":"passive","action":"passive","name":"Gymratstics","body":"The ratcrobat gains an edge on strikes against larger creatures."}]}
+</script>

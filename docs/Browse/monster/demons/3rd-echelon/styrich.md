@@ -27,42 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |      Level 8      |     Horde Hexer      |          EV 10           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|  **1L**<br>Size   |  **6**<br>Speed   | **45**<br>Stamina |  **1**<br>Stability   |   **3**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+2**<br>Might  | **+4**<br>Agility | **+0**<br>Reason  |  **+2**<br>Intuition  |    **+0**<br>Presence    |
-
-> 🗡 **Hair Whip (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 4**            | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 7 damage; pull 1
-> - **12-16:** 10 damage; pull 2, grabbed
-> - **17+:** 12 damage; pull 3, grabbed
->
-> **Effect:** Any target restrained by the styrich's Tangled Nest ability can be pulled the distance determined by the power roll.
-
-> ❇️ **Tangled Nest (5 Malice)**
->
-> | **Area**       |                  **Maneuver** |
-> |----------------|------------------------------:|
-> | **📏 4 burst** | **🎯 Each enemy in the area** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** A < 2 slowed (save ends)
-> - **12-16:** Slowed (EoT) or A < 3 3 damage and restrained (EoT)
-> - **17+:** Restrained (EoT) or A < 4 3 damage and restrained (save ends)
-
-> ⭐️ **Lethe**
->
-> While the styrich is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the styrich can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"styrich","name":"Styrich","ancestry":"Abyssal, Demon","level":"8","role":"Horde Hexer","roleKey":"hexer","ev":"10","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"45"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Hair Whip","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 4","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"12 damage; pull 3, grabbed","low":"7 damage; pull 1","mid":"10 damage; pull 2, grabbed"}},"sections":[{"label":"Effect","text":"Any target restrained by the styrich's Tangled Nest ability can be pulled the distance determined by the power roll."}]},{"kind":"ability","action":"maneuver","name":"Tangled Nest","cost":"5 Malice","usage":"Maneuver","keywords":["Area"],"distance":"4 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 4","tiers":{"high":"Restrained (EoT) or A \u003c 4 3 damage and restrained (save ends)","low":"A \u003c 2 slowed (save ends)","mid":"Slowed (EoT) or A \u003c 3 3 damage and restrained (EoT)"}}},{"kind":"passive","action":"passive","name":"Lethe","body":"While the styrich is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the styrich can't be hidden from them."}]}
+</script>

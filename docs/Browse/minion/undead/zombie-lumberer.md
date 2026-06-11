@@ -25,18 +25,6 @@ weaknesses:
 
 ---
 
-These massive, animated ogre corpses still maintain their incredible grip strength. When a lumberer falls, they'll take anything within reach down with them.
-
-| Zombie Lumberer | Undead | Minion Defender | - | 3 essence for two minions |
-|:---------------:|:------:|:---------------:|:-:|:-------------------------:|
-| **2**<br>Size | **5**<br>Speed | **8 \| 8**<br>Stamina | **R**<br>Stability | **1**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Zombie Clutch**
->
-> The lumberer's melee [free strikes](../../feature/common/main-actions/free-strike.md) inflict A < AVERAGE [grabbed](../../condition/grabbed.md). A creature or object that starts their turn [grabbed](../../condition/grabbed.md) by the lumberer takes corruption damage equal to your [Reason](../../rule/character/reason.md).
-
-> ⭐️ **Death Grasp**
->
-> When the lumberer is reduced to 0 [Stamina](../../rule/health/stamina.md), they can latch onto an adjacent enemy before being destroyed. The enemy is M < STRONG [restrained](../../condition/restrained.md) ([EoT](../../rule/combat/end-of-turn.md)).
+<script type="application/json" class="sc-statblock-data">
+{"id":"zombie-lumberer","name":"Zombie Lumberer","ancestry":"Zombie Lumberer","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Zombie Clutch","body":"The lumberer's melee [free strikes](../../../feature/common/main-actions/free-strike/) inflict A \u003c AVERAGE [grabbed](../../../condition/grabbed/). A creature or object that starts their turn [grabbed](../../../condition/grabbed/) by the lumberer takes corruption damage equal to your [Reason](../../../rule/character/reason/)."},{"kind":"passive","action":"passive","name":"Death Grasp","body":"When the lumberer is reduced to 0 [Stamina](../../../rule/health/stamina/), they can latch onto an adjacent enemy before being destroyed. The enemy is M \u003c STRONG [restrained](../../../condition/restrained/) ([EoT](../../../rule/combat/end-of-turn/))."}]}
+</script>

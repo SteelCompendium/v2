@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-These brawny sprites wear heavy beetle armor and have a halo hovering away from their backs where their wings used to be. The faster the halo spins, the more power the olyender generates, enabling them to stand toe to toe with giants.
-
-| Sprite Olyender | Fey | Minion Brute | - | 7 essence for two minions |
-|:---------------:|:---:|:------------:|:-:|:-------------------------:|
-| **1T**<br>Size | **6**<br>Speed | **17 \| 17**<br>Stamina | **R**<br>Stability | **8**<br>Free Strike |
-| **—**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+4**<br>Might | **+3**<br>Agility | **0**<br>Reason | **+1**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Warrior's Toss**
->
-> The olyender's melee [strikes](../../rule/combat/strike.md) inflict [push](../../movement/forced-movement.md) 4. If the target is [force moved](../../movement/forced-movement.md) into an object, they are M < AVERAGE knocked [prone](../../condition/prone.md) and can't stand (save ends).
-
-> ⭐️ **Use Their Might**
->
-> When targeting a creature with a [grab](../../feature/common/maneuvers/grab.md) or [forced movement](../../movement/forced-movement.md), the olyender's [size](../../rule/character/size.md) is considered one larger than the target.
-
-> ⭐️ **Minuscule**
->
-> The olyender has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"sprite-olyender","name":"Sprite Olyender","ancestry":"Sprite Olyender","level":"","role":"Minion Brute","roleKey":"brute","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"8"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Warrior's Toss","body":"The olyender's melee [strikes](../../../rule/combat/strike/) inflict [push](../../../movement/forced-movement/) 4. If the target is [force moved](../../../movement/forced-movement/) into an object, they are M \u003c AVERAGE knocked [prone](../../../condition/prone/) and can't stand (save ends)."},{"kind":"passive","action":"passive","name":"Use Their Might","body":"When targeting a creature with a [grab](../../../feature/common/maneuvers/grab/) or [forced movement](../../../movement/forced-movement/), the olyender's [size](../../../rule/character/size/) is considered one larger than the target."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The olyender has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

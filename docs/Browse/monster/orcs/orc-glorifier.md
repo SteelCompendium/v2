@@ -26,26 +26,6 @@ with_captain: +5 bonus to ranged distance
 
 ---
 
-|   Humanoid, Orc   |         -         |     Level 1      |                Minion Controller                | EV 3 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:-----------------------------------------------:|:---------------------:|
-|  **1M**<br>Size   |  **6**<br>Speed   | **3**<br>Stamina |               **0**<br>Stability                | **1**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+5 bonus to ranged distance**<br>With Captain |   **-**<br>Weakness   |
-|  **0**<br>Might   | **+1**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition                |  **+2**<br>Presence   |
-
-> ⚔️ **Call to Victory (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike** |                          **Main action** |
-> |----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1 or ranged 5**       | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 sonic damage
-> - **12-16:** 2 sonic damage; P < 1 slowed (save ends)
-> - **17+:** 3 sonic damage; P < 2 slowed (save ends)
->
-> **Effect:** Allies gain an edge on melee strikes against the target until the glorifier and each other glorifier in their squad are killed.
-
-> ⭐️ **Bloodfire Burn**
->
-> If the glorifier is reduced to 0 Stamina, they can make a free strike before dying.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orc-glorifier","name":"Orc Glorifier","ancestry":"Humanoid, Orc","level":"1","role":"Minion Controller","roleKey":"controller","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Call to Victory","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike"],"distance":"Melee 1 or ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 sonic damage; P \u003c 2 slowed (save ends)","low":"1 sonic damage","mid":"2 sonic damage; P \u003c 1 slowed (save ends)"}},"sections":[{"label":"Effect","text":"Allies gain an edge on melee strikes against the target until the glorifier and each other glorifier in their squad are killed."}]},{"kind":"passive","action":"passive","name":"Bloodfire Burn","body":"If the glorifier is reduced to 0 Stamina, they can make a free strike before dying."}]}
+</script>

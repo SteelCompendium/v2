@@ -30,30 +30,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-| Devil, Hobgoblin, Infernal |          -          |     Level 4      |            Minion Ambusher            | EV 6 for four minions |
-|:--------------------------:|:-------------------:|:----------------:|:-------------------------------------:|:---------------------:|
-|       **1T**<br>Size       |   **7**<br>Speed    | **8**<br>Stamina |          **0**<br>Stability           | **3**<br>Free Strike  |
-|   **Fire 2**<br>Immunity   | **Fly**<br>Movement |        -         | **+2 bonus to speed**<br>With Captain |   **-**<br>Weakness   |
-|      **-1**<br>Might       |  **+3**<br>Agility  | **0**<br>Reason  |          **+1**<br>Intuition          |   **0**<br>Presence   |
-
-> 🗡 **Flyby Bite (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage; the grilp shifts up to 2 squares
->
-> **Effect:** The grilp moves up to their speed and can attempt to hide.
-
-> ⭐️ **Bat Out Of Hell**
->
-> Any enemy who makes a saving throw takes a −1 penalty to the saving throw for each grilp adjacent to them.
-
-> ⭐️ **Shifting Camouflage**
->
-> The grilp has concealment from all creatures.
+<script type="application/json" class="sc-statblock-data">
+{"id":"grilp","name":"Grilp","ancestry":"Devil, Hobgoblin, Infernal","level":"4","role":"Minion Ambusher","roleKey":"ambusher","ev":"6 for four minions","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Fire 2","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Flyby Bite","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage; the grilp shifts up to 2 squares","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"The grilp moves up to their speed and can attempt to hide."}]},{"kind":"passive","action":"passive","name":"Bat Out Of Hell","body":"Any enemy who makes a saving throw takes a −1 penalty to the saving throw for each grilp adjacent to them."},{"kind":"passive","action":"passive","name":"Shifting Camouflage","body":"The grilp has concealment from all creatures."}]}
+</script>

@@ -27,40 +27,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Shadow Elf |           -           |      Level 4      |     Platoon Brute     |        EV 12         |
-|:-------------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **70**<br>Stamina |  **0**<br>Stability   | **6**<br>Free Strike |
-|     **-**<br>Immunity     | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **+3**<br>Might      |   **+2**<br>Agility   | **-1**<br>Reason  |  **+1**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Dusk Cleave (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage
-> - **12-16:** 13 damage
-> - **17+:** 16 damage; I < 3 bleeding (save ends)
->
-> **Effect:** The panther can make a free strike against a creature or object adjacent to the target.
-
-> ❇️ **Bladestorm (3 Malice)**
->
-> | **Area, Weapon** |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 2 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 corruption damage
-> - **12-16:** 8 corruption damage; I < 2 dazed (save ends)
-> - **17+:** 10 corruption damage; I < 3 dazed (save ends)
->
-> **Effect:** The panther has a double edge on strikes against targets dazed this way.
-
-> ⭐️ **Of the Umbra**
->
-> The panther ignores concealment created by darkness. While the panther is in direct sunlight, they have damage weakness 3. While the panther has concealment, they have damage immunity 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shadow-elf-panther","name":"Shadow Elf Panther","ancestry":"Fey, Humanoid, Shadow Elf","level":"4","role":"Platoon Brute","roleKey":"brute","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"70"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Dusk Cleave","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"16 damage; I \u003c 3 bleeding (save ends)","low":"9 damage","mid":"13 damage"}},"sections":[{"label":"Effect","text":"The panther can make a free strike against a creature or object adjacent to the target."}]},{"kind":"ability","action":"main","name":"Bladestorm","cost":"3 Malice","usage":"Main action","keywords":["Area","Weapon"],"distance":"2 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"10 corruption damage; I \u003c 3 dazed (save ends)","low":"5 corruption damage","mid":"8 corruption damage; I \u003c 2 dazed (save ends)"}},"sections":[{"label":"Effect","text":"The panther has a double edge on strikes against targets dazed this way."}]},{"kind":"passive","action":"passive","name":"Of the Umbra","body":"The panther ignores concealment created by darkness. While the panther is in direct sunlight, they have damage weakness 3. While the panther has concealment, they have damage immunity 3."}]}
+</script>

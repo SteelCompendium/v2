@@ -29,26 +29,6 @@ with_captain: +5 bonus to ranged distance
 
 ---
 
-|            Undead, Soulless            |         -         |     Level 4      |                Minion Artillery                 | EV 6 for four minions |
-|:--------------------------------------:|:-----------------:|:----------------:|:-----------------------------------------------:|:---------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **7**<br>Stamina |               **0**<br>Stability                | **3**<br>Free Strike  |
-| **Corruption 4, poison 4**<br>Immunity | **-**<br>Movement |        -         | **+5 bonus to ranged distance**<br>With Captain |   **-**<br>Weakness   |
-|            **-2**<br>Might             | **+3**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition                |   **0**<br>Presence   |
-
-> 🏹 **Hollowbone Slug (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage; M < 3 bleeding (save ends)
->
-> **Effect:** Each creature adjacent to the target takes 2 damage.
-
-> ⭐️ **Brittle Revenge**
->
-> The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hollowbone-launcher","name":"Hollowbone Launcher","ancestry":"Undead, Soulless","level":"4","role":"Minion Artillery","roleKey":"artillery","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-2"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Hollowbone Slug","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage; M \u003c 3 bleeding (save ends)","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"Each creature adjacent to the target takes 2 damage."}]},{"kind":"passive","action":"passive","name":"Brittle Revenge","body":"The hollowbone launcher explodes when they are reduced to 0 Stamina, dealing 2 damage to each adjacent creature."}]}
+</script>

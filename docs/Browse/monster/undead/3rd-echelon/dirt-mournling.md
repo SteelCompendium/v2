@@ -28,48 +28,6 @@ type: statblock
 
 ---
 
-|                 Undead                 |               -               |      Level 7      |   Horde Controller    |         EV 9         |
-|:--------------------------------------:|:-----------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **3**<br>Size              |        **6**<br>Speed         | **64**<br>Stamina |  **3**<br>Stability   | **3**<br>Free Strike |
-| **Corruption 7, poison 7**<br>Immunity | **Burrow, climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+4**<br>Might             |       **+1**<br>Agility       | **-2**<br>Reason  |  **+1**<br>Intuition  |  **-3**<br>Presence  |
-
-> 🗡 **Mudslide (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 7 damage; M < 3 grabbed
-> - **12-16:** 10 damage; M < 4 grabbed
-> - **17+:** 11 damage; grabbed
->
-> **Effect:** A 3-cube area of ground centered on the target is difficult terrain for enemies.
-
-> ❇️ **Mourning Cry (3 Malice)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 3 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 3 corruption damage; I < 2 frightened (save ends)
-> - **12-16:** 6 corruption damage; I < 3 frightened (save ends)
-> - **17+:** 7 corruption damage; I < 4 frightened (save ends)
->
-> **Effect:** A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed.
-
-> ⭐️ **Arise**
->
-> The first time the mournling is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 15 Stamina and fall prone.
-
-> ⭐️ **Immutable Form**
->
-> The mournling's shape can't be changed by any external effect.
-
-> ⭐️ **Rupture**
->
-> Whenever the mournling uses the Dig maneuver to breach the surface, they make a free strike against each adjacent enemy.
+<script type="application/json" class="sc-statblock-data">
+{"id":"dirt-mournling","name":"Dirt Mournling","ancestry":"Undead","level":"7","role":"Horde Controller","roleKey":"controller","ev":"9","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"64"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 7, poison 7","weakness":"—","movement":"Burrow, climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-3"}],"features":[{"kind":"ability","action":"main","name":"Mudslide","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"11 damage; grabbed","low":"7 damage; M \u003c 3 grabbed","mid":"10 damage; M \u003c 4 grabbed"}},"sections":[{"label":"Effect","text":"A 3-cube area of ground centered on the target is difficult terrain for enemies."}]},{"kind":"ability","action":"main","name":"Mourning Cry","cost":"3 Malice","usage":"Main action","keywords":["Area","Magic"],"distance":"3 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 4","tiers":{"high":"7 corruption damage; I \u003c 4 frightened (save ends)","low":"3 corruption damage; I \u003c 2 frightened (save ends)","mid":"6 corruption damage; I \u003c 3 frightened (save ends)"}},"sections":[{"label":"Effect","text":"A target frightened this way is frightened of all undead. This effect ends early if the mournling is destroyed."}]},{"kind":"passive","action":"passive","name":"Arise","body":"The first time the mournling is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 15 Stamina and fall prone."},{"kind":"passive","action":"passive","name":"Immutable Form","body":"The mournling's shape can't be changed by any external effect."},{"kind":"passive","action":"passive","name":"Rupture","body":"Whenever the mournling uses the Dig maneuver to breach the surface, they make a free strike against each adjacent enemy."}]}
+</script>

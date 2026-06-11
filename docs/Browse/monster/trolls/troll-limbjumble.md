@@ -28,26 +28,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-|       Troll       |         -         |     Level 5      |                Minion Hexer                 |      EV 7 for four minions      |
-|:-----------------:|:-----------------:|:----------------:|:-------------------------------------------:|:-------------------------------:|
-|  **1S**<br>Size   |  **5**<br>Speed   | **8**<br>Stamina |             **0**<br>Stability              |      **3**<br>Free Strike       |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |  **Acid 8, fire **<br>Weakness  |
-|  **+3**<br>Might  | **+1**<br>Agility | **-2**<br>Reason |             **-1**<br>Intuition             |       **-1**<br>Presence        |
-
-> 🗡 **Arm and a Leg (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage; A < 2 prone
-> - **12-16:** 5 damage; A < 3 prone
-> - **17+:** 6 damage; prone
->
-> **Effect:** If a target made prone this way is already prone, they are grabbed instead.
-
-> ⭐️ **Hyper-Regeneration**
->
-> At the start of each of the limbjumble's squad's turns, the squad's Stamina pool increases as if each limbjumble were at full Stamina.
+<script type="application/json" class="sc-statblock-data">
+{"id":"troll-limbjumble","name":"Troll Limbjumble","ancestry":"Troll","level":"5","role":"Minion Hexer","roleKey":"hexer","ev":"7 for four minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Acid 8, fire","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"-1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Arm and a Leg","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"6 damage; prone","low":"3 damage; A \u003c 2 prone","mid":"5 damage; A \u003c 3 prone"}},"sections":[{"label":"Effect","text":"If a target made prone this way is already prone, they are grabbed instead."}]},{"kind":"passive","action":"passive","name":"Hyper-Regeneration","body":"At the start of each of the limbjumble's squad's turns, the squad's Stamina pool increases as if each limbjumble were at full Stamina."}]}
+</script>

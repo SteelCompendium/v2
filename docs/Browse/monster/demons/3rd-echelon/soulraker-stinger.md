@@ -30,26 +30,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Abyssal, Demon, Soulraker |           -           |      Level 7      |              Minion Artillery               |  EV 9 for four minions   |
-|:-------------------------:|:---------------------:|:-----------------:|:-------------------------------------------:|:------------------------:|
-|      **1M**<br>Size       |    **6**<br>Speed     | **10**<br>Stamina |             **0**<br>Stability              |   **4**<br>Free Strike   |
-|     **-**<br>Immunity     | **Climb**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|      **+0**<br>Might      |   **-1**<br>Agility   | **+4**<br>Reason  |             **+4**<br>Intuition             |    **+0**<br>Presence    |
-
-> 🏹 **Barb Launch (Signature Ability)**
->
-> | **Magic, Ranged, Strike, Weapon** |                **Main action** |
-> |-----------------------------------|-------------------------------:|
-> | **📏 Ranged 20**                  | **🎯 One creature per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 poison damage
-> - **12-16:** 7 poison damage
-> - **17+:** 8 poison damage
->
-> **Effect:** All soulraker demons have concealment from the target until the start of the stinger's next turn.
-
-> ⭐️ **Abyssal Buzzing**
->
-> Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"soulraker-stinger","name":"Soulraker Stinger","ancestry":"Abyssal, Demon, Soulraker","level":"7","role":"Minion Artillery","roleKey":"artillery","ev":"9 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"-1"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+4"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Barb Launch","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike","Weapon"],"distance":"Ranged 20","target":"One creature per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 poison damage","low":"4 poison damage","mid":"7 poison damage"}},"sections":[{"label":"Effect","text":"All soulraker demons have concealment from the target until the start of the stinger's next turn."}]},{"kind":"passive","action":"passive","name":"Abyssal Buzzing","body":"Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage."}]}
+</script>

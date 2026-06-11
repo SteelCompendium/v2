@@ -27,40 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |      Level 9      |     Horde Brute      |           EV 9           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|   **3**<br>Size   |  **6**<br>Speed   | **90**<br>Stamina |  **2**<br>Stability   |   **5**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+4**<br>Might  | **+0**<br>Agility | **+2**<br>Reason  |  **+1**<br>Intuition  |    **+2**<br>Presence    |
-
-> 🗡 **Flux Gnash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 9 cold, fire, or sonic damage
-> - **12-16:** 11 cold, fire, or sonic damage
-> - **17+:** 13 cold, fire, or sonic damage; M < 4 bleeding, dazed, or slowed (save ends)
->
-> **Special:** After making the power roll, the chimeron decides what damage type the ability deals and which condition it imposes.
-
-> ❗️ **Pain Absorption (1 Malice)**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** The chimeron is targeted by a damage-dealing strike.
->
-> **Effect:** The chimeron halves the damage.
-
-> ⭐️ **Lethe**
->
-> While the chimeron is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the chimeron can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"chimeron","name":"Chimeron","ancestry":"Abyssal, Demon","level":"9","role":"Horde Brute","roleKey":"brute","ev":"9","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"90"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Flux Gnash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"13 cold, fire, or sonic damage; M \u003c 4 bleeding, dazed, or slowed (save ends)","low":"9 cold, fire, or sonic damage","mid":"11 cold, fire, or sonic damage"}},"sections":[{"label":"Special","text":"After making the power roll, the chimeron decides what damage type the ability deals and which condition it imposes."}]},{"kind":"ability","action":"triggered","name":"Pain Absorption","cost":"1 Malice","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"The chimeron is targeted by a damage-dealing strike."},{"label":"Effect","text":"The chimeron halves the damage."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the chimeron is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the chimeron can't be hidden from them."}]}
+</script>

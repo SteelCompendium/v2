@@ -21,12 +21,6 @@ type: statblock
 
 ---
 
-|   Human or Animal   |         -         |     Level 0      |           -           |         EV -         |
-|:-------------------:|:-----------------:|:----------------:|:---------------------:|:--------------------:|
-|  **1S-2**<br>Size   |  **5**<br>Speed   | **8**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-| **-**<br>Immunities | **-**<br>Movement |                  | **-**<br>With Captain |  **-**<br>Weakness   |
-|   **0**<br>Might    | **0**<br>Agility  | **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
-
-> **Size**
-> 
-> The noncombatant can be size 1S, 1M, 1L, or 2.
+<script type="application/json" class="sc-statblock-data">
+{"id":"noncombatant","name":"Noncombatant","ancestry":"Human or Animal","level":"","role":"","roleKey":"leader","ev":"-","defenses":[{"l":"Size","v":"1S-2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":null}
+</script>

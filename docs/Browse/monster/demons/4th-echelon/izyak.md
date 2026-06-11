@@ -28,48 +28,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |            -             |     Level 10      |   Horde Controller    |          EV 12           |
-|:-----------------:|:------------------------:|:-----------------:|:---------------------:|:------------------------:|
-|   **2**<br>Size   |      **6**<br>Speed      | **55**<br>Stamina |  **0**<br>Stability   |   **4**<br>Free Strike   |
-| **-**<br>Immunity | **Teleport**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+0**<br>Might  |    **+0**<br>Agility     | **+5**<br>Reason  |  **+2**<br>Intuition  |    **+4**<br>Presence    |
-
-> 🏹 **Nostalgic Wanderlust (Signature Ability)**
->
-> | **Psionic, Ranged, Strike** |     **Main action** |
-> |-----------------------------|--------------------:|
-> | **📏 Ranged 10**            | **🎯 One creature** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 9 psychic damage; R < 3 restrained (save ends)
-> - **12-16:** 12 psychic damage; R < 4 restrained (save ends)
-> - **17+:** 14 psychic damage; R < 5 restrained (save ends)
->
-> **Effect:** The izyak can slide any target restrained this way up to 3 squares.
->
-> **3 Malice:** The izyak can vertical slide any target restrained this way up to 6 squares instead. A target left in midair doesn't fall until the restrained condition ends.
-
-> 🔳 **Ruinous Temptation (3 Malice)**
->
-> | **Area, Psionic, Ranged** | **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 4 cube within 10**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 4 psychic damage; I < 3 dazed (save ends)
-> - **12-16:** 7 psychic damage; I < 4 dazed (save ends)
-> - **17+:** 9 psychic damage; I < 5 dazed (save ends)
->
-> **Effect:** Any target dazed this way must use a move action to move their speed toward the izyak on their next turn.
->
-> **2 Malice:** The area increases to a 6 cube.
-
-> ⭐️ **Lethe**
->
-> While the izyak is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the izyak can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"izyak","name":"Izyak","ancestry":"Abyssal, Demon","level":"10","role":"Horde Controller","roleKey":"controller","ev":"12","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"55"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+5"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+4"}],"features":[{"kind":"ability","action":"main","name":"Nostalgic Wanderlust","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature","powerRoll":{"formula":"+ 5","tiers":{"high":"14 psychic damage; R \u003c 5 restrained (save ends)","low":"9 psychic damage; R \u003c 3 restrained (save ends)","mid":"12 psychic damage; R \u003c 4 restrained (save ends)"}},"sections":[{"label":"Effect","text":"The izyak can slide any target restrained this way up to 3 squares."}],"enhancements":[{"cost":"3 Malice","text":"The izyak can vertical slide any target restrained this way up to 6 squares instead. A target left in midair doesn't fall until the restrained condition ends."}]},{"kind":"ability","action":"main","name":"Ruinous Temptation","cost":"3 Malice","usage":"Main action","keywords":["Area","Psionic","Ranged"],"distance":"4 cube within 10","target":"Each enemy in the area","powerRoll":{"formula":"+ 5","tiers":{"high":"9 psychic damage; I \u003c 5 dazed (save ends)","low":"4 psychic damage; I \u003c 3 dazed (save ends)","mid":"7 psychic damage; I \u003c 4 dazed (save ends)"}},"sections":[{"label":"Effect","text":"Any target dazed this way must use a move action to move their speed toward the izyak on their next turn."}],"enhancements":[{"cost":"2 Malice","text":"The area increases to a 6 cube."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the izyak is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the izyak can't be hidden from them."}]}
+</script>

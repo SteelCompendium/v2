@@ -28,34 +28,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Time Raider   |          -          |      Level 3      |  Platoon Controller   |        EV 10         |
-|:-------------------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |   **5**<br>Speed    | **40**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Psychic 3**<br>Immunity | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **0**<br>Might       |  **+2**<br>Agility  | **+2**<br>Reason  |  **+2**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🏹 **Blaster Volley (Signature Ability)**
->
-> | **Psionic, Ranged, Strike, Weapon** |                 **Main action** |
-> |-------------------------------------|--------------------------------:|
-> | **📏 Ranged 10**                    | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 corruption damage; push 2
-> - **12-16:** 8 corruption damage; push 4
-> - **17+:** 11 corruption damage; push 6, prone
-
-> 🔳 **Kinetic Lane**
->
-> | **Area, Psionic, Ranged**   |   **Maneuver** |
-> |-----------------------------|---------------:|
-> | **📏 4 x 2 line within 10** | **🎯 Special** |
->
-> **Effect:** The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide.
->
-> **3 Malice:** The helix creates a second kinetic lane.
-
-> ⭐️ **Foresight**
->
-> The helix doesn't take a bane on strikes against creatures with concealment.
+<script type="application/json" class="sc-statblock-data">
+{"id":"time-raider-helix","name":"Time Raider Helix","ancestry":"Humanoid, Time Raider","level":"3","role":"Platoon Controller","roleKey":"controller","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Blaster Volley","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"11 corruption damage; push 6, prone","low":"6 corruption damage; push 2","mid":"8 corruption damage; push 4"}}},{"kind":"ability","action":"maneuver","name":"Kinetic Lane","usage":"Maneuver","keywords":["Area","Psionic","Ranged"],"distance":"4 x 2 line within 10","target":"Special","sections":[{"label":"Effect","text":"The area is a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix's choice. Any creature who enters the area or starts their turn there slides 3 squares toward the end of the area in the chosen direction. Each enemy in the area when it first appears takes 3 damage before they slide."}],"enhancements":[{"cost":"3 Malice","text":"The helix creates a second kinetic lane."}]},{"kind":"passive","action":"passive","name":"Foresight","body":"The helix doesn't take a bane on strikes against creatures with concealment."}]}
+</script>

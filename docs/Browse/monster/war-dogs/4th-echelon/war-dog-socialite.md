@@ -29,26 +29,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Humanoid, Soulless, War Dog |         -         |     Level 10      |                Minion Hexer                 | EV 12 for four minions |
-|:---------------------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:----------------------:|
-|       **1M**<br>Size        |  **5**<br>Speed   | **14**<br>Stamina |             **0**<br>Stability              |  **4**<br>Free Strike  |
-| **Psychic 10**<br>Immunity  | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness    |
-|       **+2**<br>Might       | **+2**<br>Agility | **+4**<br>Reason  |             **+3**<br>Intuition             |   **+5**<br>Presence   |
-
-> 🏹 **Call to Self-Sabotage (Signature Ability)**
->
-> | **Psionic, Ranged, Strike** |                **Main action** |
-> |-----------------------------|-------------------------------:|
-> | **📏 Ranged 5**             | **🎯 One creature per minion** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** The target makes a free strike (tier 1 result) against themself
-> - **12-16:** The target makes a free strike (tier 2 result) against themself
-> - **17+:** The target makes a free strike (tier 3 result) against themself
->
-> **Effect:** The target takes an extra 5 damage for each surge they have.
-
-> ⭐️ **Loyalty Collar**
->
-> When the socialite is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-socialite","name":"War Dog Socialite","ancestry":"Humanoid, Soulless, War Dog","level":"10","role":"Minion Hexer","roleKey":"hexer","ev":"12 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"14"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Psychic 10","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+5"}],"features":[{"kind":"ability","action":"main","name":"Call to Self-Sabotage","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature per minion","powerRoll":{"formula":"+ 5","tiers":{"high":"The target makes a free strike (tier 3 result) against themself","low":"The target makes a free strike (tier 1 result) against themself","mid":"The target makes a free strike (tier 2 result) against themself"}},"sections":[{"label":"Effect","text":"The target takes an extra 5 damage for each surge they have."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the socialite is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object."}]}
+</script>

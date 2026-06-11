@@ -26,18 +26,6 @@ weaknesses:
 
 ---
 
-The gales are twisting ribbons of cloud and debris endlessly dancing in place. They disrupt the air and allow their allies to move freely.
-
-| Brisk Gale | Elemental (Air) | Signature Minion Harrier | - | 1 essence per minion summoned |
-|:----------:|:---------------:|:------------------------:|:-:|:-----------------------------:|
-| **1S**<br>Size | **5**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
-| **Sonic R**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **Sonic**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Cutting the Air**
->
-> The gale doesn't provoke [opportunity attacks](../../rule/combat/opportunity-attack.md) by moving.
-
-> ⭐️ **Whirlwind**
->
-> When the gale is reduced to 0 [Stamina](../../rule/health/stamina.md), winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately [shift](../../movement/shifting.md) (including vertically).
+<script type="application/json" class="sc-statblock-data">
+{"id":"brisk-gale","name":"Brisk Gale","ancestry":"Brisk Gale","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Sonic R","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Cutting the Air","body":"The gale doesn't provoke [opportunity attacks](../../../rule/combat/opportunity-attack/) by moving."},{"kind":"passive","action":"passive","name":"Whirlwind","body":"When the gale is reduced to 0 [Stamina](../../../rule/health/stamina/), winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately [shift](../../../movement/shifting/) (including vertically)."}]}
+</script>

@@ -25,18 +25,6 @@ weaknesses:
 
 ---
 
-Loftlillies lazily drift through the air in flower cups. They sip on toxic nectar to emit a powerful haze from their skin.
-
-| Pixie Loftlilly | Fey | Minion Controller | - | 3 essence for two minions |
-|:---------------:|:---:|:-----------------:|:-:|:-------------------------:|
-| **1T**<br>Size | **5**<br>Speed | **5 \| 5**<br>Stamina | **0**<br>Stability | **4**<br>Free Strike |
-| **Poison R**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Floating Toxins**
->
-> The area within 1 square of the loftlilly causes each enemy and object with a size equal to your [Reason](../../rule/character/reason.md) or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't [fly](../../movement/fly.md) is unable to [shift](../../movement/shifting.md), moves 2 additional squares from [forced movement](../../movement/forced-movement.md), and has a [bane](../../rule/dice/bane.md) on [strikes](../../rule/combat/strike.md).
-
-> ⭐️ **Minuscule**
->
-> The loftlilly has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"pixie-loftlilly","name":"Pixie Loftlilly","ancestry":"Pixie Loftlilly","level":"","role":"Minion Controller","roleKey":"controller","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Poison R","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Floating Toxins","body":"The area within 1 square of the loftlilly causes each enemy and object with a size equal to your [Reason](../../../rule/character/reason/) or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't [fly](../../../movement/fly/) is unable to [shift](../../../movement/shifting/), moves 2 additional squares from [forced movement](../../../movement/forced-movement/), and has a [bane](../../../rule/dice/bane/) on [strikes](../../../rule/combat/strike/)."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The loftlilly has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-The desolations have vaguely humanoid sand forms with no legs. Their glass hose “arms” shift and bristle before firing high pressure streams of sand at their foes.
-
-| Desolation of Sand | Elemental (Air, Earth) | Minion Hexer | - | 3 essence for two minions |
-|:------------------:|:----------------------:|:------------:|:-:|:-------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **5 \| 5**<br>Stamina | **1**<br>Stability | **4**<br>Free Strike |
-| **Sonic R**<br>Immunity | **Burrow**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+1**<br>Might | **+2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **−2**<br>Presence |
-
-> ⭐️ **Burying Strike**
->
-> The desolation's [free strikes](../../feature/common/main-actions/free-strike.md) inflict M < AVERAGE [slowed](../../condition/slowed.md) (save ends). If the target is already [slowed](../../condition/slowed.md), then they are M < STRONG [restrained](../../condition/restrained.md) ([EoT](../../rule/combat/end-of-turn.md)).
-
-> ⭐️ **Sand Through Your Fingers**
->
-> The desolation doesn't provoke [opportunity attacks](../../rule/combat/opportunity-attack.md) by moving.
-
-> ⭐️ **Shifting Sand Pit** 1 Essence
->
-> When the desolation is reduced to 0 [Stamina](../../rule/health/stamina.md), the area within 1 square of the desolation becomes [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. You or an ally that enters the affected area can immediately [shift](../../movement/shifting.md) 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"desolation-of-sand","name":"Desolation of Sand","ancestry":"Desolation of Sand","level":"","role":"Minion Hexer","roleKey":"hexer","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Sonic R","weakness":"—","movement":"Burrow","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Burying Strike","body":"The desolation's [free strikes](../../../feature/common/main-actions/free-strike/) inflict M \u003c AVERAGE [slowed](../../../condition/slowed/) (save ends). If the target is already [slowed](../../../condition/slowed/), then they are M \u003c STRONG [restrained](../../../condition/restrained/) ([EoT](../../../rule/combat/end-of-turn/))."},{"kind":"passive","action":"passive","name":"Sand Through Your Fingers","body":"The desolation doesn't provoke [opportunity attacks](../../../rule/combat/opportunity-attack/) by moving."}]}
+</script>

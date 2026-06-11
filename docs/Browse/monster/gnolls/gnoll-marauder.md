@@ -25,34 +25,6 @@ type: statblock
 
 ---
 
-|  Abyssal, Gnoll   |         -         |      Level 2      |     Horde Harrier     |         EV 4         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   | **20**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+1**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Fury Flail (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage; prone; A < 2 bleeding (save ends)
->
-> **2+ Malice:** This ability targets one additional target for each 2 Malice spent.
-
-> ❇️ **Marauder's Cackletongue (3 Malice)**
->
-> | **Area**       |                          **Maneuver** |
-> |----------------|--------------------------------------:|
-> | **📏 2 burst** | **🎯 Self and each ally in the area** |
->
-> **Effect:** Each target shifts up to their speed. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost.
-
-> ⭐️ **Death Frenzy**
->
-> Whenever a non-minion ally within 7 squares of the marauder is reduced to 0 Stamina, the marauder moves up to their speed and can make a melee free strike.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gnoll-marauder","name":"Gnoll Marauder","ancestry":"Abyssal, Gnoll","level":"2","role":"Horde Harrier","roleKey":"harrier","ev":"4","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Fury Flail","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 damage; prone; A \u003c 2 bleeding (save ends)","low":"4 damage","mid":"5 damage"}},"enhancements":[{"cost":"2+ Malice","text":"This ability targets one additional target for each 2 Malice spent."}]},{"kind":"ability","action":"maneuver","name":"Marauder's Cackletongue","cost":"3 Malice","usage":"Maneuver","keywords":["Area"],"distance":"2 burst","target":"Self and each ally in the area","sections":[{"label":"Effect","text":"Each target shifts up to their speed. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost."}]},{"kind":"passive","action":"passive","name":"Death Frenzy","body":"Whenever a non-minion ally within 7 squares of the marauder is reduced to 0 Stamina, the marauder moves up to their speed and can make a melee free strike."}]}
+</script>

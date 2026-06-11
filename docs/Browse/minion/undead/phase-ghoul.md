@@ -26,18 +26,6 @@ weaknesses:
 
 ---
 
-Phase ghouls are bilocated undead caught between two different manifolds, rapidly flickering between them. They almost appear transparent save for their long, bright blue tongues that appears to lag behind their movements by a full second.
-
-| Phase Ghoul | Undead | Minion Harrier | - | 5 essence for three minions |
-|:-----------:|:------:|:--------------:|:-:|:---------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **5 \| 5 \| 5**<br>Stamina | **0**<br>Stability | **3**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **Teleport**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **+3**<br>Agility | **−2**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Leaping Strike**
->
-> The ghoul [teleports](../../movement/teleport.md) 5 squares before making a melee [free strike](../../feature/common/main-actions/free-strike.md). The target is M < AVERAGE knocked [prone](../../condition/prone.md). If the target is in the air, the [potency](../../rule/character/potency.md) increases by 1.
-
-> ⭐️ **Nerveless**
->
-> The ghoul takes no [damage](../../rule/damage/damage.md) from [falling](../../rule/health/falling.md) and always lands on their feet.
+<script type="application/json" class="sc-statblock-data">
+{"id":"phase-ghoul","name":"Phase Ghoul","ancestry":"Phase Ghoul","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Leaping Strike","body":"The ghoul [teleports](../../../movement/teleport/) 5 squares before making a melee [free strike](../../../feature/common/main-actions/free-strike/). The target is M \u003c AVERAGE knocked [prone](../../../condition/prone/). If the target is in the air, the [potency](../../../rule/character/potency/) increases by 1."},{"kind":"passive","action":"passive","name":"Nerveless","body":"The ghoul takes no [damage](../../../rule/damage/damage/) from [falling](../../../rule/health/falling/) and always lands on their feet."}]}
+</script>

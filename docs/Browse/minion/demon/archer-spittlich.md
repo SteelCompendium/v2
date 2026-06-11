@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-These minor demons resemble larger pitlings. They can spit a nerve-numbing phlegm at long distance that makes it easy to catch their next meal.
-
-| Archer Spittlich | Abyssal, Demon | Minion Artillery | - | 3 essence for two minions |
-|:----------------:|:--------------:|:----------------:|:-:|:-------------------------:|
-| **1S**<br>Size | **5**<br>Speed | **5 \| 5**<br>Stamina | **2**<br>Stability | **5**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **0**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **0**<br>Presence |
-
-> ⭐️ **Splash Strike**
->
-> The spittlich's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't [shift](../../movement/shifting.md) until the start of the spittlich's next turn.
-
-> ⭐️ **Soulsight**
->
-> Each creature adjacent to the spittlich can't be [hidden](../../feature/common/maneuvers/hide.md) from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"archer-spittlich","name":"Archer Spittlich","ancestry":"Archer Spittlich","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"passive","action":"passive","name":"Splash Strike","body":"The spittlich's ranged [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't [shift](../../../movement/shifting/) until the start of the spittlich's next turn."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the spittlich can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
+</script>

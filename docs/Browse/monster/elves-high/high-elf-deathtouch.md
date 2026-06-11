@@ -26,34 +26,6 @@ type: statblock
 
 ---
 
-| Fey, High Elf, Humanoid |         -         |      Level 2      |   Platoon Artillery   |         EV 8         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **5**<br>Speed   | **30**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **+2**<br>Might     | **0**<br>Agility  | **+1**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🏹 **Heartpiercer (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |     **Main action** |
-> |----------------------------|--------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 10 damage
-> - **17+:** 13 damage; R < 1 bleeding (save ends); I < 1 frightened (save ends); P < 1 restrained (save ends)
->
-> **5 Malice:** The ability takes the Area keyword and loses the Strike keyword, its distance becomes a 3 cube within 10, and it targets each enemy in the area.
-
-> 🗡 **Kiss of Death**
->
-> | **Magic, Melee** |            **Maneuver** |
-> |------------------|------------------------:|
-> | **📏 Melee 1**   | **🎯 One willing ally** |
->
-> **Effect:** The target has a +5 bonus to speed and automatically obtains a tier 3 outcome on power rolls. They can still roll to determine if they score a critical hit. At the end of their next turn, the target immediately dies.
-
-> ⭐️ **Otherworldly Grace**
->
-> At the start of each of their turns, the deathtouch can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"high-elf-deathtouch","name":"High Elf Deathtouch","ancestry":"Fey, High Elf, Humanoid","level":"2","role":"Platoon Artillery","roleKey":"artillery","ev":"8","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Heartpiercer","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 15","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"13 damage; R \u003c 1 bleeding (save ends); I \u003c 1 frightened (save ends); P \u003c 1 restrained (save ends)","low":"7 damage","mid":"10 damage"}},"enhancements":[{"cost":"5 Malice","text":"The ability takes the Area keyword and loses the Strike keyword, its distance becomes a 3 cube within 10, and it targets each enemy in the area."}]},{"kind":"ability","action":"maneuver","name":"Kiss of Death","usage":"Maneuver","keywords":["Magic","Melee"],"distance":"Melee 1","target":"One willing ally","sections":[{"label":"Effect","text":"The target has a +5 bonus to speed and automatically obtains a tier 3 outcome on power rolls. They can still roll to determine if they score a critical hit. At the end of their next turn, the target immediately dies."}]},{"kind":"passive","action":"passive","name":"Otherworldly Grace","body":"At the start of each of their turns, the deathtouch can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn."}]}
+</script>

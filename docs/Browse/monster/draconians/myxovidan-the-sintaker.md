@@ -29,56 +29,6 @@ type: statblock
 
 ---
 
-| Draconian, Dragon, Humanoid  |          -          |      Level 6       |      Elite Hexer      |        EV 32         |       
-|:----------------------------:|:-------------------:|:------------------:|:---------------------:|:--------------------:|       
-|        **1M**<br>Size        |   **5**<br>Speed    | **140**<br>Stamina |  **2**<br>Stability   | **7**<br>Free Strike |       
-| **Corruption 6**<br>Immunity | **Fly**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |       
-|       **-1**<br>Might        |  **+3**<br>Agility  |  **+2**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Breaking Palm (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |    **Main action** |
-> |---------------------------|-------------------:|
-> | **📏 Melee 1**            | **🎯 Two enemies** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 10 damage; M < 1 weakened (save ends)
-> - **12-16:** 15 damage; M < 2 weakened (save ends)
-> - **17+:** 18 corruption damage; M < 3 weakened (save ends)
->
-> **2 Malice:** Myxovidan regains Stamina equal to half the damage dealt.
-
-> ❇️ **Expunging Exhalation**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 2 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 7 corruption damage; M < 1 the target has corruption weakness 3 (save ends)
-> - **12-16:** 12 corruption damage; M < 2 the target has corruption weakness 3 (save ends)
-> - **17+:** 15 corruption damage; M < 3 the target has corruption weakness 3 (save ends)
-
-> 🏹 **Step and Swap**
->
-> | **Ranged**      |    **Maneuver** |
-> |-----------------|----------------:|
-> | **📏 Ranged 3** | **🎯 One ally** |
->
-> **Effect:** Myxovidan and the target shift to swap places.
-
-> ❗️ **Anyone Can Do That (2 Malice)**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** An adjacent creature damages Myxovidan with a melee ability.
->
-> **Effect:** Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier outcome than the triggering creature, the Director gains 2 Malice.
-
-> ⭐️ **Stench of Death**
->
-> Whenever an enemy regains Stamina while within 5 squares of Myxovidan, they regain 3 less Stamina.
+<script type="application/json" class="sc-statblock-data">
+{"id":"myxovidan-the-sintaker","name":"Myxovidan the Sintaker","ancestry":"Draconian, Dragon, Humanoid","level":"6","role":"Elite Hexer","roleKey":"hexer","ev":"32","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"140"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"Corruption 6","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Breaking Palm","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two enemies","powerRoll":{"formula":"+ 3","tiers":{"high":"18 corruption damage; M \u003c 3 weakened (save ends)","low":"10 damage; M \u003c 1 weakened (save ends)","mid":"15 damage; M \u003c 2 weakened (save ends)"}},"enhancements":[{"cost":"2 Malice","text":"Myxovidan regains Stamina equal to half the damage dealt."}]},{"kind":"ability","action":"main","name":"Expunging Exhalation","usage":"Main action","keywords":["Area","Magic"],"distance":"2 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"15 corruption damage; M \u003c 3 the target has corruption weakness 3 (save ends)","low":"7 corruption damage; M \u003c 1 the target has corruption weakness 3 (save ends)","mid":"12 corruption damage; M \u003c 2 the target has corruption weakness 3 (save ends)"}}},{"kind":"ability","action":"maneuver","name":"Step and Swap","usage":"Maneuver","keywords":["Ranged"],"distance":"Ranged 3","target":"One ally","sections":[{"label":"Effect","text":"Myxovidan and the target shift to swap places."}]},{"kind":"ability","action":"triggered","name":"Anyone Can Do That","cost":"2 Malice","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"An adjacent creature damages Myxovidan with a melee ability."},{"label":"Effect","text":"Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier outcome than the triggering creature, the Director gains 2 Malice."}]},{"kind":"passive","action":"passive","name":"Stench of Death","body":"Whenever an enemy regains Stamina while within 5 squares of Myxovidan, they regain 3 less Stamina."}]}
+</script>

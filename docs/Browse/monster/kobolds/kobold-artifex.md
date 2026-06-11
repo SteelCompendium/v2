@@ -25,36 +25,6 @@ type: statblock
 
 ---
 
-| Humanoid, Kobold  |         -         |      Level 1      |   Horde Controller    |         EV 3         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1S**<br>Size   |  **5**<br>Speed   | **10**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **0**<br>Might   | **+2**<br>Agility | **+1**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
-
-> 🏹 **Chain Hook (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; pull 1
-> - **12-16:** 4 damage; pull 2
-> - **17+:** 5 damage; pull 3
->
-> **Effect:** If this forced movement triggers a trap that uses a power roll, that roll has a double edge.
-
-> ⭐️ **Activate Trap**
->
-> | **Ranged**       |                            **Maneuver** |
-> |------------------|----------------------------------------:|
-> | **📏 Ranged 10** | **🎯 One trap or other terrain object** |
->
-> **Effect:** The trap or terrain object instantly triggers.
->
-> **3 Malice:** The artifex places a new trap in the encounter and can instantly trigger it. The artifex prefers working with angry beehives, flammable oil, snare traps, and spike traps (see Dynamic Terrain).
-
-> ⭐️ **Shield? Shield!**
->
-> While adjacent to an ally who also has this trait, the artifex has stability 1, has cover, and grants cover to allies.
+<script type="application/json" class="sc-statblock-data">
+{"id":"kobold-artifex","name":"Kobold Artifex","ancestry":"Humanoid, Kobold","level":"1","role":"Horde Controller","roleKey":"controller","ev":"3","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Chain Hook","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; pull 3","low":"3 damage; pull 1","mid":"4 damage; pull 2"}},"sections":[{"label":"Effect","text":"If this forced movement triggers a trap that uses a power roll, that roll has a double edge."}]},{"kind":"ability","action":"maneuver","name":"Activate Trap","usage":"Maneuver","keywords":["Ranged"],"distance":"Ranged 10","target":"One trap or other terrain object","sections":[{"label":"Effect","text":"The trap or terrain object instantly triggers."}],"enhancements":[{"cost":"3 Malice","text":"The artifex places a new trap in the encounter and can instantly trigger it. The artifex prefers working with angry beehives, flammable oil, snare traps, and spike traps (see Dynamic Terrain)."}]},{"kind":"passive","action":"passive","name":"Shield? Shield!","body":"While adjacent to an ally who also has this trait, the artifex has stability 1, has cover, and grants cover to allies."}]}
+</script>

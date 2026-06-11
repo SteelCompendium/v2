@@ -26,48 +26,6 @@ type: statblock
 
 ---
 
-| Humanoid, Radenwight |           -           |      Level 1      |     Platoon Brute     |         EV 6         |
-|:--------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|    **1L**<br>Size    |    **5**<br>Speed     | **40**<br>Stamina |  **2**<br>Stability   | **4**<br>Free Strike |
-|  **-**<br>Immunity   | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|   **+2**<br>Might    |   **+1**<br>Agility   | **-1**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Lockjaw (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage; grabbed
->
-> **Effect:** A target grabbed this way takes 2 damage at the start of each of the bruxer's turns.
-
-> ❇️ **Flurry of Bites (3 Malice)**
->
-> | **Area, Weapon** |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; A < 0 bleeding (save ends)
-> - **12-16:** 5 damage; A < 1 bleeding (save ends)
-> - **17+:** 8 damage; A < 2 bleeding (save ends)
-
-> ❗️ **Ready Rodent**
->
-> | **Melee, Weapon** | **Triggered action** |
-> |-------------------|---------------------:|
-> | **📏 Melee 1**    |  **🎯 One creature** |
->
-> **Trigger:** An ally deals damage to the target.
->
-> **Effect:** The bruxer makes a free strike against the target.
-
-> ⭐️ **Lockdown**
->
-> Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift.
+<script type="application/json" class="sc-statblock-data">
+{"id":"radenwight-bruxer","name":"Radenwight Bruxer","ancestry":"Humanoid, Radenwight","level":"1","role":"Platoon Brute","roleKey":"brute","ev":"6","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Lockjaw","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage; grabbed","low":"6 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"A target grabbed this way takes 2 damage at the start of each of the bruxer's turns."}]},{"kind":"ability","action":"main","name":"Flurry of Bites","cost":"3 Malice","usage":"Main action","keywords":["Area","Weapon"],"distance":"1 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"8 damage; A \u003c 2 bleeding (save ends)","low":"3 damage; A \u003c 0 bleeding (save ends)","mid":"5 damage; A \u003c 1 bleeding (save ends)"}}},{"kind":"ability","action":"triggered","name":"Ready Rodent","usage":"Triggered action","keywords":["Melee","Weapon"],"distance":"Melee 1","target":"One creature","sections":[{"label":"Trigger","text":"An ally deals damage to the target."},{"label":"Effect","text":"The bruxer makes a free strike against the target."}]},{"kind":"passive","action":"passive","name":"Lockdown","body":"Any enemy who shifts adjacent to the bruxer has that shift end. Additionally, any enemy adjacent to the bruxer can't shift."}]}
+</script>

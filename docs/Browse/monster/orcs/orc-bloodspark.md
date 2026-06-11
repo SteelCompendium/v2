@@ -26,24 +26,6 @@ with_captain: +2 bonus to forced movement distance
 
 ---
 
-|   Humanoid, Orc   |         -         |     Level 1      |                     Minion Artillery                     | EV 3 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:--------------------------------------------------------:|:---------------------:|
-|  **1M**<br>Size   |  **6**<br>Speed   | **3**<br>Stamina |                    **0**<br>Stability                    |  **2**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+2 bonus to forced movement distance**<br>With Captain |   **-**<br>Weakness   |
-|  **0**<br>Might   | **+1**<br>Agility | **0**<br>Reason  |                    **0**<br>Intuition                    |   **+2**<br>Presence  |
-
-> 🏹 **Explosive Mote (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage; push 1, or the bloodspark can shift 1 square away from the target
-> - **12-16:** 4 damage; push 2, or the bloodspark shifts up to 2 squares away from the target
-> - **17+:** 5 damage; push 4, or the bloodspark shifts up to 4 squares away from the target
-
-> ⭐️ **Bloodfire Bur**
->
-> If the bloodspark is reduced to 0 Stamina, they can make a free strike before dying.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orc-bloodspark","name":"Orc Bloodspark","ancestry":"Humanoid, Orc","level":"1","role":"Minion Artillery","roleKey":"artillery","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Explosive Mote","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; push 4, or the bloodspark shifts up to 4 squares away from the target","low":"2 damage; push 1, or the bloodspark can shift 1 square away from the target","mid":"4 damage; push 2, or the bloodspark shifts up to 2 squares away from the target"}}},{"kind":"passive","action":"passive","name":"Bloodfire Bur","body":"If the bloodspark is reduced to 0 Stamina, they can make a free strike before dying."}]}
+</script>

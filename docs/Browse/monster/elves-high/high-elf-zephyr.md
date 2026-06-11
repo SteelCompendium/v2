@@ -26,38 +26,6 @@ type: statblock
 
 ---
 
-| Fey, High Elf, Humanoid |         -         |      Level 1      |    Platoon Harrier    |         EV 6         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **7**<br>Speed   | **30**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      | **+2**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Sweeping Blade (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage
->
-> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares.
-
-> 👤 **Windwalk**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The zephyr flies up to their speed. If they don't end this movment on solid ground, they are prone.
-
-> ⭐️ **Like the Wind**
->
-> The zephyr doesn't provoke opportunity attacks by moving.
-
-> ⭐️ **Otherworldly Grace**
->
-> At the start of each of their turns, the zephyr can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"high-elf-zephyr","name":"High Elf Zephyr","ancestry":"Fey, High Elf, Humanoid","level":"1","role":"Platoon Harrier","roleKey":"harrier","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Sweeping Blade","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage","low":"5 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A \u003c 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares."}]},{"kind":"ability","action":"maneuver","name":"Windwalk","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The zephyr flies up to their speed. If they don't end this movment on solid ground, they are prone."}]},{"kind":"passive","action":"passive","name":"Like the Wind","body":"The zephyr doesn't provoke opportunity attacks by moving."},{"kind":"passive","action":"passive","name":"Otherworldly Grace","body":"At the start of each of their turns, the zephyr can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn."}]}
+</script>

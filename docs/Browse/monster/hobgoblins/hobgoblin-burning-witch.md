@@ -30,34 +30,6 @@ type: statblock
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |            -             |      Level 4      |  Platoon Controller   |        EV 12         |
-|:-------------------------------------:|:------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|            **1M**<br>Size             |      **5**<br>Speed      | **50**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|        **Fire 4**<br>Immunity         | **Teleport**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **0**<br>Might             |    **+1**<br>Agility     | **+2**<br>Reason  |  **+2**<br>Intuition  |  **+3**<br>Presence  |
-
-> 🏹 **Soul Burn (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Ranged 10**          | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 4 corruption or fire damage
-> - **12-16:** 6 corruption or fire damage
-> - **17+:** 8 corruption or fire damage
->
-> **2 Malice:** Each target who has P < 2 is weakened (save ends). Any enemy who starts their turn within 3 squares of a target weakened this way and who has P < 2 is weakened (save ends).
-
-> 🏹 **Burning Legion (1 Malice)**
->
-> | **Magic, Ranged** |           **Maneuver** |
-> |-------------------|-----------------------:|
-> | **📏 Ranged 10**  | **🎯 Three creatures** |
->
-> **Effect:** Each target can teleport up to 5 squares. Each creature adjacent to a target at their destination takes 3 fire damage.
-
-> ⭐️ **Infernal Ichor**
->
-> When the burning witch is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the burning witch takes 3 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-burning-witch","name":"Hobgoblin Burning Witch","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"4","role":"Platoon Controller","roleKey":"controller","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Fire 4","weakness":"—","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"ability","action":"main","name":"Soul Burn","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"8 corruption or fire damage","low":"4 corruption or fire damage","mid":"6 corruption or fire damage"}},"enhancements":[{"cost":"2 Malice","text":"Each target who has P \u003c 2 is weakened (save ends). Any enemy who starts their turn within 3 squares of a target weakened this way and who has P \u003c 2 is weakened (save ends)."}]},{"kind":"ability","action":"maneuver","name":"Burning Legion","cost":"1 Malice","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"Three creatures","sections":[{"label":"Effect","text":"Each target can teleport up to 5 squares. Each creature adjacent to a target at their destination takes 3 fire damage."}]},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the burning witch is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the burning witch takes 3 fire damage."}]}
+</script>

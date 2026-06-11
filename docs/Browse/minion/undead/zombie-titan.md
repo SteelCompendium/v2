@@ -26,22 +26,6 @@ weaknesses:
 
 ---
 
-Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard's entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.
-
-| Zombie Titan | Undead | Minion Defender | - | 7 essence for one minion |
-|:------------:|:------:|:---------------:|:-:|:------------------------:|
-| **4**<br>Size | **4**<br>Speed | **40**<br>Stamina | **R**<br>Stability | **7**<br>Free Strike |
-| **Corruption R, poison R**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+4**<br>Might | **−3**<br>Agility | **0**<br>Reason | **+2**<br>Intuition | **+3**<br>Presence |
-
-> ⭐️ **Big Stomp**
->
-> The titan's melee [free strikes](../../feature/common/main-actions/free-strike.md) M < STRONG knock the target [prone](../../condition/prone.md).
-
-> ⭐️ **Overwhelming Size**
->
-> The titan can move through enemies at normal speed. If the titan ends their [turn](../../rule/combat/turn.md) in a [prone](../../condition/prone.md) [size](../../rule/character/size.md) 2 or smaller creature's space, the creature can't stand.
-
-> ⭐️ **Flesh to Mountains**
->
-> When the titan is reduced to 0 [Stamina](../../rule/health/stamina.md), their space becomes [difficult terrain](../../movement/difficult-terrain.md). If a creature was [prone](../../condition/prone.md) underneath the titan when the titan is killed, they take 10 [damage](../../rule/damage/damage.md) and are [restrained](../../condition/restrained.md) (save ends).
+<script type="application/json" class="sc-statblock-data">
+{"id":"zombie-titan","name":"Zombie Titan","ancestry":"Zombie Titan","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"4"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"Corruption R, poison R","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"passive","action":"passive","name":"Big Stomp","body":"The titan's melee [free strikes](../../../feature/common/main-actions/free-strike/) M \u003c STRONG knock the target [prone](../../../condition/prone/)."},{"kind":"passive","action":"passive","name":"Overwhelming Size","body":"The titan can move through enemies at normal speed. If the titan ends their [turn](../../../rule/combat/turn/) in a [prone](../../../condition/prone/) [size](../../../rule/character/size/) 2 or smaller creature's space, the creature can't stand."},{"kind":"passive","action":"passive","name":"Flesh to Mountains","body":"When the titan is reduced to 0 [Stamina](../../../rule/health/stamina/), their space becomes [difficult terrain](../../../movement/difficult-terrain/). If a creature was [prone](../../../condition/prone/) underneath the titan when the titan is killed, they take 10 [damage](../../../rule/damage/damage/) and are [restrained](../../../condition/restrained/) (save ends)."}]}
+</script>

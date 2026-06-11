@@ -25,28 +25,6 @@ weaknesses:
 
 ---
 
-This pixie flies on a delicate array of vibrant flower petals for wings. The color drains from their wings as they call forth acid rain showers.
-
-| Pixie Hydrain | Fey | Minion Artillery | - | 3 essence for two minions |
-|:-------------:|:---:|:----------------:|:-:|:-------------------------:|
-| **1T**<br>Size | **5**<br>Speed | **5 \| 5**<br>Stamina | **0**<br>Stability | **5**<br>Free Strike |
-| **Acid R**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **Acid**<br>Free Strike Damage Type |
-| **−3**<br>Might | **0**<br>Agility | **+1**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> 🏹 **Burning/Healing Rain 2d10 + R (Signature Ability)**
->
-> | **Magic, Ranged, Strike** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Ranged 5** | **🎯 One creature or object per minion** |
->
-> 5 acid damage; M < WEAK [weakened](../../condition/weakened.md) ([EoT](../../rule/combat/end-of-turn.md))
->
-> 7 acid damage; M < AVERAGE [weakened](../../condition/weakened.md) ([EoT](../../rule/combat/end-of-turn.md))
->
-> 9 acid damage; M < STRONG [weakened](../../condition/weakened.md) (save ends)
->
-> **Effect:** After the hydrain's squad uses this ability, you or one ally within distance can spend a [Recovery](../../rule/health/recoveries.md) or end a [condition](../../rule/combat/condition.md).
-
-> ⭐️ **Minuscule**
->
-> The hydrain has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"pixie-hydrain","name":"Pixie Hydrain","ancestry":"Pixie Hydrain","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Acid R","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Burning/Healing Rain","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"9 acid damage; M \u003c STRONG [weakened](../../../condition/weakened/) (save ends)","low":"5 acid damage; M \u003c WEAK [weakened](../../../condition/weakened/) ([EoT](../../../rule/combat/end-of-turn/))","mid":"7 acid damage; M \u003c AVERAGE [weakened](../../../condition/weakened/) ([EoT](../../../rule/combat/end-of-turn/))"}},"sections":[{"label":"Effect","text":"After the hydrain's squad uses this ability, you or one ally within distance can spend a [Recovery](../../../rule/health/recoveries/) or end a [condition](../../../rule/combat/condition/)."}]},{"kind":"passive","action":"passive","name":"Minuscule","body":"The hydrain has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

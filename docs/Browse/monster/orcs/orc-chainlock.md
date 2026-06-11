@@ -25,42 +25,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Orc   |         -         |      Level 1      |     Platoon Hexer     |         EV 6         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1L**<br>Size   |  **5**<br>Speed   | **20**<br>Stamina |  **2**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+2**<br>Agility | **+1**<br>Reason  |  **+0**<br>Intuition  |  **+0**<br>Presence  |
-
-> 🗡 **Hook and Chain (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 3**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage; pull 1; M < 0 the target is hooked (save ends)
-> - **12-16:** 7 damage; pull 2; M < 1 the target is hooked (save ends)
-> - **17+:** 9 damage; pull 3; M < 2 the target is hooked (save ends)
->
-> **Effect:** A hooked target can't move more than 3 squares away from the chainlock's position when this ability is used.
-
-> 🏹 **Heavy Crossbolt (3 Malice)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage; A < 0 slowed (save ends)
-> - **12-16:** 7 damage; A < 1 slowed (save ends)
-> - **17+:** 9 damage; prone; A < 2 slowed (save ends)
-
-> ⭐️ **Chain Link**
->
-> Whenever the chainlock is force moved by a creature's melee ability, the creature is pulled the same distance toward the chainlock after the forced movement is resolved.
-
-> ⭐️ **Relentless**
->
-> If the chainlock is reduced to 0 Stamina, they can make a free strike before dying. If the target of the free strike is reduced to 0 Stamina, the chainlock is reduced to 1 Stamina instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orc-chainlock","name":"Orc Chainlock","ancestry":"Humanoid, Orc","level":"1","role":"Platoon Hexer","roleKey":"hexer","ev":"6","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Hook and Chain","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 3","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; pull 3; M \u003c 2 the target is hooked (save ends)","low":"5 damage; pull 1; M \u003c 0 the target is hooked (save ends)","mid":"7 damage; pull 2; M \u003c 1 the target is hooked (save ends)"}},"sections":[{"label":"Effect","text":"A hooked target can't move more than 3 squares away from the chainlock's position when this ability is used."}]},{"kind":"ability","action":"main","name":"Heavy Crossbolt","cost":"3 Malice","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; prone; A \u003c 2 slowed (save ends)","low":"5 damage; A \u003c 0 slowed (save ends)","mid":"7 damage; A \u003c 1 slowed (save ends)"}}},{"kind":"passive","action":"passive","name":"Chain Link","body":"Whenever the chainlock is force moved by a creature's melee ability, the creature is pulled the same distance toward the chainlock after the forced movement is resolved."},{"kind":"passive","action":"passive","name":"Relentless","body":"If the chainlock is reduced to 0 Stamina, they can make a free strike before dying. If the target of the free strike is reduced to 0 Stamina, the chainlock is reduced to 1 Stamina instead."}]}
+</script>

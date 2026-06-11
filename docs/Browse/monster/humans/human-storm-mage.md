@@ -28,46 +28,6 @@ type: statblock
 
 ---
 
-|             Human, Humanoid             |         -         |      Level 3      |  Platoon Controller   |        EV 10         |
-|:---------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size              |  **5**<br>Speed   | **40**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Corruption 3, psychic 3**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|             **0**<br>Might              | **0**<br>Agility  | **+2**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🏹 **Lightning Bolt (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 15**          | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 lightning damage
-> - **12-16:** 10 lightning damage
-> - **17+:** 13 lightning damage
->
-> **5 Malice:** The ability loses the Ranged and Strike keywords, takes the Area keyword, and is a 10 x 1 line within 15 that targets each enemy and object in the area.
-
-> 🔳 **Gust of Wind (3 Malice)**
->
-> | **Area, Magic**        |                             **Maneuver** |
-> |------------------------|-----------------------------------------:|
-> | **📏 5 cube within 1** | **🎯 Each enemy and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** Slide 2; M < 0 slowed (save ends)
-> - **12-16:** Slide 4; M < 1 slowed (save ends)
-> - **17+:** Slide 6; M < 2 slowed (save ends)
->
-> **Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including supernatural effects.
-
-> ⭐️ **Arcane Shield**
->
-> Any melee ability targeting the storm mage takes a bane.
->
-> Additionally, whenever the mage takes damage from an adjacent enemy, the enemy takes 2 lightning damage, and if they have R < 1 they are pushed up to 2 squares.
-
-> ⭐️ **Supernatural Insight**
->
-> The storm mage ignores concealment if it's granted by a supernatural effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"human-storm-mage","name":"Human Storm Mage","ancestry":"Human, Humanoid","level":"3","role":"Platoon Controller","roleKey":"controller","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Corruption 3, psychic 3","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Lightning Bolt","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 15","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"13 lightning damage","low":"7 lightning damage","mid":"10 lightning damage"}},"enhancements":[{"cost":"5 Malice","text":"The ability loses the Ranged and Strike keywords, takes the Area keyword, and is a 10 x 1 line within 15 that targets each enemy and object in the area."}]},{"kind":"ability","action":"maneuver","name":"Gust of Wind","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Magic"],"distance":"5 cube within 1","target":"Each enemy and object in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"Slide 6; M \u003c 2 slowed (save ends)","low":"Slide 2; M \u003c 0 slowed (save ends)","mid":"Slide 4; M \u003c 1 slowed (save ends)"}},"sections":[{"label":"Effect","text":"The gust of wind disperses gas or vapor and extinguishes any flames, including supernatural effects."}]},{"kind":"passive","action":"passive","name":"Arcane Shield","body":"Any melee ability targeting the storm mage takes a bane.\n\nAdditionally, whenever the mage takes damage from an adjacent enemy, the enemy takes 2 lightning damage, and if they have R \u003c 1 they are pushed up to 2 squares."},{"kind":"passive","action":"passive","name":"Supernatural Insight","body":"The storm mage ignores concealment if it's granted by a supernatural effect."}]}
+</script>

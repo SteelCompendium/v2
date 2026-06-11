@@ -25,46 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 2      |      Elite Hexer      |        EV 16         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **60**<br>Stamina |  **2**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **0**<br>Might   | **0**<br>Agility  | **+2**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🏹 **Reverberating Blast (Signature Ability)**
->
-> | **Psionic, Ranged, Strike, Telekinesis** |                 **Main action** |
-> |------------------------------------------|--------------------------------:|
-> | **📏 Ranged 10**                         | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 psychic damage; M < 0 prone
-> - **12-16:** 10 psychic damage; push 2; M < 1 prone
-> - **17+:** 13 psychic damage; push 3; M < 2 prone
-
-> 🏹 **Muddle the Mind (2 Malice)**
->
-> | **Psionic, Ranged, Telepathy** |                  **Maneuver** |
-> |--------------------------------|------------------------------:|
-> | **📏 Ranged 10**               | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** R < 0 slowed (save ends)
-> - **12-16:** R < 1 dazed (save ends)
-> - **17+:** R < 2 dazed and slowed (save ends)
-
-> ❗️ **Precognitive Shift (1 Malice)**
->
-> | **Psionic** | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** A creature deals damage to the talent.
->
-> **Effect:** The talent halves the damage and shifts up to 2 squares.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the talent chooses one creature within their line of effect. Both the talent and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-talent","name":"Rival Talent","ancestry":"Humanoid, Rival","level":"2","role":"Elite Hexer","roleKey":"hexer","ev":"16","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Reverberating Blast","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike","Telekinesis"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"13 psychic damage; push 3; M \u003c 2 prone","low":"7 psychic damage; M \u003c 0 prone","mid":"10 psychic damage; push 2; M \u003c 1 prone"}}},{"kind":"ability","action":"maneuver","name":"Muddle the Mind","cost":"2 Malice","usage":"Maneuver","keywords":["Psionic","Ranged","Telepathy"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"R \u003c 2 dazed and slowed (save ends)","low":"R \u003c 0 slowed (save ends)","mid":"R \u003c 1 dazed (save ends)"}}},{"kind":"ability","action":"triggered","name":"Precognitive Shift","cost":"1 Malice","usage":"Triggered action","keywords":["Psionic"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"A creature deals damage to the talent."},{"label":"Effect","text":"The talent halves the damage and shifts up to 2 squares."}]},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the talent chooses one creature within their line of effect. Both the talent and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

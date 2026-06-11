@@ -28,46 +28,6 @@ type: statblock
 
 ---
 
-|                 Undead                 |           -           |      Level 1      |    Horde Ambusher     |         EV 3         |
-|:--------------------------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size             |    **7**<br>Speed     | **15**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-| **Corruption 1, poison 1**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|             **0**<br>Might             |   **+2**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Chilling Grasp (Signature Ability)**
->
-> | **Magic, Melee, Strike** |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 Melee 1**           | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 cold damage
-> - **12-16:** 6 cold damage; the stalker can shift 1 square
-> - **17+:** 7 cold damage; the stalker shifts up to 2 squares
-
-> 🔳 **Freezing Dark (3 Malice)**
->
-> | **Area, Magic**        |               **Main action** |
-> |------------------------|------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 cold damage
-> - **12-16:** 3 cold damage
-> - **17+:** 4 cold damage
->
-> **Effect:** Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies.
-
-> 👤 **Shadow Jump (1 Malice)**
->
-> | **-**       | **Free maneuver** |
-> |-------------|------------------:|
-> | **📏 Self** |       **🎯 Self** |
->
-> The umbral stalker teleports to an unoccupied space in an area of concealment within 10 squares.
-
-> ⭐️ **Corruptive Phasing**
->
-> The umbral stalker can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the umbral stalker moves through a creature, that creature takes 2 corruption damage. The umbral stalker doesn't take damage from being force moved into objects.
+<script type="application/json" class="sc-statblock-data">
+{"id":"umbral-stalker","name":"Umbral Stalker","ancestry":"Undead","level":"1","role":"Horde Ambusher","roleKey":"ambusher","ev":"3","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 1, poison 1","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Chilling Grasp","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 cold damage; the stalker shifts up to 2 squares","low":"4 cold damage","mid":"6 cold damage; the stalker can shift 1 square"}}},{"kind":"ability","action":"main","name":"Freezing Dark","cost":"3 Malice","usage":"Main action","keywords":["Area","Magic"],"distance":"3 cube within 1","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"4 cold damage","low":"2 cold damage","mid":"3 cold damage"}},"sections":[{"label":"Effect","text":"Until the end of the stalker's next turn, the area provides concealment, and blocks line of effect for enemies."}]},{"kind":"ability","action":"maneuver","name":"Shadow Jump","cost":"1 Malice","usage":"Free maneuver","keywords":["-"],"distance":"Self","target":"Self","trailing":"The umbral stalker teleports to an unoccupied space in an area of concealment within 10 squares."},{"kind":"passive","action":"passive","name":"Corruptive Phasing","body":"The umbral stalker can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the umbral stalker moves through a creature, that creature takes 2 corruption damage. The umbral stalker doesn't take damage from being force moved into objects."}]}
+</script>

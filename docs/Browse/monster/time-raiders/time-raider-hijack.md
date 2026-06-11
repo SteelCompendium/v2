@@ -27,34 +27,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Time Raider   |         -         |      Level 3      |   Platoon Ambusher    |        EV 10         |
-|:-------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |  **6**<br>Speed   | **50**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Psychic 3**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **0**<br>Might       | **+2**<br>Agility | **+2**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Golden Sickles (Signature Ability)**
->
-> | **Melee, Psionic, Strike, Weapon** |     **Main action** |
-> |------------------------------------|--------------------:|
-> | **📏 Melee 1**                     | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage; A < 2 bleeding (save ends)
->
-> **Effect:** The hijack is hidden from any creature who is bleeding from this ability until that condition ends.
-
-> 🏹 **Psi-Sickle**
->
-> | **Psionic, Ranged, Weapon** |                  **Maneuver** |
-> |-----------------------------|------------------------------:|
-> | **📏 Ranged 5**             | **🎯 One creature or object** |
->
-> **Effect:** The hijack psychically latches their sickle onto the target and closes the distance between them. If the target is larger than the hijack, the hijack moves adjacent to the target. Otherwise, the target is pulled up to 4 squares toward the hijack.
-
-> ⭐️ **Foresight**
->
-> The hijack doesn't take a bane on strikes against creatures with concealment.
+<script type="application/json" class="sc-statblock-data">
+{"id":"time-raider-hijack","name":"Time Raider Hijack","ancestry":"Humanoid, Time Raider","level":"3","role":"Platoon Ambusher","roleKey":"ambusher","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Golden Sickles","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 1","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage; A \u003c 2 bleeding (save ends)","low":"7 damage","mid":"11 damage"}},"sections":[{"label":"Effect","text":"The hijack is hidden from any creature who is bleeding from this ability until that condition ends."}]},{"kind":"ability","action":"maneuver","name":"Psi-Sickle","usage":"Maneuver","keywords":["Psionic","Ranged","Weapon"],"distance":"Ranged 5","target":"One creature or object","sections":[{"label":"Effect","text":"The hijack psychically latches their sickle onto the target and closes the distance between them. If the target is larger than the hijack, the hijack moves adjacent to the target. Otherwise, the target is pulled up to 4 squares toward the hijack."}]},{"kind":"passive","action":"passive","name":"Foresight","body":"The hijack doesn't take a bane on strikes against creatures with concealment."}]}
+</script>

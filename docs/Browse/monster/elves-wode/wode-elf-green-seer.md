@@ -26,50 +26,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Wode Elf |         -         |      Level 1      |     Platoon Hexer     |         EV 6         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **7**<br>Speed   | **20**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      | **+1**<br>Agility |  **0**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🏹 **The Forest's Embrace (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage; I < 1 restrained (save ends)
-> - **17+:** 9 damage; I < 2 restrained (save ends)
->
-> **Effect:** While restrained this way, a target can't search for hidden creatures.
-
-> 🏹 **The Natural Cycle (3 Malice)**
->
-> | **Magic, Ranged, Strike** |         **Maneuver** |
-> |---------------------------|---------------------:|
-> | **📏 Ranged 10**          | **🎯 Two creatures** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage; P < 1 weakened (save ends)
-> - **17+:** 6 damage; P < 1 bleeding (save ends); the target has a double bane on strikes (save ends)
->
-> **Effect:** While bleeding or weakened this way, a target is covered in lichen.
-
-> ❗️ **Foreseen Punishment**
->
-> | **Ranged**      |      **Free triggered action** |
-> |-----------------|-------------------------------:|
-> | **📏 Ranged 5** | **🎯 The triggering creature** |
->
-> **Trigger:** A creature uses a triggered action targeting the green seer or an ally within distance.
->
-> **Effect:** The green seer makes a free strike against the target after the target's triggered action is resolved.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the green seer that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-green-seer","name":"Wode Elf Green Seer","ancestry":"Fey, Humanoid, Wode Elf","level":"1","role":"Platoon Hexer","roleKey":"hexer","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"The Forest's Embrace","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; I \u003c 2 restrained (save ends)","low":"5 damage","mid":"7 damage; I \u003c 1 restrained (save ends)"}},"sections":[{"label":"Effect","text":"While restrained this way, a target can't search for hidden creatures."}]},{"kind":"ability","action":"maneuver","name":"The Natural Cycle","cost":"3 Malice","usage":"Maneuver","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"Two creatures","powerRoll":{"formula":"+ 2","tiers":{"high":"6 damage; P \u003c 1 bleeding (save ends); the target has a double bane on strikes (save ends)","low":"2 damage","mid":"4 damage; P \u003c 1 weakened (save ends)"}},"sections":[{"label":"Effect","text":"While bleeding or weakened this way, a target is covered in lichen."}]},{"kind":"ability","action":"triggered","name":"Foreseen Punishment","usage":"Free triggered action","keywords":["Ranged"],"distance":"Ranged 5","target":"The triggering creature","sections":[{"label":"Trigger","text":"A creature uses a triggered action targeting the green seer or an ally within distance."},{"label":"Effect","text":"The green seer makes a free strike against the target after the target's triggered action is resolved."}]},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the green seer that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

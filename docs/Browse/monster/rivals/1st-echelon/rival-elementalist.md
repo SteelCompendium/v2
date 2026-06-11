@@ -25,48 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 2      |   Elite Controller    |        EV 16         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **60**<br>Stamina |  **1**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+0**<br>Might  | **+0**<br>Agility | **+2**<br>Reason  |  **+1**<br>Intuition  |  **+0**<br>Presence  |
-
-> 🏹 **The Writhing Green (Signature Ability)**
->
-> | **Green, Magic, Ranged, Strike** |                 **Main action** |
-> |----------------------------------|--------------------------------:|
-> | **📏 Ranged 10**                 | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage; slide 1
-> - **12-16:** 10 damage; slide 2
-> - **17+:** 13 damage; slide 3
-
-> 🔳 **The Earth Devours (3 Malice)**
->
-> | **Area, Green, Magic, Ranged** |               **Main action** |
-> |--------------------------------|------------------------------:|
-> | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage; restrained (EoT)
-> - **17+:** 8 damage; restrained (save ends)
->
-> **Effect:** The area is difficult terrain for enemies until the end of the encounter. Any enemy in the area has acid weakness 2.
-
-> ❗️ **Jaws of the Void**
->
-> | **Magic, Void** | **Triggered action** |
-> |-----------------|---------------------:|
-> | **📏 Self**     |          **🎯 Self** |
->
-> **Trigger:** The elementalist takes damage.
->
-> **Effect:** The elementalist can teleport up to 2 squares. Each creature adjacent to the space they leave takes 2 corruption damage.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the elementalist chooses one creature within their line of effect. Both the elementalist and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-elementalist","name":"Rival Elementalist","ancestry":"Humanoid, Rival","level":"2","role":"Elite Controller","roleKey":"controller","ev":"16","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"The Writhing Green","cost":"Signature","usage":"Main action","keywords":["Green","Magic","Ranged","Strike"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"13 damage; slide 3","low":"7 damage; slide 1","mid":"10 damage; slide 2"}}},{"kind":"ability","action":"main","name":"The Earth Devours","cost":"3 Malice","usage":"Main action","keywords":["Area","Green","Magic","Ranged"],"distance":"3 cube within 10","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"8 damage; restrained (save ends)","low":"3 damage","mid":"5 damage; restrained (EoT)"}},"sections":[{"label":"Effect","text":"The area is difficult terrain for enemies until the end of the encounter. Any enemy in the area has acid weakness 2."}]},{"kind":"ability","action":"triggered","name":"Jaws of the Void","usage":"Triggered action","keywords":["Magic","Void"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"The elementalist takes damage."},{"label":"Effect","text":"The elementalist can teleport up to 2 squares. Each creature adjacent to the space they leave takes 2 corruption damage."}]},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the elementalist chooses one creature within their line of effect. Both the elementalist and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

@@ -26,24 +26,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-|  Abyssal, Gnoll   |         -         |     Level 2      |               Minion Harrier                | EV 4 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   | **5**<br>Stamina |             **1**<br>Stability              | **2**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|  **+1**<br>Might  | **+2**<br>Agility | **+0**<br>Reason |             **+0**<br>Intuition             |  **-2**<br>Presence   |
-
-> 🗡 **Flail (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 3 damage
-> - **17+:** 5 damage; the wildling can make a free strike against a creature adjacent to the target
-
-> ⭐️ **Death Circle**
->
-> Whenever a non-minion ally within 7 squares of the wildling is reduced to 0 Stamina, the wildling can move up to their speed.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gnoll-wildling","name":"Gnoll Wildling","ancestry":"Abyssal, Gnoll","level":"2","role":"Minion Harrier","roleKey":"harrier","ev":"4 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"5"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Flail","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; the wildling can make a free strike against a creature adjacent to the target","low":"2 damage","mid":"3 damage"}}},{"kind":"passive","action":"passive","name":"Death Circle","body":"Whenever a non-minion ally within 7 squares of the wildling is reduced to 0 Stamina, the wildling can move up to their speed."}]}
+</script>

@@ -29,26 +29,6 @@ with_captain: +5 bonus to ranged distance
 
 ---
 
-|             Human, Humanoid             |         -         |     Level 1      |                  Minion Hexer                   | EV 3 for four minions |
-|:---------------------------------------:|:-----------------:|:----------------:|:-----------------------------------------------:|:---------------------:|
-|             **1M**<br>Size              |  **5**<br>Speed   | **3**<br>Stamina |               **0**<br>Stability                | **1**<br>Free Strike  |
-| **Corruption 1, psychic 1**<br>Immunity | **-**<br>Movement |        -         | **+5 bonus to ranged distance**<br>With Captain |   **-**<br>Weakness   |
-|             **0**<br>Might              | **+1**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition                |  **+2**<br>Presence   |
-
-> 🏹 **Necrotic Bolt (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 corruption damage
-> - **12-16:** 2 corruption damage
-> - **17+:** 3 corruption damage
->
-> **Effect:** One creature within 5 squares regains 1 Stamina.
-
-> ⭐️ **Supernatural Insight**
->
-> The death acolyte ignores concealment if it's granted by a supernatural effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"human-death-acolyte","name":"Human Death Acolyte","ancestry":"Human, Humanoid","level":"1","role":"Minion Hexer","roleKey":"hexer","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Corruption 1, psychic 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Necrotic Bolt","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 corruption damage","low":"1 corruption damage","mid":"2 corruption damage"}},"sections":[{"label":"Effect","text":"One creature within 5 squares regains 1 Stamina."}]},{"kind":"passive","action":"passive","name":"Supernatural Insight","body":"The death acolyte ignores concealment if it's granted by a supernatural effect."}]}
+</script>

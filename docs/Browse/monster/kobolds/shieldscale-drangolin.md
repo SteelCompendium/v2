@@ -26,52 +26,6 @@ type: statblock
 
 ---
 
-|   Kobold, Beast    |           -            |      Level 1      |      Elite Brute      |        EV 12         |
-|:------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
-| **2 or 3**<br>Size |     **7**<br>Speed     | **80**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity  | **Burrow**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might   |   **+1**<br>Agility    | **-3**<br>Reason  |  **0**<br>Intuition   |  **-2**<br>Presence  |
-
-> 🗡 **Fiery Claws (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 fire damage
-> - **12-16:** 10 fire damage
-> - **17+:** 13 fire damage
->
-> **Special:** If the drangolin is size 3, the distance becomes Melee 2.
-
-> 👤 **Drangolin Plume (5 Malice)**
->
-> | **-**                  | **Main action** |
-> |------------------------|----------------:|
-> | **📏 Self; see below** |     **🎯 Self** |
->
-> **Effect:** The drangolin shifts up to their speed and uses Fiery Claws against each creature who comes adjacent to them during the shift. The drangolin makes one power roll against all targets.
-
-> ❇️ **Erupt (3 Malice)**
->
-> | **Area, Weapon** |                  **Main action** |
-> |------------------|---------------------------------:|
-> | **📏 2 burst**   | **🎯 Each creature in the area** |
->
-> **Effect:** The drangolin uses the Dig maneuver to breach the surface before using this ability. Each target in the area where the drangolin breaches takes an extra 2 fire damage.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage; push 1; A < 0 prone
-> - **12-16:** 8 damage; push 3; A < 0 prone
-> - **17+:** 11 damage; push 5; A < 0 prone
-
-> ⭐️ **Ashen Cloud**
->
-> Any ally adjacent to the drangolin has concealment.
-
-> ⭐️ **Burrow Bond**
->
-> When the drangolin burrows, each adjacent size 1S or smaller ally can move with them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shieldscale-drangolin","name":"Shieldscale Drangolin","ancestry":"Kobold, Beast","level":"1","role":"Elite Brute","roleKey":"brute","ev":"12","defenses":[{"l":"Size","v":"2 or 3"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"80"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"Burrow","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-3"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Fiery Claws","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"13 fire damage","low":"7 fire damage","mid":"10 fire damage"}},"sections":[{"label":"Special","text":"If the drangolin is size 3, the distance becomes Melee 2."}]},{"kind":"ability","action":"main","name":"Drangolin Plume","cost":"5 Malice","usage":"Main action","keywords":["-"],"distance":"Self; see below","target":"Self","sections":[{"label":"Effect","text":"The drangolin shifts up to their speed and uses Fiery Claws against each creature who comes adjacent to them during the shift. The drangolin makes one power roll against all targets."}]},{"kind":"ability","action":"main","name":"Erupt","cost":"3 Malice","usage":"Main action","keywords":["Area","Weapon"],"distance":"2 burst","target":"Each creature in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"11 damage; push 5; A \u003c 0 prone","low":"6 damage; push 1; A \u003c 0 prone","mid":"8 damage; push 3; A \u003c 0 prone"}},"sections":[{"label":"Effect","text":"The drangolin uses the Dig maneuver to breach the surface before using this ability. Each target in the area where the drangolin breaches takes an extra 2 fire damage."}]},{"kind":"passive","action":"passive","name":"Ashen Cloud","body":"Any ally adjacent to the drangolin has concealment."},{"kind":"passive","action":"passive","name":"Burrow Bond","body":"When the drangolin burrows, each adjacent size 1S or smaller ally can move with them."}]}
+</script>

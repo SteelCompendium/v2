@@ -25,48 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 8       |      Elite Hexer      |        EV 40         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **180**<br>Stamina |  **2**<br>Stability   | **8**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **0**<br>Might   | **0**<br>Agility  |  **+4**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🏹 **Control Synapses (Signature Ability)**
->
-> | **Psionic, Ranged, Strike, Telekinesis** |                 **Main action** |
-> |------------------------------------------|--------------------------------:|
-> | **📏 Ranged 10**                         | **🎯 Two creatures or objects** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 12 psychic damage
-> - **12-16:** 17 psychic damage
-> - **17+:** 21 psychic damage
->
-> **3 Malice:** Each target shifts up to their speed and can make a free strike against one enemy of the talent's choice. The target can't be moved in a way that would harm them.
-
-> 🏹 **Disorientate (2 Malice)**
->
-> | **Psionic, Ranged, Telepathy** |                  **Maneuver** |
-> |--------------------------------|------------------------------:|
-> | **📏 Ranged 10**               | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 8 psychic damage; R < 2 dazed (save ends)
-> - **12-16:** 8 psychic damage; R < 3 dazed and slowed (save ends)
-> - **17+:** 8 psychic damage; R < 4 dazed and slowed (save ends)
-
-> ❗️ **Mind Requital (2 Malice)**
->
-> | **Psionic** | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** A creature deals damage to the talent.
->
-> **Effect:** The talent halves the damage and shifts up to 2 squares. The triggering creature takes psychic damage equal to half the damage dealt.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the talent chooses one creature within their line of effect. Both the talent and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-talent","name":"Rival Talent","ancestry":"Humanoid, Rival","level":"8","role":"Elite Hexer","roleKey":"hexer","ev":"40","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"180"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"8"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Control Synapses","cost":"Signature","usage":"Main action","keywords":["Psionic","Ranged","Strike","Telekinesis"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 4","tiers":{"high":"21 psychic damage","low":"12 psychic damage","mid":"17 psychic damage"}},"enhancements":[{"cost":"3 Malice","text":"Each target shifts up to their speed and can make a free strike against one enemy of the talent's choice. The target can't be moved in a way that would harm them."}]},{"kind":"ability","action":"maneuver","name":"Disorientate","cost":"2 Malice","usage":"Maneuver","keywords":["Psionic","Ranged","Telepathy"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"8 psychic damage; R \u003c 4 dazed and slowed (save ends)","low":"8 psychic damage; R \u003c 2 dazed (save ends)","mid":"8 psychic damage; R \u003c 3 dazed and slowed (save ends)"}}},{"kind":"ability","action":"triggered","name":"Mind Requital","cost":"2 Malice","usage":"Triggered action","keywords":["Psionic"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"A creature deals damage to the talent."},{"label":"Effect","text":"The talent halves the damage and shifts up to 2 squares. The triggering creature takes psychic damage equal to half the damage dealt."}]},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the talent chooses one creature within their line of effect. Both the talent and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

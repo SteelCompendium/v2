@@ -26,28 +26,6 @@ weaknesses:
 
 ---
 
-The collective of blood-eyed pixie warriors that make up a rosenthall are also known as rosies. It's said that some rosenthall armies contain thousands of pixies and can span half the length of a wode.
-
-| Pixie Rosenthall | Fey, Swarm | Minion Harrier | - | 5 essence for three minions |
-|:----------------:|:----------:|:--------------:|:-:|:---------------------------:|
-| **2**<br>Size | **6**<br>Speed | **5 \| 5 \| 5**<br>Stamina | **1**<br>Stability | **3**<br>Free Strike |
-| **—**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **0**<br>Might | **+2**<br>Agility | **+4**<br>Reason | **0**<br>Intuition | **+3**<br>Presence |
-
-> 🏹 **Stickerbush Symphony 2d10 + R (Signature Ability)**
->
-> | **Melee, Strike, Weapon** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Melee 2** | **🎯 One creature or object per minion** |
->
-> 3 [damage](../../rule/damage/damage.md); pull 2; A < WEAK [bleeding](../../condition/bleeding.md) (EoT)
->
-> 6 [damage](../../rule/damage/damage.md); pull 3; A < AVERAGE [bleeding](../../condition/bleeding.md) (EoT)
->
-> 8 [damage](../../rule/damage/damage.md); pull 4; A < STRONG [bleeding](../../condition/bleeding.md) (EoT)
->
-> **Effect:** A target can't [shift](../../movement/shifting.md) while [bleeding](../../condition/bleeding.md) from this ability.
-
-> ⭐️ **Swarm**
->
-> The rosenthall can move through squares as if they were [size](../../rule/character/size.md) 1T, and can occupy other creatures' spaces. At the start of the rosenthall's [turn](../../rule/combat/turn.md), they deal 2 [damage](../../rule/damage/damage.md) to each enemy whose space they share.
+<script type="application/json" class="sc-statblock-data">
+{"id":"pixie-rosenthall","name":"Pixie Rosenthall","ancestry":"Pixie Rosenthall","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"ability","action":"main","name":"Stickerbush Symphony","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"8 [damage](../../../rule/damage/damage/); pull 4; A \u003c STRONG [bleeding](../../../condition/bleeding/) (EoT)","low":"3 [damage](../../../rule/damage/damage/); pull 2; A \u003c WEAK [bleeding](../../../condition/bleeding/) (EoT)","mid":"6 [damage](../../../rule/damage/damage/); pull 3; A \u003c AVERAGE [bleeding](../../../condition/bleeding/) (EoT)"}},"sections":[{"label":"Effect","text":"A target can't [shift](../../../movement/shifting/) while [bleeding](../../../condition/bleeding/) from this ability."}]},{"kind":"passive","action":"passive","name":"Swarm","body":"The rosenthall can move through squares as if they were [size](../../../rule/character/size/) 1T, and can occupy other creatures' spaces. At the start of the rosenthall's [turn](../../../rule/combat/turn/), they deal 2 [damage](../../../rule/damage/damage/) to each enemy whose space they share."}]}
+</script>

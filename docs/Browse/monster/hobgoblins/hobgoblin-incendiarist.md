@@ -29,44 +29,6 @@ type: statblock
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -         |      Level 5      |   Platoon Artillery   |        EV 14         |
-|:-------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|            **1M**<br>Size             |  **5**<br>Speed   | **60**<br>Stamina |  **0**<br>Stability   | **6**<br>Free Strike |
-|        **Fire 5**<br>Immunity         | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+1**<br>Might            | **+3**<br>Agility |  **0**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🏹 **Fire Crossbow (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 fire damage
-> - **12-16:** 14 fire damage
-> - **17+:** 17 fire damage; A < 3 burning (save ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> 🔳 **Fireball Volley (3 Malice)**
->
-> | **Area, Magic, Ranged** |                         **Main action** |
-> |-------------------------|----------------------------------------:|
-> | **📏 4 cube within 10** | **🎯 Each enemy or object in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 fire damage; A < 1 burning (save ends)
-> - **12-16:** 9 fire damage; A < 2 burning (save ends)
-> - **17+:** 11 fire damage; prone; A < 3 burning (save ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> ⭐️ **Raining Cinders**
->
-> The ranged free strike of each ally within 3 squares of the incendiarist has a distance of 10 and deals fire damage.
-
-> ⭐️ **Infernal Ichor**
->
-> When the incendiarist is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the incendiarist takes 3 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-incendiarist","name":"Hobgoblin Incendiarist","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"5","role":"Platoon Artillery","roleKey":"artillery","ev":"14","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"Fire 5","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Fire Crossbow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"17 fire damage; A \u003c 3 burning (save ends)","low":"9 fire damage","mid":"14 fire damage"}},"sections":[{"label":"Effect","text":"A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round."}]},{"kind":"ability","action":"main","name":"Fireball Volley","cost":"3 Malice","usage":"Main action","keywords":["Area","Magic","Ranged"],"distance":"4 cube within 10","target":"Each enemy or object in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"11 fire damage; prone; A \u003c 3 burning (save ends)","low":"5 fire damage; A \u003c 1 burning (save ends)","mid":"9 fire damage; A \u003c 2 burning (save ends)"}},"sections":[{"label":"Effect","text":"A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round."}]},{"kind":"passive","action":"passive","name":"Raining Cinders","body":"The ranged free strike of each ally within 3 squares of the incendiarist has a distance of 10 and deals fire damage."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the incendiarist is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the incendiarist takes 3 fire damage."}]}
+</script>

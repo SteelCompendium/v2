@@ -26,34 +26,6 @@ type: statblock
 
 ---
 
-|   Animal, Human   |          -          |      Level 1      |     Platoon Mount     |         EV 6         |
-|:-----------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|   **2**<br>Size   |   **5**<br>Speed    | **30**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  |  **+2**<br>Agility  | **-3**<br>Reason  |  **+1**<br>Intuition  |  **-2**<br>Presence  |
-
-> 🗡 **Talons (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage; grabbed
->
-> **2 Malice:** If this ability gains an edge or has a double edge, it deals an extra 2 damage.
-
-> 👤 **Dive (1 Malice)**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The hawk moves up to their speed.
-
-> ⭐️ **Mounted Platform**
->
-> Once per turn when the hawk moves, any creature riding the hawk can make a free strike during or after the movement.
+<script type="application/json" class="sc-statblock-data">
+{"id":"giant-hawk","name":"Giant Hawk","ancestry":"Animal, Human","level":"1","role":"Platoon Mount","roleKey":"mount","ev":"6","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-3"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Talons","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; grabbed","low":"5 damage","mid":"7 damage"}},"enhancements":[{"cost":"2 Malice","text":"If this ability gains an edge or has a double edge, it deals an extra 2 damage."}]},{"kind":"ability","action":"maneuver","name":"Dive","cost":"1 Malice","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The hawk moves up to their speed."}]},{"kind":"passive","action":"passive","name":"Mounted Platform","body":"Once per turn when the hawk moves, any creature riding the hawk can make a free strike during or after the movement."}]}
+</script>

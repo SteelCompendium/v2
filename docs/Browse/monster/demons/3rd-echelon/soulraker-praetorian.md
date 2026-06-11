@@ -28,40 +28,6 @@ weaknesses:
 
 ---
 
-| Abyssal, Demon, Soulraker |         -         |      Level 7      |     Horde Harrier     |           EV 9           |
-|:-------------------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|      **1L**<br>Size       |  **8**<br>Speed   | **45**<br>Stamina |  **0**<br>Stability   |   **3**<br>Free Strike   |
-|     **-**<br>Immunity     | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|      **+2**<br>Might      | **+4**<br>Agility | **+0**<br>Reason  |  **+2**<br>Intuition  |    **+0**<br>Presence    |
-
-> 🗡 **Barbed Stinger (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 2**            | **🎯 One creature** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 7 poison damage; push 2
-> - **12-16:** 10 poison damage; push 2
-> - **17+:** 11 poison damage; push 4; A < 4 grabbed
->
-> **Effect:** The praetorian can shift into each square the target leaves.
-
-> ❗️ **Stinging Departure (2 Malice)**
->
-> | **-**       |           **Triggered action** |
-> |-------------|-------------------------------:|
-> | **📏 Self** | **🎯 The triggering creature** |
->
-> **Trigger:** A creature ends the praetorian's grab.
->
-> **Effect:** The praetorian makes a free strike against the target, breaks off part of their stinger in the target, and shifts up to half their speed. The target is bleeding until they remove the stinger fragment as a free maneuver, taking 6 damage in the process.
-
-> ⭐️ **Lethe**
->
-> While the praetorian is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Praetorian Buzzing**
->
-> Any creature who starts their turn with two or more praetorians adjacent to them takes 6 sonic damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"soulraker-praetorian","name":"Soulraker Praetorian","ancestry":"Abyssal, Demon, Soulraker","level":"7","role":"Horde Harrier","roleKey":"harrier","ev":"9","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"45"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Barbed Stinger","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature","powerRoll":{"formula":"+ 4","tiers":{"high":"11 poison damage; push 4; A \u003c 4 grabbed","low":"7 poison damage; push 2","mid":"10 poison damage; push 2"}},"sections":[{"label":"Effect","text":"The praetorian can shift into each square the target leaves."}]},{"kind":"ability","action":"triggered","name":"Stinging Departure","cost":"2 Malice","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"The triggering creature","sections":[{"label":"Trigger","text":"A creature ends the praetorian's grab."},{"label":"Effect","text":"The praetorian makes a free strike against the target, breaks off part of their stinger in the target, and shifts up to half their speed. The target is bleeding until they remove the stinger fragment as a free maneuver, taking 6 damage in the process."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the praetorian is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Praetorian Buzzing","body":"Any creature who starts their turn with two or more praetorians adjacent to them takes 6 sonic damage."}]}
+</script>

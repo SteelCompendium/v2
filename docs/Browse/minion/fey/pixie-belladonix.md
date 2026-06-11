@@ -25,28 +25,6 @@ weaknesses:
 
 ---
 
-The belladonix are found among the elite guard of fey monarchs and carry themselves like royalty. Their moth-like wings ooze with vibrant colors and are barbed; the poison within threatening to completely shift the reality of their victims.
-
-| Pixie Belladonix | Fey | Minion Artillery | - | 7 essence for two minions |
-|:----------------:|:---:|:----------------:|:-:|:-------------------------:|
-| **1T**<br>Size | **6**<br>Speed | **16 \| 16**<br>Stamina | **0**<br>Stability | **8**<br>Free Strike |
-| **Poison R**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+2**<br>Agility | **+4**<br>Reason | **0**<br>Intuition | **+4**<br>Presence |
-
-> 🏹 **A Thorn, Woe to the Pricked 2d10 + R (Signature Ability)**
->
-> | **Magic, Ranged, Strike** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Ranged 15** | **🎯 One creature or object per minion** |
->
-> 8 poison [damage](../../rule/damage/damage.md); M < WEAK [restrained](../../condition/restrained.md) (save ends)
->
-> 12 poison [damage](../../rule/damage/damage.md); M < AVERAGE [restrained](../../condition/restrained.md) (save ends)
->
-> 17 poison [damage](../../rule/damage/damage.md); M < STRONG [restrained](../../condition/restrained.md) (save ends)
->
-> **Effect:** A target [restrained](../../condition/restrained.md) by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the [condition](../../rule/combat/condition.md) ends.
-
-> ⭐️ **Minuscule**
->
-> The belladonix has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"pixie-belladonix","name":"Pixie Belladonix","ancestry":"Pixie Belladonix","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"8"}],"meta":{"immunity":"Poison R","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+4"}],"features":[{"kind":"ability","action":"main","name":"A Thorn, Woe to the Pricked","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 15","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"17 poison [damage](../../../rule/damage/damage/); M \u003c STRONG [restrained](../../../condition/restrained/) (save ends)","low":"8 poison [damage](../../../rule/damage/damage/); M \u003c WEAK [restrained](../../../condition/restrained/) (save ends)","mid":"12 poison [damage](../../../rule/damage/damage/); M \u003c AVERAGE [restrained](../../../condition/restrained/) (save ends)"}},"sections":[{"label":"Effect","text":"A target [restrained](../../../condition/restrained/) by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the [condition](../../../rule/combat/condition/) ends."}]},{"kind":"passive","action":"passive","name":"Minuscule","body":"The belladonix has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

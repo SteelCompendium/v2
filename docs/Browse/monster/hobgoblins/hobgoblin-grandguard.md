@@ -29,44 +29,6 @@ type: statblock
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -         |      Level 6       |   Platoon Defender    |        EV 16         |
-|:-------------------------------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|             **2**<br>Size             |  **4**<br>Speed   | **111**<br>Stamina |  **4**<br>Stability   | **6**<br>Free Strike |
-|        **Fire 6**<br>Immunity         | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+3**<br>Might            | **+2**<br>Agility |  **+3**<br>Reason  |  **0**<br>Intuition   |  **+2**<br>Presence  |
-
-> 🗡 **Tower Shield Smash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage
-> - **12-16:** 14 damage
-> - **17+:** 17 damage; prone
->
-> **3 Malice:** Each ally adjacent to a prone target can make a free strike against that target.
-
-> 🔳 **Thunder Rush (3 Malice)**
->
-> | **Area, Charge, Weapon**   |                         **Main action** |
-> |----------------------------|----------------------------------------:|
-> | **📏 1 x 2 line within 1** | **🎯 Each enemy or object in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage
->
-> **Effect:** Each target is pushed up to 10 squares in the same direction, and the grandguard shifts into the area left behind by the targets.
-
-> ⭐️ **Wide Guard**
->
-> Any strike made against an ally within 2 squares of the grandguard takes a bane.
-
-> ⭐️ **Infernal Ichor**
->
-> When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-grandguard","name":"Hobgoblin Grandguard","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"6","role":"Platoon Defender","roleKey":"defender","ev":"16","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"111"},{"l":"Stability","v":"4"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"Fire 6","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Tower Shield Smash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"17 damage; prone","low":"9 damage","mid":"14 damage"}},"enhancements":[{"cost":"3 Malice","text":"Each ally adjacent to a prone target can make a free strike against that target."}]},{"kind":"ability","action":"main","name":"Thunder Rush","cost":"3 Malice","usage":"Main action","keywords":["Area","Charge","Weapon"],"distance":"1 x 2 line within 1","target":"Each enemy or object in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"14 damage","low":"6 damage","mid":"11 damage"}},"sections":[{"label":"Effect","text":"Each target is pushed up to 10 squares in the same direction, and the grandguard shifts into the area left behind by the targets."}]},{"kind":"passive","action":"passive","name":"Wide Guard","body":"Any strike made against an ally within 2 squares of the grandguard takes a bane."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the grandguard is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the grandguard takes 3 fire damage."}]}
+</script>

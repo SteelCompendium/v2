@@ -29,26 +29,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-|   Giant, Troll    |         -         |      Level 9      |            Minion Harrier             |     EV 11 for four minions      |
-|:-----------------:|:-----------------:|:-----------------:|:-------------------------------------:|:-------------------------------:|
-|   **2**<br>Size   |  **8**<br>Speed   | **15**<br>Stamina |          **2**<br>Stability           |      **4**<br>Free Strike       |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **+2 bonus to speed**<br>With Captain |  **Acid 5, fire **<br>Weakness  |
-|  **+4**<br>Might  | **+2**<br>Agility |  **0**<br>Reason  |          **+1**<br>Intuition          |       **+1**<br>Presence        |
-
-> 🗡 **Dine and Dash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 damage; the ravager can shift 1 square
-> - **12-16:** 6 damage; the ravager shifts up to 2 squares
-> - **17+:** 8 damage; the ravager shifts up to 3 squares
->
-> **Effect:** The ravager's squad's Stamina pool regains Stamina equal to half the damage dealt.
-
-> ⭐️ **Group Appetite**
->
-> The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.
+<script type="application/json" class="sc-statblock-data">
+{"id":"troll-ravager","name":"Troll Ravager","ancestry":"Giant, Troll","level":"9","role":"Minion Harrier","roleKey":"harrier","ev":"11 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Acid 5, fire","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Dine and Dash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; the ravager shifts up to 3 squares","low":"4 damage; the ravager can shift 1 square","mid":"6 damage; the ravager shifts up to 2 squares"}},"sections":[{"label":"Effect","text":"The ravager's squad's Stamina pool regains Stamina equal to half the damage dealt."}]},{"kind":"passive","action":"passive","name":"Group Appetite","body":"The ravager dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina."}]}
+</script>

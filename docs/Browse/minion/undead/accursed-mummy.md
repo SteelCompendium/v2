@@ -25,28 +25,6 @@ weaknesses:
 
 ---
 
-The preserved dead, bound for eternal rest, know only violence when robbed of their future. Accursed mummies use their wrappings to bind others to the same fate.
-
-| Accursed Mummy | Mummy, Undead | Minion Hexer | - | 5 essence for three minions |
-|:--------------:|:-------------:|:------------:|:-:|:---------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **2**<br>Stability | **3**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **—**<br>Movement | - | **Fire 1**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−1**<br>Agility | **+1**<br>Reason | **+3**<br>Intuition | **−1**<br>Presence |
-
-> 🏹 **Fetid Bindings 2d10 + R (Signature Ability)**
->
-> | **Melee, Strike, Weapon** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Melee R** | **🎯 One creature or object per minion** |
->
-> 3 poison [damage](../../rule/damage/damage.md); pull R
->
-> 4 poison [damage](../../rule/damage/damage.md); pull R + 1
->
-> 6 poison [damage](../../rule/damage/damage.md); pull R + 2
->
-> **Effect:** A target pulled [adjacent](../../rule/combat/adjacent.md) to the mummy is M < STRONG [weakened](../../condition/weakened.md) (EoT).
-
-> ⭐️ **Mummy Dust**
->
-> Whenever the mummy takes [damage](../../rule/damage/damage.md), each enemy [adjacent](../../rule/combat/adjacent.md) to the mummy takes 2 poison [damage](../../rule/damage/damage.md).
+<script type="application/json" class="sc-statblock-data">
+{"id":"accursed-mummy","name":"Accursed Mummy","ancestry":"Accursed Mummy","level":"","role":"Minion Hexer","roleKey":"hexer","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"Fire 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"ability","action":"main","name":"Fetid Bindings","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee R","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"6 poison [damage](../../../rule/damage/damage/); pull R + 2","low":"3 poison [damage](../../../rule/damage/damage/); pull R","mid":"4 poison [damage](../../../rule/damage/damage/); pull R + 1"}},"sections":[{"label":"Effect","text":"A target pulled [adjacent](../../../rule/combat/adjacent/) to the mummy is M \u003c STRONG [weakened](../../../condition/weakened/) (EoT)."}]},{"kind":"passive","action":"passive","name":"Mummy Dust","body":"Whenever the mummy takes [damage](../../../rule/damage/damage/), each enemy [adjacent](../../../rule/combat/adjacent/) to the mummy takes 2 poison [damage](../../../rule/damage/damage/)."}]}
+</script>

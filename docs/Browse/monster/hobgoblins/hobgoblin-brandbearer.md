@@ -30,28 +30,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -         |     Level 4      |                Minion Hexer                 | EV 6 for four minions |
-|:-------------------------------------:|:-----------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|            **1M**<br>Size             |  **5**<br>Speed   | **7**<br>Stamina |             **0**<br>Stability              | **2**<br>Free Strike  |
-|        **Fire 2**<br>Immunity         | **-**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|            **0**<br>Might             | **+1**<br>Agility | **+2**<br>Reason |             **0**<br>Intuition              |  **+3**<br>Presence   |
-
-> 🗡 **Searing Grasp (Signature Ability)**
->
-> | **Magic, Melee, Strike** |                          **Main action** |
-> |--------------------------|-----------------------------------------:|
-> | **📏 Melee 1**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 2 fire damage
-> - **12-16:** 4 fire damage; M < 2 fire weakness 5 (save ends)
-> - **17+:** 6 fire damage; M < 3 fire weakness 5 (save ends)
-
-> ⭐️ **Open Furnace**
->
-> Whenever an enemy takes fire damage, they take 1 extra fire damage for each brandbearer adjacent to them.
-
-> ⭐️ **Infernal Ichor**
->
-> When the brandbearer is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the brandbearer takes 2 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-brandbearer","name":"Hobgoblin Brandbearer","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"4","role":"Minion Hexer","roleKey":"hexer","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Fire 2","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"ability","action":"main","name":"Searing Grasp","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"6 fire damage; M \u003c 3 fire weakness 5 (save ends)","low":"2 fire damage","mid":"4 fire damage; M \u003c 2 fire weakness 5 (save ends)"}}},{"kind":"passive","action":"passive","name":"Open Furnace","body":"Whenever an enemy takes fire damage, they take 1 extra fire damage for each brandbearer adjacent to them."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the brandbearer is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the brandbearer takes 2 fire damage."}]}
+</script>

@@ -29,26 +29,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-|            Undead, Soulless            |         -         |     Level 1      |              Minion Artillery               | EV 3 for four minions |
-|:--------------------------------------:|:-----------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **3**<br>Stamina |             **0**<br>Stability              | **2**<br>Free Strike  |
-| **Corruption 1, poison 1**<br>Immunity | **-**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|             **0**<br>Might             | **+2**<br>Agility | **-2**<br>Reason |             **0**<br>Intuition              |  **-2**<br>Presence   |
-
-> 🏹 **Bone Bow (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
->
-> **Effect:** The decrepit skeleton chooses one other target within distance, who takes 1 damage.
-
-> ⭐️ **Bonetrops**
->
-> When the decrepit skeleton is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy enters this space, the take 1 damage and the effect end.
+<script type="application/json" class="sc-statblock-data">
+{"id":"decrepit-skeleton","name":"Decrepit Skeleton","ancestry":"Undead, Soulless","level":"1","role":"Minion Artillery","roleKey":"artillery","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 1, poison 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Bone Bow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage","low":"2 damage","mid":"4 damage"}},"sections":[{"label":"Effect","text":"The decrepit skeleton chooses one other target within distance, who takes 1 damage."}]},{"kind":"passive","action":"passive","name":"Bonetrops","body":"When the decrepit skeleton is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy enters this space, the take 1 damage and the effect end."}]}
+</script>

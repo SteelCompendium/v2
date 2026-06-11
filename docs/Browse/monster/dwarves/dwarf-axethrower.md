@@ -26,22 +26,6 @@ with_captain: +2 bonus to Stamina
 
 ---
 
-|  Dwarf, Humanoid  |         -         |     Level 1      |             Minion Defender             |  EV 3 for 4 minions  |
-|:-----------------:|:-----------------:|:----------------:|:---------------------------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **7**<br>Stamina |           **2**<br>Stability            | **1**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+2 bonus to Stamina**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+0**<br>Agility | **+0**<br>Reason |           **+2**<br>Intuition           |  **+0**<br>Presence  |
-
-> ⚔️ **Whistling Axes (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 damage
-> - **12-16:** 2 damage
-> - **17+:** 3 damage; one ally adjacent to the target can make a free strike
->
-> **Effect:** The target can't use triggered actions until the start of the next round.
+<script type="application/json" class="sc-statblock-data">
+{"id":"dwarf-axethrower","name":"Dwarf Axethrower","ancestry":"Dwarf, Humanoid","level":"1","role":"Minion Defender","roleKey":"defender","ev":"3 for 4 minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Whistling Axes","cost":"Signature","usage":"Main action","keywords":["Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 damage; one ally adjacent to the target can make a free strike","low":"1 damage","mid":"2 damage"}},"sections":[{"label":"Effect","text":"The target can't use triggered actions until the start of the next round."}]}]}
+</script>

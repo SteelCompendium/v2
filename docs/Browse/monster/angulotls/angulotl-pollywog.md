@@ -28,24 +28,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-|         Angulotl         |              -              |     Level 1      |            Minion Harrier             |  EV 3 for 4 minions  |
-|:------------------------:|:---------------------------:|:----------------:|:-------------------------------------:|:--------------------:|
-|      **1S**<br>Size      |       **6**<br>Speed        | **4**<br>Stamina |          **0**<br>Stability           | **1**<br>Free Strike |
-| **Poison 2**<br>Immunity | **Climb, swim**<br>Movement |        -         | **+2 bonus to speed**<br>With Captain |  **-**<br>Weakness   |
-|     **+0**<br>Might      |      **+2**<br>Agility      | **-2**<br>Reason |          **-2**<br>Intuition          |  **+0**<br>Presence  |
-
-> 🗡 **Nip (Signature Ability)**
->
-> | **Melee, Strike, Weapon**  |                         **Main action** |
-> |----------------------------|----------------------------------------:|
-> | **📏 Melee 1**             |          **🎯 One creature per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 poison damage
-> - **12-16:** 2 poison damage; the pollywog can shift 1 square
-> - **17+:** 3 poison damage; the pollywog shifts up to 3 squares
-
-> ⭐️ **Quick Snack**
->
-> Any angulotl who can target the pollywog with a melee free strike can eat them as a maneuver. The angulotl regains 4 Stamina and is wet until the end of their next turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"angulotl-pollywog","name":"Angulotl Pollywog","ancestry":"Angulotl","level":"1","role":"Minion Harrier","roleKey":"harrier","ev":"3 for 4 minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Poison 2","weakness":"—","movement":"Climb, swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"-2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Nip","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 poison damage; the pollywog shifts up to 3 squares","low":"1 poison damage","mid":"2 poison damage; the pollywog can shift 1 square"}}},{"kind":"passive","action":"passive","name":"Quick Snack","body":"Any angulotl who can target the pollywog with a melee free strike can eat them as a maneuver. The angulotl regains 4 Stamina and is wet until the end of their next turn."}]}
+</script>

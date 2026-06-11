@@ -28,26 +28,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|    Devil, Infernal     |         -         |      Level 5      |                  Minion Brute                  | EV 7 for four minions |
-|:----------------------:|:-----------------:|:-----------------:|:----------------------------------------------:|:---------------------:|
-|     **1M**<br>Size     |  **6**<br>Speed   | **10**<br>Stamina |               **0**<br>Stability               | **3**<br>Free Strike  |
-| **Fire 5**<br>Immunity | **-**<br>Movement |         -         | **+2 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|    **+3**<br>Might     | **+0**<br>Agility | **+1**<br>Reason  |              **+1**<br>Intuition               |  **+2**<br>Presence   |
-
-> 🗡 **Quill Pushing (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage; push 1
-> - **12-16:** 6 damage; push 2
-> - **17+:** 7 damage; push 3
->
-> **Effect:** Any target adjacent to two or more clerks is taunted until the end of their next turn.
-
-> ⭐️ **True Name**
->
-> If a creature within 10 squares speaks the clerk's true name, the clerk loses their fire immunity and any nondamaging effects of their signature ability until the end of the encounter.
+<script type="application/json" class="sc-statblock-data">
+{"id":"devil-clerk","name":"Devil Clerk","ancestry":"Devil, Infernal","level":"5","role":"Minion Brute","roleKey":"brute","ev":"7 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Fire 5","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Quill Pushing","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage; push 3","low":"3 damage; push 1","mid":"6 damage; push 2"}},"sections":[{"label":"Effect","text":"Any target adjacent to two or more clerks is taunted until the end of their next turn."}]},{"kind":"passive","action":"passive","name":"True Name","body":"If a creature within 10 squares speaks the clerk's true name, the clerk loses their fire immunity and any nondamaging effects of their signature ability until the end of the encounter."}]}
+</script>

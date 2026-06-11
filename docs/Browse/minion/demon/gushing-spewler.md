@@ -24,22 +24,6 @@ weaknesses:
 
 ---
 
-A spewler's mouth makes up most of its size. They unleash torrents of acid and bile from their pitless stomachs before consuming their prey with bag-like maws.
-
-| Gushing Spewler | Abyssal, Demon | Minion Controller | - | 5 essence for three minions |
-|:---------------:|:--------------:|:-----------------:|:-:|:---------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **0**<br>Stability | **3**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **Acid**<br>Free Strike Damage Type |
-| **−2**<br>Might | **0**<br>Agility | **−1**<br>Reason | **+3**<br>Intuition | **+3**<br>Presence |
-
-> ⭐️ **Gushing Strike**
->
-> The spewler's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10 and [slides](../../movement/forced-movement.md) the target R + 2 squares.
-
-> ⭐️ **Spew Slide**
->
-> Each time the spewler takes [damage](../../rule/damage/damage.md), the spewler [shifts](../../movement/shifting.md) 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a [bane](../../rule/dice/bane.md) on [strikes](../../rule/combat/strike.md) while occupying a slimed square.
-
-> ⭐️ **Soulsight**
->
-> Each creature [adjacent](../../rule/combat/adjacent.md) to the spewler can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gushing-spewler","name":"Gushing Spewler","ancestry":"Gushing Spewler","level":"","role":"Minion Controller","roleKey":"controller","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"passive","action":"passive","name":"Gushing Strike","body":"The spewler's ranged [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 10 and [slides](../../../movement/forced-movement/) the target R + 2 squares."},{"kind":"passive","action":"passive","name":"Spew Slide","body":"Each time the spewler takes [damage](../../../rule/damage/damage/), the spewler [shifts](../../../movement/shifting/) 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a [bane](../../../rule/dice/bane/) on [strikes](../../../rule/combat/strike/) while occupying a slimed square."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature [adjacent](../../../rule/combat/adjacent/) to the spewler can't be hidden from them."}]}
+</script>

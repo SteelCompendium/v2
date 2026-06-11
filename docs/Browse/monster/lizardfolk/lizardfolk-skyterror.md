@@ -26,44 +26,6 @@ type: statblock
 
 ---
 
-| Humanoid, Lizardfolk |          -           |      Level 1      |    Platoon Harrier    |         EV 6         |
-|:--------------------:|:--------------------:|:-----------------:|:---------------------:|:--------------------:|
-|    **1S**<br>Size    |    **7**<br>Speed    | **30**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|  **-**<br>Immunity   | **Swim**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|   **+1**<br>Might    |  **+2**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Glaive Rush (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage; prone
->
-> **Effect:** If the skyterror is flying, they shift up to 4 squares.
-
-> 🏹 **Poison Blow Dart**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; M < 0 weakened (save ends)
-> - **12-16:** 5 damage; M < 1 weakened (save ends)
-> - **17+:** 7 damage; M < 2 weakened (save ends)
->
-> **Effect:** Any creature who ends their turn adjacent to a target weakened this way is weakened until the end of their next turn.
-
-> ⭐️ **Glider**
->
-> Whenever the skyterror moves 2 or more squares along the ground or falls 2 or more squares, they can fly until the end of their next turn.
-
-> ⭐️ **Reptilian Escape**
->
-> While the skyterror has a tail, whenever they are grabbed, prone, slowed, or weakened, they can lose their tail to immediately end that condition, then shift up to 2 squares.
+<script type="application/json" class="sc-statblock-data">
+{"id":"lizardfolk-skyterror","name":"Lizardfolk Skyterror","ancestry":"Humanoid, Lizardfolk","level":"1","role":"Platoon Harrier","roleKey":"harrier","ev":"6","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"30"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Glaive Rush","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; prone","low":"5 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"If the skyterror is flying, they shift up to 4 squares."}]},{"kind":"ability","action":"main","name":"Poison Blow Dart","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 damage; M \u003c 2 weakened (save ends)","low":"3 damage; M \u003c 0 weakened (save ends)","mid":"5 damage; M \u003c 1 weakened (save ends)"}},"sections":[{"label":"Effect","text":"Any creature who ends their turn adjacent to a target weakened this way is weakened until the end of their next turn."}]},{"kind":"passive","action":"passive","name":"Glider","body":"Whenever the skyterror moves 2 or more squares along the ground or falls 2 or more squares, they can fly until the end of their next turn."},{"kind":"passive","action":"passive","name":"Reptilian Escape","body":"While the skyterror has a tail, whenever they are grabbed, prone, slowed, or weakened, they can lose their tail to immediately end that condition, then shift up to 2 squares."}]}
+</script>

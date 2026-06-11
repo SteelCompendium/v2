@@ -27,44 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |      Level 6      |      Horde Brute      |           EV 8           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|   **2**<br>Size   |  **6**<br>Speed   | **45**<br>Stamina |  **2**<br>Stability   |   **4**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+3**<br>Might  | **+0**<br>Agility | **+2**<br>Reason  |  **+1**<br>Intuition  |    **+2**<br>Presence    |
-
-> 🗡 **Many Maws (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 9 damage
-> - **17+:** 11 damage; grabbed, and the target takes a bane on the Escape Grab maneuver
->
-> **Effect:** Any target grabbed this way takes 4 psychic damage at the start of each of the tormenauk's turns.
-
-> ❇️ **Agony Wail (5 Malice)**
->
-> | **Area, Magic** |                  **Maneuver** |
-> |-----------------|------------------------------:|
-> | **📏 3 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 4 psychic damage; I < 1 dazed (save ends)
-> - **12-16:** 6 psychic damage; I < 2 dazed (save ends)
-> - **17+:** 8 psychic damage; I < 3 dazed (save ends)
->
-> **Effect:** The potency increases by 1 if the target is grabbed by the tormenauk.
-
-> ⭐️ **Lethe**
->
-> While the tormenauk is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the tormenauk can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"tormenauk","name":"Tormenauk","ancestry":"Abyssal, Demon","level":"6","role":"Horde Brute","roleKey":"brute","ev":"8","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"45"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Many Maws","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"11 damage; grabbed, and the target takes a bane on the Escape Grab maneuver","low":"7 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"Any target grabbed this way takes 4 psychic damage at the start of each of the tormenauk's turns."}]},{"kind":"ability","action":"maneuver","name":"Agony Wail","cost":"5 Malice","usage":"Maneuver","keywords":["Area","Magic"],"distance":"3 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"8 psychic damage; I \u003c 3 dazed (save ends)","low":"4 psychic damage; I \u003c 1 dazed (save ends)","mid":"6 psychic damage; I \u003c 2 dazed (save ends)"}},"sections":[{"label":"Effect","text":"The potency increases by 1 if the target is grabbed by the tormenauk."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the tormenauk is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the tormenauk can't be hidden from them."}]}
+</script>

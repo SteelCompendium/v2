@@ -27,26 +27,6 @@ with_captain: +5 bonus to ranged distance
 
 ---
 
-| Fey, High Elf, Humanoid |         -         |     Level 1      |                Minion Controller                | EV 3 for four minions |
-|:-----------------------:|:-----------------:|:----------------:|:-----------------------------------------------:|:---------------------:|
-|     **1M**<br>Size      |  **5**<br>Speed   | **3**<br>Stamina |               **0**<br>Stability                | **1**<br>Free Strike  |
-|    **-**<br>Immunity    | **-**<br>Movement |        -         | **+5 bonus to ranged distance**<br>With Captain |   **-**<br>Weakness   |
-|     **0**<br>Might      | **0**<br>Agility  | **+2**<br>Reason |               **-1**<br>Intuition               |  **+1**<br>Presence   |
-
-> 🏹 **Bright Bolt (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Ranged 5**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 holy damage
-> - **12-16:** 2 holy damage
-> - **17+:** 3 holy damage
->
-> **Effect:** Until the start of the dawn mage's next turn, the target can't hide.
-
-> ⭐️ **Otherworldly Grace**
->
-> At the start of each of their turns, the dawn mage can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"high-elf-dawn-mage","name":"High Elf Dawn Mage","ancestry":"Fey, High Elf, Humanoid","level":"1","role":"Minion Controller","roleKey":"controller","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"-1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Bright Bolt","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 holy damage","low":"1 holy damage","mid":"2 holy damage"}},"sections":[{"label":"Effect","text":"Until the start of the dawn mage's next turn, the target can't hide."}]},{"kind":"passive","action":"passive","name":"Otherworldly Grace","body":"At the start of each of their turns, the dawn mage can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn."}]}
+</script>

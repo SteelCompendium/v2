@@ -24,42 +24,6 @@ type: statblock
 
 ---
 
-|      Animal       |         -         |      Level 1      |      Elite Brute      |        EV 12         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|   **2**<br>Size   |  **5**<br>Speed   | **80**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+2**<br>Agility | **-2**<br>Reason  |  **+1**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Natural Weapon (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 10 damage; M < 1 prone
-> - **17+:** 13 damage; M < 1 prone
-
-> 👤 **Ready to Strike**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The predator assesses their environment or lets loose a threatening roar and gains an edge on their next strike.
-
-> ❗️ **Quick Strike**
->
-> | **Melee, Strike, Weapon** |                     **Triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 The triggering creature or object** |  
->
-> **Trigger:** A creature or object comes within distance.
->
-> **Effect:** The predator makes a free strike against the target. If the predator was hidden from the target, the strike deals an extra 3 damage.
-
-> ⭐️ **Nature's Spirit**
->
-> While outdoors or in a natural environment, the predator can negate a bane on their abilities or turn a double bane into a bane.
+<script type="application/json" class="sc-statblock-data">
+{"id":"predator-a","name":"Predator A","ancestry":"Animal","level":"1","role":"Elite Brute","roleKey":"brute","ev":"12","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"80"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Natural Weapon","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"13 damage; M \u003c 1 prone","low":"7 damage","mid":"10 damage; M \u003c 1 prone"}}},{"kind":"ability","action":"maneuver","name":"Ready to Strike","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The predator assesses their environment or lets loose a threatening roar and gains an edge on their next strike."}]},{"kind":"ability","action":"triggered","name":"Quick Strike","usage":"Triggered action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"The triggering creature or object","sections":[{"label":"Trigger","text":"A creature or object comes within distance."},{"label":"Effect","text":"The predator makes a free strike against the target. If the predator was hidden from the target, the strike deals an extra 3 damage."}]},{"kind":"passive","action":"passive","name":"Nature's Spirit","body":"While outdoors or in a natural environment, the predator can negate a bane on their abilities or turn a double bane into a bane."}]}
+</script>

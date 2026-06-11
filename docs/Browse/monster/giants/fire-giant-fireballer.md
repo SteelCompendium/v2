@@ -28,26 +28,6 @@ with_captain: +3 bonus to speed
 
 ---
 
-|   Fire Giant, Giant    |         -         |      Level 9      |            Minion Harrier             | EV 11 for four minions |
-|:----------------------:|:-----------------:|:-----------------:|:-------------------------------------:|:----------------------:|
-|     **4**<br>Size      |  **7**<br>Speed   | **13**<br>Stamina |          **5**<br>Stability           |  **3**<br>Free Strike  |
-| **Fire 9**<br>Immunity | **-**<br>Movement |         -         | **+3 bonus to speed**<br>With Captain |   **-**<br>Weakness    |
-|    **+4**<br>Might     | **+2**<br>Agility |  **0**<br>Reason  |          **+2**<br>Intuition          |   **+1**<br>Presence   |
-
-> ❇️ **Blazing Leap (Signature Ability)**
->
-> | **Area, Weapon** |                          **Main action** |
-> |------------------|-----------------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy and object in the area** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 2 fire damage
-> - **12-16:** 5 fire damage; push 1
-> - **17+:** 6 fire damage; push 2
->
-> **Effect:** The fireballer can jump up to 4 squares before using this ability.
-
-> ⭐️ **Searing Skin**
->
-> Whenever an adjacent enemy grabs the fireballer or uses a melee ability against them, that enemy takes 5 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"fire-giant-fireballer","name":"Fire Giant Fireballer","ancestry":"Fire Giant, Giant","level":"9","role":"Minion Harrier","roleKey":"harrier","ev":"11 for four minions","defenses":[{"l":"Size","v":"4"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"13"},{"l":"Stability","v":"5"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Fire 9","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Blazing Leap","cost":"Signature","usage":"Main action","keywords":["Area","Weapon"],"distance":"1 burst","target":"Each enemy and object in the area","powerRoll":{"formula":"+ 4","tiers":{"high":"6 fire damage; push 2","low":"2 fire damage","mid":"5 fire damage; push 1"}},"sections":[{"label":"Effect","text":"The fireballer can jump up to 4 squares before using this ability."}]},{"kind":"passive","action":"passive","name":"Searing Skin","body":"Whenever an adjacent enemy grabs the fireballer or uses a melee ability against them, that enemy takes 5 fire damage."}]}
+</script>

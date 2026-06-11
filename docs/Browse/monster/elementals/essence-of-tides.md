@@ -27,50 +27,6 @@ type: statblock
 
 ---
 
-|       Elemental        |          -           |      Level 3      |   Elite Controller    |        EV 20         |
-|:----------------------:|:--------------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size     |    **7**<br>Speed    | **80**<br>Stamina |  **1**<br>Stability   | **5**<br>Free Strike |
-| **Cold 5**<br>Immunity | **Swim**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|    **+2**<br>Might     |  **+0**<br>Agility   | **+1**<br>Reason  |  **-1**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🗡 **Water Wing (Signature Ability)**
->
-> | **Magic, Melee, Strike** |                 **Main action** |
-> |--------------------------|--------------------------------:|
-> | **📏 Melee 1**           | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage; slide 1
-> - **12-16:** 11 damage; slide 2
-> - **17+:** 14 damage; slide 3
->
-> **Effect:** If a target has P < 2, their stability is reduced to 0 and they move 2 additional squares whenever they are force moved (save ends).
-
-> 🏹 **Convocation of Waves**
->
-> | **Magic, Ranged** |                 **Maneuver** |
-> |-------------------|-----------------------------:|
-> | **📏 Ranged 5**   | **🎯 Self or one elemental** |
->
-> **Effect:** Until the start of the essence's next turn, the target has cold immunity 5.
->
-> **3 Malice:** Until the end of the encounter, the ground within 1 square of the target is a pool of water that is difficult terrain. This water extends out behind the target as they move, creating a stream that lasts until the end of the encounter. Any enemy who ends their turn in the stream and has M < 2 is slowed (save ends).
-
-> ❗️ **Sea-Salted Wounds (1 Malice)**
->
-> | **Melee**      | **Triggered action** |
-> |----------------|---------------------:|
-> | **📏 Melee 1** |     **🎯 One enemy** |
->
-> **Trigger:** An ally deals rolled damage to the target.
->
-> **Effect:** The essence makes a free strike against the target.
-
-> ⭐️ **Fickle and Free**
->
-> The essence can't be restrained, slowed, or knocked prone, and they ignore difficult terrain.
-
-> ⭐️ **Water Glide**
->
-> Whenever the essence starts their turn in a space containing water, they can fly until the end of their turn. While flying, the essence doesn't provoke opportunity attacks.
+<script type="application/json" class="sc-statblock-data">
+{"id":"essence-of-tides","name":"Essence of Tides","ancestry":"Elemental","level":"3","role":"Elite Controller","roleKey":"controller","ev":"20","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"80"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Cold 5","weakness":"—","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"-1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Water Wing","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage; slide 3","low":"7 damage; slide 1","mid":"11 damage; slide 2"}},"sections":[{"label":"Effect","text":"If a target has P \u003c 2, their stability is reduced to 0 and they move 2 additional squares whenever they are force moved (save ends)."}]},{"kind":"ability","action":"maneuver","name":"Convocation of Waves","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 5","target":"Self or one elemental","sections":[{"label":"Effect","text":"Until the start of the essence's next turn, the target has cold immunity 5."}],"enhancements":[{"cost":"3 Malice","text":"Until the end of the encounter, the ground within 1 square of the target is a pool of water that is difficult terrain. This water extends out behind the target as they move, creating a stream that lasts until the end of the encounter. Any enemy who ends their turn in the stream and has M \u003c 2 is slowed (save ends)."}]},{"kind":"ability","action":"triggered","name":"Sea-Salted Wounds","cost":"1 Malice","usage":"Triggered action","keywords":["Melee"],"distance":"Melee 1","target":"One enemy","sections":[{"label":"Trigger","text":"An ally deals rolled damage to the target."},{"label":"Effect","text":"The essence makes a free strike against the target."}]},{"kind":"passive","action":"passive","name":"Fickle and Free","body":"The essence can't be restrained, slowed, or knocked prone, and they ignore difficult terrain."},{"kind":"passive","action":"passive","name":"Water Glide","body":"Whenever the essence starts their turn in a space containing water, they can fly until the end of their turn. While flying, the essence doesn't provoke opportunity attacks."}]}
+</script>

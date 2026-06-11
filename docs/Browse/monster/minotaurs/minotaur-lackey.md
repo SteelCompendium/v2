@@ -27,26 +27,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-| Accursed, Humanoid, Minotaur |         -         |      Level 8      |            Minion Harrier             | EV 10 for four minions |
-|:----------------------------:|:-----------------:|:-----------------:|:-------------------------------------:|:----------------------:|
-|        **2**<br>Size         |  **8**<br>Speed   | **13**<br>Stamina |          **2**<br>Stability           |  **3**<br>Free Strike  |
-|      **-**<br>Immunity       | **-**<br>Movement |         -         | **+2 bonus to speed**<br>With Captain |   **-**<br>Weakness    |
-|       **+3**<br>Might        | **+4**<br>Agility |  **0**<br>Reason  |          **+1**<br>Intuition          |   **-1**<br>Presence   |
-
-> 🗡 **Horn Vault (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 2**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 6 damage; slide 1
-> - **17+:** 8 damage; slide 3
->
-> **Effect:** A target who is force moved into an obstacle and has M < 3 is bleeding (save ends).
-
-> ⭐️ **Minotaur Sense**
->
-> The lackey can't obtain less than a tier 2 outcome when making tests to navigate, search, or seek.
+<script type="application/json" class="sc-statblock-data">
+{"id":"minotaur-lackey","name":"Minotaur Lackey","ancestry":"Accursed, Humanoid, Minotaur","level":"8","role":"Minion Harrier","roleKey":"harrier","ev":"10 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"13"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Horn Vault","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; slide 3","low":"3 damage","mid":"6 damage; slide 1"}},"sections":[{"label":"Effect","text":"A target who is force moved into an obstacle and has M \u003c 3 is bleeding (save ends)."}]},{"kind":"passive","action":"passive","name":"Minotaur Sense","body":"The lackey can't obtain less than a tier 2 outcome when making tests to navigate, search, or seek."}]}
+</script>

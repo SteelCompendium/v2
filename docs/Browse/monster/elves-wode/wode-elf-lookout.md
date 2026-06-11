@@ -28,28 +28,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-| Fey, Humanoid, Wode Elf |           -           |     Level 1      |            Minion Support             | EV 3 for four minions |
-|:-----------------------:|:---------------------:|:----------------:|:-------------------------------------:|:---------------------:|
-|     **1M**<br>Size      |    **7**<br>Speed     | **4**<br>Stamina |          **0**<br>Stability           | **1**<br>Free Strike  |
-|    **-**<br>Immunity    | **Climb**<br>Movement |        -         | **+2 bonus to speed**<br>With Captain |   **-**<br>Weakness   |
-|     **0**<br>Might      |   **+2**<br>Agility   | **0**<br>Reason  |          **0**<br>Intuition           |  **+1**<br>Presence   |
-
-> 🏹 **Longbow (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 8**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 damage
-> - **12-16:** 2 damage
-> - **17+:** 3 damage
-
-> ⭐️ **There!**
->
-> Any wode elf within 5 squares of the lookout can make ranged strikes as if occupying the lookout's space.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the lookout that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-lookout","name":"Wode Elf Lookout","ancestry":"Fey, Humanoid, Wode Elf","level":"1","role":"Minion Support","roleKey":"support","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Longbow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 8","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 damage","low":"1 damage","mid":"2 damage"}}},{"kind":"passive","action":"passive","name":"There!","body":"Any wode elf within 5 squares of the lookout can make ranged strikes as if occupying the lookout's space."},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the lookout that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

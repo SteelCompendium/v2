@@ -27,46 +27,6 @@ type: statblock
 
 ---
 
-|          Elemental          |          -          |      Level 3       |     Elite Harrier     |        EV 20         |
-|:---------------------------:|:-------------------:|:------------------:|:---------------------:|:--------------------:|
-|       **1S**<br>Size        |   **8**<br>Speed    | **100**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Lightning 5**<br>Immunity | **Fly**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **+1**<br>Might       |  **+2**<br>Agility  |  **-1**<br>Reason  |  **+0**<br>Intuition  |  **+2**<br>Presence  |
-
-> ❇️ **Bluster (Signature Ability)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 1 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 5 damage, 4 lightning damage; push 1
-> - **17+:** 5 damage, 7 lightning damage; push 3
->
-> **Effect:** The essence shifts up to 3 squares before or after using this ability.
-
-> 🏹 **Convocation of Squalls**
->
-> | **Magic, Ranged** |                 **Maneuver** |
-> |-------------------|-----------------------------:|
-> | **📏 Ranged 5**   | **🎯 Self or one elemental** |
->
-> **Effect:** Until the start of the essence's next turn, the target has lightning immunity 5.
->
-> **3 Malice:** Until the end of the encounter, a vortex surrounds the target in a 3 aura. The area is difficult terrain for enemies. Additionally, at the end of each of the target's turns, they can push one creature in the area up to 5 squares.
-
-> ❗️ **Thunderclap (1 Malice)**
->
-> | **Magic, Ranged** |           **Triggered action** |
-> |-------------------|-------------------------------:|
-> | **📏 Ranged 5**   | **🎯 The triggering creature** |
->
-> **Trigger:** A creature within distance deals damage to the essence.
->
-> **Effect:** The target takes 5 lightning damage.
-
-> ⭐️ **Fickle and Free**
->
-> The essence can't be restrained, slowed, or knocked prone, and they ignore difficult terrain.
+<script type="application/json" class="sc-statblock-data">
+{"id":"essence-of-storms","name":"Essence of Storms","ancestry":"Elemental","level":"3","role":"Elite Harrier","roleKey":"harrier","ev":"20","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"100"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Lightning 5","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Bluster","cost":"Signature","usage":"Main action","keywords":["Area","Magic"],"distance":"1 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage, 7 lightning damage; push 3","low":"5 damage","mid":"5 damage, 4 lightning damage; push 1"}},"sections":[{"label":"Effect","text":"The essence shifts up to 3 squares before or after using this ability."}]},{"kind":"ability","action":"maneuver","name":"Convocation of Squalls","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 5","target":"Self or one elemental","sections":[{"label":"Effect","text":"Until the start of the essence's next turn, the target has lightning immunity 5."}],"enhancements":[{"cost":"3 Malice","text":"Until the end of the encounter, a vortex surrounds the target in a 3 aura. The area is difficult terrain for enemies. Additionally, at the end of each of the target's turns, they can push one creature in the area up to 5 squares."}]},{"kind":"ability","action":"triggered","name":"Thunderclap","cost":"1 Malice","usage":"Triggered action","keywords":["Magic","Ranged"],"distance":"Ranged 5","target":"The triggering creature","sections":[{"label":"Trigger","text":"A creature within distance deals damage to the essence."},{"label":"Effect","text":"The target takes 5 lightning damage."}]},{"kind":"passive","action":"passive","name":"Fickle and Free","body":"The essence can't be restrained, slowed, or knocked prone, and they ignore difficult terrain."}]}
+</script>

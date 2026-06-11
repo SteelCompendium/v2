@@ -28,40 +28,6 @@ type: statblock
 
 ---
 
-|            Undead, Soulless            |         -         |      Level 1      |      Horde Brute      |         EV 3         |
-|:--------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **20**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-| **Corruption 1, poison 1**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+2**<br>Might             | **+1**<br>Agility | **-5**<br>Reason  |  **-2**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Clobber and Clutch (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 6 damage
-> - **17+:** 7 damage; grabbed
->
-> **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect.
-
-> ❇️ **Zombie Dust (3 Malice)**
->
-> | **Area**       |                  **Maneuver** |
-> |----------------|------------------------------:|
-> | **📏 2 burst** | **🎯 Each enemy in the area** |
->
-> **Effect:** The zombie falls prone, expelling a wave of rot and dust.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 corruption damage
-> - **12-16:** 3 corruption damage; M < 1 weakened (save ends)
-> - **17+:** 4 corruption damage; M < 2 dazed (save ends)
-
-> ⭐️ **Endless Knight**
->
-> The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone.
+<script type="application/json" class="sc-statblock-data">
+{"id":"zombie","name":"Zombie","ancestry":"Undead, Soulless","level":"1","role":"Horde Brute","roleKey":"brute","ev":"3","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 1, poison 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-5"},{"l":"Intuition","k":"I","v":"-2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Clobber and Clutch","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 damage; grabbed","low":"4 damage","mid":"6 damage"}},"sections":[{"label":"Effect","text":"A target who starts their turn grabbed by the zombie takes 2 corruption damage. A creature who takes 5 or more corruption damage this way becomes insatiably hungry for flesh, and must complete the Find a Cure downtime project in Draw Steel: Heroes to end this effect."}]},{"kind":"ability","action":"maneuver","name":"Zombie Dust","cost":"3 Malice","usage":"Maneuver","keywords":["Area"],"distance":"2 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"4 corruption damage; M \u003c 2 dazed (save ends)","low":"2 corruption damage","mid":"3 corruption damage; M \u003c 1 weakened (save ends)"}},"sections":[{"label":"Effect","text":"The zombie falls prone, expelling a wave of rot and dust."}]},{"kind":"passive","action":"passive","name":"Endless Knight","body":"The first time the zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 10 Stamina and fall prone."}]}
+</script>

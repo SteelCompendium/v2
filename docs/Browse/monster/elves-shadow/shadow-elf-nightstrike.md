@@ -28,26 +28,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Fey, Humanoid, Shadow Elf |           -           |     Level 4      |               Minion Ambusher               | EV 6 for four minions |
-|:-------------------------:|:---------------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **8**<br>Stamina |             **0**<br>Stability              | **3**<br>Free Strike  |
-|     **-**<br>Immunity     | **Climb**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|      **+1**<br>Might      |   **+3**<br>Agility   | **0**<br>Reason  |             **+1**<br>Intuition             |   **0**<br>Presence   |
-
-> 🗡 **Vault (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** The nightstrike shifts to leap over the target and into an unoccupied space adjacent to the target, opposite from the nightstrike's original space.
-
-> ⭐️ **Of the Umbra**
->
-> The nightstrike ignores concealment created by darkness. While the nightstrike is in direct sunlight, they have damage weakness 3. While the nightstrike has concealment, they have damage immunity 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shadow-elf-nightstrike","name":"Shadow Elf Nightstrike","ancestry":"Fey, Humanoid, Shadow Elf","level":"4","role":"Minion Ambusher","roleKey":"ambusher","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Vault","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"The nightstrike shifts to leap over the target and into an unoccupied space adjacent to the target, opposite from the nightstrike's original space."}]},{"kind":"passive","action":"passive","name":"Of the Umbra","body":"The nightstrike ignores concealment created by darkness. While the nightstrike is in direct sunlight, they have damage weakness 3. While the nightstrike has concealment, they have damage immunity 3."}]}
+</script>

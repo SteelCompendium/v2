@@ -25,28 +25,6 @@ weaknesses:
 
 ---
 
-It's difficult to identify the base nature of a vicisittante apart from an ever-changing mass of burning flesh. Any surface they touch immediately scars as the demon leaves parts of themselves behind.
-
-| Vicisittante | Abyssal, Demon | Minion Harrier | - | 7 essence for two minions |
-|:------------:|:--------------:|:--------------:|:-:|:-------------------------:|
-| **2**<br>Size | **10**<br>Speed | **17 \| 17**<br>Stamina | **0**<br>Stability | **7**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **Psychic**<br>Free Strike Damage Type |
-| **+3**<br>Might | **+4**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **−1**<br>Presence |
-
-> 🏹 **Cerebral Flay 2d10 + R (Signature Ability)**
->
-> | **Melee, Psionic, Strike** | **Main action** |
-> |----------------------------|----------------:|
-> | **📏 Melee 1** | **🎯 One creature or object per minion** |
->
-> 7 psychic [damage](../../rule/damage/damage.md); P < WEAK [weakened](../../condition/weakened.md) (save ends)
->
-> 11 psychic [damage](../../rule/damage/damage.md); P < AVERAGE [weakened](../../condition/weakened.md) (save ends)
->
-> 16 psychic [damage](../../rule/damage/damage.md); P < STRONG [weakened](../../condition/weakened.md) (save ends)
->
-> **Effect:** A target [weakened](../../condition/weakened.md) by this ability is always considered [flanked](../../rule/combat/flanking.md) by the vicisittante regardless of position until the [condition](../../rule/combat/condition.md) ends.
-
-> ⭐️ **Soulsight**
->
-> Each creature [adjacent](../../rule/combat/adjacent.md) to the vicisittante can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"vicisittante","name":"Vicisittante","ancestry":"Vicisittante","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"10"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"ability","action":"main","name":"Cerebral Flay","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"16 psychic [damage](../../../rule/damage/damage/); P \u003c STRONG [weakened](../../../condition/weakened/) (save ends)","low":"7 psychic [damage](../../../rule/damage/damage/); P \u003c WEAK [weakened](../../../condition/weakened/) (save ends)","mid":"11 psychic [damage](../../../rule/damage/damage/); P \u003c AVERAGE [weakened](../../../condition/weakened/) (save ends)"}},"sections":[{"label":"Effect","text":"A target [weakened](../../../condition/weakened/) by this ability is always considered [flanked](../../../rule/combat/flanking/) by the vicisittante regardless of position until the [condition](../../../rule/combat/condition/) ends."}]},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature [adjacent](../../../rule/combat/adjacent/) to the vicisittante can't be hidden from them."}]}
+</script>

@@ -30,24 +30,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Abyssal, Demon, Soulraker |          -          |      Level 7      |               Minion Harrier                |  EV 9 for four minions   |
-|:-------------------------:|:-------------------:|:-----------------:|:-------------------------------------------:|:------------------------:|
-|      **1M**<br>Size       |   **7**<br>Speed    | **12**<br>Stamina |             **0**<br>Stability              |   **3**<br>Free Strike   |
-|     **-**<br>Immunity     | **Fly**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|      **+2**<br>Might      |  **+4**<br>Agility  | **+1**<br>Reason  |             **+0**<br>Intuition             |    **-1**<br>Presence    |
-
-> 🗡 **Soul Stinger (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                **Main action** |
-> |---------------------------|-------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 3 poison damage
-> - **12-16:** 6 poison damage; the scout can shift 1 square
-> - **17+:** 7 poison damage; the scout shifts up to 3 squares
-
-> ⭐️ **Abyssal Buzzing**
->
-> Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"soulraker-scout","name":"Soulraker Scout","ancestry":"Abyssal, Demon, Soulraker","level":"7","role":"Minion Harrier","roleKey":"harrier","ev":"9 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"12"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Soul Stinger","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"7 poison damage; the scout shifts up to 3 squares","low":"3 poison damage","mid":"6 poison damage; the scout can shift 1 square"}}},{"kind":"passive","action":"passive","name":"Abyssal Buzzing","body":"Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage."}]}
+</script>

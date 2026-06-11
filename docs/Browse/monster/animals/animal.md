@@ -24,34 +24,6 @@ type: statblock
 
 ---
 
-|      Animal       |         -         |      Level 1      |     Elite Harrier     |        EV 12         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **6**<br>Speed   | **60**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+0**<br>Might  | **+2**<br>Agility | **-2**<br>Reason  |  **+1**<br>Intuition  |  **-2**<br>Presence  |
-
-> 🗡 **Natural Weapon (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage
->
-> **Effect:** The animal shifts up to 2 squares between strikes.
-
-> 👤 **Rush**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The animal moves up to their speed.
-
-> ⭐️ **Nature's Spirit**
->
-> While outdoors or in a natural environment, the animal can negate a bane on their abilities or turn a double bane into a bane.
+<script type="application/json" class="sc-statblock-data">
+{"id":"animal","name":"Animal","ancestry":"Animal","level":"1","role":"Elite Harrier","roleKey":"harrier","ev":"12","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Natural Weapon","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage","low":"6 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"The animal shifts up to 2 squares between strikes."}]},{"kind":"ability","action":"maneuver","name":"Rush","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The animal moves up to their speed."}]},{"kind":"passive","action":"passive","name":"Nature's Spirit","body":"While outdoors or in a natural environment, the animal can negate a bane on their abilities or turn a double bane into a bane."}]}
+</script>

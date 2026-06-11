@@ -30,46 +30,6 @@ weaknesses:
 
 ---
 
-|             Mummy, Undead              |         -         |      Level 4      |      Horde Brute      |           EV 6           |
-|:--------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **50**<br>Stamina |  **2**<br>Stability   |   **3**<br>Free Strike   |
-| **Corruption 4, poison 4**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Fire 5**<br>Weakness  |
-|            **+3**<br>Might             | **-1**<br>Agility | **+1**<br>Reason  |  **+3**<br>Intuition  |    **0**<br>Presence     |
-
-> 🗡 **Accursed Bindings (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 3**            | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 6 corruption damage; pull 1
-> - **12-16:** 8 corruption damage; pull 2
-> - **17+:** 10 corruption damage; pull 2; M < 3 restrained (save ends)
->
-> **Effect:** The next ability the mummy uses against the target has any potency increased by 1 for the target.
-
-> 🏹 **Eldritch Curse (3 Malice)**
->
-> | **Magic, Ranged** |     **Main action** |
-> |-------------------|--------------------:|
-> | **📏 Ranged 10**  | **🎯 One creature** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 corruption damage; I < 1 the target is cursed (save ends)
-> - **12-16:** 5 corruption damage; I < 2 the target is cursed (save ends)
-> - **17+:** 7 corruption damage; I < 3 the target is cursed (save ends)
->
-> **Effect:** A cursed target is bleeding and weakened, and allies gain an edge on strikes made against them.
-
-> ❗️ **Blast of Mummy Dust (1 Malice)**
->
-> | **Area**       |           **Triggered action** |
-> |----------------|-------------------------------:|
-> | **📏 1 burst** | **🎯 The triggering creature** |
->
-> **Trigger:** The mummy comes within distance of a restrained creature or starts their turn within distance of one.
->
-> **Effect:** The target takes 8 poison damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"mummy","name":"Mummy","ancestry":"Mummy, Undead","level":"4","role":"Horde Brute","roleKey":"brute","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"Fire 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"-1"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Accursed Bindings","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 3","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"10 corruption damage; pull 2; M \u003c 3 restrained (save ends)","low":"6 corruption damage; pull 1","mid":"8 corruption damage; pull 2"}},"sections":[{"label":"Effect","text":"The next ability the mummy uses against the target has any potency increased by 1 for the target."}]},{"kind":"ability","action":"main","name":"Eldritch Curse","cost":"3 Malice","usage":"Main action","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"One creature","powerRoll":{"formula":"+ 3","tiers":{"high":"7 corruption damage; I \u003c 3 the target is cursed (save ends)","low":"3 corruption damage; I \u003c 1 the target is cursed (save ends)","mid":"5 corruption damage; I \u003c 2 the target is cursed (save ends)"}},"sections":[{"label":"Effect","text":"A cursed target is bleeding and weakened, and allies gain an edge on strikes made against them."}]},{"kind":"ability","action":"triggered","name":"Blast of Mummy Dust","cost":"1 Malice","usage":"Triggered action","keywords":["Area"],"distance":"1 burst","target":"The triggering creature","sections":[{"label":"Trigger","text":"The mummy comes within distance of a restrained creature or starts their turn within distance of one."},{"label":"Effect","text":"The target takes 8 poison damage."}]}]}
+</script>

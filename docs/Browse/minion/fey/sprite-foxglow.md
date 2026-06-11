@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-Foxglows are masked sprites that leave behind an evanescent trail of tiny glowing orbs as they fly. They beat their wings at a frequency that completely blocks out all nearby noise.
-
-| Sprite Foxglow | Fey | Minion Ambusher | - | 5 essence for three minions |
-|:--------------:|:---:|:---------------:|:-:|:---------------------------:|
-| **1T**<br>Size | **8**<br>Speed | **5 \| 5 \| 5**<br>Stamina | **0**<br>Stability | **4**<br>Free Strike |
-| **Fire R**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **Fire**<br>Free Strike Damage Type |
-| **−1**<br>Might | **+3**<br>Agility | **0**<br>Reason | **+1**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Flash Strike**
->
-> The foxglow's melee [strikes](../../rule/combat/strike.md) inflict I < STRONG [dazed](../../condition/dazed.md) (EoT) if they were hidden when they make the [strike](../../rule/combat/strike.md).
-
-> ⭐️ **Quiet Flight**
->
-> The area within 2 squares of the foxglow is completely silent. Each enemy has a [bane](../../rule/dice/bane.md) on [tests](../../rule/test/test.md) made to search for the foxglow and allies hidden in the affected area.
-
-> ⭐️ **Minuscule**
->
-> The foxglow has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"sprite-foxglow","name":"Sprite Foxglow","ancestry":"Sprite Foxglow","level":"","role":"Minion Ambusher","roleKey":"ambusher","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Fire R","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Flash Strike","body":"The foxglow's melee [strikes](../../../rule/combat/strike/) inflict I \u003c STRONG [dazed](../../../condition/dazed/) (EoT) if they were hidden when they make the [strike](../../../rule/combat/strike/)."},{"kind":"passive","action":"passive","name":"Quiet Flight","body":"The area within 2 squares of the foxglow is completely silent. Each enemy has a [bane](../../../rule/dice/bane/) on [tests](../../../rule/test/test/) made to search for the foxglow and allies hidden in the affected area."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The foxglow has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

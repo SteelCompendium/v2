@@ -25,44 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 5       |      Elite Brute      |        EV 28         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **160**<br>Stamina |  **3**<br>Stability   | **7**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+3**<br>Might  | **+2**<br>Agility |  **0**<br>Reason   |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> 🗡 **Thunderous Slam (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 10 damage; push 2
-> - **12-16:** 15 damage; push 3
-> - **17+:** 18 damage; push 4
->
-> **2 Malice:** Each target who has M < 2 is slowed (save ends).
-
-> 🗡 **Roughed Up (3 Malice)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 11 damage; M < 1 grabbed
-> - **12-16:** 16 damage; M < 2 grabbed
-> - **17+:** 21 damage; M < 3 grabbed
->
-> **Effect:** The target must be the fury's size or smaller. While the target is grabbed this way, the fury and their allies gain an edge on strikes against them.
-
-> ⭐️ **Overpower**
->
-> Once per turn, when the fury force moves a creature or object, or shifts adjacent to a creature or object, they can use a signature ability against that creature or object.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the fury chooses one creature within their line of effect. Both the fury and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-fury","name":"Rival Fury","ancestry":"Humanoid, Rival","level":"5","role":"Elite Brute","roleKey":"brute","ev":"28","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"160"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Thunderous Slam","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"18 damage; push 4","low":"10 damage; push 2","mid":"15 damage; push 3"}},"enhancements":[{"cost":"2 Malice","text":"Each target who has M \u003c 2 is slowed (save ends)."}]},{"kind":"ability","action":"main","name":"Roughed Up","cost":"3 Malice","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature","powerRoll":{"formula":"+ 3","tiers":{"high":"21 damage; M \u003c 3 grabbed","low":"11 damage; M \u003c 1 grabbed","mid":"16 damage; M \u003c 2 grabbed"}},"sections":[{"label":"Effect","text":"The target must be the fury's size or smaller. While the target is grabbed this way, the fury and their allies gain an edge on strikes against them."}]},{"kind":"passive","action":"passive","name":"Overpower","body":"Once per turn, when the fury force moves a creature or object, or shifts adjacent to a creature or object, they can use a signature ability against that creature or object."},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the fury chooses one creature within their line of effect. Both the fury and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

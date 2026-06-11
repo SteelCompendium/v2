@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-The silks are akin to baby spiders ballooning through the air on strands of webbing. They spin silk from their legs as they fly, eventually turning huge swaths of the environment into tangled web mazes.
-
-| Dancing Silk | Elemental (Earth, Air, Green) | Minion Controller | - | 5 essence for three minions |
-|:------------:|:-----------------------------:|:-----------------:|:-:|:---------------------------:|
-| **1T**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **0**<br>Stability | **3**<br>Free Strike |
-| **Poison R**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−1**<br>Might | **+2**<br>Agility | **+3**<br>Reason | **0**<br>Intuition | **−1**<br>Presence |
-
-> ⭐️ **Entangling Strike**
->
-> The silk's ranged [free strikes](../../feature/common/main-actions/free-strike.md) inflict A < AVERAGE [restrained](../../condition/restrained.md) (EoT). Each creature [adjacent](../../rule/combat/adjacent.md) to the target is A < WEAK [slowed](../../condition/slowed.md) (EoT).
-
-> ⭐️ **Web** 1 Essence
->
-> When the silk is reduced to 0 [Stamina](../../rule/health/stamina.md), they launch ribbons of webbing into an area equal to their [size](../../rule/character/size.md) + 1 within 5 before being destroyed. The affected area is considered [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../rule/combat/turn.md) in the webbing is M < STRONG [slowed](../../condition/slowed.md) (EoT).
+<script type="application/json" class="sc-statblock-data">
+{"id":"dancing-silk","name":"Dancing Silk","ancestry":"Dancing Silk","level":"","role":"Minion Controller","roleKey":"controller","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Poison R","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Entangling Strike","body":"The silk's ranged [free strikes](../../../feature/common/main-actions/free-strike/) inflict A \u003c AVERAGE [restrained](../../../condition/restrained/) (EoT). Each creature [adjacent](../../../rule/combat/adjacent/) to the target is A \u003c WEAK [slowed](../../../condition/slowed/) (EoT)."}]}
+</script>

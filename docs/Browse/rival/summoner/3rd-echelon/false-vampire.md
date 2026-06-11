@@ -27,16 +27,6 @@ weaknesses:
 
 ---
 
-| — | Undead | Minion Brute | - | 6 Malice for two minions |
-|:-:|:------:|:------------:|:-:|:------------------------:|
-| **1L**<br>Size | **6**<br>Speed | **22 \| 22**<br>Stamina | **2**<br>Stability | **8**<br>Free Strike |
-| **Corruption 4, poison 4**<br>Immunity | **Climb**<br>Movement | - | **—**<br>Weakness | **Acid**<br>Free Strike Damage Type |
-| **+4**<br>Might | **+2**<br>Agility | **+4**<br>Reason | **+1**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Proboscis Strike**
->
-> The false vampire's melee [free strikes](../../../feature/common/main-actions/free-strike.md) have a distance of 2 and inflict M < 3 [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md)). The false vampire can move the target while they are [restrained](../../../condition/restrained.md) this way. At the start of a [restrained](../../../condition/restrained.md) creature's turn, they take 4 acid damage.
-
-> ⭐️ **Bloodthirsty**
->
-> The false vampire has a [speed](../../../rule/character/speed.md) of 10 while a creature is [bleeding](../../../condition/bleeding.md) within 10.
+<script type="application/json" class="sc-statblock-data">
+{"id":"false-vampire","name":"False Vampire","ancestry":"—","level":"","role":"Minion Brute","roleKey":"brute","ev":"","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"8"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Proboscis Strike","body":"The false vampire's melee [free strikes](../../../../feature/common/main-actions/free-strike/) have a distance of 2 and inflict M \u003c 3 [restrained](../../../../condition/restrained/) ([EoT](../../../../rule/combat/end-of-turn/)). The false vampire can move the target while they are [restrained](../../../../condition/restrained/) this way. At the start of a [restrained](../../../../condition/restrained/) creature's turn, they take 4 acid damage."},{"kind":"passive","action":"passive","name":"Bloodthirsty","body":"The false vampire has a [speed](../../../../rule/character/speed/) of 10 while a creature is [bleeding](../../../../condition/bleeding/) within 10."}]}
+</script>

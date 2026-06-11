@@ -25,36 +25,6 @@ type: statblock
 
 ---
 
-|  Animal, Goblin   |         -         |      Level 1      |      Horde Mount      |         EV 3         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1L**<br>Size   |  **5**<br>Speed   | **15**<br>Stamina |  **1**<br>Stability   | **1**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+2**<br>Agility | **-1**<br>Reason  |  **0**<br>Intuition   |  **-1**<br>Presence  |
-
-> 🗡 **Bite (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
-
-> 👤 **Sprint (1 Malice)**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The worg moves up to their speed.
-
-> ⭐️ **Mounted Charger**
->
-> If a worg used as a mount charges, their rider gains an edge on melee strikes until the end of the rider's turn.
-
-> ⭐️ **Shared Craft**
->
-> If the worg's rider has the Crafty trait, the worg also has that trait.
+<script type="application/json" class="sc-statblock-data">
+{"id":"worg","name":"Worg","ancestry":"Animal, Goblin","level":"1","role":"Horde Mount","roleKey":"mount","ev":"3","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Bite","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage","low":"3 damage","mid":"4 damage"}}},{"kind":"ability","action":"maneuver","name":"Sprint","cost":"1 Malice","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The worg moves up to their speed."}]},{"kind":"passive","action":"passive","name":"Mounted Charger","body":"If a worg used as a mount charges, their rider gains an edge on melee strikes until the end of the rider's turn."},{"kind":"passive","action":"passive","name":"Shared Craft","body":"If the worg's rider has the Crafty trait, the worg also has that trait."}]}
+</script>

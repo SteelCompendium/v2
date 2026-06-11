@@ -24,50 +24,6 @@ type: statblock
 
 ---
 
-|      Animal       |         -         |      Level 3       |      Elite Brute      |        EV 16         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|   **3**<br>Size   |  **5**<br>Speed   | **100**<br>Stamina |  **2**<br>Stability   | **5**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+1**<br>Agility |  **-1**<br>Reason  |  **+1**<br>Intuition  |  **+0**<br>Presence  |
-
-> 🗡 **Natural Weapon (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 2**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage; push 1; M < 1 prone
-> - **17+:** 14 damage; push 2; M < 1 prone
-
-> ❇️ **Wild Swing**
->
-> | **Area, Weapon** |                         **Main action** |
-> |------------------|----------------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy or object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 6 damage
-> - **17+:** 8 damage; A < 2 bleeding (save ends)
-
-> ❗️ **Swat**
->
-> | **Melee**      |                     **Triggered action** |
-> |----------------|-----------------------------------------:|
-> | **📏 Melee 1** | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object within distance deals damage to the predator.
->
-> **Effect:** The target is pushed up to 5 squares.
-
-> ⭐️ **Trample**
->
-> The predator can move through enemies' and objects' spaces at their usual speed. Any mundane size 2 or smaller object whose space they move through is destroyed. When the predator enters a creature's space for the first time on a turn, that creature takes 3 damage.
-
-> ⭐️ **Nature's Spirit**
->
-> While outdoors or in a natural environment, the predator can negate a bane on their abilities or turn a double bane into a bane.
+<script type="application/json" class="sc-statblock-data">
+{"id":"predator-b","name":"Predator B","ancestry":"Animal","level":"3","role":"Elite Brute","roleKey":"brute","ev":"16","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"100"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Natural Weapon","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage; push 2; M \u003c 1 prone","low":"7 damage","mid":"11 damage; push 1; M \u003c 1 prone"}}},{"kind":"ability","action":"main","name":"Wild Swing","usage":"Main action","keywords":["Area","Weapon"],"distance":"1 burst","target":"Each enemy or object in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"8 damage; A \u003c 2 bleeding (save ends)","low":"3 damage","mid":"6 damage"}}},{"kind":"ability","action":"triggered","name":"Swat","usage":"Triggered action","keywords":["Melee"],"distance":"Melee 1","target":"The triggering creature or object","sections":[{"label":"Trigger","text":"A creature or object within distance deals damage to the predator."},{"label":"Effect","text":"The target is pushed up to 5 squares."}]},{"kind":"passive","action":"passive","name":"Trample","body":"The predator can move through enemies' and objects' spaces at their usual speed. Any mundane size 2 or smaller object whose space they move through is destroyed. When the predator enters a creature's space for the first time on a turn, that creature takes 3 damage."},{"kind":"passive","action":"passive","name":"Nature's Spirit","body":"While outdoors or in a natural environment, the predator can negate a bane on their abilities or turn a double bane into a bane."}]}
+</script>

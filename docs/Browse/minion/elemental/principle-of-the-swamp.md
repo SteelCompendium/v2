@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-The manes of these equine sludge dwellers extend and hook into things like strong, fraying arms. This allows the principle of the swamp to either pull themselves onto dry land, or pull their prey into the dank depths.
-
-| Principle of the Swamp | Elemental (Green, Water, Rot) | Minion Brute | - | 5 essence for three minions |
-|:----------------------:|:-----------------------------:|:------------:|:-:|:---------------------------:|
-| **2**<br>Size | **4**<br>Speed | **5 \| 5 \| 5**<br>Stamina | **R**<br>Stability | **4**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **Swim**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+3**<br>Might | **−2**<br>Agility | **0**<br>Reason | **+2**<br>Intuition | **−2**<br>Presence |
-
-> ⭐️ **Encroaching Strike**
->
-> The principle's melee [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of R and inflict M < STRONG [grabbed](../../condition/grabbed.md). The principle can have an unlimited number of creatures or objects [grabbed](../../condition/grabbed.md). A creature [grabbed](../../condition/grabbed.md) by this [strike](../../rule/combat/strike.md) still has their normal [speed](../../rule/character/speed.md), but can't move farther away from the principle.
-
-> ⭐️ **Sludgefoot** 1 Essence
->
-> When the principle is reduced to 0 [Stamina](../../rule/health/stamina.md), the area within 1 square of the principle becomes [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../rule/combat/turn.md) in the affected area is pulled 4 toward the center of the area.
+<script type="application/json" class="sc-statblock-data">
+{"id":"principle-of-the-swamp","name":"Principle of the Swamp","ancestry":"Principle of the Swamp","level":"","role":"Minion Brute","roleKey":"brute","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Encroaching Strike","body":"The principle's melee [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of R and inflict M \u003c STRONG [grabbed](../../../condition/grabbed/). The principle can have an unlimited number of creatures or objects [grabbed](../../../condition/grabbed/). A creature [grabbed](../../../condition/grabbed/) by this [strike](../../../rule/combat/strike/) still has their normal [speed](../../../rule/character/speed/), but can't move farther away from the principle."}]}
+</script>

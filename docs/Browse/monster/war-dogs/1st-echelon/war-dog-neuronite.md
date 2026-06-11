@@ -29,40 +29,6 @@ type: statblock
 
 ---
 
-| Humanoid, Soulless, War Dog |          -          |      Level 1      |    Horde Defender     |         EV 3         |
-|:---------------------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|       **1M**<br>Size        |   **5**<br>Speed    | **20**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-|  **Psychic 2**<br>Immunity  | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **0**<br>Might        |  **+1**<br>Agility  |  **0**<br>Reason  |  **0**<br>Intuition   |  **+2**<br>Presence  |
-
-> ❇️ **Synlirii Grafts (Signature Ability)**
->
-> | **Area, Psionic** |               **Main action** |
-> |-------------------|------------------------------:|
-> | **📏 1 burst**    | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 psychic damage; vertical slide 1
-> - **12-16:** 2 psychic damage; vertical slide 2
-> - **17+:** 3 psychic damage; vertical slide 3
-
-> 🏹 **Posthumous Promotion**
->
-> | **Magic, Ranged** |       **Maneuver** |
-> |-------------------|-------------------:|
-> | **📏 Ranged 10**  | **🎯 One war dog** |
->
-> **Effect:** If the target has a loyalty collar, they are reduced to 0 Stamina.
-
-> ❇️ **The Voice (1 Malice)**
->
-> | **Area, Psionic** |                  **Maneuver** |
-> |-------------------|------------------------------:|
-> | **📏 5 burst**    | **🎯 Each enemy in the area** |
->
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn.
-
-> ⭐️ **Loyalty Collar**
->
-> When the neuronite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-neuronite","name":"War Dog Neuronite","ancestry":"Humanoid, Soulless, War Dog","level":"1","role":"Horde Defender","roleKey":"defender","ev":"3","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Psychic 2","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Synlirii Grafts","cost":"Signature","usage":"Main action","keywords":["Area","Psionic"],"distance":"1 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"3 psychic damage; vertical slide 3","low":"1 psychic damage; vertical slide 1","mid":"2 psychic damage; vertical slide 2"}}},{"kind":"ability","action":"maneuver","name":"Posthumous Promotion","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"One war dog","sections":[{"label":"Effect","text":"If the target has a loyalty collar, they are reduced to 0 Stamina."}]},{"kind":"ability","action":"maneuver","name":"The Voice","cost":"1 Malice","usage":"Maneuver","keywords":["Area","Psionic"],"distance":"5 burst","target":"Each enemy in the area","sections":[{"label":"Effect","text":"The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the neuronite is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d6 damage to each adjacent enemy and object."}]}
+</script>

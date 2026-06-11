@@ -28,26 +28,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|  Abyssal, Demon   |         -         |     Level 4      |                  Minion Brute                  |  EV 6 for four minions   |
-|:-----------------:|:-----------------:|:----------------:|:----------------------------------------------:|:------------------------:|
-|  **1L**<br>Size   |  **8**<br>Speed   | **9**<br>Stamina |               **1**<br>Stability               |   **3**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+2 damage bonus to strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+3**<br>Might  | **+2**<br>Agility | **-1**<br>Reason |              **-1**<br>Intuition               |    **-1**<br>Presence    |
-
-> 🗡 **Spinning Bone Blade (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** The grulqin gains an edge on this ability if they previously moved 3 or more squares in a straight line on their turn.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the grulqin can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"grulqin","name":"Grulqin","ancestry":"Abyssal, Demon","level":"4","role":"Minion Brute","roleKey":"brute","ev":"6 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"9"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"-1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Spinning Bone Blade","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"The grulqin gains an edge on this ability if they previously moved 3 or more squares in a straight line on their turn."}]},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the grulqin can't be hidden from them."}]}
+</script>

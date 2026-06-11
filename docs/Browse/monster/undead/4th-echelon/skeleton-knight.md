@@ -29,28 +29,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-|             Undead, Soulless             |         -         |     Level 10      |               Minion Defender               | EV 12 for four minions |
-|:----------------------------------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:----------------------:|
-|              **1L**<br>Size              |  **5**<br>Speed   | **17**<br>Stamina |             **2**<br>Stability              |  **4**<br>Free Strike  |
-| **Corruption 10, poison 10**<br>Immunity | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness    |
-|             **+3**<br>Might              | **+5**<br>Agility | **-2**<br>Reason  |             **+4**<br>Intuition             |   **-2**<br>Presence   |
-
-> 🗡 **Four Swords Swing (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage; the target can't shift (EoT)
-
-> ⭐️ **Bitter Bones**
->
-> If the knight is reduced to 0 Stamina, their bones collapse to fill their space with an impassable barrier. Any enemy who comes adjacent to the barrier for the first time in a round or starts their turn there takes 5 damage.
-
-> ⭐️ **More Swings**
->
-> Whenever the knight makes a free strike, they can make two free strikes instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"skeleton-knight","name":"Skeleton Knight","ancestry":"Undead, Soulless","level":"10","role":"Minion Defender","roleKey":"defender","ev":"12 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"17"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 10, poison 10","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+5"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+4"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Four Swords Swing","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 5","tiers":{"high":"9 damage; the target can't shift (EoT)","low":"4 damage","mid":"7 damage"}}},{"kind":"passive","action":"passive","name":"Bitter Bones","body":"If the knight is reduced to 0 Stamina, their bones collapse to fill their space with an impassable barrier. Any enemy who comes adjacent to the barrier for the first time in a round or starts their turn there takes 5 damage."},{"kind":"passive","action":"passive","name":"More Swings","body":"Whenever the knight makes a free strike, they can make two free strikes instead."}]}
+</script>

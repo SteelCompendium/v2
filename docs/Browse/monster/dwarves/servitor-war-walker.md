@@ -26,42 +26,6 @@ type: statblock
 
 ---
 
-|  Dwarf, Humanoid  |           -           |      Level 1      |      Elite Mount      |        EV 12         | 
-|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:| 
-|   **3**<br>Size   |    **8**<br>Speed     | **60**<br>Stamina |  **2**<br>Stability   | **4**<br>Free Strike | 
-| **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   | 
-|  **+2**<br>Might  |   **+0**<br>Agility   | **-2**<br>Reason  |  **+0**<br>Intuition  |  **-2**<br>Presence  |
-
-> 🗡 **Grasping Claws (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                 **Main action** |
-> |-----------------------------------|--------------------------------:|
-> | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage; M < 2 restrained (save ends)
->
-> **Effect:** A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
-
-> ❇️ **Stunning Blast (3 Malice)**
->
-> | **Area, Weapon** |                  **Maneuver** |
-> |------------------|------------------------------:|
-> | **📏 3 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 lightning damage; A < 0 slowed (save ends)
-> - **12-16:** 6 lightning damage; A < 1 slowed (save ends)
-> - **17+:** 7 lightning damage; A < 2 slowed (save ends)
-
-> ⭐️ **Cupola**
->
-> While riding the war walker, three size 1 allies can occupy the same space. Creatures riding the war walker have cover.
-
-> ⭐️ **Mobile Prison Harness**
->
-> Any restrained or slowed creature who comes adjacent to the war walker is automatically restrained (save ends) and takes a bane on power rolls. A creature restrained this way moves with the war walker.
+<script type="application/json" class="sc-statblock-data">
+{"id":"servitor-war-walker","name":"Servitor War Walker","ancestry":"Dwarf, Humanoid","level":"1","role":"Elite Mount","roleKey":"mount","ev":"12","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Grasping Claws","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 2","target":"Two creatures or objects","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage; M \u003c 2 restrained (save ends)","low":"6 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise."}]},{"kind":"ability","action":"maneuver","name":"Stunning Blast","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Weapon"],"distance":"3 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"7 lightning damage; A \u003c 2 slowed (save ends)","low":"3 lightning damage; A \u003c 0 slowed (save ends)","mid":"6 lightning damage; A \u003c 1 slowed (save ends)"}}},{"kind":"passive","action":"passive","name":"Cupola","body":"While riding the war walker, three size 1 allies can occupy the same space. Creatures riding the war walker have cover."},{"kind":"passive","action":"passive","name":"Mobile Prison Harness","body":"Any restrained or slowed creature who comes adjacent to the war walker is automatically restrained (save ends) and takes a bane on power rolls. A creature restrained this way moves with the war walker."}]}
+</script>

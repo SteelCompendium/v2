@@ -29,30 +29,6 @@ with_captain: +4 damage bonus to strikes
 
 ---
 
-|  Abyssal, Demon   |          -           |     Level 10      |                 Minion Harrier                 |  EV 12 for four minions  |
-|:-----------------:|:--------------------:|:-----------------:|:----------------------------------------------:|:------------------------:|
-|   **2**<br>Size   |    **8**<br>Speed    | **15**<br>Stamina |               **0**<br>Stability               |   **4**<br>Free Strike   |
-| **-**<br>Immunity | **Swim**<br>Movement |         -         | **+4 damage bonus to strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+2**<br>Might  |  **+5**<br>Agility   | **+0**<br>Reason  |              **+3**<br>Intuition               |    **-1**<br>Presence    |
-
-> 🗡 **Tail Bite (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 3**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 5:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 9 damage
->
-> **Effect:** The tyburaki can make a free strike against each enemy adjacent to the target.
-
-> ⭐️ **Breacher**
->
-> While swimming, the tyburaki can jump 5 squares as part of their movement.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the tyburaki can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"tyburaki","name":"Tyburaki","ancestry":"Abyssal, Demon","level":"10","role":"Minion Harrier","roleKey":"harrier","ev":"12 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+5"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Tail Bite","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 3","target":"One creature or object per minion","powerRoll":{"formula":"+ 5","tiers":{"high":"9 damage","low":"4 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"The tyburaki can make a free strike against each enemy adjacent to the target."}]},{"kind":"passive","action":"passive","name":"Breacher","body":"While swimming, the tyburaki can jump 5 squares as part of their movement."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the tyburaki can't be hidden from them."}]}
+</script>

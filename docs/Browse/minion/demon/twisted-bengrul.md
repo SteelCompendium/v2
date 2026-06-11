@@ -24,28 +24,6 @@ weaknesses:
 
 ---
 
-The bengrul is an undulating heap of glass and flesh. They shatter pieces of themselves to disrupt senses and inflict grisly wounds on their prey.
-
-| Twisted Bengrul | Abyssal, Demon | Minion Hexer | - | 3 essence for two minions |
-|:---------------:|:--------------:|:------------:|:-:|:-------------------------:|
-| **1L**<br>Size | **5**<br>Speed | **5 \| 5**<br>Stamina | **1**<br>Stability | **4**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **Psychic**<br>Free Strike Damage Type |
-| **+2**<br>Might | **+1**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **0**<br>Presence |
-
-> 🏹 **Mind Twist 2d10 + R (Signature Ability)**
->
-> | **Magic, Ranged, Strike** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Ranged 5** | **🎯 One creature or object per minion** |
->
-> 4 damage; P < WEAK twisted (save ends)
->
-> 6 damage; P < AVERAGE twisted (save ends)
->
-> 8 damage; P < STRONG twisted (save ends)
->
-> **Effect:** A twisted target can't take advantage of [edges](../../rule/dice/edge.md) or [search for hidden creatures](../../feature/common/maneuvers/search-for-hidden-creatures.md) until the condition ends.
-
-> ⭐️ **Soulsight**
->
-> Each creature adjacent to the ensnarer can't be [hidden](../../feature/common/maneuvers/hide.md) from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"twisted-bengrul","name":"Twisted Bengrul","ancestry":"Twisted Bengrul","level":"","role":"Minion Hexer","roleKey":"hexer","ev":"","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Mind Twist","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"8 damage; P \u003c STRONG twisted (save ends)","low":"4 damage; P \u003c WEAK twisted (save ends)","mid":"6 damage; P \u003c AVERAGE twisted (save ends)"}},"sections":[{"label":"Effect","text":"A twisted target can't take advantage of [edges](../../../rule/dice/edge/) or [search for hidden creatures](../../../feature/common/maneuvers/search-for-hidden-creatures/) until the condition ends."}]},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the ensnarer can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
+</script>

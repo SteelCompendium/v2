@@ -27,32 +27,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Humanoid, Radenwight |           -           |     Level 1      |              Minion Artillery               |  EV 3 for 4 minions  |
-|:--------------------:|:---------------------:|:----------------:|:-------------------------------------------:|:--------------------:|
-|    **1S**<br>Size    |    **5**<br>Speed     | **3**<br>Stamina |             **0**<br>Stability              | **2**<br>Free Strike |
-|  **-**<br>Immunity   | **Climb**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |  **-**<br>Weakness   |
-|   **+1**<br>Might    |   **+2**<br>Agility   | **-1**<br>Reason |             **0**<br>Intuition              |  **0**<br>Presence   |
-
-> 🏹 **Eyes-On-Me-Shot (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
->
-> **Effect:** One ally of the redeye within 2 squares of the target shifts up to 2 squares.
-
-> ❗️ **Ready Rodent**
->
-> | **Melee, Weapon** | **Triggered action** |
-> |-------------------|---------------------:|
-> | **📏 Melee 1**    |  **🎯 One creature** |
->
-> **Trigger:** An ally deals damage to the target.
->
-> **Effect:** The redeye makes a free strike against the target.
+<script type="application/json" class="sc-statblock-data">
+{"id":"radenwight-redeye","name":"Radenwight Redeye","ancestry":"Humanoid, Radenwight","level":"1","role":"Minion Artillery","roleKey":"artillery","ev":"3 for 4 minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Eyes-On-Me-Shot","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage","low":"2 damage","mid":"4 damage"}},"sections":[{"label":"Effect","text":"One ally of the redeye within 2 squares of the target shifts up to 2 squares."}]},{"kind":"ability","action":"triggered","name":"Ready Rodent","usage":"Triggered action","keywords":["Melee","Weapon"],"distance":"Melee 1","target":"One creature","sections":[{"label":"Trigger","text":"An ally deals damage to the target."},{"label":"Effect","text":"The redeye makes a free strike against the target."}]}]}
+</script>

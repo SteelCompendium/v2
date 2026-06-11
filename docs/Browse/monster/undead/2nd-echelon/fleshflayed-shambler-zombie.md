@@ -29,26 +29,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|            Undead, Soulless            |         -         |     Level 4      |                  Minion Brute                  | EV 6 for four minions |
-|:--------------------------------------:|:-----------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **9**<br>Stamina |               **0**<br>Stability               | **3**<br>Free Strike  |
-| **Corruption 4, poison 4**<br>Immunity | **-**<br>Movement |        -         | **+2 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|            **+3**<br>Might             | **-1**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition               |   **0**<br>Presence   |
-
-> 🗡 **Bone Carvers (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** If this ability gains an edge or has a double edge, the target is bleeding (save ends).
-
-> ⭐️ **Fleshfused Spines**
->
-> Any adjacent enemy who grabs the fleshflayed shambler or uses melee ability against them takes 2 damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"fleshflayed-shambler-zombie","name":"Fleshflayed Shambler Zombie","ancestry":"Undead, Soulless","level":"4","role":"Minion Brute","roleKey":"brute","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"9"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"-1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Bone Carvers","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"If this ability gains an edge or has a double edge, the target is bleeding (save ends)."}]},{"kind":"passive","action":"passive","name":"Fleshfused Spines","body":"Any adjacent enemy who grabs the fleshflayed shambler or uses melee ability against them takes 2 damage."}]}
+</script>

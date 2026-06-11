@@ -26,18 +26,6 @@ weaknesses:
 
 ---
 
-The shrieker expresses their unending pain in a way that can be heard and felt for miles. A white-hot fire smolders within each of their sunken eye sockets.
-
-| Shrieker | Undead | Signature Minion Artillery | - | 1 essence per minion summoned |
-|:--------:|:------:|:---------------------------:|:-:|:-----------------------------:|
-| **1M**<br>Size | **4**<br>Speed | **1**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **Sonic**<br>Free Strike Damage Type |
-| **−2**<br>Might | **−2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Howling Strike**
->
-> The shrieker's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 12.
-
-> ⭐️ **Shrill Alarm**
->
-> Each enemy within 2 squares of the shrieker can't [hide](../../feature/common/maneuvers/hide.md) or be [hidden](../../feature/common/maneuvers/hide.md).
+<script type="application/json" class="sc-statblock-data">
+{"id":"shrieker","name":"Shrieker","ancestry":"Shrieker","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"1"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Howling Strike","body":"The shrieker's ranged [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 12."},{"kind":"passive","action":"passive","name":"Shrill Alarm","body":"Each enemy within 2 squares of the shrieker can't [hide](../../../feature/common/maneuvers/hide/) or be [hidden](../../../feature/common/maneuvers/hide/)."}]}
+</script>

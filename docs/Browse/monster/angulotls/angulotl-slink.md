@@ -28,38 +28,6 @@ type: statblock
 
 ---
 
-|    Angulotl, Humanoid    |              -              |      Level 1      |    Horde Ambusher     |         EV 3         |
-|:------------------------:|:---------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1S**<br>Size      |       **5**<br>Speed        | **15**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-| **Poison 2**<br>Immunity | **Climb, swim**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **+1**<br>Might      |      **+2**<br>Agility      | **+0**<br>Reason  |  **+0**<br>Intuition  |  **+0**<br>Presence  |
-
-> 🗡 **Tonguelash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 6**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage; pull 2
-> - **12-16:** 6 damage; pull 4
-> - **17+:** 7 damage; pull 6
->
-> **Effect:** The target is wet (save ends). Any ally targeted by this ability ignores the damage, is wet until the end of the encounter, and is pulled up to 6 squares, ignoring stability.
-
-> 👤 **Hop To It (2 Malice)**
->
-> | **-**       | **Free maneuver** |
-> |-------------|------------------:|
-> | **📏 Self** |       **🎯 Self** |
->
-> **Effect:** The slink jumps up to 3 squares. If they have cover or concealment when they land, they can attempt to hide.
-
-> ⭐️ **Adhesive**
->
-> The slink excretes a sticky residue into their square at the end of each of their turns. Any non-angulotl who enters or leaves the square is stuck, and must use a maneuver to break free or be restrained until the end of their turn. Objects are likewise affected, and a creature must use a maneuver to remove an object from the square.
-
-> ⭐️ **Toxiferous**
->
-> Whenever an adjacent enemy grabs the slink or uses a melee ability against them, that enemy takes 2 poison damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"angulotl-slink","name":"Angulotl Slink","ancestry":"Angulotl, Humanoid","level":"1","role":"Horde Ambusher","roleKey":"ambusher","ev":"3","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Poison 2","weakness":"—","movement":"Climb, swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Tonguelash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 6","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 damage; pull 6","low":"4 damage; pull 2","mid":"6 damage; pull 4"}},"sections":[{"label":"Effect","text":"The target is wet (save ends). Any ally targeted by this ability ignores the damage, is wet until the end of the encounter, and is pulled up to 6 squares, ignoring stability."}]},{"kind":"ability","action":"maneuver","name":"Hop To It","cost":"2 Malice","usage":"Free maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The slink jumps up to 3 squares. If they have cover or concealment when they land, they can attempt to hide."}]},{"kind":"passive","action":"passive","name":"Adhesive","body":"The slink excretes a sticky residue into their square at the end of each of their turns. Any non-angulotl who enters or leaves the square is stuck, and must use a maneuver to break free or be restrained until the end of their turn. Objects are likewise affected, and a creature must use a maneuver to remove an object from the square."},{"kind":"passive","action":"passive","name":"Toxiferous","body":"Whenever an adjacent enemy grabs the slink or uses a melee ability against them, that enemy takes 2 poison damage."}]}
+</script>

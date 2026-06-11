@@ -30,26 +30,6 @@ with_captain: +2 bonus to speed
 
 ---
 
-| Humanoid, Soulless, War Dog |              -              |     Level 4      |            Minion Ambusher            | EV 6 for four minions |
-|:---------------------------:|:---------------------------:|:----------------:|:-------------------------------------:|:---------------------:|
-|       **1S**<br>Size        |       **5**<br>Speed        | **8**<br>Stamina |          **0**<br>Stability           | **3**<br>Free Strike  |
-|  **Poison 4**<br>Immunity   | **Climb, swim**<br>Movement |        -         | **+2 bonus to speed**<br>With Captain |   **-**<br>Weakness   |
-|       **-1**<br>Might       |      **+3**<br>Agility      | **0**<br>Reason  |          **+2**<br>Intuition          |   **0**<br>Presence   |
-
-> ⚔️ **Poisoned Dagger (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |                **Main action** |
-> |-----------------------------------|-------------------------------:|
-> | **📏 Melee 1 or ranged 4**        | **🎯 One creature per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 poison damage
-> - **12-16:** 5 poison damage
-> - **17+:** 7 poison damage
->
-> **Effect:** The war frog can jump 3 squares before or after making the strike. If they end this jump in cover or concealment, they can attempt to hide.
-
-> ⭐️ **Loyalty Collar**
->
-> When the war frog is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-war-frog","name":"War Dog War Frog","ancestry":"Humanoid, Soulless, War Dog","level":"4","role":"Minion Ambusher","roleKey":"ambusher","ev":"6 for four minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Poison 4","weakness":"—","movement":"Climb, swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Poisoned Dagger","cost":"Signature","usage":"Main action","keywords":["Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 4","target":"One creature per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 poison damage","low":"3 poison damage","mid":"5 poison damage"}},"sections":[{"label":"Effect","text":"The war frog can jump 3 squares before or after making the strike. If they end this jump in cover or concealment, they can attempt to hide."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the war frog is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d6 damage to each adjacent enemy and object."}]}
+</script>

@@ -29,26 +29,6 @@ with_captain: +3 bonus to Stamina
 
 ---
 
-|   Giant, Troll    |         -         |      Level 9      |              Minion Brute               |     EV 11 for four minions      |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------------------------:|:-------------------------------:|
-|   **2**<br>Size   |  **6**<br>Speed   | **15**<br>Stamina |           **4**<br>Stability            |      **5**<br>Free Strike       |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **+3 bonus to Stamina**<br>With Captain |  **Acid 5, fire **<br>Weakness  |
-|  **+4**<br>Might  | **+1**<br>Agility | **-1**<br>Reason  |           **0**<br>Intuition            |       **+2**<br>Presence        |
-
-> 🗡 **Charging Chomp (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 5 damage; push 2
-> - **12-16:** 7 damage; push 3; A < 3 3 damage
-> - **17+:** 9 damage; push 4; A < 4 5 damage
->
-> **Effect:** The crack trooper's squad's Stamina pool regains Stamina equal to half the damage dealt.
-
-> ⭐️ **Group Appetite**
->
-> The crack trooper dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina.
+<script type="application/json" class="sc-statblock-data">
+{"id":"troll-crack-trooper","name":"Troll Crack Trooper","ancestry":"Giant, Troll","level":"9","role":"Minion Brute","roleKey":"brute","ev":"11 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"4"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"Acid 5, fire","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Charging Chomp","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"9 damage; push 4; A \u003c 4 5 damage","low":"5 damage; push 2","mid":"7 damage; push 3; A \u003c 3 3 damage"}},"sections":[{"label":"Effect","text":"The crack trooper's squad's Stamina pool regains Stamina equal to half the damage dealt."}]},{"kind":"passive","action":"passive","name":"Group Appetite","body":"The crack trooper dies only if their squad's Stamina pool is reduced to 0 Stamina by acid or fire damage, if they end their turn with 0 Stamina in their squad's Stamina pool, or if they take acid or fire damage while their squad's Stamina pool is at 0 Stamina."}]}
+</script>

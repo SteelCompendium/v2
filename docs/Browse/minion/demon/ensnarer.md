@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-This vaguely humanoid form is warped and distorted by a demon nestled inside them. They extend long tongues from multiple orifices to drag victims in close.
-
-| Ensnarer | Abyssal, Demon | Signature Minion Brute | - | 1 essence per minion summoned |
-|:--------:|:--------------:|:----------------------:|:-:|:-----------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **0**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **−1**<br>Presence |
-
-> ⭐️ **Extended Barbed Strike**
->
-> The ensnarer's melee [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 3 and inflict [pull](../../movement/forced-movement.md) 1. The [pull](../../movement/forced-movement.md) distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying [forced movement](../../movement/forced-movement.md).
-
-> ⭐️ **Soulsight**
->
-> Each creature adjacent to the ensnarer can't be [hidden](../../feature/common/maneuvers/hide.md) from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ensnarer","name":"Ensnarer","ancestry":"Ensnarer","level":"","role":"Minion Brute","roleKey":"brute","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Extended Barbed Strike","body":"The ensnarer's melee [free strikes](../../../feature/common/main-actions/free-strike/) have a distance of 3 and inflict [pull](../../../movement/forced-movement/) 1. The [pull](../../../movement/forced-movement/) distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying [forced movement](../../../movement/forced-movement/)."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the ensnarer can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
+</script>

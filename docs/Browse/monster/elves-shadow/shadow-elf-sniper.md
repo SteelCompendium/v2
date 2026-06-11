@@ -28,26 +28,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-| Fey, Humanoid, Shadow Elf |           -           |     Level 4      |                Minion Artillery                | EV 6 for four minions |
-|:-------------------------:|:---------------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **7**<br>Stamina |               **0**<br>Stability               | **3**<br>Free Strike  |
-|     **-**<br>Immunity     | **Climb**<br>Movement |        -         | **+2 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|      **+1**<br>Might      |   **+3**<br>Agility   | **0**<br>Reason  |               **0**<br>Intuition               |   **0**<br>Presence   |
-
-> 🏹 **Lumina Arrow (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 7**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** The next strike made against the target gains an edge.
-
-> ⭐️ **Of the Umbra**
->
-> The sniper ignores concealment created by darkness. While the sniper is in direct sunlight, they have damage weakness 3. While the sniper has concealment, they have damage immunity 3.
+<script type="application/json" class="sc-statblock-data">
+{"id":"shadow-elf-sniper","name":"Shadow Elf Sniper","ancestry":"Fey, Humanoid, Shadow Elf","level":"4","role":"Minion Artillery","roleKey":"artillery","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Lumina Arrow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 7","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage","low":"3 damage","mid":"5 damage"}},"sections":[{"label":"Effect","text":"The next strike made against the target gains an edge."}]},{"kind":"passive","action":"passive","name":"Of the Umbra","body":"The sniper ignores concealment created by darkness. While the sniper is in direct sunlight, they have damage weakness 3. While the sniper has concealment, they have damage immunity 3."}]}
+</script>

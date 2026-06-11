@@ -30,28 +30,6 @@ with_captain: +4 bonus to Stamina
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -         |     Level 4      |              Minion Brute               | EV 6 for four minions |
-|:-------------------------------------:|:-----------------:|:----------------:|:---------------------------------------:|:---------------------:|
-|            **1M**<br>Size             |  **5**<br>Speed   | **9**<br>Stamina |           **0**<br>Stability            | **3**<br>Free Strike  |
-|        **Fire 2**<br>Immunity         | **-**<br>Movement |        -         | **+4 bonus to Stamina**<br>With Captain |   **-**<br>Weakness   |
-|            **+3**<br>Might            | **+2**<br>Agility | **0**<br>Reason  |           **0**<br>Intuition            |  **+1**<br>Presence   |
-
-> 🗡 **Sword Lunge (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage; grabbed or prone
-
-> ⭐️ **Tactical Positioning**
->
-> Any non-minion ally deals 1 extra damage for each recruit adjacent to them.
-
-> ⭐️ **Infernal Ichor**
->
-> When the recruit is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the recruit takes 2 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-recruit","name":"Hobgoblin Recruit","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"4","role":"Minion Brute","roleKey":"brute","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"9"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Fire 2","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Sword Lunge","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"7 damage; grabbed or prone","low":"3 damage","mid":"5 damage"}}},{"kind":"passive","action":"passive","name":"Tactical Positioning","body":"Any non-minion ally deals 1 extra damage for each recruit adjacent to them."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the recruit is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the recruit takes 2 fire damage."}]}
+</script>

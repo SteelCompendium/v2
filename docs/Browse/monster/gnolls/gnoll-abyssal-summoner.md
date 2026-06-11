@@ -25,42 +25,6 @@ type: statblock
 
 ---
 
-|  Abyssal, Gnoll   |         -         |      Level 2      |     Horde Support     |         EV 4         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **20**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **0**<br>Agility  |  **0**<br>Reason  |  **+2**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🏹 **Flame Wad (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 5**           | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 fire damage
-> - **12-16:** 5 fire damage
-> - **17+:** 7 fire damage; I < 2 the target is burning (save ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> 🏹 **Call Abyssal Hyenas (3 Malice)**
->
-> | **Ranged**      |   **Maneuver** |
-> |-----------------|---------------:|
-> | **📏 Ranged 5** | **🎯 Special** |
->
-> **Effect:** Two abyssal hyenas claw up from the ground in unoccupied spaces within distance.
-
-> ❇️ **Summoner's Cackletongue (4 Malice)**
->
-> | **Area**       |                 **Maneuver** |
-> |----------------|-----------------------------:|
-> | **📏 2 burst** | **🎯 Each ally in the area** |
->
-> **Effect:** One abyssal hyena target turns into a gnoll marauder, keeping their current Stamina. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost.
-
-> ⭐️ **Death Frenzy**
->
-> Whenever a non-minion ally within 5 squares of the abyssal summoner is reduced to 0 Stamina, the abyssal summoner moves up to their speed and can make a melee free strike.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gnoll-abyssal-summoner","name":"Gnoll Abyssal Summoner","ancestry":"Abyssal, Gnoll","level":"2","role":"Horde Support","roleKey":"support","ev":"4","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"20"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Flame Wad","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"7 fire damage; I \u003c 2 the target is burning (save ends)","low":"4 fire damage","mid":"5 fire damage"}},"sections":[{"label":"Effect","text":"A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round."}]},{"kind":"ability","action":"maneuver","name":"Call Abyssal Hyenas","cost":"3 Malice","usage":"Maneuver","keywords":["Ranged"],"distance":"Ranged 5","target":"Special","sections":[{"label":"Effect","text":"Two abyssal hyenas claw up from the ground in unoccupied spaces within distance."}]},{"kind":"ability","action":"maneuver","name":"Summoner's Cackletongue","cost":"4 Malice","usage":"Maneuver","keywords":["Area"],"distance":"2 burst","target":"Each ally in the area","sections":[{"label":"Effect","text":"One abyssal hyena target turns into a gnoll marauder, keeping their current Stamina. If any target hasn't used their own Cackletongue maneuver on this turn, they can use it immediately at no cost."}]},{"kind":"passive","action":"passive","name":"Death Frenzy","body":"Whenever a non-minion ally within 5 squares of the abyssal summoner is reduced to 0 Stamina, the abyssal summoner moves up to their speed and can make a melee free strike."}]}
+</script>

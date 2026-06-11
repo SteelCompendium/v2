@@ -27,42 +27,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Wode Elf |           -           |      Level 3      |   Platoon Artillery   |        EV 10         |
-|:-----------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |    **7**<br>Speed     | **40**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|    **-**<br>Immunity    | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      |   **+2**<br>Agility   |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🏹 **Snare Bow (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage; A < 2 restrained (save ends)
->
-> **Effect:** The gweiadur shifts up to 3 squares.
->
-> **3 Malice:** If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends).
-
-> 🔳 **You Activated My Trap! (3 Malice)**
->
-> | **Area, Magic, Ranged** |                  **Maneuver** |
-> |-------------------------|------------------------------:|
-> | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage; R < 0 the target is marked (save ends)
-> - **12-16:** 6 damage; R < 1 slowed and the target is marked (save ends)
-> - **17+:** 9 damage; R < 2 slowed and the target is marked (save ends)
->
-> **Effect:** Allies gain an edge on abilities against a target marked by any wode elf.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the gweiadur that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-gweiadur","name":"Wode Elf Gweiadur","ancestry":"Fey, Humanoid, Wode Elf","level":"3","role":"Platoon Artillery","roleKey":"artillery","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Snare Bow","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 15","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage; A \u003c 2 restrained (save ends)","low":"7 damage","mid":"11 damage"}},"sections":[{"label":"Effect","text":"The gweiadur shifts up to 3 squares."}],"enhancements":[{"cost":"3 Malice","text":"If this ability restrains the target, one enemy adjacent to the target is also restrained (save ends)."}]},{"kind":"ability","action":"maneuver","name":"You Activated My Trap!","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Magic","Ranged"],"distance":"3 cube within 10","target":"Each enemy in the area","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage; R \u003c 2 slowed and the target is marked (save ends)","low":"4 damage; R \u003c 0 the target is marked (save ends)","mid":"6 damage; R \u003c 1 slowed and the target is marked (save ends)"}},"sections":[{"label":"Effect","text":"Allies gain an edge on abilities against a target marked by any wode elf."}]},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the gweiadur that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

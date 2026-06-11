@@ -27,38 +27,6 @@ weaknesses:
 
 ---
 
-|  Abyssal, Demon   |         -         |      Level 2      |      Horde Hexer      |           EV 4           |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:------------------------:|
-|  **1L**<br>Size   |  **5**<br>Speed   | **15**<br>Stamina |  **0**<br>Stability   |   **2**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **Holy 3**<br>Weakness  |
-|  **+0**<br>Might  | **+1**<br>Agility | **+0**<br>Reason  |  **+0**<br>Intuition  |    **+2**<br>Presence    |
-
-> 🏹 **Warp Perceptions (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 psychic damage
-> - **12-16:** 5 psychic damage; P < 1 weakened (save ends)
-> - **17+:** 7 psychic damage; P < 2 weakened (save ends)
->
-> **Effect:** If the target makes a strike while weakened this way, the bendrak can choose a second target within distance for the strike. The first target takes half of any damage from the strike and the second target takes any remaining damage.
-
-> 🏹 **Vanish (1 Malice)**
->
-> | **Magic, Ranged** |            **Maneuver** |
-> |-------------------|------------------------:|
-> | **📏 Ranged 10**  | **🎯 Self or one ally** |
->
-> **Effect:** The target is invisible until the start of their next turn. They can then move up to 3 squares and attempt to hide.
-
-> ⭐️ **Lethe**
->
-> While the bendrak is winded, they gain an edge on strikes, and any strike made against them gains an edge.
-
-> ⭐️ **Soulsight**
->
-> Any creature within 2 squares of the bendrak can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"bendrak","name":"Bendrak","ancestry":"Abyssal, Demon","level":"2","role":"Horde Hexer","roleKey":"hexer","ev":"4","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"Holy 3","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Warp Perceptions","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"7 psychic damage; P \u003c 2 weakened (save ends)","low":"4 psychic damage","mid":"5 psychic damage; P \u003c 1 weakened (save ends)"}},"sections":[{"label":"Effect","text":"If the target makes a strike while weakened this way, the bendrak can choose a second target within distance for the strike. The first target takes half of any damage from the strike and the second target takes any remaining damage."}]},{"kind":"ability","action":"maneuver","name":"Vanish","cost":"1 Malice","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"Self or one ally","sections":[{"label":"Effect","text":"The target is invisible until the start of their next turn. They can then move up to 3 squares and attempt to hide."}]},{"kind":"passive","action":"passive","name":"Lethe","body":"While the bendrak is winded, they gain an edge on strikes, and any strike made against them gains an edge."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Any creature within 2 squares of the bendrak can't be hidden from them."}]}
+</script>

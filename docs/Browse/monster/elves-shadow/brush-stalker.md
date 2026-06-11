@@ -26,40 +26,6 @@ type: statblock
 
 ---
 
-| Animal, Fey, Shadow Elf |         -         |      Level 4      |     Platoon Mount     |        EV 12         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **2**<br>Size      |  **8**<br>Speed   | **60**<br>Stamina |  **3**<br>Stability   | **5**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **+3**<br>Might     | **+2**<br>Agility | **-1**<br>Reason  |  **+1**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🗡 **Gore (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                 **Main action** |
-> |-----------------------------------|--------------------------------:|
-> | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 10 damage
-> - **17+:** 13 damage
-
-> ❇️ **Reclamation (2 Malice)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 2 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 4 corruption damage; M < 1 weakened (save ends)
-> - **12-16:** 7 corruption damage; M < 2 weakened (save ends)
-> - **17+:** 10 corruption damage; M < 3 weakened (save ends)
-
-> ⭐️ **Suneater**
->
-> The area within 2 squares of the brush stalker is devoid of light and provides concealment.
-
-> ⭐️ **Wyrd Dyr**
->
-> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened.
+<script type="application/json" class="sc-statblock-data">
+{"id":"brush-stalker","name":"Brush Stalker","ancestry":"Animal, Fey, Shadow Elf","level":"4","role":"Platoon Mount","roleKey":"mount","ev":"12","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"60"},{"l":"Stability","v":"3"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Gore","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 2","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"13 damage","low":"7 damage","mid":"10 damage"}}},{"kind":"ability","action":"main","name":"Reclamation","cost":"2 Malice","usage":"Main action","keywords":["Area","Magic"],"distance":"2 burst","target":"Each enemy in the area","powerRoll":{"formula":"+ 3","tiers":{"high":"10 corruption damage; M \u003c 3 weakened (save ends)","low":"4 corruption damage; M \u003c 1 weakened (save ends)","mid":"7 corruption damage; M \u003c 2 weakened (save ends)"}}},{"kind":"passive","action":"passive","name":"Suneater","body":"The area within 2 squares of the brush stalker is devoid of light and provides concealment."},{"kind":"passive","action":"passive","name":"Wyrd Dyr","body":"While they have line of effect to the brush stalker, any animal except another brush stalker is frightened."}]}
+</script>

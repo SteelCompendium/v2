@@ -28,40 +28,6 @@ type: statblock
 
 ---
 
-|            Undead, Soulless            |         -         |      Level 7      |    Horde Artillery    |         EV 9         |
-|:--------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size             |  **4**<br>Speed   | **40**<br>Stamina |  **2**<br>Stability   | **4**<br>Free Strike |
-| **Corruption 7, poison 7**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+4**<br>Might             | **-2**<br>Agility | **-4**<br>Reason  |  **+1**<br>Intuition  |  **-2**<br>Presence  |
-
-> 🏹 **Wax Fling (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 8 damage
-> - **12-16:** 11 damage
-> - **17+:** 12 damage; A < 4 slowed (save ends)
->
-> **Effect:** If a target made slowed this way is already slowed, they are instead restrained (save ends).
-
-> ❇️ **Erupt (3 Malice)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 2 burst**  | **🎯 Each enemy in the area** |
->
-> **Effect:** If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**.
->
-> - **≤11:** 10 damage
-> - **12-16:** 8 damage
-> - **17+:** 5 damage
->
-> The waxen is then destroyed and the area is difficult terrain for enemies.
-
-> ⭐️ **Burn Bright**
->
-> If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"waxen","name":"Waxen","ancestry":"Undead, Soulless","level":"7","role":"Horde Artillery","roleKey":"artillery","ev":"9","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 7, poison 7","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"-2"},{"l":"Reason","k":"R","v":"-4"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Wax Fling","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 15","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"12 damage; A \u003c 4 slowed (save ends)","low":"8 damage","mid":"11 damage"}},"sections":[{"label":"Effect","text":"If a target made slowed this way is already slowed, they are instead restrained (save ends)."}]},{"kind":"ability","action":"main","name":"Erupt","cost":"3 Malice","usage":"Main action","keywords":["Area","Magic"],"distance":"2 burst","target":"Each enemy in the area","powerRoll":{"formula":"","tiers":{"high":"5 damage","low":"10 damage","mid":"8 damage"}},"sections":[{"label":"Effect","text":"If the waxen is ignited (see Burn Bright), they shift up to their speed before using this ability. Each target makes an **Agility test**."}],"trailing":"The waxen is then destroyed and the area is difficult terrain for enemies."},{"kind":"passive","action":"passive","name":"Burn Bright","body":"If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damage."}]}
+</script>

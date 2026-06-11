@@ -27,26 +27,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Humanoid, Soulless, War Dog |         -         |      Level 7      |              Minion Artillery               | EV 9 for four minions |
-|:---------------------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:---------------------:|
-|       **1M**<br>Size        |  **5**<br>Speed   | **10**<br>Stamina |             **0**<br>Stability              | **4**<br>Free Strike  |
-|      **-**<br>Immunity      | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|       **+1**<br>Might       | **+4**<br>Agility | **+3**<br>Reason  |             **+1**<br>Intuition             |  **+1**<br>Presence   |
-
-> 🏹 **Canis Shrikegun (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 8 damage; I < 3 the target is frightened of all shriketroops (EoT)
->
-> **Effect:** The target must move their speed in a straight line away from the shriketroop.
-
-> ⭐️ **Loyalty Collar**
->
-> When the shriketroop is reduced to 0 Stamina, their loyalty collar explodes, dealing 2d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-shriketroop","name":"War Dog Shriketroop","ancestry":"Humanoid, Soulless, War Dog","level":"7","role":"Minion Artillery","roleKey":"artillery","ev":"9 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Canis Shrikegun","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; I \u003c 3 the target is frightened of all shriketroops (EoT)","low":"4 damage","mid":"7 damage"}},"sections":[{"label":"Effect","text":"The target must move their speed in a straight line away from the shriketroop."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the shriketroop is reduced to 0 Stamina, their loyalty collar explodes, dealing 2d6 damage to each adjacent enemy and object."}]}
+</script>

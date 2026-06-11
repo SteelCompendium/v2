@@ -25,38 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 5       |     Elite Support     |        EV 28         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **140**<br>Stamina |  **1**<br>Stability   | **6**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **0**<br>Agility  |  **0**<br>Reason   |  **+3**<br>Intuition  |  **+1**<br>Presence  |
-
-> ⚔️ **Raging Tempest (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike** |                 **Main action** |
-> |----------------------------------|--------------------------------:|
-> | **📏 Melee 1 or ranged 10**      | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 holy damage; vertical slide 1
-> - **12-16:** 14 holy damage; vertical slide 2
-> - **17+:** 17 holy damage; vertical slide 3
->
-> **Effect:** The conduit or one ally within distance regains Stamina equal to half the damage dealt.
-
-> 🏹 **Imbue with Power (3 Malice)**
->
-> | **Magic, Ranged** |                **Maneuver** |
-> |-------------------|----------------------------:|
-> | **📏 Ranged 10**  | **🎯 Self and five allies** |
->
-> **Effect:** Each target has a double edge on their next strike.
-
-> ⭐️ **Stalwart Guardian**
->
-> Strikes made against allies adjacent to the conduit take a bane.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-conduit","name":"Rival Conduit","ancestry":"Humanoid, Rival","level":"5","role":"Elite Support","roleKey":"support","ev":"28","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"140"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Raging Tempest","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike"],"distance":"Melee 1 or ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"17 holy damage; vertical slide 3","low":"9 holy damage; vertical slide 1","mid":"14 holy damage; vertical slide 2"}},"sections":[{"label":"Effect","text":"The conduit or one ally within distance regains Stamina equal to half the damage dealt."}]},{"kind":"ability","action":"maneuver","name":"Imbue with Power","cost":"3 Malice","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"Self and five allies","sections":[{"label":"Effect","text":"Each target has a double edge on their next strike."}]},{"kind":"passive","action":"passive","name":"Stalwart Guardian","body":"Strikes made against allies adjacent to the conduit take a bane."},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the conduit chooses one creature within their line of effect. Both the conduit and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

@@ -26,36 +26,6 @@ type: statblock
 
 ---
 
-| Goblin, Humanoid  |           -           |      Level 1      |      Horde Hexer      |         EV 3         |
-|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1S**<br>Size   |    **5**<br>Speed     | **10**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-| **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **-2**<br>Might  |   **+1**<br>Agility   |  **0**<br>Reason  |  **+2**<br>Intuition  |  **0**<br>Presence   |
-
-> 🏹 **Eye of Surlach (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 15**          | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 corruption damage; I < 0 weakened (save ends)
-> - **12-16:** 4 corruption damage; I < 1 weakened (save ends)
-> - **17+:** 5 corruption damage; I < 2 weakened (save ends)
-
-> 🏹 **Dizzying Hex (1 Malice)**
->
-> | **Magic, Ranged, Strike** |        **Maneuver** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** I < 0 prone
-> - **12-16:** I < 1 prone and can't stand (EoT)
-> - **17+:** Prone; I < 2 can't stand (save ends)
-
-> ⭐️ **Crafty**
->
-> The cursespitter doesn't provoke opportunity attacks by moving.
+<script type="application/json" class="sc-statblock-data">
+{"id":"goblin-cursespitter","name":"Goblin Cursespitter","ancestry":"Goblin, Humanoid","level":"1","role":"Horde Hexer","roleKey":"hexer","ev":"3","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"10"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"-2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Eye of Surlach","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 15","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"5 corruption damage; I \u003c 2 weakened (save ends)","low":"3 corruption damage; I \u003c 0 weakened (save ends)","mid":"4 corruption damage; I \u003c 1 weakened (save ends)"}}},{"kind":"ability","action":"maneuver","name":"Dizzying Hex","cost":"1 Malice","usage":"Maneuver","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"Prone; I \u003c 2 can't stand (save ends)","low":"I \u003c 0 prone","mid":"I \u003c 1 prone and can't stand (EoT)"}}},{"kind":"passive","action":"passive","name":"Crafty","body":"The cursespitter doesn't provoke opportunity attacks by moving."}]}
+</script>

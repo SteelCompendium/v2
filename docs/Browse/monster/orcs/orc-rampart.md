@@ -25,44 +25,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Orc   |         -         |      Level 2      |   Platoon Defender    |         EV 8         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1L**<br>Size   |  **6**<br>Speed   | **59**<br>Stamina |  **2**<br>Stability   | **4**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+2**<br>Agility | **+2**<br>Reason  |  **+2**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🗡 **My Spear, My Foe (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage; taunted (EoT)
-> - **17+:** 12 damage; taunted (EoT)
->
-> **Effect:** This ability has a double edge against any target who dealt damage to the rampart this round.
-
-> 👤 **Castling**
->
-> | **-**                  |    **Maneuver** |
-> |------------------------|----------------:|
-> | **📏 Self; see below** | **🎯 One ally** |
->
-> **Effect:** The rampart moves or shifts up to their speed adjacent to the target, then can swap places with the target.
-
-> ❗️ **No.**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** A creature targets an ally adjacent to the rampart with an ability that doesn't also target the rampart.
->
-> **Effect:** The rampart becomes the target of the triggering ability instead.
-
-> ⭐️ **Relentless**
->
-> If the rampart is reduced to 0 Stamina, they can make a free strike before dying. If the target of the free strike is reduced to 0 Stamina, the rampart is reduced to 1 Stamina instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orc-rampart","name":"Orc Rampart","ancestry":"Humanoid, Orc","level":"2","role":"Platoon Defender","roleKey":"defender","ev":"8","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"59"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"My Spear, My Foe","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage; taunted (EoT)","low":"6 damage","mid":"9 damage; taunted (EoT)"}},"sections":[{"label":"Effect","text":"This ability has a double edge against any target who dealt damage to the rampart this round."}]},{"kind":"ability","action":"maneuver","name":"Castling","usage":"Maneuver","keywords":["-"],"distance":"Self; see below","target":"One ally","sections":[{"label":"Effect","text":"The rampart moves or shifts up to their speed adjacent to the target, then can swap places with the target."}]},{"kind":"ability","action":"triggered","name":"No.","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Trigger","text":"A creature targets an ally adjacent to the rampart with an ability that doesn't also target the rampart."},{"label":"Effect","text":"The rampart becomes the target of the triggering ability instead."}]},{"kind":"passive","action":"passive","name":"Relentless","body":"If the rampart is reduced to 0 Stamina, they can make a free strike before dying. If the target of the free strike is reduced to 0 Stamina, the rampart is reduced to 1 Stamina instead."}]}
+</script>

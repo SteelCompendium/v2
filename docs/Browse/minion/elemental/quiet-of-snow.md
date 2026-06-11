@@ -26,28 +26,6 @@ weaknesses:
 
 ---
 
-This elemental is a pure-white vulpine with six legs that freely sprints through the air. Their howls are telepathic, washing over the receivers with a strong chill and a wave of goosebumps.
-
-| Quiet of Snow | Elemental (Air, Rot, Water) | Minion Artillery | - | 5 essence for three minions |
-|:-------------:|:---------------------------:|:----------------:|:-:|:---------------------------:|
-| **1S**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **1**<br>Stability | **4**<br>Free Strike |
-| **Sonic R, Cold R**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **Cold**<br>Free Strike Damage Type |
-| **−1**<br>Might | **+2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+3**<br>Presence |
-
-> 🏹 **Freezing Howl 2d10 + R (Signature Ability)**
->
-> | **Magic, Ranged, Strike** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Ranged 5** | **🎯 One creature or object per minion** |
->
-> 4 cold [damage](../../rule/damage/damage.md); M < WEAK [slowed](../../condition/slowed.md) (EoT)
->
-> 6 cold [damage](../../rule/damage/damage.md); M < AVERAGE [slowed](../../condition/slowed.md) (EoT)
->
-> 8 cold [damage](../../rule/damage/damage.md); M < STRONG speed is 0 (EoT)
->
-> **Effect:** Frost slows the enemy down, allowing one ally [adjacent](../../rule/combat/adjacent.md) to each target to [shift](../../movement/shifting.md) 2 and either [hide](../../feature/common/maneuvers/hide.md) or [defend](../../feature/common/main-actions/defend.md).
-
-> ⭐️ **Cold Surge**
->
-> When the quiet is reduced to 0 [Stamina](../../rule/health/stamina.md), they launch a refreshing blast of air into an area equal to their [size](../../rule/character/size.md) + 1 within 5 before being destroyed. Each ally in the affected area gains a [surge](../../rule/resource/surge.md).
+<script type="application/json" class="sc-statblock-data">
+{"id":"quiet-of-snow","name":"Quiet of Snow","ancestry":"Quiet of Snow","level":"","role":"Minion Artillery","roleKey":"artillery","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Sonic R, Cold R","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"ability","action":"main","name":"Freezing Howl","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"8 cold [damage](../../../rule/damage/damage/); M \u003c STRONG speed is 0 (EoT)","low":"4 cold [damage](../../../rule/damage/damage/); M \u003c WEAK [slowed](../../../condition/slowed/) (EoT)","mid":"6 cold [damage](../../../rule/damage/damage/); M \u003c AVERAGE [slowed](../../../condition/slowed/) (EoT)"}},"sections":[{"label":"Effect","text":"Frost slows the enemy down, allowing one ally [adjacent](../../../rule/combat/adjacent/) to each target to [shift](../../../movement/shifting/) 2 and either [hide](../../../feature/common/maneuvers/hide/) or [defend](../../../feature/common/main-actions/defend/)."}]},{"kind":"passive","action":"passive","name":"Cold Surge","body":"When the quiet is reduced to 0 [Stamina](../../../rule/health/stamina/), they launch a refreshing blast of air into an area equal to their [size](../../../rule/character/size/) + 1 within 5 before being destroyed. Each ally in the affected area gains a [surge](../../../rule/resource/surge/)."}]}
+</script>

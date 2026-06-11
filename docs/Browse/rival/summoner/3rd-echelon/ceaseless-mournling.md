@@ -27,20 +27,6 @@ weaknesses:
 
 ---
 
-| — | Undead | Minion Controller | - | 4 Malice for three minions |
-|:-:|:------:|:-----------------:|:-:|:--------------------------:|
-| **2**<br>Size | **5**<br>Speed | **8 \| 8 \| 8**<br>Stamina | **4**<br>Stability | **3**<br>Free Strike |
-| **Corruption 4, poison 4**<br>Immunity | **Burrow**<br>Movement | - | **—**<br>Weakness | **Sonic**<br>Free Strike Damage Type |
-| **+4**<br>Might | **+4**<br>Agility | **+1**<br>Reason | **+3**<br>Intuition | **0**<br>Presence |
-
-> ⭐️ **Always Crying**
->
-> At the end of the mournling's turn, each enemy within 1 of the mournling takes 2 sonic damage and can't [shift](../../../movement/shifting.md) until the start of the mournling's next turn.
-
-> ⭐️ **Immutable Form**
->
-> The mournling's shape can't change via any external effects.
-
-> ⭐️ **Rupture**
->
-> The first time the mournling [burrows](../../../movement/burrow.md) out of the ground on their turn, they can make a [free strike](../../../feature/common/main-actions/free-strike.md) against each [adjacent](../../../rule/combat/adjacent.md) enemy.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ceaseless-mournling","name":"Ceaseless Mournling","ancestry":"—","level":"","role":"Minion Controller","roleKey":"controller","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"4"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"Burrow","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+4"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"passive","action":"passive","name":"Always Crying","body":"At the end of the mournling's turn, each enemy within 1 of the mournling takes 2 sonic damage and can't [shift](../../../../movement/shifting/) until the start of the mournling's next turn."},{"kind":"passive","action":"passive","name":"Immutable Form","body":"The mournling's shape can't change via any external effects."},{"kind":"passive","action":"passive","name":"Rupture","body":"The first time the mournling [burrows](../../../../movement/burrow/) out of the ground on their turn, they can make a [free strike](../../../../feature/common/main-actions/free-strike/) against each [adjacent](../../../../rule/combat/adjacent/) enemy."}]}
+</script>

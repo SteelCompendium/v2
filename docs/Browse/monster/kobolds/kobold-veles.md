@@ -26,26 +26,6 @@ with_captain: +1 bonus to speed
 
 ---
 
-| Humanoid, Kobold  |         -         |     Level 1      |            Minion Harrier             | EV 3 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:-------------------------------------:|:---------------------:|
-|  **1S**<br>Size   |  **6**<br>Speed   | **4**<br>Stamina |          **0**<br>Stability           | **1**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+1 bonus to speed**<br>With Captain |   **-**<br>Weakness   |
-|  **0**<br>Might   | **+2**<br>Agility | **0**<br>Reason  |          **0**<br>Intuition           |   **0**<br>Presence   |
-
-> ⚔️ **Pilium (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1 or Ranged 5**        | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 damage
-> - **12-16:** 2 damage
-> - **17+:** 3 damage
->
-> **Effect:** Until the start of the veles's next turn, the target can't make opportunity attacks against any kobold.
-
-> ⭐️ **Shield? Shield!**
->
-> While adjacent to an ally who also has this trait, the veles has stability 1, has cover, and grants cover to allies.
+<script type="application/json" class="sc-statblock-data">
+{"id":"kobold-veles","name":"Kobold Veles","ancestry":"Humanoid, Kobold","level":"1","role":"Minion Harrier","roleKey":"harrier","ev":"3 for four minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Pilium","cost":"Signature","usage":"Main action","keywords":["Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 damage","low":"1 damage","mid":"2 damage"}},"sections":[{"label":"Effect","text":"Until the start of the veles's next turn, the target can't make opportunity attacks against any kobold."}]},{"kind":"passive","action":"passive","name":"Shield? Shield!","body":"While adjacent to an ally who also has this trait, the veles has stability 1, has cover, and grants cover to allies."}]}
+</script>

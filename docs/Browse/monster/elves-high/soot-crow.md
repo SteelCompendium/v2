@@ -27,22 +27,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Elemental, High Elf |          -          |     Level 1      |               Minion Harrier                | EV 3 for four minions |
-|:-------------------:|:-------------------:|:----------------:|:-------------------------------------------:|:---------------------:|
-|   **1T**<br>Size    |   **7**<br>Speed    | **4**<br>Stamina |             **0**<br>Stability              | **1**<br>Free Strike  |
-|  **-**<br>Immunity  | **Fly**<br>Movement |        -         | **Gain an edge on strikes**<br>With Captain |   **-**<br>Weakness   |
-|   **0**<br>Might    |  **+2**<br>Agility  | **0**<br>Reason  |             **0**<br>Intuition              |  **+1**<br>Presence   |
-
-> 🗡 **Heckle (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 damage
-> - **12-16:** 2 damage
-> - **17+:** 3 damage; taunted (EoT)
->
-> **Effect:** Until the end of their turn, the soot crow ignores opportunity attacks from the target.
+<script type="application/json" class="sc-statblock-data">
+{"id":"soot-crow","name":"Soot Crow","ancestry":"Elemental, High Elf","level":"1","role":"Minion Harrier","roleKey":"harrier","ev":"3 for four minions","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"4"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Heckle","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"3 damage; taunted (EoT)","low":"1 damage","mid":"2 damage"}},"sections":[{"label":"Effect","text":"Until the end of their turn, the soot crow ignores opportunity attacks from the target."}]}]}
+</script>

@@ -27,28 +27,6 @@ weaknesses:
 
 ---
 
-These elementals are blazing white avian-shaped beings that are nearly impossible to perceive directly. Between a light of the sun's talons is a massive glowing sword that can split the heaviest of defenses asunder.
-
-| Light of the Sun | Elemental (Air, Green, Fire, Void) | Minion Support | - | 7 essence for two minions |
-|:----------------:|:----------------------------------:|:--------------:|:-:|:-------------------------:|
-| **2**<br>Size | **6**<br>Speed | **17 \| 17**<br>Stamina | **0**<br>Stability | **7**<br>Free Strike |
-| **Corruption R, fire R**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **Fire**<br>Free Strike Damage Type |
-| **0**<br>Might | **+2**<br>Agility | **+4**<br>Reason | **0**<br>Intuition | **+3**<br>Presence |
-
-> 🏹 **Solar Blade 2d10 + R (Signature Ability)**
->
-> | **Magic, Melee, Strike** | **Main action** |
-> |--------------------------|----------------:|
-> | **📏 Melee 1** | **🎯 One creature or object per minion** |
->
-> 7 fire [damage](../../rule/damage/damage.md); I < WEAK [dazed](../../condition/dazed.md) (EoT)
->
-> 11 fire [damage](../../rule/damage/damage.md); I < AVERAGE [dazed](../../condition/dazed.md) (EoT)
->
-> 16 fire [damage](../../rule/damage/damage.md); I < STRONG [dazed](../../condition/dazed.md) (save ends)
->
-> **Effect:** A target [dazed](../../condition/dazed.md) by this ability has their [stability](../../rule/character/stability.md) reduced to 0 until the [condition](../../rule/combat/condition.md) ends.
-
-> ⭐️ **Radiant Field** 2 Essence
->
-> When the light is reduced to 0 [Stamina](../../rule/health/stamina.md), the area within 1 square of the light becomes wreathed in sentient flames until the end of the encounter. An enemy that enters this area or starts their [turn](../../rule/combat/turn.md) there takes 3 fire [damage](../../rule/damage/damage.md) and is [slowed](../../condition/slowed.md) (EoT). You or any ally that enters this area or starts their [turn](../../rule/combat/turn.md) there gains 5 [temporary Stamina](../../rule/health/temporary-stamina.md) and their [speed](../../rule/character/speed.md) increases by 2 until the end of their [turn](../../rule/combat/turn.md).
+<script type="application/json" class="sc-statblock-data">
+{"id":"light-of-the-sun","name":"Light of the Sun","ancestry":"Light of the Sun","level":"","role":"Minion Support","roleKey":"support","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"Corruption R, fire R","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+4"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+3"}],"features":[{"kind":"ability","action":"main","name":"Solar Blade","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Strike"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + R","tiers":{"high":"16 fire [damage](../../../rule/damage/damage/); I \u003c STRONG [dazed](../../../condition/dazed/) (save ends)","low":"7 fire [damage](../../../rule/damage/damage/); I \u003c WEAK [dazed](../../../condition/dazed/) (EoT)","mid":"11 fire [damage](../../../rule/damage/damage/); I \u003c AVERAGE [dazed](../../../condition/dazed/) (EoT)"}},"sections":[{"label":"Effect","text":"A target [dazed](../../../condition/dazed/) by this ability has their [stability](../../../rule/character/stability/) reduced to 0 until the [condition](../../../rule/combat/condition/) ends."}]}]}
+</script>

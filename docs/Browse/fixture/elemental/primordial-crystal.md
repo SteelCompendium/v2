@@ -10,31 +10,6 @@ type: statblock
 
 ---
 
-*Relic Artillery*
-
-| **Stamina:** 20 + your level | **Size:** 2 |
-|------------------------------|------------:|
-
-> ⭐️ **Magnetic Pull**
->
-> Each enemy that starts their [turn](../../rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
-
-> ⭐️ **Elemental Boost**
->
-> When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.
-
-> **Level 5 Fixture Advancement Feature**
->
-> ⭐️ **Terra Resonance**
->
-> Each [round](../../rule/combat/combat-round.md), you gain a [surge](../../rule/resource/surge.md) the first time an area of terrain gains a [supernatural](../../rule/general/supernatural.md) effect (excluding [auras](../../rule/combat/aura.md)) while you have [line of effect](../../rule/combat/line-of-effect.md) to the crystal. You can choose to give the [surge](../../rule/resource/surge.md) to an ally who also has [line of effect](../../rule/combat/line-of-effect.md) to the crystal.
-
-> **Level 9 Fixture Advancement Feature**
->
-> ⭐️ **Size Increase**
->
-> The crystal is now size 3.
->
-> ⭐️ **Magnified Strike**
->
-> When you or an ally makes a ranged [strike](../../rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../rule/resource/surge.md) which they can use on the ability.
+<script type="application/json" class="sc-statblock-data">
+{"id":"primordial-crystal","name":"Primordial Crystal","ancestry":"**Stamina:** 20 + your level","level":"","role":"","roleKey":"leader","ev":"","defenses":[{"l":"Size","v":"—"},{"l":"Speed","v":"—"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"—"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Magnetic Pull","body":"Each enemy that starts their [turn](../../../rule/combat/turn/) within 3 squares of the crystal is vertically pulled 3."},{"kind":"passive","action":"passive","name":"Elemental Boost","body":"When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5."},{"kind":"passive","action":"passive","name":"Terra Resonance","body":"Each [round](../../../rule/combat/combat-round/), you gain a [surge](../../../rule/resource/surge/) the first time an area of terrain gains a [supernatural](../../../rule/general/supernatural/) effect (excluding [auras](../../../rule/combat/aura/)) while you have [line of effect](../../../rule/combat/line-of-effect/) to the crystal. You can choose to give the [surge](../../../rule/resource/surge/) to an ally who also has [line of effect](../../../rule/combat/line-of-effect/) to the crystal."},{"kind":"passive","action":"passive","name":"Size Increase","body":"The crystal is now size 3."},{"kind":"passive","action":"passive","name":"Magnified Strike","body":"When you or an ally makes a ranged [strike](../../../rule/combat/strike/) that draws a line through the crystal, the user gains a [surge](../../../rule/resource/surge/) which they can use on the ability."}]}
+</script>

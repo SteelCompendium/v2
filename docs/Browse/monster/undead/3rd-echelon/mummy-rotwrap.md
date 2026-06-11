@@ -31,22 +31,6 @@ with_captain: +3 bonus to melee distance
 
 ---
 
-|             Mummy, Undead              |         -         |      Level 7      |                  Minion Brute                  |  EV 9 for four minions   |
-|:--------------------------------------:|:-----------------:|:-----------------:|:----------------------------------------------:|:------------------------:|
-|             **1M**<br>Size             |  **5**<br>Speed   | **15**<br>Stamina |               **1**<br>Stability               |   **4**<br>Free Strike   |
-| **Corruption 7, poison 7**<br>Immunity | **-**<br>Movement |         -         | **+3 bonus to melee distance**<br>With Captain |  **Fire 5**<br>Weakness  |
-|            **+4**<br>Might             | **-2**<br>Agility | **-2**<br>Reason  |              **+1**<br>Intuition               |    **-2**<br>Presence    |
-
-> 🗡 **Fetid Wrappings (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 2**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage; pull 1
-> - **17+:** 8 damage; pull 3
->
-> **Effect:** Each ally gains an edge on strikes made against the target until the end of the round.
+<script type="application/json" class="sc-statblock-data">
+{"id":"mummy-rotwrap","name":"Mummy Rotwrap","ancestry":"Mummy, Undead","level":"7","role":"Minion Brute","roleKey":"brute","ev":"9 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 7, poison 7","weakness":"Fire 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"-2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"-2"}],"features":[{"kind":"ability","action":"main","name":"Fetid Wrappings","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; pull 3","low":"4 damage","mid":"7 damage; pull 1"}},"sections":[{"label":"Effect","text":"Each ally gains an edge on strikes made against the target until the end of the round."}]}]}
+</script>

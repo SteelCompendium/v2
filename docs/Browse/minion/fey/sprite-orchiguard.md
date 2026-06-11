@@ -23,18 +23,6 @@ weaknesses:
 
 ---
 
-The orchiguard is a sprite surrounded by a wheel of shields. They are usually crushed by the pressures of their own impenetrable defenses before ever being felled by enemy hands.
-
-| Sprite Orchiguard | Fey | Minion Defender | - | 3 essence for two minions |
-|:-----------------:|:---:|:---------------:|:-:|:-------------------------:|
-| **1S**<br>Size | **6**<br>Speed | **8 \| 8**<br>Stamina | **2**<br>Stability | **4**<br>Free Strike |
-| **—**<br>Immunity | **Fly**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **0**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **−1**<br>Presence |
-
-> ⭐️ **Fairy Guard**
->
-> Each non-orchiguard ally takes half damage from abilities while within 1 square of the orchiguard. Whenever the orchiguard reduces damage this way, they take damage equal to half their maximum [Stamina](../../rule/health/stamina.md) and their [free strike](../../feature/common/main-actions/free-strike.md) damage increases by 1.
-
-> ⭐️ **Minuscule**
->
-> The orchiguard has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"sprite-orchiguard","name":"Sprite Orchiguard","ancestry":"Sprite Orchiguard","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Fairy Guard","body":"Each non-orchiguard ally takes half damage from abilities while within 1 square of the orchiguard. Whenever the orchiguard reduces damage this way, they take damage equal to half their maximum [Stamina](../../../rule/health/stamina/) and their [free strike](../../../feature/common/main-actions/free-strike/) damage increases by 1."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The orchiguard has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

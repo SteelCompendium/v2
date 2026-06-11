@@ -26,18 +26,6 @@ weaknesses:
 
 ---
 
-Shades are a form of umbral stalker that float free from any floor or surface. They can bend their appearance to completely vanish in the light.
-
-| Stalker Shade | Undead | Minion Ambusher | - | 3 essence for two minions |
-|:-------------:|:------:|:---------------:|:-:|:-------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **6 \| 6**<br>Stamina | **1**<br>Stability | **5**<br>Free Strike |
-| **Corruption R, Poison R**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | **Corruption**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
-
-> ⭐️ **Shadow Strike**
->
-> The stalker shade turns invisible, [shifts](../../movement/shifting.md) 3 squares, and reappears after making a [strike](../../rule/combat/strike.md).
-
-> ⭐️ **Shadow Phasing**
->
-> The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being [force moved](../../movement/forced-movement.md) into objects.
+<script type="application/json" class="sc-statblock-data">
+{"id":"stalker-shade","name":"Stalker Shade","ancestry":"Stalker Shade","level":"","role":"Minion Ambusher","roleKey":"ambusher","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"1"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Corruption R, Poison R","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"passive","action":"passive","name":"Shadow Strike","body":"The stalker shade turns invisible, [shifts](../../../movement/shifting/) 3 squares, and reappears after making a [strike](../../../rule/combat/strike/)."},{"kind":"passive","action":"passive","name":"Shadow Phasing","body":"The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being [force moved](../../../movement/forced-movement/) into objects."}]}
+</script>

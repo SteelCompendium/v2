@@ -29,30 +29,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|                 Undead                 |           -           |     Level 4      |                 Minion Harrier                 | EV 6 for four minions |
-|:--------------------------------------:|:---------------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|             **1M**<br>Size             |    **7**<br>Speed     | **8**<br>Stamina |               **0**<br>Stability               | **2**<br>Free Strike  |
-| **Corruption 4, poison 4**<br>Immunity | **Climb**<br>Movement |        -         | **+2 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|            **+3**<br>Might             |   **+2**<br>Agility   | **0**<br>Reason  |               **0**<br>Intuition               |   **0**<br>Presence   |
-
-> 🗡 **Taste (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |                          **Main action** |
-> |-----------------------------------|-----------------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object per minion** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 6 damage
->
-> **Effect:** This ability has a double edge against a bleeding target.
-
-> ⭐️ **Ever So Hungry**
->
-> Any enemy adjacent to three or more ghoul cravers can't shift.
-
-> ⭐️ **Hunger**
->
-> When the ghoul craver uses the Charge main action, they gain a +2 bonus to speed until the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ghoul-craver","name":"Ghoul Craver","ancestry":"Undead","level":"4","role":"Minion Harrier","roleKey":"harrier","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Taste","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 3","tiers":{"high":"6 damage","low":"2 damage","mid":"4 damage"}},"sections":[{"label":"Effect","text":"This ability has a double edge against a bleeding target."}]},{"kind":"passive","action":"passive","name":"Ever So Hungry","body":"Any enemy adjacent to three or more ghoul cravers can't shift."},{"kind":"passive","action":"passive","name":"Hunger","body":"When the ghoul craver uses the Charge main action, they gain a +2 bonus to speed until the end of their turn."}]}
+</script>

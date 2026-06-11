@@ -26,36 +26,6 @@ type: statblock
 
 ---
 
-| Humanoid, Soulless, War Dog |         -         |      Level 6      |   Horde Controller    |         EV 8         |
-|:---------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|       **1M**<br>Size        |  **5**<br>Speed   | **35**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|      **-**<br>Immunity      | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **+1**<br>Might       | **+1**<br>Agility | **+2**<br>Reason  |  **+3**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🏹 **Snaking Entrails (Signature Ability)**
->
-> | **Magic, Ranged** | **Main action** |
-> |-------------------|----------------:|
-> | **📏 Ranged 10**  | **🎯 One ally** |
->
-> **Effect:** The target dies and the thanatite makes one power roll against each enemy within 2 squares of the target.
->
-> **Power Roll + 3:**
->
-> - **≤11:** 3 corruption damage; A < 1 slowed (save ends)
-> - **12-16:** 5 corruption damage; A < 2 slowed (save ends)
-> - **17+:** 7 corruption damage; A < 3 restrained (save ends)
->
-> **3 Malice:** If an affected enemy is adjacent to any corpse, they are frightened of the thanatite (save ends).
-
-> 🔳 **Wall of Flesh**
->
-> | **Area, Magic, Ranged**  |      **Maneuver** |
-> |--------------------------|------------------:|
-> | **📏 10 wall within 10** | **🎯 One corpse** |
->
-> **Effect:** The target spawns a wall of bloody muscle and pulsing viscera that must share one or more squares with the target. Each enemy in the area when the wall is created vertically slides up to 2 squares and is knocked prone. Each square of the wall has 3 Stamina.
-
-> ⭐️ **Loyalty Collar**
->
-> When the thanatite is reduced to 0 Stamina, their loyalty collar explodes, dealing 2d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-thanatite","name":"War Dog Thanatite","ancestry":"Humanoid, Soulless, War Dog","level":"6","role":"Horde Controller","roleKey":"controller","ev":"8","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"35"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Snaking Entrails","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"One ally","powerRoll":{"formula":"+ 3","tiers":{"high":"7 corruption damage; A \u003c 3 restrained (save ends)","low":"3 corruption damage; A \u003c 1 slowed (save ends)","mid":"5 corruption damage; A \u003c 2 slowed (save ends)"}},"sections":[{"label":"Effect","text":"The target dies and the thanatite makes one power roll against each enemy within 2 squares of the target."}],"enhancements":[{"cost":"3 Malice","text":"If an affected enemy is adjacent to any corpse, they are frightened of the thanatite (save ends)."}]},{"kind":"ability","action":"maneuver","name":"Wall of Flesh","usage":"Maneuver","keywords":["Area","Magic","Ranged"],"distance":"10 wall within 10","target":"One corpse","sections":[{"label":"Effect","text":"The target spawns a wall of bloody muscle and pulsing viscera that must share one or more squares with the target. Each enemy in the area when the wall is created vertically slides up to 2 squares and is knocked prone. Each square of the wall has 3 Stamina."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the thanatite is reduced to 0 Stamina, their loyalty collar explodes, dealing 2d6 damage to each adjacent enemy and object."}]}
+</script>

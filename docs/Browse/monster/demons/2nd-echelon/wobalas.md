@@ -28,22 +28,6 @@ with_captain: +2 damage bonus to strikes
 
 ---
 
-|  Abyssal, Demon   |         -         |     Level 4      |                Minion Artillery                |  EV 6 for four minions   |
-|:-----------------:|:-----------------:|:----------------:|:----------------------------------------------:|:------------------------:|
-|  **1M**<br>Size   |  **6**<br>Speed   | **7**<br>Stamina |               **0**<br>Stability               |   **3**<br>Free Strike   |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+2 damage bonus to strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|  **+1**<br>Might  | **+3**<br>Agility | **+1**<br>Reason |              **+2**<br>Intuition               |    **+1**<br>Presence    |
-
-> 🏹 **Despair Bolt (Signature Ability)**
->
-> | **Magic, Ranged, Strike, Weapon** |                **Main action** |
-> |-----------------------------------|-------------------------------:|
-> | **📏 Ranged 20**                  | **🎯 One creature per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 psychic damage
-> - **12-16:** 5 psychic damage
-> - **17+:** 7 psychic damage
->
-> **Effect:** The target takes a bane on their next strike. If the target is winded, they have a double bane on their next strike instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wobalas","name":"Wobalas","ancestry":"Abyssal, Demon","level":"4","role":"Minion Artillery","roleKey":"artillery","ev":"6 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"7"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+2"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Despair Bolt","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike","Weapon"],"distance":"Ranged 20","target":"One creature per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"7 psychic damage","low":"3 psychic damage","mid":"5 psychic damage"}},"sections":[{"label":"Effect","text":"The target takes a bane on their next strike. If the target is winded, they have a double bane on their next strike instead."}]}]}
+</script>

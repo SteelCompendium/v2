@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-The gorrre demons evoke features of rhino and orangutan while clad in heavy armor. They've been utilized as jail guards by devils, as few prisoners can ever hope to outrun a monster with unlimited endurance.
-
-| Gorrre | Abyssal, Demon | Minion Brute | - | 7 essence for two minions |
-|:------:|:--------------:|:------------:|:-:|:-------------------------:|
-| **2**<br>Size | **5**<br>Speed | **17 \| 17**<br>Stamina | **2**<br>Stability | **8**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+4**<br>Might | **+3**<br>Agility | **0**<br>Reason | **−1**<br>Intuition | **0**<br>Presence |
-
-> ⭐️ **Gorrring Strike**
->
-> The gorrre must [charge](../../feature/common/main-actions/charge.md) before making a [strike](../../rule/combat/strike.md). The target is M < STRONG knocked [prone](../../condition/prone.md) if the gorrre moved through an enemy or object other than the target during the [charge](../../feature/common/main-actions/charge.md).
-
-> ⭐️ **Devastating Charge**
->
-> The gorrre ignores [difficult terrain](../../movement/difficult-terrain.md) while [charging](../../feature/common/main-actions/charge.md) and destroys unattended, [size](../../rule/character/size.md) 1 objects in their path. Each enemy they move through during a [charge](../../feature/common/main-actions/charge.md) takes 3 [damage](../../rule/damage/damage.md).
-
-> ⭐️ **Soulsight**
->
-> Each creature [adjacent](../../rule/combat/adjacent.md) to the gorrre can't be hidden from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"gorrre","name":"Gorrre","ancestry":"Gorrre","level":"","role":"Minion Brute","roleKey":"brute","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"8"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"passive","action":"passive","name":"Gorrring Strike","body":"The gorrre must [charge](../../../feature/common/main-actions/charge/) before making a [strike](../../../rule/combat/strike/). The target is M \u003c STRONG knocked [prone](../../../condition/prone/) if the gorrre moved through an enemy or object other than the target during the [charge](../../../feature/common/main-actions/charge/)."},{"kind":"passive","action":"passive","name":"Devastating Charge","body":"The gorrre ignores [difficult terrain](../../../movement/difficult-terrain/) while [charging](../../../feature/common/main-actions/charge/) and destroys unattended, [size](../../../rule/character/size/) 1 objects in their path. Each enemy they move through during a [charge](../../../feature/common/main-actions/charge/) takes 3 [damage](../../../rule/damage/damage/)."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature [adjacent](../../../rule/combat/adjacent/) to the gorrre can't be hidden from them."}]}
+</script>

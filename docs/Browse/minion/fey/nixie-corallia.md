@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-Corallias are saltwater nixies with coarse, coral-like skin and curly hair with hooked ends. Their salty tears are used to hallow places of worship and ward off demons.
-
-| Nixie Corallia | Fey | Minion Support | - | 7 essence for two minions |
-|:--------------:|:---:|:--------------:|:-:|:-------------------------:|
-| **1T**<br>Size | **6**<br>Speed | **17 \| 17**<br>Stamina | **0**<br>Stability | **7**<br>Free Strike |
-| **Lightning R**<br>Immunity | **Swim**<br>Movement | - | **—**<br>Weakness | **Lightning**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+3**<br>Agility | **+3**<br>Reason | **+4**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Water Weird**
->
-> Once per [turn](../../rule/combat/turn.md) during their move action, each nixie under your control can [teleport](../../movement/teleport.md) to a body of water within 6. The corallia can't [teleport](../../movement/teleport.md) into water created by their own seafoam pool.
-
-> ⭐️ **Seafoam Pool**
->
-> The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of [difficult terrain](../../movement/difficult-terrain.md) created by enemies. At the end of the corallia's [turn](../../rule/combat/turn.md), the corallia can scrub you or an ally in the affected area and end one [condition](../../rule/combat/condition.md).
-
-> ⭐️ **Minuscule**
->
-> The coralia has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
+<script type="application/json" class="sc-statblock-data">
+{"id":"nixie-corallia","name":"Nixie Corallia","ancestry":"Nixie Corallia","level":"","role":"Minion Support","roleKey":"support","ev":"","defenses":[{"l":"Size","v":"1T"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"Lightning R","weakness":"—","movement":"Swim","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+4"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Water Weird","body":"Once per [turn](../../../rule/combat/turn/) during their move action, each nixie under your control can [teleport](../../../movement/teleport/) to a body of water within 6. The corallia can't [teleport](../../../movement/teleport/) into water created by their own seafoam pool."},{"kind":"passive","action":"passive","name":"Seafoam Pool","body":"The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of [difficult terrain](../../../movement/difficult-terrain/) created by enemies. At the end of the corallia's [turn](../../../rule/combat/turn/), the corallia can scrub you or an ally in the affected area and end one [condition](../../../rule/combat/condition/)."},{"kind":"passive","action":"passive","name":"Minuscule","body":"The coralia has [cover](../../../rule/combat/cover/) while occupying a larger creature's space."}]}
+</script>

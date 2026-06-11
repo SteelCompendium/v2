@@ -28,40 +28,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Time Raider   |          -          |      Level 3      |    Platoon Harrier    |        EV 10         |
-|:-------------------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |   **7**<br>Speed    | **50**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Psychic 3**<br>Immunity | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **+1**<br>Might      |  **+2**<br>Agility  | **+2**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🗡 **Golden Scythe (Signature Ability)**
->
-> | **Melee, Psionic, Strike, Weapon** |               **Main action** |
-> |------------------------------------|------------------------------:|
-> | **📏 Melee 2**                     | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage; pull 1
-> - **12-16:** 10 damage; pull 2
-> - **17+:** 13 damage; pull 3; A < 2 restrained (save ends)
->
-> **Effect:** This ability can target creatures on parallel planes of existence and pull them onto the nemesis's plane.
-
-> 🏹 **Kinetic Crush (2 Malice)**
->
-> | **Psionic, Ranged, Strike** |     **Main action** |
-> |-----------------------------|--------------------:|
-> | **📏 Ranged 10**            | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 psychic damage; M < 0 slowed (save ends)
-> - **12-16:** 10 psychic damage; M < 1 slowed (save ends)
-> - **17+:** 13 psychic damage; M < 2 slowed (save ends)
->
-> **Effect:** Any creature slowed this way takes 2 damage for each square they move or are force moved until that condition ends.
-
-> ⭐️ **Foresight**
->
-> The nemesis doesn't take a bane on strikes against creatures with concealment.
+<script type="application/json" class="sc-statblock-data">
+{"id":"time-raider-nemesis","name":"Time Raider Nemesis","ancestry":"Humanoid, Time Raider","level":"3","role":"Platoon Harrier","roleKey":"harrier","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"Fly","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Golden Scythe","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"13 damage; pull 3; A \u003c 2 restrained (save ends)","low":"7 damage; pull 1","mid":"10 damage; pull 2"}},"sections":[{"label":"Effect","text":"This ability can target creatures on parallel planes of existence and pull them onto the nemesis's plane."}]},{"kind":"ability","action":"main","name":"Kinetic Crush","cost":"2 Malice","usage":"Main action","keywords":["Psionic","Ranged","Strike"],"distance":"Ranged 10","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"13 psychic damage; M \u003c 2 slowed (save ends)","low":"7 psychic damage; M \u003c 0 slowed (save ends)","mid":"10 psychic damage; M \u003c 1 slowed (save ends)"}},"sections":[{"label":"Effect","text":"Any creature slowed this way takes 2 damage for each square they move or are force moved until that condition ends."}]},{"kind":"passive","action":"passive","name":"Foresight","body":"The nemesis doesn't take a bane on strikes against creatures with concealment."}]}
+</script>

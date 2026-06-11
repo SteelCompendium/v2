@@ -28,42 +28,6 @@ type: statblock
 
 ---
 
-|   Humanoid, Time Raider   |             -              |      Level 3      |    Platoon Support    |        EV 10         |
-|:-------------------------:|:--------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|       **2**<br>Size       |       **5**<br>Speed       | **62**<br>Stamina |  **2**<br>Stability   | **5**<br>Free Strike |
-| **Psychic 3**<br>Immunity | **Fly, hover**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **+1**<br>Might      |     **+1**<br>Agility      | **+2**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🗡 **Psionic Slam (Signature Ability)**
->
-> | **Melee, Psionic, Strike** |     **Main action** |
-> |----------------------------|--------------------:|
-> | **📏 Melee 2**             | **🎯 One creature** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage, 2 psychic damage
-> - **12-16:** 7 damage, 3 psychic damage
-> - **17+:** 9 damage, 4 psychic damage
->
-> **Effect:** Any power roll made against the target gains an edge until the start of the vertex's next turn.
-
-> 🔳 **Split Space (5 Malice)**
->
-> | **Area, Psionic, Ranged** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 2 cube within 10**   |  **🎯 Special** |
->
-> **Effect:** A portal fills the area, connecting to a location the vertex has experienced on any plane of existence, in person or otherwise. Any creature who enters the portal for the first time in a round or starts their turn there is instantly teleported to any unoccupied space in the portal at the chosen location. The portal lasts until the vertex uses this ability again, dismisses the portal (no action required), or is transported by the portal.
-
-> ❇️ **Invigorated March**
->
-> | **Area, Psionic** |                 **Maneuver** |
-> |-------------------|-----------------------------:|
-> | **📏 4 burst**    | **🎯 Each ally in the area** |
->
-> **Effect:** Each target shifts up to half their speed.
-
-> ⭐️ **Foresight**
->
-> The vertex doesn't take a bane on strikes against creatures with concealment.
+<script type="application/json" class="sc-statblock-data">
+{"id":"time-raider-vertex","name":"Time Raider Vertex","ancestry":"Humanoid, Time Raider","level":"3","role":"Platoon Support","roleKey":"support","ev":"10","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"62"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Psionic Slam","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike"],"distance":"Melee 2","target":"One creature","powerRoll":{"formula":"+ 2","tiers":{"high":"9 damage, 4 psychic damage","low":"5 damage, 2 psychic damage","mid":"7 damage, 3 psychic damage"}},"sections":[{"label":"Effect","text":"Any power roll made against the target gains an edge until the start of the vertex's next turn."}]},{"kind":"ability","action":"main","name":"Split Space","cost":"5 Malice","usage":"Main action","keywords":["Area","Psionic","Ranged"],"distance":"2 cube within 10","target":"Special","sections":[{"label":"Effect","text":"A portal fills the area, connecting to a location the vertex has experienced on any plane of existence, in person or otherwise. Any creature who enters the portal for the first time in a round or starts their turn there is instantly teleported to any unoccupied space in the portal at the chosen location. The portal lasts until the vertex uses this ability again, dismisses the portal (no action required), or is transported by the portal."}]},{"kind":"ability","action":"maneuver","name":"Invigorated March","usage":"Maneuver","keywords":["Area","Psionic"],"distance":"4 burst","target":"Each ally in the area","sections":[{"label":"Effect","text":"Each target shifts up to half their speed."}]},{"kind":"passive","action":"passive","name":"Foresight","body":"The vertex doesn't take a bane on strikes against creatures with concealment."}]}
+</script>

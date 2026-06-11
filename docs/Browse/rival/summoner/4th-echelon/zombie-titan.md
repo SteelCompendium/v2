@@ -27,20 +27,6 @@ weaknesses:
 
 ---
 
-| — | Undead | Minion Defender | - | 6 Malice for one minion |
-|:-:|:------:|:---------------:|:-:|:-----------------------:|
-| **4**<br>Size | **4**<br>Speed | **50**<br>Stamina | **5**<br>Stability | **7**<br>Free Strike |
-| **Corruption 5, poison 5**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+5**<br>Might | **−1**<br>Agility | **+2**<br>Reason | **+4**<br>Intuition | **+5**<br>Presence |
-
-> ⭐️ **Big Stomp**
->
-> The titan's melee [free strikes](../../../feature/common/main-actions/free-strike.md) M < 5 knock the target [prone](../../../condition/prone.md).
-
-> ⭐️ **Overwhelming Size**
->
-> The titan can move through enemies at normal [speed](../../../rule/character/speed.md). If the titan ends their turn in a [prone](../../../condition/prone.md) [size](../../../rule/character/size.md) 2 or smaller creature's space, the creature can't stand.
-
-> ⭐️ **Flesh to Mountains**
->
-> When the titan is reduced to 0 [Stamina](../../../rule/health/stamina.md), their space becomes [difficult terrain](../../../movement/difficult-terrain.md). If a creature was [prone](../../../condition/prone.md) underneath the titan when the titan is killed, they take 10 damage and are [restrained](../../../condition/restrained.md) (save ends).
+<script type="application/json" class="sc-statblock-data">
+{"id":"zombie-titan","name":"Zombie Titan","ancestry":"—","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"4"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"5"},{"l":"Free Strike","v":"7"}],"meta":{"immunity":"Corruption 5, poison 5","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+5"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+4"},{"l":"Presence","k":"P","v":"+5"}],"features":[{"kind":"passive","action":"passive","name":"Big Stomp","body":"The titan's melee [free strikes](../../../../feature/common/main-actions/free-strike/) M \u003c 5 knock the target [prone](../../../../condition/prone/)."},{"kind":"passive","action":"passive","name":"Overwhelming Size","body":"The titan can move through enemies at normal [speed](../../../../rule/character/speed/). If the titan ends their turn in a [prone](../../../../condition/prone/) [size](../../../../rule/character/size/) 2 or smaller creature's space, the creature can't stand."},{"kind":"passive","action":"passive","name":"Flesh to Mountains","body":"When the titan is reduced to 0 [Stamina](../../../../rule/health/stamina/), their space becomes [difficult terrain](../../../../movement/difficult-terrain/). If a creature was [prone](../../../../condition/prone/) underneath the titan when the titan is killed, they take 10 damage and are [restrained](../../../../condition/restrained/) (save ends)."}]}
+</script>

@@ -29,24 +29,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-|            Undead, Soulless            |         -         |     Level 1      |                  Minion Brute                  | EV 3 for four minions |
-|:--------------------------------------:|:-----------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|             **1M**<br>Size             |  **4**<br>Speed   | **5**<br>Stamina |               **0**<br>Stability               | **2**<br>Free Strike  |
-| **Corruption 1, poison 1**<br>Immunity | **-**<br>Movement |        -         | **+1 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|            **+2**<br>Might             | **-2**<br>Agility | **-5**<br>Reason |              **-2**<br>Intuition               |  **-3**<br>Presence   |
-
-> 🗡 **Rotting Fist (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage; M < 2 prone if size 1, or slowed (save ends) otherwise
-
-> ⭐️ **Death Grasp**
->
-> When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M < 2 enters this space, they are slowed (save ends) and the effect ends.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rotting-zombie","name":"Rotting Zombie","ancestry":"Undead, Soulless","level":"1","role":"Minion Brute","roleKey":"brute","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"5"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"Corruption 1, poison 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"-2"},{"l":"Reason","k":"R","v":"-5"},{"l":"Intuition","k":"I","v":"-2"},{"l":"Presence","k":"P","v":"-3"}],"features":[{"kind":"ability","action":"main","name":"Rotting Fist","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; M \u003c 2 prone if size 1, or slowed (save ends) otherwise","low":"2 damage","mid":"4 damage"}}},{"kind":"passive","action":"passive","name":"Death Grasp","body":"When the rotting zombie is reduced to 0 Stamina, their space is difficult terrain. The first time any enemy who has M \u003c 2 enters this space, they are slowed (save ends) and the effect ends."}]}
+</script>

@@ -25,26 +25,6 @@ weaknesses:
 
 ---
 
-| — | Mummy, Undead | Minion Hexer | - | 3 Malice for three minions |
-|:-:|:-------------:|:------------:|:-:|:--------------------------:|
-| **1M**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **2**<br>Stability | **3**<br>Free Strike |
-| **Corruption 2, poison 2**<br>Immunity | **—**<br>Movement | - | **Fire 1**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−1**<br>Agility | **+1**<br>Reason | **+3**<br>Intuition | **−1**<br>Presence |
-
-> 🗡 **Fetid Bindings 2d10 + 3 (Signature Ability)**
->
-> | **Melee, Strike, Weapon** | **Main action** |
-> |---------------------------|----------------:|
-> | **📏 Melee 2** | **🎯 One creature or object per minion** |
->
-> 3 poison damage; [pull](../../../movement/forced-movement.md) 2
->
-> 4 poison damage; [pull](../../../movement/forced-movement.md) 3
->
-> 6 poison damage; [pull](../../../movement/forced-movement.md) 4
->
-> **Effect:** A target pulled [adjacent](../../../rule/combat/adjacent.md) to the mummy is M < 2 [weakened](../../../condition/weakened.md) ([EoT](../../../rule/combat/end-of-turn.md)).
-
-> ⭐️ **Mummy Dust**
->
-> Whenever the mummy takes damage, each enemy [adjacent](../../../rule/combat/adjacent.md) to the mummy takes 2 poison damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"accursed-mummy","name":"Accursed Mummy","ancestry":"—","level":"","role":"Minion Hexer","roleKey":"hexer","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"—"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Corruption 2, poison 2","weakness":"Fire 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+3"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"ability","action":"main","name":"Fetid Bindings","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"2d10 + 3","tiers":{"high":"6 poison damage; [pull](../../../../movement/forced-movement/) 4","low":"3 poison damage; [pull](../../../../movement/forced-movement/) 2","mid":"4 poison damage; [pull](../../../../movement/forced-movement/) 3"}},"sections":[{"label":"Effect","text":"A target pulled [adjacent](../../../../rule/combat/adjacent/) to the mummy is M \u003c 2 [weakened](../../../../condition/weakened/) ([EoT](../../../../rule/combat/end-of-turn/))."}]},{"kind":"passive","action":"passive","name":"Mummy Dust","body":"Whenever the mummy takes damage, each enemy [adjacent](../../../../rule/combat/adjacent/) to the mummy takes 2 poison damage."}]}
+</script>

@@ -26,26 +26,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-|   Humanoid, Orc   |         -         |     Level 1      |                  Minion Brute                  | EV 3 for four minions |
-|:-----------------:|:-----------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|  **1L**<br>Size   |  **6**<br>Speed   | **5**<br>Stamina |               **0**<br>Stability               | **2**<br>Free Strike  |
-| **-**<br>Immunity | **-**<br>Movement |        -         | **+1 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|  **+2**<br>Might  | **+1**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition               |   **0**<br>Presence   |
-
-> 🏹 **Boot and Blade (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage; push 3
-> - **17+:** 5 damage; push 3 or prone
->
-> **Effect:** The razor gains an edge against any target affected by a condition.
-
-> ⭐️ **Bloodfire Burn**
->
-> If the razor is reduced to 0 Stamina, they can make a free strike before dying.
+<script type="application/json" class="sc-statblock-data">
+{"id":"orc-razor","name":"Orc Razor","ancestry":"Humanoid, Orc","level":"1","role":"Minion Brute","roleKey":"brute","ev":"3 for four minions","defenses":[{"l":"Size","v":"1L"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"5"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Boot and Blade","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; push 3 or prone","low":"2 damage","mid":"4 damage; push 3"}},"sections":[{"label":"Effect","text":"The razor gains an edge against any target affected by a condition."}]},{"kind":"passive","action":"passive","name":"Bloodfire Burn","body":"If the razor is reduced to 0 Stamina, they can make a free strike before dying."}]}
+</script>

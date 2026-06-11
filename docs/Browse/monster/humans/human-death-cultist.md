@@ -28,34 +28,6 @@ type: statblock
 
 ---
 
-|             Human, Humanoid             |         -         |      Level 2      |    Platoon Support    |         EV 8         |
-|:---------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size              |  **5**<br>Speed   | **40**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-| **Corruption 2, psychic 2**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|             **0**<br>Might              | **+1**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+2**<br>Presence  |
-
-> ⚔️ **Death Scythe (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |------------------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 corruption damage
-> - **12-16:** 9 corruption damage
-> - **17+:** 12 corruption damage; I < 2 weakened (save ends)
->
-> **2 Malice:** The death cultist regains Stamina equal to half the damage dealt.
-
-> ❇️ **Rise, My Minions (1 Malice per minion)**
->
-> | **Area**       |                        **Maneuver** |
-> |----------------|------------------------------------:|
-> | **📏 5 burst** | **🎯 Each dead minion in the area** |
->
-> **Effect:** Each target who died during this encounter revives with full Stamina. They immediately die at the end of the encounter or if the death cultist is killed. A target can be revived multiple times by this ability.
-
-> ⭐️ **Supernatural Insight**
->
-> The death cultist ignores concealment if it's granted by a supernatural effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"human-death-cultist","name":"Human Death Cultist","ancestry":"Human, Humanoid","level":"2","role":"Platoon Support","roleKey":"support","ev":"8","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 2, psychic 2","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Death Scythe","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"12 corruption damage; I \u003c 2 weakened (save ends)","low":"6 corruption damage","mid":"9 corruption damage"}},"enhancements":[{"cost":"2 Malice","text":"The death cultist regains Stamina equal to half the damage dealt."}]},{"kind":"ability","action":"maneuver","name":"Rise, My Minions","cost":"1 Malice per minion","usage":"Maneuver","keywords":["Area"],"distance":"5 burst","target":"Each dead minion in the area","sections":[{"label":"Effect","text":"Each target who died during this encounter revives with full Stamina. They immediately die at the end of the encounter or if the death cultist is killed. A target can be revived multiple times by this ability."}]},{"kind":"passive","action":"passive","name":"Supernatural Insight","body":"The death cultist ignores concealment if it's granted by a supernatural effect."}]}
+</script>

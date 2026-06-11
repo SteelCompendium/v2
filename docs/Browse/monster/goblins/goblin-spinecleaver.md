@@ -27,24 +27,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-| Goblin, Humanoid  |           -           |     Level 1      |                  Minion Brute                  | EV 3 for four minions |
-|:-----------------:|:---------------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|  **1S**<br>Size   |    **5**<br>Speed     | **5**<br>Stamina |               **0**<br>Stability               | **2**<br>Free Strike  |
-| **-**<br>Immunity | **Climb**<br>Movement |        -         | **+1 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|  **+2**<br>Might  |   **0**<br>Agility    | **0**<br>Reason  |               **0**<br>Intuition               |  **-1**<br>Presence   |
-
-> 🗡 **Axe (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage; push 1
-> - **12-16:** 4 damage; push 3
-> - **17+:** 5 damage; push 4
-
-> ⭐️ **Crafty**
->
-> The spinecleaver doesn't provoke opportunity attacks by moving.
+<script type="application/json" class="sc-statblock-data">
+{"id":"goblin-spinecleaver","name":"Goblin Spinecleaver","ancestry":"Goblin, Humanoid","level":"1","role":"Minion Brute","roleKey":"brute","ev":"3 for four minions","defenses":[{"l":"Size","v":"1S"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"5"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+0"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Axe","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; push 4","low":"2 damage; push 1","mid":"4 damage; push 3"}}},{"kind":"passive","action":"passive","name":"Crafty","body":"The spinecleaver doesn't provoke opportunity attacks by moving."}]}
+</script>

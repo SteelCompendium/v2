@@ -27,26 +27,6 @@ with_captain: +5 bonus to ranged distance
 
 ---
 
-| Humanoid, Soulless, War Dog |         -         |     Level 1      |                Minion Artillery                 | EV 3 for four minions |
-|:---------------------------:|:-----------------:|:----------------:|:-----------------------------------------------:|:---------------------:|
-|       **1M**<br>Size        |  **7**<br>Speed   | **3**<br>Stamina |               **0**<br>Stability                | **2**<br>Free Strike  |
-|      **-**<br>Immunity      | **-**<br>Movement |        -         | **+5 bonus to ranged distance**<br>With Captain |   **-**<br>Weakness   |
-|       **0**<br>Might        | **+2**<br>Agility | **0**<br>Reason  |               **0**<br>Intuition                |   **0**<br>Presence   |
-
-> 🏹 **Bolt Launcher (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                          **Main action** |
-> |----------------------------|-----------------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
->
-> **Effect:** This ability ignores cover and concealment.
-
-> ⭐️ **Loyalty Collar**
->
-> When the sharpshooter is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-sharpshooter","name":"War Dog Sharpshooter","ancestry":"Humanoid, Soulless, War Dog","level":"1","role":"Minion Artillery","roleKey":"artillery","ev":"3 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"2"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Bolt Launcher","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 5","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage","low":"2 damage","mid":"4 damage"}},"sections":[{"label":"Effect","text":"This ability ignores cover and concealment."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the sharpshooter is reduced to 0 Stamina, their loyalty collar explodes, dealing 1d3 damage to each adjacent enemy and object."}]}
+</script>

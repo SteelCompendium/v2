@@ -25,50 +25,6 @@ type: statblock
 
 ---
 
-|  Humanoid, Rival  |         -         |      Level 8       |    Elite Artillery    |        EV 40         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **180**<br>Stamina |  **2**<br>Stability   | **9**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+4**<br>Might  | **+1**<br>Agility |  **+3**<br>Reason  |  **0**<br>Intuition   |  **+2**<br>Presence  |
-
-> 🏹 **Command From the Back (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |                 **Main action** |
-> |----------------------------|--------------------------------:|
-> | **📏 Ranged 10**           | **🎯 Two creatures or objects** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 13 damage
-> - **12-16:** 18 damage; A < 3 prone
-> - **17+:** 22 damage; A < 4 prone
->
-> **4 Malice:** Two allies within distance move up to their speed and can use a signature ability.
-
-> 🏹 **Safeguard (3 Malice)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 10**           | **🎯 One creature or object** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 15 damage; M < 2 weakened (save ends)
-> - **12-16:** 21 damage; M < 3 weakened (save ends)
-> - **17+:** 26 damage; M < 4 weakened (save ends)
->
-> **Effect:** Two allies adjacent to the target each regain 7 Stamina.
-
-> ❗️ **Quickshot**
->
-> | **Ranged**       |        **Triggered action** |
-> |------------------|----------------------------:|
-> | **📏 Ranged 10** | **🎯 The triggering enemy** |
->
-> **Trigger:** An enemy within distance willingly moves.
->
-> **Effect:** At any point during the movement, the tactician uses a signature ability against the target.
-
-> ⭐️ **Rivalry**
->
-> At the start of an encounter, the tactician chooses one creature within their line of effect. Both the tactician and the creature can add a d3 roll to power rolls they make against each other.
+<script type="application/json" class="sc-statblock-data">
+{"id":"rival-tactician","name":"Rival Tactician","ancestry":"Humanoid, Rival","level":"8","role":"Elite Artillery","roleKey":"artillery","ev":"40","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"180"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"9"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Command From the Back","cost":"Signature","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"Two creatures or objects","powerRoll":{"formula":"+ 4","tiers":{"high":"22 damage; A \u003c 4 prone","low":"13 damage","mid":"18 damage; A \u003c 3 prone"}},"enhancements":[{"cost":"4 Malice","text":"Two allies within distance move up to their speed and can use a signature ability."}]},{"kind":"ability","action":"main","name":"Safeguard","cost":"3 Malice","usage":"Main action","keywords":["Ranged","Strike","Weapon"],"distance":"Ranged 10","target":"One creature or object","powerRoll":{"formula":"+ 4","tiers":{"high":"26 damage; M \u003c 4 weakened (save ends)","low":"15 damage; M \u003c 2 weakened (save ends)","mid":"21 damage; M \u003c 3 weakened (save ends)"}},"sections":[{"label":"Effect","text":"Two allies adjacent to the target each regain 7 Stamina."}]},{"kind":"ability","action":"triggered","name":"Quickshot","usage":"Triggered action","keywords":["Ranged"],"distance":"Ranged 10","target":"The triggering enemy","sections":[{"label":"Trigger","text":"An enemy within distance willingly moves."},{"label":"Effect","text":"At any point during the movement, the tactician uses a signature ability against the target."}]},{"kind":"passive","action":"passive","name":"Rivalry","body":"At the start of an encounter, the tactician chooses one creature within their line of effect. Both the tactician and the creature can add a d3 roll to power rolls they make against each other."}]}
+</script>

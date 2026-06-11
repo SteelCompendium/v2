@@ -29,40 +29,6 @@ type: statblock
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -          |      Level 5      |    Platoon Harrier    |        EV 14         |
-|:-------------------------------------:|:------------------:|:-----------------:|:---------------------:|:--------------------:|
-|            **1M**<br>Size             |   **8**<br>Speed   | **70**<br>Stamina |  **0**<br>Stability   | **6**<br>Free Strike |
-|        **Fire 5**<br>Immunity         | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+2**<br>Might            | **+3**<br>Agility  | **+1**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🗡 **Flaming Kick (Signature Ability)**
->
-> | **Charge, Magic, Melee, Strike** |               **Main action** |
-> |----------------------------------|------------------------------:|
-> | **📏 Melee 1**                   | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 fire damage
-> - **12-16:** 13 fire damage
-> - **17+:** 16 fire damage; A < 3 dazed (EoT)
-
-> 👤 **Blazing Trail**
->
-> | **Magic**   | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The firerunner moves up to their speed and creates an 8 wall of fire along the path of their movement. Creatures can enter and pass through the wall. Any enemy who enters the wall for the first time in a round or starts their turn there takes 5 fire damage.
-
-> ⭐️ **Hot to Go**
->
-> Whenever the firerunner takes fire damage for the first time in round, their speed and the size of the wall they can create with Blazing Trail increases by 4 until the end of their next turn.
-
-> ⭐️ **Kindlestep**
->
-> The firerunner ignores difficult terrain.
-
-> ⭐️ **Infernal Ichor**
->
-> When the firerunner is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the firerunner takes 3 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-firerunner","name":"Hobgoblin Firerunner","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"5","role":"Platoon Harrier","roleKey":"harrier","ev":"14","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"8"},{"l":"Stamina","v":"70"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"Fire 5","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+1"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Flaming Kick","cost":"Signature","usage":"Main action","keywords":["Charge","Magic","Melee","Strike"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"16 fire damage; A \u003c 3 dazed (EoT)","low":"9 fire damage","mid":"13 fire damage"}}},{"kind":"ability","action":"maneuver","name":"Blazing Trail","usage":"Maneuver","keywords":["Magic"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The firerunner moves up to their speed and creates an 8 wall of fire along the path of their movement. Creatures can enter and pass through the wall. Any enemy who enters the wall for the first time in a round or starts their turn there takes 5 fire damage."}]},{"kind":"passive","action":"passive","name":"Hot to Go","body":"Whenever the firerunner takes fire damage for the first time in round, their speed and the size of the wall they can create with Blazing Trail increases by 4 until the end of their next turn."},{"kind":"passive","action":"passive","name":"Kindlestep","body":"The firerunner ignores difficult terrain."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the firerunner is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the firerunner takes 3 fire damage."}]}
+</script>

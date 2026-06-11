@@ -24,18 +24,6 @@ weaknesses:
 
 ---
 
-Razors appear to be a diminutive variant of the ruinant demon. Their bodies are swift, tumbling mounds of scarred flesh and deadly claws.
-
-| Razor | Abyssal, Demon | Signature Minion Harrier | - | 1 essence per minion summoned |
-|:-----:|:--------------:|:------------------------:|:-:|:-----------------------------:|
-| **1M**<br>Size | **6**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **0**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **−1**<br>Presence |
-
-> ⭐️ **Teeth!**
->
-> Once per turn, whenever an adjacent enemy [grabs](../../feature/common/maneuvers/grab.md) the razor or uses a melee ability against them, that enemy takes 1 damage for each razor adjacent to them.
-
-> ⭐️ **Soulsight**
->
-> Each creature adjacent to the razor can't be [hidden](../../feature/common/maneuvers/hide.md) from them.
+<script type="application/json" class="sc-statblock-data">
+{"id":"razor","name":"Razor","ancestry":"Razor","level":"","role":"Minion Harrier","roleKey":"harrier","ev":"","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"2"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"Holy 1","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"Teeth!","body":"Once per turn, whenever an adjacent enemy [grabs](../../../feature/common/maneuvers/grab/) the razor or uses a melee ability against them, that enemy takes 1 damage for each razor adjacent to them."},{"kind":"passive","action":"passive","name":"Soulsight","body":"Each creature adjacent to the razor can't be [hidden](../../../feature/common/maneuvers/hide/) from them."}]}
+</script>

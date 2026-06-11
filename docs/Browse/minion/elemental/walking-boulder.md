@@ -25,22 +25,6 @@ weaknesses:
 
 ---
 
-These massive clods of animated stone roll upon smaller piles of rocks that could be perceived as limbs. Walking boulders are useful for taking up space and forming barricades.
-
-| Walking Boulder | Elemental (Earth) | Signature Minion Defender | - | 1 essence per minion summoned |
-|:---------------:|:-----------------:|:-------------------------:|:-:|:-----------------------------:|
-| **2**<br>Size | **4**<br>Speed | **3**<br>Stamina | **R**<br>Stability | **1**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
-
-> ⭐️ **Obstruct**
->
-> The boulder obstructs [line of effect](../../rule/combat/line-of-effect.md) for enemies.
-
-> ⭐️ **Pile Up** 1 Essence
->
-> When one or more boulders is reduced to 0 [Stamina](../../rule/health/stamina.md), they each leave behind a stone [wall](../../rule/combat/wall.md) equal to their size in their space until the end of the encounter.
-
-> **Traits with an Essence Cost**
->
-> Some minion stat blocks have traits that can only be activated if you spend the [heroic resource](../../rule/resource/heroic-resource.md) listed in the top corner of the trait. For example, when a crux of ash is reduced to 0 [Stamina](../../rule/health/stamina.md), you can spend 1 essence to use their Ashen Cloud trait.
+<script type="application/json" class="sc-statblock-data">
+{"id":"walking-boulder","name":"Walking Boulder","ancestry":"Walking Boulder","level":"","role":"Minion Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"4"},{"l":"Stamina","v":"3"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"—","weakness":"—","movement":"Climb","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"passive","action":"passive","name":"Obstruct","body":"The boulder obstructs [line of effect](../../../rule/combat/line-of-effect/) for enemies."}]}
+</script>

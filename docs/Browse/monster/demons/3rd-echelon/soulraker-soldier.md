@@ -29,24 +29,6 @@ with_captain: Gain an edge on strikes
 
 ---
 
-| Abyssal, Demon, Soulraker |         -         |      Level 7      |                Minion Brute                 |  EV 9 for four minions   |
-|:-------------------------:|:-----------------:|:-----------------:|:-------------------------------------------:|:------------------------:|
-|       **2**<br>Size       |  **6**<br>Speed   | **13**<br>Stamina |             **2**<br>Stability              |   **4**<br>Free Strike   |
-|     **-**<br>Immunity     | **-**<br>Movement |         -         | **Gain an edge on strikes**<br>With Captain |  **Holy 5**<br>Weakness  |
-|      **+4**<br>Might      | **+2**<br>Agility | **-1**<br>Reason  |             **-1**<br>Intuition             |    **-1**<br>Presence    |
-
-> 🗡 **Chitin Bash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                          **Main action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 4 damage; push 2
-> - **12-16:** 7 damage; push 2
-> - **17+:** 8 damage; push 4
-
-> ⭐️ **Abyssal Buzzing**
->
-> Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"soulraker-soldier","name":"Soulraker Soldier","ancestry":"Abyssal, Demon, Soulraker","level":"7","role":"Minion Brute","roleKey":"brute","ev":"9 for four minions","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"13"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"—","weakness":"Holy 5","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+4"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-1"},{"l":"Intuition","k":"I","v":"-1"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Chitin Bash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object per minion","powerRoll":{"formula":"+ 4","tiers":{"high":"8 damage; push 4","low":"4 damage; push 2","mid":"7 damage; push 2"}}},{"kind":"passive","action":"passive","name":"Abyssal Buzzing","body":"Any enemy who starts their turn with two or more soulraker minions adjacent to them takes 3 sonic damage."}]}
+</script>

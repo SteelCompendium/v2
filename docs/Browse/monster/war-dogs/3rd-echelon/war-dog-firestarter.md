@@ -28,40 +28,6 @@ type: statblock
 
 ---
 
-| Humanoid, Soulless, War Dog |         -         |      Level 8      |      Horde Hexer      |        EV 10         |
-|:---------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|       **1M**<br>Size        |  **5**<br>Speed   | **45**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-|   **Fire 8**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **0**<br>Might        | **+2**<br>Agility | **+3**<br>Reason  |  **+4**<br>Intuition  |  **+1**<br>Presence  |
-
-> 🔳 **Twin Flamebelchers (Signature Ability)**
->
-> | **Area, Weapon**            |                             **Main action** |
-> |-----------------------------|--------------------------------------------:|
-> | **📏 10 x 1 line within 1** | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 4:**
->
-> - **≤11:** 3 fire damage; A < 2 the target is seared (save ends)
-> - **12-16:** 6 fire damage; A < 3 the target is seared (save ends)
-> - **17+:** 8 fire damage; A < 4 the target is seared (save ends)
->
-> **Effect:** A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action.
-
-> 🏹 **Enflame**
->
-> | **Magic, Ranged** |   **Maneuver** |
-> |-------------------|---------------:|
-> | **📏 Ranged 10**  | **🎯 Special** |
->
-> **Effect:** This ability targets each enemy within 2 squares of any seared creature within distance.
->
-> **Power Roll + 4:**
->
-> - **≤11:** 2 fire damage
-> - **12-16:** 4 fire damage; A < 3 the target is seared (save ends)
-> - **17+:** 6 fire damage; A < 4 the target is seared (save ends)
-
-> ⭐️ **Loyalty Collar**
->
-> When the firestarter is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object.
+<script type="application/json" class="sc-statblock-data">
+{"id":"war-dog-firestarter","name":"War Dog Firestarter","ancestry":"Humanoid, Soulless, War Dog","level":"8","role":"Horde Hexer","roleKey":"hexer","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"45"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Fire 8","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+3"},{"l":"Intuition","k":"I","v":"+4"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Twin Flamebelchers","cost":"Signature","usage":"Main action","keywords":["Area","Weapon"],"distance":"10 x 1 line within 1","target":"Each creature and object in the area","powerRoll":{"formula":"+ 4","tiers":{"high":"8 fire damage; A \u003c 4 the target is seared (save ends)","low":"3 fire damage; A \u003c 2 the target is seared (save ends)","mid":"6 fire damage; A \u003c 3 the target is seared (save ends)"}},"sections":[{"label":"Effect","text":"A seared creature takes a bane on strikes and has damage weakness 5. If this ability obtains a tier 3 outcome against one or more creatures who are already seared, the firestarter can use Enflame as a free triggered action."}]},{"kind":"ability","action":"maneuver","name":"Enflame","usage":"Maneuver","keywords":["Magic","Ranged"],"distance":"Ranged 10","target":"Special","powerRoll":{"formula":"+ 4","tiers":{"high":"6 fire damage; A \u003c 4 the target is seared (save ends)","low":"2 fire damage","mid":"4 fire damage; A \u003c 3 the target is seared (save ends)"}},"sections":[{"label":"Effect","text":"This ability targets each enemy within 2 squares of any seared creature within distance."}]},{"kind":"passive","action":"passive","name":"Loyalty Collar","body":"When the firestarter is reduced to 0 Stamina, their loyalty collar explodes, dealing 3d6 damage to each adjacent enemy and object."}]}
+</script>

@@ -28,38 +28,6 @@ type: statblock
 
 ---
 
-|            Undead, Soulless            |         -         |      Level 4       |      Elite Brute      |        EV 24         |
-|:--------------------------------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|             **3**<br>Size              |  **6**<br>Speed   | **140**<br>Stamina |  **2**<br>Stability   | **6**<br>Free Strike |
-| **Corruption 4, poison 4**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+3**<br>Might             | **-1**<br>Agility |  **-2**<br>Reason  |  **+1**<br>Intuition  |  **+2**<br>Presence  |
-
-> 🗡 **Rotten Smash (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |                 **Main action** |
-> |---------------------------|--------------------------------:|
-> | **📏 Melee 3**            | **🎯 Two creatures or objects** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 damage
-> - **12-16:** 14 damage; A < 2 grabbed
-> - **17+:** 17 damage; A < 3 grabbed
-
-> ❗️ **Knocking Heads (1 Malice)**
->
-> | **-**       |   **Triggered action** |
-> |-------------|-----------------------:|
-> | **📏 Self** | **🎯 Self; see below** |
->
-> **Trigger:** The giant zombie grabs two creatures or objects, or starts their turn with two creatures or objects grabbed.
->
-> **Effect:** The creatures or objects are smashed together using Rotten Smash, which has a double edge.
-
-> ⭐️ **Endless Knight**
->
-> The first time the giant zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 50 Stamina and fall prone.
-
-> ⭐️ **Negative Nerves**
->
-> When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome.
+<script type="application/json" class="sc-statblock-data">
+{"id":"giant-zombie","name":"Giant Zombie","ancestry":"Undead, Soulless","level":"4","role":"Elite Brute","roleKey":"brute","ev":"24","defenses":[{"l":"Size","v":"3"},{"l":"Speed","v":"6"},{"l":"Stamina","v":"140"},{"l":"Stability","v":"2"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"Corruption 4, poison 4","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+3"},{"l":"Agility","k":"A","v":"-1"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+2"}],"features":[{"kind":"ability","action":"main","name":"Rotten Smash","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 3","target":"Two creatures or objects","powerRoll":{"formula":"+ 3","tiers":{"high":"17 damage; A \u003c 3 grabbed","low":"9 damage","mid":"14 damage; A \u003c 2 grabbed"}}},{"kind":"ability","action":"triggered","name":"Knocking Heads","cost":"1 Malice","usage":"Triggered action","keywords":["-"],"distance":"Self","target":"Self; see below","sections":[{"label":"Trigger","text":"The giant zombie grabs two creatures or objects, or starts their turn with two creatures or objects grabbed."},{"label":"Effect","text":"The creatures or objects are smashed together using Rotten Smash, which has a double edge."}]},{"kind":"passive","action":"passive","name":"Endless Knight","body":"The first time the giant zombie is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 50 Stamina and fall prone."},{"kind":"passive","action":"passive","name":"Negative Nerves","body":"When the giant zombie is targeted by an ability that deals rolled damage, they halve the damage from a tier 1 outcome."}]}
+</script>

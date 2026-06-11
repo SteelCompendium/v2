@@ -28,38 +28,6 @@ type: statblock
 
 ---
 
-|             Human, Humanoid             |         -         |      Level 1      |     Platoon Brute     |         EV 6         |
-|:---------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size              |  **5**<br>Speed   | **40**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-| **Corruption 1, psychic 1**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|             **+2**<br>Might             | **+1**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
-
-> 🗡 **Haymaker (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage; M < 2 grabbed and the target takes a bane on the Escape Grab maneuver
->
-> **Effect:** A target who is already grabbed takes an extra 2 damage.
-
-> 🗡 **Throw (1 Malice)**
->
-> | **Melee**      |                               **Maneuver** |
-> |----------------|-------------------------------------------:|
-> | **📏 Melee 1** | **🎯 One creature grabbed by the brawler** |
->
-> **Effect:** The brawler pushes the target up to 5 squares.
-
-> ⭐️ **Shoot the Hostage**
->
-> The brawler halves the damage from any strike if they have a creature or object grabbed of size 1S or larger. The grabbed creature or object takes the remaining damage.
-
-> ⭐️ **Supernatural Insight**
->
-> The brawler ignores concealment if it's granted by a supernatural effect.
+<script type="application/json" class="sc-statblock-data">
+{"id":"human-brawler","name":"Human Brawler","ancestry":"Human, Humanoid","level":"1","role":"Platoon Brute","roleKey":"brute","ev":"6","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"40"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"4"}],"meta":{"immunity":"Corruption 1, psychic 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Haymaker","cost":"Signature","usage":"Main action","keywords":["Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"12 damage; M \u003c 2 grabbed and the target takes a bane on the Escape Grab maneuver","low":"6 damage","mid":"9 damage"}},"sections":[{"label":"Effect","text":"A target who is already grabbed takes an extra 2 damage."}]},{"kind":"ability","action":"maneuver","name":"Throw","cost":"1 Malice","usage":"Maneuver","keywords":["Melee"],"distance":"Melee 1","target":"One creature grabbed by the brawler","sections":[{"label":"Effect","text":"The brawler pushes the target up to 5 squares."}]},{"kind":"passive","action":"passive","name":"Shoot the Hostage","body":"The brawler halves the damage from any strike if they have a creature or object grabbed of size 1S or larger. The grabbed creature or object takes the remaining damage."},{"kind":"passive","action":"passive","name":"Supernatural Insight","body":"The brawler ignores concealment if it's granted by a supernatural effect."}]}
+</script>

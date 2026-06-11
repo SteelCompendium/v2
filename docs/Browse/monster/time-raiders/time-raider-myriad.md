@@ -28,24 +28,6 @@ with_captain: +1 damage bonus to strikes
 
 ---
 
-|   Humanoid, Time Raider   |         -         |     Level 3      |                  Minion Brute                  | EV 5 for four minions |
-|:-------------------------:|:-----------------:|:----------------:|:----------------------------------------------:|:---------------------:|
-|      **1M**<br>Size       |  **5**<br>Speed   | **8**<br>Stamina |               **0**<br>Stability               | **3**<br>Free Strike  |
-| **Psychic 3**<br>Immunity | **-**<br>Movement |        -         | **+1 damage bonus to strikes**<br>With Captain |   **-**<br>Weakness   |
-|      **+2**<br>Might      | **+1**<br>Agility | **+2**<br>Reason |              **+1**<br>Intuition               |  **+1**<br>Presence   |
-
-> 🗡 **Fifth Fist (Signature Ability)**
->
-> | **Melee, Psionic, Strike, Weapon** |                          **Main action** |
-> |------------------------------------|-----------------------------------------:|
-> | **📏 Melee 2**                     | **🎯 One creature or object per minion** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; slide 1
-> - **12-16:** 5 damage; slide 2
-> - **17+:** 6 damage; slide 3, prone
-
-> ⭐️ **Foresight**
->
-> The myriad doesn't take a bane on strikes against creatures with concealment.
+<script type="application/json" class="sc-statblock-data">
+{"id":"time-raider-myriad","name":"Time Raider Myriad","ancestry":"Humanoid, Time Raider","level":"3","role":"Minion Brute","roleKey":"brute","ev":"5 for four minions","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"5"},{"l":"Stamina","v":"8"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"3"}],"meta":{"immunity":"Psychic 3","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+2"},{"l":"Agility","k":"A","v":"+1"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Fifth Fist","cost":"Signature","usage":"Main action","keywords":["Melee","Psionic","Strike","Weapon"],"distance":"Melee 2","target":"One creature or object per minion","powerRoll":{"formula":"+ 2","tiers":{"high":"6 damage; slide 3, prone","low":"3 damage; slide 1","mid":"5 damage; slide 2"}}},{"kind":"passive","action":"passive","name":"Foresight","body":"The myriad doesn't take a bane on strikes against creatures with concealment."}]}
+</script>

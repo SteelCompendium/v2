@@ -30,42 +30,6 @@ type: statblock
 
 ---
 
-| Goblin, Hobgoblin, Humanoid, Infernal |             -              |      Level 5      |   Platoon Ambusher    |        EV 14         |
-|:-------------------------------------:|:--------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|            **1M**<br>Size             |       **7**<br>Speed       | **70**<br>Stamina |  **0**<br>Stability   | **6**<br>Free Strike |
-|        **Fire 5**<br>Immunity         | **Fly, hover**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+1**<br>Might            |     **+3**<br>Agility      | **+2**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
-
-> 🏹 **Choking Bolt (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 5**           | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 9 fire damage
-> - **12-16:** 14 fire damage
-> - **17+:** 17 fire damage; R < 3 slowed (save ends)
->
-> **Effect:** If this ability gains an edge or has a double edge, the target can't communicate with anyone until the end of their next turn.
-
-> ❇️ **Smoke Bomb (3 Malice)**
->
-> | **Area, Magic** |                  **Maneuver** |
-> |-----------------|------------------------------:|
-> | **📏 3 burst**  | **🎯 Each enemy in the area** |
->
-> **Effect:** Each target makes a Might test.
->
-> - **≤11:** 11 damage; the target has a double bane on their next power roll
-> - **12-16:** 9 damage; the target takes a bane on their next power roll
-> - **17+:** 5 damage
-
-> ⭐️ **Essence of Smoke**
->
-> The smokebinder can move through spaces as if they were size 1T and can occupy another creature or object's space. At the end of their turn, the smokebinder can attempt to hide if they haven't taken any damage since their last turn.
-
-> ⭐️ **Infernal Ichor**
->
-> When the smokebinder is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the smokebinder takes 3 fire damage.
+<script type="application/json" class="sc-statblock-data">
+{"id":"hobgoblin-smokebinder","name":"Hobgoblin Smokebinder","ancestry":"Goblin, Hobgoblin, Humanoid, Infernal","level":"5","role":"Platoon Ambusher","roleKey":"ambusher","ev":"14","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"70"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"6"}],"meta":{"immunity":"Fire 5","weakness":"—","movement":"Fly, hover","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+1"},{"l":"Agility","k":"A","v":"+3"},{"l":"Reason","k":"R","v":"+2"},{"l":"Intuition","k":"I","v":"+1"},{"l":"Presence","k":"P","v":"+0"}],"features":[{"kind":"ability","action":"main","name":"Choking Bolt","cost":"Signature","usage":"Main action","keywords":["Magic","Ranged","Strike"],"distance":"Ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 3","tiers":{"high":"17 fire damage; R \u003c 3 slowed (save ends)","low":"9 fire damage","mid":"14 fire damage"}},"sections":[{"label":"Effect","text":"If this ability gains an edge or has a double edge, the target can't communicate with anyone until the end of their next turn."}]},{"kind":"ability","action":"maneuver","name":"Smoke Bomb","cost":"3 Malice","usage":"Maneuver","keywords":["Area","Magic"],"distance":"3 burst","target":"Each enemy in the area","powerRoll":{"formula":"","tiers":{"high":"5 damage","low":"11 damage; the target has a double bane on their next power roll","mid":"9 damage; the target takes a bane on their next power roll"}},"sections":[{"label":"Effect","text":"Each target makes a Might test."}]},{"kind":"passive","action":"passive","name":"Essence of Smoke","body":"The smokebinder can move through spaces as if they were size 1T and can occupy another creature or object's space. At the end of their turn, the smokebinder can attempt to hide if they haven't taken any damage since their last turn."},{"kind":"passive","action":"passive","name":"Infernal Ichor","body":"When the smokebinder is reduced to 0 Stamina, they spray burning blood. Each creature adjacent to the smokebinder takes 3 fire damage."}]}
+</script>

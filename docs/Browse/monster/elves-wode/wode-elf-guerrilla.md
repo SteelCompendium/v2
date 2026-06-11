@@ -27,44 +27,6 @@ type: statblock
 
 ---
 
-| Fey, Humanoid, Wode Elf |            -             |      Level 3      |   Platoon Ambusher    |        EV 10         |
-|:-----------------------:|:------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |      **7**<br>Speed      | **50**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|    **-**<br>Immunity    | **Teleport**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      |    **+2**<br>Agility     |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
-
-> ⚔️ **Splinter Dagger (Signature Ability)**
->
-> | **Magic, Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |------------------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 5**               | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage; M < 2 bleeding (save ends)
->
-> **Effect:** The guerrilla can teleport up to 3 squares.
->
-> **3 Malice:** This ability targets one additional target, and deals an additional 3 damage if both targets are adjacent to each other.
-
-> ❗️ **Do Not Hesitate in the Wode (3 Malice)**
->
-> | **Ranged**       | **Free triggered action** |
-> |------------------|--------------------------:|
-> | **📏 Ranged 20** | **🎯 Self and each ally** |
->
-> **Special:** The guerrilla must be acting as a captain.
->
-> **Trigger:** An ally ends their turn while the guerrilla hasn't acted this round.
->
-> **Effect:** The targets take their turn immediately. Each target gains an edge on abilities until the end of their turn.
-
-> ⭐️ **Into the Green**
->
-> The guerrilla can attempt to hide at the end of each of their turns.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the guerrilla that would take a bane from cover or concealment have a double bane instead.
+<script type="application/json" class="sc-statblock-data">
+{"id":"wode-elf-guerrilla","name":"Wode Elf Guerrilla","ancestry":"Fey, Humanoid, Wode Elf","level":"3","role":"Platoon Ambusher","roleKey":"ambusher","ev":"10","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"50"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"5"}],"meta":{"immunity":"—","weakness":"—","movement":"Teleport","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"+0"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"+1"}],"features":[{"kind":"ability","action":"main","name":"Splinter Dagger","cost":"Signature","usage":"Main action","keywords":["Magic","Melee","Ranged","Strike","Weapon"],"distance":"Melee 1 or ranged 5","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"14 damage; M \u003c 2 bleeding (save ends)","low":"7 damage","mid":"11 damage"}},"sections":[{"label":"Effect","text":"The guerrilla can teleport up to 3 squares."}],"enhancements":[{"cost":"3 Malice","text":"This ability targets one additional target, and deals an additional 3 damage if both targets are adjacent to each other."}]},{"kind":"ability","action":"triggered","name":"Do Not Hesitate in the Wode","cost":"3 Malice","usage":"Free triggered action","keywords":["Ranged"],"distance":"Ranged 20","target":"Self and each ally","sections":[{"label":"Special","text":"The guerrilla must be acting as a captain."},{"label":"Trigger","text":"An ally ends their turn while the guerrilla hasn't acted this round."},{"label":"Effect","text":"The targets take their turn immediately. Each target gains an edge on abilities until the end of their turn."}]},{"kind":"passive","action":"passive","name":"Into the Green","body":"The guerrilla can attempt to hide at the end of each of their turns."},{"kind":"passive","action":"passive","name":"Masking Glamor","body":"Abilities targeting the guerrilla that would take a bane from cover or concealment have a double bane instead."}]}
+</script>

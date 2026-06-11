@@ -27,36 +27,6 @@ type: statblock
 
 ---
 
-|                 Undead                 |         -         |      Level 1      |     Horde Harrier     |        EV 3          |
-|:--------------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size             |  **7**<br>Speed   | **15**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-| **Corruption 1, poison 1**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|             **0**<br>Might             | **+2**<br>Agility | **-2**<br>Reason  |  **0**<br>Intuition   |  **-1**<br>Presence  |
-
-> 🗡 **Razor Claws (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage; M < 2 bleeding (save ends)
-
-> 👤 **Leap**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The ghoul jumps up to 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul can make a free strike against them.
-
-> ⭐️ **Arise**
->
-> The first time the ghoul is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 1 Stamina and fall prone.
-
-> ⭐️ **Hunger**
->
-> When the ghoul uses the Charge main action, they gain a +2 bonus to speed until the end of their turn.
+<script type="application/json" class="sc-statblock-data">
+{"id":"ghoul","name":"Ghoul","ancestry":"Undead","level":"1","role":"Horde Harrier","roleKey":"harrier","ev":"3","defenses":[{"l":"Size","v":"1M"},{"l":"Speed","v":"7"},{"l":"Stamina","v":"15"},{"l":"Stability","v":"0"},{"l":"Free Strike","v":"1"}],"meta":{"immunity":"Corruption 1, poison 1","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"+0"},{"l":"Agility","k":"A","v":"+2"},{"l":"Reason","k":"R","v":"-2"},{"l":"Intuition","k":"I","v":"+0"},{"l":"Presence","k":"P","v":"-1"}],"features":[{"kind":"ability","action":"main","name":"Razor Claws","cost":"Signature","usage":"Main action","keywords":["Charge","Melee","Strike","Weapon"],"distance":"Melee 1","target":"One creature or object","powerRoll":{"formula":"+ 2","tiers":{"high":"5 damage; M \u003c 2 bleeding (save ends)","low":"3 damage","mid":"4 damage"}}},{"kind":"ability","action":"maneuver","name":"Leap","usage":"Maneuver","keywords":["-"],"distance":"Self","target":"Self","sections":[{"label":"Effect","text":"The ghoul jumps up to 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul can make a free strike against them."}]},{"kind":"passive","action":"passive","name":"Arise","body":"The first time the ghoul is reduced to 0 Stamina by damage that isn't fire damage or holy damage and their body isn't destroyed, they instead have 1 Stamina and fall prone."},{"kind":"passive","action":"passive","name":"Hunger","body":"When the ghoul uses the Charge main action, they gain a +2 bonus to speed until the end of their turn."}]}
+</script>
