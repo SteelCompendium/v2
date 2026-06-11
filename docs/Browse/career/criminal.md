@@ -5,7 +5,7 @@ name: Criminal
 perk: One intrigue perk (*Quick Build:* [Criminal Contacts](../perk/criminal-contacts.md).)
 scc: mcdm.heroes.v1/career/criminal
 skills:
-    - The [Criminal Underworld](../skill/lore/criminal-underworld.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two skills from the [intrigue group](../skill/group/intrigue.md) (*Quick Build:* [Criminal Underworld](../skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
+    - The [Criminal Underworld](../skill/lore/criminal-underworld.md) skill (from the [lore skill group](../skill/lore/index.md)), plus two skills from the [intrigue group](../skill/intrigue/index.md) (*Quick Build:* [Criminal Underworld](../skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin
 
 You gain the following career benefits:
 
-**Skills:** The [Criminal Underworld](../skill/lore/criminal-underworld.md) skill (from the [lore skill group](../skill/group/lore.md)), plus two skills from the [intrigue group](../skill/group/intrigue.md) (*Quick Build:* [Criminal Underworld](../skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
+**Skills:** The [Criminal Underworld](../skill/lore/criminal-underworld.md) skill (from the [lore skill group](../skill/lore/index.md)), plus two skills from the [intrigue group](../skill/intrigue/index.md) (*Quick Build:* [Criminal Underworld](../skill/lore/criminal-underworld.md), Pick Lock, Pick Pocket.)
 
 **Languages:** One language
 

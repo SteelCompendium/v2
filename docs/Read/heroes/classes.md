@@ -528,7 +528,7 @@ As a [censor](../../Browse/class/censor.md), you're at your best against the str
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 12
 
-**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/group/interpersonal.md) or [lore](../../Browse/skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md), [Religion](../../Browse/skill/lore/religion.md).)
+**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md), [Religion](../../Browse/skill/lore/religion.md).)
 
 ###### Censor Advancement Table
 
@@ -563,7 +563,7 @@ Your [censor order](../../Browse/feature/censor/level-1/censor-order.md) is your
 
 Choose a god or [saint](../../Browse/rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
-After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../god/cavall.md) as deity and War as domain.)
+After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../../Browse/god/cavall.md) as deity and War as domain.)
 
 #### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath"}
 
@@ -738,7 +738,7 @@ Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can
 
 ##### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../../Browse/rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../Browse/skill/group/intrigue.md), you can use [Presence](../../Browse/rule/character/presence.md) on the [test](../../Browse/rule/test/test.md) instead of another [characteristic](../../Browse/rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../../Browse/rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../Browse/skill/intrigue/index.md), you can use [Presence](../../Browse/rule/character/presence.md) on the [test](../../Browse/rule/test/test.md) instead of another [characteristic](../../Browse/rule/character/characteristic.md).
 
 ##### Oracular Visions {data-scc="mcdm.heroes.v1/feature.censor.level-1/oracular-visions"}
 
@@ -1541,7 +1541,7 @@ Each time you use your [My Life for Yours](../../Browse/feature/ability/censor/l
 
 ##### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../../Browse/rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). Additionally, you add your level to [project rolls](../../Browse/rule/downtime/project-roll.md) you make for crafting and [research projects](../../Browse/rule/downtime/research-project.md). You also have any skills in the [lore skill group](../../Browse/skill/group/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../../Browse/skill/group/lore.md) before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../../Browse/rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). Additionally, you add your level to [project rolls](../../Browse/rule/downtime/project-roll.md) you make for crafting and [research projects](../../Browse/rule/downtime/research-project.md). You also have any skills in the [lore skill group](../../Browse/skill/lore/index.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../../Browse/skill/lore/index.md) before you gained this feature.
 
 ##### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.censor.level-7/light-of-the-burning-sun"}
 
@@ -1887,7 +1887,7 @@ The power of the gods flows through you! As a vessel for [divine power](../../Br
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/group/interpersonal.md) or [lore](../../Browse/skill/group/lore.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md), Religion.)
+**Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md), Religion.)
 
 ###### Conduit Advancement Table
 
@@ -1912,7 +1912,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 
 Choose a god or [saint](../../Browse/rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
-After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../../Browse/rule/general/subclass.md), and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../god/adun.md) for deity, and Life and Protection as domains.)
+After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../../Browse/rule/general/subclass.md), and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../../Browse/god/adun.md) for deity, and Life and Protection as domains.)
 
 #### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety"}
 
@@ -2096,7 +2096,7 @@ Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can
 
 ##### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
-The gods favor your thievery with magic. Whenever you make a [test](../../Browse/rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../Browse/skill/group/intrigue.md), you can use [Intuition](../../Browse/rule/character/intuition.md) on the [test](../../Browse/rule/test/test.md) instead of another [characteristic](../../Browse/rule/character/characteristic.md).
+The gods favor your thievery with magic. Whenever you make a [test](../../Browse/rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../Browse/skill/intrigue/index.md), you can use [Intuition](../../Browse/rule/character/intuition.md) on the [test](../../Browse/rule/test/test.md) instead of another [characteristic](../../Browse/rule/character/characteristic.md).
 
 ##### Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
 
@@ -3209,7 +3209,7 @@ Each time you use your [Healing Grace](../../Browse/feature/ability/conduit/leve
 
 ##### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../../Browse/rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). Additionally, you add your level to [project rolls](../../Browse/rule/downtime/project-roll.md) you make for crafting and [research projects](../../Browse/rule/downtime/research-project.md). You also have any skills in the [lore skill group](../../Browse/skill/group/lore.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../../Browse/skill/group/lore.md) before you gained this feature.
+You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../../Browse/rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](downtime-projects.md)). Additionally, you add your level to [project rolls](../../Browse/rule/downtime/project-roll.md) you make for crafting and [research projects](../../Browse/rule/downtime/research-project.md). You also have any skills in the [lore skill group](../../Browse/skill/lore/index.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../../Browse/skill/lore/index.md) before you gained this feature.
 
 ##### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.conduit.level-7/light-of-the-burning-sun"}
 
@@ -3596,7 +3596,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any three skills from the [crafting](../../Browse/skill/group/crafting.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
+**Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any three skills from the [crafting](../../Browse/skill/crafting/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
 ###### Elementalist Advancement Table
 
@@ -5062,7 +5062,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Nature](../../Browse/skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [exploration](../../Browse/skill/group/exploration.md) or [intrigue](../../Browse/skill/group/intrigue.md) skill groups. (*Quick Build:* Alertness, Jump, Nature.)
+**Skills:** You gain the [Nature](../../Browse/skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [exploration](../../Browse/skill/exploration/index.md) or [intrigue](../../Browse/skill/intrigue/index.md) skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
 ###### Fury Advancement Table
 
@@ -6542,7 +6542,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Psionics](../../Browse/skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/group/interpersonal.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
+**Skills:** You gain the [Psionics](../../Browse/skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
 ###### Null Advancement Table
 
@@ -6567,9 +6567,9 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 
 Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../../Browse/feature/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../../Browse/skill/lore/monsters.md) skill.)
 
-- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the [lore group](../../Browse/skill/group/lore.md).
-- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the [crafting group](../../Browse/skill/group/crafting.md).
-- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the [exploration group](../../Browse/skill/group/exploration.md).
+- **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the [lore group](../../Browse/skill/lore/index.md).
+- **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the [crafting group](../../Browse/skill/crafting/index.md).
+- **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the [exploration group](../../Browse/skill/exploration/index.md).
 
 Your [null tradition](../../Browse/feature/null/level-1/null-tradition.md) is your [subclass](../../Browse/rule/general/subclass.md), and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
@@ -7757,7 +7757,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../../Browse/skill/group/exploration.md), [interpersonal](../../Browse/skill/group/interpersonal.md), or [intrigue](../../Browse/skill/group/intrigue.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
+**Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../../Browse/skill/exploration/index.md), [interpersonal](../../Browse/skill/interpersonal/index.md), or [intrigue](../../Browse/skill/intrigue/index.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
 ###### Shadow Advancement Table
 
@@ -8978,7 +8978,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 10
 
-**Skills:** You gain the [Lead](../../Browse/skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../../Browse/skill/group/exploration.md). (*Quick Build:* Lead, Monsters, Strategy.)
+**Skills:** You gain the [Lead](../../Browse/skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../../Browse/skill/exploration/index.md). (*Quick Build:* Lead, Monsters, Strategy.)
 
 ###### Tactician Advancement Table
 
@@ -9003,9 +9003,9 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrine.md), outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrine.md) from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill.)
 
-- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the [intrigue skill group](../../Browse/skill/group/intrigue.md).
-- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../../Browse/rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the [lore skill group](../../Browse/skill/group/lore.md).
-- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../../Browse/rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md).
+- **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the [intrigue skill group](../../Browse/skill/intrigue/index.md).
+- **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking [victory](../../Browse/rule/resource/victories.md) by thinking steps ahead of your opponents. You gain a skill from the [lore skill group](../../Browse/skill/lore/index.md).
+- **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek [victory](../../Browse/rule/resource/victories.md) through sheer force of will and personality. You gain a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md).
 
 Your [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrine.md) is your [subclass](../../Browse/rule/general/subclass.md), and your choice of doctrine determines many of the features you'll gain as you gain new levels.
 
@@ -9049,9 +9049,9 @@ You command any room you walk into. While you are present during a negotiation, 
 
 ##### Covert Operations {data-scc="mcdm.heroes.v1/feature.tactician.level-1/covert-operations"}
 
-While in your presence or working according to your plans, each of your allies gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) using any skill from the [intrigue skill group](../../Browse/skill/group/intrigue.md). Additionally, you can use the [Lead](../../Browse/skill/interpersonal/lead.md) skill to assist another creature with any [test](../../Browse/rule/test/test.md) made using a skill from the [intrigue group](../../Browse/skill/group/intrigue.md).
+While in your presence or working according to your plans, each of your allies gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) using any skill from the [intrigue skill group](../../Browse/skill/intrigue/index.md). Additionally, you can use the [Lead](../../Browse/skill/interpersonal/lead.md) skill to assist another creature with any [test](../../Browse/rule/test/test.md) made using a skill from the [intrigue group](../../Browse/skill/intrigue/index.md).
 
-At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../../Browse/skill/group/intrigue.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
+At the Director's discretion, you and your allies can use skills from the [intrigue skill group](../../Browse/skill/intrigue/index.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
 ##### Studied Commander {data-scc="mcdm.heroes.v1/feature.tactician.level-1/studied-commander"}
 
@@ -9143,9 +9143,9 @@ For example, if you take the [Shining Armor](../../Browse/kit/shining-armor.md) 
 - [Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +1
 - [Ranged](../../Browse/rule/combat/ranged.md) [Distance](../../Browse/rule/combat/distance.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +10
 - Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +1
-- You can use the [Patient Shot](../../Browse/feature/ability/sniper/patient-shot.md) and [Protective Attack](../../Browse/feature/ability/shining-armor/protective-attack.md) [signature abilities](../../Browse/rule/combat/signature-ability.md).
+- You can use the [Patient Shot](../../Browse/feature/ability/Kits/sniper-patient-shot.md) and [Protective Attack](../../Browse/feature/ability/Kits/shining-armor-protective-attack.md) [signature abilities](../../Browse/rule/combat/signature-ability.md).
 
-Kit [signature abilities](../../Browse/rule/combat/signature-ability.md) have their kit's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es already applied, which might require you to adjust the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es of the [signature abilities](../../Browse/rule/combat/signature-ability.md) you gain from a kit. For example, you might take the [Martial Artist](../../Browse/kit/martial-artist.md) kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +2/+2/+2, and the Mountain kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +0/+0/+4. If you choose to use the Mountain kit's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), then the [Battle Grace](../../Browse/feature/ability/martial-artist/battle-grace.md) [signature ability](../../Browse/rule/combat/signature-ability.md) from the [Martial Artist](../../Browse/kit/martial-artist.md) kit loses the +2/+2/+2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
+Kit [signature abilities](../../Browse/rule/combat/signature-ability.md) have their kit's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es already applied, which might require you to adjust the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es of the [signature abilities](../../Browse/rule/combat/signature-ability.md) you gain from a kit. For example, you might take the [Martial Artist](../../Browse/kit/martial-artist.md) kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +2/+2/+2, and the Mountain kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +0/+0/+4. If you choose to use the Mountain kit's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), then the [Battle Grace](../../Browse/feature/ability/Kits/martial-artist-battle-grace.md) [signature ability](../../Browse/rule/combat/signature-ability.md) from the [Martial Artist](../../Browse/kit/martial-artist.md) kit loses the +2/+2/+2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
 
 #### Mark {data-scc="mcdm.heroes.v1/feature.tactician.level-1/mark"}
 
@@ -9790,15 +9790,15 @@ Your [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrin
 
 ##### Asymmetric Warfare {data-scc="mcdm.heroes.v1/feature.tactician.level-7/asymmetric-warfare"}
 
-You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [intrigue skill group](../../Browse/skill/group/intrigue.md). Additionally, you can use skills from the [intrigue skill group](../../Browse/skill/group/intrigue.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
+You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [intrigue skill group](../../Browse/skill/intrigue/index.md). Additionally, you can use skills from the [intrigue skill group](../../Browse/skill/intrigue/index.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.
 
 ##### Grand Strategy {data-scc="mcdm.heroes.v1/feature.tactician.level-7/grand-strategy"}
 
-You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [lore skill group](../../Browse/skill/group/lore.md). Additionally, when you take a [respite](../../Browse/rule/resource/respite.md), you can make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [research project](../../Browse/rule/downtime/research-project.md) in addition to undertaking another [respite](../../Browse/rule/resource/respite.md) activity.
+You have grown your skills in strategy, wielding intricate battlefield tactics and plans. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [lore skill group](../../Browse/skill/lore/index.md). Additionally, when you take a [respite](../../Browse/rule/resource/respite.md), you can make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [research project](../../Browse/rule/downtime/research-project.md) in addition to undertaking another [respite](../../Browse/rule/resource/respite.md) activity.
 
 ##### Shock and Awe {data-scc="mcdm.heroes.v1/feature.tactician.level-7/shock-and-awe"}
 
-You have expanded your leadership skills, strengthening your [followers](../../Browse/rule/general/follower.md)' morale and providing logistical support. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md). Additionally, you can convince a group of people to help you with a [crafting project](../../Browse/rule/downtime/crafting-project.md) during a [respite](../../Browse/rule/resource/respite.md). If these people are available when you take a [respite](../../Browse/rule/resource/respite.md), you can make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [crafting project](../../Browse/rule/downtime/crafting-project.md) in addition to undertaking another [respite](../../Browse/rule/resource/respite.md) activity.
+You have expanded your leadership skills, strengthening your [followers](../../Browse/rule/general/follower.md)' morale and providing logistical support. During a [montage test](../../Browse/rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../Browse/rule/test/test.md) made using a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md). Additionally, you can convince a group of people to help you with a [crafting project](../../Browse/rule/downtime/crafting-project.md) during a [respite](../../Browse/rule/resource/respite.md). If these people are available when you take a [respite](../../Browse/rule/resource/respite.md), you can make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [crafting project](../../Browse/rule/downtime/crafting-project.md) in addition to undertaking another [respite](../../Browse/rule/resource/respite.md) activity.
 
 ### 8th-Level Features
 
@@ -10070,7 +10070,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Psionics and [Read Person](../../Browse/skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/group/interpersonal.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
+**Skills:** You gain the Psionics and [Read Person](../../Browse/skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
 ###### Talent Advancement Table
 
@@ -10890,7 +10890,7 @@ Your [talent tradition](../../Browse/feature/talent/level-1/talent-tradition.md)
 
 ##### Compulsion {data-scc="mcdm.heroes.v1/feature.talent.level-5/compulsion"}
 
-Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) using a skill from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md) while interacting with an [NPC](../../Browse/rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature. The [NPC](../../Browse/rule/general/npc.md) must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) using a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md) while interacting with an [NPC](../../Browse/rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature. The [NPC](../../Browse/rule/general/npc.md) must answer the question truthfully to the best of their ability.
 
 ##### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
@@ -11160,7 +11160,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../Browse/rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../Browse/skill/group/interpersonal.md) and [lore](../../Browse/skill/group/lore.md) skill groups. These replacements last until the end of your next [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../Browse/rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) and [lore](../../Browse/skill/lore/index.md) skill groups. These replacements last until the end of your next [respite](../../Browse/rule/resource/respite.md).
 
 #### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
 
@@ -11526,7 +11526,7 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 
 **[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose two skills from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md) and one skill from the [intrigue](../../Browse/skill/group/intrigue.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../../Browse/skill/interpersonal/read-person.md), Rumors.)
+**Skills:** You gain the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md) and one skill from the [intrigue](../../Browse/skill/intrigue/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../../Browse/skill/interpersonal/read-person.md), Rumors.)
 
 ###### Troubadour Advancement Table
 
@@ -11598,7 +11598,7 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](kits.md) for m
 
 #### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner"}
 
-Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) to interact with an [NPC](../../Browse/rule/general/npc.md) using a skill from the [interpersonal group](../../Browse/skill/group/interpersonal.md), you can form a bond with that [NPC](../../Browse/rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../../Browse/rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../../Browse/rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
+Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) to interact with an [NPC](../../Browse/rule/general/npc.md) using a skill from the [interpersonal group](../../Browse/skill/interpersonal/index.md), you can form a bond with that [NPC](../../Browse/rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../../Browse/rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../../Browse/rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
 
 You can have a number of bonds active equal to your level. When you form a bond with a new [NPC](../../Browse/rule/general/npc.md) that would exceed the limit, you must choose which of your active bonds to lose.
 
@@ -12060,7 +12060,7 @@ The Director determines when the target receives your notice. When the target re
 
 You can invoke your reputation at the start of a social interaction with one or more [NPCs](../../Browse/rule/general/npc.md) who haven't met you before, automatically creating a bond with one of those [NPCs](../../Browse/rule/general/npc.md) from that group as if using your [Scene Partner](../../Browse/feature/troubadour/level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../../Browse/feature/troubadour/level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their [Renown](../../Browse/rule/resource/renown.md) as 2 higher than usual for the purpose of entering into a negotiation with the bonded [NPC](../../Browse/rule/general/npc.md).
 
-The Director can award the heroes 1 [hero token](../../Browse/rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../../Browse/rule/dice/bane.md) on [tests](../../Browse/rule/test/test.md) made to interact with creatures in the group using skills from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md). You can still use your [Scene Partner](../../Browse/feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
+The Director can award the heroes 1 [hero token](../../Browse/rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../../Browse/rule/dice/bane.md) on [tests](../../Browse/rule/test/test.md) made to interact with creatures in the group using skills from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md). You can still use your [Scene Partner](../../Browse/feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 

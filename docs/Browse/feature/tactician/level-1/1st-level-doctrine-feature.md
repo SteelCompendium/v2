@@ -51,8 +51,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While in your presence or working according to your plans, each of your allies gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> using any skill from the <a href="../../../../skill/group/intrigue/">intrigue skill group</a>. Additionally, you can use the <a href="../../../../skill/interpersonal/lead/">Lead</a> skill to assist another creature with any <a href="../../../../rule/test/test/">test</a> made using a skill from the <a href="../../../../skill/group/intrigue/">intrigue group</a>.</p>
-<p>At the Director&#39;s discretion, you and your allies can use skills from the <a href="../../../../skill/group/intrigue/">intrigue skill group</a> to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p>
+<p>While in your presence or working according to your plans, each of your allies gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> using any skill from the <a href="../../../../skill/intrigue/">intrigue skill group</a>. Additionally, you can use the <a href="../../../../skill/interpersonal/lead/">Lead</a> skill to assist another creature with any <a href="../../../../rule/test/test/">test</a> made using a skill from the <a href="../../../../skill/intrigue/">intrigue group</a>.</p>
+<p>At the Director&#39;s discretion, you and your allies can use skills from the <a href="../../../../skill/intrigue/">intrigue skill group</a> to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

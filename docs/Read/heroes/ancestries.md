@@ -381,7 +381,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 #### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../../Browse/skill/group/interpersonal.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when attempting to discover an [NPC](../../Browse/rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when attempting to discover an [NPC](../../Browse/rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
 
 #### Purchased Devil Traits
 
@@ -1451,7 +1451,7 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be mad
 
 ##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../../Browse/skill/group/crafting.md), whether you have those skills or not. Whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [crafting project](../../Browse/rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../../Browse/skill/crafting/index.md), whether you have those skills or not. Whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [crafting project](../../Browse/rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
@@ -1495,7 +1495,7 @@ Jago, Sarah, and Beth all smiled at the exchange.
 
 "Do we have to... can we talk about something else, please?" John said.
 
-"I just..." The [polder](../../Browse/ancestry/polder.md) wouldn't let it go. "You seriously never... you never been to an inn? [Cavall](../god/cavall.md)'s teeth, I can't count how many inns and taverns I've been to run by [polders](../../Browse/ancestry/polder.md), got [polders](../../Browse/ancestry/polder.md) in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The [polder](../../Browse/ancestry/polder.md) wouldn't let it go. "You seriously never... you never been to an inn? [Cavall](../../Browse/god/cavall.md)'s teeth, I can't count how many inns and taverns I've been to run by [polders](../../Browse/ancestry/polder.md), got [polders](../../Browse/ancestry/polder.md) in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 

@@ -28,7 +28,7 @@ type: feature
 <p><b>Starting Stamina at 1st Level:</b> 21</p>
 <p><b>Stamina Gained at 2nd and Higher Levels:</b> 12</p>
 <p><b>Recoveries:</b> 12</p>
-<p><b>Skills:</b> You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (<em>Quick Build:</em> Animal Handling, Navigate, Track.)</p>
+<p><b>Skills:</b> You gain the <a href="../../../../skill/interpersonal/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (<em>Quick Build:</em> <a href="../../../../skill/interpersonal/handle-animals/">Animal Handling</a>, <a href="../../../../skill/exploration/navigate/">Navigate</a>, <a href="../../../../skill/intrigue/track/">Track</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

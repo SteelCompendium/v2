@@ -28,7 +28,7 @@ type: feature
 <p><b>Starting <a href="../../../../rule/health/stamina/">Stamina</a> at 1st Level:</b> 15</p>
 <p><b><a href="../../../../rule/health/stamina/">Stamina</a> Gained at 2nd and Higher Levels:</b> 6</p>
 <p><b><a href="../../../../rule/health/recoveries/">Recoveries</a>:</b> 8</p>
-<p><b>Skills:</b> You gain the <a href="../../../../skill/lore/magic/">Magic</a> and <a href="../../../../skill/lore/strategy/">Strategy</a> skills and can choose any two skills from the <a href="../../../../skill/group/intrigue/">intrigue</a> or <a href="../../../../skill/group/lore/">lore</a> skill groups. (<em>Quick Build:</em> <a href="../../../../skill/intrigue/eavesdrop/">Eavesdrop</a>, <a href="../../../../skill/lore/magic/">Magic</a>, <a href="../../../../skill/lore/monsters/">Monsters</a>, <a href="../../../../skill/lore/strategy/">Strategy</a>.)</p>
+<p><b>Skills:</b> You gain the <a href="../../../../skill/lore/magic/">Magic</a> and <a href="../../../../skill/lore/strategy/">Strategy</a> skills and can choose any two skills from the <a href="../../../../skill/intrigue/">intrigue</a> or <a href="../../../../skill/lore/">lore</a> skill groups. (<em>Quick Build:</em> <a href="../../../../skill/intrigue/eavesdrop/">Eavesdrop</a>, <a href="../../../../skill/lore/magic/">Magic</a>, <a href="../../../../skill/lore/monsters/">Monsters</a>, <a href="../../../../skill/lore/strategy/">Strategy</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

@@ -110,7 +110,7 @@ You can use any of the following story leads to build interesting encounters or 
 
 **My Teacher's Teacher:** Another member of the hero summoner's circle brings news of their student's death, the hero's teacher. The hero summoner must prove their worth to the pedagogue, or else the old summoner will kill them, too!
 
-**Symphony Necromantics:** A once long-abandoned graveyard has quickly corrupted the surrounding area and grows by the day. A cult of necromancers conducts an expanding orchestra of the undead in a sickly song, and will soon complete their musical ritual, calling forth an [Avatar of Death](../../Browse/champion/undead/statblock/avatar-of-death.md).
+**Symphony Necromantics:** A once long-abandoned graveyard has quickly corrupted the surrounding area and grows by the day. A cult of necromancers conducts an expanding orchestra of the undead in a sickly song, and will soon complete their musical ritual, calling forth an [Avatar of Death](../../Browse/champion/undead/avatar-of-death.md).
 
 **The Living Portal:** A young mage is haunted by demons springing forth from their forehead whenever they fall asleep. Their hometown wants the mage to leave, while ne'er-do-wells lurk in wait for their chance to capture this power for themselves.
 
@@ -172,7 +172,7 @@ Most minions the [summoner](../../Browse/class/summoner.md) can call forth can b
 
 **Captain Benefits:** Enemy minions can receive a small bonus while a captain is attached to their squad. Choose between a [speed](../../Browse/rule/character/speed.md) or [strike](../../Browse/rule/combat/strike.md) damage bonus equal to the minion's [power roll](../../Browse/rule/dice/power-roll.md) bonus, or use a captain bonus from an existing minion stat block.
 
-**Repeating Attacks:** Minions that can make repeating subsequent attacks, such as the [Iron Reaver](../../Browse/minion/elemental/statblock/iron-reaver.md), should be limited to one additional attack maximum.
+**Repeating Attacks:** Minions that can make repeating subsequent attacks, such as the [Iron Reaver](../../Browse/minion/elemental/iron-reaver.md), should be limited to one additional attack maximum.
 
 ###### Minion Stamina and Damage Categories by Role
 

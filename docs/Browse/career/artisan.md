@@ -5,7 +5,7 @@ name: Artisan
 perk: One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)
 scc: mcdm.heroes.v1/career/artisan
 skills:
-    - Two skills from the [crafting skill group](../skill/group/crafting.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Carpentry](../skill/crafting/carpentry.md).)
+    - Two skills from the [crafting skill group](../skill/crafting/index.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Carpentry](../skill/crafting/carpentry.md).)
 type: career
 ---
 
@@ -22,7 +22,7 @@ You made and sold useful wares. In defining your career, think about the followi
 
 You gain the following career benefits:
 
-**Skills:** Two skills from the [crafting skill group](../skill/group/crafting.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Carpentry](../skill/crafting/carpentry.md).)
+**Skills:** Two skills from the [crafting skill group](../skill/crafting/index.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Carpentry](../skill/crafting/carpentry.md).)
 
 **Languages:** One language
 

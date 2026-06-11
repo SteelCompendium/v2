@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a number of skills you have up to your <a href="../../../../rule/character/reason/">Reason</a> score and replace them with an equal number of skills from the <a href="../../../../skill/group/interpersonal/">interpersonal</a> and <a href="../../../../skill/group/lore/">lore</a> skill groups. These replacements last until the end of your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a number of skills you have up to your <a href="../../../../rule/character/reason/">Reason</a> score and replace them with an equal number of skills from the <a href="../../../../skill/interpersonal/">interpersonal</a> and <a href="../../../../skill/lore/">lore</a> skill groups. These replacements last until the end of your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

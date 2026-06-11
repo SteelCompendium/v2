@@ -36,7 +36,7 @@ You can also take advantage of powerful magic to buff your allies, whittle down 
 
 **[Recoveries](../rule/health/recoveries.md):** 8
 
-**Skills:** You gain the [Magic](../skill/lore/magic.md) and [Strategy](../skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../skill/group/intrigue.md) or [lore](../skill/group/lore.md) skill groups. (*Quick Build:* [Eavesdrop](../skill/intrigue/eavesdrop.md), [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Strategy](../skill/lore/strategy.md).)
+**Skills:** You gain the [Magic](../skill/lore/magic.md) and [Strategy](../skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../skill/intrigue/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* [Eavesdrop](../skill/intrigue/eavesdrop.md), [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Strategy](../skill/lore/strategy.md).)
 
 ##### Summoner Advancement
 
@@ -1067,7 +1067,7 @@ As a 2nd-level [summoner](summoner.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-2/perk"}
 
-You gain an [intrigue](../skill/group/intrigue.md), [lore](../skill/group/lore.md), or supernatural [perk](../feature/summoner/level-2/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../skill/intrigue/index.md), [lore](../skill/lore/index.md), or supernatural [perk](../feature/summoner/level-2/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
 
 ### Summoner's Dominion {data-scc="mcdm.summoner.v1/feature.summoner.level-2/summoners-dominion"}
 
@@ -2015,7 +2015,7 @@ As a 6th-level [summoner](summoner.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-6/perk"}
 
-You gain an [interpersonal](../skill/group/interpersonal.md), [lore](../skill/group/lore.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [interpersonal](../skill/interpersonal/index.md), [lore](../skill/lore/index.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 ### Return to the Source {data-scc="mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source"}
 
@@ -2601,7 +2601,7 @@ As a [respite](../rule/resource/respite.md) activity, you summon a willing and n
 
 ### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-10/perk"}
 
-You gain an [intrigue](../skill/group/intrigue.md), [interpersonal](../skill/group/interpersonal.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../skill/intrigue/index.md), [interpersonal](../skill/interpersonal/index.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 ### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-10/skill"}
 

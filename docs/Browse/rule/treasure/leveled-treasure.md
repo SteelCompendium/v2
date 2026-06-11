@@ -416,9 +416,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals [rolled damage](../damage/rolled-damage.md) using this weapon gains a +1 damage [bonus](../dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../damage/rolled-damage.md) with this weapon, you can immediately [shift](../../movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an [NPC](../general/npc.md) in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../combat/opportunity-attack.md) against an enemy of your [size](../character/size.md) or smaller, you can use [fancy footwork](../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../condition/prone.md). You also earn 1 [Renown](../resource/renown.md).
+**5th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../combat/opportunity-attack.md) against an enemy of your [size](../character/size.md) or smaller, you can use [fancy footwork](../../feature/ability/Kits/swashbuckler-fancy-footwork.md) to knock them [prone](../../condition/prone.md). You also earn 1 [Renown](../resource/renown.md).
 
-**9th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../dice/edge.md) on any [test](../test/test.md) you make using a skill you have from the [interpersonal skill group](../../skill/group/interpersonal.md).
+**9th Level:** The weapon's damage [bonus](../dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../dice/edge.md) on any [test](../test/test.md) you make using a skill you have from the [interpersonal skill group](../../skill/interpersonal/index.md).
 
 ### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 

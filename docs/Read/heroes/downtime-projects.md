@@ -57,7 +57,7 @@ Since [project rolls](../../Browse/rule/downtime/project-roll.md) don't use succ
 
 #### Skills and Project Rolls
 
-You can apply skills from either the [crafting](../../Browse/skill/group/crafting.md) or [lore](../../Browse/skill/group/lore.md) skill groups to [project rolls](../../Browse/rule/downtime/project-roll.md) that directly relate to a downtime project (see Skills in Chapter 9: [Tests](tests.md)). For example, you could use the Tailoring skill for [project rolls](../../Browse/rule/downtime/project-roll.md) related to making a magic cloak, and you could use the History skill while attempting to research the location of an ancient battle where a magic crown was lost. At the Director's discretion, you can also use skills from other skill groups, but a skill used for a [project roll](../../Browse/rule/downtime/project-roll.md) must be directly related to the project.
+You can apply skills from either the [crafting](../../Browse/skill/crafting/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups to [project rolls](../../Browse/rule/downtime/project-roll.md) that directly relate to a downtime project (see Skills in Chapter 9: [Tests](tests.md)). For example, you could use the Tailoring skill for [project rolls](../../Browse/rule/downtime/project-roll.md) related to making a magic cloak, and you could use the History skill while attempting to research the location of an ancient battle where a magic crown was lost. At the Director's discretion, you can also use skills from other skill groups, but a skill used for a [project roll](../../Browse/rule/downtime/project-roll.md) must be directly related to the project.
 
 #### Language and Project Rolls
 
