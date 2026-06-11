@@ -35,11 +35,11 @@ test("normalizeWidth handles units, keywords, bare numbers", () => {
   assert.strictEqual(C.normalizeWidth(null), null);
 });
 
-test("clampEm clamps to [44, 500] and snaps to step", () => {
+test("clampEm clamps to [44, 300] and snaps to step", () => {
   assert.strictEqual(C.clampEm(60), 60);
   assert.strictEqual(C.clampEm(10), 44);     // below min
   assert.strictEqual(C.clampEm(200), 200);   // within range
-  assert.strictEqual(C.clampEm(600), 500);   // above max
+  assert.strictEqual(C.clampEm(600), 300);   // above max
   assert.strictEqual(C.clampEm("63"), 64);   // snap to 2em step
   assert.strictEqual(C.clampEm("xyz"), 80);  // NaN -> default
 });
@@ -51,7 +51,7 @@ test("widthToControls maps stored width to slider state", () => {
   assert.deepStrictEqual(C.widthToControls("default"), { full: true, em: 80 });
   assert.deepStrictEqual(C.widthToControls("60em"), { full: false, em: 60 });
   assert.deepStrictEqual(C.widthToControls("200em"), { full: false, em: 200 });
-  assert.deepStrictEqual(C.widthToControls("600em"), { full: false, em: 500 }); // clamp max
+  assert.deepStrictEqual(C.widthToControls("600em"), { full: false, em: 300 }); // clamp max
 });
 
 test("controlsToWidth serializes slider state", () => {
