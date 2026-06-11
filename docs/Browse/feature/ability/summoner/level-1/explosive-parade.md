@@ -12,9 +12,9 @@ name: Explosive Parade
 power_roll_characteristic: Reason
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/explosive-parade
 target: Special
-tier1: You summon four signature minions.
-tier2: You summon five signature minions.
-tier3: You summon six signature minions.
+tier1: You summon four [signature minions](../../../summoner/level-1/minions.md).
+tier2: You summon five [signature minions](../../../summoner/level-1/minions.md).
+tier3: You summon six [signature minions](../../../summoner/level-1/minions.md).
 type: ability
 ---
 
@@ -40,9 +40,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You summon four signature minions.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You summon five signature minions.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You summon six signature minions.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You summon four <a href="../../../../summoner/level-1/minions/">signature minions</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You summon five <a href="../../../../summoner/level-1/minions/">signature minions</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You summon six <a href="../../../../summoner/level-1/minions/">signature minions</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

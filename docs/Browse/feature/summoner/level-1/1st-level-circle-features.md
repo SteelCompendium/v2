@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Circle</th><th>Feature</th></tr></thead><tbody><tr><td>Blight</td><td>Death Snap, Soulsense</td></tr><tr><td>Graves</td><td>Dead Men Tell All Tales, Rise!</td></tr><tr><td>Spring</td><td>Fairy Whispers, Pixie Dust</td></tr><tr><td>Storms</td><td>Elemental Affinity, Heart of Nature</td></tr></tbody></table>
+<table><thead><tr><th>Circle</th><th>Feature</th></tr></thead><tbody><tr><td>Blight</td><td><a href="../death-snap/">Death Snap</a>, <a href="../soulsense/">Soulsense</a></td></tr><tr><td>Graves</td><td><a href="../dead-men-tell-all-tales/">Dead Men Tell All Tales</a>, <a href="../rise/">Rise!</a></td></tr><tr><td>Spring</td><td><a href="../fairy-whispers/">Fairy Whispers</a>, <a href="../pixie-dust/">Pixie Dust</a></td></tr><tr><td>Storms</td><td><a href="../elemental-affinity/">Elemental Affinity</a>, <a href="../heart-of-nature/">Heart of Nature</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -86,9 +86,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You summon four signature minions.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You summon five signature minions.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You summon six signature minions.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You summon four <a href="../minions/">signature minions</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You summon five <a href="../minions/">signature minions</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You summon six <a href="../minions/">signature minions</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

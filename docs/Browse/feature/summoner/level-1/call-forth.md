@@ -39,11 +39,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You summon one or more minions from your portfolio into unoccupied spaces within distance. Choose one of the following options:</p></div>
+<div class="sc-ability__section-body"><p>You summon one or more minions from your <a href="../portfolio/">portfolio</a> into unoccupied spaces within distance. Choose one of the following options:</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Signature Minions</span></div>
-<div class="sc-ability__section-body"><p>You summon one signature minion for each essence you spend on this ability.</p></div>
+<div class="sc-ability__section-body"><p>You summon one <a href="../minions/">signature minion</a> for each essence you spend on this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">All Other Minions</span></div>

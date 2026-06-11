@@ -69,17 +69,17 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 
 ### Summoner Circle {data-scc="mcdm.summoner.v1/feature.summoner.level-1/summoner-circle"}
 
-You've learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct portfolio of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (*Quick Build:* Circle of Graves.)
+You've learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (*Quick Build:* Circle of Graves.)
 
-**Circle of Blight:** You are a demonologist who calls forth demons from the Abyssal Waste. Your portfolio includes shapechanging demons that grow in hunger and power over time. You can communicate with creatures that have the Abyssal keyword even if you don't share a language.
+**Circle of Blight:** You are a demonologist who calls forth demons from the Abyssal Waste. Your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) includes shapechanging demons that grow in hunger and power over time. You can communicate with creatures that have the Abyssal keyword even if you don't share a language.
 
 **Circle of Graves:** You are a necromancer who raises undead creatures from the Necropolitan Ruin. The corporeal and incorporeal creatures under your command are hardy and many. You can communicate with creatures that have the Undead keyword even if you don't share a language.
 
-**Circle of Spring:** You are a feybright who beckons pixies, nixies, and sprites from Arcadia. Your portfolio features ephemeral fey spirits surrounded by weird and powerful magic. You can communicate with creatures that have the Fey keyword even if you don't share a language.
+**Circle of Spring:** You are a feybright who beckons pixies, nixies, and sprites from Arcadia. Your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) features ephemeral fey spirits surrounded by weird and powerful magic. You can communicate with creatures that have the Fey keyword even if you don't share a language.
 
-**Circle of Storms:** You are a storm caster who summons elementals from Quintessence. This portfolio contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don't share a language.
+**Circle of Storms:** You are a storm caster who summons elementals from Quintessence. This [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don't share a language.
 
-Your choice of circle decides the portfolio from which you summon minions, as well as many of the features you'll gain from this class. Your circle is your [subclass](../../Browse/rule/general/subclass.md).
+Your choice of circle decides the [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) from which you summon minions, as well as many of the features you'll gain from this class. Your circle is your [subclass](../../Browse/rule/general/subclass.md).
 
 ### Minions {data-scc="mcdm.summoner.v1/feature.summoner.level-1/minions"}
 
@@ -223,9 +223,9 @@ You have the following ability.
 |-------------------------|----------------:|
 | **📏 Summoner's Range** |     **🎯 Self** |
 
-**Effect:** You summon one or more minions from your portfolio into unoccupied spaces within distance. Choose one of the following options:
+**Effect:** You summon one or more minions from your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) into unoccupied spaces within distance. Choose one of the following options:
 
-**Signature Minions:** You summon one signature minion for each essence you spend on this ability.
+**Signature Minions:** You summon one [signature minion](../../Browse/feature/summoner/level-1/minions.md) for each essence you spend on this ability.
 
 **All Other Minions:** You summon the set number of minions listed on the stat block for their essence cost.
 
@@ -255,10 +255,10 @@ Your circle grants you features as shown on the 1st-Level Summoner Circle Featur
 
 | Circle | Feature |
 |--------|---------|
-| Blight | Death Snap, Soulsense |
-| Graves | Dead Men Tell All Tales, Rise! |
-| Spring | Fairy Whispers, Pixie Dust |
-| Storms | Elemental Affinity, Heart of Nature |
+| Blight | [Death Snap](../../Browse/feature/summoner/level-1/death-snap.md), [Soulsense](../../Browse/feature/summoner/level-1/soulsense.md) |
+| Graves | [Dead Men Tell All Tales](../../Browse/feature/summoner/level-1/dead-men-tell-all-tales.md), [Rise!](../../Browse/feature/summoner/level-1/rise.md) |
+| Spring | [Fairy Whispers](../../Browse/feature/summoner/level-1/fairy-whispers.md), [Pixie Dust](../../Browse/feature/summoner/level-1/pixie-dust.md) |
+| Storms | [Elemental Affinity](../../Browse/feature/summoner/level-1/elemental-affinity.md), [Heart of Nature](../../Browse/feature/summoner/level-1/heart-of-nature.md) |
 
 #### Dead Men Tell All Tales {data-scc="mcdm.summoner.v1/feature.summoner.level-1/dead-men-tell-all-tales"}
 
@@ -312,7 +312,7 @@ You've practiced a specific formation for your minions. Choose one of the follow
 
 #### Horde Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/horde-formation"}
 
-Your maximum number of minions increases by 4 and you summon up to four of your signature minions at the start of each of your turns instead of three.
+Your maximum number of minions increases by 4 and you summon up to four of your [signature minions](../../Browse/feature/summoner/level-1/minions.md) at the start of each of your turns instead of three.
 
 #### Platoon Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/platoon-formation"}
 
@@ -427,7 +427,7 @@ Your portfolio comprises the minions you've learned to summon. Each summoner cir
 
 ##### Demon Portfolio Signature Minion
 
-Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
+Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
 ###### Ensnarer {data-scc="mcdm.summoner.v1/minion.demon.statblock/ensnarer"}
 
@@ -553,7 +553,7 @@ The bengrul is an undulating heap of glass and flesh. They shatter pieces of the
 
 ##### Elemental Portfolio Signature Minion
 
-You gain the elemental mote and can choose one of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
+You gain the elemental mote and can choose one of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
 ###### Elemental Mote {data-scc="mcdm.summoner.v1/minion.elemental.statblock/elemental-mote"}
 
@@ -571,9 +571,9 @@ This near-pure form of autonomous essence just barely maintains their form. They
 
 > ⭐️ **Catalyst**
 >
-> Once per turn, the mote can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.
+> Once per turn, the mote can transform into an adjacent allied [signature minion](../../Browse/feature/summoner/level-1/minions.md), maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.
 >
-> Alternatively, you can spend 1 essence to transform the mote into any signature minion in the elemental portfolio you don't have, as if you summoned the new minion into the mote's space.
+> Alternatively, you can spend 1 essence to transform the mote into any [signature minion](../../Browse/feature/summoner/level-1/minions.md) in the elemental portfolio you don't have, as if you summoned the new minion into the mote's space.
 
 ###### Brisk Gale {data-scc="mcdm.summoner.v1/minion.elemental.statblock/brisk-gale"}
 
@@ -707,7 +707,7 @@ The desolations have vaguely humanoid sand forms with no legs. Their glass hose 
 
 ##### Fey Portfolio Signature Minion
 
-Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
+Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
 ###### Nixie Soakreed {data-scc="mcdm.summoner.v1/minion.fey.statblock/nixie-soakreed"}
 
@@ -845,7 +845,7 @@ The orchiguard is a sprite surrounded by a wheel of shields. They are usually cr
 
 ##### Undead Portfolio Signature Minion
 
-Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost. (Quick Build: Skeleton, Husk.)
+Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost. (Quick Build: Skeleton, Husk.)
 
 ###### Husk {data-scc="mcdm.summoner.v1/minion.undead.statblock/husk"}
 
@@ -1001,9 +1001,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **Power Roll + Reason:**
 
-- **≤11:** You summon four signature minions.
-- **12-16:** You summon five signature minions.
-- **17+:** You summon six signature minions.
+- **≤11:** You summon four [signature minions](../../Browse/feature/summoner/level-1/minions.md).
+- **12-16:** You summon five [signature minions](../../Browse/feature/summoner/level-1/minions.md).
+- **17+:** You summon six [signature minions](../../Browse/feature/summoner/level-1/minions.md).
 
 **Effect:** The [minions](../../Browse/feature/summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../Browse/feature/summoner/level-1/minions.md) immediately moves up to their [speed](../../Browse/rule/character/speed.md) toward a creature or object.
 

@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your maximum number of minions increases by 4 and you summon up to four of your signature minions at the start of each of your turns instead of three.</p>
+<p>Your maximum number of minions increases by 4 and you summon up to four of your <a href="../minions/">signature minions</a> at the start of each of your turns instead of three.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

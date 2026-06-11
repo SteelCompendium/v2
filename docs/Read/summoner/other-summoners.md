@@ -27,7 +27,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 
 > ⭐️ **Demon Summoner**
 >
-> The detective can command up to two squads of minions with a maximum of 4 minions per squad. They can only have one squad of signature minions active at any time.
+> The detective can command up to two squads of minions with a maximum of 4 minions per squad. They can only have one squad of [signature minions](../../Browse/feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the detective's turns, up to three **razors** appear in unoccupied spaces within 5 squares of the detective. On each of the detective's turns, they direct the squad of razors to move and use a main action.
 
@@ -189,7 +189,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 > ⭐️ **Undead Summoner**
 >
-> The summoner can command up to two squads of minions with a maximum of 4 minions per squad. They can only have one squad of signature minions active at any time.
+> The summoner can command up to two squads of minions with a maximum of 4 minions per squad. They can only have one squad of [signature minions](../../Browse/feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the summoner's turns, up to three **skeletons** appear in unoccupied spaces within 5 squares of the summoner. On each of the summoner's turns, they direct the squad of skeletons to move and use a main action.
 
@@ -295,7 +295,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 > ⭐️ **Undead Summoner**
 >
-> The summoner can command up to two squads of minions with a maximum of 6 minions per squad. They can only have one squad of signature minions active at any time.
+> The summoner can command up to two squads of minions with a maximum of 6 minions per squad. They can only have one squad of [signature minions](../../Browse/feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the summoner's turns, up to three **skeletons** appear in unoccupied spaces within 5 squares of the summoner. On each of the summoner's turns, they direct the squad of skeletons to move and use a main action.
 
@@ -405,7 +405,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 > ⭐️ **Undead Summoner**
 >
-> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of signature minions active at any time.
+> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of [signature minions](../../Browse/feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the summoner's turns, up to four **skeletons** appear in unoccupied spaces within 5 squares of the summoner. On each of the summoner's turns, they direct the squad of skeletons to move and use a main action.
 
@@ -521,7 +521,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 > ⭐️ **Undead Summoner**
 >
-> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of signature minions active at any time.
+> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of [signature minions](../../Browse/feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the summoner's turns, up to four **skeletons** appear in unoccupied spaces within 5 squares of the summoner. On each of the summoner's turns, they direct the squad of skeletons to move and use a main action.
 

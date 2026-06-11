@@ -39,7 +39,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
+<p>Select two of the following <a href="../minions/">signature minions</a>. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -141,7 +141,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain the elemental mote and can choose one of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
+<p>You gain the elemental mote and can choose one of the following <a href="../minions/">signature minions</a>. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -153,7 +153,7 @@ type: feature
 <p>This near-pure form of autonomous essence just barely maintains their form. They can shift their nature to match their surroundings.</p>
 <table><thead><tr><th>Elemental Mote</th><th>Elemental</th><th>Signature Minion Hexer</th><th>-</th><th>1 essence per minion summoned</th></tr></thead><tbody><tr><td><b>1T</b>&lt;br&gt;Size</td><td><b>5</b>&lt;br&gt;Speed</td><td><b>1</b>&lt;br&gt;Stamina</td><td><b>0</b>&lt;br&gt;Stability</td><td><b>1</b>&lt;br&gt;Free Strike</td></tr><tr><td><b>—</b>&lt;br&gt;Immunity</td><td><b>Fly</b>&lt;br&gt;Movement</td><td>-</td><td><b>—</b>&lt;br&gt;Weakness</td><td><b>—</b>&lt;br&gt;Free Strike Damage Type</td></tr><tr><td><b>0</b>&lt;br&gt;Might</td><td><b>0</b>&lt;br&gt;Agility</td><td><b>0</b>&lt;br&gt;Reason</td><td><b>0</b>&lt;br&gt;Intuition</td><td><b>+2</b>&lt;br&gt;Presence</td></tr></tbody></table>
 <p>&gt; ⭐️ <b>Dweomer Burst</b> &gt; &gt; When the mote is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, each enemy adjacent to the mote has a <a href="../../../../rule/dice/bane/">bane</a> on their next <a href="../../../../rule/combat/strike/">strike</a>.</p>
-<p>&gt; ⭐️ <b>Catalyst</b> &gt; &gt; Once per turn, the mote can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members. &gt; &gt; Alternatively, you can spend 1 essence to transform the mote into any signature minion in the elemental portfolio you don&#39;t have, as if you summoned the new minion into the mote&#39;s space.</p>
+<p>&gt; ⭐️ <b>Catalyst</b> &gt; &gt; Once per turn, the mote can transform into an adjacent allied <a href="../minions/">signature minion</a>, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members. &gt; &gt; Alternatively, you can spend 1 essence to transform the mote into any <a href="../minions/">signature minion</a> in the elemental portfolio you don&#39;t have, as if you summoned the new minion into the mote&#39;s space.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -258,7 +258,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
+<p>Select two of the following <a href="../minions/">signature minions</a>. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -363,7 +363,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Select two of the following signature minions. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost. (Quick Build: Skeleton, Husk.)</p>
+<p>Select two of the following <a href="../minions/">signature minions</a>. Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost. (Quick Build: Skeleton, Husk.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

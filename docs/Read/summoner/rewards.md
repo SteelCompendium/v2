@@ -335,7 +335,7 @@ The following titles were designed for [summoners](../../Browse/class/summoner.m
 
 **Effect:** Choose a signature minion from a [summoner's](../../Browse/class/summoner.md) [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) that shares a keyword with one of the creatures the summoner could summon. You can summon three of that minion into a single squad (up to a maximum of four creatures) at the start of each of your [turns](../../Browse/rule/combat/turn.md) in combat. The [distance](../../Browse/rule/combat/distance.md) you can command them is equal to your ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) [distance](../../Browse/rule/combat/distance.md). You also gain the [Strike for Me](../../Browse/feature/ability/summoner/level-1/strike-for-me.md) [triggered action](../../Browse/rule/combat/triggered-action.md), which now has the Psionic keyword and loses the Magic keyword.
 
-Additionally, you can summon up to two of your signature minion while outside of combat to do simple tasks.
+Additionally, you can summon up to two of your [signature minion](../../Browse/feature/summoner/level-1/minions.md) while outside of combat to do simple tasks.
 
 ### 3rd-Echelon Title
 

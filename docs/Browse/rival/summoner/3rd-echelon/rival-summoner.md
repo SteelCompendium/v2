@@ -37,7 +37,7 @@ weaknesses:
 
 > ⭐️ **Undead Summoner**
 >
-> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of signature minions active at any time.
+> The summoner can command up to two squads of minions with a maximum of 8 minions per squad. They can only have one squad of [signature minions](../../../feature/summoner/level-1/minions.md) active at any time.
 >
 > At the start of each of the summoner's turns, up to four **skeletons** appear in unoccupied spaces within 5 squares of the summoner. On each of the summoner's turns, they direct the squad of skeletons to move and use a main action.
 

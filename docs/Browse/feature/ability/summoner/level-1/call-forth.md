@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Summoner's Range
-effect: 'You summon one or more minions from your portfolio into unoccupied spaces within distance. Choose one of the following options:'
+effect: 'You summon one or more minions from your [portfolio](../../../summoner/level-1/portfolio.md) into unoccupied spaces within distance. Choose one of the following options:'
 flavor: My power is yours, and yours, mine. I summon thee.
 keywords:
     - Magic
@@ -35,11 +35,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You summon one or more minions from your portfolio into unoccupied spaces within distance. Choose one of the following options:</p></div>
+<div class="sc-ability__section-body"><p>You summon one or more minions from your <a href="../../../../summoner/level-1/portfolio/">portfolio</a> into unoccupied spaces within distance. Choose one of the following options:</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Signature Minions</span></div>
-<div class="sc-ability__section-body"><p>You summon one signature minion for each essence you spend on this ability.</p></div>
+<div class="sc-ability__section-body"><p>You summon one <a href="../../../../summoner/level-1/minions/">signature minion</a> for each essence you spend on this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">All Other Minions</span></div>
