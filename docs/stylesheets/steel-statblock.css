@@ -358,7 +358,11 @@ body[data-aug-links="off"] .sb-term { border-bottom: none; cursor: text; pointer
    STICKY mini-header (augmentation)
    ════════════════════════════════════════════════════════════ */
 .sb__sticky {
-  position: sticky; top: var(--sticky-top); z-index: 5;
+  /* The card-size slider zooms .sb-wrap (extra.css: zoom: --sc-card-scale), and
+     this sticky lives inside it — so `top` is resolved in the zoomed space and
+     paints at top×scale real px. Divide by the scale so the real offset stays a
+     constant 92px and clears Material's fixed header/tabs at any card size. */
+  position: sticky; top: calc(var(--sticky-top) / var(--sc-card-scale, 1)); z-index: 5;
   margin: 0; padding: 0 var(--pad);
   max-height: 0; opacity: 0; overflow: hidden; pointer-events: none;
   border-bottom: 1px solid transparent;
@@ -366,7 +370,9 @@ body[data-aug-links="off"] .sb-term { border-bottom: none; cursor: text; pointer
   backdrop-filter: blur(4px);
   transition: max-height .2s ease, opacity .2s ease, padding .2s ease;
 }
-.sb-wrap.is-stuck .sb__sticky { max-height: 6.5rem; opacity: 1; pointer-events: auto; padding-top: .55rem; padding-bottom: .55rem; border-bottom-color: var(--role); }
+/* max-height is just the reveal-animation cap; it must clear the tallest open
+   state (row1 + wrapped secondary-stats row2), or overflow:hidden clips row2. */
+.sb-wrap.is-stuck .sb__sticky { max-height: 12rem; opacity: 1; pointer-events: auto; padding-top: .55rem; padding-bottom: .55rem; border-bottom-color: var(--role); }
 body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb__sticky-row1 { display: flex; align-items: center; gap: .6rem 1rem; flex-wrap: wrap; }
 .sb__sticky-id { display: flex; align-items: baseline; gap: .55rem; }
