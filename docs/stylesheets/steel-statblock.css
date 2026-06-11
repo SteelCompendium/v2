@@ -267,7 +267,7 @@
 .sb__ku { margin-top: .6rem; }
 .sb__dt { margin-top: .55rem; }
 /* crest mode: keywords are chips, usage lives in the eyebrow (hide the field) */
-[data-sb-kwusage="crest"] .sb__ku { display: flex; flex-wrap: wrap; gap: .4rem; }
+[data-sb-kwusage="crest"] .sb__ku { display: flex; flex-wrap: wrap; gap: .5rem .6rem; }
 [data-sb-kwusage="crest"] .sb__field--kw .sb__field-l { display: none; }
 [data-sb-kwusage="crest"] .sb__field--usage { display: none; }
 /* text mode: space-between plain text, labels hidden (values are self-evident) */
