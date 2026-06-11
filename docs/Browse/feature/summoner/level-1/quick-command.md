@@ -10,7 +10,7 @@ type: feature
 
 ---
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="8">
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="8">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a special command you can issue to your minions. Choose one of the following quick commands. You can change your quick command along with your formation (see Formation) by performing intense study as a respite activity. (<em>Quick Build:</em> Shield!)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have a special command you can issue to your minions. Choose one of the following quick commands. You can change your quick command along with your formation (see <a href="../formation/">Formation</a>) by performing intense study as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../../ability/summoner/level-1/shield/">Shield!</a>)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -50,13 +50,13 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target deals damage to another creature.</p></div>
+<div class="sc-ability__section-body"><p>The target deals <a href="../../../../rule/damage/damage/">damage</a> to another creature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains a surge for each of your minions adjacent to them (up to a maximum of 3 surges), which they can use on the triggering damage.</p></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../../../rule/resource/surge/">surge</a> for each of your minions <a href="../../../../rule/combat/adjacent/">adjacent</a> to them (up to a maximum of 3 surges), which they can use on the triggering damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the triggering damage is from an ability that uses a power roll, the power roll gains an edge.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the triggering damage is from an ability that uses a <a href="../../../../rule/dice/power-roll/">power roll</a>, the <a href="../../../../rule/dice/power-roll/">power roll</a> gains an <a href="../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -86,15 +86,15 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target starts their <a href="../../../../rule/combat/turn/">turn</a>, moves, or is <a href="../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You summon a signature minion in an unoccupied space adjacent to the target. If the target is force moved into the minion, you can choose to make the target take no damage from the collision.</p></div>
+<div class="sc-ability__section-body"><p>You summon a signature minion in an unoccupied space <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target. If the target is <a href="../../../../movement/forced-movement/">force moved</a> into the minion, you can choose to make the target take no <a href="../../../../rule/damage/damage/">damage</a> from the collision.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>Instead of summoning a new minion, you can command one of your minions within distance to shift up to their speed toward a square adjacent to the target before any additional effects occur.</p></div>
+<div class="sc-ability__section-body"><p>Instead of summoning a new minion, you can command one of your minions within <a href="../../../../rule/combat/distance/">distance</a> to <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> toward a square <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target before any additional effects occur.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -133,7 +133,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The damage the target receives is reduced by an amount that leaves the target alive with 1 point of Stamina.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/damage/damage/">damage</a> the target receives is reduced by an amount that leaves the target alive with 1 point of <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -164,13 +164,13 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target is targeted by a strike.</p></div>
+<div class="sc-ability__section-body"><p>The target is targeted by a <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If one of your minions is adjacent to the target and is within distance of the strike, they become the new target of the strike.</p></div>
+<div class="sc-ability__section-body"><p>If one of your minions is <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target and is within <a href="../../../../rule/combat/distance/">distance</a> of the strike, they become the new target of the strike.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">Instead of commanding an existing minion, you summon a signature minion into an unoccupied space adjacent to the target to take the strike.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">Instead of commanding an existing minion, you summon a signature minion into an unoccupied space <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target to take the strike.</span></div>
 </article>
 </div>
 </div>

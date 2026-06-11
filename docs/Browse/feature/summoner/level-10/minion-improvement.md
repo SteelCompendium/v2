@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You now start encounters and round-tracked situations by summoning up to two additional minions for every two Victories you have (in addition to the two you normally summon).</p>
-<p>Each of your minions&#39; Stamina improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 5).</p>
+<p>You now start encounters and round-tracked situations by summoning up to two additional minions for every two <a href="../../../../rule/resource/victories/">Victories</a> you have (in addition to the two you normally summon).</p>
+<p>Each of your minions&#39; <a href="../../../../rule/health/stamina/">Stamina</a> improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a <a href="../../../../rule/health/stamina/">Stamina</a> boost can treat their <a href="../../../../rule/character/characteristic/">characteristics</a> as one higher for the purposes of resisting <a href="../../../../rule/character/potency/">potencies</a> (to a maximum value of 5).</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

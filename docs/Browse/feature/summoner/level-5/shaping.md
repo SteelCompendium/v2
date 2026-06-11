@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can spend 1 uninterrupted minute to perform a ritual that causes one of your minions to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of minions disguised at the same time equal to your Reason score.</p>
+<p>You can spend 1 uninterrupted minute to perform a ritual that causes one of your <a href="../../level-1/minions/">minions</a> to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of <a href="../../level-1/minions/">minions</a> disguised at the same time equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

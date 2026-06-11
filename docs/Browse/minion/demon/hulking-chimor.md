@@ -36,12 +36,12 @@ Chimors have no true shape; their bodies restructure and change endlessly. Piece
 
 > ⭐️ **Mercurial Strike**
 >
-> The chimor's melee free strikes inflict M < WEAK weakened (EoT). The potency is increased by the current round number.
+> The chimor's melee [free strikes](../../feature/common/main-actions/free-strike.md) inflict M < WEAK [weakened](../../condition/weakened.md) (EoT). The [potency](../../rule/character/potency.md) is increased by the current [round](../../rule/combat/combat-round.md) number.
 
 > ⭐️ **Evershifting**
 >
-> The chimor doesn't provoke opportunity attacks by moving.
+> The chimor doesn't provoke [opportunity attacks](../../rule/combat/opportunity-attack.md) by moving.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the chimor can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the chimor can't be hidden from them.

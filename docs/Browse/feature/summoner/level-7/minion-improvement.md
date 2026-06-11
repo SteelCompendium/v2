@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner&#39;s Range (no action required).</p>
-<p>Additionally, you can increase each of your minions&#39; Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).</p>
+<p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner&#39;s Range (no action required).</p>
+<p>Additionally, you can increase each of your minions&#39; <a href="../../../../rule/health/stamina/">Stamina</a> as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a <a href="../../../../rule/health/stamina/">Stamina</a> boost can treat their <a href="../../../../rule/character/characteristic/">characteristics</a> as one higher for the purposes of resisting <a href="../../../../rule/character/potency/">potencies</a> (to a maximum value of 4).</p>
 <p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">

@@ -25,6 +25,6 @@ type: feature
 <p><b>Circle of Graves:</b> You are a necromancer who raises undead creatures from the Necropolitan Ruin. The corporeal and incorporeal creatures under your command are hardy and many. You can communicate with creatures that have the Undead keyword even if you don&#39;t share a language.</p>
 <p><b>Circle of Spring:</b> You are a feybright who beckons pixies, nixies, and sprites from Arcadia. Your portfolio features ephemeral fey spirits surrounded by weird and powerful magic. You can communicate with creatures that have the Fey keyword even if you don&#39;t share a language.</p>
 <p><b>Circle of Storms:</b> You are a storm caster who summons elementals from Quintessence. This portfolio contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don&#39;t share a language.</p>
-<p>Your choice of circle decides the portfolio from which you summon minions, as well as many of the features you&#39;ll gain from this class. Your circle is your subclass.</p>
+<p>Your choice of circle decides the portfolio from which you summon minions, as well as many of the features you&#39;ll gain from this class. Your circle is your <a href="../../../../rule/general/subclass/">subclass</a>.</p>
 </div>
 </section>

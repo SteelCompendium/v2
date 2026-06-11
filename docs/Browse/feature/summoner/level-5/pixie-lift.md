@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your speed gains the Fly and Hover keywords. You lose the Hover keyword from this feature while you are dazed, dying, or you fly more than 1 square above the surface of the ground.</p>
-<p>If your speed previously had the Fly keyword, you can now fly while sneaking an additional number of squares equal to your Reason.</p>
+<p>Your <a href="../../../../rule/character/speed/">speed</a> gains the <a href="../../../../movement/fly/">Fly</a> and <a href="../../../../movement/hover/">Hover</a> keywords. You lose the <a href="../../../../movement/hover/">Hover</a> keyword from this feature while you are <a href="../../../../condition/dazed/">dazed</a>, <a href="../../../../rule/health/dying/">dying</a>, or you fly more than 1 square above the surface of the ground.</p>
+<p>If your <a href="../../../../rule/character/speed/">speed</a> previously had the <a href="../../../../movement/fly/">Fly</a> keyword, you can now <a href="../../../../movement/fly/">fly</a> while sneaking an additional number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a>.</p>
 </div>
 </section>

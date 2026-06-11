@@ -34,12 +34,12 @@ Iron reavers are long, gnashing lines of centipede-like bladed legs. Their bodie
 
 > ⭐️ **Decentralized Segments**
 >
-> The reaver has cover while adjacent to another reaver they were summoned with. Whenever they receive an effect that allows them to move or shift outside of their move action, they share the effect with each adjacent reaver they were summoned with.
+> The reaver has [cover](../../rule/combat/cover.md) while [adjacent](../../rule/combat/adjacent.md) to another reaver they were summoned with. Whenever they receive an effect that allows them to move or [shift](../../movement/shifting.md) outside of their move action, they share the effect with each [adjacent](../../rule/combat/adjacent.md) reaver they were summoned with.
 
 > ⭐️ **Bladed Strike**
 >
-> The reaver's free strikes inflict M < WEAK bleeding (save ends). Each time the reaver inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.
+> The reaver's [free strikes](../../feature/common/main-actions/free-strike.md) inflict M < WEAK [bleeding](../../condition/bleeding.md) (save ends). Each time the reaver inflicts [bleeding](../../condition/bleeding.md) on a creature, they can [shift](../../movement/shifting.md) 2 and make an additional [free strike](../../feature/common/main-actions/free-strike.md) on a new target.
 
 > ⭐️ **Iron Barricade** 1 Essence
 >
-> When the reaver is reduced to 0 Stamina, they create a line equal to 2 × their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.
+> When the reaver is reduced to 0 [Stamina](../../rule/health/stamina.md), they create a line equal to 2 × their [size](../../rule/character/size.md) centered on their space of iron shards on the ground until the end of the encounter. You or any ally has [cover](../../rule/combat/cover.md) and [damage immunity](../../rule/damage/damage-immunity.md) 2 while occupying an affected square.

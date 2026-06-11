@@ -34,8 +34,8 @@ These minor demons resemble larger pitlings. They can spit a nerve-numbing phleg
 
 > ⭐️ **Splash Strike**
 >
-> The spittlich's ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't shift until the start of the spittlich's next turn.
+> The spittlich's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't [shift](../../movement/shifting.md) until the start of the spittlich's next turn.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the spittlich can't be hidden from them.
+> Each creature adjacent to the spittlich can't be [hidden](../../feature/common/maneuvers/hide.md) from them.

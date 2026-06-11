@@ -35,12 +35,12 @@ These brawny sprites wear heavy beetle armor and have a halo hovering away from 
 
 > ⭐️ **Warrior's Toss**
 >
-> The olyender's melee strikes inflict push 4. If the target is force moved into an object, they are M < AVERAGE knocked prone and can't stand (save ends).
+> The olyender's melee [strikes](../../rule/combat/strike.md) inflict [push](../../movement/forced-movement.md) 4. If the target is [force moved](../../movement/forced-movement.md) into an object, they are M < AVERAGE knocked [prone](../../condition/prone.md) and can't stand (save ends).
 
 > ⭐️ **Use Their Might**
 >
-> When targeting a creature with a grab or forced movement, the olyender's size is considered one larger than the target.
+> When targeting a creature with a [grab](../../feature/common/maneuvers/grab.md) or [forced movement](../../movement/forced-movement.md), the olyender's [size](../../rule/character/size.md) is considered one larger than the target.
 
 > ⭐️ **Minuscule**
 >
-> The olyender has cover while occupying a larger creature's space.
+> The olyender has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

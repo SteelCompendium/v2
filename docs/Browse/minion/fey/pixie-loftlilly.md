@@ -35,8 +35,8 @@ Loftlillies lazily drift through the air in flower cups. They sip on toxic necta
 
 > ⭐️ **Floating Toxins**
 >
-> The area within 1 square of the loftlilly causes each enemy and object with a size equal to your Reason or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't fly is unable to shift, moves 2 additional squares from forced movement, and has a bane on strikes.
+> The area within 1 square of the loftlilly causes each enemy and object with a size equal to your [Reason](../../rule/character/reason.md) or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't [fly](../../movement/fly.md) is unable to [shift](../../movement/shifting.md), moves 2 additional squares from [forced movement](../../movement/forced-movement.md), and has a [bane](../../rule/dice/bane.md) on [strikes](../../rule/combat/strike.md).
 
 > ⭐️ **Minuscule**
 >
-> The loftlilly has cover while occupying a larger creature's space.
+> The loftlilly has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

@@ -11,12 +11,12 @@ keywords:
     - Weapon
 level: "6"
 name: The Champion Slams the Earth
-power_roll_characteristic: Reason
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.summoner.v1/feature.ability.summoner.level-6/the-champion-slams-the-earth
 target: Each enemy and object in the area
-tier1: 5 damage; M < WEAK prone and can't stand (save ends)
-tier2: 8 damage; M < AVERAGE prone and can't stand (save ends)
-tier3: 11 damage; M < STRONG prone and can't stand (save ends)
+tier1: 5 [damage](../../../../rule/damage/damage.md); M < WEAK [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
+tier2: 8 [damage](../../../../rule/damage/damage.md); M < AVERAGE [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
+tier3: 11 [damage](../../../../rule/damage/damage.md); M < STRONG [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
 type: ability
 ---
 
@@ -40,11 +40,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; M &lt; WEAK prone and can&#39;t stand (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; AVERAGE prone and can&#39;t stand (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; STRONG prone and can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 <a href="../../../../../rule/damage/damage/">damage</a>; M &lt; WEAK <a href="../../../../../condition/prone/">prone</a> and can&#39;t stand (<a href="../../../../../rule/general/saving-throw/">save ends</a>)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 <a href="../../../../../rule/damage/damage/">damage</a>; M &lt; AVERAGE <a href="../../../../../condition/prone/">prone</a> and can&#39;t stand (<a href="../../../../../rule/general/saving-throw/">save ends</a>)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 <a href="../../../../../rule/damage/damage/">damage</a>; M &lt; STRONG <a href="../../../../../condition/prone/">prone</a> and can&#39;t stand (<a href="../../../../../rule/general/saving-throw/">save ends</a>)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -53,6 +53,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p></div>
+<div class="sc-ability__section-body"><p>You can change the <a href="../../../../../rule/damage/damage-type/">damage type</a> to be a type that your champion deals on their stat block (see <a href="../../../../summoner/level-8/portfolio-champion/">Portfolio Champion</a>).</p></div>
 </div>
 </article>

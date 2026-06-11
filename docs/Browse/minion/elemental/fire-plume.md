@@ -36,8 +36,8 @@ A fire plume burns so bright that their true shape is hard to discern from the f
 
 > ⭐️ **Spitfire Strike**
 >
-> The plume's ranged free strikes have a distance of 10.
+> The plume's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10.
 
 > ⭐️ **Pyre**
 >
-> When the plume is reduced to 0 Stamina, their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.
+> When the plume is reduced to 0 [Stamina](../../rule/health/stamina.md), their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.

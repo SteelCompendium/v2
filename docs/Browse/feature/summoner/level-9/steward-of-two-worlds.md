@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their patience increased by 2.</p>
+<p>You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their <a href="../../../../rule/negotiation/patience/">patience</a> increased by 2.</p>
 </div>
 </section>

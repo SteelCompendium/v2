@@ -21,7 +21,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can translate yourself and your allies into the space that your minions come from, as if summoning in reverse.</p>
-<p>When you take a respite, you teleport to your circle&#39;s source manifold or point of origin, as shown on the Circle&#39;s Source Manifold table. You can bring along any allies to gather resources or research details about that location&#39;s denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.</p>
+<p>When you take a <a href="../../../../rule/resource/respite/">respite</a>, you <a href="../../../../movement/teleport/">teleport</a> to your circle&#39;s source manifold or point of origin, as shown on the Circle&#39;s Source Manifold table. You can bring along any allies to gather resources or research details about that location&#39;s denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -31,7 +31,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Circle</th><th>Manifold or Point of Origin</th></tr></thead><tbody><tr><td>Blight</td><td>Abyssal Waste</td></tr><tr><td>Graves</td><td>Necropolitan Ruins (located within the Abyssal Waste)</td></tr><tr><td>Spring</td><td>Arcadia</td></tr><tr><td>Storms</td><td>Quintessence</td></tr></tbody></table>
-<p>At the end of the respite, you and everyone you brought with you immediately teleports back into the same location from which you made the portal.</p>
+<p>At the end of the <a href="../../../../rule/resource/respite/">respite</a>, you and everyone you brought with you immediately teleports back into the same location from which you made the portal.</p>
 </div>
 </section>
 </div>

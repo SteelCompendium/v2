@@ -32,15 +32,15 @@ weaknesses:
 
 > ⭐️ **Transforming Strike**
 >
-> The violent's melee free strikes deal an additional 2 damage to each adjacent enemy from whom they were hidden. The violent loses their disguise after striking.
+> The violent's melee [free strikes](../../feature/common/main-actions/free-strike.md) deal an additional 2 damage to each [adjacent](../../rule/combat/adjacent.md) enemy from whom they were hidden. The violent loses their disguise after striking.
 
 > ⭐️ **Mimicry**
 >
-> The violent uses the Hide maneuver at the start of their turn as a free maneuver, disguising themselves as a a size 1M or smaller object.
+> The violent uses the [Hide](../../feature/common/maneuvers/hide.md) maneuver at the start of their turn as a [free maneuver](../../rule/combat/free-maneuver.md), disguising themselves as a a [size](../../rule/character/size.md) 1M or smaller object.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the violent can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the violent can't be hidden from them.
 
 **Level 7 Retainer Advancement Ability**
 
@@ -50,7 +50,7 @@ weaknesses:
 > |-----------------|-------------:|
 > | **📏 5 burst** | **🎯 Each of the detective's minions in the area** |
 >
-> **Effect:** Each target moves up to their speed toward an ally. Each ally within line of effect of the detective can give one EoT or save ends effect they're affected by to an adjacent minion and end that effect on themself.
+> **Effect:** Each target moves up to their [speed](../../rule/character/speed.md) toward an ally. Each ally within [line of effect](../../rule/combat/line-of-effect.md) of the detective can give one [EoT](../../rule/combat/end-of-turn.md) or save ends effect they're affected by to an [adjacent](../../rule/combat/adjacent.md) minion and end that effect on themself.
 >
 > Until the end of the encounter, whenever an enemy kills a target and has P < STRONG, they receive all EoT or save ends effects the target was affected by.
 
@@ -64,13 +64,13 @@ weaknesses:
 >
 > **Effect:** The minion explodes. Make a power roll, targeting each enemy within 2 squares of the target.
 >
-> 5 corruption damage; M < WEAK weakened (save ends)
+> 5 corruption damage; M < WEAK [weakened](../../condition/weakened.md) (save ends)
 >
-> 8 corruption damage; M < AVERAGE weakened (save ends)
+> 8 corruption damage; M < AVERAGE [weakened](../../condition/weakened.md) (save ends)
 >
-> 10 corruption damage; M < STRONG weakened (save ends)
+> 10 corruption damage; M < STRONG [weakened](../../condition/weakened.md) (save ends)
 >
-> The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an edge.
+> The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an [edge](../../rule/dice/edge.md).
 
 **Level 10 Retainer Advancement Ability**
 

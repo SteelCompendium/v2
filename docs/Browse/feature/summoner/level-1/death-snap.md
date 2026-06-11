@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever one of your demon minions would die unwillingly, they can deal damage to an adjacent creature equal to their free strike value before dying.</p>
+<p>Whenever one of your demon minions would die unwillingly, they can deal <a href="../../../../rule/damage/damage/">damage</a> to an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature equal to their <a href="../../../common/main-actions/free-strike/">free strike</a> value before dying.</p>
 </div>
 </section>

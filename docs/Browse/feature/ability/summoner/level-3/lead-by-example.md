@@ -13,9 +13,9 @@ name: Lead By Example
 power_roll_characteristic: Reason
 scc: mcdm.summoner.v1/feature.ability.summoner.level-3/lead-by-example
 target: One enemy or object
-tier1: 8 + R damage; R < WEAK dazed (save ends)
-tier2: 12 + R damage; R < AVERAGE dazed (save ends)
-tier3: 16 + R damage; R < STRONG dazed (save ends)
+tier1: 8 + R [damage](../../../../rule/damage/damage.md); R < WEAK [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 12 + R [damage](../../../../rule/damage/damage.md); R < AVERAGE [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 16 + R [damage](../../../../rule/damage/damage.md); R < STRONG [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + R damage; R &lt; WEAK dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + R damage; R &lt; AVERAGE dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + R damage; R &lt; STRONG dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + R <a href="../../../../../rule/damage/damage/">damage</a>; R &lt; WEAK <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + R <a href="../../../../../rule/damage/damage/">damage</a>; R &lt; AVERAGE <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + R <a href="../../../../../rule/damage/damage/">damage</a>; R &lt; STRONG <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 </article>

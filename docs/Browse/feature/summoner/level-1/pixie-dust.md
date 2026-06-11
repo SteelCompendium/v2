@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Increase your number of Recoveries by 2.</p>
-<p>Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>
+<p>Increase your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> by 2.</p>
+<p>Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to give <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score to each non-minion ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to the minion when they died.</p>
 </div>
 </section>

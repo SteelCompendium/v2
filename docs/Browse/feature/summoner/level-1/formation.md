@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You&#39;ve practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (<em>Quick Build:</em> Platoon Formation.)</p>
+<p>You&#39;ve practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see <a href="../quick-command/">Quick Command</a>) by performing intense study as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../platoon-formation/">Platoon Formation</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional damage equal to your Reason score.</p>
+<p>Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each of your minions have their Stamina increased by 3 and their stability increased by 1.</p>
+<p>Each of your minions have their <a href="../../../../rule/health/stamina/">Stamina</a> increased by 3 and their <a href="../../../../rule/character/stability/">stability</a> increased by 1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,9 +63,9 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You aren&#39;t affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner&#39;s Range when they take damage, you can choose to take damage in place of the minion.</p>
-<p>Additionally, you can use light armor treasures and light weapon treasures while you don&#39;t have a kit.</p>
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>&gt; <b>Minions and Treasures</b> &gt; &gt; Treasures in Draw Steel are typically worded for you to use, which might create ambiguity for a summoner managing an army. You can use the following guidelines to ensure the treasures you come across in your adventures do what they were intended to do. &gt; &gt; - Treasures that give you a damage bonus to rolled damage only apply to power rolls made from a non-minion&#39;s space. However, when you use Strike for Me, any bonus damage is applied to each enemy and object that took damage. &gt; - Once you reach level 4 as a summoner, you regain access to your normal free strike abilities while wielding a weapon treasure, an implement treasure, or any treasure that enables you to make a free strike as a part of its effect. &gt; - Treasures that increase the distance of ranged magic abilities also increase the distance of your Summoner&#39;s Range.</p>
+<p>You aren&#39;t affected by excess <a href="../../../../rule/damage/damage/">damage</a> after all minions in a squad are dead. If your minion is within your Summoner&#39;s Range when they take <a href="../../../../rule/damage/damage/">damage</a>, you can choose to take damage in place of the minion.</p>
+<p>Additionally, you can use light armor <a href="../../../../rule/treasure/leveled-treasure/">treasures</a> and light weapon <a href="../../../../rule/treasure/leveled-treasure/">treasures</a> while you don&#39;t have a kit.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>&gt; <b>Minions and Treasures</b> &gt; &gt; <a href="../../../../rule/treasure/leveled-treasure/">Treasures</a> in Draw Steel are typically worded for you to use, which might create ambiguity for a <a href="../../../../class/summoner/">summoner</a> managing an army. You can use the following guidelines to ensure the treasures you come across in your adventures do what they were intended to do. &gt; &gt; - Treasures that give you a <a href="../../../../rule/damage/damage/">damage</a> bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> only apply to <a href="../../../../rule/dice/power-roll/">power rolls</a> made from a non-minion&#39;s space. However, when you use <a href="../../../ability/summoner/level-1/strike-for-me/">Strike for Me</a>, any bonus damage is applied to each enemy and object that took damage. &gt; - Once you reach level 4 as a <a href="../../../../class/summoner/">summoner</a>, you regain access to your normal <a href="../../../common/main-actions/free-strike/">free strike</a> abilities while wielding a weapon treasure, an <a href="../../../../rule/treasure/implement/">implement</a> treasure, or any treasure that enables you to make a <a href="../../../common/main-actions/free-strike/">free strike</a> as a part of its effect. &gt; - Treasures that increase the <a href="../../../../rule/combat/distance/">distance</a> of ranged magic abilities also increase the distance of your Summoner&#39;s Range.</p>
 </div>
 </section>
 </div>

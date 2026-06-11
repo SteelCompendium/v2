@@ -40,14 +40,14 @@ The collective of blood-eyed pixie warriors that make up a rosenthall are also k
 > |---------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 One creature or object per minion** |
 >
-> 3 damage; pull 2; A < WEAK bleeding (EoT)
+> 3 [damage](../../rule/damage/damage.md); pull 2; A < WEAK [bleeding](../../condition/bleeding.md) (EoT)
 >
-> 6 damage; pull 3; A < AVERAGE bleeding (EoT)
+> 6 [damage](../../rule/damage/damage.md); pull 3; A < AVERAGE [bleeding](../../condition/bleeding.md) (EoT)
 >
-> 8 damage; pull 4; A < STRONG bleeding (EoT)
+> 8 [damage](../../rule/damage/damage.md); pull 4; A < STRONG [bleeding](../../condition/bleeding.md) (EoT)
 >
-> **Effect:** A target can't shift while bleeding from this ability.
+> **Effect:** A target can't [shift](../../movement/shifting.md) while [bleeding](../../condition/bleeding.md) from this ability.
 
 > ⭐️ **Swarm**
 >
-> The rosenthall can move through squares as if they were size 1T, and can occupy other creatures' spaces. At the start of the rosenthall's turn, they deal 2 damage to each enemy whose space they share.
+> The rosenthall can move through squares as if they were [size](../../rule/character/size.md) 1T, and can occupy other creatures' spaces. At the start of the rosenthall's [turn](../../rule/combat/turn.md), they deal 2 [damage](../../rule/damage/damage.md) to each enemy whose space they share.

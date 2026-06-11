@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p>
-<p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>
+<p>While you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p>
+<p>When you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can always perceive the soul trails of each creature that took the <a href="../../../../rule/resource/respite/">respite</a> with you until your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

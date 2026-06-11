@@ -36,12 +36,12 @@ Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or
 
 > ⭐️ **Big Stomp**
 >
-> The titan's melee free strikes M < STRONG knock the target prone.
+> The titan's melee [free strikes](../../feature/common/main-actions/free-strike.md) M < STRONG knock the target [prone](../../condition/prone.md).
 
 > ⭐️ **Overwhelming Size**
 >
-> The titan can move through enemies at normal speed. If the titan ends their turn in a prone size 2 or smaller creature's space, the creature can't stand.
+> The titan can move through enemies at normal speed. If the titan ends their [turn](../../rule/combat/turn.md) in a [prone](../../condition/prone.md) [size](../../rule/character/size.md) 2 or smaller creature's space, the creature can't stand.
 
 > ⭐️ **Flesh to Mountains**
 >
-> When the titan is reduced to 0 Stamina, their space becomes difficult terrain. If a creature was prone underneath the titan when the titan is killed, they take 10 damage and are restrained (save ends).
+> When the titan is reduced to 0 [Stamina](../../rule/health/stamina.md), their space becomes [difficult terrain](../../movement/difficult-terrain.md). If a creature was [prone](../../condition/prone.md) underneath the titan when the titan is killed, they take 10 [damage](../../rule/damage/damage.md) and are [restrained](../../condition/restrained.md) (save ends).

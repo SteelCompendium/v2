@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You aren&#39;t affected by excess damage after all minions in a squad are dead.</p>
-<p>Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.</p>
+<p>You aren&#39;t affected by excess <a href="../../../../rule/damage/damage/">damage</a> after all minions in a squad are dead.</p>
+<p>Additionally, you and each of your undead minions ignore <a href="../../../../rule/damage/damage/">damage</a> rolled as a d3 or a d6 and <a href="../../../../rule/damage/damage/">damage</a> from environmental effects while you are not <a href="../../../../rule/health/winded/">winded</a>.</p>
 </div>
 </section>

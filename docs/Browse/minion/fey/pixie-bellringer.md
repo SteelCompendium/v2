@@ -36,12 +36,12 @@ The bellringers are glowing pixies that jingle as they fly. Historically, these 
 
 > ⭐️ **Ringing Strike**
 >
-> The bellringer's free strikes grant an edge to the next strike made against the target, or a double edge if two or more bellringers strike the same target.
+> The bellringer's [free strikes](../../feature/common/main-actions/free-strike.md) grant an [edge](../../rule/dice/edge.md) to the next [strike](../../rule/combat/strike.md) made against the target, or a double [edge](../../rule/dice/edge.md) if two or more bellringers strike the same target.
 
 > ⭐️ **Fairy Chime**
 >
-> Each ally within 1 square of a bellringer has a +1 to saving throws. Each enemy within 1 square of a bellringer has a −1 to saving throws.
+> Each ally within 1 square of a bellringer has a +1 to [saving throws](../../rule/general/saving-throw.md). Each enemy within 1 square of a bellringer has a −1 to [saving throws](../../rule/general/saving-throw.md).
 
 > ⭐️ **Minuscule**
 >
-> The bellringer has cover while occupying a larger creature's space.
+> The bellringer has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

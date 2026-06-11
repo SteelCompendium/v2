@@ -36,8 +36,8 @@ Phase ghouls are bilocated undead caught between two different manifolds, rapidl
 
 > ⭐️ **Leaping Strike**
 >
-> The ghoul teleports 5 squares before making a melee free strike. The target is M < AVERAGE knocked prone. If the target is in the air, the potency increases by 1.
+> The ghoul [teleports](../../movement/teleport.md) 5 squares before making a melee [free strike](../../feature/common/main-actions/free-strike.md). The target is M < AVERAGE knocked [prone](../../condition/prone.md). If the target is in the air, the [potency](../../rule/character/potency.md) increases by 1.
 
 > ⭐️ **Nerveless**
 >
-> The ghoul takes no damage from falling and always lands on their feet.
+> The ghoul takes no [damage](../../rule/damage/damage.md) from [falling](../../rule/health/falling.md) and always lands on their feet.

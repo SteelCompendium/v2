@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Breaking down your essence into pure power can lead to devastating effects. Your heroic abilities enable you to punctuate your army&#39;s efforts.</p>
+<p>Breaking down your <a href="../essence/">essence</a> into pure power can lead to devastating effects. Your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> enable you to punctuate your army&#39;s efforts.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -38,7 +38,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 essence to use. (Quick Build: Rallying Cry.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 <a href="../essence/">essence</a> to use. (Quick Build: <a href="../../../ability/summoner/level-1/rallying-cry/">Rallying Cry</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -65,7 +65,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><ul><li>1 charge: You or an ally within your Summoner&#39;s Range can spend a Recovery.</li><li>1 charge: You or an ally within your Summoner&#39;s Range gain a surge.</li><li>2 charges: You call forth a signature minion into an unoccupied space within your Summoner&#39;s Range.</li></ul></div>
+<div class="sc-ability__section-body"><p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><ul><li>1 charge: You or an ally within your Summoner&#39;s Range can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</li><li>1 charge: You or an ally within your Summoner&#39;s Range gain a <a href="../../../../rule/resource/surge/">surge</a>.</li><li>2 charges: You call forth a signature <a href="../minions/">minion</a> into an unoccupied space within your Summoner&#39;s Range.</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -93,11 +93,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an opportunity attack, or stop moving, they explode, dealing 2 damage to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions&#39; explosions, the effects stack. These minions activate no effects upon death, and you gain no essence from their deaths.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../minions/">minions</a> are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned <a href="../minions/">minion</a> immediately moves up to their <a href="../../../../rule/character/speed/">speed</a> toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an <a href="../../../../rule/combat/opportunity-attack/">opportunity attack</a>, or stop moving, they explode, dealing 2 <a href="../../../../rule/damage/damage/">damage</a> to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions&#39; explosions, the effects stack. These <a href="../minions/">minions</a> activate no effects upon death, and you gain no <a href="../essence/">essence</a> from their deaths.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>In addition to the minions summoned as a part of this ability, you can choose to command any number of your minions within distance, provided they haven&#39;t used a main action or maneuver during the turn.</p></div>
+<div class="sc-ability__section-body"><p>In addition to the <a href="../minions/">minions</a> summoned as a part of this ability, you can choose to command any number of your <a href="../minions/">minions</a> within distance, provided they haven&#39;t used a main action or maneuver during the <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -117,7 +117,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:</p><p>The target&#39;s strikes can inflict I &lt; WEAK taunted (EoT) to enemies. The potency increases by 1 for each minion that joined the strike.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each <a href="../minions/">minion</a> under your control during the encounter is the target of the following effect:</p><p>The target&#39;s <a href="../../../../rule/combat/strike/">strikes</a> can inflict I &lt; WEAK <a href="../../../../condition/taunted/">taunted</a> (EoT) to enemies. The <a href="../../../../rule/character/potency/">potency</a> increases by 1 for each <a href="../minions/">minion</a> that joined the <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -137,7 +137,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target chooses between gaining 2 surges or dealing additional damage equal to your Reason on their next strike.</p></div>
+<div class="sc-ability__section-body"><p>Each target chooses between gaining 2 <a href="../../../../rule/resource/surge/">surges</a> or dealing additional <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> on their next <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -165,7 +165,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target can use a free triggered action whenever they take damage to reduce the incoming damage by half and then lose this effect.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> whenever they take <a href="../../../../rule/damage/damage/">damage</a> to reduce the incoming <a href="../../../../rule/damage/damage/">damage</a> by half and then lose this effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -193,7 +193,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This strike deals an additional 2 damage for each ally adjacent to you.</p></div>
+<div class="sc-ability__section-body"><p>This <a href="../../../../rule/combat/strike/">strike</a> deals an additional 2 <a href="../../../../rule/damage/damage/">damage</a> for each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
 </div>
 </article>
 </div>

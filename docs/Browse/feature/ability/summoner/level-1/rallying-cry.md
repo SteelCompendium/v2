@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: summoner
 distance: 3 burst
-effect: Each target chooses between gaining 2 surges or dealing additional damage equal to your Reason on their next strike.
+effect: Each target chooses between gaining 2 [surges](../../../../rule/resource/surge.md) or dealing additional [damage](../../../../rule/damage/damage.md) equal to your [Reason](../../../../rule/character/reason.md) on their next [strike](../../../../rule/combat/strike.md).
 flavor: '"Show them what you''re made of!"'
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target chooses between gaining 2 surges or dealing additional damage equal to your Reason on their next strike.</p></div>
+<div class="sc-ability__section-body"><p>Each target chooses between gaining 2 <a href="../../../../../rule/resource/surge/">surges</a> or dealing additional <a href="../../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../../rule/character/reason/">Reason</a> on their next <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

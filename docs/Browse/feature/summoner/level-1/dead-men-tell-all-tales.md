@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium Reason test, where failure or consequence breaks your connection with the corpse permanently.</p>
+<p>You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium <a href="../../../../rule/character/reason/">Reason</a> <a href="../../../../rule/test/test/">test</a>, where failure or consequence breaks your connection with the corpse permanently.</p>
 <p>The corpse can also choose to refuse to answer or lie, especially if you were the one to kill them in the first place.</p>
 </div>
 </section>

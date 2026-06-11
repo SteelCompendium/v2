@@ -34,8 +34,8 @@ Ensnarers knot and twist their bodies together to form heaving, heavy musilexes.
 
 > ⭐️ **Mawful Strike**
 >
-> The musilex's melee free strikes have a distance of 2 + R and inflict pull 2. The pull distance increases by 2 for each additional musilex striking the same target. Choose the musilex that the target is being pulled to before applying forced movement. If the target is pulled adjacent to the musilex, the musilex either deals an additional 2 damage or grabs them.
+> The musilex's melee [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 2 + R and inflict [pull](../../movement/forced-movement.md) 2. The [pull](../../movement/forced-movement.md) distance increases by 2 for each additional musilex striking the same target. Choose the musilex that the target is being pulled to before applying [forced movement](../../movement/forced-movement.md). If the target is pulled adjacent to the musilex, the musilex either deals an additional 2 damage or [grabs](../../feature/common/maneuvers/grab.md) them.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the musilex can't be hidden from them.
+> Each creature adjacent to the musilex can't be [hidden](../../feature/common/maneuvers/hide.md) from them.

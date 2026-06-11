@@ -17,7 +17,7 @@ type: statblock
 
 > ⭐️ **Magnetic Pull**
 >
-> Each enemy that starts their turn within 3 squares of the crystal is vertically pulled 3.
+> Each enemy that starts their [turn](../../rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
 
 > ⭐️ **Elemental Boost**
 >
@@ -27,7 +27,7 @@ type: statblock
 >
 > ⭐️ **Terra Resonance**
 >
-> Each round, you gain a surge the first time an area of terrain gains a supernatural effect (excluding auras) while you have line of effect to the crystal. You can choose to give the surge to an ally who also has line of effect to the crystal.
+> Each [round](../../rule/combat/combat-round.md), you gain a [surge](../../rule/resource/surge.md) the first time an area of terrain gains a [supernatural](../../rule/general/supernatural.md) effect (excluding [auras](../../rule/combat/aura.md)) while you have [line of effect](../../rule/combat/line-of-effect.md) to the crystal. You can choose to give the [surge](../../rule/resource/surge.md) to an ally who also has [line of effect](../../rule/combat/line-of-effect.md) to the crystal.
 
 > **Level 9 Fixture Advancement Feature**
 >
@@ -37,4 +37,4 @@ type: statblock
 >
 > ⭐️ **Magnified Strike**
 >
-> When you or an ally makes a ranged strike that draws a line through the crystal, the user gains a surge which they can use on the ability.
+> When you or an ally makes a ranged [strike](../../rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../rule/resource/surge.md) which they can use on the ability.

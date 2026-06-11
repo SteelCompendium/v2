@@ -39,14 +39,14 @@ The belladonix are found among the elite guard of fey monarchs and carry themsel
 > |---------------------------|----------------:|
 > | **📏 Ranged 15** | **🎯 One creature or object per minion** |
 >
-> 8 poison damage; M < WEAK restrained (save ends)
+> 8 poison [damage](../../rule/damage/damage.md); M < WEAK [restrained](../../condition/restrained.md) (save ends)
 >
-> 12 poison damage; M < AVERAGE restrained (save ends)
+> 12 poison [damage](../../rule/damage/damage.md); M < AVERAGE [restrained](../../condition/restrained.md) (save ends)
 >
-> 17 poison damage; M < STRONG restrained (save ends)
+> 17 poison [damage](../../rule/damage/damage.md); M < STRONG [restrained](../../condition/restrained.md) (save ends)
 >
-> **Effect:** A target restrained by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the condition ends.
+> **Effect:** A target [restrained](../../condition/restrained.md) by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the [condition](../../rule/combat/condition.md) ends.
 
 > ⭐️ **Minuscule**
 >
-> The belladonix has cover while occupying a larger creature's space.
+> The belladonix has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

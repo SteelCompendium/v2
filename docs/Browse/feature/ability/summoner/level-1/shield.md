@@ -2,16 +2,16 @@
 action_type: Triggered
 class: summoner
 distance: Summoner's Range
-effect: If one of your minions is adjacent to the target and is within distance of the strike, they become the new target of the strike.
+effect: If one of your minions is [adjacent](../../../../rule/combat/adjacent.md) to the target and is within [distance](../../../../rule/combat/distance.md) of the strike, they become the new target of the strike.
 flavor: You call upon a minion to use their body to dampen the blow.
 keywords:
     - —
 level: "1"
 name: Shield!
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/shield
-spend: '1 Essence: Instead of commanding an existing minion, you summon a signature minion into an unoccupied space adjacent to the target to take the strike.'
+spend: '1 Essence: Instead of commanding an existing minion, you summon a signature minion into an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to the target to take the strike.'
 target: Self or one ally
-trigger: The target is targeted by a strike.
+trigger: The target is targeted by a [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -36,11 +36,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target is targeted by a strike.</p></div>
+<div class="sc-ability__section-body"><p>The target is targeted by a <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If one of your minions is adjacent to the target and is within distance of the strike, they become the new target of the strike.</p></div>
+<div class="sc-ability__section-body"><p>If one of your minions is <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target and is within <a href="../../../../../rule/combat/distance/">distance</a> of the strike, they become the new target of the strike.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">Instead of commanding an existing minion, you summon a signature minion into an unoccupied space adjacent to the target to take the strike.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">Instead of commanding an existing minion, you summon a signature minion into an unoccupied space <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target to take the strike.</span></div>
 </article>

@@ -33,41 +33,41 @@ weaknesses:
 
 Stamina: Your maximum Stamina
 
-> 🏹 **Grasping Appendages 2d10 + 5 (Signature Ability)**
+> 🏹 **Grasping Appendages 2d10 + 5 ([Signature Ability](../../rule/combat/signature-ability.md))**
 >
 > | **Melee, Strike, Weapon** | **Main action** |
 > |---------------------------|----------------:|
 > | **📏 Melee 5** | **🎯 Two creatures or objects** |
 >
-> 9 corruption damage; pull 2
+> 9 corruption [damage](../../rule/damage/damage.md); [pull](../../movement/forced-movement.md) 2
 >
-> 12 corruption damage; pull 4
+> 12 corruption [damage](../../rule/damage/damage.md); [pull](../../movement/forced-movement.md) 4
 >
-> 14 corruption damage; pull 5
+> 14 corruption [damage](../../rule/damage/damage.md); [pull](../../movement/forced-movement.md) 5
 >
-> **Effect:** A target pulled adjacent to the Aspect is grabbed.
+> **Effect:** A target [pulled](../../movement/forced-movement.md) [adjacent](../../rule/combat/adjacent.md) to the Aspect is [grabbed](../../condition/grabbed.md).
 
 > ⭐️ **Warping Strike**
 >
-> The Aspect's free strikes teleport the target 5 squares.
+> The Aspect's [free strikes](../../feature/common/main-actions/free-strike.md) [teleport](../../movement/teleport.md) the target 5 squares.
 
 > ⭐️ **Champion's Ire**
 >
-> If the Aspect only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Aspect only targets one creature or object with a [strike](../../rule/combat/strike.md), they deal additional [damage](../../rule/damage/damage.md) to the target equal to your [Reason](../../rule/character/reason.md).
 
 > ❗️ **I Like Your Taste**
 >
-> | **—** | **Free triggered action** |
+> | **—** | **[Free triggered action](../../rule/combat/triggered-action.md)** |
 > |-------|---------------------------:|
 > | **📏 Self** | **🎯 Self** |
 >
-> **Trigger:** The Aspect takes damage from an enemy.
+> **Trigger:** The Aspect takes [damage](../../rule/damage/damage.md) from an enemy.
 >
-> **Effect:** The Aspect has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner's Range instead.
+> **Effect:** The Aspect has a double [edge](../../rule/dice/edge.md) on their next [power roll](../../rule/dice/power-roll.md). They can choose to give this benefit to an ally within your Summoner's Range instead.
 
 > ⭐️ **Frenzy**
 >
-> When the Aspect is reduced to 0 Stamina, they make a free strike against each adjacent enemy before dying.
+> When the Aspect is reduced to 0 [Stamina](../../rule/health/stamina.md), they make a [free strike](../../feature/common/main-actions/free-strike.md) against each [adjacent](../../rule/combat/adjacent.md) enemy before [dying](../../rule/health/dying.md).
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -83,4 +83,4 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** Each target teleports up to their speed and makes a free strike. If a target has a Save Ends condition, they can inflict the condition onto a creature with their strike and end the condition on themself.
+> **Effect:** Each target [teleports](../../movement/teleport.md) up to their [speed](../../rule/character/speed.md) and makes a [free strike](../../feature/common/main-actions/free-strike.md). If a target has a [Save Ends](../../rule/general/saving-throw.md) [condition](../../rule/combat/condition.md), they can inflict the [condition](../../rule/combat/condition.md) onto a creature with their [strike](../../rule/combat/strike.md) and end the [condition](../../rule/combat/condition.md) on themself.

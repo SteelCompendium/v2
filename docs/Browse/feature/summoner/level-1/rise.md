@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once per round, when a creature dies unwillingly within your Summoner&#39;s Range, you can use a triggered action to summon a signature undead minion in their space at no cost, even if you&#39;re at your minion maximum, but only if they can be organized into one of your squads. The new minion can&#39;t act until the start of your next turn.</p>
-<p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>
+<p>Once per <a href="../../../../rule/combat/combat-round/">round</a>, when a creature dies unwillingly within your Summoner&#39;s Range, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to summon a signature undead minion in their space at no cost, even if you&#39;re at your minion maximum, but only if they can be organized into one of your squads. The new minion can&#39;t act until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
+<p>This ability becomes a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> if the target was a minion (either yours or an enemy).</p>
 </div>
 </section>

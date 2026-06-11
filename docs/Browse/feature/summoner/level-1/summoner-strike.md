@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which replaces both your melee and ranged free strikes.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which replaces both your melee and ranged <a href="../../../common/main-actions/free-strike/">free strikes</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -39,11 +39,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>R damage. If the target has R &lt; WEAK, they are slowed (save ends).</p></div>
+<div class="sc-ability__section-body"><p>R <a href="../../../../rule/damage/damage/">damage</a>. If the target has R &lt; WEAK, they are <a href="../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability has the Charge keyword when it&#39;s used as a melee strike.</p></div>
+<div class="sc-ability__section-body"><p>This ability has the Charge keyword when it&#39;s used as a melee <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
 </div>

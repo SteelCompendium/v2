@@ -49,10 +49,10 @@ weaknesses:
 >
 > 3 damage
 >
-> 5 damage; R < STRONG slowed (save ends)
+> 5 damage; R < STRONG [slowed](../../condition/slowed.md) (save ends)
 >
-> **Effect:** The target takes an additional 1 damage for each demon adjacent to them.
+> **Effect:** The target takes an additional 1 damage for each demon [adjacent](../../rule/combat/adjacent.md) to them.
 
 > ⭐️ **True Name**
 >
-> If a creature within 10 squares speaks the detective's true name, the detective loses their damage immunities and can't summon any **razors** until the end of the encounter.
+> If a creature within 10 squares speaks the detective's true name, the detective loses their [damage immunities](../../rule/damage/damage-immunity.md) and can't summon any **razors** until the end of the encounter.

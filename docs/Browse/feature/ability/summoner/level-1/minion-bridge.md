@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: summoner
 distance: Melee 1
-effect: You shift into a square adjacent to the target, including vertically.
+effect: You [shift](../../../../movement/shifting.md) into a square adjacent to the target, including vertically.
 flavor: Your minions do everything in their power to form a safe path for you to cross.
 keywords:
     - Magic
@@ -34,10 +34,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift into a square adjacent to the target, including vertically.</p><p>You can shift into squares that contain one of your minions, even if they occupy difficult terrain. Each time you shift into a square that contains one of your minions while using this maneuver, you can shift an additional square.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> into a square adjacent to the target, including vertically.</p><p>You can <a href="../../../../../movement/shifting/">shift</a> into squares that contain one of your minions, even if they occupy <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. Each time you <a href="../../../../../movement/shifting/">shift</a> into a square that contains one of your minions while using this maneuver, you can <a href="../../../../../movement/shifting/">shift</a> an additional square.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">1 Essence</span></div>
-<div class="sc-ability__section-body"><p>An adjacent ally can shift alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.</p></div>
+<div class="sc-ability__section-body"><p>An adjacent ally can <a href="../../../../../movement/shifting/">shift</a> alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.</p></div>
 </div>
 </article>

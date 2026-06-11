@@ -35,8 +35,8 @@ weaknesses:
 
 > ⭐️ **Zombie Clutch**
 >
-> The lumberer's melee free strikes inflict A < 3 grabbed. A creature or object that starts their turn grabbed by the lumberer takes 2 corruption damage.
+> The lumberer's melee [free strikes](../../../feature/common/main-actions/free-strike.md) inflict A < 3 [grabbed](../../../condition/grabbed.md). A creature or object that starts their turn [grabbed](../../../condition/grabbed.md) by the lumberer takes 2 corruption damage.
 
 > ⭐️ **Death Grasp**
 >
-> When the lumberer is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is M < 4 restrained (EoT).
+> When the lumberer is reduced to 0 [Stamina](../../../rule/health/stamina.md), they can latch onto an [adjacent](../../../rule/combat/adjacent.md) enemy before being destroyed. The enemy is M < 4 [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md)).

@@ -47,11 +47,11 @@ weaknesses:
 > |---------------------------|----------------:|
 > | **📏 Ranged 10** | **🎯 One creature or object** |
 >
-> 8 psychic damage; R < 2 frightened (EoT)
+> 8 psychic damage; R < 2 [frightened](../../../condition/frightened.md) ([EoT](../../../rule/combat/end-of-turn.md))
 >
-> 13 psychic damage; R < 3 frightened (EoT)
+> 13 psychic damage; R < 3 [frightened](../../../condition/frightened.md) ([EoT](../../../rule/combat/end-of-turn.md))
 >
-> 17 psychic damage; R < 4 frightened (EoT)
+> 17 psychic damage; R < 4 [frightened](../../../condition/frightened.md) ([EoT](../../../rule/combat/end-of-turn.md))
 
 > 🏹 **Call Forth (1+ Malice)**
 >
@@ -67,12 +67,12 @@ weaknesses:
 > |-------|---------------------:|
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Trigger:** The target is targeted by a strike.
+> **Trigger:** The target is targeted by a [strike](../../../rule/combat/strike.md).
 >
-> **Effect:** The summoner summons a **skeleton** into an unoccupied space adjacent to the target. They become the new target of the strike. The original target can shift into any square adjacent to the minion.
+> **Effect:** The summoner summons a **skeleton** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target. They become the new target of the strike. The original target can [shift](../../../movement/shifting.md) into any square [adjacent](../../../rule/combat/adjacent.md) to the minion.
 >
-> **1 Malice:** Instead, the summoner summons a **zombie lumberer** into an unoccupied space adjacent to the target to take the strike.
+> **1 Malice:** Instead, the summoner summons a **zombie lumberer** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target to take the strike.
 
 > ⭐️ **Rivalry (With All of Us)**
 >
-> At the start of an encounter, the summoner chooses one creature within their line of effect. Both the summoner and the creature can add a d3 roll to power rolls they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 4 damage.
+> At the start of an encounter, the summoner chooses one creature within their [line of effect](../../../rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../../rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 4 damage.

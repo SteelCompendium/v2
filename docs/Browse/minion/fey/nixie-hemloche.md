@@ -35,12 +35,12 @@ Hemloches are spotted nixies whose long, wavy hair endlessly bobs and flows into
 
 > ⭐️ **Water Weird**
 >
-> Once per turn during their move action, each nixie under your control can teleport to a body of water within 6. The hemloche can't teleport into water created by their own whirling waves.
+> Once per [turn](../../rule/combat/turn.md) during their move action, each nixie under your control can [teleport](../../movement/teleport.md) to a body of water within 6. The hemloche can't [teleport](../../movement/teleport.md) into water created by their own whirling waves.
 
 > ⭐️ **Whirling Waves**
 >
-> The area within 1 square of the hemloche is filled with churning water and is considered difficult terrain. At the end of the hemloche's turn, the hemloche can choose to slide each enemy in the affected area 3 squares. An enemy that takes damage while being force moved is also M < AVERAGE knocked prone.
+> The area within 1 square of the hemloche is filled with churning water and is considered [difficult terrain](../../movement/difficult-terrain.md). At the end of the hemloche's [turn](../../rule/combat/turn.md), the hemloche can choose to [slide](../../movement/forced-movement.md) each enemy in the affected area 3 squares. An enemy that takes [damage](../../rule/damage/damage.md) while being [force moved](../../movement/forced-movement.md) is also M < AVERAGE knocked [prone](../../condition/prone.md).
 
 > ⭐️ **Minuscule**
 >
-> The hemloche has cover while occupying a larger creature's space.
+> The hemloche has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

@@ -2,7 +2,7 @@
 action_type: Triggered
 class: summoner
 distance: Summoner's Range
-effect: You summon a signature minion in an unoccupied space adjacent to the target. If the target is force moved into the minion, you can choose to make the target take no damage from the collision.
+effect: You summon a signature minion in an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to the target. If the target is [force moved](../../../../movement/forced-movement.md) into the minion, you can choose to make the target take no [damage](../../../../rule/damage/damage.md) from the collision.
 flavor: You order a minion to get in the way.
 keywords:
     - —
@@ -10,7 +10,7 @@ level: "1"
 name: Halt!
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/halt
 target: One creature
-trigger: The target starts their turn, moves, or is force moved.
+trigger: The target starts their [turn](../../../../rule/combat/turn.md), moves, or is [force moved](../../../../movement/forced-movement.md).
 type: ability
 ---
 
@@ -35,14 +35,14 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target starts their <a href="../../../../../rule/combat/turn/">turn</a>, moves, or is <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You summon a signature minion in an unoccupied space adjacent to the target. If the target is force moved into the minion, you can choose to make the target take no damage from the collision.</p></div>
+<div class="sc-ability__section-body"><p>You summon a signature minion in an unoccupied space <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target. If the target is <a href="../../../../../movement/forced-movement/">force moved</a> into the minion, you can choose to make the target take no <a href="../../../../../rule/damage/damage/">damage</a> from the collision.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>Instead of summoning a new minion, you can command one of your minions within distance to shift up to their speed toward a square adjacent to the target before any additional effects occur.</p></div>
+<div class="sc-ability__section-body"><p>Instead of summoning a new minion, you can command one of your minions within <a href="../../../../../rule/combat/distance/">distance</a> to <a href="../../../../../movement/shifting/">shift</a> up to their <a href="../../../../../rule/character/speed/">speed</a> toward a square <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target before any additional effects occur.</p></div>
 </div>
 </article>

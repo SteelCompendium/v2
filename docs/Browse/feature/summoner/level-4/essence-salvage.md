@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each combat round that any minion unwillingly dies within your Summoner&#39;s Range, you gain 2 essence instead of 1.</p>
+<p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that any <a href="../../level-1/minions/">minion</a> unwillingly dies within your Summoner&#39;s Range, you gain 2 <a href="../../level-1/essence/">essence</a> instead of 1.</p>
 </div>
 </section>

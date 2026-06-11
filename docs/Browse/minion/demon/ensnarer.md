@@ -34,8 +34,8 @@ This vaguely humanoid form is warped and distorted by a demon nestled inside the
 
 > ⭐️ **Extended Barbed Strike**
 >
-> The ensnarer's melee free strikes have a distance of 3 and inflict pull 1. The pull distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying forced movement.
+> The ensnarer's melee [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 3 and inflict [pull](../../movement/forced-movement.md) 1. The [pull](../../movement/forced-movement.md) distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying [forced movement](../../movement/forced-movement.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the ensnarer can't be hidden from them.
+> Each creature adjacent to the ensnarer can't be [hidden](../../feature/common/maneuvers/hide.md) from them.

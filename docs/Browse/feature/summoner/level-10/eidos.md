@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner&#39;s Range.</p>
-<p>You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).</p>
+<p>You gain an epic resource called eidos. When you take a <a href="../../../../rule/resource/respite/">respite</a>, you gain eidos equal to the <a href="../../../../rule/resource/experience/">XP</a> you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner&#39;s Range.</p>
+<p>You and your champion also have access to abilities that can be used by spending eidos (see <a href="../../level-7/their-life-for-mine/">Their Life for Mine</a> and <a href="../../level-8/portfolio-champion/">Portfolio Champion</a>).</p>
 <p>Eidos remains until you spend it.</p>
 </div>
 </section>

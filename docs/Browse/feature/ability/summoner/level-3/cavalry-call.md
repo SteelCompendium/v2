@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Summoner's Range
-effect: You summon a temporary squad containing 6 of your signature minions regardless of your minion maximum within distance. Whenever one of these minions deals damage to an enemy, the enemy is R < AVERAGE compelled to move 5 squares toward the source of the damage (provoking opportunity attacks). The potency increases by 1 for enemies targeted by two or more of these minions.
+effect: You summon a temporary squad containing 6 of your signature [minions](../../../summoner/level-1/minions.md) regardless of your minion maximum within distance. Whenever one of these [minions](../../../summoner/level-1/minions.md) deals [damage](../../../../rule/damage/damage.md) to an enemy, the enemy is R < AVERAGE compelled to move 5 squares toward the source of the [damage](../../../../rule/damage/damage.md) (provoking [opportunity attacks](../../../../rule/combat/opportunity-attack.md)). The [potency](../../../../rule/character/potency.md) increases by 1 for enemies targeted by two or more of these [minions](../../../summoner/level-1/minions.md).
 flavor: A lone squad appears to disrupt the enemy's plans and peels off their forces, one by one.
 keywords:
     - Magic
@@ -34,6 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You summon a temporary squad containing 6 of your signature minions regardless of your minion maximum within distance. Whenever one of these minions deals damage to an enemy, the enemy is R &lt; AVERAGE compelled to move 5 squares toward the source of the damage (provoking opportunity attacks). The potency increases by 1 for enemies targeted by two or more of these minions.</p><p>These minions die at the end of your turn, activate no effects upon death, and you gain no essence from their deaths.</p></div>
+<div class="sc-ability__section-body"><p>You summon a temporary squad containing 6 of your signature <a href="../../../../summoner/level-1/minions/">minions</a> regardless of your minion maximum within distance. Whenever one of these <a href="../../../../summoner/level-1/minions/">minions</a> deals <a href="../../../../../rule/damage/damage/">damage</a> to an enemy, the enemy is R &lt; AVERAGE compelled to move 5 squares toward the source of the <a href="../../../../../rule/damage/damage/">damage</a> (provoking <a href="../../../../../rule/combat/opportunity-attack/">opportunity attacks</a>). The <a href="../../../../../rule/character/potency/">potency</a> increases by 1 for enemies targeted by two or more of these <a href="../../../../summoner/level-1/minions/">minions</a>.</p><p>These <a href="../../../../summoner/level-1/minions/">minions</a> die at the end of your <a href="../../../../../rule/combat/turn/">turn</a>, activate no effects upon death, and you gain no <a href="../../../../summoner/level-1/essence/">essence</a> from their deaths.</p></div>
 </div>
 </article>

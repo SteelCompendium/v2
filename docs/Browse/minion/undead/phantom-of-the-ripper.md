@@ -41,14 +41,14 @@ These phantoms puppet the remnants of their corporeal forms. Unlike other spirit
 > |---------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 8 damage; A < WEAK slowed (save ends)
+> 8 [damage](../../rule/damage/damage.md); A < WEAK [slowed](../../condition/slowed.md) (save ends)
 >
-> 13 damage; A < AVERAGE slowed (save ends)
+> 13 [damage](../../rule/damage/damage.md); A < AVERAGE [slowed](../../condition/slowed.md) (save ends)
 >
-> 17 damage; A < STRONG slowed (save ends)
+> 17 [damage](../../rule/damage/damage.md); A < STRONG [slowed](../../condition/slowed.md) (save ends)
 >
-> **Effect:** The phantom deals an additional 3 damage if they have an edge.
+> **Effect:** The phantom deals an additional 3 [damage](../../rule/damage/damage.md) if they have an [edge](../../rule/dice/edge.md).
 
 > ⭐️ **Ripping Phase**
 >
-> The phantom can move through other creatures and objects at normal speed. The first time in a round that the phantom passes through a creature, that creature takes 3 corruption damage and has a bane on their next strike. The phantom doesn't take damage from being force moved into objects.
+> The phantom can move through other creatures and objects at normal speed. The first time in a [round](../../rule/combat/combat-round.md) that the phantom passes through a creature, that creature takes 3 corruption [damage](../../rule/damage/damage.md) and has a [bane](../../rule/dice/bane.md) on their next [strike](../../rule/combat/strike.md). The phantom doesn't take [damage](../../rule/damage/damage.md) from being [force moved](../../movement/forced-movement.md) into objects.

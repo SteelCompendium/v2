@@ -34,12 +34,12 @@ The violents are lanky, oily bipeds with bright red flesh that contort and snap 
 
 > ⭐️ **Transforming Strike**
 >
-> The violent's melee free strikes deal an additional 2 damage to each adjacent enemy from whom they were hidden. The violent loses their disguise after striking.
+> The violent's melee [free strikes](../../feature/common/main-actions/free-strike.md) deal an additional 2 [damage](../../rule/damage/damage.md) to each [adjacent](../../rule/combat/adjacent.md) enemy from whom they were hidden. The violent loses their disguise after striking.
 
 > ⭐️ **Mimicry**
 >
-> The violent uses the Hide maneuver at the start of their turn as a free maneuver, disguising themselves as a a size 1M or smaller object.
+> The violent uses the [Hide](../../feature/common/maneuvers/hide.md) maneuver at the start of their [turn](../../rule/combat/turn.md) as a [free maneuver](../../rule/combat/free-maneuver.md), disguising themselves as a a [size](../../rule/character/size.md) 1M or smaller object.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the violent can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the violent can't be hidden from them.

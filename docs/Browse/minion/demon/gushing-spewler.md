@@ -34,12 +34,12 @@ A spewler's mouth makes up most of its size. They unleash torrents of acid and b
 
 > ⭐️ **Gushing Strike**
 >
-> The spewler's ranged free strikes have a distance of 10 and slides the target R + 2 squares.
+> The spewler's ranged [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 10 and [slides](../../movement/forced-movement.md) the target R + 2 squares.
 
 > ⭐️ **Spew Slide**
 >
-> Each time the spewler takes damage, the spewler shifts 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a bane on strikes while occupying a slimed square.
+> Each time the spewler takes [damage](../../rule/damage/damage.md), the spewler [shifts](../../movement/shifting.md) 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a [bane](../../rule/dice/bane.md) on [strikes](../../rule/combat/strike.md) while occupying a slimed square.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the spewler can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the spewler can't be hidden from them.

@@ -34,4 +34,4 @@ weaknesses:
 
 > ⭐️ **Bonetrops**
 >
-> When the skeleton is reduced to 0 Stamina, their square becomes difficult terrain for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
+> When the skeleton is reduced to 0 [Stamina](../../../rule/health/stamina.md), their square becomes [difficult terrain](../../../movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of each of your turns, you can transform up to two of your demon minions within your Summoner&#39;s Range. A demon can transform into a different demon minion within your Summoner&#39;s Range, maintaining their current Stamina. Starting from round 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon&#39;s space.</p>
+<p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can transform up to two of your demon minions within your Summoner&#39;s Range. A demon can transform into a different demon minion within your Summoner&#39;s Range, maintaining their current <a href="../../../../rule/health/stamina/">Stamina</a>. Starting from <a href="../../../../rule/combat/combat-round/">round</a> 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon&#39;s space.</p>
 <p>The minions must be reassigned to a new squad if their new name differs from the other squad members.</p>
 </div>
 </section>

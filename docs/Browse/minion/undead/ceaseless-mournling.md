@@ -34,7 +34,7 @@ Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenche
 
 > ⭐️ **Always Crying**
 >
-> At the end of the mournling's turn, each enemy within 1 of the mournling takes 2 sonic damage and can't shift until the start of the mournling's next turn.
+> At the end of the mournling's [turn](../../rule/combat/turn.md), each enemy within 1 of the mournling takes 2 sonic [damage](../../rule/damage/damage.md) and can't [shift](../../movement/shifting.md) until the start of the mournling's next [turn](../../rule/combat/turn.md).
 
 > ⭐️ **Immutable Form**
 >
@@ -42,4 +42,4 @@ Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenche
 
 > ⭐️ **Rupture**
 >
-> The first time the mournling burrows out of the ground on their turn, they can make a free strike against each adjacent enemy.
+> The first time the mournling [burrows](../../movement/burrow.md) out of the ground on their [turn](../../rule/combat/turn.md), they can make a [free strike](../../feature/common/main-actions/free-strike.md) against each [adjacent](../../rule/combat/adjacent.md) enemy.

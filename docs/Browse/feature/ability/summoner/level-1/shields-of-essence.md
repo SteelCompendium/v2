@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: summoner
 distance: Summoner's Range
-effect: Until the end of the encounter, each target can use a free triggered action whenever they take damage to reduce the incoming damage by half and then lose this effect.
+effect: Until the end of the encounter, each target can use a [free triggered action](../../../../rule/combat/triggered-action.md) whenever they take [damage](../../../../rule/damage/damage.md) to reduce the incoming [damage](../../../../rule/damage/damage.md) by half and then lose this effect.
 flavor: You call forth protective forces to keep you all from harm.
 keywords:
     - Magic
@@ -47,6 +47,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target can use a free triggered action whenever they take damage to reduce the incoming damage by half and then lose this effect.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target can use a <a href="../../../../../rule/combat/triggered-action/">free triggered action</a> whenever they take <a href="../../../../../rule/damage/damage/">damage</a> to reduce the incoming <a href="../../../../../rule/damage/damage/">damage</a> by half and then lose this effect.</p></div>
 </div>
 </article>

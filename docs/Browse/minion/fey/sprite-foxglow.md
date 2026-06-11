@@ -35,12 +35,12 @@ Foxglows are masked sprites that leave behind an evanescent trail of tiny glowin
 
 > ⭐️ **Flash Strike**
 >
-> The foxglow's melee strikes inflict I < STRONG dazed (EoT) if they were hidden when they make the strike.
+> The foxglow's melee [strikes](../../rule/combat/strike.md) inflict I < STRONG [dazed](../../condition/dazed.md) (EoT) if they were hidden when they make the [strike](../../rule/combat/strike.md).
 
 > ⭐️ **Quiet Flight**
 >
-> The area within 2 squares of the foxglow is completely silent. Each enemy has a bane on tests made to search for the foxglow and allies hidden in the affected area.
+> The area within 2 squares of the foxglow is completely silent. Each enemy has a [bane](../../rule/dice/bane.md) on [tests](../../rule/test/test.md) made to search for the foxglow and allies hidden in the affected area.
 
 > ⭐️ **Minuscule**
 >
-> The foxglow has cover while occupying a larger creature's space.
+> The foxglow has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

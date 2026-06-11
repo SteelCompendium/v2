@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: 3 burst
-effect: Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 round.
+effect: Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 [round](../../../../rule/combat/combat-round.md).
 flavor: Cast those not affixed to this manifold into the void of a minion's existence.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 round.</p><p>A leader or a solo enemy in the area that has R, I, or P &lt; AVERAGE is weakened and slowed (save ends) as they are partially removed from the manifold. You can increase the potency by 1 for each of your minions adjacent to the target you choose to sacrifice as a part of using this ability.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 <a href="../../../../../rule/combat/combat-round/">round</a>.</p><p>A leader or a solo enemy in the area that has R, I, or P &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (<a href="../../../../../rule/general/saving-throw/">save ends</a>) as they are partially removed from the manifold. You can increase the <a href="../../../../../rule/character/potency/">potency</a> by 1 for each of your minions <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target you choose to sacrifice as a part of using this ability.</p></div>
 </div>
 </article>

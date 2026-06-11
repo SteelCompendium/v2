@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your number of Recoveries further increases by 2.</p>
-<p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions&#39; traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>
+<p>Your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> further increases by 2.</p>
+<p>Additionally, the area affected by your <a href="../../level-1/pixie-dust/">Pixie Dust</a> feature and any of your fey minions&#39; traits that affect <a href="../../../../rule/combat/adjacent/">adjacent</a> creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>
 </div>
 </section>

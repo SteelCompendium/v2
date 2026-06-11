@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.</p><p>Each target can immediately make each of their saving throws and stand up from prone.</p></div>
+<div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Until the end of the encounter or you become <a href="../../../../../rule/health/dying/">dying</a>, each target has a +2 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/general/saving-throw/">saving throws</a>.</p><p>Each target can immediately make each of their <a href="../../../../../rule/general/saving-throw/">saving throws</a> and stand up from <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

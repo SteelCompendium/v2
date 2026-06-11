@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you sacrifice minions, you now reduce the cost of a heroic ability or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.</p>
+<p>Whenever you sacrifice minions, you now reduce the cost of a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.</p>
 </div>
 </section>

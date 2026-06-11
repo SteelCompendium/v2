@@ -21,26 +21,26 @@ You can also take advantage of powerful magic to buff your allies, whittle down 
 
 ### Basics {data-scc="mcdm.summoner.v1/feature.summoner.level-1/basics"}
 
-**Starting Characteristics:** You start with a Reason of 2, and you can choose one of the following arrays for your other characteristics scores:
+**Starting Characteristics:** You start with a [Reason](../../Browse/rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristics](../../Browse/rule/character/characteristic.md) scores:
 
 - 2, 2, −1, −1
 - 2, 1, 1, −1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Reason − 2
+**Weak [Potency](../../Browse/rule/character/potency.md):** [Reason](../../Browse/rule/character/reason.md) − 2
 
-**Average Potency:** Reason − 1
+**Average [Potency](../../Browse/rule/character/potency.md):** [Reason](../../Browse/rule/character/reason.md) − 1
 
-**Strong Potency:** Reason
+**Strong [Potency](../../Browse/rule/character/potency.md):** [Reason](../../Browse/rule/character/reason.md)
 
-**Starting Stamina at 1st Level:** 15
+**Starting [Stamina](../../Browse/rule/health/stamina.md) at 1st Level:** 15
 
-**Stamina Gained at 2nd and Higher Levels:** 6
+**[Stamina](../../Browse/rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
 
-**Recoveries:** 8
+**[Recoveries](../../Browse/rule/health/recoveries.md):** 8
 
-**Skills:** You gain the Magic and Strategy skills and can choose any two skills from the intrigue or lore skill groups. (*Quick Build:* Eavesdrop, Magic, Monsters, Strategy.)
+**Skills:** You gain the [Magic](../../Browse/skill/lore/magic.md) and [Strategy](../../Browse/skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../../Browse/skill/group/intrigue.md) or [lore](../../Browse/skill/group/lore.md) skill groups. (*Quick Build:* [Eavesdrop](../../Browse/skill/intrigue/eavesdrop.md), [Magic](../../Browse/skill/lore/magic.md), [Monsters](../../Browse/skill/lore/monsters.md), [Strategy](../../Browse/skill/lore/strategy.md).)
 
 ###### Summoner Advancement
 
@@ -59,13 +59,13 @@ You can also take advantage of powerful magic to buff your allies, whittle down 
 
 ### Draw Steel Master Classes
 
-The summoner is an example of a master class in Draw Steel. Master classes are intended for players who are familiar with the game and have played a few sessions already. They are not recommended for first time players—you need to know the rules before we start breaking them on you!
+The [summoner](../../Browse/class/summoner.md) is an example of a master class in Draw Steel. Master classes are intended for players who are familiar with the game and have played a few sessions already. They are not recommended for first time players—you need to know the rules before we start breaking them on you!
 
 If you are new to Draw Steel, we recommend checking out The Delian Tomb starter adventure, which includes a step-by-step tutorial on how to play the game and breaks down all the working parts of a hero. Save Broadhurst first, and then you hurry back here!
 
 ### 1st-Level Features
 
-As a summoner, you gain the following features.
+As a [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 ### Summoner Circle {data-scc="mcdm.summoner.v1/feature.summoner.level-1/summoner-circle"}
 
@@ -79,7 +79,7 @@ You've learned the art of summoning from a member of a loose network of summoner
 
 **Circle of Storms:** You are a storm caster who summons elementals from Quintessence. This portfolio contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don't share a language.
 
-Your choice of circle decides the portfolio from which you summon minions, as well as many of the features you'll gain from this class. Your circle is your subclass.
+Your choice of circle decides the portfolio from which you summon minions, as well as many of the features you'll gain from this class. Your circle is your [subclass](../../Browse/rule/general/subclass.md).
 
 ### Minions {data-scc="mcdm.summoner.v1/feature.summoner.level-1/minions"}
 
@@ -87,51 +87,51 @@ The creatures you control are called minions. You can summon and maintain up to 
 
 You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can't contain more than eight minions, and all minions in the squad must have the same name.
 
-The maximum distance that you can summon minions and use specific conjuring abilities is called your Summoner's Range. Your Summoner's Range is equal to 5 + your Reason score. You must have line of effect to summon and give commands to minions within your Summoner's Range. Commanding a minion to take a main action or a maneuver while hidden reveals you.
+The maximum [distance](../../Browse/rule/combat/distance.md) that you can summon minions and use specific conjuring abilities is called your Summoner's Range. Your Summoner's Range is equal to 5 + your [Reason](../../Browse/rule/character/reason.md) score. You must have [line of effect](../../Browse/rule/combat/line-of-effect.md) to summon and give commands to minions within your Summoner's Range. Commanding a minion to take a [main action](../../Browse/rule/combat/turn.md) or a [maneuver](../../Browse/rule/combat/turn.md) while hidden reveals you.
 
-You also have special minions at your disposal called signature minions, low-cost creatures that you've become accustomed to summoning often. See Portfolio for more details about the types of minions you can summon.
+You also have special minions at your disposal called signature minions, low-cost creatures that you've become accustomed to summoning often. See [Portfolio](../../Browse/feature/summoner/level-1/portfolio.md) for more details about the types of minions you can summon.
 
 #### Minions in Combat
 
-**Start of Combat:** At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you can summon up to two of your signature minions at no cost into unoccupied spaces within your Summoner's Range (no action required).
+**Start of Combat:** At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you can summon up to two of your signature minions at no cost into unoccupied spaces within your Summoner's Range (no action required).
 
-**Start of Turn:** At the start of each of your turns during combat, you can summon up to three of your signature minions at no cost into unoccupied spaces within your Summoner's Range (no action required).
+**Start of [Turn](../../Browse/rule/combat/turn.md):** At the start of each of your turns during combat, you can summon up to three of your signature minions at no cost into unoccupied spaces within your Summoner's Range (no action required).
 
-**Summoning:** Each minion is summoned on the ground unless they can fly or hover. Unless an ability specifies, you can't summon any new minions beyond your minion maximum until the same number of existing minions are dismissed or destroyed.
+**Summoning:** Each minion is summoned on the ground unless they can [fly](../../Browse/movement/fly.md) or [hover](../../Browse/movement/hover.md). Unless an ability specifies, you can't summon any new minions beyond your minion maximum until the same number of existing minions are dismissed or destroyed.
 
-**Stamina:** Minions in a squad pool their Stamina together. Whenever a minion in a squad takes damage, the squad's Stamina pool is reduced by a number equal to the damage taken. Each time the pool is reduced by an amount equal to a single squad member's Stamina, one minion dies (starting with the minion that took damage, followed by the next nearest minion). If there is any excess damage after all minions in the squad are dead, you take damage equal to 2 + your level. Minions can't be winded, can't regain Stamina, and can't gain temporary Stamina.
+**[Stamina](../../Browse/rule/health/stamina.md):** Minions in a squad pool their [Stamina](../../Browse/rule/health/stamina.md) together. Whenever a minion in a squad takes [damage](../../Browse/rule/damage/damage.md), the squad's [Stamina](../../Browse/rule/health/stamina.md) pool is reduced by a number equal to the damage taken. Each time the pool is reduced by an amount equal to a single squad member's [Stamina](../../Browse/rule/health/stamina.md), one minion dies (starting with the minion that took damage, followed by the next nearest minion). If there is any excess damage after all minions in the squad are dead, you take damage equal to 2 + your level. Minions can't be [winded](../../Browse/rule/health/winded.md), can't regain [Stamina](../../Browse/rule/health/stamina.md), and can't gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
-**Area Effects:** The damage from an area effect dealt to a squad's Stamina pool can only kill up to the minions in its area. Any excess damage is ignored.
+**Area Effects:** The [damage](../../Browse/rule/damage/damage.md) from an area effect dealt to a squad's [Stamina](../../Browse/rule/health/stamina.md) pool can only kill up to the minions in its area. Any excess damage is ignored.
 
-**Strikes with Multiple Targets:** A squad's Stamina pool only takes the largest single instance of damage from a strike that targets two or more minions in that squad. Any additional effects still affect the minions targeted by the strike.
+**Strikes with Multiple Targets:** A squad's [Stamina](../../Browse/rule/health/stamina.md) pool only takes the largest single instance of [damage](../../Browse/rule/damage/damage.md) from a [strike](../../Browse/rule/combat/strike.md) that targets two or more minions in that squad. Any additional effects still affect the minions targeted by the strike.
 
-**Conditions:** You resolve any saving throws on conditions affecting one or more of your minions. Treat saving throws as if you had one instance of each condition.
+**[Conditions](../../Browse/rule/combat/condition.md):** You resolve any [saving throws](../../Browse/rule/general/saving-throw.md) on [conditions](../../Browse/rule/combat/condition.md) affecting one or more of your minions. Treat [saving throws](../../Browse/rule/general/saving-throw.md) as if you had one instance of each condition.
 
-**Immunity and Weakness:** If any minion in a squad has damage immunity or weakness to a particular damage type, apply that effect to the entire squad only once, regardless of how many minions share the same trait.
+**[Damage Immunity](../../Browse/rule/damage/damage-immunity.md) and [Weakness](../../Browse/rule/damage/damage-weakness.md):** If any minion in a squad has [damage immunity](../../Browse/rule/damage/damage-immunity.md) or [weakness](../../Browse/rule/damage/damage-weakness.md) to a particular [damage type](../../Browse/rule/damage/damage-type.md), apply that effect to the entire squad only once, regardless of how many minions share the same trait.
 
-**Actions:** Minions in a squad act together on your turn in any order, before, in-between, and/or after any of your actions. They can either take a move action and a main action (excluding Heal and Defend), a move action and a maneuver, or two move actions. Individual minions can also make opportunity attacks.
+**Actions:** Minions in a squad act together on your [turn](../../Browse/rule/combat/turn.md) in any order, before, in-between, and/or after any of your actions. They can either take a move action and a [main action](../../Browse/rule/combat/turn.md) (excluding [Heal](../../Browse/feature/common/main-actions/heal.md) and [Defend](../../Browse/feature/common/main-actions/defend.md)), a move action and a [maneuver](../../Browse/rule/combat/turn.md), or two move actions. Individual minions can also make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md).
 
-**Free Strikes:** Unless otherwise specified, a minion's free strike has a distance of Melee 1 or Ranged 5 and deals the damage value listed on the stat block. The minion can choose to deal untyped damage or the damage type next to the damage value.
+**[Free Strikes](../../Browse/feature/common/main-actions/free-strike.md):** Unless otherwise specified, a minion's [free strike](../../Browse/feature/common/main-actions/free-strike.md) has a distance of Melee 1 or Ranged 5 and deals the damage value listed on the stat block. The minion can choose to deal untyped damage or the [damage type](../../Browse/rule/damage/damage-type.md) next to the damage value.
 
-**Damage:** Whenever multiple minions strike the same target simultaneously, the damage is added together and treated as a single strike. Minions in a squad targeting the same target with a signature ability only apply one instance of the signature ability while each additional minion increases the damage by a number equal to their free strike value.
+**[Damage](../../Browse/rule/damage/damage.md):** Whenever multiple minions [strike](../../Browse/rule/combat/strike.md) the same target simultaneously, the damage is added together and treated as a single strike. Minions in a squad targeting the same target with a [signature ability](../../Browse/rule/combat/signature-ability.md) only apply one instance of the signature ability while each additional minion increases the damage by a number equal to their [free strike](../../Browse/feature/common/main-actions/free-strike.md) value.
 
-**Surges:** Your minions share your pool of surges and can apply them to their strikes. Whenever one or more of your minions would gain a surge during a turn, you gain that surge instead.
+**[Surges](../../Browse/rule/resource/surge.md):** Your minions share your pool of [surges](../../Browse/rule/resource/surge.md) and can apply them to their strikes. Whenever one or more of your minions would gain a [surge](../../Browse/rule/resource/surge.md) during a [turn](../../Browse/rule/combat/turn.md), you gain that surge instead.
 
-**Maneuvers:** Unless otherwise specified on the minions' stat block, a squad uses their maneuver together as a unit. If a maneuver targets a single creature, all minions in the squad target the same creature. If a maneuver requires a power roll, the result is equal to 8 + the minions' characteristic + the number of squad members within distance of the maneuver.
+**Maneuvers:** Unless otherwise specified on the minions' stat block, a squad uses their maneuver together as a unit. If a maneuver targets a single creature, all minions in the squad target the same creature. If a maneuver requires a [power roll](../../Browse/rule/dice/power-roll.md), the result is equal to 8 + the minions' characteristic + the number of squad members within distance of the maneuver.
 
-**Individual Maneuvers:** An individual minion can use a maneuver to alleviate their own circumstances, such as getting up from prone or escaping a grab. If they do, they can't take part in their squad's main action or maneuver.
+**Individual Maneuvers:** An individual minion can use a maneuver to alleviate their own circumstances, such as getting up from [prone](../../Browse/condition/prone.md) or escaping a [grab](../../Browse/condition/grabbed.md). If they do, they can't take part in their squad's main action or maneuver.
 
-**Characteristics:** Your minions have their own characteristics for the purposes of resisting potencies, maneuvers, and making tests. You use your own characteristics where a minion's stat block refers to an R or uses a potency (such as M < WEAK).
+**[Characteristics](../../Browse/rule/character/characteristic.md):** Your minions have their own [characteristics](../../Browse/rule/character/characteristic.md) for the purposes of resisting [potencies](../../Browse/rule/character/potency.md), maneuvers, and making tests. You use your own [characteristics](../../Browse/rule/character/characteristic.md) where a minion's stat block refers to an R or uses a [potency](../../Browse/rule/character/potency.md) (such as M < WEAK).
 
-**Unconscious:** If you are unconscious or unable to act on your turn, you can't summon new minions. Additionally, your remaining minions can't deal damage; they can only act to bring you to safety.
+**Unconscious:** If you are unconscious or unable to act on your [turn](../../Browse/rule/combat/turn.md), you can't summon new minions. Additionally, your remaining minions can't deal damage; they can only act to bring you to safety.
 
 **End of Combat:** At the end of combat, your minions finish their tasks (such as carrying someone to safety) and are then dismissed.
 
 #### Minions Outside of Combat
 
-While outside of combat, you can have up to 4 minions summoned without spending essence. You can freely summon your signature minions this way. For other minions, while you have a number of Victories equal to the minion's essence cost or more, you can summon up to the set number of minions listed on their stat block.
+While outside of combat, you can have up to 4 minions summoned without spending [essence](../../Browse/feature/summoner/level-1/essence.md). You can freely summon your signature minions this way. For other minions, while you have a number of [Victories](../../Browse/rule/resource/victories.md) equal to the minion's essence cost or more, you can summon up to the set number of minions listed on their stat block.
 
-Each of your minions can be given a simple task and a destination you've previously visited and they'll fulfill it to the best of their ability. Example tasks include sending messages, scouting, and carrying supplies. Your minions aren't followers and can't make project rolls until you can summon specialists (see Minion Machinations).
+Each of your minions can be given a simple task and a destination you've previously visited and they'll fulfill it to the best of their ability. Example tasks include sending messages, scouting, and carrying supplies. Your minions aren't [followers](../../Browse/rule/general/follower.md) and can't make [project rolls](../../Browse/rule/downtime/project-roll.md) until you can summon specialists (see [Minion Machinations](../../Browse/feature/summoner/level-6/minion-machinations.md)).
 
 When combat begins, any of your minions who were summoned outside of combat finish their tasks and are then dismissed.
 
@@ -143,23 +143,23 @@ When combat begins, any of your minions who were summoned outside of combat fini
 
 ### Essence {data-scc="mcdm.summoner.v1/feature.summoner.level-1/essence"}
 
-You and your minions have a unique reserve of essence as your Heroic Resource. You use this magic to sculpt your forces and maintain control over the battlefield.
+You and your minions have a unique reserve of essence as your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). You use this magic to sculpt your forces and maintain control over the battlefield.
 
 #### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain essence equal to your [Victories](../../Browse/rule/resource/victories.md).
 
-At the start of each of your turns during combat, you gain 2 essence.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 2 essence.
 
-The first time each round that any minion (either yours or an enemy) dies unwillingly within your Summoner's Range, you gain 1 essence.
+The first time each [round](../../Browse/rule/combat/combat-round.md) that any minion (either yours or an enemy) dies unwillingly within your Summoner's Range, you gain 1 essence.
 
-Whenever you use a heroic ability or call forth a minion that costs essence, you can willingly sacrifice one or more of your minions within your Summoner's Range to reduce the cost by 1. You can't kill minions this way if they used a main action or maneuver during the turn. You can sacrifice more minions than you would reduce the cost by.
+Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md) or call forth a minion that costs essence, you can willingly sacrifice one or more of your minions within your Summoner's Range to reduce the cost by 1. You can't kill minions this way if they used a [main action](../../Browse/rule/combat/turn.md) or maneuver during the [turn](../../Browse/rule/combat/turn.md). You can sacrifice more minions than you would reduce the cost by.
 
 You lose any remaining essence at the end of the encounter.
 
 #### Essence Outside of Combat
 
-Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite.
+Though you can't gain essence outside of combat, you can use your [heroic abilities](../../Browse/rule/general/heroic-ability.md) and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you gain at least 1 [Victory](../../Browse/rule/resource/victories.md) or finish a [respite](../../Browse/rule/resource/respite.md).
 
 > **More Wielders of Quintessence**
 >
@@ -169,7 +169,7 @@ Though you can't gain essence outside of combat, you can use your heroic abiliti
 
 ### Summoner Strike {data-scc="mcdm.summoner.v1/feature.summoner.level-1/summoner-strike"}
 
-You have the following ability, which replaces both your melee and ranged free strikes.
+You have the following ability, which replaces both your melee and ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md).
 
 #### Summoner Strike {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/summoner-strike"}
 
@@ -179,13 +179,13 @@ You have the following ability, which replaces both your melee and ranged free s
 |----------------------------------|--------------------------:|
 | **📏 Melee 1 or Ranged 5**      | **🎯 One creature or object** |
 
-**Effect:** R damage. If the target has R < WEAK, they are slowed (save ends).
+**Effect:** R [damage](../../Browse/rule/damage/damage.md). If the target has R < WEAK, they are [slowed](../../Browse/condition/slowed.md) (save ends).
 
-**Special:** This ability has the Charge keyword when it's used as a melee strike.
+**Special:** This ability has the Charge keyword when it's used as a melee [strike](../../Browse/rule/combat/strike.md).
 
 ### Strike For Me {data-scc="mcdm.summoner.v1/feature.summoner.level-1/strike-for-me"}
 
-You have the following free triggered action.
+You have the following free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 #### Strike for Me {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/strike-for-me"}
 
@@ -195,21 +195,21 @@ You have the following free triggered action.
 |-------------------------|--------------------:|
 | **📏 Summoner's Range** | **🎯 Each of your minions** |
 
-**Trigger:** You use a triggered action to make a free strike or use a signature ability.
+**Trigger:** You use a [triggered action](../../Browse/rule/combat/triggered-action.md) to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) or use a [signature ability](../../Browse/rule/combat/signature-ability.md).
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** Up to three targets each make a free strike
-- **12-16:** Up to five targets each make a free strike
-- **17+:** Up to seven targets each make a free strike
+- **≤11:** Up to three targets each make a [free strike](../../Browse/feature/common/main-actions/free-strike.md)
+- **12-16:** Up to five targets each make a [free strike](../../Browse/feature/common/main-actions/free-strike.md)
+- **17+:** Up to seven targets each make a [free strike](../../Browse/feature/common/main-actions/free-strike.md)
 
-**Special:** On a natural 19 or 20, each target makes a free strike.
+**Special:** On a [natural 19 or 20](../../Browse/rule/dice/natural-19-20.md), each target makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-**Effect:** Your minions act in place of you making a free strike or using a signature ability. If you were granted the triggered action against a specific target, your minions must strike the same target. If the triggered action granted you a signature ability, you have an edge on the power roll.
+**Effect:** Your minions act in place of you making a [free strike](../../Browse/feature/common/main-actions/free-strike.md) or using a [signature ability](../../Browse/rule/combat/signature-ability.md). If you were granted the [triggered action](../../Browse/rule/combat/triggered-action.md) against a specific target, your minions must strike the same target. If the [triggered action](../../Browse/rule/combat/triggered-action.md) granted you a [signature ability](../../Browse/rule/combat/signature-ability.md), you have an [edge](../../Browse/rule/dice/edge.md) on the [power roll](../../Browse/rule/dice/power-roll.md).
 
 **Your Minions Deal the Damage**
 
-By normal Draw Steel rules, everyone gets access to free strikes. As a summoner, you have a free strike equivalent in addition to minions who have their own free strikes. Changing how you attack allows your minions to shine in battle while keeping your damage output in line with your fellow heroes. The static damage you and most of your minions deal also keeps your turns fast and flowing.
+By normal Draw Steel rules, everyone gets access to [free strikes](../../Browse/feature/common/main-actions/free-strike.md). As a [summoner](../../Browse/class/summoner.md), you have a [free strike](../../Browse/feature/common/main-actions/free-strike.md) equivalent in addition to minions who have their own free strikes. Changing how you attack allows your minions to shine in battle while keeping your damage output in line with your fellow heroes. The static damage you and most of your minions deal also keeps your [turns](../../Browse/rule/combat/turn.md) fast and flowing.
 
 ### Call Forth {data-scc="mcdm.summoner.v1/feature.summoner.level-1/call-forth"}
 
@@ -241,11 +241,11 @@ You have the following maneuver.
 |-------------|-------------:|
 | **📏 Melee 1** | **🎯 One of your minions** |
 
-**Effect:** You shift into a square adjacent to the target, including vertically.
+**Effect:** You [shift](../../Browse/movement/shifting.md) into a square adjacent to the target, including vertically.
 
-You can shift into squares that contain one of your minions, even if they occupy difficult terrain. Each time you shift into a square that contains one of your minions while using this maneuver, you can shift an additional square.
+You can [shift](../../Browse/movement/shifting.md) into squares that contain one of your minions, even if they occupy [difficult terrain](../../Browse/movement/difficult-terrain.md). Each time you [shift](../../Browse/movement/shifting.md) into a square that contains one of your minions while using this maneuver, you can [shift](../../Browse/movement/shifting.md) an additional square.
 
-**1 Essence:** An adjacent ally can shift alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.
+**1 Essence:** An adjacent ally can [shift](../../Browse/movement/shifting.md) alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.
 
 ### 1st-Level Circle Features {data-scc="mcdm.summoner.v1/feature.summoner.level-1/1st-level-circle-features"}
 
@@ -262,53 +262,53 @@ Your circle grants you features as shown on the 1st-Level Summoner Circle Featur
 
 #### Dead Men Tell All Tales {data-scc="mcdm.summoner.v1/feature.summoner.level-1/dead-men-tell-all-tales"}
 
-You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium Reason test, where failure or consequence breaks your connection with the corpse permanently.
+You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md), where failure or consequence breaks your connection with the corpse permanently.
 
 The corpse can also choose to refuse to answer or lie, especially if you were the one to kill them in the first place.
 
 #### Death Snap {data-scc="mcdm.summoner.v1/feature.summoner.level-1/death-snap"}
 
-Whenever one of your demon minions would die unwillingly, they can deal damage to an adjacent creature equal to their free strike value before dying.
+Whenever one of your demon minions would die unwillingly, they can deal [damage](../../Browse/rule/damage/damage.md) to an [adjacent](../../Browse/rule/combat/adjacent.md) creature equal to their [free strike](../../Browse/feature/common/main-actions/free-strike.md) value before dying.
 
 #### Elemental Affinity {data-scc="mcdm.summoner.v1/feature.summoner.level-1/elemental-affinity"}
 
-Whenever you use Call Forth to summon one or more non-signature elemental minions, you can summon one bonus signature minion at no cost. You can choose between a signature minion that shares an Element keyword with the minions you summoned (such as Fire, Earth, or Air) or an elemental mote.
+Whenever you use [Call Forth](../../Browse/feature/ability/summoner/level-1/call-forth.md) to summon one or more non-signature elemental minions, you can summon one bonus signature minion at no cost. You can choose between a signature minion that shares an Element keyword with the minions you summoned (such as Fire, Earth, or Air) or an elemental mote.
 
 #### Fairy Whispers {data-scc="mcdm.summoner.v1/feature.summoner.level-1/fairy-whispers"}
 
-Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a Reason test:
+Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md):
 
 - **≤11:** You learn an undoubtedly false common rumor.
 - **12-16:** You learn a common rumor that is most likely true.
 - **17+:** You learn an obscure rumor that could either be true or false.
 
-You gain a bane on the test for each subsequent rumor you collect either on the same day or in the same location.
+You gain a [bane](../../Browse/rule/dice/bane.md) on the test for each subsequent rumor you collect either on the same day or in the same location.
 
 #### Heart of Nature {data-scc="mcdm.summoner.v1/feature.summoner.level-1/heart-of-nature"}
 
-You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can't obtain lower than a tier 2 outcome on any Intuition test made to socially interact with them.
+You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can't obtain lower than a tier 2 outcome on any [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) made to socially interact with them.
 
 #### Pixie Dust {data-scc="mcdm.summoner.v1/feature.summoner.level-1/pixie-dust"}
 
-Increase your number of Recoveries by 2.
+Increase your number of [Recoveries](../../Browse/rule/health/recoveries.md) by 2.
 
-Whenever one of your fey minions dies within your Summoner's Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.
+Whenever one of your fey minions dies within your Summoner's Range, you can spend a [Recovery](../../Browse/rule/health/recoveries.md) to give [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to twice your [Reason](../../Browse/rule/character/reason.md) score to each non-minion ally [adjacent](../../Browse/rule/combat/adjacent.md) to the minion when they died.
 
 #### Rise! {data-scc="mcdm.summoner.v1/feature.summoner.level-1/rise"}
 
-Once per round, when a creature dies unwillingly within your Summoner's Range, you can use a triggered action to summon a signature undead minion in their space at no cost, even if you're at your minion maximum, but only if they can be organized into one of your squads. The new minion can't act until the start of your next turn.
+Once per [round](../../Browse/rule/combat/combat-round.md), when a creature dies unwillingly within your Summoner's Range, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to summon a signature undead minion in their space at no cost, even if you're at your minion maximum, but only if they can be organized into one of your squads. The new minion can't act until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
-This ability becomes a free triggered action if the target was a minion (either yours or an enemy).
+This ability becomes a free [triggered action](../../Browse/rule/combat/triggered-action.md) if the target was a minion (either yours or an enemy).
 
 #### Soulsense {data-scc="mcdm.summoner.v1/feature.summoner.level-1/soulsense"}
 
-While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.
+While you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.
 
-When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.
+When you finish a [respite](../../Browse/rule/resource/respite.md), you can always perceive the soul trails of each creature that took the [respite](../../Browse/rule/resource/respite.md) with you until your next [respite](../../Browse/rule/resource/respite.md).
 
 ### Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/formation"}
 
-You've practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (*Quick Build:* Platoon Formation.)
+You've practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see [Quick Command](../../Browse/feature/summoner/level-1/quick-command.md)) by performing intense study as a [respite](../../Browse/rule/resource/respite.md) activity. (*Quick Build:* [Platoon Formation](../../Browse/feature/summoner/level-1/platoon-formation.md).)
 
 #### Horde Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/horde-formation"}
 
@@ -316,29 +316,29 @@ Your maximum number of minions increases by 4 and you summon up to four of your 
 
 #### Platoon Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/platoon-formation"}
 
-Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional damage equal to your Reason score.
+Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional [damage](../../Browse/rule/damage/damage.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### Elite Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/elite-formation"}
 
-Each of your minions have their Stamina increased by 3 and their stability increased by 1.
+Each of your minions have their [Stamina](../../Browse/rule/health/stamina.md) increased by 3 and their [stability](../../Browse/rule/character/stability.md) increased by 1.
 
 #### Leader Formation {data-scc="mcdm.summoner.v1/feature.summoner.level-1/leader-formation"}
 
-You aren't affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner's Range when they take damage, you can choose to take damage in place of the minion.
+You aren't affected by excess [damage](../../Browse/rule/damage/damage.md) after all minions in a squad are dead. If your minion is within your Summoner's Range when they take [damage](../../Browse/rule/damage/damage.md), you can choose to take damage in place of the minion.
 
-Additionally, you can use light armor treasures and light weapon treasures while you don't have a kit.
+Additionally, you can use light armor [treasures](../../Browse/rule/treasure/leveled-treasure.md) and light weapon [treasures](../../Browse/rule/treasure/leveled-treasure.md) while you don't have a kit.
 
 > **Minions and Treasures**
 >
-> Treasures in Draw Steel are typically worded for you to use, which might create ambiguity for a summoner managing an army. You can use the following guidelines to ensure the treasures you come across in your adventures do what they were intended to do.
+> [Treasures](../../Browse/rule/treasure/leveled-treasure.md) in Draw Steel are typically worded for you to use, which might create ambiguity for a [summoner](../../Browse/class/summoner.md) managing an army. You can use the following guidelines to ensure the treasures you come across in your adventures do what they were intended to do.
 >
-> - Treasures that give you a damage bonus to rolled damage only apply to power rolls made from a non-minion's space. However, when you use Strike for Me, any bonus damage is applied to each enemy and object that took damage.
-> - Once you reach level 4 as a summoner, you regain access to your normal free strike abilities while wielding a weapon treasure, an implement treasure, or any treasure that enables you to make a free strike as a part of its effect.
-> - Treasures that increase the distance of ranged magic abilities also increase the distance of your Summoner's Range.
+> - Treasures that give you a [damage](../../Browse/rule/damage/damage.md) bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) only apply to [power rolls](../../Browse/rule/dice/power-roll.md) made from a non-minion's space. However, when you use [Strike for Me](../../Browse/feature/ability/summoner/level-1/strike-for-me.md), any bonus damage is applied to each enemy and object that took damage.
+> - Once you reach level 4 as a [summoner](../../Browse/class/summoner.md), you regain access to your normal [free strike](../../Browse/feature/common/main-actions/free-strike.md) abilities while wielding a weapon treasure, an [implement](../../Browse/rule/treasure/implement.md) treasure, or any treasure that enables you to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) as a part of its effect.
+> - Treasures that increase the [distance](../../Browse/rule/combat/distance.md) of ranged magic abilities also increase the distance of your Summoner's Range.
 
 ### Quick Command {data-scc="mcdm.summoner.v1/feature.summoner.level-1/quick-command"}
 
-You have a special command you can issue to your minions. Choose one of the following quick commands. You can change your quick command along with your formation (see Formation) by performing intense study as a respite activity. (*Quick Build:* Shield!)
+You have a special command you can issue to your minions. Choose one of the following quick commands. You can change your quick command along with your formation (see [Formation](../../Browse/feature/summoner/level-1/formation.md)) by performing intense study as a [respite](../../Browse/rule/resource/respite.md) activity. (*Quick Build:* [Shield!](../../Browse/feature/ability/summoner/level-1/shield.md))
 
 #### Focus Fire! {data-scc="mcdm.summoner.v1/feature.summoner.level-1/focus-fire"}
 
@@ -352,11 +352,11 @@ You have the following triggered action.
 |-------|-------------:|
 | **📏 Summoner's Range** | **🎯 Self or one ally** |
 
-**Trigger:** The target deals damage to another creature.
+**Trigger:** The target deals [damage](../../Browse/rule/damage/damage.md) to another creature.
 
-**Effect:** The target gains a surge for each of your minions adjacent to them (up to a maximum of 3 surges), which they can use on the triggering damage.
+**Effect:** The target gains a [surge](../../Browse/rule/resource/surge.md) for each of your minions [adjacent](../../Browse/rule/combat/adjacent.md) to them (up to a maximum of 3 surges), which they can use on the triggering damage.
 
-**Spend 1 Essence:** If the triggering damage is from an ability that uses a power roll, the power roll gains an edge.
+**Spend 1 Essence:** If the triggering damage is from an ability that uses a [power roll](../../Browse/rule/dice/power-roll.md), the [power roll](../../Browse/rule/dice/power-roll.md) gains an [edge](../../Browse/rule/dice/edge.md).
 
 #### Halt! {data-scc="mcdm.summoner.v1/feature.summoner.level-1/halt"}
 
@@ -370,11 +370,11 @@ You have the following triggered action.
 |-------|-------------:|
 | **📏 Summoner's Range** | **🎯 One creature** |
 
-**Trigger:** The target starts their turn, moves, or is force moved.
+**Trigger:** The target starts their [turn](../../Browse/rule/combat/turn.md), moves, or is [force moved](../../Browse/movement/forced-movement.md).
 
-**Effect:** You summon a signature minion in an unoccupied space adjacent to the target. If the target is force moved into the minion, you can choose to make the target take no damage from the collision.
+**Effect:** You summon a signature minion in an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to the target. If the target is [force moved](../../Browse/movement/forced-movement.md) into the minion, you can choose to make the target take no [damage](../../Browse/rule/damage/damage.md) from the collision.
 
-**Special:** Instead of summoning a new minion, you can command one of your minions within distance to shift up to their speed toward a square adjacent to the target before any additional effects occur.
+**Special:** Instead of summoning a new minion, you can command one of your minions within [distance](../../Browse/rule/combat/distance.md) to [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md) toward a square [adjacent](../../Browse/rule/combat/adjacent.md) to the target before any additional effects occur.
 
 #### Not Yet! {data-scc="mcdm.summoner.v1/feature.summoner.level-1/not-yet"}
 
@@ -392,7 +392,7 @@ You have the following triggered action.
 
 **Special:** If the target is a minion, they must be the only minion remaining in their squad.
 
-**Effect:** The damage the target receives is reduced by an amount that leaves the target alive with 1 point of Stamina.
+**Effect:** The [damage](../../Browse/rule/damage/damage.md) the target receives is reduced by an amount that leaves the target alive with 1 point of [Stamina](../../Browse/rule/health/stamina.md).
 
 #### Shield! {data-scc="mcdm.summoner.v1/feature.summoner.level-1/shield"}
 
@@ -406,11 +406,11 @@ You have the following triggered action.
 |-------|-------------:|
 | **📏 Summoner's Range** | **🎯 Self or one ally** |
 
-**Trigger:** The target is targeted by a strike.
+**Trigger:** The target is targeted by a [strike](../../Browse/rule/combat/strike.md).
 
-**Effect:** If one of your minions is adjacent to the target and is within distance of the strike, they become the new target of the strike.
+**Effect:** If one of your minions is [adjacent](../../Browse/rule/combat/adjacent.md) to the target and is within [distance](../../Browse/rule/combat/distance.md) of the strike, they become the new target of the strike.
 
-**Spend 1 Essence:** Instead of commanding an existing minion, you summon a signature minion into an unoccupied space adjacent to the target to take the strike.
+**Spend 1 Essence:** Instead of commanding an existing minion, you summon a signature minion into an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to the target to take the strike.
 
 ### Portfolio {data-scc="mcdm.summoner.v1/feature.summoner.level-1/portfolio"}
 
@@ -441,11 +441,11 @@ This vaguely humanoid form is warped and distorted by a demon nestled inside the
 
 > ⭐️ **Extended Barbed Strike**
 >
-> The ensnarer's melee free strikes have a distance of 3 and inflict pull 1. The pull distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying forced movement.
+> The ensnarer's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 3 and inflict [pull](../../Browse/movement/forced-movement.md) 1. The [pull](../../Browse/movement/forced-movement.md) distance increases by 1 for each additional ensnarer striking the same target. Choose the ensnarer that the target is being pulled to before applying [forced movement](../../Browse/movement/forced-movement.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the ensnarer can't be hidden from them.
+> Each creature adjacent to the ensnarer can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ###### Rasquine {data-scc="mcdm.summoner.v1/minion.demon.statblock/rasquine"}
 
@@ -459,11 +459,11 @@ The rasquine are skulking demons that shimmer in the light. They teleport into p
 
 > ⭐️ **Skulker**
 >
-> Once per turn, the rasquine can hide as a free maneuver after teleporting.
+> Once per turn, the rasquine can [hide](../../Browse/feature/common/maneuvers/hide.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) after [teleporting](../../Browse/movement/teleport.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the rasquine can't be hidden from them.
+> Each creature adjacent to the rasquine can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ###### Razor {data-scc="mcdm.summoner.v1/minion.demon.statblock/razor"}
 
@@ -477,11 +477,11 @@ Razors appear to be a diminutive variant of the ruinant demon. Their bodies are 
 
 > ⭐️ **Teeth!**
 >
-> Once per turn, whenever an adjacent enemy grabs the razor or uses a melee ability against them, that enemy takes 1 damage for each razor adjacent to them.
+> Once per turn, whenever an adjacent enemy [grabs](../../Browse/feature/common/maneuvers/grab.md) the razor or uses a melee ability against them, that enemy takes 1 damage for each razor adjacent to them.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the razor can't be hidden from them.
+> Each creature adjacent to the razor can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ##### Demon Portfolio 3-Essence Minion
 
@@ -499,11 +499,11 @@ These minor demons resemble larger pitlings. They can spit a nerve-numbing phleg
 
 > ⭐️ **Splash Strike**
 >
-> The spittlich's ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't shift until the start of the spittlich's next turn.
+> The spittlich's ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this spittlich can't [shift](../../Browse/movement/shifting.md) until the start of the spittlich's next turn.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the spittlich can't be hidden from them.
+> Each creature adjacent to the spittlich can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ###### Fanged Musilex {data-scc="mcdm.summoner.v1/minion.demon.statblock/fanged-musilex"}
 
@@ -517,11 +517,11 @@ Ensnarers knot and twist their bodies together to form heaving, heavy musilexes.
 
 > ⭐️ **Mawful Strike**
 >
-> The musilex's melee free strikes have a distance of 2 + R and inflict pull 2. The pull distance increases by 2 for each additional musilex striking the same target. Choose the musilex that the target is being pulled to before applying forced movement. If the target is pulled adjacent to the musilex, the musilex either deals an additional 2 damage or grabs them.
+> The musilex's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 2 + R and inflict [pull](../../Browse/movement/forced-movement.md) 2. The [pull](../../Browse/movement/forced-movement.md) distance increases by 2 for each additional musilex striking the same target. Choose the musilex that the target is being pulled to before applying [forced movement](../../Browse/movement/forced-movement.md). If the target is pulled adjacent to the musilex, the musilex either deals an additional 2 damage or [grabs](../../Browse/feature/common/maneuvers/grab.md) them.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the musilex can't be hidden from them.
+> Each creature adjacent to the musilex can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ###### Twisted Bengrul {data-scc="mcdm.summoner.v1/minion.demon.statblock/twisted-bengrul"}
 
@@ -545,11 +545,11 @@ The bengrul is an undulating heap of glass and flesh. They shatter pieces of the
 >
 > 8 damage; P < STRONG twisted (save ends)
 >
-> **Effect:** A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.
+> **Effect:** A twisted target can't take advantage of [edges](../../Browse/rule/dice/edge.md) or [search for hidden creatures](../../Browse/feature/common/maneuvers/search-for-hidden-creatures.md) until the condition ends.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the ensnarer can't be hidden from them.
+> Each creature adjacent to the ensnarer can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
 ##### Elemental Portfolio Signature Minion
 
@@ -567,7 +567,7 @@ This near-pure form of autonomous essence just barely maintains their form. They
 
 > ⭐️ **Dweomer Burst**
 >
-> When the mote is reduced to 0 Stamina, each enemy adjacent to the mote has a bane on their next strike.
+> When the mote is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), each enemy adjacent to the mote has a [bane](../../Browse/rule/dice/bane.md) on their next [strike](../../Browse/rule/combat/strike.md).
 
 > ⭐️ **Catalyst**
 >
@@ -587,11 +587,11 @@ The gales are twisting ribbons of cloud and debris endlessly dancing in place. T
 
 > ⭐️ **Cutting the Air**
 >
-> The gale doesn't provoke opportunity attacks by moving.
+> The gale doesn't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) by moving.
 
 > ⭐️ **Whirlwind**
 >
-> When the gale is reduced to 0 Stamina, winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately shift (including vertically).
+> When the gale is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately [shift](../../Browse/movement/shifting.md) (including vertically).
 
 ###### Fire Plume {data-scc="mcdm.summoner.v1/minion.elemental.statblock/fire-plume"}
 
@@ -605,11 +605,11 @@ A fire plume burns so bright that their true shape is hard to discern from the f
 
 > ⭐️ **Spitfire Strike**
 >
-> The plume's ranged free strikes have a distance of 10.
+> The plume's ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 10.
 
 > ⭐️ **Pyre**
 >
-> When the plume is reduced to 0 Stamina, their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.
+> When the plume is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.
 
 ###### Walking Boulder {data-scc="mcdm.summoner.v1/minion.elemental.statblock/walking-boulder"}
 
@@ -623,15 +623,15 @@ These massive clods of animated stone roll upon smaller piles of rocks that coul
 
 > ⭐️ **Obstruct**
 >
-> The boulder obstructs line of effect for enemies.
+> The boulder obstructs [line of effect](../../Browse/rule/combat/line-of-effect.md) for enemies.
 
 > ⭐️ **Pile Up** 1 Essence
 >
-> When one or more boulders is reduced to 0 Stamina, they each leave behind a stone wall equal to their size in their space until the end of the encounter.
+> When one or more boulders is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they each leave behind a stone [wall](../../Browse/rule/combat/wall.md) equal to their size in their space until the end of the encounter.
 
 > **Traits with an Essence Cost**
 >
-> Some minion stat blocks have traits that can only be activated if you spend the heroic resource listed in the top corner of the trait. For example, when a crux of ash is reduced to 0 Stamina, you can spend 1 essence to use their Ashen Cloud trait.
+> Some minion stat blocks have traits that can only be activated if you spend the [heroic resource](../../Browse/rule/resource/heroic-resource.md) listed in the top corner of the trait. For example, when a crux of ash is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you can spend 1 essence to use their Ashen Cloud trait.
 
 ##### Elemental Portfolio 3-Essence Minion
 
@@ -649,11 +649,11 @@ The crux is a curtain of billowing hot ash with an avian head. They cover their 
 
 > ⭐️ **Soot Strike**
 >
-> The crux's melee free strikes M < AVERAGE automatically hide each ally from the target until the start of the crux's next turn, until the target uses a maneuver to clear the soot, until the crux takes damage, or until the crux is destroyed.
+> The crux's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) M < AVERAGE automatically [hide](../../Browse/feature/common/maneuvers/hide.md) each ally from the target until the start of the crux's next turn, until the target uses a [maneuver](../../Browse/rule/combat/turn.md) to clear the soot, until the crux takes damage, or until the crux is destroyed.
 
 > ⭐️ **Ashen Cloud** 1 Essence
 >
-> When the crux is reduced to 0 Stamina, the area within 1 square of the crux is clouded by ash until it is dispersed by wind. You or any ally are concealed while occupying an affected square. An enemy can't establish line of effect beyond the ash while occupying an affected square.
+> When the crux is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the crux is clouded by ash until it is dispersed by wind. You or any ally are [concealed](../../Browse/rule/combat/concealment.md) while occupying an affected square. An enemy can't establish [line of effect](../../Browse/rule/combat/line-of-effect.md) beyond the ash while occupying an affected square.
 
 ###### Flow of Magma {data-scc="mcdm.summoner.v1/minion.elemental.statblock/flow-of-magma"}
 
@@ -671,17 +671,17 @@ This elemental is a long, serpentine creature of heated rock. Flows of magma dro
 > |--------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 One creature or object per minion** |
 >
-> 4 fire damage; shift 3
+> 4 fire damage; [shift](../../Browse/movement/shifting.md) 3
 >
-> 6 fire damage; shift 4
+> 6 fire damage; [shift](../../Browse/movement/shifting.md) 4
 >
-> 8 fire damage; shift 5
+> 8 fire damage; [shift](../../Browse/movement/shifting.md) 5
 >
-> **Effect:** Each square that the flow shifts into becomes wreathed in flames until the start of the flow's next turn. An enemy that enters an affected square takes 2 damage.
+> **Effect:** Each square that the flow [shifts](../../Browse/movement/shifting.md) into becomes wreathed in flames until the start of the flow's next turn. An enemy that enters an affected square takes 2 damage.
 
 > ⭐️ **Eruption** 1 Essence
 >
-> When the flow is reduced to 0 Stamina, they launch lava into an area equal to 1 + their size within 5 squares. The affected area becomes difficult terrain for enemies until the end of the encounter. An enemy that enters an affected square or starts their turn there takes A < AVERAGE 4 fire damage.
+> When the flow is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they launch lava into an area equal to 1 + their size within 5 squares. The affected area becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that enters an affected square or starts their turn there takes A < AVERAGE 4 fire damage.
 
 ###### Desolation of Sand {data-scc="mcdm.summoner.v1/minion.elemental.statblock/desolation-of-sand"}
 
@@ -695,15 +695,15 @@ The desolations have vaguely humanoid sand forms with no legs. Their glass hose 
 
 > ⭐️ **Burying Strike**
 >
-> The desolation's free strikes inflict M < AVERAGE slowed (save ends). If the target is already slowed, then they are M < STRONG restrained (EoT).
+> The desolation's [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < AVERAGE [slowed](../../Browse/condition/slowed.md) (save ends). If the target is already [slowed](../../Browse/condition/slowed.md), then they are M < STRONG [restrained](../../Browse/condition/restrained.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
 > ⭐️ **Sand Through Your Fingers**
 >
-> The desolation doesn't provoke opportunity attacks by moving.
+> The desolation doesn't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) by moving.
 
 > ⭐️ **Shifting Sand Pit** 1 Essence
 >
-> When the desolation is reduced to 0 Stamina, the area within 1 square of the desolation becomes difficult terrain for enemies until the end of the encounter. You or an ally that enters the affected area can immediately shift 3.
+> When the desolation is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the desolation becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. You or an ally that enters the affected area can immediately [shift](../../Browse/movement/shifting.md) 3.
 
 ##### Fey Portfolio Signature Minion
 
@@ -721,15 +721,15 @@ These nixies are especially tiny. Their hair grows longer than their bodies and 
 
 > ⭐️ **Water Weird**
 >
-> Once per turn during their move action, each nixie under your control can teleport to a body of water within 5. The soakreed can't teleport into water created by their own soaking bog.
+> Once per turn during their move action, each nixie under your control can [teleport](../../Browse/movement/teleport.md) to a body of water within 5. The soakreed can't [teleport](../../Browse/movement/teleport.md) into water created by their own soaking bog.
 
 > ⭐️ **Soaking Bog**
 >
-> The area within 1 square of the soakreed is filled with swampy water. An enemy that starts their turn in the area is A < WEAK slowed (EoT). The potency increases by 1 for each additional soaking bog the target occupies (maximum +2).
+> The area within 1 square of the soakreed is filled with swampy water. An enemy that starts their turn in the area is A < WEAK [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)). The [potency](../../Browse/rule/character/potency.md) increases by 1 for each additional soaking bog the target occupies (maximum +2).
 
 > ⭐️ **Minuscule**
 >
-> The soakreed has cover while occupying a larger creature's space.
+> The soakreed has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Pixie Bellringer {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-bellringer"}
 
@@ -743,15 +743,15 @@ The bellringers are glowing pixies that jingle as they fly. Historically, these 
 
 > ⭐️ **Ringing Strike**
 >
-> The bellringer's free strikes grant an edge to the next strike made against the target, or a double edge if two or more bellringers strike the same target.
+> The bellringer's [free strikes](../../Browse/feature/common/main-actions/free-strike.md) grant an [edge](../../Browse/rule/dice/edge.md) to the next [strike](../../Browse/rule/combat/strike.md) made against the target, or a double [edge](../../Browse/rule/dice/edge.md) if two or more bellringers strike the same target.
 
 > ⭐️ **Fairy Chime**
 >
-> Each ally within 1 square of a bellringer has a +1 to saving throws. Each enemy within 1 square of a bellringer has a −1 to saving throws.
+> Each ally within 1 square of a bellringer has a +1 to [saving throws](../../Browse/rule/general/saving-throw.md). Each enemy within 1 square of a bellringer has a −1 to [saving throws](../../Browse/rule/general/saving-throw.md).
 
 > ⭐️ **Minuscule**
 >
-> The bellringer has cover while occupying a larger creature's space.
+> The bellringer has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Sprite Dandeknight {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-dandeknight"}
 
@@ -769,11 +769,11 @@ Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. T
 
 > ⭐️ **Staccato Swings**
 >
-> When the dandeknight makes a free strike, they can make two free strikes instead. The damage is added together and treated as a single strike if both strikes hit the same target.
+> When the dandeknight makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md), they can make two [free strikes](../../Browse/feature/common/main-actions/free-strike.md) instead. The damage is added together and treated as a single [strike](../../Browse/rule/combat/strike.md) if both strikes hit the same target.
 
 > ⭐️ **Minuscule**
 >
-> The dandeknight has cover while occupying a larger creature's space.
+> The dandeknight has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ##### Fey Portfolio 3-Essence Minion
 
@@ -795,17 +795,17 @@ This pixie flies on a delicate array of vibrant flower petals for wings. The col
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 5 acid damage; M < WEAK weakened (EoT)
+> 5 acid damage; M < WEAK [weakened](../../Browse/condition/weakened.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 >
-> 7 acid damage; M < AVERAGE weakened (EoT)
+> 7 acid damage; M < AVERAGE [weakened](../../Browse/condition/weakened.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 >
-> 9 acid damage; M < STRONG weakened (save ends)
+> 9 acid damage; M < STRONG [weakened](../../Browse/condition/weakened.md) (save ends)
 >
-> **Effect:** After the hydrain's squad uses this ability, you or one ally within distance can spend a Recovery or end a condition.
+> **Effect:** After the hydrain's squad uses this ability, you or one ally within distance can spend a [Recovery](../../Browse/rule/health/recoveries.md) or end a [condition](../../Browse/rule/combat/condition.md).
 
 > ⭐️ **Minuscule**
 >
-> The hydrain has cover while occupying a larger creature's space.
+> The hydrain has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Pixie Loftlilly {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-loftlilly"}
 
@@ -819,11 +819,11 @@ Loftlillies lazily drift through the air in flower cups. They sip on toxic necta
 
 > ⭐️ **Floating Toxins**
 >
-> The area within 1 square of the loftlilly causes each enemy and object with a size equal to your Reason or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't fly is unable to shift, moves 2 additional squares from forced movement, and has a bane on strikes.
+> The area within 1 square of the loftlilly causes each enemy and object with a size equal to your [Reason](../../Browse/rule/character/reason.md) or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't [fly](../../Browse/movement/fly.md) is unable to [shift](../../Browse/movement/shifting.md), moves 2 additional squares from [forced movement](../../Browse/movement/forced-movement.md), and has a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md).
 
 > ⭐️ **Minuscule**
 >
-> The loftlilly has cover while occupying a larger creature's space.
+> The loftlilly has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Sprite Orchiguard {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-orchiguard"}
 
@@ -837,11 +837,11 @@ The orchiguard is a sprite surrounded by a wheel of shields. They are usually cr
 
 > ⭐️ **Fairy Guard**
 >
-> Each non-orchiguard ally takes half damage from abilities while within 1 square of the orchiguard. Whenever the orchiguard reduces damage this way, they take damage equal to half their maximum Stamina and their free strike damage increases by 1.
+> Each non-orchiguard ally takes half damage from abilities while within 1 square of the orchiguard. Whenever the orchiguard reduces damage this way, they take damage equal to half their maximum [Stamina](../../Browse/rule/health/stamina.md) and their [free strike](../../Browse/feature/common/main-actions/free-strike.md) damage increases by 1.
 
 > ⭐️ **Minuscule**
 >
-> The orchiguard has cover while occupying a larger creature's space.
+> The orchiguard has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ##### Undead Portfolio Signature Minion
 
@@ -859,7 +859,7 @@ Husks have stiff corpses that snap and crackle with each sudden movement. Corros
 
 > ⭐️ **Rotting Strike**
 >
-> The husk's melee free strikes inflict M < WEAK slowed (EoT). The potency increases by 1 for each additional husk adjacent to the target (maximum +2).
+> The husk's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < WEAK [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)). The [potency](../../Browse/rule/character/potency.md) increases by 1 for each additional husk adjacent to the target (maximum +2).
 
 ###### Shrieker {data-scc="mcdm.summoner.v1/minion.undead.statblock/shrieker"}
 
@@ -873,11 +873,11 @@ The shrieker expresses their unending pain in a way that can be heard and felt f
 
 > ⭐️ **Howling Strike**
 >
-> The shrieker's ranged free strikes have a distance of 12.
+> The shrieker's ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 12.
 
 > ⭐️ **Shrill Alarm**
 >
-> Each enemy within 2 squares of the shrieker can't hide or be hidden.
+> Each enemy within 2 squares of the shrieker can't [hide](../../Browse/feature/common/maneuvers/hide.md) or be [hidden](../../Browse/feature/common/maneuvers/hide.md).
 
 ###### Skeleton {data-scc="mcdm.summoner.v1/minion.undead.statblock/skeleton"}
 
@@ -891,7 +891,7 @@ These autonomous bone networks fall just short of replicating the structure they
 
 > ⭐️ **Bonetrops**
 >
-> When the skeleton is reduced to 0 Stamina, their square becomes difficult terrain for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
+> When the skeleton is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their square becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
 
 ##### Undead Portfolio 3-Essence Minion
 
@@ -913,15 +913,15 @@ The grave knights are zombie warriors that continue to fight after death. Any bl
 > |---------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 5 corruption damage; M < WEAK bleeding (EoT)
+> 5 corruption damage; M < WEAK [bleeding](../../Browse/condition/bleeding.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 >
-> 7 corruption damage; M < AVERAGE bleeding (EoT)
+> 7 corruption damage; M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 >
-> 9 corruption damage; M < STRONG bleeding (save ends)
+> 9 corruption damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) (save ends)
 
 > ⭐️ **To the Grave**
 >
-> When the grave knight is reduced to 0 Stamina, they can make a melee free strike before being destroyed.
+> When the grave knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) before being destroyed.
 
 ###### Stalker Shade {data-scc="mcdm.summoner.v1/minion.undead.statblock/stalker-shade"}
 
@@ -935,11 +935,11 @@ Shades are a form of umbral stalker that float free from any floor or surface. T
 
 > ⭐️ **Shadow Strike**
 >
-> The stalker shade turns invisible, shifts 3 squares, and reappears after making a strike.
+> The stalker shade turns invisible, [shifts](../../Browse/movement/shifting.md) 3 squares, and reappears after making a [strike](../../Browse/rule/combat/strike.md).
 
 > ⭐️ **Shadow Phasing**
 >
-> The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being force moved into objects.
+> The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 
 ###### Zombie Lumberer {data-scc="mcdm.summoner.v1/minion.undead.statblock/zombie-lumberer"}
 
@@ -953,11 +953,11 @@ These massive, animated ogre corpses still maintain their incredible grip streng
 
 > ⭐️ **Zombie Clutch**
 >
-> The lumberer's melee free strikes inflict A < AVERAGE grabbed. A creature or object that starts their turn grabbed by the lumberer takes corruption damage equal to your Reason.
+> The lumberer's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict A < AVERAGE [grabbed](../../Browse/condition/grabbed.md). A creature or object that starts their turn [grabbed](../../Browse/condition/grabbed.md) by the lumberer takes corruption damage equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ⭐️ **Death Grasp**
 >
-> When the lumberer is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is M < STRONG restrained (EoT).
+> When the lumberer is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can latch onto an adjacent enemy before being destroyed. The enemy is M < STRONG [restrained](../../Browse/condition/restrained.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
 ### Summoner Abilities {data-scc="mcdm.summoner.v1/feature.summoner.level-1/summoner-abilities"}
 
@@ -965,11 +965,11 @@ Your own abilities focus on support and enable you to position and outfit your a
 
 #### Heroic Abilities
 
-Breaking down your essence into pure power can lead to devastating effects. Your heroic abilities enable you to punctuate your army's efforts.
+Breaking down your [essence](../../Browse/feature/summoner/level-1/essence.md) into pure power can lead to devastating effects. Your [heroic abilities](../../Browse/rule/general/heroic-ability.md) enable you to punctuate your army's efforts.
 
 ##### 5-Essence Ability
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. (Quick Build: Rallying Cry.)
+Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from the following options, each of which costs 5 [essence](../../Browse/feature/summoner/level-1/essence.md) to use. (Quick Build: [Rallying Cry](../../Browse/feature/ability/summoner/level-1/rallying-cry.md).)
 
 ###### Essence Transfer {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/essence-transfer"}
 
@@ -987,9 +987,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Effect:** You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.
 
-- 1 charge: You or an ally within your Summoner's Range can spend a Recovery.
-- 1 charge: You or an ally within your Summoner's Range gain a surge.
-- 2 charges: You call forth a signature minion into an unoccupied space within your Summoner's Range.
+- 1 charge: You or an ally within your Summoner's Range can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+- 1 charge: You or an ally within your Summoner's Range gain a [surge](../../Browse/rule/resource/surge.md).
+- 2 charges: You call forth a signature [minion](../../Browse/feature/summoner/level-1/minions.md) into an unoccupied space within your Summoner's Range.
 
 ###### Explosive Parade {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/explosive-parade"}
 
@@ -1005,11 +1005,11 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 - **12-16:** You summon five signature minions.
 - **17+:** You summon six signature minions.
 
-**Effect:** The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.
+**Effect:** The [minions](../../Browse/feature/summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../Browse/feature/summoner/level-1/minions.md) immediately moves up to their [speed](../../Browse/rule/character/speed.md) toward a creature or object.
 
-If they move adjacent to their target, become targeted by an opportunity attack, or stop moving, they explode, dealing 2 damage to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions' explosions, the effects stack. These minions activate no effects upon death, and you gain no essence from their deaths.
+If they move adjacent to their target, become targeted by an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md), or stop moving, they explode, dealing 2 [damage](../../Browse/rule/damage/damage.md) to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions' explosions, the effects stack. These [minions](../../Browse/feature/summoner/level-1/minions.md) activate no effects upon death, and you gain no [essence](../../Browse/feature/summoner/level-1/essence.md) from their deaths.
 
-**Special:** In addition to the minions summoned as a part of this ability, you can choose to command any number of your minions within distance, provided they haven't used a main action or maneuver during the turn.
+**Special:** In addition to the [minions](../../Browse/feature/summoner/level-1/minions.md) summoned as a part of this ability, you can choose to command any number of your [minions](../../Browse/feature/summoner/level-1/minions.md) within distance, provided they haven't used a main action or maneuver during the [turn](../../Browse/rule/combat/turn.md).
 
 ###### Distraction Tactics {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/distraction-tactics"}
 
@@ -1019,9 +1019,9 @@ If they move adjacent to their target, become targeted by an opportunity attack,
 |-----------|------------------:|
 | **📏 Self** | **🎯 Special** |
 
-**Effect:** Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each [minion](../../Browse/feature/summoner/level-1/minions.md) under your control during the encounter is the target of the following effect:
 
-The target's strikes can inflict I < WEAK taunted (EoT) to enemies. The potency increases by 1 for each minion that joined the strike.
+The target's [strikes](../../Browse/rule/combat/strike.md) can inflict I < WEAK [taunted](../../Browse/condition/taunted.md) (EoT) to enemies. The [potency](../../Browse/rule/character/potency.md) increases by 1 for each [minion](../../Browse/feature/summoner/level-1/minions.md) that joined the [strike](../../Browse/rule/combat/strike.md).
 
 ###### Rallying Cry {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/rallying-cry"}
 
@@ -1031,7 +1031,7 @@ The target's strikes can inflict I < WEAK taunted (EoT) to enemies. The potency 
 |-------------------|-------------:|
 | **📏 3 burst** | **🎯 All Allies** |
 
-**Effect:** Each target chooses between gaining 2 surges or dealing additional damage equal to your Reason on their next strike.
+**Effect:** Each target chooses between gaining 2 [surges](../../Browse/rule/resource/surge.md) or dealing additional [damage](../../Browse/rule/damage/damage.md) equal to your [Reason](../../Browse/rule/character/reason.md) on their next [strike](../../Browse/rule/combat/strike.md).
 
 ###### Shields of Essence {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/shields-of-essence"}
 
@@ -1047,7 +1047,7 @@ The target's strikes can inflict I < WEAK taunted (EoT) to enemies. The potency 
 - **12-16:** Four creatures
 - **17+:** Five creatures
 
-**Effect:** Until the end of the encounter, each target can use a free triggered action whenever they take damage to reduce the incoming damage by half and then lose this effect.
+**Effect:** Until the end of the encounter, each target can use a [free triggered action](../../Browse/rule/combat/triggered-action.md) whenever they take [damage](../../Browse/rule/damage/damage.md) to reduce the incoming [damage](../../Browse/rule/damage/damage.md) by half and then lose this effect.
 
 ###### Summoner's Sword {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-1/summoners-sword"}
 
@@ -1063,21 +1063,21 @@ The target's strikes can inflict I < WEAK taunted (EoT) to enemies. The potency 
 - **12-16:** 2 + R damage
 - **17+:** 4 + R damage
 
-**Effect:** This strike deals an additional 2 damage for each ally adjacent to you.
+**Effect:** This [strike](../../Browse/rule/combat/strike.md) deals an additional 2 [damage](../../Browse/rule/damage/damage.md) for each ally [adjacent](../../Browse/rule/combat/adjacent.md) to you.
 
 ### 2nd-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-2/2nd-level-features"}
 
-As a 2nd-level summoner, you gain the following features.
+As a 2nd-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-2/perk"}
 
-You gain an intrigue, lore, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../../Browse/skill/group/intrigue.md), [lore](../../Browse/skill/group/lore.md), or supernatural [perk](../../Browse/feature/summoner/level-2/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Summoner's Dominion {data-scc="mcdm.summoner.v1/feature.summoner.level-2/summoners-dominion"}
 
-Your circle allows you to call forth a piece of your portfolio's dominion like any minion.
+Your circle allows you to call forth a piece of your [portfolio's](../../Browse/feature/summoner/level-1/portfolio.md) dominion like any [minion](../../Browse/feature/summoner/level-1/minions.md).
 
-Once per encounter, you can use a maneuver to summon a fixture from your minions' native manifold or origin into an unoccupied space on the ground within your Summoner's Range. You can spend 1 essence to relocate the fixture as a free maneuver on your turn. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.
+Once per encounter, you can use a maneuver to summon a fixture from your [minions'](../../Browse/feature/summoner/level-1/minions.md) native manifold or origin into an unoccupied space on the ground within your Summoner's Range. You can spend 1 [essence](../../Browse/feature/summoner/level-1/essence.md) to relocate the fixture as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on your [turn](../../Browse/rule/combat/turn.md). The fixture stays until the end of the encounter, until its [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0, or until you become [dying](../../Browse/rule/health/dying.md).
 
 Your fixture gains additional features at 5th and 9th level.
 
@@ -1094,17 +1094,17 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 
 > ⭐️ **Hunger Thrush**
 >
-> Each enemy that starts their turn within 3 squares of the boil is I < AVERAGE taunted (EoT) by the boil, or I < WEAK taunted (EoT) by the boil and can't move further from it.
+> Each enemy that starts their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the boil is I < AVERAGE [taunted](../../Browse/condition/taunted.md) (EoT) by the boil, or I < WEAK [taunted](../../Browse/condition/taunted.md) (EoT) by the boil and can't move further from it.
 
 > ⭐️ **Oh, It Pops**
 >
-> When the boil is destroyed, each enemy within 3 squares of the boil takes acid damage equal to your level and is A < STRONG weakened (save ends).
+> When the boil is destroyed, each enemy within 3 squares of the boil takes acid [damage](../../Browse/rule/damage/damage.md) equal to your level and is A < STRONG [weakened](../../Browse/condition/weakened.md) (save ends).
 
 > **Level 5 Fixture Advancement Feature**
 >
 > ⭐️ **Soul Rancor**
 >
-> You gain a surge the first time in a round that your demon minions deal 3 or more damage to a creature while you have line of effect to the boil. You can choose to give the surge to an ally who also has line of effect to the boil.
+> You gain a [surge](../../Browse/rule/resource/surge.md) the first time in a [round](../../Browse/rule/combat/combat-round.md) that your demon [minions](../../Browse/feature/summoner/level-1/minions.md) deal 3 or more [damage](../../Browse/rule/damage/damage.md) to a creature while you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the boil. You can choose to give the [surge](../../Browse/rule/resource/surge.md) to an ally who also has [line of effect](../../Browse/rule/combat/line-of-effect.md) to the boil.
 
 > **Level 9 Fixture Advancement Feature**
 >
@@ -1114,7 +1114,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 >
 > ⭐️ **Fester Field**
 >
-> Each non-abyssal enemy that starts their turn within 3 squares of the boil takes 5 corruption damage.
+> Each non-abyssal enemy that starts their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the boil takes 5 corruption [damage](../../Browse/rule/damage/damage.md).
 
 ##### Elemental Portfolio Fixture
 
@@ -1129,7 +1129,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 
 > ⭐️ **Magnetic Pull**
 >
-> Each enemy that starts their turn within 3 squares of the crystal is vertically pulled 3.
+> Each enemy that starts their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
 
 > ⭐️ **Elemental Boost**
 >
@@ -1139,7 +1139,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 >
 > ⭐️ **Terra Resonance**
 >
-> Each round, you gain a surge the first time an area of terrain gains a supernatural effect (excluding auras) while you have line of effect to the crystal. You can choose to give the surge to an ally who also has line of effect to the crystal.
+> Each [round](../../Browse/rule/combat/combat-round.md), you gain a [surge](../../Browse/rule/resource/surge.md) the first time an area of terrain gains a [supernatural](../../Browse/rule/general/supernatural.md) effect (excluding [auras](../../Browse/rule/combat/aura.md)) while you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the crystal. You can choose to give the [surge](../../Browse/rule/resource/surge.md) to an ally who also has [line of effect](../../Browse/rule/combat/line-of-effect.md) to the crystal.
 
 > **Level 9 Fixture Advancement Feature**
 >
@@ -1149,7 +1149,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 >
 > ⭐️ **Magnified Strike**
 >
-> When you or an ally makes a ranged strike that draws a line through the crystal, the user gains a surge which they can use on the ability.
+> When you or an ally makes a ranged [strike](../../Browse/rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../Browse/rule/resource/surge.md) which they can use on the ability.
 
 ##### Fey Portfolio Fixture
 
@@ -1164,17 +1164,17 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 
 > ⭐️ **Bubbling Boost**
 >
-> You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their turn there has their speed increased by 2 until the end of their turn.
+> You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their [turn](../../Browse/rule/combat/turn.md) there has their [speed](../../Browse/rule/character/speed.md) increased by 2 until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 > ⭐️ **Overgrowth**
 >
-> Each of your fey minions that ends their turn within 3 squares of the pond is hidden until the start of their next turn.
+> Each of your fey [minions](../../Browse/feature/summoner/level-1/minions.md) that ends their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the pond is hidden until the start of their next [turn](../../Browse/rule/combat/turn.md).
 
 > **Level 5 Fixture Advancement Feature**
 >
 > ⭐️ **Garden of Jest**
 >
-> You can spend a Recovery the first time in a round a creature gains or starts their turn with a condition while you have line of effect to the pond. Alternatively, you can choose to enable an ally who also has line of effect to the boil to spend a Recovery instead.
+> You can spend a [Recovery](../../Browse/rule/health/recoveries.md) the first time in a [round](../../Browse/rule/combat/combat-round.md) a creature gains or starts their [turn](../../Browse/rule/combat/turn.md) with a [condition](../../Browse/rule/combat/condition.md) while you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the pond. Alternatively, you can choose to enable an ally who also has [line of effect](../../Browse/rule/combat/line-of-effect.md) to the boil to spend a [Recovery](../../Browse/rule/health/recoveries.md) instead.
 
 > **Level 9 Fixture Advancement Feature**
 >
@@ -1184,7 +1184,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 >
 > ⭐️ **Folly Field**
 >
-> Each non-fey enemy that starts their turn within 3 squares of the pond has a −1 penalty to saving throws and resisting potencies until the start of their next turn.
+> Each non-fey enemy that starts their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the pond has a −1 penalty to [saving throws](../../Browse/rule/general/saving-throw.md) and resisting [potencies](../../Browse/rule/character/potency.md) until the start of their next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Undead Portfolio Fixture
 
@@ -1199,17 +1199,17 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 
 > ⭐️ **The Bell Tolls**
 >
-> Each enemy that starts their turn within 3 squares of the gates is I < AVERAGE frightened (EoT) by the gates. The potency increases by 1 for winded enemies.
+> Each enemy that starts their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the gates is I < AVERAGE [frightened](../../Browse/condition/frightened.md) (EoT) by the gates. The [potency](../../Browse/rule/character/potency.md) increases by 1 for [winded](../../Browse/rule/health/winded.md) enemies.
 
 > ⭐️ **Undead Dominion**
 >
-> Each of your undead minions has damage immunity 2 while occupying a space within 3 squares of the gates.
+> Each of your undead [minions](../../Browse/feature/summoner/level-1/minions.md) has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2 while occupying a space within 3 squares of the gates.
 
 > **Level 5 Fixture Advancement Feature**
 >
 > ⭐️ **Memento Mori**
 >
-> You gain a surge the first time in a round one of your undead minions unwillingly dies while you have line of effect to the gates. You can choose to give the surge to an ally who also has line of effect to the gates.
+> You gain a [surge](../../Browse/rule/resource/surge.md) the first time in a [round](../../Browse/rule/combat/combat-round.md) one of your undead [minions](../../Browse/feature/summoner/level-1/minions.md) unwillingly dies while you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the gates. You can choose to give the [surge](../../Browse/rule/resource/surge.md) to an ally who also has [line of effect](../../Browse/rule/combat/line-of-effect.md) to the gates.
 
 > **Level 9 Fixture Advancement Feature**
 >
@@ -1219,11 +1219,11 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 >
 > ⭐️ **Open the Gates**
 >
-> You can use Rise! as a free triggered action each time an enemy dies within 3 squares of the gates while you have line of effect to the gates.
+> You can use [Rise!](../../Browse/feature/summoner/level-1/rise.md) as a [free triggered action](../../Browse/rule/combat/triggered-action.md) each time an enemy dies within 3 squares of the gates while you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the gates.
 
 #### New Portfolio Minion {data-scc="mcdm.summoner.v1/feature.summoner.level-2/new-portfolio-minion"}
 
-Your circle allows you to select new minions to add to your portfolio.
+Your circle allows you to select new [minions](../../Browse/feature/summoner/level-1/minions.md) to add to your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md).
 
 ##### Demon Portfolio 5-Essence Minion
 
@@ -1241,15 +1241,15 @@ A spewler's mouth makes up most of its size. They unleash torrents of acid and b
 
 > ⭐️ **Gushing Strike**
 >
-> The spewler's ranged free strikes have a distance of 10 and slides the target R + 2 squares.
+> The spewler's ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 10 and [slides](../../Browse/movement/forced-movement.md) the target R + 2 squares.
 
 > ⭐️ **Spew Slide**
 >
-> Each time the spewler takes damage, the spewler shifts 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a bane on strikes while occupying a slimed square.
+> Each time the spewler takes [damage](../../Browse/rule/damage/damage.md), the spewler [shifts](../../Browse/movement/shifting.md) 2 after all effects resolve. Each square they exit during this movement is covered in slime until the end of the encounter. An enemy has a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) while occupying a slimed square.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the spewler can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the spewler can't be hidden from them.
 
 ###### Hulking Chimor {data-scc="mcdm.summoner.v1/minion.demon.statblock/hulking-chimor"}
 
@@ -1263,15 +1263,15 @@ Chimors have no true shape; their bodies restructure and change endlessly. Piece
 
 > ⭐️ **Mercurial Strike**
 >
-> The chimor's melee free strikes inflict M < WEAK weakened (EoT). The potency is increased by the current round number.
+> The chimor's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < WEAK [weakened](../../Browse/condition/weakened.md) (EoT). The [potency](../../Browse/rule/character/potency.md) is increased by the current [round](../../Browse/rule/combat/combat-round.md) number.
 
 > ⭐️ **Evershifting**
 >
-> The chimor doesn't provoke opportunity attacks by moving.
+> The chimor doesn't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) by moving.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the chimor can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the chimor can't be hidden from them.
 
 ###### Violent {data-scc="mcdm.summoner.v1/minion.demon.statblock/violent"}
 
@@ -1285,15 +1285,15 @@ The violents are lanky, oily bipeds with bright red flesh that contort and snap 
 
 > ⭐️ **Transforming Strike**
 >
-> The violent's melee free strikes deal an additional 2 damage to each adjacent enemy from whom they were hidden. The violent loses their disguise after striking.
+> The violent's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) deal an additional 2 [damage](../../Browse/rule/damage/damage.md) to each [adjacent](../../Browse/rule/combat/adjacent.md) enemy from whom they were hidden. The violent loses their disguise after striking.
 
 > ⭐️ **Mimicry**
 >
-> The violent uses the Hide maneuver at the start of their turn as a free maneuver, disguising themselves as a a size 1M or smaller object.
+> The violent uses the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver at the start of their [turn](../../Browse/rule/combat/turn.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md), disguising themselves as a a [size](../../Browse/rule/character/size.md) 1M or smaller object.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the violent can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the violent can't be hidden from them.
 
 ##### Elemental Portfolio 5-Essence Minion
 
@@ -1311,11 +1311,11 @@ The silks are akin to baby spiders ballooning through the air on strands of webb
 
 > ⭐️ **Entangling Strike**
 >
-> The silk's ranged free strikes inflict A < AVERAGE restrained (EoT). Each creature adjacent to the target is A < WEAK slowed (EoT).
+> The silk's ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict A < AVERAGE [restrained](../../Browse/condition/restrained.md) (EoT). Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the target is A < WEAK [slowed](../../Browse/condition/slowed.md) (EoT).
 
 > ⭐️ **Web** 1 Essence
 >
-> When the silk is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is M < STRONG slowed (EoT).
+> When the silk is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they launch ribbons of webbing into an area equal to their [size](../../Browse/rule/character/size.md) + 1 within 5 before being destroyed. The affected area is considered [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../Browse/rule/combat/turn.md) in the webbing is M < STRONG [slowed](../../Browse/condition/slowed.md) (EoT).
 
 ###### Principle of the Swamp {data-scc="mcdm.summoner.v1/minion.elemental.statblock/principle-of-the-swamp"}
 
@@ -1329,11 +1329,11 @@ The manes of these equine sludge dwellers extend and hook into things like stron
 
 > ⭐️ **Encroaching Strike**
 >
-> The principle's melee free strikes have a distance of R and inflict M < STRONG grabbed. The principle can have an unlimited number of creatures or objects grabbed. A creature grabbed by this strike still has their normal speed, but can't move farther away from the principle.
+> The principle's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of R and inflict M < STRONG [grabbed](../../Browse/condition/grabbed.md). The principle can have an unlimited number of creatures or objects [grabbed](../../Browse/condition/grabbed.md). A creature [grabbed](../../Browse/condition/grabbed.md) by this [strike](../../Browse/rule/combat/strike.md) still has their normal [speed](../../Browse/rule/character/speed.md), but can't move farther away from the principle.
 
 > ⭐️ **Sludgefoot** 1 Essence
 >
-> When the principle is reduced to 0 Stamina, the area within 1 square of the principle becomes difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the affected area is pulled 4 toward the center of the area.
+> When the principle is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the principle becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../Browse/rule/combat/turn.md) in the affected area is pulled 4 toward the center of the area.
 
 ###### Quiet of Snow {data-scc="mcdm.summoner.v1/minion.elemental.statblock/quiet-of-snow"}
 
@@ -1351,17 +1351,17 @@ This elemental is a pure-white vulpine with six legs that freely sprints through
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 4 cold damage; M < WEAK slowed (EoT)
+> 4 cold [damage](../../Browse/rule/damage/damage.md); M < WEAK [slowed](../../Browse/condition/slowed.md) (EoT)
 >
-> 6 cold damage; M < AVERAGE slowed (EoT)
+> 6 cold [damage](../../Browse/rule/damage/damage.md); M < AVERAGE [slowed](../../Browse/condition/slowed.md) (EoT)
 >
-> 8 cold damage; M < STRONG speed is 0 (EoT)
+> 8 cold [damage](../../Browse/rule/damage/damage.md); M < STRONG speed is 0 (EoT)
 >
-> **Effect:** Frost slows the enemy down, allowing one ally adjacent to each target to shift 2 and either hide or defend.
+> **Effect:** Frost slows the enemy down, allowing one ally [adjacent](../../Browse/rule/combat/adjacent.md) to each target to [shift](../../Browse/movement/shifting.md) 2 and either [hide](../../Browse/feature/common/maneuvers/hide.md) or [defend](../../Browse/feature/common/main-actions/defend.md).
 
 > ⭐️ **Cold Surge**
 >
-> When the quiet is reduced to 0 Stamina, they launch a refreshing blast of air into an area equal to their size + 1 within 5 before being destroyed. Each ally in the affected area gains a surge.
+> When the quiet is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they launch a refreshing blast of air into an area equal to their [size](../../Browse/rule/character/size.md) + 1 within 5 before being destroyed. Each ally in the affected area gains a [surge](../../Browse/rule/resource/surge.md).
 
 ##### Fey Portfolio 5-Essence Minion
 
@@ -1379,15 +1379,15 @@ Hemloches are spotted nixies whose long, wavy hair endlessly bobs and flows into
 
 > ⭐️ **Water Weird**
 >
-> Once per turn during their move action, each nixie under your control can teleport to a body of water within 6. The hemloche can't teleport into water created by their own whirling waves.
+> Once per [turn](../../Browse/rule/combat/turn.md) during their move action, each nixie under your control can [teleport](../../Browse/movement/teleport.md) to a body of water within 6. The hemloche can't [teleport](../../Browse/movement/teleport.md) into water created by their own whirling waves.
 
 > ⭐️ **Whirling Waves**
 >
-> The area within 1 square of the hemloche is filled with churning water and is considered difficult terrain. At the end of the hemloche's turn, the hemloche can choose to slide each enemy in the affected area 3 squares. An enemy that takes damage while being force moved is also M < AVERAGE knocked prone.
+> The area within 1 square of the hemloche is filled with churning water and is considered [difficult terrain](../../Browse/movement/difficult-terrain.md). At the end of the hemloche's [turn](../../Browse/rule/combat/turn.md), the hemloche can choose to [slide](../../Browse/movement/forced-movement.md) each enemy in the affected area 3 squares. An enemy that takes [damage](../../Browse/rule/damage/damage.md) while being [force moved](../../Browse/movement/forced-movement.md) is also M < AVERAGE knocked [prone](../../Browse/condition/prone.md).
 
 > ⭐️ **Minuscule**
 >
-> The hemloche has cover while occupying a larger creature's space.
+> The hemloche has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Sprite Foxglow {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-foxglow"}
 
@@ -1401,15 +1401,15 @@ Foxglows are masked sprites that leave behind an evanescent trail of tiny glowin
 
 > ⭐️ **Flash Strike**
 >
-> The foxglow's melee strikes inflict I < STRONG dazed (EoT) if they were hidden when they make the strike.
+> The foxglow's melee [strikes](../../Browse/rule/combat/strike.md) inflict I < STRONG [dazed](../../Browse/condition/dazed.md) (EoT) if they were hidden when they make the [strike](../../Browse/rule/combat/strike.md).
 
 > ⭐️ **Quiet Flight**
 >
-> The area within 2 squares of the foxglow is completely silent. Each enemy has a bane on tests made to search for the foxglow and allies hidden in the affected area.
+> The area within 2 squares of the foxglow is completely silent. Each enemy has a [bane](../../Browse/rule/dice/bane.md) on [tests](../../Browse/rule/test/test.md) made to search for the foxglow and allies hidden in the affected area.
 
 > ⭐️ **Minuscule**
 >
-> The foxglow has cover while occupying a larger creature's space.
+> The foxglow has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Pixie Rosenthall {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-rosenthall"}
 
@@ -1427,17 +1427,17 @@ The collective of blood-eyed pixie warriors that make up a rosenthall are also k
 > |---------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 One creature or object per minion** |
 >
-> 3 damage; pull 2; A < WEAK bleeding (EoT)
+> 3 [damage](../../Browse/rule/damage/damage.md); pull 2; A < WEAK [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> 6 damage; pull 3; A < AVERAGE bleeding (EoT)
+> 6 [damage](../../Browse/rule/damage/damage.md); pull 3; A < AVERAGE [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> 8 damage; pull 4; A < STRONG bleeding (EoT)
+> 8 [damage](../../Browse/rule/damage/damage.md); pull 4; A < STRONG [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> **Effect:** A target can't shift while bleeding from this ability.
+> **Effect:** A target can't [shift](../../Browse/movement/shifting.md) while [bleeding](../../Browse/condition/bleeding.md) from this ability.
 
 > ⭐️ **Swarm**
 >
-> The rosenthall can move through squares as if they were size 1T, and can occupy other creatures' spaces. At the start of the rosenthall's turn, they deal 2 damage to each enemy whose space they share.
+> The rosenthall can move through squares as if they were [size](../../Browse/rule/character/size.md) 1T, and can occupy other creatures' spaces. At the start of the rosenthall's [turn](../../Browse/rule/combat/turn.md), they deal 2 [damage](../../Browse/rule/damage/damage.md) to each enemy whose space they share.
 
 ##### Undead Portfolio 5-Essence Minion
 
@@ -1459,17 +1459,17 @@ The preserved dead, bound for eternal rest, know only violence when robbed of th
 > |---------------------------|----------------:|
 > | **📏 Melee R** | **🎯 One creature or object per minion** |
 >
-> 3 poison damage; pull R
+> 3 poison [damage](../../Browse/rule/damage/damage.md); pull R
 >
-> 4 poison damage; pull R + 1
+> 4 poison [damage](../../Browse/rule/damage/damage.md); pull R + 1
 >
-> 6 poison damage; pull R + 2
+> 6 poison [damage](../../Browse/rule/damage/damage.md); pull R + 2
 >
-> **Effect:** A target pulled adjacent to the mummy is M < STRONG weakened (EoT).
+> **Effect:** A target pulled [adjacent](../../Browse/rule/combat/adjacent.md) to the mummy is M < STRONG [weakened](../../Browse/condition/weakened.md) (EoT).
 
 > ⭐️ **Mummy Dust**
 >
-> Whenever the mummy takes damage, each enemy adjacent to the mummy takes 2 poison damage.
+> Whenever the mummy takes [damage](../../Browse/rule/damage/damage.md), each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the mummy takes 2 poison [damage](../../Browse/rule/damage/damage.md).
 
 ###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/minion.undead.statblock/ceaseless-mournling"}
 
@@ -1483,7 +1483,7 @@ Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenche
 
 > ⭐️ **Always Crying**
 >
-> At the end of the mournling's turn, each enemy within 1 of the mournling takes 2 sonic damage and can't shift until the start of the mournling's next turn.
+> At the end of the mournling's [turn](../../Browse/rule/combat/turn.md), each enemy within 1 of the mournling takes 2 sonic [damage](../../Browse/rule/damage/damage.md) and can't [shift](../../Browse/movement/shifting.md) until the start of the mournling's next [turn](../../Browse/rule/combat/turn.md).
 
 > ⭐️ **Immutable Form**
 >
@@ -1491,7 +1491,7 @@ Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenche
 
 > ⭐️ **Rupture**
 >
-> The first time the mournling burrows out of the ground on their turn, they can make a free strike against each adjacent enemy.
+> The first time the mournling [burrows](../../Browse/movement/burrow.md) out of the ground on their [turn](../../Browse/rule/combat/turn.md), they can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against each [adjacent](../../Browse/rule/combat/adjacent.md) enemy.
 
 ###### Phase Ghoul {data-scc="mcdm.summoner.v1/minion.undead.statblock/phase-ghoul"}
 
@@ -1505,45 +1505,45 @@ Phase ghouls are bilocated undead caught between two different manifolds, rapidl
 
 > ⭐️ **Leaping Strike**
 >
-> The ghoul teleports 5 squares before making a melee free strike. The target is M < AVERAGE knocked prone. If the target is in the air, the potency increases by 1.
+> The ghoul [teleports](../../Browse/movement/teleport.md) 5 squares before making a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md). The target is M < AVERAGE knocked [prone](../../Browse/condition/prone.md). If the target is in the air, the [potency](../../Browse/rule/character/potency.md) increases by 1.
 
 > ⭐️ **Nerveless**
 >
-> The ghoul takes no damage from falling and always lands on their feet.
+> The ghoul takes no [damage](../../Browse/rule/damage/damage.md) from [falling](../../Browse/rule/health/falling.md) and always lands on their feet.
 
 ### 3rd-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-3/3rd-level-features"}
 
-As a 3rd-level summoner, you gain the following features.
+As a 3rd-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Summoner's Kit {data-scc="mcdm.summoner.v1/feature.summoner.level-3/summoners-kit"}
 
-You conjure a kit for yourself. This kit includes an implement, such as a rod or a baton, which grants you the following benefits:
+You conjure a kit for yourself. This kit includes an [implement](../../Browse/rule/treasure/implement.md), such as a rod or a baton, which grants you the following benefits:
 
-- The damage of your Summoner Strike ability increases to twice your Reason score.
-- The potency of your Summoner Strike ability increases to R < AVERAGE.
-- The distance of your Summoner Strike ability is now equal to your Summoner's Range.
+- The [damage](../../Browse/rule/damage/damage.md) of your [Summoner Strike](../../Browse/feature/ability/summoner/level-1/summoner-strike.md) ability increases to twice your [Reason](../../Browse/rule/character/reason.md) score.
+- The [potency](../../Browse/rule/character/potency.md) of your [Summoner Strike](../../Browse/feature/ability/summoner/level-1/summoner-strike.md) ability increases to R < AVERAGE.
+- The distance of your [Summoner Strike](../../Browse/feature/ability/summoner/level-1/summoner-strike.md) ability is now equal to your Summoner's Range.
 
-Your kit also comes with wards like magic armor and transient minion forces. Choose one of the following wards.
+Your kit also comes with wards like magic armor and transient [minion](../../Browse/feature/summoner/level-1/minions.md) forces. Choose one of the following wards.
 
 ##### Conjured Ward {data-scc="mcdm.summoner.v1/feature.summoner.level-3/conjured-ward"}
 
-You are clad in the natural defenses of your portfolio (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to Stamina and that bonus increases by 3 at 4th, 7th, and 10th levels.
+You are clad in the natural defenses of your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md) (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md) and that bonus increases by 3 at 4th, 7th, and 10th levels.
 
 ##### Emergency Ward {data-scc="mcdm.summoner.v1/feature.summoner.level-3/emergency-ward"}
 
-The first time each round you take damage, you can use a free triggered action to shift 1 after the triggering effect resolves and summon a signature minion into the square you left (as long as there is enough space).
+The first time each [round](../../Browse/rule/combat/combat-round.md) you take [damage](../../Browse/rule/damage/damage.md), you can use a [free triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) 1 after the triggering effect resolves and summon a signature [minion](../../Browse/feature/summoner/level-1/minions.md) into the square you left (as long as there is enough space).
 
 ##### Howling Ward {data-scc="mcdm.summoner.v1/feature.summoner.level-3/howling-ward"}
 
-You create a 1-aura vortex of slicing magic around you when you enter combat. An enemy that starts their turn adjacent to you takes damage equal to your Reason.
+You create a 1-[aura](../../Browse/rule/combat/aura.md) vortex of slicing magic around you when you enter combat. An enemy that starts their [turn](../../Browse/rule/combat/turn.md) [adjacent](../../Browse/rule/combat/adjacent.md) to you takes [damage](../../Browse/rule/damage/damage.md) equal to your [Reason](../../Browse/rule/character/reason.md).
 
 ##### Snare Ward {data-scc="mcdm.summoner.v1/feature.summoner.level-3/snare-ward"}
 
-Whenever an adjacent creature deals damage to you, you can use a free triggered action to pull that creature toward one of your minions within your Summoner's Range a number of squares equal to your Reason score.
+Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals [damage](../../Browse/rule/damage/damage.md) to you, you can use a [free triggered action](../../Browse/rule/combat/triggered-action.md) to pull that creature toward one of your [minions](../../Browse/feature/summoner/level-1/minions.md) within your Summoner's Range a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### 7-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-3/7-essence-ability"}
 
-Choose one heroic ability from the following options, each of which costs 7 essence to use.
+Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from the following options, each of which costs 7 [essence](../../Browse/feature/summoner/level-1/essence.md) to use.
 
 ##### Blitz Tactics {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-3/blitz-tactics"}
 
@@ -1553,7 +1553,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |-----------|------------------:|
 | **📏 Self** | **🎯 Special** |
 
-**Effect:** Until the end of the encounter or you are dying, each minion under your control during the encounter is the target of the following effect. The first time on a turn that the target moves through an enemy's space, the enemy can choose to shift 1 square or be M < WEAK (or M < AVERAGE if the target is larger than the enemy) knocked prone. The potency increases by 1 for each subsequent target that moves through the enemy's space during the same move action.
+**Effect:** Until the end of the encounter or you are [dying](../../Browse/rule/health/dying.md), each [minion](../../Browse/feature/summoner/level-1/minions.md) under your control during the encounter is the target of the following effect. The first time on a [turn](../../Browse/rule/combat/turn.md) that the target moves through an enemy's space, the enemy can choose to [shift](../../Browse/movement/shifting.md) 1 square or be M < WEAK (or M < AVERAGE if the target is larger than the enemy) knocked [prone](../../Browse/condition/prone.md). The [potency](../../Browse/rule/character/potency.md) increases by 1 for each subsequent target that moves through the enemy's space during the same move action.
 
 ##### Cavalry Call {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-3/cavalry-call"}
 
@@ -1563,9 +1563,9 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |-----------|----------------:|
 | **📏 Summoner's Range** | **🎯 Special** |
 
-**Effect:** You summon a temporary squad containing 6 of your signature minions regardless of your minion maximum within distance. Whenever one of these minions deals damage to an enemy, the enemy is R < AVERAGE compelled to move 5 squares toward the source of the damage (provoking opportunity attacks). The potency increases by 1 for enemies targeted by two or more of these minions.
+**Effect:** You summon a temporary squad containing 6 of your signature [minions](../../Browse/feature/summoner/level-1/minions.md) regardless of your minion maximum within distance. Whenever one of these [minions](../../Browse/feature/summoner/level-1/minions.md) deals [damage](../../Browse/rule/damage/damage.md) to an enemy, the enemy is R < AVERAGE compelled to move 5 squares toward the source of the [damage](../../Browse/rule/damage/damage.md) (provoking [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md)). The [potency](../../Browse/rule/character/potency.md) increases by 1 for enemies targeted by two or more of these [minions](../../Browse/feature/summoner/level-1/minions.md).
 
-These minions die at the end of your turn, activate no effects upon death, and you gain no essence from their deaths.
+These [minions](../../Browse/feature/summoner/level-1/minions.md) die at the end of your [turn](../../Browse/rule/combat/turn.md), activate no effects upon death, and you gain no [essence](../../Browse/feature/summoner/level-1/essence.md) from their deaths.
 
 ##### Essence Funnel {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-3/essence-funnel"}
 
@@ -1577,11 +1577,11 @@ These minions die at the end of your turn, activate no effects upon death, and y
 
 **Power Roll + Reason:**
 
-- **≤11:** 5 damage; push 2
-- **12-16:** 9 damage; push 4
-- **17+:** 12 damage; push 6
+- **≤11:** 5 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 9 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 4
+- **17+:** 12 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 6
 
-**Special:** You can choose to kill any number of your minions within your Summoner's Range as a part of this ability, provided they haven't used a main action or maneuver during the turn. Each target takes an additional 1 damage, plus 1 damage for each minion killed this way. These minions activate no effects upon death, and you gain no essence from their deaths.
+**Special:** You can choose to kill any number of your [minions](../../Browse/feature/summoner/level-1/minions.md) within your Summoner's Range as a part of this ability, provided they haven't used a main action or maneuver during the [turn](../../Browse/rule/combat/turn.md). Each target takes an additional 1 [damage](../../Browse/rule/damage/damage.md), plus 1 [damage](../../Browse/rule/damage/damage.md) for each [minion](../../Browse/feature/summoner/level-1/minions.md) killed this way. These [minions](../../Browse/feature/summoner/level-1/minions.md) activate no effects upon death, and you gain no [essence](../../Browse/feature/summoner/level-1/essence.md) from their deaths.
 
 ##### Lead By Example {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-3/lead-by-example"}
 
@@ -1593,25 +1593,25 @@ These minions die at the end of your turn, activate no effects upon death, and y
 
 **Power Roll + Reason:**
 
-- **≤11:** 8 + R damage; R < WEAK dazed (save ends)
-- **12-16:** 12 + R damage; R < AVERAGE dazed (save ends)
-- **17+:** 16 + R damage; R < STRONG dazed (save ends)
+- **≤11:** 8 + R [damage](../../Browse/rule/damage/damage.md); R < WEAK [dazed](../../Browse/condition/dazed.md) (save ends)
+- **12-16:** 12 + R [damage](../../Browse/rule/damage/damage.md); R < AVERAGE [dazed](../../Browse/condition/dazed.md) (save ends)
+- **17+:** 16 + R [damage](../../Browse/rule/damage/damage.md); R < STRONG [dazed](../../Browse/condition/dazed.md) (save ends)
 
 ### 4th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-4/4th-level-features"}
 
-As a 4th-level summoner, you gain the following features.
+As a 4th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-4/characteristic-increase"}
 
-Your Reason score becomes 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 3.
+Your [Reason](../../Browse/rule/character/reason.md) score becomes 3. Additionally, you can increase one of your [characteristic](../../Browse/rule/character/characteristic.md) scores by 1, to a maximum score of 3.
 
 #### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-4/minion-improvement"}
 
-Your maximum number of minions increases by 4.
+Your maximum number of [minions](../../Browse/feature/summoner/level-1/minions.md) increases by 4.
 
-You can increase each of your minions' Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).
+You can increase each of your [minions'](../../Browse/feature/summoner/level-1/minions.md) [Stamina](../../Browse/rule/health/stamina.md) as shown on the 4th-Level Minion Stamina Increase table. Additionally, each [minion](../../Browse/feature/summoner/level-1/minions.md) that receives a [Stamina](../../Browse/rule/health/stamina.md) boost can treat their [characteristics](../../Browse/rule/character/characteristic.md) as one higher for the purposes of resisting [potencies](../../Browse/rule/character/potency.md) (to a maximum value of 3).
 
-These benefits are not reflected in the stat blocks of new minions you acquire.
+These benefits are not reflected in the stat blocks of new [minions](../../Browse/feature/summoner/level-1/minions.md) you acquire.
 
 ###### 4th-Level Minion Stamina Increase
 
@@ -1623,19 +1623,19 @@ These benefits are not reflected in the stat blocks of new minions you acquire.
 
 #### Essence Salvage {data-scc="mcdm.summoner.v1/feature.summoner.level-4/essence-salvage"}
 
-The first time each combat round that any minion unwillingly dies within your Summoner's Range, you gain 2 essence instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that any [minion](../../Browse/feature/summoner/level-1/minions.md) unwillingly dies within your Summoner's Range, you gain 2 [essence](../../Browse/feature/summoner/level-1/essence.md) instead of 1.
 
 #### Minion Chain {data-scc="mcdm.summoner.v1/feature.summoner.level-4/minion-chain"}
 
-Whenever you use Minion Bridge as a maneuver, each of your minions within your Summoner's Range can shift up to their speed before the maneuver takes effect, as long as each minion that shifts ends their movement adjacent to another one of your minions.
+Whenever you use [Minion Bridge](../../Browse/feature/ability/summoner/level-1/minion-bridge.md) as a maneuver, each of your [minions](../../Browse/feature/summoner/level-1/minions.md) within your Summoner's Range can [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md) before the maneuver takes effect, as long as each [minion](../../Browse/feature/summoner/level-1/minions.md) that [shifts](../../Browse/movement/shifting.md) ends their movement [adjacent](../../Browse/rule/combat/adjacent.md) to another one of your [minions](../../Browse/feature/summoner/level-1/minions.md).
 
-Additionally, your minions can chain themselves together to function as a ladder or a swinging rope. When your minions move as a part of using Minion Bridge, each minion can use this movement to shift into a position directly beneath another one of your minions, hoisting them and each other minion they have hoisted, until they form a chain. The chain can then choose to fall across an unoccupied space and/or the topmost minion grabs an object to keep the chain steady.
+Additionally, your [minions](../../Browse/feature/summoner/level-1/minions.md) can chain themselves together to function as a ladder or a swinging rope. When your [minions](../../Browse/feature/summoner/level-1/minions.md) move as a part of using [Minion Bridge](../../Browse/feature/ability/summoner/level-1/minion-bridge.md), each [minion](../../Browse/feature/summoner/level-1/minions.md) can use this movement to [shift](../../Browse/movement/shifting.md) into a position directly beneath another one of your [minions](../../Browse/feature/summoner/level-1/minions.md), hoisting them and each other [minion](../../Browse/feature/summoner/level-1/minions.md) they have hoisted, until they form a chain. The chain can then choose to fall across an unoccupied space and/or the topmost [minion](../../Browse/feature/summoner/level-1/minions.md) [grabs](../../Browse/feature/common/maneuvers/grab.md) an object to keep the chain steady.
 
-The chain lasts until the start of your next turn or until the chain is no longer steady. The chain can also end when a minion in the chain is destroyed or when you command your minions to let go as a free maneuver. All size 1 minions count as one square when determining the chain's length.
+The chain lasts until the start of your next [turn](../../Browse/rule/combat/turn.md) or until the chain is no longer steady. The chain can also end when a [minion](../../Browse/feature/summoner/level-1/minions.md) in the chain is destroyed or when you command your [minions](../../Browse/feature/summoner/level-1/minions.md) to let go as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). All [size](../../Browse/rule/character/size.md) 1 [minions](../../Browse/feature/summoner/level-1/minions.md) count as one square when determining the chain's length.
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-4/perk"}
 
-You gain any one perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain any one [perk](../../Browse/feature/summoner/level-4/perk.md) of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-4/skill"}
 
@@ -1643,7 +1643,7 @@ You gain one skill of your choice.
 
 ### 5th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-5/5th-level-features"}
 
-As a 5th-level summoner, you gain the following features.
+As a 5th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 ### 5th-Level Circle Feature {data-scc="mcdm.summoner.v1/feature.summoner.level-5/5th-level-circle-feature"}
 
@@ -1662,22 +1662,22 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 
 You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive.
 
-You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium Presence test. On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on power rolls until you exorcise the haunt either by completing the Find a Cure downtime project in Draw Steel: Heroes or taking a respite with an exorcist.
+You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md). On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on [power rolls](../../Browse/rule/dice/power-roll.md) until you exorcise the haunt either by completing the [Find a Cure](../project/find-a-cure.md) downtime project in Draw Steel: Heroes or taking a [respite](../../Browse/rule/resource/respite.md) with an exorcist.
 
 After you stop channeling their spirit, you can't use this feature to channel the same creature again.
 
 #### Dread March {data-scc="mcdm.summoner.v1/feature.summoner.level-5/dread-march"}
 
-You and your undead minions don't spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.
+You and your undead [minions](../../Browse/feature/summoner/level-1/minions.md) don't spend additional [speed](../../Browse/rule/character/speed.md) to move through [difficult terrain](../../Browse/movement/difficult-terrain.md). If one or more of your undead [minions](../../Browse/feature/summoner/level-1/minions.md) would die while using their move action, they can choose to not die until the end of your [turn](../../Browse/rule/combat/turn.md).
 
 #### Flash Powder {data-scc="mcdm.summoner.v1/feature.summoner.level-5/flash-powder"}
 
-Each ally that gains temporary Stamina from your Pixie Dust feature also gains one of the following effects until the end of their next turn (or for 10 minutes if used outside of combat):
+Each ally that gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from your [Pixie Dust](../../Browse/feature/summoner/level-1/pixie-dust.md) feature also gains one of the following effects until the end of their next [turn](../../Browse/rule/combat/turn.md) (or for 10 minutes if used outside of combat):
 
-- **Flight:** Their speed gains the Fly keyword.
+- **Flight:** Their [speed](../../Browse/rule/character/speed.md) gains the [Fly](../../Browse/movement/fly.md) keyword.
 - **Vanish:** They become invisible.
-- **Water Weird:** As a free maneuver once per turn, they can teleport to a body of water within 5 squares of them.
-- **Panacea:** They can end one condition affecting them or stand up.
+- **Water Weird:** As a [free maneuver](../../Browse/rule/combat/free-maneuver.md) once per [turn](../../Browse/rule/combat/turn.md), they can [teleport](../../Browse/movement/teleport.md) to a body of water within 5 squares of them.
+- **Panacea:** They can end one [condition](../../Browse/rule/combat/condition.md) affecting them or stand up.
 
 #### Nature Watch {data-scc="mcdm.summoner.v1/feature.summoner.level-5/nature-watch"}
 
@@ -1685,27 +1685,27 @@ You can spend 1 uninterrupted minute each day to perform a ritual and summon a s
 
 #### Pixie Lift {data-scc="mcdm.summoner.v1/feature.summoner.level-5/pixie-lift"}
 
-Your speed gains the Fly and Hover keywords. You lose the Hover keyword from this feature while you are dazed, dying, or you fly more than 1 square above the surface of the ground.
+Your [speed](../../Browse/rule/character/speed.md) gains the [Fly](../../Browse/movement/fly.md) and [Hover](../../Browse/movement/hover.md) keywords. You lose the [Hover](../../Browse/movement/hover.md) keyword from this feature while you are [dazed](../../Browse/condition/dazed.md), [dying](../../Browse/rule/health/dying.md), or you fly more than 1 square above the surface of the ground.
 
-If your speed previously had the Fly keyword, you can now fly while sneaking an additional number of squares equal to your Reason.
+If your [speed](../../Browse/rule/character/speed.md) previously had the [Fly](../../Browse/movement/fly.md) keyword, you can now [fly](../../Browse/movement/fly.md) while sneaking an additional number of squares equal to your [Reason](../../Browse/rule/character/reason.md).
 
 #### Shaping {data-scc="mcdm.summoner.v1/feature.summoner.level-5/shaping"}
 
-You can spend 1 uninterrupted minute to perform a ritual that causes one of your minions to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of minions disguised at the same time equal to your Reason score.
+You can spend 1 uninterrupted minute to perform a ritual that causes one of your [minions](../../Browse/feature/summoner/level-1/minions.md) to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of [minions](../../Browse/feature/summoner/level-1/minions.md) disguised at the same time equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### Split {data-scc="mcdm.summoner.v1/feature.summoner.level-5/split"}
 
-Once during your turn, you can use a free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you're at your minion maximum. You can't use this feature if it would kill one or more of the minions in the squad.
+Once during your [turn](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to deal [damage](../../Browse/rule/damage/damage.md) to one of your elemental [minions](../../Browse/feature/summoner/level-1/minions.md) equal to half their maximum [Stamina](../../Browse/rule/health/stamina.md) in order to create one additional copy of that [minion](../../Browse/feature/summoner/level-1/minions.md) in an [adjacent](../../Browse/rule/combat/adjacent.md) unoccupied space and add them to their squad, even if you're at your minion maximum. You can't use this feature if it would kill one or more of the [minions](../../Browse/feature/summoner/level-1/minions.md) in the squad.
 
 #### Soul Flense {data-scc="mcdm.summoner.v1/feature.summoner.level-5/soul-flense"}
 
-As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can't be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.
+As a maneuver, you can command one or more of your demon [minions](../../Browse/feature/summoner/level-1/minions.md) to each deal [damage](../../Browse/rule/damage/damage.md) equal to their [free strike](../../Browse/feature/common/main-actions/free-strike.md) value to an [adjacent](../../Browse/rule/combat/adjacent.md) ally. This [damage](../../Browse/rule/damage/damage.md) can't be reduced. The ally then ends a [condition](../../Browse/rule/combat/condition.md) affecting them and confers it to the demon that attacked them.
 
-Additionally, whenever one of your demon minions Death Snaps, their target is P < WEAK affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).
+Additionally, whenever one of your demon [minions](../../Browse/feature/summoner/level-1/minions.md) Death Snaps, their target is P < WEAK affected by a [condition](../../Browse/rule/combat/condition.md) the [minion](../../Browse/feature/summoner/level-1/minions.md) was suffering from. The [potency](../../Browse/rule/character/potency.md) increases by 1 on each subsequent Death Snap the target takes [damage](../../Browse/rule/damage/damage.md) from in the same [turn](../../Browse/rule/combat/turn.md) (maximum +2).
 
 #### New Portfolio Minion {data-scc="mcdm.summoner.v1/feature.summoner.level-5/new-portfolio-minion"}
 
-Your circle allows you to select new minions to add to your portfolio.
+Your circle allows you to select new [minions](../../Browse/feature/summoner/level-1/minions.md) to add to your [portfolio](../../Browse/feature/summoner/level-1/portfolio.md).
 
 ##### Demon Portfolio 7-Essence Minion
 
@@ -1727,21 +1727,21 @@ This cherubin creature is bloated and warped by demonic energy. The lights from 
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 7 corruption damage; P < WEAK bleeding (EoT)
+> 7 corruption [damage](../../Browse/rule/damage/damage.md); P < WEAK [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> 11 corruption damage; P < AVERAGE bleeding (EoT)
+> 11 corruption [damage](../../Browse/rule/damage/damage.md); P < AVERAGE [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> 16 corruption damage; P < STRONG bleeding (EoT)
+> 16 corruption [damage](../../Browse/rule/damage/damage.md); P < STRONG [bleeding](../../Browse/condition/bleeding.md) (EoT)
 >
-> **Effect:** Instead of taking damage, you or an ally targeted by this ability impose a double bane on the next strike that targets them.
+> **Effect:** Instead of taking [damage](../../Browse/rule/damage/damage.md), you or an ally targeted by this ability impose a double [bane](../../Browse/rule/dice/bane.md) on the next [strike](../../Browse/rule/combat/strike.md) that targets them.
 
 > ⭐️ **Wilted Wings**
 >
-> The blightling must land on the ground at the end of their turn or fall prone.
+> The blightling must land on the ground at the end of their [turn](../../Browse/rule/combat/turn.md) or fall [prone](../../Browse/condition/prone.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the blightling can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the blightling can't be hidden from them.
 
 ###### Gorrre {data-scc="mcdm.summoner.v1/minion.demon.statblock/gorrre"}
 
@@ -1755,15 +1755,15 @@ The gorrre demons evoke features of rhino and orangutan while clad in heavy armo
 
 > ⭐️ **Gorrring Strike**
 >
-> The gorrre must charge before making a strike. The target is M < STRONG knocked prone if the gorrre moved through an enemy or object other than the target during the charge.
+> The gorrre must [charge](../../Browse/feature/common/main-actions/charge.md) before making a [strike](../../Browse/rule/combat/strike.md). The target is M < STRONG knocked [prone](../../Browse/condition/prone.md) if the gorrre moved through an enemy or object other than the target during the [charge](../../Browse/feature/common/main-actions/charge.md).
 
 > ⭐️ **Devastating Charge**
 >
-> The gorrre ignores difficult terrain while charging and destroys unattended, size 1 objects in their path. Each enemy they move through during a charge takes 3 damage.
+> The gorrre ignores [difficult terrain](../../Browse/movement/difficult-terrain.md) while [charging](../../Browse/feature/common/main-actions/charge.md) and destroys unattended, [size](../../Browse/rule/character/size.md) 1 objects in their path. Each enemy they move through during a [charge](../../Browse/feature/common/main-actions/charge.md) takes 3 [damage](../../Browse/rule/damage/damage.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the gorrre can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the gorrre can't be hidden from them.
 
 ###### Vicisittante {data-scc="mcdm.summoner.v1/minion.demon.statblock/vicisittante"}
 
@@ -1781,17 +1781,17 @@ It's difficult to identify the base nature of a vicisittante apart from an ever-
 > |----------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 7 psychic damage; P < WEAK weakened (save ends)
+> 7 psychic [damage](../../Browse/rule/damage/damage.md); P < WEAK [weakened](../../Browse/condition/weakened.md) (save ends)
 >
-> 11 psychic damage; P < AVERAGE weakened (save ends)
+> 11 psychic [damage](../../Browse/rule/damage/damage.md); P < AVERAGE [weakened](../../Browse/condition/weakened.md) (save ends)
 >
-> 16 psychic damage; P < STRONG weakened (save ends)
+> 16 psychic [damage](../../Browse/rule/damage/damage.md); P < STRONG [weakened](../../Browse/condition/weakened.md) (save ends)
 >
-> **Effect:** A target weakened by this ability is always considered flanked by the vicisittante regardless of position until the condition ends.
+> **Effect:** A target [weakened](../../Browse/condition/weakened.md) by this ability is always considered [flanked](../../Browse/rule/combat/flanking.md) by the vicisittante regardless of position until the [condition](../../Browse/rule/combat/condition.md) ends.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the vicisittante can't be hidden from them.
+> Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the vicisittante can't be hidden from them.
 
 ##### Elemental Portfolio 7-Essence Minion
 
@@ -1809,15 +1809,15 @@ Iron reavers are long, gnashing lines of centipede-like bladed legs. Their bodie
 
 > ⭐️ **Decentralized Segments**
 >
-> The reaver has cover while adjacent to another reaver they were summoned with. Whenever they receive an effect that allows them to move or shift outside of their move action, they share the effect with each adjacent reaver they were summoned with.
+> The reaver has [cover](../../Browse/rule/combat/cover.md) while [adjacent](../../Browse/rule/combat/adjacent.md) to another reaver they were summoned with. Whenever they receive an effect that allows them to move or [shift](../../Browse/movement/shifting.md) outside of their move action, they share the effect with each [adjacent](../../Browse/rule/combat/adjacent.md) reaver they were summoned with.
 
 > ⭐️ **Bladed Strike**
 >
-> The reaver's free strikes inflict M < WEAK bleeding (save ends). Each time the reaver inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.
+> The reaver's [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < WEAK [bleeding](../../Browse/condition/bleeding.md) (save ends). Each time the reaver inflicts [bleeding](../../Browse/condition/bleeding.md) on a creature, they can [shift](../../Browse/movement/shifting.md) 2 and make an additional [free strike](../../Browse/feature/common/main-actions/free-strike.md) on a new target.
 
 > ⭐️ **Iron Barricade** 1 Essence
 >
-> When the reaver is reduced to 0 Stamina, they create a line equal to 2 × their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.
+> When the reaver is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they create a line equal to 2 × their [size](../../Browse/rule/character/size.md) centered on their space of iron shards on the ground until the end of the encounter. You or any ally has [cover](../../Browse/rule/combat/cover.md) and [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2 while occupying an affected square.
 
 ###### Knight of Blood {data-scc="mcdm.summoner.v1/minion.elemental.statblock/knight-of-blood"}
 
@@ -1831,11 +1831,11 @@ These faceless suits of armor have visible rivers of deep red blood flowing thro
 
 > ⭐️ **Scarlet Death**
 >
-> The knight's melee strikes inflict P < STRONG bleeding (save ends). While bleeding this way, the target can't roll lower than a 3 on the die used to resolve bleeding damage.
+> The knight's melee [strikes](../../Browse/rule/combat/strike.md) inflict P < STRONG [bleeding](../../Browse/condition/bleeding.md) (save ends). While [bleeding](../../Browse/condition/bleeding.md) this way, the target can't roll lower than a 3 on the die used to resolve [bleeding](../../Browse/condition/bleeding.md) damage.
 
 > ⭐️ **Red River** 2 Essence
 >
-> When the knight is reduced to 0 Stamina, they move up to their speed ignoring opportunity attacks. Each square that they exit during this movement pools with blood until the end of the encounter. Each affected square is considered difficult terrain for enemies and deals 3 corruption damage to an enemy when they first enter it on a turn. Whenever a bleeding enemy starts their turn within 10 squares of the blood pool, they are pulled 2 toward the nearest affected square, ignoring stability.
+> When the knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they move up to their [speed](../../Browse/rule/character/speed.md) ignoring [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). Each square that they exit during this movement pools with blood until the end of the encounter. Each affected square is considered [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies and deals 3 corruption [damage](../../Browse/rule/damage/damage.md) to an enemy when they first enter it on a [turn](../../Browse/rule/combat/turn.md). Whenever a [bleeding](../../Browse/condition/bleeding.md) enemy starts their [turn](../../Browse/rule/combat/turn.md) within 10 squares of the blood pool, they are pulled 2 toward the nearest affected square, ignoring [stability](../../Browse/rule/character/stability.md).
 
 ###### Light of the Sun {data-scc="mcdm.summoner.v1/minion.elemental.statblock/light-of-the-sun"}
 
@@ -1853,17 +1853,17 @@ These elementals are blazing white avian-shaped beings that are nearly impossibl
 > |--------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 7 fire damage; I < WEAK dazed (EoT)
+> 7 fire [damage](../../Browse/rule/damage/damage.md); I < WEAK [dazed](../../Browse/condition/dazed.md) (EoT)
 >
-> 11 fire damage; I < AVERAGE dazed (EoT)
+> 11 fire [damage](../../Browse/rule/damage/damage.md); I < AVERAGE [dazed](../../Browse/condition/dazed.md) (EoT)
 >
-> 16 fire damage; I < STRONG dazed (save ends)
+> 16 fire [damage](../../Browse/rule/damage/damage.md); I < STRONG [dazed](../../Browse/condition/dazed.md) (save ends)
 >
-> **Effect:** A target dazed by this ability has their stability reduced to 0 until the condition ends.
+> **Effect:** A target [dazed](../../Browse/condition/dazed.md) by this ability has their [stability](../../Browse/rule/character/stability.md) reduced to 0 until the [condition](../../Browse/rule/combat/condition.md) ends.
 
 > ⭐️ **Radiant Field** 2 Essence
 >
-> When the light is reduced to 0 Stamina, the area within 1 square of the light becomes wreathed in sentient flames until the end of the encounter. An enemy that enters this area or starts their turn there takes 3 fire damage and is slowed (EoT). You or any ally that enters this area or starts their turn there gains 5 temporary Stamina and their speed increases by 2 until the end of their turn.
+> When the light is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the light becomes wreathed in sentient flames until the end of the encounter. An enemy that enters this area or starts their [turn](../../Browse/rule/combat/turn.md) there takes 3 fire [damage](../../Browse/rule/damage/damage.md) and is [slowed](../../Browse/condition/slowed.md) (EoT). You or any ally that enters this area or starts their [turn](../../Browse/rule/combat/turn.md) there gains 5 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and their [speed](../../Browse/rule/character/speed.md) increases by 2 until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Fey Portfolio 7-Essence Minion
 
@@ -1881,15 +1881,15 @@ Corallias are saltwater nixies with coarse, coral-like skin and curly hair with 
 
 > ⭐️ **Water Weird**
 >
-> Once per turn during their move action, each nixie under your control can teleport to a body of water within 6. The corallia can't teleport into water created by their own seafoam pool.
+> Once per [turn](../../Browse/rule/combat/turn.md) during their move action, each nixie under your control can [teleport](../../Browse/movement/teleport.md) to a body of water within 6. The corallia can't [teleport](../../Browse/movement/teleport.md) into water created by their own seafoam pool.
 
 > ⭐️ **Seafoam Pool**
 >
-> The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of difficult terrain created by enemies. At the end of the corallia's turn, the corallia can scrub you or an ally in the affected area and end one condition.
+> The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of [difficult terrain](../../Browse/movement/difficult-terrain.md) created by enemies. At the end of the corallia's [turn](../../Browse/rule/combat/turn.md), the corallia can scrub you or an ally in the affected area and end one [condition](../../Browse/rule/combat/condition.md).
 
 > ⭐️ **Minuscule**
 >
-> The coralia has cover while occupying a larger creature's space.
+> The coralia has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Pixie Belladonix {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-belladonix"}
 
@@ -1907,17 +1907,17 @@ The belladonix are found among the elite guard of fey monarchs and carry themsel
 > |---------------------------|----------------:|
 > | **📏 Ranged 15** | **🎯 One creature or object per minion** |
 >
-> 8 poison damage; M < WEAK restrained (save ends)
+> 8 poison [damage](../../Browse/rule/damage/damage.md); M < WEAK [restrained](../../Browse/condition/restrained.md) (save ends)
 >
-> 12 poison damage; M < AVERAGE restrained (save ends)
+> 12 poison [damage](../../Browse/rule/damage/damage.md); M < AVERAGE [restrained](../../Browse/condition/restrained.md) (save ends)
 >
-> 17 poison damage; M < STRONG restrained (save ends)
+> 17 poison [damage](../../Browse/rule/damage/damage.md); M < STRONG [restrained](../../Browse/condition/restrained.md) (save ends)
 >
-> **Effect:** A target restrained by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the condition ends.
+> **Effect:** A target [restrained](../../Browse/condition/restrained.md) by this ability is trapped in a poison-fueled haze and considers each creature within 1 square of them to be an enemy until the [condition](../../Browse/rule/combat/condition.md) ends.
 
 > ⭐️ **Minuscule**
 >
-> The belladonix has cover while occupying a larger creature's space.
+> The belladonix has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ###### Sprite Olyender {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-olyender"}
 
@@ -1931,15 +1931,15 @@ These brawny sprites wear heavy beetle armor and have a halo hovering away from 
 
 > ⭐️ **Warrior's Toss**
 >
-> The olyender's melee strikes inflict push 4. If the target is force moved into an object, they are M < AVERAGE knocked prone and can't stand (save ends).
+> The olyender's melee [strikes](../../Browse/rule/combat/strike.md) inflict [push](../../Browse/movement/forced-movement.md) 4. If the target is [force moved](../../Browse/movement/forced-movement.md) into an object, they are M < AVERAGE knocked [prone](../../Browse/condition/prone.md) and can't stand (save ends).
 
 > ⭐️ **Use Their Might**
 >
-> When targeting a creature with a grab or forced movement, the olyender's size is considered one larger than the target.
+> When targeting a creature with a [grab](../../Browse/feature/common/maneuvers/grab.md) or [forced movement](../../Browse/movement/forced-movement.md), the olyender's [size](../../Browse/rule/character/size.md) is considered one larger than the target.
 
 > ⭐️ **Minuscule**
 >
-> The olyender has cover while occupying a larger creature's space.
+> The olyender has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
 ##### Undead Portfolio 7-Essence Minion
 
@@ -1957,11 +1957,11 @@ A false vampire is a bestial, bipedal ghoul that draws life from liquified remai
 
 > ⭐️ **Proboscis Strike**
 >
-> The false vampire's melee free strikes have a distance of 2 and inflict M < AVERAGE restrained (EoT). The false vampire can move the target while they are restrained this way. At the start of a restrained creature's turn, they take acid damage equal to your Reason.
+> The false vampire's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) have a distance of 2 and inflict M < AVERAGE [restrained](../../Browse/condition/restrained.md) (EoT). The false vampire can move the target while they are [restrained](../../Browse/condition/restrained.md) this way. At the start of a [restrained](../../Browse/condition/restrained.md) creature's [turn](../../Browse/rule/combat/turn.md), they take acid [damage](../../Browse/rule/damage/damage.md) equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ⭐️ **Bloodthirsty**
 >
-> The false vampire has a speed of 10 while a creature is bleeding within 10.
+> The false vampire has a [speed](../../Browse/rule/character/speed.md) of 10 while a creature is [bleeding](../../Browse/condition/bleeding.md) within 10.
 
 ###### Phantom of the Ripper {data-scc="mcdm.summoner.v1/minion.undead.statblock/phantom-of-the-ripper"}
 
@@ -1979,17 +1979,17 @@ These phantoms puppet the remnants of their corporeal forms. Unlike other spirit
 > |---------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 8 damage; A < WEAK slowed (save ends)
+> 8 [damage](../../Browse/rule/damage/damage.md); A < WEAK [slowed](../../Browse/condition/slowed.md) (save ends)
 >
-> 13 damage; A < AVERAGE slowed (save ends)
+> 13 [damage](../../Browse/rule/damage/damage.md); A < AVERAGE [slowed](../../Browse/condition/slowed.md) (save ends)
 >
-> 17 damage; A < STRONG slowed (save ends)
+> 17 [damage](../../Browse/rule/damage/damage.md); A < STRONG [slowed](../../Browse/condition/slowed.md) (save ends)
 >
-> **Effect:** The phantom deals an additional 3 damage if they have an edge.
+> **Effect:** The phantom deals an additional 3 [damage](../../Browse/rule/damage/damage.md) if they have an [edge](../../Browse/rule/dice/edge.md).
 
 > ⭐️ **Ripping Phase**
 >
-> The phantom can move through other creatures and objects at normal speed. The first time in a round that the phantom passes through a creature, that creature takes 3 corruption damage and has a bane on their next strike. The phantom doesn't take damage from being force moved into objects.
+> The phantom can move through other creatures and objects at normal speed. The first time in a [round](../../Browse/rule/combat/combat-round.md) that the phantom passes through a creature, that creature takes 3 corruption [damage](../../Browse/rule/damage/damage.md) and has a [bane](../../Browse/rule/dice/bane.md) on their next [strike](../../Browse/rule/combat/strike.md). The phantom doesn't take [damage](../../Browse/rule/damage/damage.md) from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 
 ###### Zombie Titan {data-scc="mcdm.summoner.v1/minion.undead.statblock/zombie-titan"}
 
@@ -2003,29 +2003,29 @@ Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or
 
 > ⭐️ **Big Stomp**
 >
-> The titan's melee free strikes M < STRONG knock the target prone.
+> The titan's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) M < STRONG knock the target [prone](../../Browse/condition/prone.md).
 
 > ⭐️ **Overwhelming Size**
 >
-> The titan can move through enemies at normal speed. If the titan ends their turn in a prone size 2 or smaller creature's space, the creature can't stand.
+> The titan can move through enemies at normal speed. If the titan ends their [turn](../../Browse/rule/combat/turn.md) in a [prone](../../Browse/condition/prone.md) [size](../../Browse/rule/character/size.md) 2 or smaller creature's space, the creature can't stand.
 
 > ⭐️ **Flesh to Mountains**
 >
-> When the titan is reduced to 0 Stamina, their space becomes difficult terrain. If a creature was prone underneath the titan when the titan is killed, they take 10 damage and are restrained (save ends).
+> When the titan is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their space becomes [difficult terrain](../../Browse/movement/difficult-terrain.md). If a creature was [prone](../../Browse/condition/prone.md) underneath the titan when the titan is killed, they take 10 [damage](../../Browse/rule/damage/damage.md) and are [restrained](../../Browse/condition/restrained.md) (save ends).
 
 ### 6th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-6/6th-level-features"}
 
-As a 6th-level summoner, you gain the following features.
+As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-6/perk"}
 
-You gain an interpersonal, lore, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [interpersonal](../../Browse/skill/group/interpersonal.md), [lore](../../Browse/skill/group/lore.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Return to the Source {data-scc="mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source"}
 
 You can translate yourself and your allies into the space that your minions come from, as if summoning in reverse.
 
-When you take a respite, you teleport to your circle's source manifold or point of origin, as shown on the Circle's Source Manifold table. You can bring along any allies to gather resources or research details about that location's denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.
+When you take a [respite](../../Browse/rule/resource/respite.md), you [teleport](../../Browse/movement/teleport.md) to your circle's source manifold or point of origin, as shown on the Circle's Source Manifold table. You can bring along any allies to gather resources or research details about that location's denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.
 
 ###### Circle's Source Manifold
 
@@ -2036,23 +2036,23 @@ When you take a respite, you teleport to your circle's source manifold or point 
 | Spring | Arcadia |
 | Storms | Quintessence |
 
-At the end of the respite, you and everyone you brought with you immediately teleports back into the same location from which you made the portal.
+At the end of the [respite](../../Browse/rule/resource/respite.md), you and everyone you brought with you immediately teleports back into the same location from which you made the portal.
 
 #### Minion Machinations {data-scc="mcdm.summoner.v1/feature.summoner.level-6/minion-machinations"}
 
-Your maximum number of followers increases by 2.
+Your maximum number of [followers](../../Browse/rule/general/follower.md) increases by 2.
 
-You can summon and recruit an artisan follower and a sage follower that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle's source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers' stats.
+You can summon and recruit an artisan [follower](../../Browse/rule/general/follower.md) and a sage [follower](../../Browse/rule/general/follower.md) that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle's source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers' stats.
 
 #### Kit Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-6/kit-improvement"}
 
 You can choose one additional ward from your Summoner's Kit.
 
-Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.
+Additionally, whenever you reduce an enemy to 0 [Stamina](../../Browse/rule/health/stamina.md) with your [Summoner Strike](../../Browse/feature/ability/summoner/level-1/summoner-strike.md) ability, you can use [Call Forth](../../Browse/feature/ability/summoner/level-1/call-forth.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). Minions summoned this way are unable to act during this [turn](../../Browse/rule/combat/turn.md).
 
 #### 9-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-6/9-essence-ability"}
 
-You can summon the assistance of your future champion (see Portfolio Champion) and allow them to show off a brief display of their power. Select one of the following heroic abilities, each of which costs 9 essence to use.
+You can summon the assistance of your future champion (see [Portfolio Champion](../../Browse/feature/summoner/level-8/portfolio-champion.md)) and allow them to show off a brief display of their power. Select one of the following [heroic abilities](../../Browse/rule/general/heroic-ability.md), each of which costs 9 essence to use.
 
 ##### A Champion's Cry {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-6/a-champions-cry"}
 
@@ -2062,11 +2062,11 @@ You can summon the assistance of your future champion (see Portfolio Champion) a
 |---------------------------|----------------:|
 | **📏 3 burst** | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 2 psychic or sonic damage; I < WEAK frightened of you (save ends)
-- **12-16:** 5 psychic or sonic damage; I < AVERAGE frightened of you and all allies (EoT)
-- **17+:** 7 psychic or sonic damage; I < STRONG frightened of you and all allies (save ends)
+- **≤11:** 2 psychic or sonic [damage](../../Browse/rule/damage/damage.md); I < WEAK [frightened](../../Browse/condition/frightened.md) of you ([save ends](../../Browse/rule/general/saving-throw.md))
+- **12-16:** 5 psychic or sonic [damage](../../Browse/rule/damage/damage.md); I < AVERAGE [frightened](../../Browse/condition/frightened.md) of you and all allies ([EoT](../../Browse/rule/combat/end-of-turn.md))
+- **17+:** 7 psychic or sonic [damage](../../Browse/rule/damage/damage.md); I < STRONG [frightened](../../Browse/condition/frightened.md) of you and all allies ([save ends](../../Browse/rule/general/saving-throw.md))
 
 **Effect:** You can use this ability as if in the space of one of your minions within your Summoner's Range.
 
@@ -2080,9 +2080,9 @@ You can summon the assistance of your future champion (see Portfolio Champion) a
 
 **Effect:** You can use this ability as if in the space of one of your minions within your Summoner's Range.
 
-Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.
+Until the end of the encounter or you become [dying](../../Browse/rule/health/dying.md), each target has a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 
-Each target can immediately make each of their saving throws and stand up from prone.
+Each target can immediately make each of their [saving throws](../../Browse/rule/general/saving-throw.md) and stand up from [prone](../../Browse/condition/prone.md).
 
 ##### The Champion Slams the Earth {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-6/the-champion-slams-the-earth"}
 
@@ -2092,15 +2092,15 @@ Each target can immediately make each of their saving throws and stand up from p
 |-----------------------------------|----------------:|
 | **📏 4 cube within 1** | **🎯 Each enemy and object in the area** |
 
-**Power Roll + Reason:**
+**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 5 damage; M < WEAK prone and can't stand (save ends)
-- **12-16:** 8 damage; M < AVERAGE prone and can't stand (save ends)
-- **17+:** 11 damage; M < STRONG prone and can't stand (save ends)
+- **≤11:** 5 [damage](../../Browse/rule/damage/damage.md); M < WEAK [prone](../../Browse/condition/prone.md) and can't stand ([save ends](../../Browse/rule/general/saving-throw.md))
+- **12-16:** 8 [damage](../../Browse/rule/damage/damage.md); M < AVERAGE [prone](../../Browse/condition/prone.md) and can't stand ([save ends](../../Browse/rule/general/saving-throw.md))
+- **17+:** 11 [damage](../../Browse/rule/damage/damage.md); M < STRONG [prone](../../Browse/condition/prone.md) and can't stand ([save ends](../../Browse/rule/general/saving-throw.md))
 
 **Effect:** You can use this ability as if in the space of one of your minions within your Summoner's Range.
 
-**Special:** You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).
+**Special:** You can change the [damage type](../../Browse/rule/damage/damage-type.md) to be a type that your champion deals on their stat block (see [Portfolio Champion](../../Browse/feature/summoner/level-8/portfolio-champion.md)).
 
 ##### Their Pall Shrouds All {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-6/their-pall-shrouds-all"}
 
@@ -2112,23 +2112,23 @@ Each target can immediately make each of their saving throws and stand up from p
 
 **Effect:** You can use this ability as if in the space of one of your minions within your Summoner's Range.
 
-Each target is R < AVERAGE weakened (save ends).
+Each target is R < AVERAGE [weakened](../../Browse/condition/weakened.md) ([save ends](../../Browse/rule/general/saving-throw.md)).
 
-Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.
+Until the end of the encounter, whenever a target gets a [tier](../../Browse/rule/dice/tier-outcome.md) 1 result on a [strike](../../Browse/rule/combat/strike.md), they deal half [damage](../../Browse/rule/damage/damage.md). If a target was striking a creature [adjacent](../../Browse/rule/combat/adjacent.md) to one of their allies, they target their ally instead.
 
 ### 7th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-7/7th-level-features"}
 
-As a 7th-level summoner, you gain the following features.
+As a 7th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-7/characteristic-increase"}
 
-All of your characteristics increase by 1, to a maximum score of 4.
+All of your [characteristics](../../Browse/rule/character/characteristic.md) increase by 1, to a maximum score of 4.
 
 #### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-7/minion-improvement"}
 
-At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner's Range (no action required).
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner's Range (no action required).
 
-Additionally, you can increase each of your minions' Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).
+Additionally, you can increase each of your minions' [Stamina](../../Browse/rule/health/stamina.md) as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a [Stamina](../../Browse/rule/health/stamina.md) boost can treat their [characteristics](../../Browse/rule/character/characteristic.md) as one higher for the purposes of resisting [potencies](../../Browse/rule/character/potency.md) (to a maximum value of 4).
 
 These benefits are not reflected in the stat blocks of new minions you acquire.
 
@@ -2143,13 +2143,13 @@ These benefits are not reflected in the stat blocks of new minions you acquire.
 
 #### Font of Creation {data-scc="mcdm.summoner.v1/feature.summoner.level-7/font-of-creation"}
 
-When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain essence at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 3 essence instead of 2.
 
 #### Their Life for Mine {data-scc="mcdm.summoner.v1/feature.summoner.level-7/their-life-for-mine"}
 
-If you or an ally within your Summoner's Range would die from an effect that isn't age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a free triggered action to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 Stamina plus 1 Stamina for each minion and essence used in the effect. You must have at least one fragment of the creature's remains, and the creature's soul must be willing to return to life for the effect to work.
+If you or an ally within your Summoner's Range would [die](../../Browse/rule/health/dying.md) from an effect that isn't age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a [free triggered action](../../Browse/rule/combat/triggered-action.md) to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 [Stamina](../../Browse/rule/health/stamina.md) plus 1 [Stamina](../../Browse/rule/health/stamina.md) for each minion and essence used in the effect. You must have at least one fragment of the creature's remains, and the creature's soul must be willing to return to life for the effect to work.
 
-You can't use this feature again until you gain a new level, or until you spend 3 eidos to use it (see Eidos).
+You can't use this feature again until you gain a new level, or until you spend 3 eidos to use it (see [Eidos](../../Browse/feature/summoner/level-10/eidos.md)).
 
 #### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-7/skill"}
 
@@ -2157,7 +2157,7 @@ You gain one skill of your choice.
 
 ### 8th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-8/8th-level-features"}
 
-As an 8th-level summoner, you gain the following features.
+As an 8th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-8/perk"}
 
@@ -2178,15 +2178,15 @@ Your circle grants you a feature as shown on the 8th-Level Summoner Circle Featu
 
 #### Abyssal Evolution {data-scc="mcdm.summoner.v1/feature.summoner.level-8/abyssal-evolution"}
 
-At the start of each of your turns, you can transform up to two of your demon minions within your Summoner's Range. A demon can transform into a different demon minion within your Summoner's Range, maintaining their current Stamina. Starting from round 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon's space.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can transform up to two of your demon minions within your Summoner's Range. A demon can transform into a different demon minion within your Summoner's Range, maintaining their current [Stamina](../../Browse/rule/health/stamina.md). Starting from [round](../../Browse/rule/combat/combat-round.md) 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon's space.
 
 The minions must be reassigned to a new squad if their new name differs from the other squad members.
 
 #### Celestial Grace {data-scc="mcdm.summoner.v1/feature.summoner.level-8/celestial-grace"}
 
-Your number of Recoveries further increases by 2.
+Your number of [Recoveries](../../Browse/rule/health/recoveries.md) further increases by 2.
 
-Additionally, the area affected by your Pixie Dust feature and any of your fey minions' traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.
+Additionally, the area affected by your [Pixie Dust](../../Browse/feature/summoner/level-1/pixie-dust.md) feature and any of your fey minions' traits that affect [adjacent](../../Browse/rule/combat/adjacent.md) creatures and/or the area within 1 or more squares of them increase that distance by 1 square.
 
 #### Control the Elements {data-scc="mcdm.summoner.v1/feature.summoner.level-8/control-the-elements"}
 
@@ -2202,9 +2202,9 @@ Whenever you use Call Forth, you can spend essence to change the size of one ele
 
 #### Kill the Pain {data-scc="mcdm.summoner.v1/feature.summoner.level-8/kill-the-pain"}
 
-You aren't affected by excess damage after all minions in a squad are dead.
+You aren't affected by excess [damage](../../Browse/rule/damage/damage.md) after all minions in a squad are dead.
 
-Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.
+Additionally, you and each of your undead minions ignore [damage](../../Browse/rule/damage/damage.md) rolled as a d3 or a d6 and [damage](../../Browse/rule/damage/damage.md) from environmental effects while you are not [winded](../../Browse/rule/health/winded.md).
 
 #### Portfolio Champion {data-scc="mcdm.summoner.v1/feature.summoner.level-8/portfolio-champion"}
 
@@ -2212,16 +2212,16 @@ Your circle now allows you to add a champion to your portfolio. Champions follow
 
 - You can only summon and command one instance of your champion.
 - Your champion is in their own squad that does not count toward your maximum number of squads.
-- Your champion can regain Stamina and gain temporary Stamina.
-- Your champion uses your Recoveries to regain Stamina.
-- Your champion can take the Heal and Defend Actions.
+- Your champion can regain [Stamina](../../Browse/rule/health/stamina.md) and gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+- Your champion uses your [Recoveries](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md).
+- Your champion can take the [Heal](../../Browse/feature/common/main-actions/heal.md) and [Defend](../../Browse/feature/common/main-actions/defend.md) Actions.
 - Your champion uses the normal rules for maneuvers.
-- You have an edge whenever you use an ability with the Champion keyword from your Champion's space.
+- You have an [edge](../../Browse/rule/dice/edge.md) whenever you use an ability with the Champion keyword from your Champion's space.
 - Your champion refuses to be referred to as a minion.
 
-After summoning a champion, you can't summon them again until you earn a Victory.
+After summoning a champion, you can't summon them again until you earn a [Victory](../../Browse/rule/resource/victories.md).
 
-Your champion gains additional features at 10th level. This includes a special Champion Action ability that costs eidos to use (see Eidos). This ability can be activated once per encounter at the end of any other creature's turn.
+Your champion gains additional features at 10th level. This includes a special Champion Action ability that costs eidos to use (see [Eidos](../../Browse/feature/summoner/level-10/eidos.md)). This ability can be activated once per encounter at the end of any other creature's [turn](../../Browse/rule/combat/turn.md).
 
 ##### Demon Portfolio Champion
 
@@ -2239,41 +2239,41 @@ The demon lord's Aspect enjoys bringing enemies in close with their appendages o
 
 Stamina: Your maximum Stamina
 
-> 🏹 **Grasping Appendages 2d10 + 5 (Signature Ability)**
+> 🏹 **Grasping Appendages 2d10 + 5 ([Signature Ability](../../Browse/rule/combat/signature-ability.md))**
 >
 > | **Melee, Strike, Weapon** | **Main action** |
 > |---------------------------|----------------:|
 > | **📏 Melee 5** | **🎯 Two creatures or objects** |
 >
-> 9 corruption damage; pull 2
+> 9 corruption [damage](../../Browse/rule/damage/damage.md); [pull](../../Browse/movement/forced-movement.md) 2
 >
-> 12 corruption damage; pull 4
+> 12 corruption [damage](../../Browse/rule/damage/damage.md); [pull](../../Browse/movement/forced-movement.md) 4
 >
-> 14 corruption damage; pull 5
+> 14 corruption [damage](../../Browse/rule/damage/damage.md); [pull](../../Browse/movement/forced-movement.md) 5
 >
-> **Effect:** A target pulled adjacent to the Aspect is grabbed.
+> **Effect:** A target [pulled](../../Browse/movement/forced-movement.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the Aspect is [grabbed](../../Browse/condition/grabbed.md).
 
 > ⭐️ **Warping Strike**
 >
-> The Aspect's free strikes teleport the target 5 squares.
+> The Aspect's [free strikes](../../Browse/feature/common/main-actions/free-strike.md) [teleport](../../Browse/movement/teleport.md) the target 5 squares.
 
 > ⭐️ **Champion's Ire**
 >
-> If the Aspect only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Aspect only targets one creature or object with a [strike](../../Browse/rule/combat/strike.md), they deal additional [damage](../../Browse/rule/damage/damage.md) to the target equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ❗️ **I Like Your Taste**
 >
-> | **—** | **Free triggered action** |
+> | **—** | **[Free triggered action](../../Browse/rule/combat/triggered-action.md)** |
 > |-------|---------------------------:|
 > | **📏 Self** | **🎯 Self** |
 >
-> **Trigger:** The Aspect takes damage from an enemy.
+> **Trigger:** The Aspect takes [damage](../../Browse/rule/damage/damage.md) from an enemy.
 >
-> **Effect:** The Aspect has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner's Range instead.
+> **Effect:** The Aspect has a double [edge](../../Browse/rule/dice/edge.md) on their next [power roll](../../Browse/rule/dice/power-roll.md). They can choose to give this benefit to an ally within your Summoner's Range instead.
 
 > ⭐️ **Frenzy**
 >
-> When the Aspect is reduced to 0 Stamina, they make a free strike against each adjacent enemy before dying.
+> When the Aspect is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against each [adjacent](../../Browse/rule/combat/adjacent.md) enemy before [dying](../../Browse/rule/health/dying.md).
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -2289,7 +2289,7 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** Each target teleports up to their speed and makes a free strike. If a target has a Save Ends condition, they can inflict the condition onto a creature with their strike and end the condition on themself.
+> **Effect:** Each target [teleports](../../Browse/movement/teleport.md) up to their [speed](../../Browse/rule/character/speed.md) and makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md). If a target has a [Save Ends](../../Browse/rule/general/saving-throw.md) [condition](../../Browse/rule/combat/condition.md), they can inflict the [condition](../../Browse/rule/combat/condition.md) onto a creature with their [strike](../../Browse/rule/combat/strike.md) and end the [condition](../../Browse/rule/combat/condition.md) on themself.
 
 ##### Elemental Portfolio Champion
 
@@ -2309,35 +2309,35 @@ Stamina: Your maximum Stamina
 
 > ⭐️ **Affinity**
 >
-> The Portent selects an affinity for one of the following damage types when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent's affinity immunity and the damage type of their abilities.
+> The Portent selects an affinity for one of the following [damage types](../../Browse/rule/damage/damage-type.md) when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent's affinity [immunity](../../Browse/rule/damage/damage-immunity.md) and the [damage type](../../Browse/rule/damage/damage-type.md) of their abilities.
 
-> 🏹 **Elemental Tail Swing 2d10 + 5 (Signature Ability)**
+> 🏹 **Elemental Tail Swing 2d10 + 5 ([Signature Ability](../../Browse/rule/combat/signature-ability.md))**
 >
 > | **Charge, Melee, Strike, Weapon** | **Main action** |
 > |-----------------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 Two creatures or objects** |
 >
-> 9 affinity damage; push 2
+> 9 affinity [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 2
 >
-> 12 affinity damage; push 4
+> 12 affinity [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 4
 >
-> 14 affinity damage; push 6
+> 14 affinity [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 6
 
 > ⭐️ **Sealing Strike**
 >
-> The Portent's free strikes inflict M < STRONG slowed (save ends). While slowed this way, the target takes 1d6 affinity damage at the start of each of their turns.
+> The Portent's [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < STRONG [slowed](../../Browse/condition/slowed.md) ([save ends](../../Browse/rule/general/saving-throw.md)). While [slowed](../../Browse/condition/slowed.md) this way, the target takes 1d6 affinity [damage](../../Browse/rule/damage/damage.md) at the start of each of their [turns](../../Browse/rule/combat/turn.md).
 
 > ⭐️ **Champion's Ire**
 >
-> If the Portent only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Portent only targets one creature or object with a [strike](../../Browse/rule/combat/strike.md), they deal additional [damage](../../Browse/rule/damage/damage.md) to the target equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ⭐️ **Searing Wyrmscale**
 >
-> Whenever an adjacent creature deals damage to the Portent, they take 4 affinity damage.
+> Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals [damage](../../Browse/rule/damage/damage.md) to the Portent, they take 4 affinity [damage](../../Browse/rule/damage/damage.md).
 
 > ⭐️ **Dragon Heart**
 >
-> Once per turn, the Portent can take 10 damage to allow you or an ally within your Summoner's Range to gain 1 heroic resource. This damage can't be reduced in any way.
+> Once per [turn](../../Browse/rule/combat/turn.md), the Portent can take 10 [damage](../../Browse/rule/damage/damage.md) to allow you or an ally within your Summoner's Range to gain 1 [heroic resource](../../Browse/rule/resource/heroic-resource.md). This [damage](../../Browse/rule/damage/damage.md) can't be reduced in any way.
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -2353,7 +2353,7 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** 9 affinity damage. The damage ignores immunity. The affected area becomes difficult terrain. An enemy has affinity weakness 5 while occupying an affected square.
+> **Effect:** 9 affinity [damage](../../Browse/rule/damage/damage.md). The [damage](../../Browse/rule/damage/damage.md) ignores [immunity](../../Browse/rule/damage/damage-immunity.md). The affected area becomes [difficult terrain](../../Browse/movement/difficult-terrain.md). An enemy has affinity [weakness](../../Browse/rule/damage/damage-weakness.md) 5 while occupying an affected square.
 
 ##### Fey Portfolio Champion
 
@@ -2371,41 +2371,41 @@ The celestial Attendant wants to swarm the map with pixies while limiting their 
 
 Stamina: Your maximum Stamina
 
-> 🏹 **Pixie Swarm 2d10 + 5 (Signature Ability)**
+> 🏹 **Pixie Swarm 2d10 + 5 ([Signature Ability](../../Browse/rule/combat/signature-ability.md))**
 >
 > | **Magic, Ranged, Strike** | **Main action** |
 > |---------------------------|----------------:|
 > | **📏 Ranged 10** | **🎯 Two creatures or objects** |
 >
-> 9 damage; slide 3
+> 9 [damage](../../Browse/rule/damage/damage.md); [slide](../../Browse/movement/forced-movement.md) 3
 >
-> 12 damage; slide 5
+> 12 [damage](../../Browse/rule/damage/damage.md); [slide](../../Browse/movement/forced-movement.md) 5
 >
-> 14 damage; slide 6
+> 14 [damage](../../Browse/rule/damage/damage.md); [slide](../../Browse/movement/forced-movement.md) 6
 >
-> **Effect:** An ally targeted by this ability can, instead, spend Recovery and shift the slide amount.
+> **Effect:** An ally targeted by this ability can, instead, spend Recovery and [shift](../../Browse/movement/shifting.md) the slide amount.
 
 > ⭐️ **Neurotoxic Strike**
 >
-> A creature that takes damage from the Attendant's free strike is I < AVERAGE unable to establish line of effect beyond 3 squares (EoT).
+> A creature that takes [damage](../../Browse/rule/damage/damage.md) from the Attendant's [free strike](../../Browse/feature/common/main-actions/free-strike.md) is I < AVERAGE unable to establish [line of effect](../../Browse/rule/combat/line-of-effect.md) beyond 3 squares ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
 > ⭐️ **Champion's Ire**
 >
-> If the Attendant only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Attendant only targets one creature or object with a [strike](../../Browse/rule/combat/strike.md), they deal additional [damage](../../Browse/rule/damage/damage.md) to the target equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ❗️ **Celestial Bell**
 >
-> | **—** | **Free triggered action** |
+> | **—** | **[Free triggered action](../../Browse/rule/combat/triggered-action.md)** |
 > |-------|---------------------------:|
 > | **📏 Self** | **🎯 Self** |
 >
-> **Trigger:** The Attendant takes damage from an enemy.
+> **Trigger:** The Attendant takes [damage](../../Browse/rule/damage/damage.md) from an enemy.
 >
-> **Effect:** The Attendant rings a bell, and you summon a signature minion into an unoccupied space adjacent to the Attendant.
+> **Effect:** The Attendant rings a bell, and you summon a signature minion into an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to the Attendant.
 
 > ⭐️ **Pixie Bouquet**
 >
-> The Attendant starts their turn with temporary Stamina equal to 2 × the number of fey minions within 1 square of them. This temporary Stamina lasts until the start of their next turn.
+> The Attendant starts their [turn](../../Browse/rule/combat/turn.md) with [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to 2 × the number of fey minions within 1 square of them. This [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the start of their next [turn](../../Browse/rule/combat/turn.md).
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -2421,7 +2421,7 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** Each target gains 20 temporary Stamina and receives the benefits of one of your Flash Powder effects until the end of their next turn.
+> **Effect:** Each target gains 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and receives the benefits of one of your [Flash Powder](../../Browse/feature/summoner/level-5/flash-powder.md) effects until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Undead Portfolio Champion
 
@@ -2439,41 +2439,41 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 
 Stamina: Your maximum Stamina
 
-> 🏹 **Culling Scythe 2d10 + 5 (Signature Ability)**
+> 🏹 **Culling Scythe 2d10 + 5 ([Signature Ability](../../Browse/rule/combat/signature-ability.md))**
 >
 > | **Melee, Strike, Weapon** | **Main action** |
 > |---------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 Two creatures or objects** |
 >
-> 9 corruption damage; M < WEAK bleeding (save ends)
+> 9 corruption [damage](../../Browse/rule/damage/damage.md); M < WEAK [bleeding](../../Browse/condition/bleeding.md) ([save ends](../../Browse/rule/general/saving-throw.md))
 >
-> 12 corruption damage; M < AVERAGE bleeding (save ends)
+> 12 corruption [damage](../../Browse/rule/damage/damage.md); M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) ([save ends](../../Browse/rule/general/saving-throw.md))
 >
-> 14 corruption damage; M < STRONG bleeding (save ends)
+> 14 corruption [damage](../../Browse/rule/damage/damage.md); M < STRONG [bleeding](../../Browse/condition/bleeding.md) ([save ends](../../Browse/rule/general/saving-throw.md))
 >
-> **Effect:** If the target is a creature that isn't a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.
+> **Effect:** If the target is a creature that isn't a leader or a solo and they are still [bleeding](../../Browse/condition/bleeding.md) at the end of the encounter, they instantly die.
 
 > ⭐️ **Revelation Strike**
 >
-> The Avatar's melee free strikes P < WEAK instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.
+> The Avatar's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) P < WEAK instantly reduce a [winded](../../Browse/rule/health/winded.md) non-leader or solo creature to 0 [Stamina](../../Browse/rule/health/stamina.md), including targets [winded](../../Browse/rule/health/winded.md) by the [strike](../../Browse/rule/combat/strike.md).
 
 > ⭐️ **Champion's Ire**
 >
-> If the Avatar only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Avatar only targets one creature or object with a [strike](../../Browse/rule/combat/strike.md), they deal additional [damage](../../Browse/rule/damage/damage.md) to the target equal to your [Reason](../../Browse/rule/character/reason.md).
 
 > ❗️ **Dust and Rot**
 >
-> | **Area** | **Free triggered action** |
+> | **Area** | **[Free triggered action](../../Browse/rule/combat/triggered-action.md)** |
 > |----------|---------------------------:|
 > | **📏 1 burst** | **🎯 Each enemy in the burst** |
 >
-> **Trigger:** The Avatar takes damage.
+> **Trigger:** The Avatar takes [damage](../../Browse/rule/damage/damage.md).
 >
-> **Effect:** M < AVERAGE weakened (EoT).
+> **Effect:** M < AVERAGE [weakened](../../Browse/condition/weakened.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
 > ⭐️ **Drifting Spirit**
 >
-> The Avatar is unaffected by difficult terrain and damage from forced movement.
+> The Avatar is unaffected by [difficult terrain](../../Browse/movement/difficult-terrain.md) and [damage](../../Browse/rule/damage/damage.md) from [forced movement](../../Browse/movement/forced-movement.md).
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -2489,28 +2489,28 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** 9 holy damage. Each target is vertically pulled a number of squares equal to their size straight down, ignoring stability. If the target would be force moved into the ground, they are buried beneath the ground instead.
+> **Effect:** 9 holy [damage](../../Browse/rule/damage/damage.md). Each target is vertically [pulled](../../Browse/movement/forced-movement.md) a number of squares equal to their [size](../../Browse/rule/character/size.md) straight down, ignoring [stability](../../Browse/rule/character/stability.md). If the target would be [force moved](../../Browse/movement/forced-movement.md) into the ground, they are buried beneath the ground instead.
 
 ### 9th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-9/9th-level-features"}
 
-As a 9th-level summoner, you gain the following features.
+As a 9th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Kit Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-9/kit-improvement"}
 
 You've conjured your kit into its ultimate form. You have the following benefits:
 
-- The potency of your Summoner Strike ability increases to R < STRONG.
-- You can choose one additional ward from your Summoner's Kit.
-- You have a double edge on tests made to dissuade or scare enemy minions or lackeys.
+- The [potency](../../Browse/rule/character/potency.md) of your [Summoner Strike](../../Browse/feature/ability/summoner/level-1/summoner-strike.md) ability increases to R < STRONG.
+- You can choose one additional ward from your [Summoner's Kit](../../Browse/feature/summoner/level-3/summoners-kit.md).
+- You have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to dissuade or scare enemy minions or lackeys.
 - Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.
 
 #### Steward of Two Worlds {data-scc="mcdm.summoner.v1/feature.summoner.level-9/steward-of-two-worlds"}
 
-You and your allies are now welcome in your circle's source manifold. Negotiations with native denizens of your circle's source manifold have their patience increased by 2.
+You and your allies are now welcome in your circle's source manifold. Negotiations with native denizens of your circle's source manifold have their [patience](../../Browse/rule/negotiation/patience.md) increased by 2.
 
 #### 11-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-9/11-essence-ability"}
 
-Choose one heroic ability from the following options, each of which costs 11 essence to use.
+Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from the following options, each of which costs 11 essence to use.
 
 ##### 10,000 Minions {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-9/10000-minions"}
 
@@ -2520,9 +2520,9 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |-----------|----------------:|
 | **📏 Special** | **🎯 Special** |
 
-**Effect:** Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes 5 damage. This damage can't be reduced.
+**Effect:** Until the end of the encounter or you are [dying](../../Browse/rule/health/dying.md), each square on the ground is considered teeming with minions. An enemy that ends their [turn](../../Browse/rule/combat/turn.md) in an affected square takes 5 [damage](../../Browse/rule/damage/damage.md). This [damage](../../Browse/rule/damage/damage.md) can't be reduced.
 
-Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).
+Additionally, you can use [Minion Bridge](../../Browse/feature/ability/summoner/level-1/minion-bridge.md) treating each affected square as an eligible minion (up to a maximum of 10 additional squares).
 
 ##### Bodyguard Tactics {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-9/bodyguard-tactics"}
 
@@ -2532,7 +2532,7 @@ Additionally, you can use Minion Bridge treating each affected square as an elig
 |-----------------|----------------:|
 | **📏 5 burst** | **🎯 Self and each non-minion ally in the area** |
 
-**Effect:** Until the end of the encounter or you are dying, each target has damage immunity 5 and can use a free triggered action once per turn whenever they are force moved to reduce the distance by half.
+**Effect:** Until the end of the encounter or you are [dying](../../Browse/rule/health/dying.md), each target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5 and can use a [free triggered action](../../Browse/rule/combat/triggered-action.md) once per [turn](../../Browse/rule/combat/turn.md) whenever they are [force moved](../../Browse/movement/forced-movement.md) to reduce the distance by half.
 
 ##### I Abjure Thee {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-9/i-abjure-thee"}
 
@@ -2542,9 +2542,9 @@ Additionally, you can use Minion Bridge treating each affected square as an elig
 |-----------------|----------------:|
 | **📏 3 burst** | **🎯 Special** |
 
-**Effect:** Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 round.
+**Effect:** Each enemy minion in the area is permanently removed from the encounter map. Up to three non-leader or non-solo enemies in the area are removed from the encounter for 1 [round](../../Browse/rule/combat/combat-round.md).
 
-A leader or a solo enemy in the area that has R, I, or P < AVERAGE is weakened and slowed (save ends) as they are partially removed from the manifold. You can increase the potency by 1 for each of your minions adjacent to the target you choose to sacrifice as a part of using this ability.
+A leader or a solo enemy in the area that has R, I, or P < AVERAGE is [weakened](../../Browse/condition/weakened.md) and [slowed](../../Browse/condition/slowed.md) ([save ends](../../Browse/rule/general/saving-throw.md)) as they are partially removed from the manifold. You can increase the [potency](../../Browse/rule/character/potency.md) by 1 for each of your minions [adjacent](../../Browse/rule/combat/adjacent.md) to the target you choose to sacrifice as a part of using this ability.
 
 ##### The Champion's Wrath {data-scc="mcdm.summoner.v1/feature.ability.summoner.level-9/the-champions-wrath"}
 
@@ -2554,29 +2554,29 @@ A leader or a solo enemy in the area that has R, I, or P < AVERAGE is weakened a
 |-----------------------------------|----------------:|
 | **📏 4 burst** | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 6 damage; push 4 M < WEAK push is vertical
-- **12-16:** 10 damage; push 5 M < AVERAGE push is vertical
-- **17+:** 14 damage; push 6 M < STRONG push is vertical
+- **≤11:** 6 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 4 M < WEAK push is vertical
+- **12-16:** 10 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 5 M < AVERAGE push is vertical
+- **17+:** 14 [damage](../../Browse/rule/damage/damage.md); [push](../../Browse/movement/forced-movement.md) 6 M < STRONG push is vertical
 
 **Effect:** You can use this ability as if in the space of one of your minions within your Summoner's Range.
 
-You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.
+You can change the [damage type](../../Browse/rule/damage/damage-type.md) to be a type that your champion deals on their stat block (see [Portfolio Champion](../../Browse/feature/summoner/level-8/portfolio-champion.md)). For each enemy reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this ability, an ally within [distance](../../Browse/rule/combat/distance.md) can move up to their [speed](../../Browse/rule/character/speed.md).
 
 ### 10th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-10/10th-level-features"}
 
-As a 10th-level summoner, you gain the following features.
+As a 10th-level [summoner](../../Browse/class/summoner.md), you gain the following features.
 
 #### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-10/characteristic-increase"}
 
-Your Reason score becomes 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 5.
+Your [Reason](../../Browse/rule/character/reason.md) score becomes 5. Additionally, you can increase one of your [characteristic](../../Browse/rule/character/characteristic.md) scores by 1, to a maximum score of 5.
 
 #### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-10/minion-improvement"}
 
-You now start encounters and round-tracked situations by summoning up to two additional minions for every two Victories you have (in addition to the two you normally summon).
+You now start encounters and round-tracked situations by summoning up to two additional minions for every two [Victories](../../Browse/rule/resource/victories.md) you have (in addition to the two you normally summon).
 
-Each of your minions' Stamina improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 5).
+Each of your minions' [Stamina](../../Browse/rule/health/stamina.md) improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a [Stamina](../../Browse/rule/health/stamina.md) boost can treat their [characteristics](../../Browse/rule/character/characteristic.md) as one higher for the purposes of resisting [potencies](../../Browse/rule/character/potency.md) (to a maximum value of 5).
 
 ###### 10th-Level Minion Stamina Increase
 
@@ -2589,23 +2589,23 @@ Each of your minions' Stamina improves as shown on the 10th-Level Minion Stamina
 
 #### Eidos {data-scc="mcdm.summoner.v1/feature.summoner.level-10/eidos"}
 
-You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner's Range.
+You gain an epic resource called eidos. When you take a [respite](../../Browse/rule/resource/respite.md), you gain eidos equal to the [XP](../../Browse/rule/resource/experience.md) you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner's Range.
 
-You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).
+You and your champion also have access to abilities that can be used by spending eidos (see [Their Life for Mine](../../Browse/feature/summoner/level-7/their-life-for-mine.md) and [Portfolio Champion](../../Browse/feature/summoner/level-8/portfolio-champion.md)).
 
 Eidos remains until you spend it.
 
 #### No Matter the Cost {data-scc="mcdm.summoner.v1/feature.summoner.level-10/no-matter-the-cost"}
 
-Whenever you sacrifice minions, you now reduce the cost of a heroic ability or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.
+Whenever you sacrifice minions, you now reduce the cost of a [heroic ability](../../Browse/rule/general/heroic-ability.md) or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.
 
 #### Among Our Ranks {data-scc="mcdm.summoner.v1/feature.summoner.level-10/among-our-ranks"}
 
-As a respite activity, you summon a willing and not-restrained NPC or player ally to join your party, regardless of distance or manifold. The target stays until the start of your next respite or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can't have more than one character summoned in this way.
+As a [respite](../../Browse/rule/resource/respite.md) activity, you summon a willing and not-[restrained](../../Browse/condition/restrained.md) [NPC](../../Browse/rule/general/npc.md) or player ally to join your party, regardless of [distance](../../Browse/rule/combat/distance.md) or manifold. The target stays until the start of your next [respite](../../Browse/rule/resource/respite.md) or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can't have more than one character summoned in this way.
 
 #### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-10/perk"}
 
-You gain an intrigue, interpersonal, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
+You gain an [intrigue](../../Browse/skill/group/intrigue.md), [interpersonal](../../Browse/skill/group/interpersonal.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.
 
 #### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-10/skill"}
 

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a 5th-level summoner, you gain the following features.</p>
+<p>As a 5th-level <a href="../../../../class/summoner/">summoner</a>, you gain the following features.</p>
 </div>
 </section>

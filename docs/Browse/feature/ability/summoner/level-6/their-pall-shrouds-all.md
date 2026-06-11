@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Each target is R &lt; AVERAGE weakened (save ends).</p><p>Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p></div>
+<div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Each target is R &lt; AVERAGE <a href="../../../../../condition/weakened/">weakened</a> (<a href="../../../../../rule/general/saving-throw/">save ends</a>).</p><p>Until the end of the encounter, whenever a target gets a <a href="../../../../../rule/dice/tier-outcome/">tier</a> 1 result on a <a href="../../../../../rule/combat/strike/">strike</a>, they deal half <a href="../../../../../rule/damage/damage/">damage</a>. If a target was striking a creature <a href="../../../../../rule/combat/adjacent/">adjacent</a> to one of their allies, they target their ally instead.</p></div>
 </div>
 </article>

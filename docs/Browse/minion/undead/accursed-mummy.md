@@ -39,14 +39,14 @@ The preserved dead, bound for eternal rest, know only violence when robbed of th
 > |---------------------------|----------------:|
 > | **📏 Melee R** | **🎯 One creature or object per minion** |
 >
-> 3 poison damage; pull R
+> 3 poison [damage](../../rule/damage/damage.md); pull R
 >
-> 4 poison damage; pull R + 1
+> 4 poison [damage](../../rule/damage/damage.md); pull R + 1
 >
-> 6 poison damage; pull R + 2
+> 6 poison [damage](../../rule/damage/damage.md); pull R + 2
 >
-> **Effect:** A target pulled adjacent to the mummy is M < STRONG weakened (EoT).
+> **Effect:** A target pulled [adjacent](../../rule/combat/adjacent.md) to the mummy is M < STRONG [weakened](../../condition/weakened.md) (EoT).
 
 > ⭐️ **Mummy Dust**
 >
-> Whenever the mummy takes damage, each enemy adjacent to the mummy takes 2 poison damage.
+> Whenever the mummy takes [damage](../../rule/damage/damage.md), each enemy [adjacent](../../rule/combat/adjacent.md) to the mummy takes 2 poison [damage](../../rule/damage/damage.md).

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an intrigue, lore, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
+<p>You gain an <a href="../../../../skill/group/intrigue/">intrigue</a>, <a href="../../../../skill/group/lore/">lore</a>, or supernatural <a href="../perk/">perk</a> of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>

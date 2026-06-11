@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain any one perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
+<p>You gain any one <a href="../perk/">perk</a> of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>

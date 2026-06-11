@@ -20,9 +20,9 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your maximum number of minions increases by 4.</p>
-<p>You can increase each of your minions&#39; Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).</p>
-<p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>
+<p>Your maximum number of <a href="../../level-1/minions/">minions</a> increases by 4.</p>
+<p>You can increase each of your <a href="../../level-1/minions/">minions&#39;</a> <a href="../../../../rule/health/stamina/">Stamina</a> as shown on the 4th-Level Minion Stamina Increase table. Additionally, each <a href="../../level-1/minions/">minion</a> that receives a <a href="../../../../rule/health/stamina/">Stamina</a> boost can treat their <a href="../../../../rule/character/characteristic/">characteristics</a> as one higher for the purposes of resisting <a href="../../../../rule/character/potency/">potencies</a> (to a maximum value of 3).</p>
+<p>These benefits are not reflected in the stat blocks of new <a href="../../level-1/minions/">minions</a> you acquire.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

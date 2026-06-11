@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><ul><li>1 charge: You or an ally within your Summoner&#39;s Range can spend a Recovery.</li><li>1 charge: You or an ally within your Summoner&#39;s Range gain a surge.</li><li>2 charges: You call forth a signature minion into an unoccupied space within your Summoner&#39;s Range.</li></ul></div>
+<div class="sc-ability__section-body"><p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><ul><li>1 charge: You or an ally within your Summoner&#39;s Range can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</li><li>1 charge: You or an ally within your Summoner&#39;s Range gain a <a href="../../../../../rule/resource/surge/">surge</a>.</li><li>2 charges: You call forth a signature <a href="../../../../summoner/level-1/minions/">minion</a> into an unoccupied space within your Summoner&#39;s Range.</li></ul></div>
 </div>
 </article>

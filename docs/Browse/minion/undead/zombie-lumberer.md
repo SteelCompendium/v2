@@ -35,8 +35,8 @@ These massive, animated ogre corpses still maintain their incredible grip streng
 
 > ⭐️ **Zombie Clutch**
 >
-> The lumberer's melee free strikes inflict A < AVERAGE grabbed. A creature or object that starts their turn grabbed by the lumberer takes corruption damage equal to your Reason.
+> The lumberer's melee [free strikes](../../feature/common/main-actions/free-strike.md) inflict A < AVERAGE [grabbed](../../condition/grabbed.md). A creature or object that starts their turn [grabbed](../../condition/grabbed.md) by the lumberer takes corruption damage equal to your [Reason](../../rule/character/reason.md).
 
 > ⭐️ **Death Grasp**
 >
-> When the lumberer is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is M < STRONG restrained (EoT).
+> When the lumberer is reduced to 0 [Stamina](../../rule/health/stamina.md), they can latch onto an adjacent enemy before being destroyed. The enemy is M < STRONG [restrained](../../condition/restrained.md) ([EoT](../../rule/combat/end-of-turn.md)).

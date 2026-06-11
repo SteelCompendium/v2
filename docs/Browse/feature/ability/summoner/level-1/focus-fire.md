@@ -2,16 +2,16 @@
 action_type: Triggered
 class: summoner
 distance: Summoner's Range
-effect: The target gains a surge for each of your minions adjacent to them (up to a maximum of 3 surges), which they can use on the triggering damage.
+effect: The target gains a [surge](../../../../rule/resource/surge.md) for each of your minions [adjacent](../../../../rule/combat/adjacent.md) to them (up to a maximum of 3 surges), which they can use on the triggering damage.
 flavor: You ensure the enemy can't escape the incoming attack.
 keywords:
     - —
 level: "1"
 name: Focus Fire!
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/focus-fire
-spend: '1 Essence: If the triggering damage is from an ability that uses a power roll, the power roll gains an edge.'
+spend: '1 Essence: If the triggering damage is from an ability that uses a [power roll](../../../../rule/dice/power-roll.md), the [power roll](../../../../rule/dice/power-roll.md) gains an [edge](../../../../rule/dice/edge.md).'
 target: Self or one ally
-trigger: The target deals damage to another creature.
+trigger: The target deals [damage](../../../../rule/damage/damage.md) to another creature.
 type: ability
 ---
 
@@ -36,11 +36,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target deals damage to another creature.</p></div>
+<div class="sc-ability__section-body"><p>The target deals <a href="../../../../../rule/damage/damage/">damage</a> to another creature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains a surge for each of your minions adjacent to them (up to a maximum of 3 surges), which they can use on the triggering damage.</p></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../../../../rule/resource/surge/">surge</a> for each of your minions <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them (up to a maximum of 3 surges), which they can use on the triggering damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the triggering damage is from an ability that uses a power roll, the power roll gains an edge.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the triggering damage is from an ability that uses a <a href="../../../../../rule/dice/power-roll/">power roll</a>, the <a href="../../../../../rule/dice/power-roll/">power roll</a> gains an <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>

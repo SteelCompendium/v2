@@ -39,18 +39,18 @@ This cherubin creature is bloated and warped by demonic energy. The lights from 
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 7 corruption damage; P < WEAK bleeding (EoT)
+> 7 corruption [damage](../../rule/damage/damage.md); P < WEAK [bleeding](../../condition/bleeding.md) (EoT)
 >
-> 11 corruption damage; P < AVERAGE bleeding (EoT)
+> 11 corruption [damage](../../rule/damage/damage.md); P < AVERAGE [bleeding](../../condition/bleeding.md) (EoT)
 >
-> 16 corruption damage; P < STRONG bleeding (EoT)
+> 16 corruption [damage](../../rule/damage/damage.md); P < STRONG [bleeding](../../condition/bleeding.md) (EoT)
 >
-> **Effect:** Instead of taking damage, you or an ally targeted by this ability impose a double bane on the next strike that targets them.
+> **Effect:** Instead of taking [damage](../../rule/damage/damage.md), you or an ally targeted by this ability impose a double [bane](../../rule/dice/bane.md) on the next [strike](../../rule/combat/strike.md) that targets them.
 
 > ⭐️ **Wilted Wings**
 >
-> The blightling must land on the ground at the end of their turn or fall prone.
+> The blightling must land on the ground at the end of their [turn](../../rule/combat/turn.md) or fall [prone](../../condition/prone.md).
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the blightling can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the blightling can't be hidden from them.

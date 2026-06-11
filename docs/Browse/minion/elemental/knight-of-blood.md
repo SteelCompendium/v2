@@ -35,8 +35,8 @@ These faceless suits of armor have visible rivers of deep red blood flowing thro
 
 > ⭐️ **Scarlet Death**
 >
-> The knight's melee strikes inflict P < STRONG bleeding (save ends). While bleeding this way, the target can't roll lower than a 3 on the die used to resolve bleeding damage.
+> The knight's melee [strikes](../../rule/combat/strike.md) inflict P < STRONG [bleeding](../../condition/bleeding.md) (save ends). While [bleeding](../../condition/bleeding.md) this way, the target can't roll lower than a 3 on the die used to resolve [bleeding](../../condition/bleeding.md) damage.
 
 > ⭐️ **Red River** 2 Essence
 >
-> When the knight is reduced to 0 Stamina, they move up to their speed ignoring opportunity attacks. Each square that they exit during this movement pools with blood until the end of the encounter. Each affected square is considered difficult terrain for enemies and deals 3 corruption damage to an enemy when they first enter it on a turn. Whenever a bleeding enemy starts their turn within 10 squares of the blood pool, they are pulled 2 toward the nearest affected square, ignoring stability.
+> When the knight is reduced to 0 [Stamina](../../rule/health/stamina.md), they move up to their [speed](../../rule/character/speed.md) ignoring [opportunity attacks](../../rule/combat/opportunity-attack.md). Each square that they exit during this movement pools with blood until the end of the encounter. Each affected square is considered [difficult terrain](../../movement/difficult-terrain.md) for enemies and deals 3 corruption [damage](../../rule/damage/damage.md) to an enemy when they first enter it on a [turn](../../rule/combat/turn.md). Whenever a [bleeding](../../condition/bleeding.md) enemy starts their [turn](../../rule/combat/turn.md) within 10 squares of the blood pool, they are pulled 2 toward the nearest affected square, ignoring [stability](../../rule/character/stability.md).

@@ -36,8 +36,8 @@ Shades are a form of umbral stalker that float free from any floor or surface. T
 
 > ⭐️ **Shadow Strike**
 >
-> The stalker shade turns invisible, shifts 3 squares, and reappears after making a strike.
+> The stalker shade turns invisible, [shifts](../../movement/shifting.md) 3 squares, and reappears after making a [strike](../../rule/combat/strike.md).
 
 > ⭐️ **Shadow Phasing**
 >
-> The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being force moved into objects.
+> The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being [force moved](../../movement/forced-movement.md) into objects.

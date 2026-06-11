@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You create a 1-aura vortex of slicing magic around you when you enter combat. An enemy that starts their turn adjacent to you takes damage equal to your Reason.</p>
+<p>You create a 1-<a href="../../../../rule/combat/aura/">aura</a> vortex of slicing magic around you when you enter combat. An enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a>.</p>
 </div>
 </section>

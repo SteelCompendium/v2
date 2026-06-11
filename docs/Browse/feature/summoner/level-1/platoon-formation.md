@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional damage equal to your Reason score.</p>
+<p>Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

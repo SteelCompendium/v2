@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a Reason test:</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a <a href="../../../../rule/character/reason/">Reason</a> <a href="../../../../rule/test/test/">test</a>:</p>
 <ul><li><b>≤11:</b> You learn an undoubtedly false common rumor.</li><li><b>12-16:</b> You learn a common rumor that is most likely true.</li><li><b>17+:</b> You learn an obscure rumor that could either be true or false.</li></ul>
-<p>You gain a bane on the test for each subsequent rumor you collect either on the same day or in the same location.</p>
+<p>You gain a <a href="../../../../rule/dice/bane/">bane</a> on the test for each subsequent rumor you collect either on the same day or in the same location.</p>
 </div>
 </section>

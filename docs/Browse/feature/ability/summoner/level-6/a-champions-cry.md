@@ -10,12 +10,12 @@ keywords:
     - Magic
 level: "6"
 name: A Champion's Cry
-power_roll_characteristic: Reason
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.summoner.v1/feature.ability.summoner.level-6/a-champions-cry
 target: Each enemy in the area
-tier1: 2 psychic or sonic damage; I < WEAK frightened of you (save ends)
-tier2: 5 psychic or sonic damage; I < AVERAGE frightened of you and all allies (EoT)
-tier3: 7 psychic or sonic damage; I < STRONG frightened of you and all allies (save ends)
+tier1: 2 psychic or sonic [damage](../../../../rule/damage/damage.md); I < WEAK [frightened](../../../../condition/frightened.md) of you ([save ends](../../../../rule/general/saving-throw.md))
+tier2: 5 psychic or sonic [damage](../../../../rule/damage/damage.md); I < AVERAGE [frightened](../../../../condition/frightened.md) of you and all allies ([EoT](../../../../rule/combat/end-of-turn.md))
+tier3: 7 psychic or sonic [damage](../../../../rule/damage/damage.md); I < STRONG [frightened](../../../../condition/frightened.md) of you and all allies ([save ends](../../../../rule/general/saving-throw.md))
 type: ability
 ---
 
@@ -39,11 +39,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic or sonic damage; I &lt; WEAK frightened of you (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic or sonic damage; I &lt; AVERAGE frightened of you and all allies (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic or sonic damage; I &lt; STRONG frightened of you and all allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic or sonic <a href="../../../../../rule/damage/damage/">damage</a>; I &lt; WEAK <a href="../../../../../condition/frightened/">frightened</a> of you (<a href="../../../../../rule/general/saving-throw/">save ends</a>)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic or sonic <a href="../../../../../rule/damage/damage/">damage</a>; I &lt; AVERAGE <a href="../../../../../condition/frightened/">frightened</a> of you and all allies (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic or sonic <a href="../../../../../rule/damage/damage/">damage</a>; I &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> of you and all allies (<a href="../../../../../rule/general/saving-throw/">save ends</a>)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

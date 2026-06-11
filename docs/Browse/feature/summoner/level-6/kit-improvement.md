@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can choose one additional ward from your Summoner&#39;s Kit.</p>
-<p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>
+<p>Additionally, whenever you reduce an enemy to 0 <a href="../../../../rule/health/stamina/">Stamina</a> with your <a href="../../../ability/summoner/level-1/summoner-strike/">Summoner Strike</a> ability, you can use <a href="../../../ability/summoner/level-1/call-forth/">Call Forth</a> as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>. Minions summoned this way are unable to act during this <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>

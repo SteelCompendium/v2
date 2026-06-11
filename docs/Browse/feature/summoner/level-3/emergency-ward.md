@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each round you take damage, you can use a free triggered action to shift 1 after the triggering effect resolves and summon a signature minion into the square you left (as long as there is enough space).</p>
+<p>The first time each <a href="../../../../rule/combat/combat-round/">round</a> you take <a href="../../../../rule/damage/damage/">damage</a>, you can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> to <a href="../../../../movement/shifting/">shift</a> 1 after the triggering effect resolves and summon a signature <a href="../../level-1/minions/">minion</a> into the square you left (as long as there is enough space).</p>
 </div>
 </section>

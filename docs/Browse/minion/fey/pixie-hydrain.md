@@ -39,14 +39,14 @@ This pixie flies on a delicate array of vibrant flower petals for wings. The col
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 5 acid damage; M < WEAK weakened (EoT)
+> 5 acid damage; M < WEAK [weakened](../../condition/weakened.md) ([EoT](../../rule/combat/end-of-turn.md))
 >
-> 7 acid damage; M < AVERAGE weakened (EoT)
+> 7 acid damage; M < AVERAGE [weakened](../../condition/weakened.md) ([EoT](../../rule/combat/end-of-turn.md))
 >
-> 9 acid damage; M < STRONG weakened (save ends)
+> 9 acid damage; M < STRONG [weakened](../../condition/weakened.md) (save ends)
 >
-> **Effect:** After the hydrain's squad uses this ability, you or one ally within distance can spend a Recovery or end a condition.
+> **Effect:** After the hydrain's squad uses this ability, you or one ally within distance can spend a [Recovery](../../rule/health/recoveries.md) or end a [condition](../../rule/combat/condition.md).
 
 > ⭐️ **Minuscule**
 >
-> The hydrain has cover while occupying a larger creature's space.
+> The hydrain has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

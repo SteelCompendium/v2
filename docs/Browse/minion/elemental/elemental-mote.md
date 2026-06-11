@@ -37,7 +37,7 @@ This near-pure form of autonomous essence just barely maintains their form. They
 
 > ⭐️ **Dweomer Burst**
 >
-> When the mote is reduced to 0 Stamina, each enemy adjacent to the mote has a bane on their next strike.
+> When the mote is reduced to 0 [Stamina](../../rule/health/stamina.md), each enemy adjacent to the mote has a [bane](../../rule/dice/bane.md) on their next [strike](../../rule/combat/strike.md).
 
 > ⭐️ **Catalyst**
 >

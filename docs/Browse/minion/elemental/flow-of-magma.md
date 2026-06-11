@@ -39,14 +39,14 @@ This elemental is a long, serpentine creature of heated rock. Flows of magma dro
 > |--------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 One creature or object per minion** |
 >
-> 4 fire damage; shift 3
+> 4 fire damage; [shift](../../movement/shifting.md) 3
 >
-> 6 fire damage; shift 4
+> 6 fire damage; [shift](../../movement/shifting.md) 4
 >
-> 8 fire damage; shift 5
+> 8 fire damage; [shift](../../movement/shifting.md) 5
 >
-> **Effect:** Each square that the flow shifts into becomes wreathed in flames until the start of the flow's next turn. An enemy that enters an affected square takes 2 damage.
+> **Effect:** Each square that the flow [shifts](../../movement/shifting.md) into becomes wreathed in flames until the start of the flow's next turn. An enemy that enters an affected square takes 2 damage.
 
 > ⭐️ **Eruption** 1 Essence
 >
-> When the flow is reduced to 0 Stamina, they launch lava into an area equal to 1 + their size within 5 squares. The affected area becomes difficult terrain for enemies until the end of the encounter. An enemy that enters an affected square or starts their turn there takes A < AVERAGE 4 fire damage.
+> When the flow is reduced to 0 [Stamina](../../rule/health/stamina.md), they launch lava into an area equal to 1 + their size within 5 squares. The affected area becomes [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that enters an affected square or starts their turn there takes A < AVERAGE 4 fire damage.

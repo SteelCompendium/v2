@@ -35,8 +35,8 @@ weaknesses:
 
 > ⭐️ **Proboscis Strike**
 >
-> The false vampire's melee free strikes have a distance of 2 and inflict M < 3 restrained (EoT). The false vampire can move the target while they are restrained this way. At the start of a restrained creature's turn, they take 4 acid damage.
+> The false vampire's melee [free strikes](../../../feature/common/main-actions/free-strike.md) have a distance of 2 and inflict M < 3 [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md)). The false vampire can move the target while they are [restrained](../../../condition/restrained.md) this way. At the start of a [restrained](../../../condition/restrained.md) creature's turn, they take 4 acid damage.
 
 > ⭐️ **Bloodthirsty**
 >
-> The false vampire has a speed of 10 while a creature is bleeding within 10.
+> The false vampire has a [speed](../../../rule/character/speed.md) of 10 while a creature is [bleeding](../../../condition/bleeding.md) within 10.

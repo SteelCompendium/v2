@@ -39,12 +39,12 @@ weaknesses:
 > |---------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 5 corruption damage; M < 3 bleeding (EoT)
+> 5 corruption damage; M < 3 [bleeding](../../../condition/bleeding.md) ([EoT](../../../rule/combat/end-of-turn.md))
 >
-> 7 corruption damage; M < 4 bleeding (EoT)
+> 7 corruption damage; M < 4 [bleeding](../../../condition/bleeding.md) ([EoT](../../../rule/combat/end-of-turn.md))
 >
-> 9 corruption damage; M < 5 bleeding (save ends)
+> 9 corruption damage; M < 5 [bleeding](../../../condition/bleeding.md) (save ends)
 
 > ⭐️ **To the Grave**
 >
-> When the grave knight is reduced to 0 Stamina, they can make a melee free strike before being destroyed.
+> When the grave knight is reduced to 0 [Stamina](../../../rule/health/stamina.md), they can make a melee [free strike](../../../feature/common/main-actions/free-strike.md) before being destroyed.

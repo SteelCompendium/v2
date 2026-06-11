@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Summoner's Range
-effect: The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.
+effect: The [minions](../../../summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../../summoner/level-1/minions.md) immediately moves up to their [speed](../../../../rule/character/speed.md) toward a creature or object.
 flavor: Your minions swell with energy until they can no longer exist in this realm.
 keywords:
     - Magic
@@ -47,10 +47,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an opportunity attack, or stop moving, they explode, dealing 2 damage to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions&#39; explosions, the effects stack. These minions activate no effects upon death, and you gain no essence from their deaths.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../summoner/level-1/minions/">minions</a> are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned <a href="../../../../summoner/level-1/minions/">minion</a> immediately moves up to their <a href="../../../../../rule/character/speed/">speed</a> toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an <a href="../../../../../rule/combat/opportunity-attack/">opportunity attack</a>, or stop moving, they explode, dealing 2 <a href="../../../../../rule/damage/damage/">damage</a> to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions&#39; explosions, the effects stack. These <a href="../../../../summoner/level-1/minions/">minions</a> activate no effects upon death, and you gain no <a href="../../../../summoner/level-1/essence/">essence</a> from their deaths.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>In addition to the minions summoned as a part of this ability, you can choose to command any number of your minions within distance, provided they haven&#39;t used a main action or maneuver during the turn.</p></div>
+<div class="sc-ability__section-body"><p>In addition to the <a href="../../../../summoner/level-1/minions/">minions</a> summoned as a part of this ability, you can choose to command any number of your <a href="../../../../summoner/level-1/minions/">minions</a> within distance, provided they haven&#39;t used a main action or maneuver during the <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

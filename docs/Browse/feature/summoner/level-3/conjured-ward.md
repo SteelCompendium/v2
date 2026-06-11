@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You are clad in the natural defenses of your portfolio (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to Stamina and that bonus increases by 3 at 4th, 7th, and 10th levels.</p>
+<p>You are clad in the natural defenses of your <a href="../../level-1/portfolio/">portfolio</a> (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to <a href="../../../../rule/health/stamina/">Stamina</a> and that bonus increases by 3 at 4th, 7th, and 10th levels.</p>
 </div>
 </section>

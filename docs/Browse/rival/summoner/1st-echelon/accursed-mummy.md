@@ -37,14 +37,14 @@ weaknesses:
 > |---------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 One creature or object per minion** |
 >
-> 3 poison damage; pull 2
+> 3 poison damage; [pull](../../../movement/forced-movement.md) 2
 >
-> 4 poison damage; pull 3
+> 4 poison damage; [pull](../../../movement/forced-movement.md) 3
 >
-> 6 poison damage; pull 4
+> 6 poison damage; [pull](../../../movement/forced-movement.md) 4
 >
-> **Effect:** A target pulled adjacent to the mummy is M < 2 weakened (EoT).
+> **Effect:** A target pulled [adjacent](../../../rule/combat/adjacent.md) to the mummy is M < 2 [weakened](../../../condition/weakened.md) ([EoT](../../../rule/combat/end-of-turn.md)).
 
 > ⭐️ **Mummy Dust**
 >
-> Whenever the mummy takes damage, each enemy adjacent to the mummy takes 2 poison damage.
+> Whenever the mummy takes damage, each enemy [adjacent](../../../rule/combat/adjacent.md) to the mummy takes 2 poison damage.

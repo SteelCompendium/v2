@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and your undead minions don&#39;t spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.</p>
+<p>You and your undead <a href="../../level-1/minions/">minions</a> don&#39;t spend additional <a href="../../../../rule/character/speed/">speed</a> to move through <a href="../../../../movement/difficult-terrain/">difficult terrain</a>. If one or more of your undead <a href="../../level-1/minions/">minions</a> would die while using their move action, they can choose to not die until the end of your <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>

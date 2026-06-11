@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium Reason test, where failure or consequence breaks your connection with the corpse permanently.</p>
+<p>You can touch the corpse of a creature who died within the past week and ask them a question. The corpse can choose to answer the question to the best of their ability. Each additional question you ask the corpse requires a medium <a href="../../../../rule/character/reason/">Reason</a> <a href="../../../../rule/test/test/">test</a>, where failure or consequence breaks your connection with the corpse permanently.</p>
 <p>The corpse can also choose to refuse to answer or lie, especially if you were the one to kill them in the first place.</p>
 </div>
 </section>
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever one of your demon minions would die unwillingly, they can deal damage to an adjacent creature equal to their free strike value before dying.</p>
+<p>Whenever one of your demon minions would die unwillingly, they can deal <a href="../../../../rule/damage/damage/">damage</a> to an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature equal to their <a href="../../../common/main-actions/free-strike/">free strike</a> value before dying.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use Call Forth to summon one or more non-signature elemental minions, you can summon one bonus signature minion at no cost. You can choose between a signature minion that shares an Element keyword with the minions you summoned (such as Fire, Earth, or Air) or an elemental mote.</p>
+<p>Whenever you use <a href="../../../ability/summoner/level-1/call-forth/">Call Forth</a> to summon one or more non-signature elemental minions, you can summon one bonus signature minion at no cost. You can choose between a signature minion that shares an Element keyword with the minions you summoned (such as Fire, Earth, or Air) or an elemental mote.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -74,9 +74,9 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a Reason test:</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a <a href="../../../../rule/character/reason/">Reason</a> <a href="../../../../rule/test/test/">test</a>:</p>
 <ul><li><b>≤11:</b> You learn an undoubtedly false common rumor.</li><li><b>12-16:</b> You learn a common rumor that is most likely true.</li><li><b>17+:</b> You learn an obscure rumor that could either be true or false.</li></ul>
-<p>You gain a bane on the test for each subsequent rumor you collect either on the same day or in the same location.</p>
+<p>You gain a <a href="../../../../rule/dice/bane/">bane</a> on the test for each subsequent rumor you collect either on the same day or in the same location.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -87,7 +87,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any Intuition test made to socially interact with them.</p>
+<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any <a href="../../../../rule/character/intuition/">Intuition</a> <a href="../../../../rule/test/test/">test</a> made to socially interact with them.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -98,8 +98,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Increase your number of Recoveries by 2.</p>
-<p>Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>
+<p>Increase your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> by 2.</p>
+<p>Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to give <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score to each non-minion ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to the minion when they died.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -110,8 +110,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once per round, when a creature dies unwillingly within your Summoner&#39;s Range, you can use a triggered action to summon a signature undead minion in their space at no cost, even if you&#39;re at your minion maximum, but only if they can be organized into one of your squads. The new minion can&#39;t act until the start of your next turn.</p>
-<p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>
+<p>Once per <a href="../../../../rule/combat/combat-round/">round</a>, when a creature dies unwillingly within your Summoner&#39;s Range, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to summon a signature undead minion in their space at no cost, even if you&#39;re at your minion maximum, but only if they can be organized into one of your squads. The new minion can&#39;t act until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
+<p>This ability becomes a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> if the target was a minion (either yours or an enemy).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -122,8 +122,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p>
-<p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>
+<p>While you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p>
+<p>When you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can always perceive the soul trails of each creature that took the <a href="../../../../rule/resource/respite/">respite</a> with you until your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 </div>

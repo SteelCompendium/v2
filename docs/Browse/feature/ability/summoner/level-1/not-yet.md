@@ -2,7 +2,7 @@
 action_type: Triggered
 class: summoner
 distance: Summoner's Range
-effect: The damage the target receives is reduced by an amount that leaves the target alive with 1 point of Stamina.
+effect: The [damage](../../../../rule/damage/damage.md) the target receives is reduced by an amount that leaves the target alive with 1 point of [Stamina](../../../../rule/health/stamina.md).
 flavor: I command you to not die.
 keywords:
     - —
@@ -43,6 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The damage the target receives is reduced by an amount that leaves the target alive with 1 point of Stamina.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../rule/damage/damage/">damage</a> the target receives is reduced by an amount that leaves the target alive with 1 point of <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>

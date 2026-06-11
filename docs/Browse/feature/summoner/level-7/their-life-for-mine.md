@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If you or an ally within your Summoner&#39;s Range would die from an effect that isn&#39;t age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a free triggered action to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 Stamina plus 1 Stamina for each minion and essence used in the effect. You must have at least one fragment of the creature&#39;s remains, and the creature&#39;s soul must be willing to return to life for the effect to work.</p>
-<p>You can&#39;t use this feature again until you gain a new level, or until you spend 3 eidos to use it (see Eidos).</p>
+<p>If you or an ally within your Summoner&#39;s Range would <a href="../../../../rule/health/dying/">die</a> from an effect that isn&#39;t age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 <a href="../../../../rule/health/stamina/">Stamina</a> plus 1 <a href="../../../../rule/health/stamina/">Stamina</a> for each minion and essence used in the effect. You must have at least one fragment of the creature&#39;s remains, and the creature&#39;s soul must be willing to return to life for the effect to work.</p>
+<p>You can&#39;t use this feature again until you gain a new level, or until you spend 3 eidos to use it (see <a href="../../level-10/eidos/">Eidos</a>).</p>
 </div>
 </section>

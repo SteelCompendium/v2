@@ -47,7 +47,7 @@ weaknesses:
 > |---------------------------|----------------:|
 > | **📏 Ranged 10** | **🎯 One creature or object** |
 >
-> **Effect:** Each of the summoner's minions within 5 squares of the target makes a free strike against the target. The target takes an additional 5 damage for each of the summoner's squads that joined the attack.
+> **Effect:** Each of the summoner's minions within 5 squares of the target makes a [free strike](../../../feature/common/main-actions/free-strike.md) against the target. The target takes an additional 5 damage for each of the summoner's squads that joined the attack.
 
 > 🏹 **Call Forth (1+ Malice)**
 >
@@ -63,10 +63,10 @@ weaknesses:
 > |-------|---------------------:|
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Trigger:** The target is targeted by a strike.
+> **Trigger:** The target is targeted by a [strike](../../../rule/combat/strike.md).
 >
-> **Effect:** The summoner summons a **grave knight** into an unoccupied space adjacent to the target. They become the new target of the strike. The target can shift into any square adjacent to the minion.
+> **Effect:** The summoner summons a **grave knight** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target. They become the new target of the strike. The target can [shift](../../../movement/shifting.md) into any square [adjacent](../../../rule/combat/adjacent.md) to the minion.
 
 > ⭐️ **Rivalry (With All of Us)**
 >
-> At the start of an encounter, the summoner chooses one creature within their line of effect. Both the summoner and the creature can add a d3 roll to power rolls they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 5 damage.
+> At the start of an encounter, the summoner chooses one creature within their [line of effect](../../../rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../../rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 5 damage.

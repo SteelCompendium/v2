@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each of your minions have their Stamina increased by 3 and their stability increased by 1.</p>
+<p>Each of your minions have their <a href="../../../../rule/health/stamina/">Stamina</a> increased by 3 and their <a href="../../../../rule/character/stability/">stability</a> increased by 1.</p>
 </div>
 </section>

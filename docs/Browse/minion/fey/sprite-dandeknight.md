@@ -38,8 +38,8 @@ Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. T
 
 > ⭐️ **Staccato Swings**
 >
-> When the dandeknight makes a free strike, they can make two free strikes instead. The damage is added together and treated as a single strike if both strikes hit the same target.
+> When the dandeknight makes a [free strike](../../feature/common/main-actions/free-strike.md), they can make two [free strikes](../../feature/common/main-actions/free-strike.md) instead. The damage is added together and treated as a single [strike](../../rule/combat/strike.md) if both strikes hit the same target.
 
 > ⭐️ **Minuscule**
 >
-> The dandeknight has cover while occupying a larger creature's space.
+> The dandeknight has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.

@@ -161,7 +161,7 @@
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The tail of a size 3 or larger rattlesnake</div>
+  <div class="sc-card__line"><b>Prerequisite</b> The tail of a <a href="../../../rule/character/size/">size</a> 3 or larger rattlesnake</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
 </div>
 <div class="sc-card sc-fil">

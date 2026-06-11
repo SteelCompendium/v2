@@ -105,7 +105,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Delegator</div></div></div>
   <div class="sc-card__flavor">They&#39;re all yours, buddy.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a summoner, and you strike a deal with your portfolio&#39;s champion.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a [summoner](../class/summoner.md), and you strike a deal with your [portfolio&#39;s](../feature/summoner/level-1/portfolio.md) champion.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="demigod/" aria-label="Demigod"></a>
@@ -248,7 +248,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">High Summoner of the Circle</div></div></div>
   <div class="sc-card__flavor">As I was taught, so I pass on to you.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a summoner, and you teach someone how to call forth two or more minions from your portfolio.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a [summoner](../class/summoner.md), and you teach someone how to call forth two or more minions from your [portfolio](../feature/summoner/level-1/portfolio.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="knight/" aria-label="Knight"></a>
@@ -384,7 +384,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Ringleader</div></div></div>
   <div class="sc-card__flavor">Don&#39;t worry. I&#39;ve got a guy.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete three downtime projects during the same respite with the help of followers or minions.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete three downtime projects during the same [respite](../rule/resource/respite.md) with the help of [followers](../rule/general/follower.md) or minions.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="safeguarded/" aria-label="Safeguarded"></a>
@@ -455,7 +455,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Summoner Successor</div></div></div>
   <div class="sc-card__flavor">When their leader fell, they started listening to me for some reason.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can&#39;t use the Call Forth ability, and you defeat a leader or solo creature with a Summon or Call Forth ability, such as a high elf ordinator.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can&#39;t use the [Call Forth](../feature/ability/summoner/level-1/call-forth.md) ability, and you defeat a leader or solo creature with a Summon or Call Forth ability, such as a [high elf](../ancestry/high-elf.md) ordinator.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="sworn-hunter/" aria-label="Sworn Hunter"></a>

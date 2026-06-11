@@ -20,15 +20,15 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a Reason of 2, and you can choose one of the following arrays for your other characteristics scores:</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a <a href="../../../../rule/character/reason/">Reason</a> of 2, and you can choose one of the following arrays for your other <a href="../../../../rule/character/characteristic/">characteristics</a> scores:</p>
 <ul><li>2, 2, −1, −1</li><li>2, 1, 1, −1</li><li>2, 1, 0, 0</li><li>1, 1, 1, 0</li></ul>
-<p><b>Weak Potency:</b> Reason − 2</p>
-<p><b>Average Potency:</b> Reason − 1</p>
-<p><b>Strong Potency:</b> Reason</p>
-<p><b>Starting Stamina at 1st Level:</b> 15</p>
-<p><b>Stamina Gained at 2nd and Higher Levels:</b> 6</p>
-<p><b>Recoveries:</b> 8</p>
-<p><b>Skills:</b> You gain the Magic and Strategy skills and can choose any two skills from the intrigue or lore skill groups. (<em>Quick Build:</em> Eavesdrop, Magic, Monsters, Strategy.)</p>
+<p><b>Weak <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> − 2</p>
+<p><b>Average <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> − 1</p>
+<p><b>Strong <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a></p>
+<p><b>Starting <a href="../../../../rule/health/stamina/">Stamina</a> at 1st Level:</b> 15</p>
+<p><b><a href="../../../../rule/health/stamina/">Stamina</a> Gained at 2nd and Higher Levels:</b> 6</p>
+<p><b><a href="../../../../rule/health/recoveries/">Recoveries</a>:</b> 8</p>
+<p><b>Skills:</b> You gain the <a href="../../../../skill/lore/magic/">Magic</a> and <a href="../../../../skill/lore/strategy/">Strategy</a> skills and can choose any two skills from the <a href="../../../../skill/group/intrigue/">intrigue</a> or <a href="../../../../skill/group/lore/">lore</a> skill groups. (<em>Quick Build:</em> <a href="../../../../skill/intrigue/eavesdrop/">Eavesdrop</a>, <a href="../../../../skill/lore/magic/">Magic</a>, <a href="../../../../skill/lore/monsters/">Monsters</a>, <a href="../../../../skill/lore/strategy/">Strategy</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

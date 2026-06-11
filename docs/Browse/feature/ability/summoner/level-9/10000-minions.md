@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Special
-effect: Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes 5 damage. This damage can't be reduced.
+effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each square on the ground is considered teeming with minions. An enemy that ends their [turn](../../../../rule/combat/turn.md) in an affected square takes 5 [damage](../../../../rule/damage/damage.md). This [damage](../../../../rule/damage/damage.md) can't be reduced.
 flavor: The battle is now a war. Your entire army storms the field.
 keywords:
     - Magic
@@ -34,6 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes 5 damage. This damage can&#39;t be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or you are <a href="../../../../../rule/health/dying/">dying</a>, each square on the ground is considered teeming with minions. An enemy that ends their <a href="../../../../../rule/combat/turn/">turn</a> in an affected square takes 5 <a href="../../../../../rule/damage/damage/">damage</a>. This <a href="../../../../../rule/damage/damage/">damage</a> can&#39;t be reduced.</p><p>Additionally, you can use <a href="../../level-1/minion-bridge/">Minion Bridge</a> treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p></div>
 </div>
 </article>

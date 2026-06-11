@@ -37,8 +37,8 @@ A false vampire is a bestial, bipedal ghoul that draws life from liquified remai
 
 > ⭐️ **Proboscis Strike**
 >
-> The false vampire's melee free strikes have a distance of 2 and inflict M < AVERAGE restrained (EoT). The false vampire can move the target while they are restrained this way. At the start of a restrained creature's turn, they take acid damage equal to your Reason.
+> The false vampire's melee [free strikes](../../feature/common/main-actions/free-strike.md) have a distance of 2 and inflict M < AVERAGE [restrained](../../condition/restrained.md) (EoT). The false vampire can move the target while they are [restrained](../../condition/restrained.md) this way. At the start of a [restrained](../../condition/restrained.md) creature's [turn](../../rule/combat/turn.md), they take acid [damage](../../rule/damage/damage.md) equal to your [Reason](../../rule/character/reason.md).
 
 > ⭐️ **Bloodthirsty**
 >
-> The false vampire has a speed of 10 while a creature is bleeding within 10.
+> The false vampire has a [speed](../../rule/character/speed.md) of 10 while a creature is [bleeding](../../condition/bleeding.md) within 10.

@@ -39,14 +39,14 @@ It's difficult to identify the base nature of a vicisittante apart from an ever-
 > |----------------------------|----------------:|
 > | **📏 Melee 1** | **🎯 One creature or object per minion** |
 >
-> 7 psychic damage; P < WEAK weakened (save ends)
+> 7 psychic [damage](../../rule/damage/damage.md); P < WEAK [weakened](../../condition/weakened.md) (save ends)
 >
-> 11 psychic damage; P < AVERAGE weakened (save ends)
+> 11 psychic [damage](../../rule/damage/damage.md); P < AVERAGE [weakened](../../condition/weakened.md) (save ends)
 >
-> 16 psychic damage; P < STRONG weakened (save ends)
+> 16 psychic [damage](../../rule/damage/damage.md); P < STRONG [weakened](../../condition/weakened.md) (save ends)
 >
-> **Effect:** A target weakened by this ability is always considered flanked by the vicisittante regardless of position until the condition ends.
+> **Effect:** A target [weakened](../../condition/weakened.md) by this ability is always considered [flanked](../../rule/combat/flanking.md) by the vicisittante regardless of position until the [condition](../../rule/combat/condition.md) ends.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the vicisittante can't be hidden from them.
+> Each creature [adjacent](../../rule/combat/adjacent.md) to the vicisittante can't be hidden from them.

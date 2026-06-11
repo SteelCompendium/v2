@@ -35,12 +35,12 @@ The desolations have vaguely humanoid sand forms with no legs. Their glass hose 
 
 > ⭐️ **Burying Strike**
 >
-> The desolation's free strikes inflict M < AVERAGE slowed (save ends). If the target is already slowed, then they are M < STRONG restrained (EoT).
+> The desolation's [free strikes](../../feature/common/main-actions/free-strike.md) inflict M < AVERAGE [slowed](../../condition/slowed.md) (save ends). If the target is already [slowed](../../condition/slowed.md), then they are M < STRONG [restrained](../../condition/restrained.md) ([EoT](../../rule/combat/end-of-turn.md)).
 
 > ⭐️ **Sand Through Your Fingers**
 >
-> The desolation doesn't provoke opportunity attacks by moving.
+> The desolation doesn't provoke [opportunity attacks](../../rule/combat/opportunity-attack.md) by moving.
 
 > ⭐️ **Shifting Sand Pit** 1 Essence
 >
-> When the desolation is reduced to 0 Stamina, the area within 1 square of the desolation becomes difficult terrain for enemies until the end of the encounter. You or an ally that enters the affected area can immediately shift 3.
+> When the desolation is reduced to 0 [Stamina](../../rule/health/stamina.md), the area within 1 square of the desolation becomes [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. You or an ally that enters the affected area can immediately [shift](../../movement/shifting.md) 3.

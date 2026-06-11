@@ -35,12 +35,12 @@ These massive clods of animated stone roll upon smaller piles of rocks that coul
 
 > ⭐️ **Obstruct**
 >
-> The boulder obstructs line of effect for enemies.
+> The boulder obstructs [line of effect](../../rule/combat/line-of-effect.md) for enemies.
 
 > ⭐️ **Pile Up** 1 Essence
 >
-> When one or more boulders is reduced to 0 Stamina, they each leave behind a stone wall equal to their size in their space until the end of the encounter.
+> When one or more boulders is reduced to 0 [Stamina](../../rule/health/stamina.md), they each leave behind a stone [wall](../../rule/combat/wall.md) equal to their size in their space until the end of the encounter.
 
 > **Traits with an Essence Cost**
 >
-> Some minion stat blocks have traits that can only be activated if you spend the heroic resource listed in the top corner of the trait. For example, when a crux of ash is reduced to 0 Stamina, you can spend 1 essence to use their Ashen Cloud trait.
+> Some minion stat blocks have traits that can only be activated if you spend the [heroic resource](../../rule/resource/heroic-resource.md) listed in the top corner of the trait. For example, when a crux of ash is reduced to 0 [Stamina](../../rule/health/stamina.md), you can spend 1 essence to use their Ashen Cloud trait.

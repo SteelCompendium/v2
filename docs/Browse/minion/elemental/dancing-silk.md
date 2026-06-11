@@ -34,8 +34,8 @@ The silks are akin to baby spiders ballooning through the air on strands of webb
 
 > ⭐️ **Entangling Strike**
 >
-> The silk's ranged free strikes inflict A < AVERAGE restrained (EoT). Each creature adjacent to the target is A < WEAK slowed (EoT).
+> The silk's ranged [free strikes](../../feature/common/main-actions/free-strike.md) inflict A < AVERAGE [restrained](../../condition/restrained.md) (EoT). Each creature [adjacent](../../rule/combat/adjacent.md) to the target is A < WEAK [slowed](../../condition/slowed.md) (EoT).
 
 > ⭐️ **Web** 1 Essence
 >
-> When the silk is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is M < STRONG slowed (EoT).
+> When the silk is reduced to 0 [Stamina](../../rule/health/stamina.md), they launch ribbons of webbing into an area equal to their [size](../../rule/character/size.md) + 1 within 5 before being destroyed. The affected area is considered [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../rule/combat/turn.md) in the webbing is M < STRONG [slowed](../../condition/slowed.md) (EoT).

@@ -44,8 +44,8 @@ The bengrul is an undulating heap of glass and flesh. They shatter pieces of the
 >
 > 8 damage; P < STRONG twisted (save ends)
 >
-> **Effect:** A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.
+> **Effect:** A twisted target can't take advantage of [edges](../../rule/dice/edge.md) or [search for hidden creatures](../../feature/common/maneuvers/search-for-hidden-creatures.md) until the condition ends.
 
 > ⭐️ **Soulsight**
 >
-> Each creature adjacent to the ensnarer can't be hidden from them.
+> Each creature adjacent to the ensnarer can't be [hidden](../../feature/common/maneuvers/hide.md) from them.

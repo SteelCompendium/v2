@@ -53,7 +53,7 @@ weaknesses:
 >
 > 14 corruption damage
 >
-> **Effect:** The summoner summons a **skeleton** into an unoccupied space adjacent to the target.
+> **Effect:** The summoner summons a **skeleton** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target.
 
 > 🏹 **Call Forth (1+ Malice)**
 >
@@ -69,12 +69,12 @@ weaknesses:
 > |-------|---------------------:|
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Trigger:** The target is targeted by a strike
+> **Trigger:** The target is targeted by a [strike](../../../rule/combat/strike.md)
 >
-> **Effect:** If one of the summoner's minions is adjacent to the target and is within distance of the strike, they become the new target of the strike. The original target can shift into any square adjacent to the minion.
+> **Effect:** If one of the summoner's minions is [adjacent](../../../rule/combat/adjacent.md) to the target and is within distance of the [strike](../../../rule/combat/strike.md), they become the new target of the strike. The original target can [shift](../../../movement/shifting.md) into any square [adjacent](../../../rule/combat/adjacent.md) to the minion.
 >
-> **2 Malice:** Instead of commanding an existing minion, the summoner summons a **skeleton** into an unoccupied space adjacent to the target to take the strike.
+> **2 Malice:** Instead of commanding an existing minion, the summoner summons a **skeleton** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target to take the strike.
 
 > ⭐️ **Rivalry (With All of Us)**
 >
-> At the start of an encounter, the summoner chooses one creature within their line of effect. Both the summoner and the creature can add a d3 roll to power rolls they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 3 damage.
+> At the start of an encounter, the summoner chooses one creature within their [line of effect](../../../rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../../rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 3 damage.

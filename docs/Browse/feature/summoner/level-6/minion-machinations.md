@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your maximum number of followers increases by 2.</p>
-<p>You can summon and recruit an artisan follower and a sage follower that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle&#39;s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers&#39; stats.</p>
+<p>Your maximum number of <a href="../../../../rule/general/follower/">followers</a> increases by 2.</p>
+<p>You can summon and recruit an artisan <a href="../../../../rule/general/follower/">follower</a> and a sage <a href="../../../../rule/general/follower/">follower</a> that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle&#39;s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers&#39; stats.</p>
 </div>
 </section>

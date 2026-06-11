@@ -40,14 +40,14 @@ This elemental is a pure-white vulpine with six legs that freely sprints through
 > |---------------------------|----------------:|
 > | **📏 Ranged 5** | **🎯 One creature or object per minion** |
 >
-> 4 cold damage; M < WEAK slowed (EoT)
+> 4 cold [damage](../../rule/damage/damage.md); M < WEAK [slowed](../../condition/slowed.md) (EoT)
 >
-> 6 cold damage; M < AVERAGE slowed (EoT)
+> 6 cold [damage](../../rule/damage/damage.md); M < AVERAGE [slowed](../../condition/slowed.md) (EoT)
 >
-> 8 cold damage; M < STRONG speed is 0 (EoT)
+> 8 cold [damage](../../rule/damage/damage.md); M < STRONG speed is 0 (EoT)
 >
-> **Effect:** Frost slows the enemy down, allowing one ally adjacent to each target to shift 2 and either hide or defend.
+> **Effect:** Frost slows the enemy down, allowing one ally [adjacent](../../rule/combat/adjacent.md) to each target to [shift](../../movement/shifting.md) 2 and either [hide](../../feature/common/maneuvers/hide.md) or [defend](../../feature/common/main-actions/defend.md).
 
 > ⭐️ **Cold Surge**
 >
-> When the quiet is reduced to 0 Stamina, they launch a refreshing blast of air into an area equal to their size + 1 within 5 before being destroyed. Each ally in the affected area gains a surge.
+> When the quiet is reduced to 0 [Stamina](../../rule/health/stamina.md), they launch a refreshing blast of air into an area equal to their [size](../../rule/character/size.md) + 1 within 5 before being destroyed. Each ally in the affected area gains a [surge](../../rule/resource/surge.md).

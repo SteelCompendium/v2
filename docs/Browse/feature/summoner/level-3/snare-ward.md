@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever an adjacent creature deals damage to you, you can use a free triggered action to pull that creature toward one of your minions within your Summoner&#39;s Range a number of squares equal to your Reason score.</p>
+<p>Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals <a href="../../../../rule/damage/damage/">damage</a> to you, you can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> to pull that creature toward one of your <a href="../../level-1/minions/">minions</a> within your Summoner&#39;s Range a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

@@ -34,41 +34,41 @@ weaknesses:
 
 Stamina: Your maximum Stamina
 
-> 🏹 **Culling Scythe 2d10 + 5 (Signature Ability)**
+> 🏹 **Culling Scythe 2d10 + 5 ([Signature Ability](../../rule/combat/signature-ability.md))**
 >
 > | **Melee, Strike, Weapon** | **Main action** |
 > |---------------------------|----------------:|
 > | **📏 Melee 2** | **🎯 Two creatures or objects** |
 >
-> 9 corruption damage; M < WEAK bleeding (save ends)
+> 9 corruption [damage](../../rule/damage/damage.md); M < WEAK [bleeding](../../condition/bleeding.md) ([save ends](../../rule/general/saving-throw.md))
 >
-> 12 corruption damage; M < AVERAGE bleeding (save ends)
+> 12 corruption [damage](../../rule/damage/damage.md); M < AVERAGE [bleeding](../../condition/bleeding.md) ([save ends](../../rule/general/saving-throw.md))
 >
-> 14 corruption damage; M < STRONG bleeding (save ends)
+> 14 corruption [damage](../../rule/damage/damage.md); M < STRONG [bleeding](../../condition/bleeding.md) ([save ends](../../rule/general/saving-throw.md))
 >
-> **Effect:** If the target is a creature that isn't a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.
+> **Effect:** If the target is a creature that isn't a leader or a solo and they are still [bleeding](../../condition/bleeding.md) at the end of the encounter, they instantly die.
 
 > ⭐️ **Revelation Strike**
 >
-> The Avatar's melee free strikes P < WEAK instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.
+> The Avatar's melee [free strikes](../../feature/common/main-actions/free-strike.md) P < WEAK instantly reduce a [winded](../../rule/health/winded.md) non-leader or solo creature to 0 [Stamina](../../rule/health/stamina.md), including targets [winded](../../rule/health/winded.md) by the [strike](../../rule/combat/strike.md).
 
 > ⭐️ **Champion's Ire**
 >
-> If the Avatar only targets one creature or object with a strike, they deal additional damage to the target equal to your Reason.
+> If the Avatar only targets one creature or object with a [strike](../../rule/combat/strike.md), they deal additional [damage](../../rule/damage/damage.md) to the target equal to your [Reason](../../rule/character/reason.md).
 
 > ❗️ **Dust and Rot**
 >
-> | **Area** | **Free triggered action** |
+> | **Area** | **[Free triggered action](../../rule/combat/triggered-action.md)** |
 > |----------|---------------------------:|
 > | **📏 1 burst** | **🎯 Each enemy in the burst** |
 >
-> **Trigger:** The Avatar takes damage.
+> **Trigger:** The Avatar takes [damage](../../rule/damage/damage.md).
 >
-> **Effect:** M < AVERAGE weakened (EoT).
+> **Effect:** M < AVERAGE [weakened](../../condition/weakened.md) ([EoT](../../rule/combat/end-of-turn.md)).
 
 > ⭐️ **Drifting Spirit**
 >
-> The Avatar is unaffected by difficult terrain and damage from forced movement.
+> The Avatar is unaffected by [difficult terrain](../../movement/difficult-terrain.md) and [damage](../../rule/damage/damage.md) from [forced movement](../../movement/forced-movement.md).
 
 > **Level 10 Champion Advancement Feature**
 >
@@ -84,4 +84,4 @@ Stamina: Your maximum Stamina
 >
 > **Champion Action**
 >
-> **Effect:** 9 holy damage. Each target is vertically pulled a number of squares equal to their size straight down, ignoring stability. If the target would be force moved into the ground, they are buried beneath the ground instead.
+> **Effect:** 9 holy [damage](../../rule/damage/damage.md). Each target is vertically [pulled](../../movement/forced-movement.md) a number of squares equal to their [size](../../rule/character/size.md) straight down, ignoring [stability](../../rule/character/stability.md). If the target would be [force moved](../../movement/forced-movement.md) into the ground, they are buried beneath the ground instead.

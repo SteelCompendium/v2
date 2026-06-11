@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Melee 1 or Ranged 5
-effect: R damage. If the target has R < WEAK, they are slowed (save ends).
+effect: R [damage](../../../../rule/damage/damage.md). If the target has R < WEAK, they are [slowed](../../../../condition/slowed.md) (save ends).
 flavor: A sudden burst of energy erupts from your implement and shocks your foes' nerves.
 keywords:
     - Magic
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>R damage. If the target has R &lt; WEAK, they are slowed (save ends).</p></div>
+<div class="sc-ability__section-body"><p>R <a href="../../../../../rule/damage/damage/">damage</a>. If the target has R &lt; WEAK, they are <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability has the Charge keyword when it&#39;s used as a melee strike.</p></div>
+<div class="sc-ability__section-body"><p>This ability has the Charge keyword when it&#39;s used as a melee <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

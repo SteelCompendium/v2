@@ -2,7 +2,7 @@
 action_type: Main action
 class: summoner
 distance: Melee 3
-effect: This strike deals an additional 2 damage for each ally adjacent to you.
+effect: This [strike](../../../../rule/combat/strike.md) deals an additional 2 [damage](../../../../rule/damage/damage.md) for each ally [adjacent](../../../../rule/combat/adjacent.md) to you.
 flavor: You draw your strength from the army you surround yourself with and summon a hot blade of energy and fervor.
 keywords:
     - Magic
@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This strike deals an additional 2 damage for each ally adjacent to you.</p></div>
+<div class="sc-ability__section-body"><p>This <a href="../../../../../rule/combat/strike/">strike</a> deals an additional 2 <a href="../../../../../rule/damage/damage/">damage</a> for each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
 </div>
 </article>

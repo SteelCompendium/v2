@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once during your turn, you can use a free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you&#39;re at your minion maximum. You can&#39;t use this feature if it would kill one or more of the minions in the squad.</p>
+<p>Once during your <a href="../../../../rule/combat/turn/">turn</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to deal <a href="../../../../rule/damage/damage/">damage</a> to one of your elemental <a href="../../level-1/minions/">minions</a> equal to half their maximum <a href="../../../../rule/health/stamina/">Stamina</a> in order to create one additional copy of that <a href="../../level-1/minions/">minion</a> in an <a href="../../../../rule/combat/adjacent/">adjacent</a> unoccupied space and add them to their squad, even if you&#39;re at your minion maximum. You can&#39;t use this feature if it would kill one or more of the <a href="../../level-1/minions/">minions</a> in the squad.</p>
 </div>
 </section>

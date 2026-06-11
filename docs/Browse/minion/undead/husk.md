@@ -36,4 +36,4 @@ Husks have stiff corpses that snap and crackle with each sudden movement. Corros
 
 > ⭐️ **Rotting Strike**
 >
-> The husk's melee free strikes inflict M < WEAK slowed (EoT). The potency increases by 1 for each additional husk adjacent to the target (maximum +2).
+> The husk's melee [free strikes](../../feature/common/main-actions/free-strike.md) inflict M < WEAK [slowed](../../condition/slowed.md) ([EoT](../../rule/combat/end-of-turn.md)). The [potency](../../rule/character/potency.md) increases by 1 for each additional husk adjacent to the target (maximum +2).

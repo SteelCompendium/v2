@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any Intuition test made to socially interact with them.</p>
+<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any <a href="../../../../rule/character/intuition/">Intuition</a> <a href="../../../../rule/test/test/">test</a> made to socially interact with them.</p>
 </div>
 </section>

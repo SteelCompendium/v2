@@ -51,7 +51,7 @@ weaknesses:
 >
 > 8 corruption damage
 >
-> 11 corruption damage; R < 2 slowed (save ends)
+> 11 corruption damage; R < 2 [slowed](../../../condition/slowed.md) (save ends)
 
 > 🏹 **Call Forth (1+ Malice)**
 >
@@ -67,12 +67,12 @@ weaknesses:
 > |-------|---------------------:|
 > | **📏 Ranged 10** | **🎯 Self or one ally** |
 >
-> **Trigger:** The target is targeted by a strike.
+> **Trigger:** The target is targeted by a [strike](../../../rule/combat/strike.md).
 >
-> **Effect:** If one of the summoner's minions is adjacent to the target and is within distance of the strike, they become the new target of the strike.
+> **Effect:** If one of the summoner's minions is [adjacent](../../../rule/combat/adjacent.md) to the target and is within distance of the [strike](../../../rule/combat/strike.md), they become the new target of the strike.
 >
-> **2 Malice:** Instead of commanding an existing minion, the summoner summons a **skeleton** into an unoccupied space adjacent to the target to take the strike.
+> **2 Malice:** Instead of commanding an existing minion, the summoner summons a **skeleton** into an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the target to take the strike.
 
 > ⭐️ **Rivalry (With All of Us)**
 >
-> At the start of an encounter, the summoner chooses one creature within their line of effect. Both the summoner and the creature can add a d3 roll to power rolls they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 2 damage.
+> At the start of an encounter, the summoner chooses one creature within their [line of effect](../../../rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../../rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 2 damage.

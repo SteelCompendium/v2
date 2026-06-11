@@ -35,12 +35,12 @@ Corallias are saltwater nixies with coarse, coral-like skin and curly hair with 
 
 > ⭐️ **Water Weird**
 >
-> Once per turn during their move action, each nixie under your control can teleport to a body of water within 6. The corallia can't teleport into water created by their own seafoam pool.
+> Once per [turn](../../rule/combat/turn.md) during their move action, each nixie under your control can [teleport](../../movement/teleport.md) to a body of water within 6. The corallia can't [teleport](../../movement/teleport.md) into water created by their own seafoam pool.
 
 > ⭐️ **Seafoam Pool**
 >
-> The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of difficult terrain created by enemies. At the end of the corallia's turn, the corallia can scrub you or an ally in the affected area and end one condition.
+> The area within 2 squares of the corallia is filled with purifying saltwater that disables the effects of [difficult terrain](../../movement/difficult-terrain.md) created by enemies. At the end of the corallia's [turn](../../rule/combat/turn.md), the corallia can scrub you or an ally in the affected area and end one [condition](../../rule/combat/condition.md).
 
 > ⭐️ **Minuscule**
 >
-> The coralia has cover while occupying a larger creature's space.
+> The coralia has [cover](../../rule/combat/cover.md) while occupying a larger creature's space.
