@@ -9,14 +9,6 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
 <div class="grid cards" markdown>
 
--   ### :material-auto-fix:{ .sc-crest } Abilities
-
-    ---
-
-    All class abilities organized by class and level, plus kit abilities
-
-    [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
-
 -   ### :material-account-group:{ .sc-crest } Ancestries
 
     ---
@@ -49,11 +41,11 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Complications](complication/index.md)
 
--   ### :material-star-circle:{ .sc-crest } Features
+-   ### :material-star-circle:{ .sc-crest } Features and Abilities
 
     ---
 
-    Class features, ancestry features, traits, and more -- organized by source
+    Class features, ancestry features, abilities, and more -- organized by source
 
     [:octicons-arrow-right-24: View Features](feature/index.md)
 
