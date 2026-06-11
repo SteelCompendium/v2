@@ -117,6 +117,7 @@ extra_css:
   - stylesheets/steel-redesign.css
   - stylesheets/steel-settings.css
   - stylesheets/steel-ability-cards.css
+  - stylesheets/steel-statblock.css
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
@@ -134,6 +135,7 @@ extra_javascript:
   - javascripts/ability-cards-core.js
   - javascripts/ability-cards.js
   - javascripts/steel-ability-cards.js
+  - javascripts/steel-statblock.js
   - javascripts/steel-traits.js
   - javascripts/steel-feature-browser.js
   - javascripts/steel-bestiary-browser.js

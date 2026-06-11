@@ -22,6 +22,22 @@
   var SCALE_VAR = "--sc-content-scale";
   var CARD_SCALE_VAR = "--sc-card-scale";
 
+  // ---------- statblock layout preferences (steel-statblock.css) ----------
+  // Each piece is an independent <html data-sb-*> attribute; presets just set a
+  // bundle of them at once. Persisted under prefs.statblock.{key}. Defaults below
+  // mirror the "Steel Card" preset and the early-apply in overrides/main.html.
+  var SB_KEYS = ["kwusage", "disttarget", "meta", "charline", "charbox", "villain", "wide", "stickymeta"];
+  var SB_DEFAULTS = {
+    kwusage: "crest", disttarget: "grid", meta: "grid", charline: "two",
+    charbox: "off", villain: "banded", wide: "off", stickymeta: "on"
+  };
+  // Presets are bundles of the per-piece attrs (stickymeta is a web-extra, not in presets).
+  var SB_PRESETS = {
+    steel:      { kwusage: "crest", disttarget: "grid", meta: "grid", charline: "two", charbox: "off", villain: "banded", wide: "off" },
+    sourcebook: { kwusage: "text", disttarget: "text", meta: "ledger", charline: "one", charbox: "on", villain: "inline", wide: "off" },
+    index:      { kwusage: "grid", disttarget: "grid", meta: "gridc", charline: "two", charbox: "onword", villain: "banded", wide: "off" }
+  };
+
   var FONT_OPTIONS = {
     large: [
       ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort (default)"],
@@ -90,6 +106,33 @@
     if (!style || style === "classic") document.documentElement.removeAttribute("data-card-style");
     else document.documentElement.setAttribute("data-card-style", style);
   }
+  function applyStatblocks(prefs) {
+    var sb = prefs.statblock || {};
+    var html = document.documentElement;
+    SB_KEYS.forEach(function (k) {
+      html.setAttribute("data-sb-" + k, sb[k] || SB_DEFAULTS[k]);
+    });
+    // Web-extra augmentations live on <body>; absent attr ≡ "on" in the CSS, so
+    // only stamp the explicit "off" state.
+    var body = document.body;
+    if (body) {
+      setAug(body, "links", sb.augLinks !== false);
+      setAug(body, "sticky", sb.augSticky !== false);
+    }
+  }
+  function setAug(body, name, on) {
+    if (on) body.removeAttribute("data-aug-" + name);
+    else body.setAttribute("data-aug-" + name, "off");
+  }
+  // Which preset (if any) the current statblock attrs match — else "custom".
+  function detectSbPreset(sb) {
+    for (var name in SB_PRESETS) {
+      var p = SB_PRESETS[name], ok = true;
+      for (var a in p) if ((sb[a] || SB_DEFAULTS[a]) !== p[a]) { ok = false; break; }
+      if (ok) return name;
+    }
+    return "custom";
+  }
   function applyAll(prefs) {
     applyFonts(prefs);
     applyWidth(prefs.width);
@@ -98,6 +141,7 @@
     applyCompact(!!prefs.compact);
     applySiteTheme(prefs.siteTheme);
     applyCardStyle(prefs.cardStyle);
+    applyStatblocks(prefs);
   }
 
   var prefs = C.loadPrefs(localStorage);
@@ -190,6 +234,94 @@
               '<input class="sc-set__range" id="set-width" type="range">' +
               '<span class="sc-set__value" id="set-width-val">80em</span>' +
             '</div>' +
+          '</div>' +
+        '</div>' +
+
+        '<div class="sc-set__group"><h3>Statblocks</h3>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-preset">Preset</label>' +
+            '<select class="sc-set__select" id="set-sb-preset">' +
+              '<option value="steel">Steel Card</option>' +
+              '<option value="sourcebook">Sourcebook (book layout)</option>' +
+              '<option value="index">Index Card</option>' +
+              '<option value="custom">Custom</option>' +
+            '</select>' +
+            '<span class="sc-set__hint">A starting point. Words &amp; numbers never change &mdash; only the design.</span>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-kwusage">Keyword + usage</label>' +
+            '<select class="sc-set__select" id="set-sb-kwusage">' +
+              '<option value="crest">Crest + eyebrow + chips</option>' +
+              '<option value="text">Text (space-between)</option>' +
+              '<option value="grid">Grid cells</option>' +
+              '<option value="ledger">Ledger rows</option>' +
+            '</select>' +
+            '<span class="sc-set__hint">Only the crest option shows a crest.</span>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-disttarget">Distance + target</label>' +
+            '<select class="sc-set__select" id="set-sb-disttarget">' +
+              '<option value="text">Text (space-between)</option>' +
+              '<option value="grid">Grid cells</option>' +
+              '<option value="ledger">Ledger rows</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-meta">Secondary stats</label>' +
+            '<select class="sc-set__select" id="set-sb-meta">' +
+              '<option value="grid">Grid (label top)</option>' +
+              '<option value="gridc">Grid (centered)</option>' +
+              '<option value="ledger">Ledger rows</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-charline">Characteristics</label>' +
+            '<select class="sc-set__select" id="set-sb-charline">' +
+              '<option value="two">Two lines (value over label)</option>' +
+              '<option value="one">One line</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-charbox">Boxed first letter</label>' +
+            '<select class="sc-set__select" id="set-sb-charbox">' +
+              '<option value="off">Off</option>' +
+              '<option value="on">Boxed letter</option>' +
+              '<option value="onword">Boxed letter + word</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-villain">Villain actions</label>' +
+            '<select class="sc-set__select" id="set-sb-villain">' +
+              '<option value="banded">Grouped band</option>' +
+              '<option value="inline">Inline with features</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-sb-wide" type="checkbox">' +
+              '<span>Wide layout &mdash; columns of features on wide screens</span>' +
+            '</label>' +
+          '</div>' +
+        '</div>' +
+
+        '<div class="sc-set__group"><h3>Statblock web extras</h3>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-sb-links" type="checkbox">' +
+              '<span>Link conditions &amp; keywords to their rules</span>' +
+            '</label>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-sb-sticky" type="checkbox">' +
+              '<span>Sticky mini-header while scrolling</span>' +
+            '</label>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-sb-stickymeta" type="checkbox">' +
+              '<span>&nbsp;&nbsp;&#8627; include secondary stats in it</span>' +
+            '</label>' +
           '</div>' +
         '</div>' +
 
@@ -375,6 +507,9 @@
     width.addEventListener("input", function () { commitWidth(true); });
     width.addEventListener("change", function () { commitWidth(false); });
 
+    // Statblocks (selects + presets + web-extra toggles)
+    var syncSb = bindStatblocks(drawer);
+
     // Reset all
     drawer.querySelector("#set-reset").addEventListener("click", function () {
       prefs = {};
@@ -391,8 +526,61 @@
       compact.checked = false;
       if (card) card.value = "classic";
       syncWidthUI(C.widthToControls(undefined));
+      syncSb();
       persist();
     });
+  }
+
+  // ---------- bind statblock controls ----------
+  // Returns a syncUI() the Reset handler calls to re-derive every control from
+  // the (possibly just-cleared) prefs.statblock bundle.
+  function bindStatblocks(drawer) {
+    function sb() { return prefs.statblock || (prefs.statblock = {}); }
+
+    var pieceIds = {
+      kwusage: "set-sb-kwusage", disttarget: "set-sb-disttarget", meta: "set-sb-meta",
+      charline: "set-sb-charline", charbox: "set-sb-charbox", villain: "set-sb-villain"
+    };
+    var presetSel = drawer.querySelector("#set-sb-preset");
+    var wide = drawer.querySelector("#set-sb-wide");
+    var links = drawer.querySelector("#set-sb-links");
+    var sticky = drawer.querySelector("#set-sb-sticky");
+    var stickymeta = drawer.querySelector("#set-sb-stickymeta");
+
+    function syncUI() {
+      var s = prefs.statblock || {};
+      Object.keys(pieceIds).forEach(function (k) {
+        drawer.querySelector("#" + pieceIds[k]).value = s[k] || SB_DEFAULTS[k];
+      });
+      wide.checked = (s.wide || SB_DEFAULTS.wide) === "on";
+      links.checked = s.augLinks !== false;
+      sticky.checked = s.augSticky !== false;
+      stickymeta.checked = (s.stickymeta || SB_DEFAULTS.stickymeta) === "on";
+      presetSel.value = detectSbPreset(s);
+    }
+
+    function commit() { applyStatblocks(prefs); persist(); syncUI(); }
+    function setPiece(key, val) { sb()[key] = val; commit(); }
+
+    Object.keys(pieceIds).forEach(function (k) {
+      drawer.querySelector("#" + pieceIds[k]).addEventListener("change", function () {
+        setPiece(k, this.value);
+      });
+    });
+    wide.addEventListener("change", function () { setPiece("wide", this.checked ? "on" : "off"); });
+    stickymeta.addEventListener("change", function () { setPiece("stickymeta", this.checked ? "on" : "off"); });
+    links.addEventListener("change", function () { sb().augLinks = this.checked; commit(); });
+    sticky.addEventListener("change", function () { sb().augSticky = this.checked; commit(); });
+    presetSel.addEventListener("change", function () {
+      if (this.value === "custom") return;
+      var p = SB_PRESETS[this.value];
+      var s = sb();
+      for (var a in p) s[a] = p[a]; // preset bundles never touch stickymeta / augs
+      commit();
+    });
+
+    syncUI();
+    return syncUI;
   }
 
   // ---------- inject header button ----------
