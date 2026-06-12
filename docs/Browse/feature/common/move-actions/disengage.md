@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Disengage
 scc: mcdm.heroes.v1/feature.common.move-actions/disengage
 type: feature

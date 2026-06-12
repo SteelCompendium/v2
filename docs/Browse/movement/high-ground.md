@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: High Ground
 scc: mcdm.heroes.v1/movement/high-ground
 type: movement

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.

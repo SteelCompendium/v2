@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: elementalist
 level: "8"
 name: 8th-Level Specialization Feature

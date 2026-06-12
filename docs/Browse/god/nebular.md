@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Nebular the Star Mother
 scc: mcdm.heroes.v1/god/nebular
 type: god

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Combat Round
 scc: mcdm.heroes.v1/rule.combat/combat-round
 type: rule

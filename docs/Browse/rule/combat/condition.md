@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Conditions
 scc: mcdm.heroes.v1/rule.combat/condition
 type: rule

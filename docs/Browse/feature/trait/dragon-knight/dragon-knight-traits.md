@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: dragon-knight
 name: Dragon Knight Traits
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits

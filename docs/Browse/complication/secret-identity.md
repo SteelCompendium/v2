@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 benefit: You have a skill of your choice from the [intrigue skill group](../skill/intrigue/index.md). Additionally, you can resume your true identity temporarily. While in your true identity, your [Renown](../rule/resource/renown.md) and [Wealth](../rule/resource/wealth.md) are treated as 2 higher than usual, and you might gain other benefits in consultation with the Director.
 drawback: Each time you resume your true identity while you are still [hunted](hunted.md), you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](secret-identity.md) for 1 day.
 flavor: You're secretly important—but it's not safe for your true identity to be known. Perhaps you're the witness to a crime or a member of a royal family on the run from a usurper. Until you are no longer at risk of being hunted, you'll maintain the guise of an ordinary adventurer.

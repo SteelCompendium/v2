@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: memonek
 name: 'Signature Trait: Fall Lightly'
 scc: mcdm.heroes.v1/feature.trait.memonek/fall-lightly

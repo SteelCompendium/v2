@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Community Service
 scc: mcdm.heroes.v1/project/community-service
 type: project

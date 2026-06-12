@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: human
 name: Staying Power
 scc: mcdm.heroes.v1/feature.trait.human/staying-power

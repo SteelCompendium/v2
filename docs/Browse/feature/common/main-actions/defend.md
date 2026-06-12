@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Defend
 scc: mcdm.heroes.v1/feature.common.main-actions/defend
 type: feature

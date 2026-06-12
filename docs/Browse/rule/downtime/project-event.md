@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: 'For the Director: Project Events'
 scc: mcdm.heroes.v1/rule.downtime/project-event
 type: rule

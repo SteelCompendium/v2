@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This needlelike lance is cast of shimmering metal and induces a yearning for the skies in those who handle it.
 keywords:
     - Magic

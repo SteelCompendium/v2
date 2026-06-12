@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: talent
 level: "6"
 name: Sharpened Power

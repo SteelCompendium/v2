@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.
 keywords:
     - Heavy Weapon

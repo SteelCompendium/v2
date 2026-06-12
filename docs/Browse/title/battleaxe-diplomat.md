@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: We seem to be equals in might and combat prowess. Perhaps we should bandy words awhile instead.
 name: Battleaxe Diplomat

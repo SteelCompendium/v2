@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: memonek
 name: I Am Law
 scc: mcdm.heroes.v1/feature.trait.memonek/i-am-law

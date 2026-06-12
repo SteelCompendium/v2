@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Restrained
 scc: mcdm.heroes.v1/condition/restrained
 type: condition

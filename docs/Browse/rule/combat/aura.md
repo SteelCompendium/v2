@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Aura
 scc: mcdm.heroes.v1/rule.combat/aura
 type: rule

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Bleeding
 scc: mcdm.heroes.v1/condition/bleeding
 type: condition

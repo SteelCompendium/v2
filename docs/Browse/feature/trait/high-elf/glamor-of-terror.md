@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: high-elf
 name: Glamor of Terror
 scc: mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: elementalist
 level: "8"
 name: Summon Source of Earth

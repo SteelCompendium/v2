@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: censor
 level: "7"
 name: Covenant of the Heart

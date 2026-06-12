@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Build or Repair Road
 scc: mcdm.heroes.v1/project/build-or-repair-road
 type: project

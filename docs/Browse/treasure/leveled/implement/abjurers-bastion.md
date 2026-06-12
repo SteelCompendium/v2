@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

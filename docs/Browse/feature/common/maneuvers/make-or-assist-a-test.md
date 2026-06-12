@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Make or Assist a Test
 scc: mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test
 type: feature

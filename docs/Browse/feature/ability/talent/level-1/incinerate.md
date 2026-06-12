@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 class: talent
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: orc
 name: Grounded
 scc: mcdm.heroes.v1/feature.trait.orc/grounded

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: dragon-knight
 name: Draconian Guard
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Burrow
 scc: mcdm.heroes.v1/movement/burrow
 type: movement

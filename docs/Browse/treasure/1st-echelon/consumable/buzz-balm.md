@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "1"
 effect: As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../../../condition/bleeding.md) and [weakened](../../../condition/weakened.md) [conditions](../../../rule/combat/condition.md) on yourself, and you gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the start of your next [turn](../../../rule/combat/turn.md).
 flavor: This cooling orange salve crackles and pops when exposed to the air.

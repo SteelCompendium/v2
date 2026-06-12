@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: The dead walk among us. Some of them are happier about it than others.
 name: Revenant
 scc: mcdm.heroes.v1/ancestry/revenant

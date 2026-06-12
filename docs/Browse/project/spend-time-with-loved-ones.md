@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Spend Time With Loved Ones
 scc: mcdm.heroes.v1/project/spend-time-with-loved-ones
 type: project

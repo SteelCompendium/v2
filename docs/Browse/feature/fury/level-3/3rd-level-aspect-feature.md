@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: fury
 level: "3"
 name: 3rd-Level Aspect Feature

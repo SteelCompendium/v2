@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: conduit
 level: "9"
 name: 9th-Level Domain Ability

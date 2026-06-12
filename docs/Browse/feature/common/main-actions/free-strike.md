@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Free Strike
 scc: mcdm.heroes.v1/feature.common.main-actions/free-strike
 type: feature

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Val
 scc: mcdm.heroes.v1/god/val
 type: god

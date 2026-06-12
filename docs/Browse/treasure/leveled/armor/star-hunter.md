@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: Shimmering light flows like liquid along this suit of crystalline armor.
 keywords:
     - Heavy Armor

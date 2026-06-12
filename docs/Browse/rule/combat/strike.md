@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Strike
 scc: mcdm.heroes.v1/rule.combat/strike
 type: rule

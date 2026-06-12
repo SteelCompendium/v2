@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: elementalist
 level: "9"
 name: New 11-Essence Ability

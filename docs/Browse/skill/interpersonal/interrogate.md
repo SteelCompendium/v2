@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Interrogate
 scc: mcdm.heroes.v1/skill.interpersonal/interrogate
 type: skill

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: censor
 level: "9"
 name: Improved Implement of Wrath

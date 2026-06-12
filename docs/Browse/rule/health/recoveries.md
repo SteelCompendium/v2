@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Recoveries and Recovery Value
 scc: mcdm.heroes.v1/rule.health/recoveries
 type: rule

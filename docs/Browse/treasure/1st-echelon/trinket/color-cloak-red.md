@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "1"
 effect: While worn, a red Color Cloak grants you fire immunity equal to your level.
 flavor: This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning "fire."

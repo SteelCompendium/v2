@@ -99,8 +99,8 @@ extra:
   # Build stamps shown in the footer. etl_* is written by the local `just`
   # recipes (steel-etl pipeline commit); site_* is written by CI from
   # $GITHUB_SHA right before gh-deploy. Committed empty; filled at build time.
-  etl_sha: "e17d44b"
-  etl_date: "2026-06-11"
+  etl_sha: "e810c5e"
+  etl_date: "2026-06-12"
   site_sha: ""
   site_date: ""
 plugins:

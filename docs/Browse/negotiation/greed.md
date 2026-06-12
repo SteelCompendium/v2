@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Greed
 scc: mcdm.heroes.v1/negotiation/greed
 type: negotiation

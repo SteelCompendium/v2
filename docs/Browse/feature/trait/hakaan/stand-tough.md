@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: hakaan
 name: Stand Tough
 scc: mcdm.heroes.v1/feature.trait.hakaan/stand-tough

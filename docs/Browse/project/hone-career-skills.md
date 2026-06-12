@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Hone Career Skills
 scc: mcdm.heroes.v1/project/hone-career-skills
 type: project

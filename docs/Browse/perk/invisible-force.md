@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: You have the following ability.
 name: Invisible Force
 scc: mcdm.heroes.v1/perk/invisible-force

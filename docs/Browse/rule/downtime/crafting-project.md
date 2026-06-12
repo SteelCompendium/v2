@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Crafting Projects
 scc: mcdm.heroes.v1/rule.downtime/crafting-project
 type: rule

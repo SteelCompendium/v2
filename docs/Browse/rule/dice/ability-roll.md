@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Ability Roll
 scc: mcdm.heroes.v1/rule.dice/ability-roll
 type: rule

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: censor
 level: "3"
 name: Look On My Work and Despair

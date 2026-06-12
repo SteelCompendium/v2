@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 class: censor
 distance: 2 [cube](../../../../rule/combat/cube.md) within 1

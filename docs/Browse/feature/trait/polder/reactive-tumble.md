@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: polder
 name: Reactive Tumble
 scc: mcdm.heroes.v1/feature.trait.polder/reactive-tumble

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.
 keywords:
     - Psionic

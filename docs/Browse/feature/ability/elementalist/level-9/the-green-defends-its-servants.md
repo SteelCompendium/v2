@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: elementalist
 cost: 11 Essence

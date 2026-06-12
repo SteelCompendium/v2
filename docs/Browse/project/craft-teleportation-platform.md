@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Craft Teleportation Platform
 scc: mcdm.heroes.v1/project/craft-teleportation-platform
 type: project

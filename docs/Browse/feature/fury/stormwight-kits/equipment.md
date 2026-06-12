@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: fury
 name: Equipment
 scc: mcdm.heroes.v1/feature.fury.stormwight-kits/equipment

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Vengeance
 scc: mcdm.heroes.v1/negotiation/vengeance
 type: negotiation

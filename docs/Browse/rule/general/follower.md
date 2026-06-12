@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Attract Followers
 scc: mcdm.heroes.v1/rule.general/follower
 type: rule

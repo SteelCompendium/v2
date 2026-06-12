@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: OV the Wave Pilot
 scc: mcdm.heroes.v1/god/ov
 type: god

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: "null"
 level: "9"
 name: I Am the Weapon

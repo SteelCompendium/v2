@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Protection
 scc: mcdm.heroes.v1/negotiation/protection
 type: negotiation

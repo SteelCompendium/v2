@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: "null"
 level: "6"
 name: Elemental Absorption

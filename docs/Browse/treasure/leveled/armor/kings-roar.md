@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.
 keywords:
     - Magic

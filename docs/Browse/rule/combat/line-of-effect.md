@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Line of Effect
 scc: mcdm.heroes.v1/rule.combat/line-of-effect
 type: rule

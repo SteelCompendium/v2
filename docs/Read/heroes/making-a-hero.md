@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 search:
   exclude: true
 name: Making a Hero

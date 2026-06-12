@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Best way to deal with a castle siege? Be on the outside.
 name: Siege Breaker

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Use Consumable
 scc: mcdm.heroes.v1/feature.common.maneuvers/use-consumable
 type: feature

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: hakaan
 name: All Is a Feather
 scc: mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather

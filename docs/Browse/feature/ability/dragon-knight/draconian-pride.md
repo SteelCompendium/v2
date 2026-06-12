@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 ancestry: dragon-knight
 distance: 1 [burst](../../../rule/combat/burst.md)

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food.
 language: Two languages
 name: Beggar

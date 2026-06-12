@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: talent
 level: "3"
 name: 7-Clarity Ability

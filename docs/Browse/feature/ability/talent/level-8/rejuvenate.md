@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: talent
 cost: 11 Clarity

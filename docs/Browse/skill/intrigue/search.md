@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Search
 scc: mcdm.heroes.v1/skill.intrigue/search
 type: skill

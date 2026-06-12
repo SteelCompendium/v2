@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Advance
 scc: mcdm.heroes.v1/feature.common.move-actions/advance
 type: feature

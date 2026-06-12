@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Thellasko the Great Designer
 scc: mcdm.heroes.v1/god/thellasko
 type: god

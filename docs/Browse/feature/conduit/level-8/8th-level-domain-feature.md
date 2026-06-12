@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: conduit
 level: "8"
 name: 8th-Level Domain Feature

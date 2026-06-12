@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.
 keywords:
     - Bow

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: hakaan
 name: Hakaan Traits
 scc: mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits

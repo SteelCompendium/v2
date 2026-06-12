@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Damage Weakness
 scc: mcdm.heroes.v1/rule.damage/damage-weakness
 type: rule

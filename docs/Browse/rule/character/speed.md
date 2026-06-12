@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Starting Size and Speed
 scc: mcdm.heroes.v1/rule.character/speed
 type: rule

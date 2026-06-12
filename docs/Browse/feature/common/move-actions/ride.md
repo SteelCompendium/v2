@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Ride
 scc: mcdm.heroes.v1/feature.common.move-actions/ride
 type: feature

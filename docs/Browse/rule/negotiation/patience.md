@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Patience
 scc: mcdm.heroes.v1/rule.negotiation/patience
 type: rule

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Imbue Treasure
 scc: mcdm.heroes.v1/project/imbue-treasure
 type: project

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: fury
 name: Growing Ferocity
 scc: mcdm.heroes.v1/feature.fury.stormwight-kits/growing-ferocity

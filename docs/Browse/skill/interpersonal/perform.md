@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Perform
 scc: mcdm.heroes.v1/skill.interpersonal/perform
 type: skill

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Justice
 scc: mcdm.heroes.v1/negotiation/justice
 type: negotiation

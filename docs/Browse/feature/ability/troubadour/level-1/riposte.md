@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Triggered
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'

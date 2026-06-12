@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Grab
 scc: mcdm.heroes.v1/feature.common.maneuvers/grab
 type: feature

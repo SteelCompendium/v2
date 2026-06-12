@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Item Prerequisite
 scc: mcdm.heroes.v1/rule.downtime/item-prerequisite
 type: rule

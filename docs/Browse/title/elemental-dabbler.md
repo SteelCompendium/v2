@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose a [damage type](../rule/damage/damage-type.md) to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:'
 flavor: Spirit of fire, I command you!
 name: Elemental Dabbler

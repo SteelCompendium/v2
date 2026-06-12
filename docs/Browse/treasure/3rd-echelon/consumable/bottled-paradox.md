@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "3"
 effect: As a maneuver, you can drink this potion or throw it up to 10 squares. If you drink it, you choose a [test](../../../rule/test/test.md) you made in the last minute, then reroll that [test](../../../rule/test/test.md) repeatedly until the outcome changes. If the potion is thrown, it creates a 3-[cube](../../../rule/combat/cube.md) area of shimmering magic. Any event that took place in that area in the previous minute changes at the discretion of the Director, who has full freedom to decide what happens. The energy then dissipates.
 flavor: Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.

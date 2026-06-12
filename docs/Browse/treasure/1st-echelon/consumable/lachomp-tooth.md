@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "1"
 effect: 'As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to [supernatural](../../../rule/general/supernatural.md)ly flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a [ranged](../../../rule/combat/ranged.md) [strike](../../../rule/combat/strike.md)) or surrounding you (for a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md)). The [strike](../../../rule/combat/strike.md) adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
 flavor: A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.

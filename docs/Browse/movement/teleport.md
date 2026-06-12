@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Teleport
 scc: mcdm.heroes.v1/movement/teleport
 type: movement

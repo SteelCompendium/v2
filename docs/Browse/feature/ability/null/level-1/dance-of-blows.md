@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 class: "null"
 distance: 1 [burst](../../../../rule/combat/burst.md)

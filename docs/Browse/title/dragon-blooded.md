@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.
 name: Dragon Blooded

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Freedom
 scc: mcdm.heroes.v1/negotiation/freedom
 type: negotiation

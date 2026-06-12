@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Legacy
 scc: mcdm.heroes.v1/negotiation/legacy
 type: negotiation

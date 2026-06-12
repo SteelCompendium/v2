@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Triggered Actions and Free Triggered Actions
 scc: mcdm.heroes.v1/rule.combat/triggered-action
 type: rule

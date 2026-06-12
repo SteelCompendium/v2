@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Natural Roll
 scc: mcdm.heroes.v1/rule.dice/natural-roll
 type: rule

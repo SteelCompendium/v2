@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Read Person
 scc: mcdm.heroes.v1/skill.interpersonal/read-person
 type: skill

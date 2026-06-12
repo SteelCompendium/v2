@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Free triggered
 class: tactician
 cost: 11 Focus

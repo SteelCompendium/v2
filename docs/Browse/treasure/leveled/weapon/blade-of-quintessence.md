@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This crystal blade houses a stormy vortex of fire, ice, and lightning.
 keywords:
     - Magic

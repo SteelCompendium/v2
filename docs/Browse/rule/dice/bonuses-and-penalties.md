@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Bonuses and Penalties
 scc: mcdm.heroes.v1/rule.dice/bonuses-and-penalties
 type: rule

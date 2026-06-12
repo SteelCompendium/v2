@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: troubadour
 level: "1"
 name: Power Chord

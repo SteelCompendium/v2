@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: I like fighting these little guys. Means I don't have to waste money on a helmet.
 name: Ratcatcher

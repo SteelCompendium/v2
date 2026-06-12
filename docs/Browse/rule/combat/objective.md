@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Objective Endings
 scc: mcdm.heroes.v1/rule.combat/objective
 type: rule

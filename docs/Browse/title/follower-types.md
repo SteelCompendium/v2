@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 name: Follower Types
 scc: mcdm.heroes.v1/title/follower-types

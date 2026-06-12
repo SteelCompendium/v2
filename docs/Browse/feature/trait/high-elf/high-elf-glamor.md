@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: high-elf
 name: 'Signature Trait: High Elf Glamor'
 scc: mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor

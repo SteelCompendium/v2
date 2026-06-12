@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: tactician
 cost: 9 Focus

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Potencies
 scc: mcdm.heroes.v1/rule.character/potency
 type: rule

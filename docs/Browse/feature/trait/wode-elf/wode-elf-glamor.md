@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: wode-elf
 name: 'Signature Trait: Wode Elf Glamor'
 scc: mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Opportunity Attacks
 scc: mcdm.heroes.v1/rule.combat/opportunity-attack
 type: rule

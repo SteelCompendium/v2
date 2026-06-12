@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: revenant
 name: 'Previous Life: 1 Point'
 scc: mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point

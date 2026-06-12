@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: wode-elf
 name: Revisit Memory
 scc: mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory

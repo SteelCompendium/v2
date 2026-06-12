@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Project Source
 scc: mcdm.heroes.v1/rule.downtime/project-source
 type: rule

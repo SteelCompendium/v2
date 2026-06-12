@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Characteristics
 scc: mcdm.heroes.v1/rule.character/characteristic
 type: rule

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 benefit: You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 drawback: If you are ever forced to disobey your organization's orders, your [stability](../rule/character/stability.md) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
 flavor: You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: memonek
 name: Nonstop
 scc: mcdm.heroes.v1/feature.trait.memonek/nonstop

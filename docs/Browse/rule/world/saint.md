@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Churches and Temples
 scc: mcdm.heroes.v1/rule.world/saint
 type: rule

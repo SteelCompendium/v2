@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.
 keywords:
     - Feet

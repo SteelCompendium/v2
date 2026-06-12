@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: PCs and NPCs
 scc: mcdm.heroes.v1/rule.general/npc
 type: rule

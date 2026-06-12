@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Grabbed
 scc: mcdm.heroes.v1/condition/grabbed
 type: condition

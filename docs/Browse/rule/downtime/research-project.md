@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Research Projects
 scc: mcdm.heroes.v1/rule.downtime/research-project
 type: rule

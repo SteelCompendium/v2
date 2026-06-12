@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.
 keywords:
     - Light Armor

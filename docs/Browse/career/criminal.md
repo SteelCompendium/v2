@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin.
 language: One language
 name: Criminal

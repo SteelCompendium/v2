@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Ability Keywords
 scc: mcdm.heroes.v1/rule.general/ability
 type: rule

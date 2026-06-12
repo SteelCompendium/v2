@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Revelry
 scc: mcdm.heroes.v1/negotiation/revelry
 type: negotiation

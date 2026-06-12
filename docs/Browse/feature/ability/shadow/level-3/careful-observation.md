@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: shadow
 distance: '[Ranged](../../../../rule/combat/ranged.md) 20'

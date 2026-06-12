@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Opposed Power Rolls
 scc: mcdm.heroes.v1/rule.dice/opposed-power-roll
 type: rule

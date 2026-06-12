@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: troubadour
 cost: 5 Drama

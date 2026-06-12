@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Nature
 scc: mcdm.heroes.v1/skill.lore/nature
 type: skill

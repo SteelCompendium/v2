@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Montage Tests
 scc: mcdm.heroes.v1/rule.test/montage-test
 type: rule

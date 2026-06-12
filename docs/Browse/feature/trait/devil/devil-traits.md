@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: devil
 name: Devil Traits
 scc: mcdm.heroes.v1/feature.trait.devil/devil-traits

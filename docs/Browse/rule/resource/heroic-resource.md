@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Heroic Resources
 scc: mcdm.heroes.v1/rule.resource/heroic-resource
 type: rule

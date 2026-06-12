@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Go Undercover
 scc: mcdm.heroes.v1/project/go-undercover
 type: project

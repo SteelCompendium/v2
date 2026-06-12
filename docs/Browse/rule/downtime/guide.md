@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Guides
 scc: mcdm.heroes.v1/rule.downtime/guide
 type: rule

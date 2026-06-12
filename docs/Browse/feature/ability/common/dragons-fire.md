@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 distance: 5 x 1 line within 1
 flavor: You open your maw and unleash hell.

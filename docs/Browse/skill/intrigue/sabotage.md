@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Sabotage
 scc: mcdm.heroes.v1/skill.intrigue/sabotage
 type: skill

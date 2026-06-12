@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: shadow
 level: "5"
 name: 5th-Level College Feature

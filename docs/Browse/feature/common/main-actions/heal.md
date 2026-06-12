@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Heal
 scc: mcdm.heroes.v1/feature.common.main-actions/heal
 type: feature

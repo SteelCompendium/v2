@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Temporary Stamina
 scc: mcdm.heroes.v1/rule.health/temporary-stamina
 type: rule

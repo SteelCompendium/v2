@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: time-raider
 name: Psionic Gift
 scc: mcdm.heroes.v1/feature.trait.time-raider/psionic-gift

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: You made and sold useful wares.
 language: One language
 name: Artisan

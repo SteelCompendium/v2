@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Hero Tokens
 scc: mcdm.heroes.v1/rule.resource/hero-token
 type: rule

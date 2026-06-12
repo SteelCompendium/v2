@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: time-raider
 name: Four-Armed Athletics
 scc: mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: shadow
 level: "3"
 name: Careful Observation

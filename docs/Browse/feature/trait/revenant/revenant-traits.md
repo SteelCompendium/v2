@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: revenant
 name: Revenant Traits
 scc: mcdm.heroes.v1/feature.trait.revenant/revenant-traits

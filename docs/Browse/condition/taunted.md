@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Taunted
 scc: mcdm.heroes.v1/condition/taunted
 type: condition

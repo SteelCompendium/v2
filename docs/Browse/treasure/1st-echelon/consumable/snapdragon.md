@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "1"
 effect: As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can [push](../../../movement/forced-movement.md) each creature targeted by the ability up to 2 squares.
 flavor: This delicate orange blossom has a sickly-sweet smell.

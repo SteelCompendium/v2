@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: high-elf
 name: High Elf Traits
 scc: mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits

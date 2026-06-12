@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: End of Next Turn (EoT)
 scc: mcdm.heroes.v1/rule.combat/end-of-turn
 type: rule

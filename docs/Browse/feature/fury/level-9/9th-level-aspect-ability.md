@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: fury
 level: "9"
 name: 9th-Level Aspect Ability

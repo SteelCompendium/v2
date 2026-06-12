@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Agility
 scc: mcdm.heroes.v1/rule.character/agility
 type: rule

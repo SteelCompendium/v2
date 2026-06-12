@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.
 name: Knight

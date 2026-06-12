@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Stability
 scc: mcdm.heroes.v1/rule.character/stability
 type: rule

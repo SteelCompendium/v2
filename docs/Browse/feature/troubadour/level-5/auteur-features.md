@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: troubadour
 level: "5"
 name: Auteur Features

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Free triggered
 class: conduit
 cost: 11 Piety

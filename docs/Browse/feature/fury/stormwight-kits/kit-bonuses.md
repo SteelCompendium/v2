@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: fury
 name: Kit Bonuses
 scc: mcdm.heroes.v1/feature.fury.stormwight-kits/kit-bonuses

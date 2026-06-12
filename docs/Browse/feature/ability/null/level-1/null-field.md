@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: "null"
 distance: 1 [aura](../../../../rule/combat/aura.md)

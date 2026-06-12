@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Echelons of Play
 scc: mcdm.heroes.v1/rule.general/echelon
 type: rule

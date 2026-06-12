@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Prone
 scc: mcdm.heroes.v1/condition/prone
 type: condition

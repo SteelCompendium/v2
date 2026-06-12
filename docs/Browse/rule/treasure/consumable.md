@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Consumables
 scc: mcdm.heroes.v1/rule.treasure/consumable
 type: rule

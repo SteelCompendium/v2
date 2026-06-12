@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: dwarf
 name: 'Signature Trait: Runic Carving'
 scc: mcdm.heroes.v1/feature.trait.dwarf/runic-carving

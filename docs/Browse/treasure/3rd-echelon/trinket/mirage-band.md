@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "3"
 effect: While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and [supernatural](../../../rule/general/supernatural.md) effects can't conceal creatures and objects from you.
 flavor: A sable blue circlet shimmers with finely woven threads of sparkling white.

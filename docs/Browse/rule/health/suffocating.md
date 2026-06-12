@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Suffocating
 scc: mcdm.heroes.v1/rule.health/suffocating
 type: rule

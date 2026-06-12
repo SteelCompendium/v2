@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: human
 name: Human Traits
 scc: mcdm.heroes.v1/feature.trait.human/human-traits

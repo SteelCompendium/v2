@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Hover
 scc: mcdm.heroes.v1/movement/hover
 type: movement

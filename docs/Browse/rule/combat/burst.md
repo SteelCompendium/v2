@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Burst
 scc: mcdm.heroes.v1/rule.combat/burst
 type: rule

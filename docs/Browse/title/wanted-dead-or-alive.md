@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!
 name: Wanted Dead or Alive

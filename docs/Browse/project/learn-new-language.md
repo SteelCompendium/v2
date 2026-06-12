@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Learn New Language
 scc: mcdm.heroes.v1/project/learn-new-language
 type: project

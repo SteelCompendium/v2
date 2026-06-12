@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This sinuous whip reflects all light off its plated steel surfaces.
 keywords:
     - Magic

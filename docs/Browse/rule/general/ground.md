@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Ground and Ceiling
 scc: mcdm.heroes.v1/rule.general/ground
 type: rule

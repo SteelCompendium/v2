@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Vasloria
 scc: mcdm.heroes.v1/rule.world/vasloria
 type: rule

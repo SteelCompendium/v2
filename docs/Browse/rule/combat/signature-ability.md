@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Signature Abilities
 scc: mcdm.heroes.v1/rule.combat/signature-ability
 type: rule

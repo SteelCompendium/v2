@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This flexible black-iron net burns with the heat of a volcano.
 keywords:
     - Magic

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: devil
 name: 'Signature Trait: Silver Tongue'
 scc: mcdm.heroes.v1/feature.trait.devil/silver-tongue

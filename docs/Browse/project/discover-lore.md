@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Discover Lore
 scc: mcdm.heroes.v1/project/discover-lore
 type: project

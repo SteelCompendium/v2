@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: No action
 class: troubadour
 distance: 2 [aura](../../../../rule/combat/aura.md)

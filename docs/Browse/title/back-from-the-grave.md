@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 effect: You are restored to life. You gain the Tough But Withered signature trait from the [revenant](../ancestry/revenant.md) ancestry.
 flavor: Hi! Remember me?
 name: Back From the Grave

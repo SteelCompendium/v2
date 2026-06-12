@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Bane
 scc: mcdm.heroes.v1/rule.dice/bane
 type: rule

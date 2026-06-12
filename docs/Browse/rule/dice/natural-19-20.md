@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: 'Natural 19 or 20: Success With a Reward'
 scc: mcdm.heroes.v1/rule.dice/natural-19-20
 type: rule

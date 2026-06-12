@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: memonek
 name: 'Signature Trait: Lightweight'
 scc: mcdm.heroes.v1/feature.trait.memonek/lightweight

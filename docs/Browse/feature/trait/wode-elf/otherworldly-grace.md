@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: wode-elf
 name: Otherworldly Grace
 scc: mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace

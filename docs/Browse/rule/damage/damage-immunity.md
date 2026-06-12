@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Damage Immunity
 scc: mcdm.heroes.v1/rule.damage/damage-immunity
 type: rule

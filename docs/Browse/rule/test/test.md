@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: How to Make a Test
 scc: mcdm.heroes.v1/rule.test/test
 type: rule

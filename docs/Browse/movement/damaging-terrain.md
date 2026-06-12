@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Damaging Terrain
 scc: mcdm.heroes.v1/movement/damaging-terrain
 type: movement

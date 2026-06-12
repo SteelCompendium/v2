@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Power Roll Outcomes
 scc: mcdm.heroes.v1/rule.dice/tier-outcome
 type: rule

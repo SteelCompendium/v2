@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Difficult Terrain
 scc: mcdm.heroes.v1/movement/difficult-terrain
 type: movement

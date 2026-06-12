@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "1"
 effect: While worn, a blue Color Cloak grants you cold immunity equal to your level.
 flavor: This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning "ice."

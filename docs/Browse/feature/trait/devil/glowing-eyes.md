@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: devil
 name: Glowing Eyes
 scc: mcdm.heroes.v1/feature.trait.devil/glowing-eyes

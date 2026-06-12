@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: conduit
 level: "6"
 name: 6th-Level Domain Ability

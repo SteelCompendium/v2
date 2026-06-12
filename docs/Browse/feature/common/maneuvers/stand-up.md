@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Stand Up
 scc: mcdm.heroes.v1/feature.common.maneuvers/stand-up
 type: feature

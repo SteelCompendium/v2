@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 benefit: You have the following ability, which you can use as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
 drawback: You have psychic weakness 5.
 flavor: You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.

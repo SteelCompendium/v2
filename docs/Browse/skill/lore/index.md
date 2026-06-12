@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Lore Skills
 scc: mcdm.heroes.v1/skill.group/lore
 type: skill-group

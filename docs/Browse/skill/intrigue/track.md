@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Track
 scc: mcdm.heroes.v1/skill.intrigue/track
 type: skill

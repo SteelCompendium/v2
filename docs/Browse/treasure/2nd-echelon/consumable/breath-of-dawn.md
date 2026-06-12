@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "2"
 effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) [conditions](../../../rule/combat/condition.md) on yourself, and you gain a +8 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stability](../../../rule/character/stability.md) until the end of the encounter.
 flavor: A glass flask contains a whirl of gentle sunlight.

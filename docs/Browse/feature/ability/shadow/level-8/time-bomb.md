@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
 class: shadow
 distance: 2 [cube](../../../../rule/combat/cube.md) within 10

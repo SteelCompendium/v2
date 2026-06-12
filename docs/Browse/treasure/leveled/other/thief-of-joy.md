@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This burnished copper torque thrums with a sense of judgment.
 keywords:
     - Neck

@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Shifting
 scc: mcdm.heroes.v1/movement/shifting
 type: movement

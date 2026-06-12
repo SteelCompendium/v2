@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: tactician
 level: "9"
 name: 9th-Level Doctrine Ability

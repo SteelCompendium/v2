@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Project Roll
 scc: mcdm.heroes.v1/rule.downtime/project-roll
 type: rule

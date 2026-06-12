@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Hide
 scc: mcdm.heroes.v1/feature.common.maneuvers/hide
 type: feature

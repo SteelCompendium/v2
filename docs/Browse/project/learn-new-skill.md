@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Learn New Skill
 scc: mcdm.heroes.v1/project/learn-new-skill
 type: project

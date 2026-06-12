@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Imbue Armor
 scc: mcdm.heroes.v1/rule.treasure/enhancement
 type: rule

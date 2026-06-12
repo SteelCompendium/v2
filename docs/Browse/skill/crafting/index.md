@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Crafting Skills
 scc: mcdm.heroes.v1/skill.group/crafting
 type: skill-group

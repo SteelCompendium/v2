@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Fly
 scc: mcdm.heroes.v1/movement/fly
 type: movement

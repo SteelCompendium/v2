@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Damage Types
 scc: mcdm.heroes.v1/rule.damage/damage-type
 type: rule

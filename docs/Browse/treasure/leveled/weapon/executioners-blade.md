@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This blade exudes a faint hum that grows louder as its quarry weakens.
 keywords:
     - Heavy Weapon

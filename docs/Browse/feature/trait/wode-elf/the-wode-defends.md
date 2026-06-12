@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: wode-elf
 name: The Wode Defends
 scc: mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends

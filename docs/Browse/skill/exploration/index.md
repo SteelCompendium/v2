@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Exploration Skills
 scc: mcdm.heroes.v1/skill.group/exploration
 type: skill-group

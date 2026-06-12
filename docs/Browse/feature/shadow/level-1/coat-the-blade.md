@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 class: shadow
 level: "1"
 name: Coat the Blade

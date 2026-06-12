@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Disguise
 scc: mcdm.heroes.v1/skill.intrigue/disguise
 type: skill

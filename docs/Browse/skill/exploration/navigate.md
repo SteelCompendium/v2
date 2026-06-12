@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Navigate
 scc: mcdm.heroes.v1/skill.exploration/navigate
 type: skill

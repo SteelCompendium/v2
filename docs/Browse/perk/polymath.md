@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: Whenever you make a test to recall lore and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
 name: Polymath
 scc: mcdm.heroes.v1/perk/polymath

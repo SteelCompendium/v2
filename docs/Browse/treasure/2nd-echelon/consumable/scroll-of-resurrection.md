@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "2"
 effect: As a [respite](../../../rule/resource/respite.md) activity, you repeatedly chant the contents of this scroll over the remains of a creature who has been dead for less than 1 year. The creature's soul must be willing to return to life for the scroll to work. If they are not willing, you instinctively understand that as you start the [respite](../../../rule/resource/respite.md) activity and can cease it immediately. The scroll is not consumed, and you can undertake a new [respite](../../../rule/resource/respite.md) activity.
 flavor: This scroll is marked by sigils of power, death, and life.

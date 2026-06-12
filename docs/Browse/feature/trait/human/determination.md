@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 ancestry: human
 name: Determination
 scc: mcdm.heroes.v1/feature.trait.human/determination

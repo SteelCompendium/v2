@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Size and Space
 scc: mcdm.heroes.v1/rule.character/size
 type: rule

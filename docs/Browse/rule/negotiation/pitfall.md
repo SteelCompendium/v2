@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Pitfalls
 scc: mcdm.heroes.v1/rule.negotiation/pitfall
 type: rule

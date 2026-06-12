@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.
 keywords:
     - Psionic

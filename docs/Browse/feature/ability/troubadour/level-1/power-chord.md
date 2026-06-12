@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Maneuver
 class: troubadour
 distance: 2 [burst](../../../../rule/combat/burst.md)

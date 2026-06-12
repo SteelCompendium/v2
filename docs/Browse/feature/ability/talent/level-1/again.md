@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Triggered
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'

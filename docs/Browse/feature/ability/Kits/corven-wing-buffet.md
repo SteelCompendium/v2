@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 action_type: Main action
 distance: 1 [burst](../../../rule/combat/burst.md)
 effect: You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the [power roll](../../../rule/dice/power-roll.md).

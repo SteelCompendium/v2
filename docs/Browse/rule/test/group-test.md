@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Group Tests
 scc: mcdm.heroes.v1/rule.test/group-test
 type: rule

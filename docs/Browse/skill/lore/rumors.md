@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Rumors
 scc: mcdm.heroes.v1/skill.lore/rumors
 type: skill

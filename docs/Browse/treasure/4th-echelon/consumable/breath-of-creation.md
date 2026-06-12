@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 echelon: "4"
 effect: When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 [Renown](../../../rule/resource/renown.md), and you create a [size](../../../rule/character/size.md) 2 portal to a new demiplane in an [adjacent](../../../rule/combat/adjacent.md) square. The demiplane is a 20-[cube](../../../rule/combat/cube.md) area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
 flavor: A glass flask holds a roiling storm of astral plasma.

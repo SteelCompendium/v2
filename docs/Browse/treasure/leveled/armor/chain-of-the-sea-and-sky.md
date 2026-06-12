@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 flavor: This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.
 keywords:
     - Heavy Armor

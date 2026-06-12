@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Victories
 scc: mcdm.heroes.v1/rule.resource/victories
 type: rule

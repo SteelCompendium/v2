@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Walk
 scc: mcdm.heroes.v1/movement/walk
 type: movement

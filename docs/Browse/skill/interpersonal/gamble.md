@@ -1,4 +1,6 @@
 ---
+printing: "1.01b"
+printing_book: "Heroes"
 name: Gamble
 scc: mcdm.heroes.v1/skill.interpersonal/gamble
 type: skill
