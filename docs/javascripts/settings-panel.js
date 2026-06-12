@@ -145,11 +145,15 @@
   }
 
   var prefs = C.loadPrefs(localStorage);
-  // Legacy migration (matched pair with the early-apply in overrides/main.html):
-  // prefs saved before data-sb-featstyle existed get it derived from kwusage,
-  // so non-crest custom/Sourcebook/Index users keep their flat look.
+  // Legacy migration (matched pair with the early-apply in overrides/main.html;
+  // the extra prefs.statblock guard is the only intended difference — main.html
+  // pre-defaults its `sb` to {}): prefs saved before data-sb-featstyle existed
+  // get it derived from kwusage, so non-crest custom/Sourcebook/Index users keep
+  // their flat look. persist() (a hoisted declaration below) writes the derived
+  // value through so storage and memory never disagree.
   if (prefs.statblock && !prefs.statblock.featstyle && prefs.statblock.kwusage && prefs.statblock.kwusage !== "crest") {
     prefs.statblock.featstyle = "flat";
+    persist();
   }
   applyAll(prefs); // re-assert (covers contentScale even if inline early-apply predates it)
 
