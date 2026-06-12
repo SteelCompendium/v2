@@ -79,6 +79,8 @@ function alphaNear(rgba, expected) {
   // ---- default = card ----
   check("default: data-sb-featstyle stamped as card",
     await page.evaluate(() => document.documentElement.getAttribute("data-sb-featstyle") === "card"));
+  // Page defaults to light scheme; force dark (slate) for the dark-tint check.
+  await page.evaluate(() => document.body.setAttribute("data-md-color-scheme", "slate"));
   let f = await page.evaluate(FEAT_PROBE, 1);
   check("card: 3px solid action-colored left border", f.borderLeftWidth === "3px" && f.borderLeftStyle === "solid",
     f.borderLeftWidth + " " + f.borderLeftStyle);
