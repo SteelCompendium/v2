@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "3"
 level: "3"
 name: Column of Blades

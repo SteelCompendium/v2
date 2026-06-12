@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: War Dog Malice (Level 1+ Malice Features)
 scc: mcdm.monsters.v1/monster.war-dogs.1st-echelon/war-dog-malice-level-1-malice-features
 type: featureblock

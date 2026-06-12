@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 echelon: "2"
 effect: While wearing this gauntlet, your ranged [free strikes](../../../feature/common/main-actions/free-strike.md) have the Magic keyword and if the target has P < average, they are magically chained to you until the end of their next turn. While chained, the target can't move farther away from you, and you can use a maneuver to either vertically [pull](../../../movement/forced-movement.md) the target up to 3 squares or [shift](../../../movement/shifting.md) yourself up to 3 squares through the air toward the target.
 flavor: A gauntlet of loose chains rattles, shackled to each of the user's fingers. They clatter whenever magic surges through them.

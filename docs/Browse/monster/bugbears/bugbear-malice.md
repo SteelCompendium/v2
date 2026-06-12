@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Bugbear Malice
 scc: mcdm.monsters.v1/monster.bugbears/bugbear-malice
 type: featureblock

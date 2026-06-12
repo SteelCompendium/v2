@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 keywords:
     - '**Stamina:** 20 + your level'
 name: Glade Pond

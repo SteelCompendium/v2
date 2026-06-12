@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Valok Malice
 scc: mcdm.monsters.v1/monster.valok/valok-malice
 type: featureblock

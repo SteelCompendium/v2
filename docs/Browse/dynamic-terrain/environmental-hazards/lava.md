@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: 4 per 10 x 10 patch
 immunity: 20 to all damage except cold damage
 level: "3"

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "10"
 level: "3"
 name: Boiling Oil Cauldron

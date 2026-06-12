@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: hobgoblins
 name: Hobgoblins
 scc: mcdm.monsters.v1/monster.group/hobgoblins

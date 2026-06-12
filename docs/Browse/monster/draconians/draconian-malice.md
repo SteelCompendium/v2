@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Draconian Malice
 scc: mcdm.monsters.v1/monster.draconians/draconian-malice
 type: featureblock

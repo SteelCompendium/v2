@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 action_type: Maneuver
 class: beastheart
 companion: panther

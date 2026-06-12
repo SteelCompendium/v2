@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "24"
 level: "4"
 name: The Throne of A'An

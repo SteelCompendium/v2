@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Medusa Malice
 scc: mcdm.monsters.v1/monster.medusa/medusa-malice
 type: featureblock

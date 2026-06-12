@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 companion: wolf
 level: "1"
 name: Wolf

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Gloom Dragon Malice
 scc: mcdm.monsters.v1/monster.dragons/gloom-dragon-malice
 type: featureblock

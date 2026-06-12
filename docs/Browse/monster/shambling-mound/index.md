@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: shambling-mound
 name: Shambling Mound
 scc: mcdm.monsters.v1/monster.group/shambling-mound

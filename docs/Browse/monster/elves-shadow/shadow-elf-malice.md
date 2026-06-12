@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Shadow Elf Malice
 scc: mcdm.monsters.v1/monster.elves-shadow/shadow-elf-malice
 type: featureblock

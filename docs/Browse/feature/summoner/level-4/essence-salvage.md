@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 class: summoner
 level: "4"
 name: Essence Salvage

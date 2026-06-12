@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Ogre Malice
 scc: mcdm.monsters.v1/monster.ogres/ogre-malice
 type: featureblock

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: 1 per 10 x 10 pond
 immunity: 5 to all damage except fire damage
 level: "1"

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Lightbender Malice
 scc: mcdm.monsters.v1/monster.lightbenders/lightbender-malice
 type: featureblock

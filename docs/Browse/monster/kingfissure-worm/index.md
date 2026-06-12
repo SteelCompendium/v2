@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: kingfissure-worm
 name: Kingfissure Worm
 scc: mcdm.monsters.v1/monster.group/kingfissure-worm

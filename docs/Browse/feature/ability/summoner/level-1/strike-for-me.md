@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 action_type: Free triggered
 class: summoner
 distance: Summoner's Range

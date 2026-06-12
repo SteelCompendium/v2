@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Xorannox's Malice
 scc: mcdm.monsters.v1/monster.xorannox-the-tyract/xorannoxs-malice
 type: featureblock

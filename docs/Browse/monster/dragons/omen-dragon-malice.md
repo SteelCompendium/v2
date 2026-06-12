@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Omen Dragon Malice
 scc: mcdm.monsters.v1/monster.dragons/omen-dragon-malice
 type: featureblock

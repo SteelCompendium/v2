@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: fossil-cryptic
 name: Fossil Cryptic
 scc: mcdm.monsters.v1/monster.group/fossil-cryptic

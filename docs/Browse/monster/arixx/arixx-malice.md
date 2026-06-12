@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Arixx Malice
 scc: mcdm.monsters.v1/monster.arixx/arixx-malice
 type: featureblock

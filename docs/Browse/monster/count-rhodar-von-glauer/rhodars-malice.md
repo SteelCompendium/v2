@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Rhodar's Malice
 scc: mcdm.monsters.v1/monster.count-rhodar-von-glauer/rhodars-malice
 type: featureblock

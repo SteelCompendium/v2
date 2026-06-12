@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 agility: 4
 ev: "120"
 free_strike: 9

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 direction: One side of the stakes is defined as the front.
 ev: "2"
 level: "1"

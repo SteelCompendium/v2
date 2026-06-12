@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 class: beastheart
 companion: lightbender
 level: "3"

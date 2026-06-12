@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Crucible Dragon Malice
 scc: mcdm.monsters.v1/monster.dragons/crucible-dragon-malice
 type: featureblock

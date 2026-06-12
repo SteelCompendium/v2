@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 echelon: "2"
 effect: The thunder chariot can be used as a [size](../../../rule/character/size.md) 2 mount. Its [speed](../../../rule/character/speed.md) is equal to its rider's [speed](../../../rule/character/speed.md) + 3.
 flavor: A porcelain cart with golden filigree and wheels that crackle with electricity.

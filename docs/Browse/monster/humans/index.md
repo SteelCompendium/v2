@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: humans
 name: Humans
 scc: mcdm.monsters.v1/monster.group/humans

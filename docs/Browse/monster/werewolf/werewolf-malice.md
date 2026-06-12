@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Werewolf Malice
 scc: mcdm.monsters.v1/monster.werewolf/werewolf-malice
 type: featureblock

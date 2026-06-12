@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Lord Syuul's Malice
 scc: mcdm.monsters.v1/monster.lord-syuul/lord-syuuls-malice
 type: featureblock

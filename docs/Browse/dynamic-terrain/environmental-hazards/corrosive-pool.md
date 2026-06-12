@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: 3 per 10 x 10 pool
 immunity: 20 to all damage except cold or fire damage
 level: "2"

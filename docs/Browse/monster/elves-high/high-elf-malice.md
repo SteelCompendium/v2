@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: High Elf Malice
 scc: mcdm.monsters.v1/monster.elves-high/high-elf-malice
 type: featureblock

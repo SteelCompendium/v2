@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: goblins
 name: Goblins
 scc: mcdm.monsters.v1/monster.group/goblins

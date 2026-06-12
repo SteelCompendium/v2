@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "14"
 immunity: 5 to all damage except corruption or fire damage
 level: "5"

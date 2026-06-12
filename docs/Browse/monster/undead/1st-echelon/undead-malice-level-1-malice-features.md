@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Undead Malice (Level 1+ Malice Features)
 scc: mcdm.monsters.v1/monster.undead.1st-echelon/undead-malice-level-1-malice-features
 type: featureblock

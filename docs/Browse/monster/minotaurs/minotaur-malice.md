@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Minotaur Malice
 scc: mcdm.monsters.v1/monster.minotaurs/minotaur-malice
 type: featureblock

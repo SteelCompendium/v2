@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 search:
   exclude: true
 name: The Beastheart Class

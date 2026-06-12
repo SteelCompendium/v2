@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 echelon: "3"
 effect: While holding the cross, it emits faint strings made of light that you can control with your mind.
 flavor: This shiny black marionette cross reveals a masked figure standing in its reflection where its wielder should be.

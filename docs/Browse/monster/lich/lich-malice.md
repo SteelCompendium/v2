@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Lich Malice
 scc: mcdm.monsters.v1/monster.lich/lich-malice
 type: featureblock

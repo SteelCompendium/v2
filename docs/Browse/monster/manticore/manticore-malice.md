@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Manticore Malice
 scc: mcdm.monsters.v1/monster.manticore/manticore-malice
 type: featureblock

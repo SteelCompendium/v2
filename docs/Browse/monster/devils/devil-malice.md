@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Devil Malice
 scc: mcdm.monsters.v1/monster.devils/devil-malice
 type: featureblock

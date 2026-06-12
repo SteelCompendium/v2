@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Fossil Cryptic Malice
 scc: mcdm.monsters.v1/monster.fossil-cryptic/fossil-cryptic-malice
 type: featureblock

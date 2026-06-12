@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: basilisks
 name: Basilisks
 scc: mcdm.monsters.v1/monster.group/basilisks

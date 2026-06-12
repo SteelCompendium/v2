@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Kobold Malice
 scc: mcdm.monsters.v1/monster.kobolds/kobold-malice
 type: featureblock

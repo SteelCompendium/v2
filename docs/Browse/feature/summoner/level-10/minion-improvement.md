@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 class: summoner
 level: "10"
 name: Minion Improvement

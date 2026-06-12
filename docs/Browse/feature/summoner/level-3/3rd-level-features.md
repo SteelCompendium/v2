@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 class: summoner
 level: "3"
 name: 3rd-Level Features

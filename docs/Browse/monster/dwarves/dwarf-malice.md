@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Dwarf Malice
 scc: mcdm.monsters.v1/monster.dwarves/dwarf-malice
 type: featureblock

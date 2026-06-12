@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 action_type: Free maneuver
 class: summoner
 distance: Self

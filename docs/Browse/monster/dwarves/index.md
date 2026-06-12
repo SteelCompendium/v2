@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: dwarves
 name: Dwarves
 scc: mcdm.monsters.v1/monster.group/dwarves

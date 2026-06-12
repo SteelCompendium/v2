@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Meteor Dragon Malice
 scc: mcdm.monsters.v1/monster.dragons/meteor-dragon-malice
 type: featureblock

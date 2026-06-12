@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Olothec Malice
 scc: mcdm.monsters.v1/monster.olothec/olothec-malice
 type: featureblock

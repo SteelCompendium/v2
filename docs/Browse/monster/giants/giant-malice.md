@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Giant Malice
 scc: mcdm.monsters.v1/monster.giants/giant-malice
 type: featureblock

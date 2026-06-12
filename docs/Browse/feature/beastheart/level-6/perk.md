@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 class: beastheart
 level: "6"
 name: Perk

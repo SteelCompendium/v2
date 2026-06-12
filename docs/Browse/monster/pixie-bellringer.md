@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 agility: 1
 ev: 5 for Four minions
 free_strike: 2

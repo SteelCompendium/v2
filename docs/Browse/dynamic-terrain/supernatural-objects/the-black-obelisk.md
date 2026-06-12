@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "20"
 level: "3"
 name: The Black Obelisk

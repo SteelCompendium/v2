@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 flavor: This battered shield bears a magically animated painting of a lion rampant.
 keywords:
     - Magic

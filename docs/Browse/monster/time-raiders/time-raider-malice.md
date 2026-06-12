@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Time Raider Malice
 scc: mcdm.monsters.v1/monster.time-raiders/time-raider-malice
 type: featureblock

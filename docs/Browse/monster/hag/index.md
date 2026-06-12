@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: hag
 name: Hag
 scc: mcdm.monsters.v1/monster.group/hag

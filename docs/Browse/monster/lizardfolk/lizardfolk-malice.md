@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Lizardfolk Malice
 scc: mcdm.monsters.v1/monster.lizardfolk/lizardfolk-malice
 type: featureblock

@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 companion: elemental-spark
 level: "1"
 name: Elemental Spark

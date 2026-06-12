@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 direction: The dart trap fires in a fixed direction.
 ev: "1"
 level: "1"

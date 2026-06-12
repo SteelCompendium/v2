@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 flavor: This conductor's baton has an unassuming and inornate steel body. It increases in length when it's swung and flashes a bright light when wanded at a regular interval.
 keywords:
     - Implement

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 agility: 5
 ev: 12 for four minions
 free_strike: 5

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Human Malice
 scc: mcdm.monsters.v1/monster.humans/human-malice
 type: featureblock

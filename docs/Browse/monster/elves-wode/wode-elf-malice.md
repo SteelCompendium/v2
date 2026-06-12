@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Wode Elf Malice
 scc: mcdm.monsters.v1/monster.elves-wode/wode-elf-malice
 type: featureblock

@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 action_type: Main action
 class: summoner
 distance: Melee 3

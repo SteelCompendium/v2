@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Wyvern Malice
 scc: mcdm.monsters.v1/monster.wyverns/wyvern-malice
 type: featureblock

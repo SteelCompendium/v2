@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Shambling Mound Malice
 scc: mcdm.monsters.v1/monster.shambling-mound/shambling-mound-malice
 type: featureblock

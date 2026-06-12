@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: elves-wode
 name: Elves, Wode
 scc: mcdm.monsters.v1/monster.group/elves-wode

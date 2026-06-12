@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 action_type: Main action
 class: beastheart
 distance: Melee 1 or ranged 5

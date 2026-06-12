@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Bredbeddle Malice
 scc: mcdm.monsters.v1/monster.bredbeddle/bredbeddle-malice
 type: featureblock

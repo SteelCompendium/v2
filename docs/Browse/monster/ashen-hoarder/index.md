@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: ashen-hoarder
 name: Ashen Hoarder
 scc: mcdm.monsters.v1/monster.group/ashen-hoarder

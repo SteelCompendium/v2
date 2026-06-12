@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Demon Malice (Level 7+ Malice Features)
 scc: mcdm.monsters.v1/monster.demons.3rd-echelon/demon-malice-level-7-malice-features
 type: featureblock

@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 ev: "1"
 level: "1"
 link: A switch is linked to another mechanism that it activates when triggered.

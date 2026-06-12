@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: ajax-the-invincible
 name: Ajax the Invincible
 scc: mcdm.monsters.v1/monster.group/ajax-the-invincible

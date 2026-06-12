@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: voiceless-talkers
 name: Voiceless Talkers
 scc: mcdm.monsters.v1/monster.group/voiceless-talkers

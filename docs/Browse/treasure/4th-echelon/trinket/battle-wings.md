@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 echelon: "4"
 effect: Only a beastheart's companion or an animal can wear this item. While wearing it, the creature grows feathered wings if they don't already have wings and can [fly](../../../movement/fly.md). If the creature can already fly, they gain a +3 bonus to their speed while flying.
 flavor: These gently undulating wings affix themselves to a creature's shoulders.

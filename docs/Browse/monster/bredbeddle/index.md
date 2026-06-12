@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: bredbeddle
 name: Bredbeddle
 scc: mcdm.monsters.v1/monster.group/bredbeddle

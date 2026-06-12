@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Ajax's Malice
 scc: mcdm.monsters.v1/monster.ajax-the-invincible/ajaxs-malice
 type: featureblock

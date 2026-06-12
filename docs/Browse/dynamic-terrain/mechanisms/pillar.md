@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 direction: The pillar topples in a preset direction.
 ev: "3"
 level: "2"

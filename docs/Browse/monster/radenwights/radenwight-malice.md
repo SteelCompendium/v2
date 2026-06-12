@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 name: Radenwight Malice
 scc: mcdm.monsters.v1/monster.radenwights/radenwight-malice
 type: featureblock

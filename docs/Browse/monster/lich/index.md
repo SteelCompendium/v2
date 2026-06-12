@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: lich
 name: Lich
 scc: mcdm.monsters.v1/monster.group/lich

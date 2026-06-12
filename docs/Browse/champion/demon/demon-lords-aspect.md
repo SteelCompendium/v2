@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Summoner"
 agility: 5
 free_strike: 9
 immunities:

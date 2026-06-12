@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: war-dogs
 name: War Dogs
 scc: mcdm.monsters.v1/monster.group/war-dogs

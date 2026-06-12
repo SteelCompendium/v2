@@ -1,4 +1,6 @@
 ---
+printing: "1.0"
+printing_book: "Beastheart"
 action_type: Free Triggered Action
 class: beastheart
 cost: 11 Ferocity

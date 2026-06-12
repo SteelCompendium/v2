@@ -1,4 +1,6 @@
 ---
+printing: "1.01"
+printing_book: "Bestiary"
 category: manticore
 name: Manticore
 scc: mcdm.monsters.v1/monster.group/manticore
