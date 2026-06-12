@@ -210,6 +210,9 @@
 .sb .sb__features .sc-ability, .sb .sb__band-body .sc-ability {
   margin: 0; border: none; border-radius: 9px; background: none; box-shadow: none; overflow: visible; transition: none; padding: 0;
 }
+/* FOOTGUN: this also hides the feature-separator ::before below (same pseudo-
+   element, same (0,3,0) specificity, earlier props win when uncontested) — the
+   separator rules re-declare display/opacity/mix-blend-mode to claw it back. */
 .sb .sb__features .sc-ability::before, .sb .sb__band-body .sc-ability::before { display: none; }
 .sb .sb__features .sc-ability:hover, .sb .sb__band-body .sc-ability:hover { transform: none; box-shadow: none; }
 
@@ -242,8 +245,17 @@
 /* ── non-crest modes → flat features with stylized-hr separators (line + dots + diamond) ── */
 :not([data-sb-kwusage="crest"]) .sb__features { gap: 0; }
 :not([data-sb-kwusage="crest"]) .sb__feat { padding: .9rem .2rem; }
-:not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat { position: relative; margin-top: .15rem; padding-top: 1.2rem; }
+/* the separator pseudos sit at the border-box top edge, so the visual gap is
+   margin-top above the divider and padding-top below it — keep them EQUAL or
+   the diamond drifts off-center (the flatten rule above zeroes .sb__feat's own
+   padding, so these two values are the whole gap). */
+:not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat { position: relative; margin-top: .65rem; padding-top: .65rem; }
 :not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat::before {
+  /* display/opacity/mix-blend-mode: undo the watermark kill above (display:none)
+     and the etched-watermark styling from steel-ability-cards.css (opacity .045
+     + overlay blend) — all three leak onto this same ::before and made the line
+     invisible no matter what the background below was set to. */
+  display: block; opacity: 1; mix-blend-mode: normal;
   content: ""; position: absolute; top: -2px; left: 5%; right: 5%; height: 4px;
   /* matches the site's stylized <hr> (steel-redesign.css): center-out steel
      line + two seed dots flanking the haloed diamond (the ::after below). */
@@ -331,9 +343,14 @@
 .sb__band[data-open="false"] .sb__band-body { display: none; }
 .sb__band-intro { font-family: var(--md-small-header-font); font-style: italic; color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.5; margin: .4rem .2rem .15rem; text-wrap: pretty; }
 .sb__band-source { font-variant: small-caps; font-style: normal; letter-spacing: .05em; color: var(--fx-metal); font-size: .82rem; }
-/* non-crest features inside a band still get flat separators */
-:not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat { position: relative; margin-top: .15rem; padding-top: 1.2rem; }
+/* non-crest features inside a band still get flat separators.
+   centering: gap above divider = band-body flex gap (.55rem) + margin-top,
+   gap below = padding-top — so margin-top is .65rem minus the flex gap. */
+:not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat { position: relative; margin-top: .1rem; padding-top: .65rem; }
 :not([data-sb-kwusage="crest"]) .sb__band-body .sb__feat + .sb__feat::before {
+  /* see the .sb__features separator above: re-enable the ::before that the
+     watermark-kill rule hides and strip the watermark opacity/blend. */
+  display: block; opacity: 1; mix-blend-mode: normal;
   content: ""; position: absolute; top: -2px; left: 5%; right: 5%; height: 4px;
   background:
     linear-gradient(to right, transparent, var(--fx-metal-line)) no-repeat left center,
