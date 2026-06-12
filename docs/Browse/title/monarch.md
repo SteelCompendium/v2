@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'You gain the following benefits:'
 flavor: The tyrant is dead! Long live the new king!
 name: Monarch

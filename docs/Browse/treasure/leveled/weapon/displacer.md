@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.
 keywords:
     - Medium Weapon

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "4"
 effect: As a maneuver, you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) to destroy this page and create a 4-[cube](../../../rule/combat/cube.md) area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 20 fire damage and is [dazed](../../../condition/dazed.md) until the end of their [turn](../../../rule/combat/turn.md).
 flavor: This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.

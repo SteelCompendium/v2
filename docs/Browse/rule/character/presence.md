@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Presence
 scc: mcdm.heroes.v1/rule.character/presence
 type: rule

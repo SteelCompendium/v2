@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 class: "null"
 level: "5"
 name: 5th-Level Tradition Feature

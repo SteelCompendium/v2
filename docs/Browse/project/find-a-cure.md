@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Find a Cure
 scc: mcdm.heroes.v1/project/find-a-cure
 type: project

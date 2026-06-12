@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This crystal blade houses a stormy vortex of fire, ice, and lightning.
 keywords:
     - Magic

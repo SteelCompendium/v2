@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Everybody know their assignments? All right, let's go.
 name: Heist Hero

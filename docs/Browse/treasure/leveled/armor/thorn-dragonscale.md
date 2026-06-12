@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Beastheart"
+printing_book: "The Beastheart"
 flavor: This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon's heartbeat.
 keywords:
     - Magic

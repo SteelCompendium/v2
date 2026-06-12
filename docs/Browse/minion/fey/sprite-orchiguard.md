@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 agility: 0
 free_strike: 4
 immunities:

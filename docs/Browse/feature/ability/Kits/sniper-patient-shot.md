@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Ranged](../../../rule/combat/ranged.md) 15'
 effect: If you don't take a move action this [turn](../../../rule/combat/turn.md), this [strike](../../../rule/combat/strike.md) deals extra damage equal to your [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md) score (your choice).

@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Beastheart"
+printing_book: "The Beastheart"
 class: beastheart
 level: "7"
 name: Rampage Improvement

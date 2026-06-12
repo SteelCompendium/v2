@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You grew crops or cared for livestock.
 language: One language
 name: Farmer

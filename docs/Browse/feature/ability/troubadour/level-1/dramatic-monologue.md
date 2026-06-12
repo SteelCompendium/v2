@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Maneuver
 class: troubadour
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'

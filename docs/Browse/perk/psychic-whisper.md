@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You have the following ability.
 name: Psychic Whisper
 scc: mcdm.heroes.v1/perk/psychic-whisper

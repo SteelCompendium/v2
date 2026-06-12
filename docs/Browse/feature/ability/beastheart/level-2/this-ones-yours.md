@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Beastheart"
+printing_book: "The Beastheart"
 action_type: Triggered Action
 class: beastheart
 effect: You end the [forced movement](../../../../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.

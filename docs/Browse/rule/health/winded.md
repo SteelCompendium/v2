@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Winded
 scc: mcdm.heroes.v1/rule.health/winded
 type: rule

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: For long years, you studied magic under the mentorship of a more experienced mage.
 language: One language
 name: Mage's Apprentice

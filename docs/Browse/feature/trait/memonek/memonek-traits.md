@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: memonek
 name: Memonek Traits
 scc: mcdm.heroes.v1/feature.trait.memonek/memonek-traits

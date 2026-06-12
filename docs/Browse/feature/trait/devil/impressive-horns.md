@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: devil
 name: Impressive Horns
 scc: mcdm.heroes.v1/feature.trait.devil/impressive-horns

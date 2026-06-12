@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown.
 keywords:
     - Magic

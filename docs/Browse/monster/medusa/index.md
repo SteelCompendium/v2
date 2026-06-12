@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: medusa
 name: Medusa
 scc: mcdm.monsters.v1/monster.group/medusa

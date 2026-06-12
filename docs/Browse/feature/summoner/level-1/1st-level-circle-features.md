@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 class: summoner
 level: "1"
 name: 1st-Level Circle Features

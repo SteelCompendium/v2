@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Kingfissure Worm Malice
 scc: mcdm.monsters.v1/monster.kingfissure-worm/kingfissure-worm-malice
 type: featureblock

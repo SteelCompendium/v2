@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This ring appears to be traced by dried blood, which returns each time it is rubbed away.
 keywords:
     - Magic

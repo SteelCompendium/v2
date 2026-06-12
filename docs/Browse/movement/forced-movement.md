@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Forced Movement
 scc: mcdm.heroes.v1/movement/forced-movement
 type: movement

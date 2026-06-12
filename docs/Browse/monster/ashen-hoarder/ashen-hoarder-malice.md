@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Ashen Hoarder Malice
 scc: mcdm.monsters.v1/monster.ashen-hoarder/ashen-hoarder-malice
 type: featureblock

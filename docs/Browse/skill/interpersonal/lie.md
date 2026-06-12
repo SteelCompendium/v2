@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Lie
 scc: mcdm.heroes.v1/skill.interpersonal/lie
 type: skill

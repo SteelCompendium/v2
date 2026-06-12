@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 agility: 1
 ev: 3 for 4 minions
 free_strike: 1

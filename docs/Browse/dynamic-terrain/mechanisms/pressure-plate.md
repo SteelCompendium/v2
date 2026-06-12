@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 ev: "2"
 level: "1"
 link: A pressure plate is linked to another mechanism that it activates when triggered.

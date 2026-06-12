@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: human
 name: 'Signature Trait: Detect the Supernatural'
 scc: mcdm.heroes.v1/feature.trait.human/detect-the-supernatural

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: In the past, you entertained the masses with flashy displays of violence in the arena.
 language: One language
 name: Gladiator

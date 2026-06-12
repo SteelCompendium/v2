@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Beastheart"
+printing_book: "The Beastheart"
 companion: drake
 level: "1"
 name: Drake

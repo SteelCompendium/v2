@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "4"
 effect: When opened as a maneuver, this vial [bursts](../../../rule/combat/burst.md) into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 [Recoveries](../../../rule/health/recoveries.md). However, any mortal using this treasure draws the interest of a powerful fey noble.
 flavor: An ornately decorated golden vial smells of summer rain and subtle zesty fruits.

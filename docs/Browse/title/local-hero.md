@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!
 name: Local Hero

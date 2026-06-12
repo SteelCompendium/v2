@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Falling
 scc: mcdm.heroes.v1/rule.health/falling
 type: rule

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'You are given a position of great authority in your faction. Additionally, you gain the following benefits:'
 flavor: If you want or need something, talk to me. I have a certain... influence in these parts.
 name: Faction Officer

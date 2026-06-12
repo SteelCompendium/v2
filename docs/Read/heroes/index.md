@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Heroes
+# Draw Steel: Heroes
 
 ---
 

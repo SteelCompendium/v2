@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This blade exudes a faint hum that grows louder as its quarry weakens.
 keywords:
     - Heavy Weapon

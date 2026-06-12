@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Temporary Stamina
 scc: mcdm.heroes.v1/rule.health/temporary-stamina
 type: rule

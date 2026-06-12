@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Haul down your flag or we'll burn you to the waterline!
 name: Corsair

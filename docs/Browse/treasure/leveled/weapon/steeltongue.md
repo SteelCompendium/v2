@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This sinuous whip reflects all light off its plated steel surfaces.
 keywords:
     - Magic

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 flavor: A well-placed shot leaves your enemy struggling to move.

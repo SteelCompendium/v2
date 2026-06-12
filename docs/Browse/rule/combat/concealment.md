@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Concealment
 scc: mcdm.heroes.v1/rule.combat/concealment
 type: rule

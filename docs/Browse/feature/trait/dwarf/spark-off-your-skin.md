@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: dwarf
 name: Spark Off Your Skin
 scc: mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin

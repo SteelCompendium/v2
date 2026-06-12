@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Society
 scc: mcdm.heroes.v1/skill.lore/society
 type: skill

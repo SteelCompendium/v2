@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 class: conduit
 distance: 2 [burst](../../../../rule/combat/burst.md)

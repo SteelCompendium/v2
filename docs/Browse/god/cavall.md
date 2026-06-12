@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Cavall
 scc: mcdm.heroes.v1/god/cavall
 type: god

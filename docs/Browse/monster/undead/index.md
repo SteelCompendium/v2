@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: undead
 name: Undead
 scc: mcdm.monsters.v1/monster.group/undead

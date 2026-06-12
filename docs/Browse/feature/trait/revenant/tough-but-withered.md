@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: revenant
 name: 'Signature Trait: Tough But Withered'
 scc: mcdm.heroes.v1/feature.trait.revenant/tough-but-withered

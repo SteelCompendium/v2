@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Griffon Malice
 scc: mcdm.monsters.v1/monster.griffons/griffon-malice
 type: featureblock

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: I will follow you to the ends of the earth—just so I can kick you off the edge.
 name: Sworn Hunter

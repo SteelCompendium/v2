@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 keywords:
     - '**Stamina:** 20 + your level'
 name: Primordial Crystal

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Object Stamina
 scc: mcdm.heroes.v1/rule.general/unattended-object
 type: rule

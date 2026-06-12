@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Strike
 scc: mcdm.heroes.v1/rule.combat/strike
 type: rule

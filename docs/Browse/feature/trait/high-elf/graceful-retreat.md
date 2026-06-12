@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: high-elf
 name: Graceful Retreat
 scc: mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat

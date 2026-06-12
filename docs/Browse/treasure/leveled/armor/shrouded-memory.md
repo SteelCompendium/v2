@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.
 keywords:
     - Light Armor

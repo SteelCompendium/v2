@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.

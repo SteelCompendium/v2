@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 class: tactician
 level: "8"
 name: 8th-Level Doctrine Feature

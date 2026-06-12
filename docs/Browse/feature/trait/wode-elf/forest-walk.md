@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
 name: Forest Walk
 scc: mcdm.heroes.v1/feature.trait.wode-elf/forest-walk

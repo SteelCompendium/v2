@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 ev: 2 per 10 x 10 field
 level: "2"
 name: Toxic Plants

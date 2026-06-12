@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Higher Authority
 scc: mcdm.heroes.v1/negotiation/higher-authority
 type: negotiation

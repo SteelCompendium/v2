@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You worked as a farmer, builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor.
 language: One language
 name: Laborer

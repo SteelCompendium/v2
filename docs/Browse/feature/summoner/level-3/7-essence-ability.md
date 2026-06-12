@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 class: summoner
 level: "3"
 name: 7-Essence Ability

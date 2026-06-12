@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Creatures and Objects
 scc: mcdm.heroes.v1/rule.general/creature
 type: rule

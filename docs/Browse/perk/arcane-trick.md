@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You have the following ability.
 name: Arcane Trick
 scc: mcdm.heroes.v1/perk/arcane-trick

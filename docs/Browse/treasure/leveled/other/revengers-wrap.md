@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: When first handled, this tattered cloak fills the mind with thoughts of revenge.
 keywords:
     - Neck

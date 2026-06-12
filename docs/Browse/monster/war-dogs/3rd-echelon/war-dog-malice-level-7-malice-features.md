@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: War Dog Malice (Level 7+ Malice Features)
 scc: mcdm.monsters.v1/monster.war-dogs.3rd-echelon/war-dog-malice-level-7-malice-features
 type: featureblock

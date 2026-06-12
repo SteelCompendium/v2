@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Undead Malice (Level 10 Malice Features)
 scc: mcdm.monsters.v1/monster.undead.4th-echelon/undead-malice-level-10-malice-features
 type: featureblock

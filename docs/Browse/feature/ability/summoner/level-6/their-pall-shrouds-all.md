@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 action_type: Maneuver
 class: summoner
 distance: 4 burst

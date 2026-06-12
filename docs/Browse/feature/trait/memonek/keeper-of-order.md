@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: memonek
 name: Keeper of Order
 scc: mcdm.heroes.v1/feature.trait.memonek/keeper-of-order

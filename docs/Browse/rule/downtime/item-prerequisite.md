@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Item Prerequisite
 scc: mcdm.heroes.v1/rule.downtime/item-prerequisite
 type: rule

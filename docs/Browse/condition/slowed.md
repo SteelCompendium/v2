@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Slowed
 scc: mcdm.heroes.v1/condition/slowed
 type: condition

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Build Airship
 scc: mcdm.heroes.v1/project/build-airship
 type: project

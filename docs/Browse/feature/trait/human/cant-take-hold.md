@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: human
 name: Can't Take Hold
 scc: mcdm.heroes.v1/feature.trait.human/cant-take-hold

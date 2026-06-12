@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 flavor: This spiral hunting horn is embellished with branching veins of copper across the body. The metal glows red hot as the horn is blown.
 keywords:
     - Implement

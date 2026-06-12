@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: ajax-the-invincible
 name: Ajax the Invincible
 scc: mcdm.monsters.v1/monster.group/ajax-the-invincible

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: An unseen force seems to draw this steel shield toward nearby creatures.
 keywords:
     - Psionic

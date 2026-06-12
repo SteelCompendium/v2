@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: count-rhodar-von-glauer
 name: Count Rhodar Von Glauer
 scc: mcdm.monsters.v1/monster.group/count-rhodar-von-glauer

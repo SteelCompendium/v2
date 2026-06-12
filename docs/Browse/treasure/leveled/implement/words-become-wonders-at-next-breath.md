@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This ornate high elf tome seems to sigh each time it is opened.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

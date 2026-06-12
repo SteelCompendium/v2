@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: No action
 class: troubadour
 distance: 2 [aura](../../../../rule/combat/aura.md)

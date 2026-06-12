@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!
 name: Monster Bane

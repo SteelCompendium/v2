@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
 name: Wode Elf Traits
 scc: mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits

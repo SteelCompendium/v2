@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This bronze bottle has been shaped into the form of a ghostly figure.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

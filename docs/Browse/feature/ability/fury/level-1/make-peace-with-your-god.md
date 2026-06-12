@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: '[Free maneuver](../../../../rule/combat/free-maneuver.md)'
 class: fury
 cost: 5 Ferocity

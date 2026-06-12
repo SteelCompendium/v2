@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Learn From a Master
 scc: mcdm.heroes.v1/project/learn-from-a-master
 type: project

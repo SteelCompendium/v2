@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Power Rolls
 scc: mcdm.heroes.v1/rule.dice/power-roll
 type: rule

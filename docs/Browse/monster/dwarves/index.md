@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: dwarves
 name: Dwarves
 scc: mcdm.monsters.v1/monster.group/dwarves

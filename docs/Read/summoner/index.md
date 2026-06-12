@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Summoner
+# The Summoner
 
 ---
 

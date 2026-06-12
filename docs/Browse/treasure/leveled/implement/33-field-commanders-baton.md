@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 flavor: This long, ornate rod with a silver bulb head is braided with 33 green cords. A new cord starts to grow while you wield the baton.
 keywords:
     - Implement

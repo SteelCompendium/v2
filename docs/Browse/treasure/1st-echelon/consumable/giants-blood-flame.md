@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "1"
 effect: As a maneuver, you coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using a weapon that is ignited this way, the ability deals an extra 2 fire damage.
 flavor: A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.

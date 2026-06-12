@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "2"
 effect: While worn, this belt grants you a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) and a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stability](../../../rule/character/stability.md). This [Stamina](../../../rule/health/stamina.md) [bonus](../../../rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../../../rule/health/stamina.md) [bonus](../../../rule/dice/bonuses-and-penalties.md) granted by other treasures.
 flavor: This thick leather belt features a bone clasp and feels unusually heavy when handled.

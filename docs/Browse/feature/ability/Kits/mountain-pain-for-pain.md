@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: If the target dealt damage to you since the end of your last [turn](../../../rule/combat/turn.md), this [strike](../../../rule/combat/strike.md) deals additional damage equal to your [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md) score (your choice).

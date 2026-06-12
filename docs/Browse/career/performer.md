@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You can sing, act, or dance well enough that people actually pay you to do it. Imagine that!
 name: Performer
 perk: One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)

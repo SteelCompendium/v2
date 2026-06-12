@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Reactive Tests
 scc: mcdm.heroes.v1/rule.test/reactive-test
 type: rule

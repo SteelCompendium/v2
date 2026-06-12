@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 ev: 4 per 10 x 10 patch
 immunity: 20 to all damage except cold damage
 level: "3"

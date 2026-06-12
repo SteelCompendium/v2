@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "2"
 effect: 'As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin''s effect, depending on which face shows when it lands:'
 flavor: This small, featureless coin is solid green on one side and solid red on the other.

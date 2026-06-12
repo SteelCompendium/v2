@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This needlelike lance is cast of shimmering metal and induces a yearning for the skies in those who handle it.
 keywords:
     - Magic

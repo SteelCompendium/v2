@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Imbue Implement
 scc: mcdm.heroes.v1/rule.treasure/implement
 type: rule

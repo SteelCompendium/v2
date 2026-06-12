@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This long, sinuous chain is composed entirely of broken links held together by unseen power.
 keywords:
     - Psionic

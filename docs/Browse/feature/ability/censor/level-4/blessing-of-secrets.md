@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Maneuver
 class: censor
 distance: 3 [aura](../../../../rule/combat/aura.md)

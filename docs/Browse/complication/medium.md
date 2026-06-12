@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You can perceive ghosts and spirits that others don't sense. These supernatural entities constantly whisper unsettling secrets in your mind—when they're not trying to kill you.
 name: Medium
 scc: mcdm.heroes.v1/complication/medium

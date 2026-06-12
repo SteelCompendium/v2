@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 effect: At the start of a combat encounter, you can choose to translate yourself into your circle's source manifold while your champion fights and summons monsters in your place. The champion uses your [Stamina](../rule/health/stamina.md), [Recoveries](../rule/health/recoveries.md), abilities, and features (except for your [Summoner Strike](../feature/summoner/level-1/summoner-strike.md) and [Summoner's Kit](../feature/summoner/level-3/summoners-kit.md)). You can dismiss the champion and summon yourself back into the place you left at the end of an encounter.
 flavor: They're all yours, buddy.
 name: Delegator

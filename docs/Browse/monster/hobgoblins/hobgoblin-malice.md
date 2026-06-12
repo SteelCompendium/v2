@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Hobgoblin Malice
 scc: mcdm.monsters.v1/monster.hobgoblins/hobgoblin-malice
 type: featureblock

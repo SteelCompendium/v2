@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: polder
 name: Graceful Retreat
 scc: mcdm.heroes.v1/feature.trait.polder/graceful-retreat

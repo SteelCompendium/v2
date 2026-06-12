@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: orc
 name: 'Signature Trait: Relentless'
 scc: mcdm.heroes.v1/feature.trait.orc/relentless

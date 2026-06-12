@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 effect: 'Choose one of the following benefits:'
 flavor: Let's find out who's on the other side of the circle.
 name: Sigilwright

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Orden and the Timescape
 scc: mcdm.heroes.v1/rule.world/orden
 type: rule

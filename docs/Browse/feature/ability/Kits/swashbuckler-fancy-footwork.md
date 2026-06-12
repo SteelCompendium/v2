@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you [push](../../../movement/forced-movement.md) them.

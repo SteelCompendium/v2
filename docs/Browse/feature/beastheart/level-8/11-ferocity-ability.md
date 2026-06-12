@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Beastheart"
+printing_book: "The Beastheart"
 class: beastheart
 level: "8"
 name: 11-Ferocity Ability

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: Shimmering light flows like liquid along this suit of crystalline armor.
 keywords:
     - Heavy Armor

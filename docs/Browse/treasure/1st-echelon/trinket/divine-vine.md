@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "1"
 effect: As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../../condition/grabbed.md), you can choose to keep the divine vine extended, [pull](../../../movement/forced-movement.md) the target [adjacent](../../../rule/combat/adjacent.md) to you, or [pull](../../../movement/forced-movement.md) yourself [adjacent](../../../rule/combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../../../rule/combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 flavor: A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.

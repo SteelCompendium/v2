@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Rival Malice (Level 1+ Malice Features)
 scc: mcdm.monsters.v1/monster.rivals/rival-malice-level-1-malice-features
 type: featureblock

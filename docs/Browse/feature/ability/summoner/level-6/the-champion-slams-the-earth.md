@@ -1,6 +1,6 @@
 ---
 printing: "1.0"
-printing_book: "Summoner"
+printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: 4 cube within 1

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: memonek
 name: Systematic Mind
 scc: mcdm.heroes.v1/feature.trait.memonek/systematic-mind

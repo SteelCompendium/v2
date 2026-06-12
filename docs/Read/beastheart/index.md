@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Beastheart
+# The Beastheart
 
 ---
 

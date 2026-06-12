@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Perfect New Recipe
 scc: mcdm.heroes.v1/project/perfect-new-recipe
 type: project

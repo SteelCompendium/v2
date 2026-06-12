@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "1"
 effect: When you damage an [adjacent](../../../rule/combat/adjacent.md) creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](../../../rule/health/stamina.md) equal to half the damage dealt. If you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) while you drink, you regain [Stamina](../../../rule/health/stamina.md) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 flavor: A brittle glass tube has a ruby set atop it, attached by a hinge.

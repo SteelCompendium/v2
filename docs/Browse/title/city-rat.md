@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 effect: 'Choose one of the following benefits:'
 flavor: Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.
 name: City Rat

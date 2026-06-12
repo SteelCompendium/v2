@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.
 name: Monster Whisperer
 scc: mcdm.heroes.v1/perk/monster-whisperer

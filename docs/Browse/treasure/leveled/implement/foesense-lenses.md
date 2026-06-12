@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: These spectacles feature pink-tinted glass lenses held in a silver frame.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

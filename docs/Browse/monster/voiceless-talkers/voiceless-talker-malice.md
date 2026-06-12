@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 name: Voiceless Talker Malice
 scc: mcdm.monsters.v1/monster.voiceless-talkers/voiceless-talker-malice
 type: featureblock

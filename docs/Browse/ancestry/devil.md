@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 name: Devil
 scc: mcdm.heroes.v1/ancestry/devil

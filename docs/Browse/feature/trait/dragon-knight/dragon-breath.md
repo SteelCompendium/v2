@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: dragon-knight
 name: Dragon Breath
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath

@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Discover Lore
 scc: mcdm.heroes.v1/project/discover-lore
 type: project

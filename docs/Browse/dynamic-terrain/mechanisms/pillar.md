@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 direction: The pillar topples in a preset direction.
 ev: "3"
 level: "2"

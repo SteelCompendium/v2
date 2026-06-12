@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: human
 name: Perseverance
 scc: mcdm.heroes.v1/feature.trait.human/perseverance

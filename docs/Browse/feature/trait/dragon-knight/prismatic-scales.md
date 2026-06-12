@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: dragon-knight
 name: Prismatic Scales
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales

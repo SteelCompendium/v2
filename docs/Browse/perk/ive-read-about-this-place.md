@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: 'Each time you enter a settlement you''ve never been to before, you can ask the Director one of the following questions:'
 name: I've Read About This Place
 scc: mcdm.heroes.v1/perk/ive-read-about-this-place

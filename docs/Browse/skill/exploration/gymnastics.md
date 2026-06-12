@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Gymnastics
 scc: mcdm.heroes.v1/skill.exploration/gymnastics
 type: skill

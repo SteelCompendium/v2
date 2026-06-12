@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 name: Search for Hidden Creatures
 scc: mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures
 type: feature

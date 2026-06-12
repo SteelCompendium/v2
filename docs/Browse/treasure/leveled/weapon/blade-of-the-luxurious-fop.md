@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.
 keywords:
     - Light Weapon

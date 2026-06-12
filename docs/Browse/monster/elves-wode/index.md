@@ -1,6 +1,6 @@
 ---
 printing: "1.01"
-printing_book: "Bestiary"
+printing_book: "Draw Steel: Monsters"
 category: elves-wode
 name: Elves, Wode
 scc: mcdm.monsters.v1/monster.group/elves-wode

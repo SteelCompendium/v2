@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 flavor: This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.
 keywords:
     - Psionic

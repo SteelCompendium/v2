@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 ancestry: revenant
 name: Vengeance Mark
 scc: mcdm.heroes.v1/feature.trait.revenant/vengeance-mark

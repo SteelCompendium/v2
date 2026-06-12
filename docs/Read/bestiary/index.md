@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# Bestiary
+# Draw Steel: Monsters
 
 ---
 

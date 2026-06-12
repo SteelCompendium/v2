@@ -1,6 +1,6 @@
 ---
 printing: "1.01b"
-printing_book: "Heroes"
+printing_book: "Draw Steel: Heroes"
 echelon: "2"
 effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).
 flavor: A perfectly preserved eyeball hangs unnervingly from a gold chain.
