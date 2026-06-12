@@ -21,6 +21,19 @@ th:empty {
     font-size: calc(0.8rem * var(--sc-content-scale));
 }
 
+/* Pin the root font size — disable Material's responsive type scaling.
+   Material keeps html{font-size:125%} as the base, then steps it UP at wide
+   breakpoints (137.5% at >=100em, 150% at >=125em). Every rem-based size —
+   headings, spacing, and rem-threshold layouts like the multi-column statblock
+   (`columns: 28rem`) — resolves against that root size, so crossing a breakpoint
+   makes content enlarge and the statblock column count flip (1->2->1) mid-resize.
+   Re-declare both breakpoints at the 125% base so sizing is stable at any window
+   width. These load after Material's main.css (extra_css order) and match its
+   selector exactly, so they win on the cascade. The Text size slider
+   (--sc-content-scale) stays the intentional, persistent way to scale reading. */
+@media screen and (min-width: 100em) { html { font-size: 125%; } }
+@media screen and (min-width: 125em) { html { font-size: 125%; } }
+
 /* Card size multiplier, driven live by the settings panel (settings-panel.js
    sets --sc-card-scale on <html>). The generated ability/trait cards size
    everything in rem/px, so they don't follow --sc-content-scale; `zoom` scales
