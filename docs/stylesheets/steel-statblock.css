@@ -249,7 +249,7 @@
    margin-top above the divider and padding-top below it — keep them EQUAL or
    the diamond drifts off-center (the flatten rule above zeroes .sb__feat's own
    padding, so these two values are the whole gap). */
-:not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat { position: relative; margin-top: .65rem; padding-top: .65rem; }
+:not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat { position: relative; margin-top: 1.25rem; padding-top: 1.25rem; }
 :not([data-sb-kwusage="crest"]) .sb__feat + .sb__feat::before {
   /* display/opacity/mix-blend-mode: undo the watermark kill above (display:none)
      and the etched-watermark styling from steel-ability-cards.css (opacity .045
