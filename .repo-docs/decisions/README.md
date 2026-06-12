@@ -90,3 +90,4 @@ Leave blank if recent. Fill in once there's real experience to report.
 | 2026-06-05 | [CI deploy build-time performance investigation](2026-06-05-ci-deploy-build-time-perf.md) | proposed |
 | 2026-06-09 | [Data islands must be found without their attributes (instant-nav script stripping)](2026-06-09-instant-nav-strips-script-attrs.md) | accepted |
 | 2026-06-11 | [Client scripts that mount page content must be navigation.instant-safe](2026-06-11-client-scripts-navigation-instant.md) | accepted |
+| 2026-06-12 | [Breadcrumb home crumb reads "Home"](2026-06-12-breadcrumb-home-crumb.md) | accepted |
