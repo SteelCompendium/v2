@@ -26,16 +26,16 @@
   // Each piece is an independent <html data-sb-*> attribute; presets just set a
   // bundle of them at once. Persisted under prefs.statblock.{key}. Defaults below
   // mirror the "Steel Card" preset and the early-apply in overrides/main.html.
-  var SB_KEYS = ["kwusage", "disttarget", "meta", "charline", "charbox", "villain", "wide", "stickymeta"];
+  var SB_KEYS = ["kwusage", "featstyle", "disttarget", "meta", "charline", "charbox", "villain", "wide", "stickymeta"];
   var SB_DEFAULTS = {
-    kwusage: "crest", disttarget: "grid", meta: "grid", charline: "two",
+    kwusage: "crest", featstyle: "card", disttarget: "grid", meta: "grid", charline: "two",
     charbox: "off", villain: "banded", wide: "off", stickymeta: "on"
   };
   // Presets are bundles of the per-piece attrs (stickymeta is a web-extra, not in presets).
   var SB_PRESETS = {
-    steel:      { kwusage: "crest", disttarget: "grid", meta: "grid", charline: "two", charbox: "off", villain: "banded", wide: "off" },
-    sourcebook: { kwusage: "text", disttarget: "text", meta: "ledger", charline: "one", charbox: "on", villain: "inline", wide: "off" },
-    index:      { kwusage: "grid", disttarget: "grid", meta: "gridc", charline: "two", charbox: "onword", villain: "banded", wide: "off" }
+    steel:      { kwusage: "crest", featstyle: "card", disttarget: "grid", meta: "grid", charline: "two", charbox: "off", villain: "banded", wide: "off" },
+    sourcebook: { kwusage: "text", featstyle: "flat", disttarget: "text", meta: "ledger", charline: "one", charbox: "on", villain: "inline", wide: "off" },
+    index:      { kwusage: "grid", featstyle: "flat", disttarget: "grid", meta: "gridc", charline: "two", charbox: "onword", villain: "banded", wide: "off" }
   };
 
   var FONT_OPTIONS = {
@@ -145,6 +145,12 @@
   }
 
   var prefs = C.loadPrefs(localStorage);
+  // Legacy migration (matched pair with the early-apply in overrides/main.html):
+  // prefs saved before data-sb-featstyle existed get it derived from kwusage,
+  // so non-crest custom/Sourcebook/Index users keep their flat look.
+  if (prefs.statblock && !prefs.statblock.featstyle && prefs.statblock.kwusage && prefs.statblock.kwusage !== "crest") {
+    prefs.statblock.featstyle = "flat";
+  }
   applyAll(prefs); // re-assert (covers contentScale even if inline early-apply predates it)
 
   function persist() { C.savePrefs(localStorage, prefs); }
@@ -300,6 +306,14 @@
           '</fieldset>' +
 
           '<fieldset class="sc-set__sub"><legend>Features</legend>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-featstyle">Feature style' +
+                sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-featstyle">' +
+                '<option value="card">Cards</option>' +
+                '<option value="flat">Flat + separators</option>' +
+              '</select>' +
+            '</div>' +
             '<div class="sc-set__row">' +
               '<label class="sc-set__label" for="set-sb-kwusage">Keyword + usage' +
                 sbHelp("How each feature shows its keywords and action type. Crest is the only mode with the heraldic crest.") + '</label>' +
@@ -567,8 +581,8 @@
     function sb() { return prefs.statblock || (prefs.statblock = {}); }
 
     var pieceIds = {
-      kwusage: "set-sb-kwusage", disttarget: "set-sb-disttarget", meta: "set-sb-meta",
-      charline: "set-sb-charline", charbox: "set-sb-charbox", villain: "set-sb-villain"
+      kwusage: "set-sb-kwusage", featstyle: "set-sb-featstyle", disttarget: "set-sb-disttarget",
+      meta: "set-sb-meta", charline: "set-sb-charline", charbox: "set-sb-charbox", villain: "set-sb-villain"
     };
     var presetSel = drawer.querySelector("#set-sb-preset");
     var wide = drawer.querySelector("#set-sb-wide");
