@@ -94,8 +94,8 @@
 .sb__head::after {                                  /* the centered diamond, sitting ON the border */
   content: ""; position: absolute; left: 50%; bottom: 0; width: 9px; height: 9px;
   transform: translate(-50%, 50%) rotate(45deg);
-  background: var(--fx-metal);
-  box-shadow: var(--fx-emboss);
+  background: var(--role);
+  box-shadow: 0 0 0 4px var(--sb-plate-solid), 0 0 0 5px color-mix(in srgb, var(--role) 40%, var(--sb-plate-solid));
 }
 .sb__head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
 .sb__kw {
