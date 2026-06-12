@@ -60,6 +60,13 @@ const FEAT_PROBE = (idx) => {
   };
 };
 
+// Chromium serializes computed colors with 8-bit-rounded alpha — compare with
+// tolerance instead of exact string match.
+function alphaNear(rgba, expected) {
+  const m = /^rgba\(0, 0, 0, ([\d.]+)\)$/.exec(rgba || "");
+  return !!m && Math.abs(parseFloat(m[1]) - expected) < 0.003;
+}
+
 (async () => {
   const { chromium } = resolvePlaywrightCore();
   const browser = await chromium.launch({ executablePath: BRAVE, headless: true, args: ["--no-sandbox"] });
@@ -75,15 +82,15 @@ const FEAT_PROBE = (idx) => {
   let f = await page.evaluate(FEAT_PROBE, 1);
   check("card: 3px solid action-colored left border", f.borderLeftWidth === "3px" && f.borderLeftStyle === "solid",
     f.borderLeftWidth + " " + f.borderLeftStyle);
-  check("card: tinted container background (dark scheme rgba(0,0,0,0.16))",
-    f.background === "rgba(0, 0, 0, 0.16)", f.background);
+  check("card: tinted container background (dark scheme rgba(0,0,0,.16))",
+    alphaNear(f.background, 0.16), f.background);
   check("card: no separator/watermark pseudo", f.beforeDisplay === "none", f.beforeDisplay);
 
   // ---- light scheme card tint (dead scheme-first selector regression) ----
   await page.evaluate(() => document.body.setAttribute("data-md-color-scheme", "default"));
   f = await page.evaluate(FEAT_PROBE, 1);
-  check("card/light: light tint applies (rgba(0,0,0,0.022))",
-    f.background === "rgba(0, 0, 0, 0.022)", f.background);
+  check("card/light: light tint applies (rgba(0,0,0,.022))",
+    alphaNear(f.background, 0.022), f.background);
   await page.evaluate(() => document.body.setAttribute("data-md-color-scheme", "slate"));
 
   // ---- hover guard (kill rule floor) ----
