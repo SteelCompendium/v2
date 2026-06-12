@@ -1,6 +1,9 @@
 # steel-etl site configuration for the v2 MkDocs website
 # Usage: steel-etl site --config v2/site.yaml
 
+# SCC registry (for per-book printing provenance stamps)
+registry: ../steel-etl/classification.json
+
 # Source: steel-etl md-linked output (multiple books merged by type)
 source_dirs:
   - ../data/data-rules/en/md-linked

@@ -485,3 +485,12 @@ th:empty {
     contain-intrinsic-size: auto 200px;
   }
 }
+
+/* Per-page source-printing provenance stamp (printing/printing_book
+   frontmatter injected by steel-etl site; rendered in overrides/partials/content.html) */
+.sc-provenance {
+  margin-top: 2.4rem;
+  text-align: right;
+  opacity: 0.55;
+  font-size: 0.64rem;
+}
