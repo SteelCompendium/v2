@@ -54,7 +54,6 @@ theme:
     # - navigation.instant.preview
     - navigation.path
     - toc.follow
-    - toc.integrate
 # Extensions
 markdown_extensions:
   - footnotes
