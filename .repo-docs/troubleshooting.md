@@ -65,8 +65,11 @@ silently, regardless of which file you're editing. Statblock features are
 1. `steel-ability-cards.css` paints it as the etched watermark — and leaks
    `opacity: .045` + `mix-blend-mode: overlay` onto anything else drawn there.
 2. `steel-statblock.css`'s watermark-kill rule
-   (`.sb .sb__features .sc-ability::before { display: none }`) hides it entirely,
-   at the same (0,3,0) specificity as the separator rules.
+   (`.sb .sb__feat::before { display: none }`) hides it entirely — since the
+   2026-06-12 featstyle restructure it sits at (0,2,1), deliberately BELOW the
+   (0,3,1) separator rules, but it still display:none's every feature ::before
+   that no mode rule repurposes (e.g. the first feature, and every feature in
+   card mode).
 3. The separator rules set `background`/position but (originally) never re-declared
    `display`/`opacity`/`mix-blend-mode` — so the line was `display: none` at 4.5%
    opacity, and every background tweak was applied to an invisible box.
@@ -74,6 +77,12 @@ silently, regardless of which file you're editing. Statblock features are
 **Fix (commit `cb165cfd75`):** any rule that *repurposes* a contested pseudo-element must
 re-declare the suppression properties: `display: block; opacity: 1; mix-blend-mode: normal;`.
 The footgun is commented at the watermark-kill rule in `steel-statblock.css`.
+
+**2026-06-12 update:** the kill rules are now pinned to exact specificity floors and
+the separators are anchored on `[data-sb-featstyle="flat"]` (see
+`plans/2026-06-12-statblock-feature-style.md`). The re-declaration rule still
+applies: any rule repurposing a contested pseudo-element declares
+`display`/`opacity`/`mix-blend-mode` itself.
 
 **Diagnose before touching backgrounds** — read the computed style of the pseudo-element
 itself (browser devtools, or the Brave recipe below):
