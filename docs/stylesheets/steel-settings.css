@@ -118,18 +118,22 @@
   letter-spacing: 0.08em;
   color: var(--md-default-fg-color--light);
 }
-.sc-set__group--fonts > summary {
+.sc-set__group--fonts > summary,
+.sc-set__group--sb > summary {
   cursor: pointer;
   list-style: none;
 }
-.sc-set__group--fonts > summary::-webkit-details-marker { display: none; }
-.sc-set__group--fonts > summary::after {
+.sc-set__group--fonts > summary::-webkit-details-marker,
+.sc-set__group--sb > summary::-webkit-details-marker { display: none; }
+.sc-set__group--fonts > summary::after,
+.sc-set__group--sb > summary::after {
   content: " \25B8";
   color: var(--fx-metal, var(--md-default-fg-color--lighter));
 }
-.sc-set__group--fonts[open] > summary::after { content: " \25BE"; }
+.sc-set__group--fonts[open] > summary::after,
+.sc-set__group--sb[open] > summary::after { content: " \25BE"; }
 
-/* ── Statblock group: clearly-isolated bordered box ── */
+/* ── Statblock group: clearly-isolated bordered box (collapsible) ── */
 .sc-set__group--sb {
   border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
   border-radius: 0.55rem;
@@ -137,6 +141,9 @@
   background: rgba(0, 0, 0, 0.14);
 }
 [data-md-color-scheme="default"] .sc-set__group--sb { background: rgba(0, 0, 0, 0.02); }
+/* collapsed: the summary is the whole box — drop its heading margin */
+.sc-set__group--sb:not([open]) { padding-bottom: 0.75rem; }
+.sc-set__group--sb:not([open]) > summary { margin-bottom: 0; }
 
 /* sub-fieldsets inside the statblock box (Stats / Features / Web extras) */
 .sc-set__sub {
@@ -157,14 +164,17 @@
   color: var(--md-default-fg-color--light);
 }
 
-/* ── "?" help bubble + pure-CSS tooltip ── */
+/* ── "?" help bubble + pure-CSS tooltip ──
+   The tooltip is the bubble's ::after but positions against the ROW (the
+   bubble itself is NOT positioned; .sc-set__row is) and spans it edge to
+   edge — anchoring to the bubble let tooltips extend past the drawer edge,
+   where the drawer's overflow clipped them (they can't spill onto the page). */
 .sc-set__help {
   display: inline-grid;
   place-items: center;
   width: 0.95rem;
   height: 0.95rem;
   margin-left: 0.4rem;
-  position: relative;
   vertical-align: text-bottom;
   border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lighter));
   border-radius: 50%;
@@ -182,11 +192,10 @@
 }
 .sc-set__help::after {
   content: attr(data-tip);
-  position: absolute;
-  right: -0.4rem;
-  bottom: calc(100% + 0.45rem);
-  width: max-content;
-  max-width: 14.5rem;
+  position: absolute; /* containing block: the position:relative .sc-set__row */
+  left: 0;
+  right: 0;
+  bottom: calc(100% + 0.3rem);
   padding: 0.45rem 0.6rem;
   border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
   border-radius: 0.35rem;
@@ -218,6 +227,7 @@
 
 .sc-set__row {
   margin: 0 0 0.85rem;
+  position: relative; /* containing block for the .sc-set__help tooltip */
 }
 .sc-set__row:last-child { margin-bottom: 0; }
 .sc-set__row label.sc-set__label {

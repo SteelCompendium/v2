@@ -432,10 +432,12 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 /* Column count derives from a MINIMUM column width, not a viewport media query.
    The old `min-width: 58em → columns: 2` gated on the VIEWPORT while the plate
    lives inside Material's much narrower content column (sidebars + max-width),
-   so two columns could be squeezed into ~15rem each. `columns: 24rem` lets the
-   browser add a column only while every column keeps ≥~24rem — narrow contexts
-   degrade to a single full-width column on their own. */
-[data-sb-wide="on"] .sb__features { display: block; columns: 24rem; column-gap: 1.2rem; }
+   so two columns could be squeezed into ~15rem each. `columns: 28rem` lets the
+   browser add a column only while every column keeps ≥~28rem — narrow contexts
+   degrade to a single full-width column on their own. (28rem + the 86rem cap
+   means at most 2 columns of ~40rem; 24rem gave 3 × ~27rem at the cap, which
+   read as too tight.) */
+[data-sb-wide="on"] .sb__features { display: block; columns: 28rem; column-gap: 2rem; }
 [data-sb-wide="on"] .sb__feat, [data-sb-wide="on"] .sb__band { break-inside: avoid; -webkit-column-break-inside: avoid; margin-bottom: .8rem; }
 [data-sb-wide="on"] .sb__band-body { display: flex; }
 [data-sb-wide="on"]:not([data-sb-kwusage="crest"]) .sb__feat { margin-bottom: 0; }

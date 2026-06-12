@@ -245,10 +245,12 @@
         '</div>' +
 
         // Statblock settings live in their own bordered box (sc-set__group--sb)
-        // so they read as one isolated unit; the per-zone controls are grouped
-        // into Stats / Features / Web extras fieldsets, and every control gets
-        // a ? tooltip (sbHelp) explaining what it changes.
-        '<div class="sc-set__group sc-set__group--sb"><h3>Statblocks</h3>' +
+        // so they read as one isolated unit; the box is a collapsed-by-default
+        // <details> (like Fonts) so the long control list doesn't force
+        // scrolling past it. The per-zone controls are grouped into Stats /
+        // Features / Web extras fieldsets, and every control gets a ? tooltip
+        // (sbHelp) explaining what it changes.
+        '<details class="sc-set__group sc-set__group--sb"><summary>Statblocks</summary>' +
           '<div class="sc-set__row">' +
             '<label class="sc-set__label" for="set-sb-preset">Preset' +
               sbHelp("Sets all the statblock options below at once. Changing any single option switches the preset to Custom.") + '</label>' +
@@ -263,9 +265,9 @@
           '<div class="sc-set__row sc-set__row--help">' +
             '<label class="sc-set__toggle">' +
               '<input id="set-sb-wide" type="checkbox">' +
-              '<span>Wide layout</span>' +
+              '<span>Multi-column layout</span>' +
             '</label>' +
-            sbHelp("Lets the statblock spread to the full page width and flow features into side-by-side columns where there is room. Pairs well with a wider page width.") +
+            sbHelp("Flows features into side-by-side columns when there is room, letting the statblock spread to the full page width. Pairs well with a wider page width.") +
           '</div>' +
 
           '<fieldset class="sc-set__sub"><legend>Stats</legend>' +
@@ -350,7 +352,7 @@
               sbHelp("Adds Movement, Immunity, Weakness, and Captain to the pinned mini-header.") +
             '</div>' +
           '</fieldset>' +
-        '</div>' +
+        '</details>' +
 
         '<details class="sc-set__group sc-set__group--fonts"><summary>Fonts</summary>' +
           '<div class="sc-set__row">' +
