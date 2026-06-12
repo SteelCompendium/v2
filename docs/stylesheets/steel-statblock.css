@@ -221,7 +221,7 @@
    loads after steel-ability-cards.css, so equal specificity wins by order:
      .md-typeset .sc-ability                                   (0,2,0) plate
      [data-md-color-scheme="default"] .md-typeset .sc-ability  (0,3,0) light plate
-     .md-typeset .sc-ability::before                           (0,2,0) watermark
+     .md-typeset .sc-ability::before                           (0,2,1) watermark
      .md-typeset .sc-ability:hover                             (0,3,0) hover lift
    The featstyle mode rules below outrank these (attribute anchor) or out-order
    them (same file, later) — keep ALL mode rules AFTER this block. */
