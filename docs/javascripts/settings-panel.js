@@ -156,6 +156,13 @@
     if (html != null) n.innerHTML = html;
     return n;
   }
+  // "?" help bubble — pure-CSS tooltip (steel-settings.css .sc-set__help).
+  // Keyboard-reachable (tabindex) and read as its own label by screen readers.
+  // For checkbox rows it must sit OUTSIDE the <label> (sc-set__row--help), or
+  // hovering/clicking the bubble would toggle the control.
+  function sbHelp(text) {
+    return '<span class="sc-set__help" tabindex="0" data-tip="' + text + '" aria-label="' + text + '">?</span>';
+  }
   function fillSelect(sel, options, selected) {
     sel.innerHTML = "";
     options.forEach(function (o) {
@@ -237,9 +244,14 @@
           '</div>' +
         '</div>' +
 
-        '<div class="sc-set__group"><h3>Statblocks</h3>' +
+        // Statblock settings live in their own bordered box (sc-set__group--sb)
+        // so they read as one isolated unit; the per-zone controls are grouped
+        // into Stats / Features / Web extras fieldsets, and every control gets
+        // a ? tooltip (sbHelp) explaining what it changes.
+        '<div class="sc-set__group sc-set__group--sb"><h3>Statblocks</h3>' +
           '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-preset">Preset</label>' +
+            '<label class="sc-set__label" for="set-sb-preset">Preset' +
+              sbHelp("Sets all the statblock options below at once. Changing any single option switches the preset to Custom.") + '</label>' +
             '<select class="sc-set__select" id="set-sb-preset">' +
               '<option value="steel">Steel Card</option>' +
               '<option value="sourcebook">Sourcebook (book layout)</option>' +
@@ -248,81 +260,96 @@
             '</select>' +
             '<span class="sc-set__hint">A starting point. Words &amp; numbers never change &mdash; only the design.</span>' +
           '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-kwusage">Keyword + usage</label>' +
-            '<select class="sc-set__select" id="set-sb-kwusage">' +
-              '<option value="crest">Crest + eyebrow + chips</option>' +
-              '<option value="text">Text (space-between)</option>' +
-              '<option value="grid">Grid cells</option>' +
-              '<option value="ledger">Ledger rows</option>' +
-            '</select>' +
-            '<span class="sc-set__hint">Only the crest option shows a crest.</span>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-disttarget">Distance + target</label>' +
-            '<select class="sc-set__select" id="set-sb-disttarget">' +
-              '<option value="text">Text (space-between)</option>' +
-              '<option value="grid">Grid cells</option>' +
-              '<option value="ledger">Ledger rows</option>' +
-            '</select>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-meta">Secondary stats</label>' +
-            '<select class="sc-set__select" id="set-sb-meta">' +
-              '<option value="grid">Grid (label top)</option>' +
-              '<option value="gridc">Grid (centered)</option>' +
-              '<option value="ledger">Ledger rows</option>' +
-            '</select>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-charline">Characteristics</label>' +
-            '<select class="sc-set__select" id="set-sb-charline">' +
-              '<option value="two">Two lines (value over label)</option>' +
-              '<option value="one">One line</option>' +
-            '</select>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-charbox">Boxed first letter</label>' +
-            '<select class="sc-set__select" id="set-sb-charbox">' +
-              '<option value="off">Off</option>' +
-              '<option value="on">Boxed letter</option>' +
-              '<option value="onword">Boxed letter + word</option>' +
-            '</select>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-sb-villain">Villain actions</label>' +
-            '<select class="sc-set__select" id="set-sb-villain">' +
-              '<option value="banded">Grouped band</option>' +
-              '<option value="inline">Inline with features</option>' +
-            '</select>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
+          '<div class="sc-set__row sc-set__row--help">' +
             '<label class="sc-set__toggle">' +
               '<input id="set-sb-wide" type="checkbox">' +
-              '<span>Wide layout &mdash; columns of features on wide screens</span>' +
+              '<span>Wide layout</span>' +
             '</label>' +
+            sbHelp("Lets the statblock spread to the full page width and flow features into side-by-side columns where there is room. Pairs well with a wider page width.") +
           '</div>' +
-        '</div>' +
 
-        '<div class="sc-set__group"><h3>Statblock web extras</h3>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__toggle">' +
-              '<input id="set-sb-links" type="checkbox">' +
-              '<span>Link conditions &amp; keywords to their rules</span>' +
-            '</label>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__toggle">' +
-              '<input id="set-sb-sticky" type="checkbox">' +
-              '<span>Sticky mini-header while scrolling</span>' +
-            '</label>' +
-          '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__toggle">' +
-              '<input id="set-sb-stickymeta" type="checkbox">' +
-              '<span>&nbsp;&nbsp;&#8627; include secondary stats in it</span>' +
-            '</label>' +
-          '</div>' +
+          '<fieldset class="sc-set__sub"><legend>Stats</legend>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-meta">Secondary stats' +
+                sbHelp("Layout for the Immunity / Weakness / Movement / Captain block under the defenses row.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-meta">' +
+                '<option value="grid">Grid (label top)</option>' +
+                '<option value="gridc">Grid (centered)</option>' +
+                '<option value="ledger">Ledger rows</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-charline">Characteristics' +
+                sbHelp("Might, Agility, Reason, Intuition, Presence &mdash; stacked on two lines or kept to a single line.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-charline">' +
+                '<option value="two">Two lines (value over label)</option>' +
+                '<option value="one">One line</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-charbox">Boxed first letter' +
+                sbHelp("Shows the boxed first letter (M A R I P) next to each characteristic, like the printed book.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-charbox">' +
+                '<option value="off">Off</option>' +
+                '<option value="on">Boxed letter</option>' +
+                '<option value="onword">Boxed letter + word</option>' +
+              '</select>' +
+            '</div>' +
+          '</fieldset>' +
+
+          '<fieldset class="sc-set__sub"><legend>Features</legend>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-kwusage">Keyword + usage' +
+                sbHelp("How each feature shows its keywords and action type. Crest is the only mode with the heraldic crest.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-kwusage">' +
+                '<option value="crest">Crest + eyebrow + chips</option>' +
+                '<option value="text">Text (space-between)</option>' +
+                '<option value="grid">Grid cells</option>' +
+                '<option value="ledger">Ledger rows</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-disttarget">Distance + target' +
+                sbHelp("How each feature shows its Distance and Target line.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-disttarget">' +
+                '<option value="text">Text (space-between)</option>' +
+                '<option value="grid">Grid cells</option>' +
+                '<option value="ledger">Ledger rows</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-villain">Villain actions' +
+                sbHelp("Keeps villain actions in their own collapsible band, or runs them inline with the other features.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-villain">' +
+                '<option value="banded">Grouped band</option>' +
+                '<option value="inline">Inline with features</option>' +
+              '</select>' +
+            '</div>' +
+          '</fieldset>' +
+
+          '<fieldset class="sc-set__sub"><legend>Web extras</legend>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-links" type="checkbox">' +
+                '<span>Link conditions &amp; keywords</span>' +
+              '</label>' +
+              sbHelp("Conditions and game terms inside the statblock link to their rules pages.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-sticky" type="checkbox">' +
+                '<span>Sticky mini-header</span>' +
+              '</label>' +
+              sbHelp("Pins the creature name and key stats to the top of the screen while you scroll a long statblock.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-stickymeta" type="checkbox">' +
+                '<span>&nbsp;&nbsp;&#8627; include secondary stats</span>' +
+              '</label>' +
+              sbHelp("Adds Movement, Immunity, Weakness, and Captain to the pinned mini-header.") +
+            '</div>' +
+          '</fieldset>' +
         '</div>' +
 
         '<details class="sc-set__group sc-set__group--fonts"><summary>Fonts</summary>' +

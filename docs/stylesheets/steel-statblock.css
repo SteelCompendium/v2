@@ -54,9 +54,17 @@
    ════════════════════════════════════════════════════════════ */
 .sb-wrap {
   --pad: 1.2rem;
-  --sticky-top: 92px;
+  /* --sticky-top: real px from the viewport top where the sticky mini-header
+     parks — steel-statblock.js measures Material's header + tabs bottom and
+     keeps this in sync (the bar height varies with fonts and the tabs row
+     disappears below 76.25em). The fallback is 2×2.4rem at the 125% base. */
+  --sticky-top: 96px;
   --sb-plate-solid: #1e2327;            /* solid mid-tone of the plate, for diamond halos */
   position: relative; max-width: 47rem; margin: 1.7rem auto;
+  /* contain the sticky's z-index so it can never paint over Material's fixed
+     header (z-index 4) / tabs (z-index 3) — without this the z-index:5 sticky
+     resolves in the root stacking context and slides OVER the tab bar. */
+  isolation: isolate;
 }
 [data-md-color-scheme="default"] .sb-wrap { --sb-plate-solid: #f4f6f6; }
 
@@ -381,8 +389,9 @@ body[data-aug-links="off"] .sb-term { border-bottom: none; cursor: text; pointer
 .sb__sticky {
   /* The card-size slider zooms .sb-wrap (extra.css: zoom: --sc-card-scale), and
      this sticky lives inside it — so `top` is resolved in the zoomed space and
-     paints at top×scale real px. Divide by the scale so the real offset stays a
-     constant 92px and clears Material's fixed header/tabs at any card size. */
+     paints at top×scale real px. Divide by the scale so the real offset stays
+     the measured --sticky-top (see .sb-wrap) and clears Material's fixed
+     header/tabs at any card size. */
   position: sticky; top: calc(var(--sticky-top) / var(--sc-card-scale, 1)); z-index: 5;
   margin: 0; padding: 0 var(--pad);
   max-height: 0; opacity: 0; overflow: hidden; pointer-events: none;
@@ -419,17 +428,17 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 /* ════════════════════════════════════════════════════════════
    WIDE — independent toggle: full-width plate, multi-column features
    ════════════════════════════════════════════════════════════ */
-[data-sb-wide="on"] .sb-wrap { max-width: 64rem; }
-@media (min-width: 58em) {
-  [data-sb-wide="on"] .sb__features { display: block; columns: 2; column-gap: .8rem; }
-  [data-sb-wide="on"] .sb__feat, [data-sb-wide="on"] .sb__band { break-inside: avoid; -webkit-column-break-inside: avoid; margin-bottom: .8rem; }
-  [data-sb-wide="on"] .sb__band-body { display: flex; }
-  [data-sb-wide="on"]:not([data-sb-kwusage="crest"]) .sb__feat { margin-bottom: 0; }
-}
-@media (min-width: 94em) {
-  [data-sb-wide="on"] .sb-wrap { max-width: 86rem; }
-  [data-sb-wide="on"] .sb__features { columns: 3; }
-}
+[data-sb-wide="on"] .sb-wrap { max-width: 86rem; }
+/* Column count derives from a MINIMUM column width, not a viewport media query.
+   The old `min-width: 58em → columns: 2` gated on the VIEWPORT while the plate
+   lives inside Material's much narrower content column (sidebars + max-width),
+   so two columns could be squeezed into ~15rem each. `columns: 24rem` lets the
+   browser add a column only while every column keeps ≥~24rem — narrow contexts
+   degrade to a single full-width column on their own. */
+[data-sb-wide="on"] .sb__features { display: block; columns: 24rem; column-gap: 1.2rem; }
+[data-sb-wide="on"] .sb__feat, [data-sb-wide="on"] .sb__band { break-inside: avoid; -webkit-column-break-inside: avoid; margin-bottom: .8rem; }
+[data-sb-wide="on"] .sb__band-body { display: flex; }
+[data-sb-wide="on"]:not([data-sb-kwusage="crest"]) .sb__feat { margin-bottom: 0; }
 
 /* ════════════════════════════════════════════════════════════
    RESPONSIVE

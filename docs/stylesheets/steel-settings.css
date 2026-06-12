@@ -129,6 +129,93 @@
 }
 .sc-set__group--fonts[open] > summary::after { content: " \25BE"; }
 
+/* ── Statblock group: clearly-isolated bordered box ── */
+.sc-set__group--sb {
+  border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
+  border-radius: 0.55rem;
+  padding: 0.75rem 0.85rem 0.85rem;
+  background: rgba(0, 0, 0, 0.14);
+}
+[data-md-color-scheme="default"] .sc-set__group--sb { background: rgba(0, 0, 0, 0.02); }
+
+/* sub-fieldsets inside the statblock box (Stats / Features / Web extras) */
+.sc-set__sub {
+  margin: 0 0 0.85rem;
+  padding: 0.55rem 0.7rem 0.7rem;
+  min-width: 0;
+  border: 1px solid var(--fx-metal-faint, var(--md-default-fg-color--lightest));
+  border-radius: 0.45rem;
+}
+.sc-set__sub:last-child { margin-bottom: 0; }
+.sc-set__sub > legend {
+  padding: 0 0.35rem;
+  margin-left: -0.35rem;
+  font-family: var(--md-small-header-font);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ── "?" help bubble + pure-CSS tooltip ── */
+.sc-set__help {
+  display: inline-grid;
+  place-items: center;
+  width: 0.95rem;
+  height: 0.95rem;
+  margin-left: 0.4rem;
+  position: relative;
+  vertical-align: text-bottom;
+  border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lighter));
+  border-radius: 50%;
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--md-default-fg-color--lighter);
+  cursor: help;
+  user-select: none;
+}
+.sc-set__help:hover,
+.sc-set__help:focus-visible {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+.sc-set__help::after {
+  content: attr(data-tip);
+  position: absolute;
+  right: -0.4rem;
+  bottom: calc(100% + 0.45rem);
+  width: max-content;
+  max-width: 14.5rem;
+  padding: 0.45rem 0.6rem;
+  border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
+  border-radius: 0.35rem;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+  font-size: 0.68rem;
+  font-weight: 400;
+  line-height: 1.45;
+  text-align: left;
+  text-transform: none;
+  letter-spacing: normal;
+  color: var(--md-default-fg-color);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  z-index: 3;
+}
+.sc-set__help:hover::after,
+.sc-set__help:focus-visible::after { opacity: 1; visibility: visible; }
+
+/* toggle row with a help bubble: bubble sits OUTSIDE the label */
+.sc-set__row--help {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.sc-set__row--help .sc-set__toggle { flex: 1; min-width: 0; }
+
 .sc-set__row {
   margin: 0 0 0.85rem;
 }

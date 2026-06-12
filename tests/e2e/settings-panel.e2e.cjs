@@ -102,8 +102,8 @@ function check(name, cond, detail) {
     w.value = w.max; w.dispatchEvent(new Event("change", { bubbles: true }));
     return { max: w.max, cssVar: getComputedStyle(document.documentElement).getPropertyValue("--md-max_width").trim() };
   });
-  check("width: slider max is 500em", wideRes.max === "500", wideRes.max);
-  check("width: 500em applies", wideRes.cssVar === "500em", wideRes.cssVar);
+  check("width: slider max is 300em", wideRes.max === "300", wideRes.max);
+  check("width: 300em applies", wideRes.cssVar === "300em", wideRes.cssVar);
   const fullRes = await page.evaluate(() => {
     const f = document.getElementById("set-fullwidth"); f.checked = true; f.dispatchEvent(new Event("change", { bubbles: true }));
     return { gridMax: getComputedStyle(document.querySelector(".md-grid")).maxWidth,

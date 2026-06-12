@@ -307,11 +307,32 @@
     var head = wrap.querySelector(".sb__head");
     if (head) {
       var ticking = false;
+      var lastTop = -1;
+      // Real bottom edge of Material's fixed chrome (header + sticky tabs).
+      // Measured, not hardcoded: the bar height varies with the configured
+      // fonts and the tabs row disappears below 76.25em — a constant either
+      // overlaps the tabs or floats with a gap. Falls back to the CSS default.
+      function chromeBottom() {
+        var bottom = 0;
+        var header = document.querySelector(".md-header");
+        if (header) bottom = header.getBoundingClientRect().bottom;
+        var tabs = document.querySelector(".md-tabs");
+        if (tabs) {
+          var tr = tabs.getBoundingClientRect();
+          if (tr.height > 0) bottom = Math.max(bottom, tr.bottom);
+        }
+        return bottom > 0 ? Math.round(bottom) : 96;
+      }
       function update() {
         ticking = false;
+        var top = chromeBottom();
+        if (top !== lastTop) {
+          lastTop = top;
+          wrap.style.setProperty("--sticky-top", top + "px");
+        }
         var hr = head.getBoundingClientRect();
         var wr = wrap.getBoundingClientRect();
-        wrap.classList.toggle("is-stuck", hr.bottom < 96 && wr.bottom > 170);
+        wrap.classList.toggle("is-stuck", hr.bottom < top + 2 && wr.bottom > top + 74);
       }
       function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
       window.addEventListener("scroll", onScroll, { passive: true });
