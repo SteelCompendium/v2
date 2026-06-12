@@ -10,19 +10,19 @@ type: featureblock
 
 ---
 
-At the start of any high elf's turn, you can spend Malice to activate one of the following features.
+At the start of any high elf's turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.
 
-> 🌀 **Chaincast (3 Malice)**
+> 🌀 **Chaincast (3 [Malice](../../rule/monster/malice.md))**
 >
 > Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
 
-> 🔳 **Gift From an Accursed Tome (5 Malice)**
+> 🔳 **Gift From an Accursed Tome (5 [Malice](../../rule/monster/malice.md))**
 >
 > | **Area, Magic**            |               **Main action** |
 > |----------------------------|------------------------------:|
 > | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** The high elf chooses a damage type and condition from one of the following combinations: cold damage and slowed, poison damage and weakened, or corruption damage and frightened.
+> **Effect:** The high elf chooses a damage type and condition from one of the following combinations: cold damage and [slowed](../../condition/slowed.md), poison damage and [weakened](../../condition/weakened.md), or corruption damage and [frightened](../../condition/frightened.md).
 >
 > **Power Roll + 2:**
 >
@@ -30,8 +30,8 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > - **12-16:** 9 damage; R < 2 chosen condition (save ends)
 > - **17+:** 12 damage; R < 3 chosen condition (save ends)
 >
-> **Special:** This ability can't be used by a minion.
+> **Special:** This ability can't be used by a [minion](../../rule/organization/minion.md).
 
-> 🌀 **In Defiance of Time (7 Malice)**
+> 🌀 **In Defiance of Time (7 [Malice](../../rule/monster/malice.md))**
 >
-> Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf adjacent to that enemy can make a free strike against them.
+> Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf [adjacent](../../rule/combat/adjacent.md) to that enemy can make a [free strike](../../feature/common/main-actions/free-strike.md) against them.

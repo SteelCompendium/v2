@@ -10,17 +10,17 @@ type: featureblock
 
 ---
 
-At the start of any elemental's turn, you can spend Malice to activate one of the following features.
+At the start of any elemental's turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.
 
-> ⭐️ **Elemental Swap (3 Malice)**
+> ⭐️ **Elemental Swap (3 [Malice](../../rule/monster/malice.md))**
 >
-> Two elementals on the encounter map teleport to swap places, and each has damage immunity 2 until the end of the round.
+> Two elementals on the encounter map [teleport](../../movement/teleport.md) to swap places, and each has damage immunity 2 until the end of the round.
 
-> 👤 **Split (5 Malice)**
+> 👤 **Split (5 [Malice](../../rule/monster/malice.md))**
 >
-> An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original's current Stamina and is one size smaller. Both elementals can then shift up to their speed.
+> An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original's current Stamina and is one size smaller. Both elementals can then [shift](../../movement/shifting.md) up to their speed.
 
-> 🏹 **Convocation of Chaos (7 Malice)**
+> 🏹 **Convocation of Chaos (7 [Malice](../../rule/monster/malice.md))**
 >
 > | **Magic, Ranged** |                 **Maneuver** |
 > |-------------------|-----------------------------:|

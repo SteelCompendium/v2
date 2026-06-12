@@ -16,14 +16,14 @@ At the start of any bugbear's turn, you can spend Malice to activate one of the 
 >
 > The bugbear activates a Malice Feature available to goblins.
 
-> 👤 **Grab Iron Ball (3+ Malice)**
+> 👤 **Grab Iron Ball (3+ [Malice](../../rule/monster/malice.md))**
 >
-> For every 3 Malice spent, one non-minion bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M < 1, they are slowed (save ends).
+> For every 3 [Malice](../../rule/monster/malice.md) spent, one non-[minion](../../rule/organization/minion.md) bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M < 1, they are [slowed](../../condition/slowed.md) (save ends).
 
-> 👤 **Grab Javelin (5+ Malice)**
+> 👤 **Grab Javelin (5+ [Malice](../../rule/monster/malice.md))**
 >
-> For every 5 Malice spent, one non-minion bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M < 1, they are bleeding (save ends). While a creature is bleeding this way, any ally of the bugbear within 2 squares of them can use a free maneuver to pull the bleeding creature up to 2 squares.
+> For every 5 [Malice](../../rule/monster/malice.md) spent, one non-[minion](../../rule/organization/minion.md) bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M < 1, they are [bleeding](../../condition/bleeding.md) (save ends). While a creature is [bleeding](../../condition/bleeding.md) this way, any ally of the bugbear within 2 squares of them can use a free maneuver to [pull](../../movement/forced-movement.md) the [bleeding](../../condition/bleeding.md) creature up to 2 squares.
 
-> 🌀 **Show Them the Great Fear (10 Malice)**
+> 🌀 **Show Them the Great Fear (10 [Malice](../../rule/monster/malice.md))**
 >
-> A bugbear infuses the encounter map with bu'gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally's strike has I < 1, the target is also frightened (save ends) and must move their speed in a straight line away from the creature who made the strike.
+> A bugbear infuses the encounter map with bu'gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally's strike has I < 1, the target is also [frightened](../../condition/frightened.md) (save ends) and must move their speed in a straight line away from the creature who made the strike.

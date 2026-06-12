@@ -572,9 +572,9 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > **Power Roll + highest characteristic:**
 >
-> - **≤11:** 5 damage; M < WEAK, prone
-> - **12-16:** 9 damage; M < AVERAGE, prone
-> - **17+:** 12 damage; M < STRONG, prone
+> - **≤11:** 5 damage; M <w, prone
+> - **12-16:** 9 damage; M <v, prone
+> - **17+:** 12 damage; M <s, prone
 >
 > **Effect:** The hopper can jump up to their speed in a straight line before the strike without provoking opportunity attacks. If they jump 2 or more squares this way, they gain 1 surge.
 
@@ -1219,7 +1219,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 > |----------------|----------------:|
 > | **📏 Special** |  **🎯 Special** |
 >
-> **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon strike, the strike deals an extra 10 poison damage, and if the target has M < AVERAGE, they are weakened (save ends). If the guide is adjacent to their mentor when they use Poison Blade, they apply poison to the mentor's weapon in the same way.
+> **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon strike, the strike deals an extra 10 poison damage, and if the target has M <v, they are weakened (save ends). If the guide is adjacent to their mentor when they use Poison Blade, they apply poison to the mentor's weapon in the same way.
 
 ###### Hobgoblin Flameslinger {data-scc="mcdm.monsters.v1/retainer.statblock/hobgoblin-flameslinger"}
 

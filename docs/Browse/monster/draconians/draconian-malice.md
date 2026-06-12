@@ -10,13 +10,13 @@ type: featureblock
 
 ---
 
-At the start of any draconian's turn, you can spend Malice to activate one of the following features.
+At the start of any draconian's turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.
 
-> 👤 **Guarding Gale (3 Malice)**
+> 👤 **Guarding Gale (3 [Malice](../../rule/monster/malice.md))**
 >
-> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked prone.
+> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature [adjacent](../../rule/combat/adjacent.md) to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked [prone](../../condition/prone.md).
 
-> 🔳 **Breath Weapon (5 Malice)**
+> 🔳 **Breath Weapon (5 [Malice](../../rule/monster/malice.md))**
 >
 > | **Area, Magic**            |               **Main action** |
 > |----------------------------|------------------------------:|
@@ -30,7 +30,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 > - **12-16:** 10 damage
 > - **17+:** 13 damage
 
-> ❇️ **Scaleshatter Burst (7 Malice)**
+> ❇️ **Scaleshatter Burst (7 [Malice](../../rule/monster/malice.md))**
 >
 > | **Area, Magic** |             **Free maneuver** |
 > |-----------------|------------------------------:|

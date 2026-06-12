@@ -10,7 +10,7 @@ type: monster
 
 ---
 
-In the lower plane of Hell, devils of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other humanoids by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other infernal features.
+In the lower plane of Hell, [devils](index.md) of the Seven Cities vie unceasingly for power and control—a conflict fought foremostly through cunning and schemes. Devils are distinguished from other [humanoids](../../rule/keyword/humanoid.md) by skin in shades of azure and crimson, as well as their hellmarks: horns, tails, hooves, wings, and other [infernal](../../rule/keyword/infernal.md) features.
 
 ### Precarious Pyramids
 
