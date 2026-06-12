@@ -52,6 +52,7 @@ theme:
     # getElements/extract. Paired with material.extensions.preview below. Revisit
     # if previews are wanted on small pages only (scope targets narrowly).
     # - navigation.instant.preview
+    - navigation.path
 # Extensions
 markdown_extensions:
   - footnotes
