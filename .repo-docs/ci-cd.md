@@ -59,4 +59,4 @@ and (2) the `roamlinks` plugin doing a full `os.walk` per bare-filename link (~1
 
 **Full investigation, numbers, and recommended fixes (none applied yet):** see
 [decisions/2026-06-05-ci-deploy-build-time-perf.md](decisions/2026-06-05-ci-deploy-build-time-perf.md)
-and workspace `ROADMAP.md` item 6.
+and workspace `ROADMAP.md` item 5 ("v2 CI deploy build-time performance").

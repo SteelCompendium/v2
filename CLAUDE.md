@@ -10,6 +10,13 @@ MkDocs Material site for the Draw Steel TTRPG rules reference at steelcompendium
 - **Client JS must be `navigation.instant`-safe.** The site uses Material's `navigation.instant` (SPA-style body swaps). Any `docs/javascripts/` script that mounts or enhances page content must (a) register via Material's `document$` observable, **not** `DOMContentLoaded` (which fires only on the first hard load); and (b) if it reads a JSON data island, wrap the island in a `*-mount` container and find it by that container — Material recreates inline `<script>`s and strips their `class`/`type` on instant nav, so `script.<class>` selectors miss. Keep `init()` idempotent and tear down any `window`/`document` listeners it adds. **This won't reproduce on a local static serve — only on the deployed site.** Full rule + checklist: `.repo-docs/decisions/2026-06-11-client-scripts-navigation-instant.md`.
 - **Before iterating on pseudo-element CSS, read its computed style.** Statblock features are `class="sc-ability sb__feat"`, so their `::before` is contested by *three* stylesheets (ability-card watermark, statblock watermark-kill `display:none`, separator) — properties only the other rules declare (`display`, `opacity`, `mix-blend-mode`) win silently, and background edits apply to an invisible box. Check `getComputedStyle(el, "::before")` `.display`/`.opacity`/`.mixBlendMode` **first**; a rule that repurposes a contested pseudo-element must re-declare all three. Full writeup: `.repo-docs/troubleshooting.md` ("Statblock/ability-card CSS edits have no visible effect").
 
+## Design language
+
+The site's look and feel ("High-Fantasy Steel") is documented in the workspace
+[`DESIGN.md`](../DESIGN.md) — tokens, component map, preference system, and the rules
+for new design work. Read it before changing `docs/stylesheets/` or `docs/javascripts/`.
+The original design handoff is archived at workspace `reference/design-system/`.
+
 ## Repository Documentation
 
 This repo uses standardized `.repo-docs/` documentation. **Read `.repo-docs/index.md` first** -- it contains the reading guide, role-based routing, and links to all other docs.
