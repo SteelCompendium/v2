@@ -1,4 +1,4 @@
-# God
+# Gods and Religion
 
 ---
 
