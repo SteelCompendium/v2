@@ -280,13 +280,13 @@
    margin-top above the divider and padding-top below it — keep them EQUAL or
    the diamond drifts off-center (the kill block zeroes .sb__feat's own
    padding, so these two values are the whole gap). */
-[data-sb-featstyle="flat"] .sb__feat + .sb__feat { position: relative; margin-top: 1.25rem; padding-top: 1.25rem; }
+[data-sb-featstyle="flat"] .sb__feat + .sb__feat { position: relative; margin-top: calc(1.25rem + -16px); padding-top: 1.25rem; }
 [data-sb-featstyle="flat"] .sb__feat + .sb__feat::before {
   /* this ::before doubles as the ability-card watermark (display:none'd by the
      kill block, opacity .045 + overlay blend in steel-ability-cards.css) —
      a rule repurposing a contested pseudo re-declares all three. */
   display: block; opacity: 1; mix-blend-mode: normal;
-  content: ""; position: absolute; top: -2px; left: 5%; right: 5%; height: 4px;
+  content: ""; position: absolute; top: 2px; left: 5%; right: 5%; height: 4px;
   /* matches the site's stylized <hr> (steel-redesign.css): center-out steel
      line + two seed dots flanking the haloed diamond (the ::after below). */
   background:
@@ -297,7 +297,7 @@
   background-size: calc(50% - 30px) 1px, calc(50% - 30px) 1px, 4px 4px, 4px 4px;
 }
 [data-sb-featstyle="flat"] .sb__feat + .sb__feat::after {
-  content: ""; position: absolute; top: 0; left: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px;
+  content: ""; position: absolute; top: 4px; left: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px;
   background: var(--fx-metal); transform: rotate(45deg);
   box-shadow: 0 0 0 4px var(--sb-plate-solid), 0 0 0 5px var(--fx-metal-faint);
 }
