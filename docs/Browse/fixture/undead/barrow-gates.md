@@ -15,6 +15,43 @@ type: statblock
 
 ---
 
-<div class="sc-statblock-mount"><script type="application/json" class="sc-statblock-data">
-{"id":"barrow-gates","name":"Barrow Gates","ancestry":"","level":"","role":"Defender","roleKey":"defender","ev":"","defenses":[{"l":"Size","v":"2"},{"l":"Speed","v":"—"},{"l":"Stamina","v":"20 + your level"},{"l":"Stability","v":"—"},{"l":"Free Strike","v":"—"}],"meta":{"immunity":"—","weakness":"—","movement":"—","captain":{"label":"With Captain","value":"—"}},"characteristics":[{"l":"Might","k":"M","v":"—"},{"l":"Agility","k":"A","v":"—"},{"l":"Reason","k":"R","v":"—"},{"l":"Intuition","k":"I","v":"—"},{"l":"Presence","k":"P","v":"—"}],"features":[{"kind":"passive","action":"passive","name":"The Bell Tolls","body":"Each enemy that starts their [turn](../../../rule/combat/turn/) within 3 squares of the gates is I \u003c AVERAGE [frightened](../../../condition/frightened/) (EoT) by the gates. The [potency](../../../rule/character/potency/) increases by 1 for [winded](../../../rule/health/winded/) enemies."},{"kind":"passive","action":"passive","name":"Undead Dominion","body":"Each of your undead [minions](../../../feature/summoner/level-1/minions/) has [damage immunity](../../../rule/damage/damage-immunity/) 2 while occupying a space within 3 squares of the gates."},{"kind":"passive","action":"passive","name":"Memento Mori","body":"You gain a [surge](../../../rule/resource/surge/) the first time in a [round](../../../rule/combat/combat-round/) one of your undead [minions](../../../feature/summoner/level-1/minions/) unwillingly dies while you have [line of effect](../../../rule/combat/line-of-effect/) to the gates. You can choose to give the [surge](../../../rule/resource/surge/) to an ally who also has [line of effect](../../../rule/combat/line-of-effect/) to the gates."},{"kind":"passive","action":"passive","name":"Size Increase","body":"The gates are now size 3."},{"kind":"passive","action":"passive","name":"Open the Gates","body":"You can use [Rise!](../../../feature/summoner/level-1/rise/) as a [free triggered action](../../../rule/combat/triggered-action/) each time an enemy dies within 3 squares of the gates while you have [line of effect](../../../rule/combat/line-of-effect/) to the gates."}]}
-</script></div>
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Fortification · Defender</div>
+<h2 class="fb__name">Barrow Gates</h2>
+</header>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">20 + your level</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">The Bell Tolls</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each enemy that starts their <a href="../../../rule/combat/turn/">turn</a> within 3 squares of the gates is I &lt; AVERAGE <a href="../../../condition/frightened/">frightened</a> (EoT) by the gates. The <a href="../../../rule/character/potency/">potency</a> increases by 1 for <a href="../../../rule/health/winded/">winded</a> enemies.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Undead Dominion</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each of your undead <a href="../../../feature/summoner/level-1/minions/">minions</a> has <a href="../../../rule/damage/damage-immunity/">damage immunity</a> 2 while occupying a space within 3 squares of the gates.</div>
+</article>
+<div class="fb__band--adv" data-level="5">
+<div class="fb__adv-head">Level 5 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Memento Mori</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">You gain a <a href="../../../rule/resource/surge/">surge</a> the first time in a <a href="../../../rule/combat/combat-round/">round</a> one of your undead <a href="../../../feature/summoner/level-1/minions/">minions</a> unwillingly dies while you have <a href="../../../rule/combat/line-of-effect/">line of effect</a> to the gates. You can choose to give the <a href="../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="9">
+<div class="fb__adv-head">Level 9 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Size Increase</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The gates are now size 3.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Open the Gates</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">You can use <a href="../../../feature/summoner/level-1/rise/">Rise!</a> as a <a href="../../../rule/combat/triggered-action/">free triggered action</a> each time an enemy dies within 3 squares of the gates while you have <a href="../../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
+</article>
+</div>
+</div>
+</article>
+</div>

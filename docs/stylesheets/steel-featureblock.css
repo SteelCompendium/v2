@@ -174,6 +174,30 @@
 .fb__feat-body, .fb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .5rem 0 0; }
 .fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: inherit; }
 
+/* ── advancement bands: fixture / retainer "Level N" feature groups ──
+   A contiguous run of features sharing a Level > 0, grouped under a small
+   role-tinted sub-head. The band is a flex column so its features keep the
+   same vertical rhythm as the main .fb__feats list. */
+.fb__band--adv {
+  display: flex;
+  flex-direction: column;
+  gap: var(--fb-feat-gap, .65rem);
+  margin-top: .85rem;
+  padding-top: .55rem;
+  border-top: 1px solid color-mix(in srgb, var(--role) 30%, transparent);
+}
+.fb__adv-head {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  font-size: .72rem;
+  color: var(--role);
+  margin-bottom: .1rem;
+}
+@media print {
+  .fb__band--adv { break-inside: avoid; border-top-color: rgba(0, 0, 0, .35); }
+}
+
 /* ════════════════════════════════════════════════════════════
    RESPONSIVE
    ════════════════════════════════════════════════════════════ */
