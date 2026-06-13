@@ -76,7 +76,7 @@
 [data-md-color-scheme="default"] .md-typeset .sc-folder:hover { box-shadow: var(--fx-bevel), 0 8px 18px rgba(0,0,0,.1); }
 
 .sc-folder__crest { width: 34px; height: 38px; }            /* extends .sc-crest */
-.sc-folders--lg .sc-folder__crest { width: 42px; height: 47px; }
+.sc-folders--lg .sc-folder__crest { width: 42px; height: 47px; --crest-nudge: -5px; }
 .sc-folder__main { min-width: 0; }
 /* .md-typeset prefix so these h3 names beat Material's `.md-typeset h3`,
    whose large top-margin + line-height would otherwise be inherited and
@@ -168,7 +168,7 @@
 .sc-prev--ability .sc-prev__head,
 .sc-prev--trait .sc-prev__head { grid-template-columns: auto 1fr auto; }
 .sc-prev__crest { width: 2.5rem; height: 2.85rem; align-self: start; }   /* extends .sc-crest */
-.sc-prev__crest > .sc-prev__glyph { transform: translateY(-2px); }
+.sc-prev__crest > .sc-prev__glyph { transform: translateY(-6px); } /* ~10% of crest height; see .sc-crest --crest-nudge */
 .sc-prev__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.2rem; line-height: 1; color: var(--act); }
 .sc-prev__titles { min-width: 0; }
 .sc-prev__eyebrow { display: flex; align-items: center; gap: .45rem;
