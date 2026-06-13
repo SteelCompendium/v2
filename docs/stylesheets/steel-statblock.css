@@ -350,7 +350,8 @@
 .sb__feat .sc-ability__enh { margin-top: .85rem; }
 .sb__feat-body, .sb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .55rem 0 0; }
 .sb__feat-body { margin-top: .45rem; }
-.sb__feat-body a, .sb__feat-trailing a, .sb__feat .res a, .sb__feat .sb__field-v a, .sc-ability__section-body a { color: inherit; }
+.sb__feat-body a, .sb__feat-trailing a, .sb__feat .res a, .sb__feat .sb__field-v a, .sc-ability__section-body a { color: var(--md-typeset-a-color); text-decoration: none; }
+.sb__feat-body a:hover, .sb__feat-trailing a:hover, .sb__feat .res a:hover, .sb__feat .sb__field-v a:hover, .sc-ability__section-body a:hover { text-decoration: underline; }
 
 /* ════════════════════════════════════════════════════════════
    BANDS — Villain Actions + Malice Features (collapsible)
@@ -401,10 +402,14 @@
 [data-sb-villain="inline"] .sb__band--villain .sb__band-body { display: flex !important; padding: 0; }
 [data-sb-featstyle="card"][data-sb-villain="inline"] .sb__band--villain .sb__band-body { gap: .65rem; }
 
-/* ── glossary term links (augmentation) ── */
-.sb-term { color: inherit; text-decoration: none; border-bottom: 1px dotted color-mix(in srgb, var(--md-accent-fg-color) 60%, transparent); cursor: help; }
-.sb-term:hover { color: var(--md-accent-fg-color); border-bottom-style: solid; }
-body[data-aug-links="off"] .sb-term { border-bottom: none; cursor: text; pointer-events: none; }
+/* ── source cross-reference links inside statblocks (augmentation) ──
+   These are plain navigation links (href preserved from source markdown,
+   see steel-statblock.js); they use the same unified teal treatment as
+   every other link. No tooltip/definition behavior exists, so no help
+   cursor or dotted "hover-for-definition" underline. */
+.sb-term { color: var(--md-typeset-a-color); text-decoration: none; }
+.sb-term:hover { text-decoration: underline; }
+body[data-aug-links="off"] .sb-term { color: inherit; cursor: text; pointer-events: none; }
 
 /* ════════════════════════════════════════════════════════════
    STICKY mini-header (augmentation)

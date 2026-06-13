@@ -163,7 +163,7 @@
 .md-typeset .sc-card__link { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
 .md-typeset .sc-card__line a, .md-typeset .sc-card__body a, .md-typeset .sc-card__intro a {
   position: relative; z-index: 1;
-  color: var(--fx-metal-bright); text-decoration: none;
+  color: var(--md-typeset-a-color); text-decoration: none;
 }
 .md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover,
 .md-typeset .sc-card__intro a:hover { text-decoration: underline; }

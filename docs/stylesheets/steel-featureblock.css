@@ -82,7 +82,8 @@
   color: var(--md-default-fg-color--light); font-size: .94rem; line-height: 1.55;
   padding: 0 var(--pad); margin: 0 0 .6rem; text-wrap: pretty;
 }
-.fb__flavor a { color: inherit; }
+.fb__flavor a { color: var(--md-typeset-a-color); text-decoration: none; }
+.fb__flavor a:hover { text-decoration: underline; }
 
 /* ── LOOSE STATS (data-fb-stats: grid | ledger) ── */
 .fb__stats { padding: 0 var(--pad) .7rem; }
@@ -172,7 +173,8 @@
 .fb__feat .sc-ability__section { margin-top: .65rem; }
 .fb__feat .sc-ability__enh { margin-top: .85rem; }
 .fb__feat-body, .fb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .5rem 0 0; }
-.fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: inherit; }
+.fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: var(--md-typeset-a-color); text-decoration: none; }
+.fb__feat-body a:hover, .fb__feat-trailing a:hover, .fb__feat .sc-ability__section-body a:hover, .fb__feat .res a:hover { text-decoration: underline; }
 
 /* ── advancement bands: fixture / retainer "Level N" feature groups ──
    A contiguous run of features sharing a Level > 0, grouped under a small
