@@ -8,7 +8,7 @@
 - [War Dog Doomthief](war-dog-doomthief.md)
 - [War Dog Equivite](war-dog-equivite.md)
 - [War Dog Hypokrite](war-dog-hypokrite.md)
-- [War Dog Malice (Level 4+ Malice Features)](war-dog-malice-level-4-malice-features.md)
+- [Prior Malice Features](war-dog-malice-level-4-malice-features.md)
 - [War Dog Mischievite](war-dog-mischievite.md)
 - [War Dog Sparkslinger](war-dog-sparkslinger.md)
 - [War Dog Sweeper](war-dog-sweeper.md)

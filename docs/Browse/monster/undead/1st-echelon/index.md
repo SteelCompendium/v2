@@ -14,7 +14,7 @@
 - [Soulwight](soulwight.md)
 - [Specter](specter.md)
 - [Umbral Stalker](umbral-stalker.md)
-- [Undead Malice (Level 1+ Malice Features)](undead-malice-level-1-malice-features.md)
+- [Ravenous Horde](undead-malice-level-1-malice-features.md)
 - [Zombie](zombie.md)
 
 </div>

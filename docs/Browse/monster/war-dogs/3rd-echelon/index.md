@@ -12,7 +12,7 @@
 - [War Dog Firestarter](war-dog-firestarter.md)
 - [War Dog Geomancer](war-dog-geomancer.md)
 - [War Dog Iron Priest](war-dog-iron-priest.md)
-- [War Dog Malice (Level 7+ Malice Features)](war-dog-malice-level-7-malice-features.md)
+- [Prior Malice Features](war-dog-malice-level-7-malice-features.md)
 - [War Dog Prismite](war-dog-prismite.md)
 - [War Dog Saboteur](war-dog-saboteur.md)
 - [War Dog Shriketroop](war-dog-shriketroop.md)

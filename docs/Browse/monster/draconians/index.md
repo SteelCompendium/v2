@@ -10,7 +10,7 @@ type: monster
 
 ---
 
-Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most [draconians](index.md) have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
+Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
 
 Six individual draconians are presented in this section—not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
 
@@ -46,10 +46,10 @@ Most draconians speak Caelian in addition to the languages of their employers an
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="draconian-malice/" aria-label="Draconian Malice"></a>
+  <a class="sc-card__link" href="draconian-malice/" aria-label="Guarding Gale"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Draconian Malice</div></div></div>
+    <div><div class="sc-card__type">Feature</div>
+    <div class="sc-card__name">Guarding Gale</div></div></div>
 </div>
 </div>
 <div class="sc-cards">

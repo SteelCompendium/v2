@@ -10,7 +10,7 @@
 - [Haunt](haunt.md)
 - [Koptourok](koptourok.md)
 - [Mummy Rotwrap](mummy-rotwrap.md)
-- [Undead Malice (Level 7+ Malice Features)](undead-malice-level-7-malice-features.md)
+- [Prior Malice Features](undead-malice-level-7-malice-features.md)
 - [Vampire Lord](vampire-lord.md)
 - [Vampire](vampire.md)
 - [Waxen](waxen.md)

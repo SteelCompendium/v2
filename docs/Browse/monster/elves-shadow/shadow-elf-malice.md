@@ -1,25 +1,40 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+features:
+    - body: Each shadow elf acting this turn can attempt to hide as a free maneuver if they have concealment.
+      cost: 3 Malice
+      icon: ⭐️
+      name: Watch Me Disappear
+    - body: When any shadow elf acting this turn makes a strike against a target who has I < 2 in addition to the strike's regular effects, the target is bleeding (save ends) or slowed (save ends).
+      cost: 5 Malice
+      icon: ⭐️
+      name: Extra Dimension
+    - body: The shadow elves synthesize a concentrated pocket manifold reminiscent of Equinox and graft it onto the encounter map. Until the end of the encounter, all creatures can see shadow elves in full color, and shadow elves no longer benefit from their Of the Umbra trait. Additionally, the potency of all shadow elf abilities increases by 2, and any enemy making a saving throw against an effect imposed by a shadow elf ability must roll an 8 or higher as they feel the effect across two worlds.
+      cost: 10 Malice
+      icon: "\U0001F300"
+      name: Home Is Where the Hurt Is
+flavor: At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
+kind: malice
 name: Shadow Elf Malice
 scc: mcdm.monsters.v1/monster.elves-shadow/shadow-elf-malice
 type: featureblock
 ---
 
-# Shadow Elf Malice
+# Watch Me Disappear
 
 ---
 
-At the start of any shadow elf's turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.
+At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
 
-> ⭐️ **Watch Me Disappear (3 [Malice](../../rule/monster/malice.md))**
+> ⭐️ **Watch Me Disappear (3 Malice)**
 >
 > Each shadow elf acting this turn can attempt to hide as a free maneuver if they have concealment.
 
-> ⭐️ **Extra Dimension (5 [Malice](../../rule/monster/malice.md))**
+> ⭐️ **Extra Dimension (5 Malice)**
 >
-> When any shadow elf acting this turn makes a strike against a target who has I < 2 in addition to the strike's regular effects, the target is [bleeding](../../condition/bleeding.md) (save ends) or [slowed](../../condition/slowed.md) (save ends).
+> When any shadow elf acting this turn makes a strike against a target who has I < 2 in addition to the strike's regular effects, the target is bleeding (save ends) or slowed (save ends).
 
-> 🌀 **Home Is Where the Hurt Is (10 [Malice](../../rule/monster/malice.md))**
+> 🌀 **Home Is Where the Hurt Is (10 Malice)**
 >
-> The shadow elves synthesize a concentrated pocket manifold reminiscent of Equinox and graft it onto the encounter map. Until the end of the encounter, all creatures can see shadow elves in full color, and shadow elves no longer benefit from their Of the Umbra trait. Additionally, the [potency](../../rule/character/potency.md) of all shadow elf abilities increases by 2, and any enemy making a saving throw against an effect imposed by a shadow elf ability must roll an 8 or higher as they feel the effect across two worlds.
+> The shadow elves synthesize a concentrated pocket manifold reminiscent of Equinox and graft it onto the encounter map. Until the end of the encounter, all creatures can see shadow elves in full color, and shadow elves no longer benefit from their Of the Umbra trait. Additionally, the potency of all shadow elf abilities increases by 2, and any enemy making a saving throw against an effect imposed by a shadow elf ability must roll an 8 or higher as they feel the effect across two worlds.

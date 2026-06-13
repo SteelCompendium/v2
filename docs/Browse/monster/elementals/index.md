@@ -10,13 +10,13 @@ type: monster
 
 ---
 
-When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many [elementals](../../rule/keyword/elemental.md) contain just one of these components, but can come to embody multiple reagents as they age.
+When the gods formed the mundane world, they took sparks of creation from the roiling plane of Quintessence and gave sentience to some of the multiverse's most basic elements—air, earth, fire, and water. Many elementals contain just one of these components, but can come to embody multiple reagents as they age.
 
 #### Duality of Form
 
-[Elementals](../../rule/keyword/elemental.md) are mercurial creatures of creation, destruction, and transformation. Though the deities first created the mundane world, elementals cultivated and shaped it. When a tree, stone, or other aspect of the world doesn't suit an elemental, they break it down with elemental fury then build it anew.
+Elementals are mercurial creatures of creation, destruction, and transformation. Though the deities first created the mundane world, elementals cultivated and shaped it. When a tree, stone, or other aspect of the world doesn't suit an elemental, they break it down with elemental fury then build it anew.
 
-[Elementals](../../rule/keyword/elemental.md) change like the winds and the tides, and from age to age, they remake themselves to reflect what the world has become. They are protectors armored by stone, lizards ablaze with fire, and sometimes [dragons](../dragons/index.md) clad in steel.
+Elementals change like the winds and the tides, and from age to age, they remake themselves to reflect what the world has become. They are protectors armored by stone, lizards ablaze with fire, and sometimes dragons clad in steel.
 
 #### Rebirth and Reformation
 
@@ -60,10 +60,10 @@ Most elementals speak Low Kuric. Some can use Caelian when they need to.
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="elemental-malice/" aria-label="Elemental Malice"></a>
+  <a class="sc-card__link" href="elemental-malice/" aria-label="Elemental Swap"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Elemental Malice</div></div></div>
+    <div><div class="sc-card__type">Feature</div>
+    <div class="sc-card__name">Elemental Swap</div></div></div>
 </div>
 </div>
 <div class="sc-cards">

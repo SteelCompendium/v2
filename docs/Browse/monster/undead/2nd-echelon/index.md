@@ -11,7 +11,7 @@
 - [Hollowbone Launcher](hollowbone-launcher.md)
 - [Mummy Lord](mummy-lord.md)
 - [Mummy](mummy.md)
-- [Undead Malice (Level 4+ Malice Features)](undead-malice-level-4-malice-features.md)
+- [Prior Malice Features](undead-malice-level-4-malice-features.md)
 - [Vampire Spawn](vampire-spawn.md)
 - [Wraith](wraith.md)
 

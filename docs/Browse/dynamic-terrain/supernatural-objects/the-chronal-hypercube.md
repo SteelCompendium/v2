@@ -1,16 +1,38 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
-ev: "20"
-level: "3"
+features:
+    - body: A creature who has the Psionics skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.
+      icon: "\U0001F300"
+      name: Deactivate
+      power_roll:
+        tiers:
+            high: The hypercube teleports adjacent to the creature at the start of the next round and becomes an ally to the creature and their allies.
+            low: The creature takes 1d6 psychic damage.
+            mid: The creature fails to deactivate the hypercube.
+    - body: At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube teleports to a square of one ally's choice within 10 squares and is hidden. While the hypercube is hidden, Psionics is the only skill that can be applied to a test made to find it.
+      icon: ⭐️
+      name: Dimensional Flicker
+    - body: Any ally within 10 squares of the hypercube can teleport when they move. An ally who teleports gains an edge on the next power roll they make.
+      icon: ⭐️
+      name: Chronal Superhighway
+flavor: This unnatural object twists space around it in a reflection of its own unnatural form.
+level: 3
 name: The Chronal Hypercube
+role: Controller
 scc: mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-chronal-hypercube
-size: 1M
-stamina: "80"
+stats:
+    - name: EV
+      value: "20"
+    - name: Stamina
+      value: "80"
+    - name: Size
+      value: 1M
+terrain_type: Relic
 type: dynamic-terrain
 ---
 
-# The Chronal Hypercube
+# Deactivate
 
 ---
 

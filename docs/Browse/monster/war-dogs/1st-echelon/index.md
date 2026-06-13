@@ -10,7 +10,7 @@
 - [War Dog Crucibite](war-dog-crucibite.md)
 - [War Dog Eviscerite](war-dog-eviscerite.md)
 - [War Dog Ground Commander](war-dog-ground-commander.md)
-- [War Dog Malice (Level 1+ Malice Features)](war-dog-malice-level-1-malice-features.md)
+- [Reconstitute](war-dog-malice-level-1-malice-features.md)
 - [War Dog Neuronite](war-dog-neuronite.md)
 - [War Dog Pestilite](war-dog-pestilite.md)
 - [War Dog Phosphorite](war-dog-phosphorite.md)

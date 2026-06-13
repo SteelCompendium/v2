@@ -1,33 +1,60 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+features:
+    - cost: 3 Malice
+      distance: Self
+      icon: "\U0001F464"
+      keywords:
+        - '-'
+      name: Swoop
+      sections:
+        - label: Effect
+          text: The griffon flies up to their speed, and can make a free strike against each creature who makes an opportunity attack against them during this movement.
+      target: Self
+      usage: Maneuver
+    - body: A griffon acting this turn unleashes a hideous screech at one enemy within 5 squares of them, forcing that creature to make an **Intuition test**.
+      cost: 5 Malice
+      icon: ❇️
+      name: Piercing Cry
+      power_roll:
+        tiers:
+            high: No effect.
+            low: Frightened (save ends)
+            mid: Frightened (EoT)
+    - body: Winds bluster and blow across the encounter map. Until the end of the encounter, each creature who can't fly or isn't mounted on a flying creature takes a −3 penalty to stability, and any forced movement effect targeting such a creature moves them an additional 5 squares.
+      cost: 10 Malice
+      icon: "\U0001F300"
+      name: Wildwinds
+flavor: At the start of any griffon's turn, you can spend Malice to activate one of the following features.
+kind: malice
 name: Griffon Malice
 scc: mcdm.monsters.v1/monster.griffons/griffon-malice
 type: featureblock
 ---
 
-# Griffon Malice
+# Swoop
 
 ---
 
-At the start of any griffon's turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.
+At the start of any griffon's turn, you can spend Malice to activate one of the following features.
 
-> 👤 **Swoop (3 [Malice](../../rule/monster/malice.md))**
+> 👤 **Swoop (3 Malice)**
 >
 > | **-**       | **Maneuver** |
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The griffon flies up to their speed, and can make a [free strike](../../feature/common/main-actions/free-strike.md) against each creature who makes an [opportunity attack](../../rule/combat/opportunity-attack.md) against them during this movement.
+> **Effect:** The griffon flies up to their speed, and can make a free strike against each creature who makes an opportunity attack against them during this movement.
 
-> ❇️ **Piercing Cry (5 [Malice](../../rule/monster/malice.md))**
+> ❇️ **Piercing Cry (5 Malice)**
 >
 > A griffon acting this turn unleashes a hideous screech at one enemy within 5 squares of them, forcing that creature to make an **Intuition test**.
 >
-> - **≤11:** [Frightened](../../condition/frightened.md) (save ends)
-> - **12-16:** [Frightened](../../condition/frightened.md) (EoT)
+> - **≤11:** Frightened (save ends)
+> - **12-16:** Frightened (EoT)
 > - **17+:** No effect.
 
-> 🌀 **Wildwinds (10 [Malice](../../rule/monster/malice.md))**
+> 🌀 **Wildwinds (10 Malice)**
 >
-> Winds bluster and blow across the encounter map. Until the end of the encounter, each creature who can't fly or isn't mounted on a flying creature takes a −3 penalty to [stability](../../rule/character/stability.md), and any [forced movement](../../movement/forced-movement.md) effect targeting such a creature moves them an additional 5 squares.
+> Winds bluster and blow across the encounter map. Until the end of the encounter, each creature who can't fly or isn't mounted on a flying creature takes a −3 penalty to stability, and any forced movement effect targeting such a creature moves them an additional 5 squares.

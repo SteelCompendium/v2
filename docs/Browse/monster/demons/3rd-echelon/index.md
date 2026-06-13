@@ -6,7 +6,7 @@
 
 - [Blight Phage](blight-phage.md)
 - [Chimeron](chimeron.md)
-- [Demon Malice (Level 7+ Malice Features)](demon-malice-level-7-malice-features.md)
+- [Prior Malice Features](demon-malice-level-7-malice-features.md)
 - [Soulraker Handmaiden](soulraker-handmaiden.md)
 - [Soulraker Hivequeen](soulraker-hivequeen.md)
 - [Soulraker Praetorian](soulraker-praetorian.md)

@@ -66,34 +66,34 @@ Ajax speaks Caelian, Higaran, Khoursirian, Phaedran, Riojan, Vaniric, and Vaslor
 
 > **Ajax the Leader**
 >
-> Ajax is a master tactician. It would stand to reason that he can enter battle leading an army instead of facing the heroes [solo](../../rule/organization/solo.md).
+> Ajax is a master tactician. It would stand to reason that he can enter battle leading an army instead of facing the heroes solo.
 >
-> Future adventures might feature different iterations and stat blocks for Ajax. For now, you can convert Ajax the Invincible into a level 11 [leader](../../rule/organization/leader.md) with the following adjustments:
+> Future adventures might feature different iterations and stat blocks for Ajax. For now, you can convert Ajax the Invincible into a level 11 leader with the following adjustments:
 >
-> - Reduce his encounter value to [EV](../../rule/monster/encounter-value.md) 52.
-> - Reduce his [Stamina](../../rule/health/stamina.md) to 280.
+> - Reduce his encounter value to EV 52.
+> - Reduce his Stamina to 280.
 > - Remove his **Ajax Turns** trait.
 > - Remove all his maneuvers.
 > - Add the following maneuver:
 >
-> **Strike Them Down** Two allies within 10 squares of Ajax each move up to their speed and can use a [signature ability](../../rule/combat/signature-ability.md).
+> **Strike Them Down** Two allies within 10 squares of Ajax each move up to their speed and can use a signature ability.
 >
-> - Adjust the **I'm Not Done Yet** trait so that Ajax dies at −140 [Stamina](../../rule/health/stamina.md) instead of −350.
+> - Adjust the **I'm Not Done Yet** trait so that Ajax dies at −140 Stamina instead of −350.
 
 ---
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="ajaxs-malice/" aria-label="Ajax&#39;s Malice"></a>
+  <a class="sc-card__link" href="ajaxs-malice/" aria-label="Reason"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Ajax&#39;s Malice</div></div></div>
+    <div><div class="sc-card__type">Feature</div>
+    <div class="sc-card__name">Reason</div></div></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="tactical-stance/" aria-label="Tactical Stance"></a>
+  <a class="sc-card__link" href="tactical-stance/" aria-label="Insurgent"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Tactical Stance</div>
-    <div class="sc-card__name">Tactical Stance</div></div></div>
+    <div><div class="sc-card__type">Feature</div>
+    <div class="sc-card__name">Insurgent</div></div></div>
 </div>
 </div>
 <div class="sc-cards">

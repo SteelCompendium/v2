@@ -12,7 +12,7 @@ type: monster
 
 Creatures of incarnate hate, demons spawn naturally in the Abyssal Wasteland. They crave violence and suffering the way other creatures need food. A demon cares only for themself, and they torture and tear lesser demons apart for fun.
 
-The bestial appearance of each demon is unique, composed of a chaotic arrangement of teeth, claws, and limbs meant for killing. Even [demons](index.md) of the same kind have unique features. One might bear an extra set of eyes or teeth, while another has a humanoid arm growing from their forehead.
+The bestial appearance of each demon is unique, composed of a chaotic arrangement of teeth, claws, and limbs meant for killing. Even demons of the same kind have unique features. One might bear an extra set of eyes or teeth, while another has a humanoid arm growing from their forehead.
 
 ###### Demon Stat Block Table
 
@@ -66,7 +66,7 @@ When a demon's soul energy begins to flag, they fall into a state known as lethe
 
 ### Demonic Hierarchy
 
-Mortal scholars have classified [demons](index.md) into ten categories, each increasingly more powerful. Though demons don't use these classifications themselves, this system reflects their hierarchy, as stronger demons bully the weak into service.
+Mortal scholars have classified demons into ten categories, each increasingly more powerful. Though demons don't use these classifications themselves, this system reflects their hierarchy, as stronger demons bully the weak into service.
 
 Each time a demon consumes a soul, there's a chance they might evolve into a more powerful demon. The evolution from one category to the next can be instantaneous, or it can take years. This inconsistency has led to much scholarly debate on whether all souls are equal, or whether demonic evolution is aided by the consumption of souls that are especially corrupt—or heroic.
 
@@ -80,10 +80,10 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/demon-malice-level-1-malice-features/" aria-label="Demon Malice (Level 1+ Malice Features)"></a>
+  <a class="sc-card__link" href="1st-echelon/demon-malice-level-1-malice-features/" aria-label="Soulburn"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Demon Malice (Level 1+ Malice Features)</div></div></div>
+    <div><div class="sc-card__type">Feature</div>
+    <div class="sc-card__name">Soulburn</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -209,10 +209,10 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/demon-malice-level-4-malice-features/" aria-label="Demon Malice (Level 4+ Malice Features)"></a>
+  <a class="sc-card__link" href="2nd-echelon/demon-malice-level-4-malice-features/" aria-label="Prior Malice Features"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Demon Malice (Level 4+ Malice Features)</div></div></div>
+    <div class="sc-card__name">Prior Malice Features</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -338,10 +338,10 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/demon-malice-level-7-malice-features/" aria-label="Demon Malice (Level 7+ Malice Features)"></a>
+  <a class="sc-card__link" href="3rd-echelon/demon-malice-level-7-malice-features/" aria-label="Prior Malice Features"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Demon Malice (Level 7+ Malice Features)</div></div></div>
+    <div class="sc-card__name">Prior Malice Features</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -467,10 +467,10 @@ Lower categories of demons speak Proto-Ctholl. As demons evolve and reach catego
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/demon-malice-level-10-malice-features/" aria-label="Demon Malice (Level 10+ Malice Features)"></a>
+  <a class="sc-card__link" href="4th-echelon/demon-malice-level-10-malice-features/" aria-label="Prior Malice Features"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Demon Malice (Level 10+ Malice Features)</div></div></div>
+    <div class="sc-card__name">Prior Malice Features</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
