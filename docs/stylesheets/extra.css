@@ -141,6 +141,16 @@ th:empty {
     border-color: var(--md-accent-fg-color);
 }
 
+/* Unified link affordance: every navigation link underlines on hover — the one
+   interactive signal, teal everywhere (DESIGN.md "one accent carries every
+   link"). Material's default only shifts color on hover, so this adds the
+   underline for plain content links; cards, statblocks, and featureblocks
+   declare matching :hover rules in their own stylesheets. Kept at low
+   specificity so component links with their own hover (browse-index grid,
+   browse-expand summaries) keep theirs; the ¶ headerlink permalinks opt out. */
+.md-typeset a:hover { text-decoration: underline; }
+.md-typeset a.headerlink:hover { text-decoration: none; }
+
 /* Browse index: multi-column link grid */
 .md-typeset .browse-index ul {
     list-style: none;

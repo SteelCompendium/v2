@@ -44,13 +44,25 @@
 .sc-crest::before { content: ""; position: absolute; inset: 1.5px; clip-path: var(--shield);
   background: radial-gradient(circle at 42% 30%, #2b3137, #14181b); }
 .sc-crest > * { position: relative; z-index: 1; display: grid; place-items: center;
-  /* optical centering — nudge the glyph UP so it sits in the shield's visual center */
-  transform: translateY(-2px); }
+  /* Optical centering: the shield's mass sits in its rectangular top, so its visual
+     centroid is ~40% down (not 50%). Nudge the glyph UP ~10% of crest height so it reads
+     as centered rather than sinking toward the point. --crest-nudge scales per size below;
+     font-glyph crests (ability/trait) override it with a steeper value of their own. */
+  transform: translateY(var(--crest-nudge, -4px)); }
 .sc-crest .twemoji, .sc-crest svg { width: 19px; height: 19px; color: var(--fx-metal-bright); fill: currentColor; }
 [data-md-color-scheme="default"] .sc-crest::before { background: radial-gradient(circle at 42% 30%, #f6f8f8, #dfe4e5); }
 [data-md-color-scheme="default"] .sc-crest .twemoji, [data-md-color-scheme="default"] .sc-crest svg { color: #2c3338; }
-.sc-crest.lg { width: 50px; height: 56px; }
+.sc-crest.lg { width: 50px; height: 56px; --crest-nudge: -5px; }
 .sc-crest.lg .twemoji, .sc-crest.lg svg { width: 24px; height: 24px; }
+/* When a crest rides a `:material-icon:{ .sc-crest }` span the icon carries Material's
+   `.twemoji` class too, and `.md-typeset .twemoji{…}` (0,2,0) out-specifies `.sc-crest`
+   (0,1,0): it forces display:inline-flex (so place-items centering is ignored and the
+   glyph drifts left), squishes the shield to --md-icon-size, and `.md-typeset .twemoji svg`
+   stretches the glyph wide. Re-assert the crest box + icon size for the .twemoji case only. */
+.md-typeset .twemoji.sc-crest { display: inline-grid; height: 43px; }
+.md-typeset .twemoji.sc-crest.lg { height: 56px; }
+.md-typeset .twemoji.sc-crest svg { width: 19px; height: 19px; }
+.md-typeset .twemoji.sc-crest.lg svg { width: 24px; height: 24px; }
 
 /* ── Filigree corners (added by a tiny inline-CSS pseudo, no markup needed) ── */
 .sc-fil { position: relative; }
@@ -151,7 +163,7 @@
 .md-typeset .sc-card__link { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
 .md-typeset .sc-card__line a, .md-typeset .sc-card__body a, .md-typeset .sc-card__intro a {
   position: relative; z-index: 1;
-  color: var(--fx-metal-bright); text-decoration: none;
+  color: var(--md-typeset-a-color); text-decoration: none;
 }
 .md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover,
 .md-typeset .sc-card__intro a:hover { text-decoration: underline; }
