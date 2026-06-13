@@ -246,7 +246,7 @@
 
 /* Selects */
 .sc-set__select {
-  width: 100%;
+  width: stretch;
   padding: 0.5rem 0.55rem;
   border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
   border-radius: 0.3rem;
