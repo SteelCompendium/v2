@@ -120,6 +120,7 @@ extra_css:
   - stylesheets/steel-settings.css
   - stylesheets/steel-ability-cards.css
   - stylesheets/steel-statblock.css
+  - stylesheets/steel-featureblock.css
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
