@@ -96,7 +96,10 @@
     p.push('<span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">' + a.glyph + "</span></span>");
     p.push('<span class="sb__feat-icon"><span class="sb__feat-glyph">' + a.glyph + "</span></span>");
     p.push('<div class="sb__feat-titles">');
-    if (f.usage) p.push('<div class="sb__feat-eyebrow">' + dia + esc(f.usage) + "</div>");
+    // eyebrow = usage; a usage-less passive feature is a Trait (kind="passive"
+    // is set upstream only when the feature has no keyword/usage table).
+    var eyebrow = f.usage || (f.kind === "passive" ? "Trait" : "");
+    if (eyebrow) p.push('<div class="sb__feat-eyebrow">' + dia + esc(eyebrow) + "</div>");
     p.push('<h3 class="sb__feat-name sc-ability__name">' + esc(f.name) + "</h3>");
     p.push("</div>");
     p.push('<div class="sb__feat-corner">' + costBadge(f.cost) + "</div>");
