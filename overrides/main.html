@@ -89,6 +89,11 @@
             if (!sb.featstyle && sb.kwusage && sb.kwusage !== "crest") sb.featstyle = "flat";
             var sbD = {kwusage:"crest",featstyle:"card",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
             for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
+            // Featureblock layout preferences (data-fb-*) — same always-set rule
+            // as data-sb-*; an absent attribute is NOT the default.
+            var fb = s.featureblock || {};
+            var fbD = {featstyle:"card", stats:"grid"};
+            for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
         } catch(e) {}
     })();
 </script>

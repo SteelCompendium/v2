@@ -38,6 +38,12 @@
     index:      { kwusage: "grid", featstyle: "flat", disttarget: "grid", meta: "gridc", charline: "two", charbox: "onword", villain: "banded", wide: "off" }
   };
 
+  // ---------- featureblock layout preferences (steel-featureblock.css) ----------
+  // Independent <html data-fb-*> attributes; persisted under prefs.featureblock.
+  // No presets (only two prefs). Defaults mirror the early-apply in main.html.
+  var FB_KEYS = ["featstyle", "stats"];
+  var FB_DEFAULTS = { featstyle: "card", stats: "grid" };
+
   var FONT_OPTIONS = {
     large: [
       ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort (default)"],
@@ -120,6 +126,13 @@
       setAug(body, "sticky", sb.augSticky !== false);
     }
   }
+  function applyFeatureblocks(prefs) {
+    var fb = prefs.featureblock || {};
+    var html = document.documentElement;
+    FB_KEYS.forEach(function (k) {
+      html.setAttribute("data-fb-" + k, fb[k] || FB_DEFAULTS[k]);
+    });
+  }
   function setAug(body, name, on) {
     if (on) body.removeAttribute("data-aug-" + name);
     else body.setAttribute("data-aug-" + name, "off");
@@ -142,6 +155,7 @@
     applySiteTheme(prefs.siteTheme);
     applyCardStyle(prefs.cardStyle);
     applyStatblocks(prefs);
+    applyFeatureblocks(prefs);
   }
 
   var prefs = C.loadPrefs(localStorage);
@@ -372,6 +386,25 @@
           '</fieldset>' +
         '</details>' +
 
+        '<details class="sc-set__group sc-set__group--fb"><summary>Featureblocks</summary>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-fb-featstyle">Feature style' +
+              sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
+            '<select class="sc-set__select" id="set-fb-featstyle">' +
+              '<option value="card">Cards</option>' +
+              '<option value="flat">Flat + separators</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-fb-stats">Stat line' +
+              sbHelp("Layout for the loose header stats (EV, Stamina, Size): boxed grid cells or hairline ledger rows.") + '</label>' +
+            '<select class="sc-set__select" id="set-fb-stats">' +
+              '<option value="grid">Grid cells</option>' +
+              '<option value="ledger">Ledger rows</option>' +
+            '</select>' +
+          '</div>' +
+        '</details>' +
+
         '<details class="sc-set__group sc-set__group--fonts"><summary>Fonts</summary>' +
           '<div class="sc-set__row">' +
             '<label class="sc-set__label" for="set-font-large">Large headers (H1&ndash;H2)</label>' +
@@ -556,6 +589,7 @@
 
     // Statblocks (selects + presets + web-extra toggles)
     var syncSb = bindStatblocks(drawer);
+    var syncFb = bindFeatureblocks(drawer);
 
     // Reset all
     drawer.querySelector("#set-reset").addEventListener("click", function () {
@@ -574,6 +608,7 @@
       if (card) card.value = "classic";
       syncWidthUI(C.widthToControls(undefined));
       syncSb();
+      syncFb();
       persist();
     });
   }
@@ -626,6 +661,30 @@
       commit();
     });
 
+    syncUI();
+    return syncUI;
+  }
+
+  // ---------- bind featureblock controls ----------
+  // Returns syncUI() the Reset handler calls to re-derive controls from prefs.
+  function bindFeatureblocks(drawer) {
+    function fb() { return prefs.featureblock || (prefs.featureblock = {}); }
+    var ids = { featstyle: "set-fb-featstyle", stats: "set-fb-stats" };
+
+    function syncUI() {
+      var s = prefs.featureblock || {};
+      FB_KEYS.forEach(function (k) {
+        drawer.querySelector("#" + ids[k]).value = s[k] || FB_DEFAULTS[k];
+      });
+    }
+    FB_KEYS.forEach(function (k) {
+      drawer.querySelector("#" + ids[k]).addEventListener("change", function () {
+        fb()[k] = this.value;
+        applyFeatureblocks(prefs);
+        persist();
+        syncUI();
+      });
+    });
     syncUI();
     return syncUI;
   }
