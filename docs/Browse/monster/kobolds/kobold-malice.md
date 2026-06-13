@@ -25,16 +25,26 @@ type: featureblock
 
 ---
 
-At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Maniple Tactics (3 Malice)**
->
-> Up to 3 kobolds make a free strike, swaps positions with an adjacent kobold, and then that kobold makes a free strike.
-
-> 🌀 **Set the Initiative (5 Malice)**
->
-> Two kobolds take their turns in a row.
-
-> ⭐️ **Shield Wall (7 Malice)**
->
-> Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Kobold Malice</h2>
+</header>
+<div class="fb__flavor">At the start of any kobolds&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Maniple Tactics</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">Up to 3 kobolds make a free strike, swaps positions with an adjacent kobold, and then that kobold makes a free strike.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Set the Initiative</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">Two kobolds take their turns in a row.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Shield Wall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-body">Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities.</div>
+</article>
+</div>
+</article>
+</div>

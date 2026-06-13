@@ -37,24 +37,29 @@ type: featureblock
 
 ---
 
-At the start of any griffon's turn, you can spend Malice to activate one of the following features.
-
-> 👤 **Swoop (3 Malice)**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The griffon flies up to their speed, and can make a free strike against each creature who makes an opportunity attack against them during this movement.
-
-> ❇️ **Piercing Cry (5 Malice)**
->
-> A griffon acting this turn unleashes a hideous screech at one enemy within 5 squares of them, forcing that creature to make an **Intuition test**.
->
-> - **≤11:** Frightened (save ends)
-> - **12-16:** Frightened (EoT)
-> - **17+:** No effect.
-
-> 🌀 **Wildwinds (10 Malice)**
->
-> Winds bluster and blow across the encounter map. Until the end of the encounter, each creature who can't fly or isn't mounted on a flying creature takes a −3 penalty to stability, and any forced movement effect targeting such a creature moves them an additional 5 squares.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Griffon Malice</h2>
+</header>
+<div class="fb__flavor">At the start of any griffon&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Swoop</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The griffon flies up to their speed, and can make a free strike against each creature who makes an opportunity attack against them during this movement.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Piercing Cry</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Frightened (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Frightened (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">A griffon acting this turn unleashes a hideous screech at one enemy within 5 squares of them, forcing that creature to make an <b>Intuition test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Wildwinds</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-body">Winds bluster and blow across the encounter map. Until the end of the encounter, each creature who can&#39;t fly or isn&#39;t mounted on a flying creature takes a −3 penalty to stability, and any forced movement effect targeting such a creature moves them an additional 5 squares.</div>
+</article>
+</div>
+</article>
+</div>

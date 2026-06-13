@@ -62,44 +62,47 @@ type: dynamic-terrain
 
 ---
 
-A series of sharp stakes have been placed point-out to protect defenders against charges and other direct attacks.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Fortification · Defender</div>
+<h2 class="fb__name">Archer&#39;s Stakes</h2>
+</header>
+<div class="fb__flavor">A series of sharp stakes have been placed point-out to protect defenders against charges and other direct attacks.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of difficult terrain</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">4 x 1-square area</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">One side of the stakes is defined as the front.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of stakes must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature takes 2 damage per square of stakes they enter. If they are force moved into an area of stakes, they take an additional 3 damage.</p></div></div>
+<div class="fb__feat-body">A creature enters an area of stakes from the front.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poison (+2 EV)</b> The tips of the stakes have poison applied to them. Any creature who takes damage from the stakes also takes 1d6 poison damage at the start of each of their turns (save ends).
 
-- **EV:** 2
-- **Stamina:** 3 per square
-- **Size:** One or more squares of difficult terrain
-- **Typical Space:** 4 x 1-square area
-- **Direction:** One side of the stakes is defined as the front.
-
-> 🌀 **Deactivate**
->
-> Each square of stakes must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature enters an area of stakes from the front.
->
-> **Effect:** The triggering creature takes 2 damage per square of stakes they enter. If they are force moved into an area of stakes, they take an additional 3 damage.
-
-> ⭐️ **Upgrades**
->
-> **Poison (+2 EV)** The tips of the stakes have poison applied to them. Any creature who takes damage from the stakes also takes 1d6 poison damage at the start of each of their turns (save ends).
->
-> **Sticky (+3 EV)** A sticky slime or webbing has been applied to the stakes and the ground between them. Any creature who enters an area of stakes triggers the **Sticky Stakes** ability in addition to suffering the stakes' other effects.
-
-> ❗️ **Sticky Stakes**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters an area of sticky stakes.
->
-> **Power Roll + 2:**
->
-> - **≤11:** No effect.
-> - **12-16:** A < 1 slowed (save ends)
-> - **17+:** A < 2 restrained (save ends)
-
-> ⭐️ **Allied Awareness**
->
-> Allies of this object ignore the difficult terrain created by the stakes, take no damage from moving through the stakes unless they are force moved, and have cover while in an area of archer's stakes.
+<b>Sticky (+3 EV)</b> A sticky slime or webbing has been applied to the stakes and the ground between them. Any creature who enters an area of stakes triggers the <b>Sticky Stakes</b> ability in addition to suffering the stakes&#39; other effects.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Sticky Stakes</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">A &lt; 1 slowed (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; 2 restrained (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters an area of sticky stakes.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Allies of this object ignore the difficult terrain created by the stakes, take no damage from moving through the stakes unless they are force moved, and have cover while in an area of archer&#39;s stakes.</div>
+</article>
+</div>
+</article>
+</div>

@@ -60,43 +60,42 @@ type: dynamic-terrain
 
 ---
 
-A pit dug into the ground is filled with spikes, and camouflaged to avoid detection.
-
-- **EV:** 3
-- **Stamina:** 6
-- **Size:** One or more squares
-- **Typical Space:** 2 x 2-square area
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to a spike trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its area.
-> - **12-16:** The trap is deactivated but the creature is slowed (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The spike trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its area.
->
-> **Effect:** The **Spike Trap** ability.
-
-> ❗️ **Spike Trap**
->
-> | **Area, Weapon** |                **Free triggered action** |
-> |------------------|-----------------------------------------:|
-> | **📏 Melee 0**   | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's area.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; the target shifts 1 square away from the trap
-> - **12-16:** 4 damage; the target falls into the pit; A < 0 prone
-> - **17+:** 6 damage; the target falls into the pit; A < 1 prone; restrained (save ends)
->
-> **Effect:** The target ends their movement when they enter the trap's area. The pit is typically 2 squares deep. The trap must be manually reset.
-
-> ⭐️ **Hidden**
->
-> The spike trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Trap · Ambusher</div>
+<h2 class="fb__name">Spike Trap</h2>
+</header>
+<div class="fb__flavor">A pit dug into the ground is filled with spikes, and camouflaged to avoid detection.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">2 x 2-square area</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to a spike trap can make an <b>Agility test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Spike Trap</b> ability.</p></div></div>
+<div class="fb__feat-body">The spike trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its area.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Spike Trap</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; the target shifts 1 square away from the trap</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; the target falls into the pit; A &lt; 0 prone</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; the target falls into the pit; A &lt; 1 prone; restrained (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s area.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target ends their movement when they enter the trap&#39;s area. The pit is typically 2 squares deep. The trap must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Hidden</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The spike trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>

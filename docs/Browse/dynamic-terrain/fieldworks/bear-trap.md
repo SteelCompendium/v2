@@ -62,46 +62,45 @@ type: dynamic-terrain
 
 ---
 
-A set of spring-loaded steel jaws stands ready to snap shut when stepped on.
-
-- **EV:** 2
-- **Stamina:** 6
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to a bear trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its space.
-> - **12-16:** The trap is deactivated but the creature is slowed (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The bear trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.
->
-> **Effect:** A triggering creature or object ends their movement and is targeted by the **Bear Trap** ability.
-
-> ❗️ **Bear Trap**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's space.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 The target shifts 1 square away from the trap.
-> - **12-16:** 3 damage; A < 1 slowed (save ends)
-> - **17+:** 5 damage; A < 2 slowed (save ends)
->
-> **Effect:** The bear trap must be manually reset.
-
-> ⭐️ **Upgrade**
->
-> **Chain (+1 EV)** The bear trap is attached to the ground by a steel chain. A target who would be made slowed by the trap is restrained instead.
-
-> ⭐️ **Hidden**
->
-> The bear trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Bear Trap</h2>
+</header>
+<div class="fb__flavor">A set of spring-loaded steel jaws stands ready to snap shut when stepped on.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to a bear trap can make an <b>Agility test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A triggering creature or object ends their movement and is targeted by the <b>Bear Trap</b> ability.</p></div></div>
+<div class="fb__feat-body">The bear trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Bear Trap</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1 The target shifts 1 square away from the trap.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage; A &lt; 1 slowed (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage; A &lt; 2 slowed (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s space.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The bear trap must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Chain (+1 EV)</b> The bear trap is attached to the ground by a steel chain. A target who would be made slowed by the trap is restrained instead.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Hidden</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The bear trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>

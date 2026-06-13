@@ -22,12 +22,22 @@ type: featureblock
 
 ---
 
-At the start of any level 4 or higher undead's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Prior Malice Features (2-7+ Malice)**
->
-> The undead activates a Malice feature available to undead of level 3 or lower.
-
-> 🌀 **Blood Hunger (5 Malice)**
->
-> One undead acting this turn uses a signature ability against a creature who is bleeding. As a free triggered action, each undead within 5 squares of the first undead moves up to their speed and can make a free strike against the same target.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Undead Malice (Level 4+ Malice Features)</h2>
+</header>
+<div class="fb__flavor">At the start of any level 4 or higher undead&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Prior Malice Features</h3><div class="fb__feat-corner"><div class="sc-ability__cost">2-7+ Malice</div></div></div>
+<div class="fb__feat-body">The undead activates a Malice feature available to undead of level 3 or lower.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Blood Hunger</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">One undead acting this turn uses a signature ability against a creature who is bleeding. As a free triggered action, each undead within 5 squares of the first undead moves up to their speed and can make a free strike against the same target.</div>
+</article>
+</div>
+</article>
+</div>

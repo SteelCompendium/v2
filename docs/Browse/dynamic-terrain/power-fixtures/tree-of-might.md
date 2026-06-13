@@ -33,21 +33,32 @@ type: dynamic-terrain
 
 ---
 
-A gnarled tree has unearthed roots that writhe and curl.
-
-- **EV:** 14
-- **Stamina:** 60
-- **Size:** 3
-- **Immunity:** 5 to all damage except corruption or fire damage
-
-> 🌀 **Deactivate**
->
-> The tree of might must be completely destroyed.
-
-> ⭐️ **Tree's Nourishment**
->
-> At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M < 0 takes 10 corruption damage, and the tree of might grows a fruit. The potency increases by 1 each subsequent round.
-
-> ⭐️ **Mighty Fruit**
->
-> Once per round, any creature adjacent to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 temporary Stamina and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 5 Hazard · Hexer</div>
+<h2 class="fb__name">Tree of Might</h2>
+</header>
+<div class="fb__flavor">A gnarled tree has unearthed roots that writhe and curl.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">14</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">60</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">5 to all damage except corruption or fire damage</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The tree of might must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Tree&#39;s Nourishment</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M &lt; 0 takes 10 corruption damage, and the tree of might grows a fruit. The potency increases by 1 each subsequent round.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Mighty Fruit</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Once per round, any creature adjacent to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 temporary Stamina and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.</div>
+</article>
+</div>
+</article>
+</div>

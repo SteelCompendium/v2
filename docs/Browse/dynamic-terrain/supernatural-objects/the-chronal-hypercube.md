@@ -36,24 +36,32 @@ type: dynamic-terrain
 
 ---
 
-This unnatural object twists space around it in a reflection of its own unnatural form.
-
-- **EV:** 20
-- **Stamina:** 80
-- **Size:** 1M
-
-> 🌀 **Deactivate**
->
-> A creature who has the Psionics skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.
->
-> - **≤11:** The creature takes 1d6 psychic damage.
-> - **12-16:** The creature fails to deactivate the hypercube.
-> - **17+:** The hypercube teleports adjacent to the creature at the start of the next round and becomes an ally to the creature and their allies.
-
-> ⭐️ **Dimensional Flicker**
->
-> At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube teleports to a square of one ally's choice within 10 squares and is hidden. While the hypercube is hidden, Psionics is the only skill that can be applied to a test made to find it.
-
-> ⭐️ **Chronal Superhighway**
->
-> Any ally within 10 squares of the hypercube can teleport when they move. An ally who teleports gains an edge on the next power roll they make.
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Relic · Controller</div>
+<h2 class="fb__name">The Chronal Hypercube</h2>
+</header>
+<div class="fb__flavor">This unnatural object twists space around it in a reflection of its own unnatural form.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">20</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">80</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1M</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 1d6 psychic damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to deactivate the hypercube.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hypercube teleports adjacent to the creature at the start of the next round and becomes an ally to the creature and their allies.</span></div></div></div>
+<div class="fb__feat-body">A creature who has the Psionics skill can deactivate and take control of the chronal hypercube by making a <b>Reason test</b> while within 10 squares of the hypercube.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Dimensional Flicker</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube teleports to a square of one ally&#39;s choice within 10 squares and is hidden. While the hypercube is hidden, Psionics is the only skill that can be applied to a test made to find it.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Chronal Superhighway</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Any ally within 10 squares of the hypercube can teleport when they move. An ally who teleports gains an edge on the next power roll they make.</div>
+</article>
+</div>
+</article>
+</div>

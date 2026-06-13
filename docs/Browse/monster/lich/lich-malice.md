@@ -37,26 +37,33 @@ type: featureblock
 
 ---
 
-At the start of a lich's turn, you can spend Malice to activate one of the following features.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Lich Malice</h2>
+</header>
+<div class="fb__flavor">At the start of a lich&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Soul Sip</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">The lich makes a free strike against one enemy within 20 squares. They then gain an edge on their next power roll.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The lich takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Spirit Shell</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">16 psychic damage, dazed (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Dazed (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">The lich summons a swirling cloud of angry spirits to surround them until the start of the next round. Any creature who deals damage to the lich with a melee strike while the spirit shell is active makes a <b>Presence test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Cloud of Deceit</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-body">The lich summons a mind-altering mist, turns invisible until the start of their next turn, and moves up to half their speed. Each enemy within 20 squares of the lich&#39;s starting point who has I &lt; 4 is deceived. While deceived, a creature perceives all allies and enemies as the lich, and perceives the environment as an unfamiliar wasteland corrupted by necrotic blight. If other creatures attempt to communicate with a deceived creature, that creature interprets their words as ghastly taunts in the lich&#39;s voice.
 
-> 👤 **Soul Sip (3 Malice)**
->
-> The lich makes a free strike against one enemy within 20 squares. They then gain an edge on their next power roll.
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The lich takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 👤 **Spirit Shell (5 Malice)**
->
-> The lich summons a swirling cloud of angry spirits to surround them until the start of the next round. Any creature who deals damage to the lich with a melee strike while the spirit shell is active makes a **Presence test**.
->
-> - **≤11:** 16 psychic damage, dazed (save ends)
-> - **12-16:** Dazed (save ends)
-> - **17+:** No effect.
-
-> 🌀 **Cloud of Deceit (7 Malice)**
->
-> The lich summons a mind-altering mist, turns invisible until the start of their next turn, and moves up to half their speed. Each enemy within 20 squares of the lich's starting point who has I < 4 is deceived. While deceived, a creature perceives all allies and enemies as the lich, and perceives the environment as an unfamiliar wasteland corrupted by necrotic blight. If other creatures attempt to communicate with a deceived creature, that creature interprets their words as ghastly taunts in the lich's voice.
->
-> This effect lasts until an affected creature takes damage or an ally uses a main action to shake them out of it. Each time this feature is used during an encounter, the distance of the effect decreases by 5 squares (to a minimum of 5 squares) and the potency increases by 1.
+This effect lasts until an affected creature takes damage or an ally uses a main action to shake them out of it. Each time this feature is used during an encounter, the distance of the effect decreases by 5 squares (to a minimum of 5 squares) and the potency increases by 1.</div>
+</article>
+</div>
+</article>
+</div>

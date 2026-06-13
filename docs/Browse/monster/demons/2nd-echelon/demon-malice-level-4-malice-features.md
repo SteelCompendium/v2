@@ -22,12 +22,22 @@ type: featureblock
 
 ---
 
-At the start of any level 4 or higher demon's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Prior Malice Features (3-7 Malice)**
->
-> The demon activates a Malice feature available to demons of level or lower.
-
-> 👤 **Abyssal Jaunt (3 Malice)**
->
-> One demon acting this turn folds space around them, temporarily slipping in and out of the Abyssal Wasteland. Until the start of the demon's next turn, they ignore difficult terrain, can move through solid matter, and don't provoke opportunity attacks by moving. If the demon ends their turn inside solid matter, they are shunted out into the space from which they entered it.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Demon Malice (Level 4+ Malice Features)</h2>
+</header>
+<div class="fb__flavor">At the start of any level 4 or higher demon&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Prior Malice Features</h3><div class="fb__feat-corner"><div class="sc-ability__cost">3-7 Malice</div></div></div>
+<div class="fb__feat-body">The demon activates a Malice feature available to demons of level or lower.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Abyssal Jaunt</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">One demon acting this turn folds space around them, temporarily slipping in and out of the Abyssal Wasteland. Until the start of the demon&#39;s next turn, they ignore difficult terrain, can move through solid matter, and don&#39;t provoke opportunity attacks by moving. If the demon ends their turn inside solid matter, they are shunted out into the space from which they entered it.</div>
+</article>
+</div>
+</article>
+</div>

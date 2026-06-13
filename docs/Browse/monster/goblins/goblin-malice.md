@@ -30,20 +30,27 @@ type: featureblock
 
 ---
 
-At the start of any goblin's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Goblin Mode (3 Malice)**
->
-> Each goblin in the encounter gains a +2 bonus to speed until the end of the round.
-
-> ❇️ **Tiny Stabs (5 Malice)**
->
-> Each enemy in the encounter takes 1 damage for each goblin adjacent to them.
-
-> 🌀 **Swamp Stink (7 Malice)**
->
-> The encounter map is covered in a green mist that lasts until the end of the round, and which can't be dispersed by wind. All areas of the map are difficult terrain for non-goblins, and each non-goblin on the map makes a **Might test**.
->
-> - **≤11:** 5 poison damage; the creature is weakened until the mist disappears.
-> - **12-16:** The creature is weakened until the mist disappears.
-> - **17+:** No effect.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Goblin Malice</h2>
+</header>
+<div class="fb__flavor">At the start of any goblin&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Goblin Mode</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">Each goblin in the encounter gains a +2 bonus to speed until the end of the round.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Tiny Stabs</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">Each enemy in the encounter takes 1 damage for each goblin adjacent to them.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Swamp Stink</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 poison damage; the creature is weakened until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature is weakened until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">The encounter map is covered in a green mist that lasts until the end of the round, and which can&#39;t be dispersed by wind. All areas of the map are difficult terrain for non-goblins, and each non-goblin on the map makes a <b>Might test</b>.</div>
+</article>
+</div>
+</article>
+</div>

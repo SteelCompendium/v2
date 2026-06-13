@@ -119,90 +119,69 @@ type: dynamic-terrain
 
 ---
 
-A massive crossbow fires thick metal bolts with devastating effect.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Siege Engine · Artillery</div>
+<h2 class="fb__name">Field Ballista</h2>
+</header>
+<div class="fb__flavor">A massive crossbow fires thick metal bolts with devastating effect.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">8</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">40</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to a field ballista can make an <b>Agility test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Release Bolt</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; 1 push 1</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; 2 push 2</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the field ballista is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Reload</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The field ballista is reloaded, allowing <b>Release Bolt</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Spot</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Move</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The field ballista and the creature using this action move together up to 3 squares.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Penetrating Bolt (+2 EV)</b> The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
 
-- **EV:** 8
-- **Stamina:** 40
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to a field ballista can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Release Bolt** ability.
-> - **12-16:** The field ballista is deactivated but the creature is slowed (EoT).
-> - **17+:** The field ballista is deactivated and can't be used.
-
-> 🏹 **Release Bolt**
->
-> | **Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |----------------------------|------------------------------------:|
-> | **📏 Ranged 20**           |       **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 8 damage; M < 1 push 1
-> - **17+:** 11 damage; M < 2 push 2
->
-> **Effect:** This ability can't be used again until the field ballista is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The field ballista is reloaded, allowing **Release Bolt** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
-
-**Effect:** The next use of **Release Bolt** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The field ballista and the creature using this action move together up to 3 squares.
-
-> ⭐️ **Upgrades**
->
-> **Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
->
-> **Chain Bolt (+2 EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
->
-> 🏹 **Chain Bolt**
->
-> | **- - Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |--------------------------------|------------------------------------:|
-> | **📏 Ranged 20**               |       **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage; M < 1 slowed (save ends)
-> - **17+:** 10 damage; M < 2 slowed (save ends)
->
-> **Effect:** This ability can't be used again until the field ballista is reloaded.
->
-> 🏹 **Crank the Chain**
->
-> | **Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |----------------------------|------------------------------------:|
-> | **📏 Ranged 20**           |                 **🎯 One creature** |
->
-> **Special:** The target must be slowed by the field ballista.
->
-> **Power Roll + 2:**
->
-> - **≤11:** Pull 1
-> - **12-16:** Pull
-> - **17+:** 3 Pull 5
->
-> **Effect:** This forced movement triggers opportunity attacks.
+<b>Chain Bolt (+2 EV)</b> The field ballista&#39;s bolts are set with heavy chains that wrap around targets. The <b>Chain Bolt</b> ability replaces <b>Release Bolt</b>, and the field ballista gains the <b>Crank the Chain</b> ability.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Chain Bolt</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">- - Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; M &lt; 1 slowed (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; M &lt; 2 slowed (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the field ballista is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Crank the Chain</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">3 Pull 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be slowed by the field ballista.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This forced movement triggers opportunity attacks.</p></div></div>
+</article>
+</div>
+</article>
+</div>

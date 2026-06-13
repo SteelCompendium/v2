@@ -34,22 +34,32 @@ type: dynamic-terrain
 
 ---
 
-This thicket features close-growing vines tipped with sharp thorns.
-
-- **EV:** 1 per 10 x 10 thicket
-- **Stamina:** 3 per square
-- **Size:** One or more squares of difficult terrain
-
-> 🌀 **Deactivate**
->
-> Each square of brambles must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature enters a square of brambles without shifting.
->
-> **Effect:** A creature takes 1 damage per square of brambles they enter.
-
-> ⭐️ **Upgrade**
->
-> **Poisonous Thorns (+1 EV)** The brambles are poisonous. Any creature who takes damage from brambles is also bleeding (save ends).
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Hazard · Defender</div>
+<h2 class="fb__name">Brambles</h2>
+</header>
+<div class="fb__flavor">This thicket features close-growing vines tipped with sharp thorns.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1 per 10 x 10 thicket</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of difficult terrain</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of brambles must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature takes 1 damage per square of brambles they enter.</p></div></div>
+<div class="fb__feat-body">A creature enters a square of brambles without shifting.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poisonous Thorns (+1 EV)</b> The brambles are poisonous. Any creature who takes damage from brambles is also bleeding (save ends).</div>
+</article>
+</div>
+</article>
+</div>

@@ -35,20 +35,25 @@ type: featureblock
 
 ---
 
-At the start of any level 4 or higher war dog's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Prior Malice Features (3-7 Malice)**
->
-> The war dog activates a Malice feature available to war dogs of level 3 or lower.
-
-> 🏹 **Loyalty Unto Death (5 Malice)**
->
-> | **Magic, Ranged** |        **Maneuver** |
-> |-------------------|--------------------:|
-> | **📏 Ranged 10**  | **🎯 Two war dogs** |
->
-> **Effect:** Each target who has a loyalty collar shifts up to their speed, then is reduced to 0 Stamina. After each target's Loyalty Collar trait is resolved, each enemy adjacent to either target makes a Presence test.
->
-> - **≤11:** Push 4; the enemy is frightened of the nearest non-minion war dog (save ends)
-> - **12-16:** Push 2; the enemy is frightened of the nearest non-minion war dog (EoT)
-> - **17+:** Push 2
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">War Dog Malice (Level 4+ Malice Features)</h2>
+</header>
+<div class="fb__flavor">At the start of any level 4 or higher war dog&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Prior Malice Features</h3><div class="fb__feat-corner"><div class="sc-ability__cost">3-7 Malice</div></div></div>
+<div class="fb__feat-body">The war dog activates a Malice feature available to war dogs of level 3 or lower.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Loyalty Unto Death</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two war dogs</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 4; the enemy is frightened of the nearest non-minion war dog (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2; the enemy is frightened of the nearest non-minion war dog (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 2</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Each target who has a loyalty collar shifts up to their speed, then is reduced to 0 Stamina. After each target&#39;s Loyalty Collar trait is resolved, each enemy adjacent to either target makes a Presence test.</p></div></div>
+</article>
+</div>
+</article>
+</div>

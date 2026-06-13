@@ -34,24 +34,31 @@ type: featureblock
 
 ---
 
-At the start of an ashen hoarder's turn, you can spend Malice to activate one of the following features.
-
-> 👤 **Relentless Strikes (3 Malice)**
->
-> The ashen hoarder moves up to their speed and can make a free strike against two targets.
-
-> 🔳 **Blade Wall (5 Malice)**
->
-> The ashen hoarder summons a 10 wall of bones and blades into unoccupied squares within 5 squares of them. Each square of the wall has 5 Stamina. An enemy who comes adjacent to the wall for the first time in a round or starts their turn there takes 3 damage.
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The ashen hoarder takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 🔳 **Bone Storm (7 Malice)**
->
-> The ashen hoarder launches bone lances into the air, raining them down on enemies and impaling those unlucky enough to be on the receiving end. Each enemy within 20 squares of the ashen hoarder makes an **Agility test**.
->
-> - **≤11:** 14 damage; restrained and bleeding (save ends)
-> - **12-16:** 11 damage; bleeding (EoT)
-> - **17+:** 6 damage
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Ashen Hoarder Malice</h2>
+</header>
+<div class="fb__flavor">At the start of an ashen hoarder&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Relentless Strikes</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">The ashen hoarder moves up to their speed and can make a free strike against two targets.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Blade Wall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The ashen hoarder summons a 10 wall of bones and blades into unoccupied squares within 5 squares of them. Each square of the wall has 5 Stamina. An enemy who comes adjacent to the wall for the first time in a round or starts their turn there takes 3 damage.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The ashen hoarder takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Bone Storm</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">14 damage; restrained and bleeding (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage; bleeding (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div></div></div>
+<div class="fb__feat-body">The ashen hoarder launches bone lances into the air, raining them down on enemies and impaling those unlucky enough to be on the receiving end. Each enemy within 20 squares of the ashen hoarder makes an <b>Agility test</b>.</div>
+</article>
+</div>
+</article>
+</div>

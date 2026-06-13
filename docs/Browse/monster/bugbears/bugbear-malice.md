@@ -29,20 +29,30 @@ type: featureblock
 
 ---
 
-At the start of any bugbear's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Goblin Malice Features (3-7 Malice)**
->
-> The bugbear activates a Malice Feature available to goblins.
-
-> 👤 **Grab Iron Ball (3+ Malice)**
->
-> For every 3 Malice spent, one non-minion bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M < 1, they are slowed (save ends).
-
-> 👤 **Grab Javelin (5+ Malice)**
->
-> For every 5 Malice spent, one non-minion bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M < 1, they are bleeding (save ends). While a creature is bleeding this way, any ally of the bugbear within 2 squares of them can use a free maneuver to pull the bleeding creature up to 2 squares.
-
-> 🌀 **Show Them the Great Fear (10 Malice)**
->
-> A bugbear infuses the encounter map with bu'gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally's strike has I < 1, the target is also frightened (save ends) and must move their speed in a straight line away from the creature who made the strike.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Bugbear Malice</h2>
+</header>
+<div class="fb__flavor">At the start of any bugbear&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Goblin Malice Features</h3><div class="fb__feat-corner"><div class="sc-ability__cost">3-7 Malice</div></div></div>
+<div class="fb__feat-body">The bugbear activates a Malice Feature available to goblins.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Grab Iron Ball</h3><div class="fb__feat-corner"><div class="sc-ability__cost">3+ Malice</div></div></div>
+<div class="fb__feat-body">For every 3 Malice spent, one non-minion bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M &lt; 1, they are slowed (save ends).</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Grab Javelin</h3><div class="fb__feat-corner"><div class="sc-ability__cost">5+ Malice</div></div></div>
+<div class="fb__feat-body">For every 5 Malice spent, one non-minion bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M &lt; 1, they are bleeding (save ends). While a creature is bleeding this way, any ally of the bugbear within 2 squares of them can use a free maneuver to pull the bleeding creature up to 2 squares.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Show Them the Great Fear</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-body">A bugbear infuses the encounter map with bu&#39;gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally&#39;s strike has I &lt; 1, the target is also frightened (save ends) and must move their speed in a straight line away from the creature who made the strike.</div>
+</article>
+</div>
+</article>
+</div>

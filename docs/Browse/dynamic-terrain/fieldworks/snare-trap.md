@@ -62,46 +62,45 @@ type: dynamic-terrain
 
 ---
 
-A rope snare is set to grab a target, leaving them hanging upside down.
-
-- **EV:** 1
-- **Stamina:** 1
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to a snare trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its space.
-> - **12-16:** The trap is deactivated but the creature is slowed (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The snare trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.
->
-> **Effect:** A triggering creature or object ends their movement and is targeted by the **Snare** ability.
-
-> ❗️ **Snare**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's space.
->
-> **Power Roll + 2:**
->
-> - **≤11:** The target shifts 1 square away from the snare.
-> - **12-16:** 1 damage; A < 1 restrained (save ends)
-> - **17+:** 3 damage; A < 2 restrained (save ends)
->
-> **Effect:** A creature restrained this way is vertical pulled 2 squares and suspended in the air by the snare line. On a successful save, the snare is cut or breaks and the creature falls to the ground. The snare must be manually reset.
-
-> ⭐️ **Upgrade**
->
-> **Net Trap (+1 EV)** The snare becomes a net that can wrap up multiple targets. The net has 3 Stamina and fills an area of 3 squares by 3 squares. The Snare ability loses its existing keywords, gains the Area keyword, and targets each creature or object in the area. The trap can be triggered by a target moving through one specific square, or by requiring multiple squares to be moved through. Any creature who makes their save to end the restrained effect ends that effect for all targets, who all fall to the ground.
-
-> ⭐️ **Hidden**
->
-> The snare trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Snare Trap</h2>
+</header>
+<div class="fb__flavor">A rope snare is set to grab a target, leaving them hanging upside down.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to a snare trap can make an <b>Agility test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A triggering creature or object ends their movement and is targeted by the <b>Snare</b> ability.</p></div></div>
+<div class="fb__feat-body">The snare trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Snare</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target shifts 1 square away from the snare.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">1 damage; A &lt; 1 restrained (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">3 damage; A &lt; 2 restrained (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s space.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature restrained this way is vertical pulled 2 squares and suspended in the air by the snare line. On a successful save, the snare is cut or breaks and the creature falls to the ground. The snare must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Net Trap (+1 EV)</b> The snare becomes a net that can wrap up multiple targets. The net has 3 Stamina and fills an area of 3 squares by 3 squares. The Snare ability loses its existing keywords, gains the Area keyword, and targets each creature or object in the area. The trap can be triggered by a target moving through one specific square, or by requiring multiple squares to be moved through. Any creature who makes their save to end the restrained effect ends that effect for all targets, who all fall to the ground.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Hidden</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The snare trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>

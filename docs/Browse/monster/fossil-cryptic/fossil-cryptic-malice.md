@@ -34,24 +34,31 @@ type: featureblock
 
 ---
 
-At the start of a fossil cryptic's turn, you can spend Malice to activate one of the following features.
-
-> 🏹 **Floor Mosaic (3 Malice)**
->
-> The fossil cryptic slides one creature on the ground up to 5 squares. If the creature is prone, this forced movement ignores stability.
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 🔳 **Stone Pillars (5 Malice)**
->
-> Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked prone on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M < 2 they are restrained (save ends).
-
-> 🌀 **Choking Dust (10 Malice)**
->
-> The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a **Might test**.
->
-> - **≤11:** Until the end of the enemy's next turn, their stability is reduced to 0, and any forced movement effects targeting them gain a +2 bonus to the distance moved.
-> - **12-16:** The enemy's stability is halved (EoT).
-> - **17+:** No effect.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Fossil Cryptic Malice</h2>
+</header>
+<div class="fb__flavor">At the start of a fossil cryptic&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Floor Mosaic</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">The fossil cryptic slides one creature on the ground up to 5 squares. If the creature is prone, this forced movement ignores stability.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Stone Pillars</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked prone on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M &lt; 2 they are restrained (save ends).</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Choking Dust</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Until the end of the enemy&#39;s next turn, their stability is reduced to 0, and any forced movement effects targeting them gain a +2 bonus to the distance moved.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The enemy&#39;s stability is halved (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a <b>Might test</b>.</div>
+</article>
+</div>
+</article>
+</div>

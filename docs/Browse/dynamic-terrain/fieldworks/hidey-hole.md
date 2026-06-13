@@ -39,26 +39,33 @@ type: dynamic-terrain
 
 ---
 
-A cavity in a floor, wall, or ceiling might hold hidden threats.
-
-- **EV:** 1
-- **Stamina:** -
-- **Size:** One or more squares
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to a hidey-hole can make a **Might test**.
->
-> - **≤11:** The creature is restrained (save ends).
-> - **12-16:** The hidey-hole collapses but the creature is slowed (save ends).
-> - **17+:** The hidey-hole collapses and can no longer be used until repaired.
-
-> ❕ **Activate**
->
-> A creature starts the encounter in the hidey-hole or ends their turn there.
->
-> **Effect:** The triggering creature can attempt to hide as a free triggered action.
-
-> ⭐️ **Upgrade**
->
-> **Network (+1 EV per hidey-hole)** The hidey-hole is connected to a tunnel network. A creature familiar with the network can move from one hidey-hole to any space adjacent to a connected hidey-hole if they have movement available equal to the straight-line distance to that space. A creature unfamiliar with the network can use a maneuver to make a **hard Intuition test** to discover a connected hidey-hole.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Fortification · Ambusher</div>
+<h2 class="fb__name">Hidey-Hole</h2>
+</header>
+<div class="fb__flavor">A cavity in a floor, wall, or ceiling might hold hidden threats.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">-</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature is restrained (save ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hidey-hole collapses but the creature is slowed (save ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hidey-hole collapses and can no longer be used until repaired.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to a hidey-hole can make a <b>Might test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature can attempt to hide as a free triggered action.</p></div></div>
+<div class="fb__feat-body">A creature starts the encounter in the hidey-hole or ends their turn there.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Network (+1 EV per hidey-hole)</b> The hidey-hole is connected to a tunnel network. A creature familiar with the network can move from one hidey-hole to any space adjacent to a connected hidey-hole if they have movement available equal to the straight-line distance to that space. A creature unfamiliar with the network can use a maneuver to make a <b>hard Intuition test</b> to discover a connected hidey-hole.</div>
+</article>
+</div>
+</article>
+</div>

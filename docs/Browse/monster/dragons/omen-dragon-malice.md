@@ -34,24 +34,31 @@ type: featureblock
 
 ---
 
-At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Black Skies (3 Malice)**
->
-> The dragon expands their wings to create a shroud of shadow. Until the start of the dragon's next turn, any strike made against them takes a bane.
-
-> ❇️ **Rise and Fall (5 Malice)**
->
-> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura trait makes a **Presence test**.
->
-> - **≤11:** Vertical pull 10
-> - **12-16:** Vertical pull 6
-> - **17+:** Vertical pull 4
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The dragon takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 🌀 **Burn It Right Down (10 Malice)**
->
-> Each edge of the encounter map burns with intangible purple flames until the end of the encounter. The flames expand by 1 square at the end of every turn. Any enemy takes 5 corruption damage for each square of flames they enter.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Omen Dragon Malice</h2>
+</header>
+<div class="fb__flavor">At the start of an omen dragon&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Black Skies</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">The dragon expands their wings to create a shroud of shadow. Until the start of the dragon&#39;s next turn, any strike made against them takes a bane.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Rise and Fall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical pull 10</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical pull 6</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical pull 4</span></div></div></div>
+<div class="fb__feat-body">The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon&#39;s Stagnant Wyrmscale Aura trait makes a <b>Presence test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The dragon takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Burn It Right Down</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-body">Each edge of the encounter map burns with intangible purple flames until the end of the encounter. The flames expand by 1 square at the end of every turn. Any enemy takes 5 corruption damage for each square of flames they enter.</div>
+</article>
+</div>
+</article>
+</div>

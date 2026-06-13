@@ -77,54 +77,49 @@ type: dynamic-terrain
 
 ---
 
-A massive metal device uses a bellows system and liquid fuel to shoot out gouts of flame.
-
-- **EV:** 12
-- **Stamina:** 60
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature adjacent to an iron dragon can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Gout of Flame** ability.
-> - **12-16:** The iron dragon is deactivated but the creature is slowed (EoT).
-> - **17+:** The iron dragon is deactivated and can't be used.
-
-> 🔳 **Gout of Flame**
->
-> | **Area, Weapon**           |         **Main action (Adjacent creature)** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 8 x 2 line within 1** | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 fire damage; A < 0 the target is burning (save ends)
-> - **12-16:** 10 fire damage; A < 1 the target is burning (save ends)
-> - **17+:** 13 fire damage; A < 2 the target is burning (save ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the iron dragon is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The iron dragon is reloaded, allowing **Gout of Flame** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The next use of **Gout of Flame** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 4 Siege Engine · Artillery</div>
+<h2 class="fb__name">Iron Dragon</h2>
+</header>
+<div class="fb__flavor">A massive metal device uses a bellows system and liquid fuel to shoot out gouts of flame.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">12</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">60</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Gout of Flame</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The iron dragon is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The iron dragon is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature adjacent to an iron dragon can make an <b>Agility test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Gout of Flame</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">8 x 2 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 fire damage; A &lt; 0 the target is burning (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 fire damage; A &lt; 1 the target is burning (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 fire damage; A &lt; 2 the target is burning (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can&#39;t be used again until the iron dragon is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Reload</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The iron dragon is reloaded, allowing <b>Gout of Flame</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Spot</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Gout of Flame</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Move</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The iron dragon and the creature using this action move together up to 2 squares.</p></div></div>
+</article>
+</div>
+</article>
+</div>

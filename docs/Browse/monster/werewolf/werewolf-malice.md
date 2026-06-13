@@ -25,16 +25,26 @@ type: featureblock
 
 ---
 
-At the start of a werewolf's turn, you can spend Malice to activate one of the following features.
-
-> ⭐️ **Blood In Their Eyes (3 Malice)**
->
-> The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The werewolf takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 🌀 **Moonfall (10 Malice)**
->
-> Until the end of the encounter, the encounter map turns to night and the moon appears impossibly huge in the sky. The werewolf can take an additional move action or maneuver on each of their turns while they have line of effect to the moon. Any creature who ends their turn with line of effect to the moon with 1 or more rage gains 2 rag.
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Werewolf Malice</h2>
+</header>
+<div class="fb__flavor">At the start of a werewolf&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Blood In Their Eyes</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-body">The werewolf gains 10 temporary Stamina and a +3 bonus to speed until the end of their turn. The werewolf can&#39;t use this feature if they took any holy damage since ending their last turn.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The werewolf takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Moonfall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-body">Until the end of the encounter, the encounter map turns to night and the moon appears impossibly huge in the sky. The werewolf can take an additional move action or maneuver on each of their turns while they have line of effect to the moon. Any creature who ends their turn with line of effect to the moon with 1 or more rage gains 2 rag.</div>
+</article>
+</div>
+</article>
+</div>

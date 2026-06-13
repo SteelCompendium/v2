@@ -57,41 +57,43 @@ type: dynamic-terrain
 
 ---
 
-This stone pillar can be toppled onto unsuspecting foes with the right amount of damage or a well-engineered trigger mechanism.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Hazard · Hexer</div>
+<h2 class="fb__name">Pillar</h2>
+</header>
+<div class="fb__flavor">This stone pillar can be toppled onto unsuspecting foes with the right amount of damage or a well-engineered trigger mechanism.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One square that can&#39;t be moved through</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">The pillar topples in a preset direction.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The pillar&#39;s linked trigger must be deactivated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Toppling Pillar</b> ability.</p></div></div>
+<div class="fb__feat-body">The pillar is destroyed, or a pressure plate, switch, or other linked trigger is activated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Toppling Pillar</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; M &lt; 1 restrained (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; M &lt; 2 restrained (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The pillar is destroyed, or a pressure plate, switch, or other linked trigger is activated.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The area is difficult terrain.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Metal Pillar (+1 EV)</b> The pillar is made of metal, has 9 Stamina, and deals 1d6 extra damage.
 
-- **EV:** 3
-- **Stamina:** 6
-- **Size:** One square that can't be moved through
-- **Direction:** The pillar topples in a preset direction.
-
-> 🌀 **Deactivate**
->
-> The pillar's linked trigger must be deactivated.
-
-> ❕ **Activate**
->
-> The pillar is destroyed, or a pressure plate, switch, or other linked trigger is activated.
->
-> **Effect:** The **Toppling Pillar** ability.
-
-> ❗️ **Toppling Pillar**
->
-> | **Area**                   |                   **Free triggered action** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 4 x 1 line within 1** | **🎯 Each creature and object in the area** |
->
-> **Trigger:** The pillar is destroyed, or a pressure plate, switch, or other linked trigger is activated.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 6 damage; M < 1 restrained (save ends)
-> - **17+:** 9 damage; M < 2 restrained (save ends)
->
-> **Effect:** The area is difficult terrain.
-
-> ⭐️ **Upgrades**
->
-> **Metal Pillar (+1 EV)** The pillar is made of metal, has 9 Stamina, and deals 1d6 extra damage.
->
-> **Multiple Pillars (+3 EV per additional pillar)** Multiple pillars can be used to represent a larger toppling object such as a wall. If triggered by destruction, all individual pillars need to be destroyed before the object falls.
+<b>Multiple Pillars (+3 EV per additional pillar)</b> Multiple pillars can be used to represent a larger toppling object such as a wall. If triggered by destruction, all individual pillars need to be destroyed before the object falls.</div>
+</article>
+</div>
+</article>
+</div>

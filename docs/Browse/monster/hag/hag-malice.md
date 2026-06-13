@@ -55,42 +55,35 @@ type: featureblock
 
 ---
 
-At the start of a hag's turn, you can spend Malice to activate one of the following features.
-
-❇️ **Casting Curses and Bodies (3 Malice)**
-
-The hag utters terrible words that push each enemy within 2 squares of them up to 3 squares.
-
-> 🔳 **Hag Wyrd (5 Malice)**
->
-> | **Area, Magic**             |               **Main action** |
-> |-----------------------------|------------------------------:|
-> | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 5 fire damage; R < 1 frightened (save ends)
-> - **12-16:** 8 fire damage; R < 2 frightened (save ends)
-> - **17+:** 11 fire damage; R < 3 frightened (save ends)
->
-> **Effect:** After making the power roll, the hag can choose to replace the damage type and condition with lightning damage and dazed, or cold damage and slowed.
-
-> ☠️ **Solo Action (5 Malice)**
->
-> The hag takes an additional main action on their turn. They can use this feature even if they are dazed.
-
-> 🌀 **House Call (10 Malice)**
->
-> The hag's hut springs to life. It enters the encounter map within 10 squares of the hag if it isn't already there and takes its turn. The hut is size 4, has 75 Stamina and damage immunity 3, and has speed 8 from its powerful set of animal legs. This feature can't be used if the hut is reduced to 0 Stamina. In addition to its move action, the house can take only the following main action.
-
-> 🔳 **Kick (Signature Ability)**
->
-> | **Area, Ranged, Weapon** |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 2 cube within 2**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 6 damage; push 3; M < 1 prone
-> - **12-16:** 10 damage; push 4; M < 2 prone
-> - **17+:** 13 damage; push 5; M < 3 prone
+<div class="fb-wrap" data-role="malice" data-kind="malice">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Malice Features</div>
+<h2 class="fb__name">Hag Malice</h2>
+</header>
+<div class="fb__flavor">At the start of a hag&#39;s turn, you can spend Malice to activate one of the following features.</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Hag Wyrd</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 3</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; R &lt; 1 frightened (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage; R &lt; 2 frightened (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage; R &lt; 3 frightened (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>After making the power roll, the hag can choose to replace the damage type and condition with lightning damage and dazed, or cold damage and slowed.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="villain">
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-body">The hag takes an additional main action on their turn. They can use this feature even if they are dazed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">House Call</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-body">The hag&#39;s hut springs to life. It enters the encounter map within 10 squares of the hag if it isn&#39;t already there and takes its turn. The hut is size 4, has 75 Stamina and damage immunity 3, and has speed 8 from its powerful set of animal legs. This feature can&#39;t be used if the hut is reduced to 0 Stamina. In addition to its move action, the house can take only the following main action.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Kick</h3><div class="fb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 cube within 2</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 3</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; push 3; M &lt; 1 prone</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; push 4; M &lt; 2 prone</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; push 5; M &lt; 3 prone</span></div></div></div>
+</article>
+</div>
+</article>
+</div>

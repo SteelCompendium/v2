@@ -48,36 +48,44 @@ type: dynamic-terrain
 
 ---
 
-A sturdy wooden tower accessed by interior ladders or stairs provides cover and high ground for attackers.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Fortification · Defender</div>
+<h2 class="fb__name">Watchtower</h2>
+</header>
+<div class="fb__flavor">A sturdy wooden tower accessed by interior ladders or stairs provides cover and high ground for attackers.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">8</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">50</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">3</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The watchtower must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">High Ground and Cover</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Creatures who have access to the watchtower&#39;s interior ladders or stairs have high ground and cover against creatures outside the watchtower.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Getting Inside</h3><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1d6 damage; the creature remains outside the watchtower</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature remains outside the watchtower.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature gains access to the watchtower.</span></div></div></div>
+<div class="fb__feat-body">A creature outside and adjacent to the watchtower can gain access to the interior by climbing it as an <b>Agility test</b> or breaking into it with a <b>Might test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Ballista Emplacement (+12 EV)</b> The watchtower is equipped with a field ballista that can be used by creatures in the watchtower. The ballista can&#39;t be moved.
 
-- **EV:** 8
-- **Stamina:** 50
-- **Size:** 3
+<b>Boiling Oil Cauldron (+17 EV)</b> The watchtower is equipped with a boiling oil cauldron that can be used by creatures in the watchtower.
 
-> 🌀 **Deactivate**
->
-> The watchtower must be completely destroyed.
+<b>Spyglass (+2 EV)</b> Any creature in the watchtower can use the spyglass to search for hidden creatures around the tower, gaining an edge on the Intuition test and increasing the distance at which creatures can be spotted to 15 squares.
 
-> ⭐️ **High Ground and Cover**
->
-> Creatures who have access to the watchtower's interior ladders or stairs have high ground and cover against creatures outside the watchtower.
+<b>Stone Tower (+2 EV)</b> The watchtower is reinforced with stone and has 75 Stamina.
 
-> 🌀 **Getting Inside**
->
-> A creature outside and adjacent to the watchtower can gain access to the interior by climbing it as an **Agility test** or breaking into it with a **Might test**.
->
-> - **≤11:** 1d6 damage; the creature remains outside the watchtower
-> - **12-16:** The creature remains outside the watchtower.
-> - **17+:** The creature gains access to the watchtower.
-
-> ⭐️ **Upgrades**
->
-> **Ballista Emplacement (+12 EV)** The watchtower is equipped with a field ballista that can be used by creatures in the watchtower. The ballista can't be moved.
->
-> **Boiling Oil Cauldron (+17 EV)** The watchtower is equipped with a boiling oil cauldron that can be used by creatures in the watchtower.
->
-> **Spyglass (+2 EV)** Any creature in the watchtower can use the spyglass to search for hidden creatures around the tower, gaining an edge on the Intuition test and increasing the distance at which creatures can be spotted to 15 squares.
->
-> **Stone Tower (+2 EV)** The watchtower is reinforced with stone and has 75 Stamina.
->
-> **Iron Tower (+4 EV)** The watchtower is reinforced with stone and iron and has 100 Stamina.
+<b>Iron Tower (+4 EV)</b> The watchtower is reinforced with stone and iron and has 100 Stamina.</div>
+</article>
+</div>
+</article>
+</div>
