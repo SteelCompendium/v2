@@ -6,6 +6,26 @@
    so the entire palette can be changed from one file.
    ============================ */
 
+/* ── Role accent palette (single source) ──
+   One saturated color per Draw Steel combat role, consumed by
+   steel-statblock.css (.sb-wrap[data-role]) and steel-featureblock.css
+   (.fb-wrap[data-role]). Malice/feature blocks reuse the grey leader hue. */
+:root {
+    --sc-role-ambusher:   #e3c14a;  /* yellow */
+    --sc-role-harrier:    #e07ba8;  /* pink   */
+    --sc-role-artillery:  #a87cd6;  /* purple */
+    --sc-role-brute:      #5d8fe0;  /* blue   */
+    --sc-role-controller: #e0584b;  /* red    */
+    --sc-role-leader:     #9aa2a8;  /* grey   */
+    --sc-role-solo:       #9aa2a8;  /* grey   */
+    --sc-role-hexer:      #5cc98a;  /* green  */
+    --sc-role-mount:      #48c9b0;  /* teal   */
+    --sc-role-support:    #e8954a;  /* orange */
+    --sc-role-defender:   #c7a173;  /* tan    */
+    --sc-role-minion:     #9aa2a8;  /* grey   */
+    --sc-role-malice:     #9aa2a8;  /* grey — malice & named feature blocks */
+}
+
 /* ── Light Mode ── */
 [data-md-color-scheme="default"] {
     /* Brand */

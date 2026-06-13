@@ -25,22 +25,23 @@
      ledger= hairline row, label left / value right
    ============================================================ */
 
-/* ── ROLE palette: the one saturated color per block, keyed to Role ── */
-.sb-wrap[data-role="ambusher"]   { --role:#e3c14a; } /* yellow  */
-.sb-wrap[data-role="harrier"]    { --role:#e07ba8; } /* pink    */
-.sb-wrap[data-role="artillery"]  { --role:#a87cd6; } /* purple  */
-.sb-wrap[data-role="brute"]      { --role:#5d8fe0; } /* blue    */
-.sb-wrap[data-role="controller"] { --role:#e0584b; } /* red     */
-.sb-wrap[data-role="leader"]     { --role:#9aa2a8; } /* grey    */
-.sb-wrap[data-role="solo"]       { --role:#9aa2a8; } /* grey    */
-.sb-wrap[data-role="hexer"]      { --role:#5cc98a; } /* green   */
-.sb-wrap[data-role="mount"]      { --role:#48c9b0; } /* teal    */
-.sb-wrap[data-role="support"]    { --role:#e8954a; } /* orange  */
-.sb-wrap[data-role="defender"]   { --role:#c7a173; } /* tan     */
-.sb-wrap[data-role="minion"]     { --role:#9aa2a8; } /* grey (modifier) */
+/* ── ROLE palette: one saturated color per block, keyed to Role.
+   Hexes live in palette.css (--sc-role-*) as the single source. ── */
+.sb-wrap[data-role="ambusher"]   { --role: var(--sc-role-ambusher); }
+.sb-wrap[data-role="harrier"]    { --role: var(--sc-role-harrier); }
+.sb-wrap[data-role="artillery"]  { --role: var(--sc-role-artillery); }
+.sb-wrap[data-role="brute"]      { --role: var(--sc-role-brute); }
+.sb-wrap[data-role="controller"] { --role: var(--sc-role-controller); }
+.sb-wrap[data-role="leader"]     { --role: var(--sc-role-leader); }
+.sb-wrap[data-role="solo"]       { --role: var(--sc-role-solo); }
+.sb-wrap[data-role="hexer"]      { --role: var(--sc-role-hexer); }
+.sb-wrap[data-role="mount"]      { --role: var(--sc-role-mount); }
+.sb-wrap[data-role="support"]    { --role: var(--sc-role-support); }
+.sb-wrap[data-role="defender"]   { --role: var(--sc-role-defender); }
+.sb-wrap[data-role="minion"]     { --role: var(--sc-role-minion); }
 /* the role word in the header + sticky needs --role on its own element too */
-.sb__sticky-role[data-role="leader"]{--role:#9aa2a8} .sb__sticky-role[data-role="brute"]{--role:#5d8fe0}
-.sb__role[data-role="leader"]{--role:#9aa2a8} .sb__role[data-role="brute"]{--role:#5d8fe0}
+.sb__sticky-role[data-role="leader"]{--role:var(--sc-role-leader)} .sb__sticky-role[data-role="brute"]{--role:var(--sc-role-brute)}
+.sb__role[data-role="leader"]{--role:var(--sc-role-leader)} .sb__role[data-role="brute"]{--role:var(--sc-role-brute)}
 
 /* ── MkDocs site integration ──
    The bestiary page injects a "# Name" H1 (+ its `---` rule) for the title /
