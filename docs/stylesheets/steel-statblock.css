@@ -377,7 +377,7 @@
 /* flat-mode features inside a band get the same separators.
    centering: gap above divider = band-body flex gap (.55rem) + margin-top,
    gap below = padding-top — so margin-top is .65rem minus the flex gap. */
-[data-sb-featstyle="flat"] .sb__band-body .sb__feat + .sb__feat { position: relative; margin-top: .1rem; padding-top: .65rem; }
+[data-sb-featstyle="flat"] .sb__band-body .sb__feat + .sb__feat { position: relative; margin-top: 0rem; padding-top: 1rem; }
 [data-sb-featstyle="flat"] .sb__band-body .sb__feat + .sb__feat::before {
   /* see the .sb__features separator above — same contested-::before rule:
      re-declare display/opacity/mix-blend-mode when repurposing it. */
