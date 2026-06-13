@@ -29,7 +29,7 @@ scc: mcdm.monsters.v1/monster.elementals/elemental-malice
 type: featureblock
 ---
 
-# Elemental Swap
+# Elemental Malice
 
 ---
 

@@ -34,7 +34,7 @@ scc: mcdm.monsters.v1/monster.undead.1st-echelon/undead-malice-level-1-malice-fe
 type: featureblock
 ---
 
-# Ravenous Horde
+# Undead Malice (Level 1+ Malice Features)
 
 ---
 

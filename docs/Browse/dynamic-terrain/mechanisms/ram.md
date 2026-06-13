@@ -72,7 +72,7 @@ terrain_type: Trap
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Ram
 
 ---
 

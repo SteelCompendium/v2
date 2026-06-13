@@ -35,7 +35,7 @@ scc: mcdm.monsters.v1/monster.rivals/rival-malice-level-1-malice-features
 type: featureblock
 ---
 
-# Work as One
+# Rival Malice (Level 1+ Malice Features)
 
 ---
 

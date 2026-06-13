@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.shambling-mound/shambling-mound-malice
 type: featureblock
 ---
 
-# Poisoned Vines
+# Shambling Mound Malice
 
 ---
 

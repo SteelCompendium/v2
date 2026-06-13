@@ -34,7 +34,7 @@ scc: mcdm.monsters.v1/monster.war-dogs.4th-echelon/war-dog-malice-level-10-malic
 type: featureblock
 ---
 
-# Prior Malice Features
+# War Dog Malice (Level 10+ Malice Features)
 
 ---
 

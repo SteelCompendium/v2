@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.dragons/gloom-dragon-malice
 type: featureblock
 ---
 
-# Dread and Terror
+# Gloom Dragon Malice
 
 ---
 

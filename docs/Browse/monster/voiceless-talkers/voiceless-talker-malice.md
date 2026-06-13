@@ -35,7 +35,7 @@ scc: mcdm.monsters.v1/monster.voiceless-talkers/voiceless-talker-malice
 type: featureblock
 ---
 
-# Guise
+# Voiceless Talker Malice
 
 ---
 

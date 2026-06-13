@@ -89,7 +89,7 @@ terrain_type: Relic
 type: dynamic-terrain
 ---
 
-# Deactivate
+# The Throne of A'An
 
 ---
 

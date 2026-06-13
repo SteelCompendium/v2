@@ -36,7 +36,7 @@ scc: mcdm.monsters.v1/monster.time-raiders/time-raider-malice
 type: featureblock
 ---
 
-# Gravity Well
+# Time Raider Malice
 
 ---
 

@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.chimera/chimera-malice
 type: featureblock
 ---
 
-# Defensive Snapping
+# Chimera Malice
 
 ---
 

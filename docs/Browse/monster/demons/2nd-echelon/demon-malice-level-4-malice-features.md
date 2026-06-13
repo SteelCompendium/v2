@@ -18,7 +18,7 @@ scc: mcdm.monsters.v1/monster.demons.2nd-echelon/demon-malice-level-4-malice-fea
 type: featureblock
 ---
 
-# Prior Malice Features
+# Demon Malice (Level 4+ Malice Features)
 
 ---
 

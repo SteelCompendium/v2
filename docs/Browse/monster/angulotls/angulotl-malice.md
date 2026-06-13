@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.angulotls/angulotl-malice
 type: featureblock
 ---
 
-# Leapfrog
+# Angulotl Malice
 
 ---
 

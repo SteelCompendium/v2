@@ -35,7 +35,7 @@ scc: mcdm.monsters.v1/monster.basilisks/basilisk-malice
 type: featureblock
 ---
 
-# Stone Swim
+# Basilisk Malice
 
 ---
 

@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.dragons/omen-dragon-malice
 type: featureblock
 ---
 
-# Black Skies
+# Omen Dragon Malice
 
 ---
 

@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.dragons/meteor-dragon-malice
 type: featureblock
 ---
 
-# Liftoff
+# Meteor Dragon Malice
 
 ---
 

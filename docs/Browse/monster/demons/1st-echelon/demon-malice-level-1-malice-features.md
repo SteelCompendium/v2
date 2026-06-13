@@ -27,7 +27,7 @@ scc: mcdm.monsters.v1/monster.demons.1st-echelon/demon-malice-level-1-malice-fea
 type: featureblock
 ---
 
-# Soulburn
+# Demon Malice (Level 1+ Malice Features)
 
 ---
 

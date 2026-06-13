@@ -58,7 +58,7 @@ terrain_type: Fortification
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Archer's Stakes
 
 ---
 

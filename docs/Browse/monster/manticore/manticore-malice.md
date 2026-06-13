@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.manticore/manticore-malice
 type: featureblock
 ---
 
-# Uncanny Mimicry
+# Manticore Malice
 
 ---
 

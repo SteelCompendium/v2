@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.demons.4th-echelon/demon-malice-level-10-malice-fe
 type: featureblock
 ---
 
-# Prior Malice Features
+# Demon Malice (Level 10+ Malice Features)
 
 ---
 

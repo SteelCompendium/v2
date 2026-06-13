@@ -51,7 +51,7 @@ terrain_type: Relic
 type: dynamic-terrain
 ---
 
-# Deactivate
+# The Black Obelisk
 
 ---
 

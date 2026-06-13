@@ -316,34 +316,34 @@ Meteor dragons are not known for their conversational habits. When they do deign
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="crucible-dragon-malice/" aria-label="Swordfall"></a>
+  <a class="sc-card__link" href="crucible-dragon-malice/" aria-label="Crucible Dragon Malice"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Swordfall</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Crucible Dragon Malice</div></div></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="gloom-dragon-malice/" aria-label="Dread and Terror"></a>
+  <a class="sc-card__link" href="gloom-dragon-malice/" aria-label="Gloom Dragon Malice"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Dread and Terror</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Gloom Dragon Malice</div></div></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="meteor-dragon-malice/" aria-label="Liftoff"></a>
+  <a class="sc-card__link" href="meteor-dragon-malice/" aria-label="Meteor Dragon Malice"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Liftoff</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Meteor Dragon Malice</div></div></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="omen-dragon-malice/" aria-label="Black Skies"></a>
+  <a class="sc-card__link" href="omen-dragon-malice/" aria-label="Omen Dragon Malice"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Black Skies</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Omen Dragon Malice</div></div></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="thorn-dragon-malice/" aria-label="Cage of Thorns"></a>
+  <a class="sc-card__link" href="thorn-dragon-malice/" aria-label="Thorn Dragon Malice"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Cage of Thorns</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Thorn Dragon Malice</div></div></div>
 </div>
 </div>
 <div class="sc-cards">

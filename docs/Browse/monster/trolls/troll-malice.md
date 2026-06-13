@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.trolls/troll-malice
 type: featureblock
 ---
 
-# Foul Spew
+# Troll Malice
 
 ---
 

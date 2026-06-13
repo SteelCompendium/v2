@@ -36,7 +36,7 @@ scc: mcdm.monsters.v1/monster.lizardfolk/lizardfolk-malice
 type: featureblock
 ---
 
-# Net Trap
+# Lizardfolk Malice
 
 ---
 

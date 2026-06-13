@@ -38,7 +38,7 @@ terrain_type: Trigger
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Pulley
 
 ---
 

@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.bugbears/bugbear-malice
 type: featureblock
 ---
 
-# Goblin Malice Features
+# Bugbear Malice
 
 ---
 

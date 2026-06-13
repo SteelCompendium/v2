@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.lightbenders/lightbender-malice
 type: featureblock
 ---
 
-# Silent Prowl
+# Lightbender Malice
 
 ---
 

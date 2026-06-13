@@ -36,7 +36,7 @@ scc: mcdm.monsters.v1/monster.war-dogs.1st-echelon/war-dog-malice-level-1-malice
 type: featureblock
 ---
 
-# Reconstitute
+# War Dog Malice (Level 1+ Malice Features)
 
 ---
 

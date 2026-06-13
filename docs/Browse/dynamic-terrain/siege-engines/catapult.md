@@ -80,7 +80,7 @@ terrain_type: Siege Engine
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Catapult
 
 ---
 

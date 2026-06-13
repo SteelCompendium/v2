@@ -54,7 +54,7 @@ terrain_type: Hazard
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Frozen Pond
 
 ---
 

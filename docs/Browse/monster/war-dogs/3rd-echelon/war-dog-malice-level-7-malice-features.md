@@ -23,7 +23,7 @@ scc: mcdm.monsters.v1/monster.war-dogs.3rd-echelon/war-dog-malice-level-7-malice
 type: featureblock
 ---
 
-# Prior Malice Features
+# War Dog Malice (Level 7+ Malice Features)
 
 ---
 

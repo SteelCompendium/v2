@@ -37,7 +37,7 @@ scc: mcdm.monsters.v1/monster.elves-high/high-elf-malice
 type: featureblock
 ---
 
-# Chaincast
+# High Elf Malice
 
 ---
 

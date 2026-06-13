@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.elves-wode/wode-elf-malice
 type: featureblock
 ---
 
-# Forest Network
+# Wode Elf Malice
 
 ---
 

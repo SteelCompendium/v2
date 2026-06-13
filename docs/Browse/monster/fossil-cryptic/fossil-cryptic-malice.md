@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.fossil-cryptic/fossil-cryptic-malice
 type: featureblock
 ---
 
-# Floor Mosaic
+# Fossil Cryptic Malice
 
 ---
 

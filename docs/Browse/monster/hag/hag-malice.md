@@ -51,7 +51,7 @@ scc: mcdm.monsters.v1/monster.hag/hag-malice
 type: featureblock
 ---
 
-# Hag Wyrd
+# Hag Malice
 
 ---
 

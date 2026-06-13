@@ -37,7 +37,7 @@ scc: mcdm.monsters.v1/monster.gnolls/gnoll-malice
 type: featureblock
 ---
 
-# Iron Jaws
+# Gnoll Malice
 
 ---
 

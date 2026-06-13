@@ -18,7 +18,7 @@ scc: mcdm.monsters.v1/monster.ajax-the-invincible/tactical-stance
 type: featureblock
 ---
 
-# Insurgent
+# Tactical Stance
 
 ---
 

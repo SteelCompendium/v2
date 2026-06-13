@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.goblins/goblin-malice
 type: featureblock
 ---
 
-# Goblin Mode
+# Goblin Malice
 
 ---
 

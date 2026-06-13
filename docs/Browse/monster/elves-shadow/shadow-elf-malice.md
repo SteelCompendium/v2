@@ -21,7 +21,7 @@ scc: mcdm.monsters.v1/monster.elves-shadow/shadow-elf-malice
 type: featureblock
 ---
 
-# Watch Me Disappear
+# Shadow Elf Malice
 
 ---
 

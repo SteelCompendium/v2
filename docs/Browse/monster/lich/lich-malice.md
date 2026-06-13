@@ -33,7 +33,7 @@ scc: mcdm.monsters.v1/monster.lich/lich-malice
 type: featureblock
 ---
 
-# Soul Sip
+# Lich Malice
 
 ---
 

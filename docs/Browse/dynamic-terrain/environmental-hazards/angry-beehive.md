@@ -33,7 +33,7 @@ terrain_type: Hazard
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Angry Beehive
 
 ---
 

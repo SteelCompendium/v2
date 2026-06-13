@@ -46,7 +46,7 @@ scc: mcdm.monsters.v1/monster.radenwights/radenwight-malice
 type: featureblock
 ---
 
-# Trouser Cut
+# Radenwight Malice
 
 ---
 

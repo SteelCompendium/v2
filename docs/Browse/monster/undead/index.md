@@ -101,10 +101,10 @@ Every mage who lives long enough eventually contends with the fact that their kn
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="1st-echelon/undead-malice-level-1-malice-features/" aria-label="Ravenous Horde"></a>
+  <a class="sc-card__link" href="1st-echelon/undead-malice-level-1-malice-features/" aria-label="Undead Malice (Level 1+ Malice Features)"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
-    <div><div class="sc-card__type">Feature</div>
-    <div class="sc-card__name">Ravenous Horde</div></div></div>
+    <div><div class="sc-card__type">Malice</div>
+    <div class="sc-card__name">Undead Malice (Level 1+ Malice Features)</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -256,10 +256,10 @@ Every mage who lives long enough eventually contends with the fact that their kn
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="2nd-echelon/undead-malice-level-4-malice-features/" aria-label="Prior Malice Features"></a>
+  <a class="sc-card__link" href="2nd-echelon/undead-malice-level-4-malice-features/" aria-label="Undead Malice (Level 4+ Malice Features)"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Prior Malice Features</div></div></div>
+    <div class="sc-card__name">Undead Malice (Level 4+ Malice Features)</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -385,10 +385,10 @@ Every mage who lives long enough eventually contends with the fact that their kn
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="3rd-echelon/undead-malice-level-7-malice-features/" aria-label="Prior Malice Features"></a>
+  <a class="sc-card__link" href="3rd-echelon/undead-malice-level-7-malice-features/" aria-label="Undead Malice (Level 7+ Malice Features)"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Prior Malice Features</div></div></div>
+    <div class="sc-card__name">Undead Malice (Level 7+ Malice Features)</div></div></div>
 </div>
 </div>
 <div class="sc-cards">
@@ -514,10 +514,10 @@ Every mage who lives long enough eventually contends with the fact that their kn
 
 <div class="sc-cards">
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="4th-echelon/undead-malice-level-10-malice-features/" aria-label="Prior Malice Features"></a>
+  <a class="sc-card__link" href="4th-echelon/undead-malice-level-10-malice-features/" aria-label="Undead Malice (Level 10 Malice Features)"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12,2A9,9 0 0,0 3,11C3,14.03 4.53,16.82 7,18.47V22H9V19H11V22H13V19H15V22H17V18.46C19.47,16.81 21,14 21,11A9,9 0 0,0 12,2M8,11A2,2 0 0,1 10,13A2,2 0 0,1 8,15A2,2 0 0,1 6,13A2,2 0 0,1 8,11M16,11A2,2 0 0,1 18,13A2,2 0 0,1 16,15A2,2 0 0,1 14,13A2,2 0 0,1 16,11M12,14L13.5,17H10.5L12,14Z"/></svg></span></span>
     <div><div class="sc-card__type">Malice</div>
-    <div class="sc-card__name">Prior Malice Features</div></div></div>
+    <div class="sc-card__name">Undead Malice (Level 10 Malice Features)</div></div></div>
 </div>
 </div>
 <div class="sc-cards">

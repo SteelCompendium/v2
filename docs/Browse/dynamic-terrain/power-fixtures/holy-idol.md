@@ -24,7 +24,7 @@ terrain_type: Relic
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Holy Idol
 
 ---
 

@@ -59,7 +59,7 @@ terrain_type: Siege Engine
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Exploding Mill Wheel
 
 ---
 

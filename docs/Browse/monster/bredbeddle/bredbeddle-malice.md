@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.bredbeddle/bredbeddle-malice
 type: featureblock
 ---
 
-# Engreen
+# Bredbeddle Malice
 
 ---
 

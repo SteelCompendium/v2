@@ -21,7 +21,7 @@ scc: mcdm.monsters.v1/monster.devils/devil-malice
 type: featureblock
 ---
 
-# Bureaucratic Tape
+# Devil Malice
 
 ---
 

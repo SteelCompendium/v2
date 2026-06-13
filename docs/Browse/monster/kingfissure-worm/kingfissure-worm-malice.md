@@ -48,7 +48,7 @@ scc: mcdm.monsters.v1/monster.kingfissure-worm/kingfissure-worm-malice
 type: featureblock
 ---
 
-# Aftershock
+# Kingfissure Worm Malice
 
 ---
 

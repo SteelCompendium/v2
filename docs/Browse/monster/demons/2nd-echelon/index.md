@@ -5,7 +5,7 @@
 <div class="browse-index" markdown>
 
 - [Bale Eye](bale-eye.md)
-- [Prior Malice Features](demon-malice-level-4-malice-features.md)
+- [Demon Malice (Level 4+ Malice Features)](demon-malice-level-4-malice-features.md)
 - [Fangling](fangling.md)
 - [Fiktin](fiktin.md)
 - [Grulqin](grulqin.md)

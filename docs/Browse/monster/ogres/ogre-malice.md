@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.ogres/ogre-malice
 type: featureblock
 ---
 
-# Shockwave
+# Ogre Malice
 
 ---
 

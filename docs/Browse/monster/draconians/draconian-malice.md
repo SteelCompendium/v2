@@ -49,7 +49,7 @@ scc: mcdm.monsters.v1/monster.draconians/draconian-malice
 type: featureblock
 ---
 
-# Guarding Gale
+# Draconian Malice
 
 ---
 

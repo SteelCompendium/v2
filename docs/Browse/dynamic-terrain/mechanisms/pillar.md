@@ -53,7 +53,7 @@ terrain_type: Hazard
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Pillar
 
 ---
 

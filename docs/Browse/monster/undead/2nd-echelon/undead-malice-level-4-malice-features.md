@@ -18,7 +18,7 @@ scc: mcdm.monsters.v1/monster.undead.2nd-echelon/undead-malice-level-4-malice-fe
 type: featureblock
 ---
 
-# Prior Malice Features
+# Undead Malice (Level 4+ Malice Features)
 
 ---
 

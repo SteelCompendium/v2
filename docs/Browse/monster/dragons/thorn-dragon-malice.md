@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.dragons/thorn-dragon-malice
 type: featureblock
 ---
 
-# Cage of Thorns
+# Thorn Dragon Malice
 
 ---
 

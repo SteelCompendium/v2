@@ -32,7 +32,7 @@ terrain_type: Relic
 type: dynamic-terrain
 ---
 
-# Deactivate
+# The Chronal Hypercube
 
 ---
 

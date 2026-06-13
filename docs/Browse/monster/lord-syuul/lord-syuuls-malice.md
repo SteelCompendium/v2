@@ -42,7 +42,7 @@ scc: mcdm.monsters.v1/monster.lord-syuul/lord-syuuls-malice
 type: featureblock
 ---
 
-# Guise
+# Lord Syuul's Malice
 
 ---
 

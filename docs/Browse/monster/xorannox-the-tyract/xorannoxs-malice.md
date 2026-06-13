@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.xorannox-the-tyract/xorannoxs-malice
 type: featureblock
 ---
 
-# Gas Belch
+# Xorannox's Malice
 
 ---
 

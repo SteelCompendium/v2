@@ -56,7 +56,7 @@ terrain_type: Trap
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Spike Trap
 
 ---
 

@@ -56,7 +56,7 @@ scc: mcdm.monsters.v1/monster.medusa/medusa-malice
 type: featureblock
 ---
 
-# Weakening Glare
+# Medusa Malice
 
 ---
 

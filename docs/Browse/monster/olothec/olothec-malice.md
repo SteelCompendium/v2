@@ -36,7 +36,7 @@ scc: mcdm.monsters.v1/monster.olothec/olothec-malice
 type: featureblock
 ---
 
-# Solo Action
+# Olothec Malice
 
 ---
 

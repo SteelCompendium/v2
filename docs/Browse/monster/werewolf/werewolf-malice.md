@@ -21,7 +21,7 @@ scc: mcdm.monsters.v1/monster.werewolf/werewolf-malice
 type: featureblock
 ---
 
-# Blood In Their Eyes
+# Werewolf Malice
 
 ---
 

@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.wyverns/wyvern-malice
 type: featureblock
 ---
 
-# Simmering Anger
+# Wyvern Malice
 
 ---
 

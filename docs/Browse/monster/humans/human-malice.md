@@ -36,7 +36,7 @@ scc: mcdm.monsters.v1/monster.humans/human-malice
 type: featureblock
 ---
 
-# Alchemical Device
+# Human Malice
 
 ---
 

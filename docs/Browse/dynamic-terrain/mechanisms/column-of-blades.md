@@ -81,7 +81,7 @@ terrain_type: Fortification
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Column of Blades
 
 ---
 

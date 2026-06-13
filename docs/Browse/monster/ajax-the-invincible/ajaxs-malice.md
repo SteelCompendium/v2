@@ -48,7 +48,7 @@ scc: mcdm.monsters.v1/monster.ajax-the-invincible/ajaxs-malice
 type: featureblock
 ---
 
-# Reason
+# Ajax's Malice
 
 ---
 

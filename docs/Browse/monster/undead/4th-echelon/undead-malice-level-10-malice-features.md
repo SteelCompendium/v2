@@ -28,7 +28,7 @@ scc: mcdm.monsters.v1/monster.undead.4th-echelon/undead-malice-level-10-malice-f
 type: featureblock
 ---
 
-# Prior Malice Features
+# Undead Malice (Level 10 Malice Features)
 
 ---
 

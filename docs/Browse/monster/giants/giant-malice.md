@@ -40,7 +40,7 @@ scc: mcdm.monsters.v1/monster.giants/giant-malice
 type: featureblock
 ---
 
-# Hurl Landscape
+# Giant Malice
 
 ---
 

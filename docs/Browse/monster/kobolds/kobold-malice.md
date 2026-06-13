@@ -21,7 +21,7 @@ scc: mcdm.monsters.v1/monster.kobolds/kobold-malice
 type: featureblock
 ---
 
-# Maniple Tactics
+# Kobold Malice
 
 ---
 

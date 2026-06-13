@@ -98,7 +98,7 @@ terrain_type: Siege Engine
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Arrow Launcher
 
 ---
 

@@ -38,7 +38,7 @@ scc: mcdm.monsters.v1/monster.dwarves/dwarf-malice
 type: featureblock
 ---
 
-# Breaching Charge
+# Dwarf Malice
 
 ---
 

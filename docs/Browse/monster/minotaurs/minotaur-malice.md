@@ -26,7 +26,7 @@ scc: mcdm.monsters.v1/monster.minotaurs/minotaur-malice
 type: featureblock
 ---
 
-# Bull Rush
+# Minotaur Malice
 
 ---
 

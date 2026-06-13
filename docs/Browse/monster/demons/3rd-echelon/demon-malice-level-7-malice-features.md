@@ -18,7 +18,7 @@ scc: mcdm.monsters.v1/monster.demons.3rd-echelon/demon-malice-level-7-malice-fea
 type: featureblock
 ---
 
-# Prior Malice Features
+# Demon Malice (Level 7+ Malice Features)
 
 ---
 

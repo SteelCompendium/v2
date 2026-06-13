@@ -36,7 +36,7 @@ terrain_type: Fortification
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Psionic Shard
 
 ---
 

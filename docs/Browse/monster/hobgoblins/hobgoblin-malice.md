@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.hobgoblins/hobgoblin-malice
 type: featureblock
 ---
 
-# Goblin Malice Features
+# Hobgoblin Malice
 
 ---
 

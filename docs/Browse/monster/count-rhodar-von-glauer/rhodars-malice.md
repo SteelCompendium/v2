@@ -25,7 +25,7 @@ scc: mcdm.monsters.v1/monster.count-rhodar-von-glauer/rhodars-malice
 type: featureblock
 ---
 
-# Slip
+# Rhodar's Malice
 
 ---
 

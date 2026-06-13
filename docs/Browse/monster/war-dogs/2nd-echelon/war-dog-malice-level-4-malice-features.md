@@ -31,7 +31,7 @@ scc: mcdm.monsters.v1/monster.war-dogs.2nd-echelon/war-dog-malice-level-4-malice
 type: featureblock
 ---
 
-# Prior Malice Features
+# War Dog Malice (Level 4+ Malice Features)
 
 ---
 

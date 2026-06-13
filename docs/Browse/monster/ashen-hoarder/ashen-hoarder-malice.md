@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.ashen-hoarder/ashen-hoarder-malice
 type: featureblock
 ---
 
-# Relentless Strikes
+# Ashen Hoarder Malice
 
 ---
 

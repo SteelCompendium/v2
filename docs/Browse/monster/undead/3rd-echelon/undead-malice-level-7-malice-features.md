@@ -18,7 +18,7 @@ scc: mcdm.monsters.v1/monster.undead.3rd-echelon/undead-malice-level-7-malice-fe
 type: featureblock
 ---
 
-# Prior Malice Features
+# Undead Malice (Level 7+ Malice Features)
 
 ---
 

@@ -44,7 +44,7 @@ terrain_type: Fortification
 type: dynamic-terrain
 ---
 
-# Deactivate
+# Watchtower
 
 ---
 

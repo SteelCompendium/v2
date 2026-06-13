@@ -21,7 +21,7 @@ scc: mcdm.monsters.v1/monster.valok/valok-malice
 type: featureblock
 ---
 
-# Repeater
+# Valok Malice
 
 ---
 

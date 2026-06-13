@@ -33,7 +33,7 @@ scc: mcdm.monsters.v1/monster.griffons/griffon-malice
 type: featureblock
 ---
 
-# Swoop
+# Griffon Malice
 
 ---
 

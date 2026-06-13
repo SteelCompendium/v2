@@ -30,7 +30,7 @@ scc: mcdm.monsters.v1/monster.dragons/crucible-dragon-malice
 type: featureblock
 ---
 
-# Swordfall
+# Crucible Dragon Malice
 
 ---
 
