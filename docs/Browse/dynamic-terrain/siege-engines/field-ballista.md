@@ -2,14 +2,14 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature adjacent to a field ballista can make an **Agility test**.
+    - body: As a maneuver, a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a field ballista can make an **Agility test**.
       icon: "\U0001F300"
       name: Deactivate
       power_roll:
         tiers:
             high: The field ballista is deactivated and can't be used.
             low: The creature accidentally activates the **Release Bolt** ability.
-            mid: The field ballista is deactivated but the creature is slowed (EoT).
+            mid: The field ballista is deactivated but the creature is [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
     - distance: Ranged 20
       icon: "\U0001F3F9"
       keywords:
@@ -71,9 +71,9 @@ features:
       power_roll:
         formula: + 2
         tiers:
-            high: 10 damage; M < 2 slowed (save ends)
+            high: 10 damage; M < 2 [slowed](scc:mcdm.heroes.v1/condition/slowed) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
             low: 4 damage
-            mid: 7 damage; M < 1 slowed (save ends)
+            mid: 7 damage; M < 1 [slowed](scc:mcdm.heroes.v1/condition/slowed) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
       sections:
         - label: Effect
           text: This ability can't be used again until the field ballista is reloaded.
@@ -94,9 +94,9 @@ features:
             mid: Pull
       sections:
         - label: Special
-          text: The target must be slowed by the field ballista.
+          text: The target must be [slowed](scc:mcdm.heroes.v1/condition/slowed) by the field ballista.
         - label: Effect
-          text: This forced movement triggers opportunity attacks.
+          text: This [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) triggers [opportunity attacks](scc:mcdm.heroes.v1/rule.combat/opportunity-attack).
       target: One creature
       usage: Main action (Adjacent creature)
 flavor: A massive crossbow fires thick metal bolts with devastating effect.
@@ -134,8 +134,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature adjacent to a field ballista can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to a field ballista can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Release Bolt</h3><div class="fb__feat-corner"></div></div>
@@ -171,7 +171,7 @@ type: dynamic-terrain
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Chain Bolt</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">- - Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; M &lt; 1 slowed (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; M &lt; 2 slowed (save ends)</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; M &lt; 1 <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; M &lt; 2 <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the field ballista is reloaded.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
@@ -179,8 +179,8 @@ type: dynamic-terrain
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">3 Pull 5</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be slowed by the field ballista.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This forced movement triggers opportunity attacks.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> by the field ballista.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This <a href="../scc:mcdm.heroes.v1/movement/forced-movement">forced movement</a> triggers <a href="../scc:mcdm.heroes.v1/rule.combat/opportunity-attack">opportunity attacks</a>.</p></div></div>
 </article>
 </div>
 </article>

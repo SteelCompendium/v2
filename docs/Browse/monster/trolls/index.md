@@ -10,7 +10,7 @@ type: monster
 
 ---
 
-Ravenous trolls rampage through the wild to quell their fathomless hunger, leaving only destruction in their wake. Tall and gangly, they have mottled green skin covered by a mane of matted hair that runs down their neck and back. In many ways, they resemble massive humanoids, but their exaggerated features belie this comparison. A troll's lower jaw hangs unhinged and distended, and their long arms end in claws that drag along the ground as they walk.
+Ravenous [trolls](index.md) rampage through the wild to quell their fathomless hunger, leaving only destruction in their wake. Tall and gangly, they have mottled green skin covered by a mane of matted hair that runs down their neck and back. In many ways, they resemble massive [humanoids](../../rule/keyword/humanoid.md), but their exaggerated features belie this comparison. A troll's lower jaw hangs unhinged and distended, and their long arms end in claws that drag along the ground as they walk.
 
 ### Hypermetabolism
 
@@ -22,7 +22,7 @@ Fortunately for the ecosystems they inhabit, trolls can't be active all the time
 
 ### Strange Mutations
 
-Trolls prefer to prey upon humanoids and animals, but stories tell of them feeding on fetid demons and undead, assimilating those creatures' flesh to magnificent and horrifying effect. A troll with loose hanging skin, curling nails, or exposed bone might be in better health than their appearance would suggest.
+Trolls prefer to prey upon [humanoids](../../rule/keyword/humanoid.md) and animals, but stories tell of them feeding on fetid [demons](../demons/index.md) and [undead](../../rule/keyword/undead.md), assimilating those creatures' flesh to magnificent and horrifying effect. A troll with loose hanging skin, curling nails, or exposed bone might be in better health than their appearance would suggest.
 
 ### Limbjumbles
 
@@ -30,7 +30,7 @@ When a suitably large piece of a troll is torn off in battle, it does its very b
 
 > **Mutating Your Trolls**
 >
-> At the Director's discretion, a troll can mutate after consuming the flesh of any creature and gain some of their damage immunities, traits, abilities, and movement options. For instance, a troll who devours the carcass of a dead draconian might grow wings and gain their signature ability!
+> At the Director's discretion, a troll can mutate after consuming the flesh of any creature and gain some of their damage immunities, traits, abilities, and movement options. For instance, a troll who devours the carcass of a dead [draconian](../draconians/index.md) might grow wings and gain their [signature ability](../../rule/combat/signature-ability.md)!
 >
 > Be aware that this can increase the difficulty category of an encounter while one or more of these mutated trolls are present—especially if their mutations enable them to deal more damage than normal or grant them an acid or fire damage immunity.
 

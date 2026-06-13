@@ -6,14 +6,14 @@ features:
       cost: 3 Malice
       icon: ⭐️
       name: Leapfrog
-    - body: Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **Intuition test.**
+    - body: Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **[Intuition](scc:mcdm.heroes.v1/rule.character/intuition) test.**
       cost: 5 Malice
       icon: ❇️
       name: Resonating Croak
       power_roll:
         tiers:
             high: No effect.
-            low: 5 sonic damage; slowed (EoT)
+            low: 5 sonic damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) ([EoT](scc:mcdm.heroes.v1/rule.combat/end-of-turn))
             mid: 4 sonic damage
     - body: An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter.
       cost: 7 Malice
@@ -44,8 +44,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Resonating Croak</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 sonic damage; slowed (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an <b>Intuition test.</b></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 sonic damage; <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (<a href="../scc:mcdm.heroes.v1/rule.combat/end-of-turn">EoT</a>)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an <b><a href="../scc:mcdm.heroes.v1/rule.character/intuition">Intuition</a> test.</b></div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Rainfall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

@@ -2,21 +2,21 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature adjacent to a pulley can make an **Agility test**.
+    - body: As a maneuver, a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a pulley can make an **Agility test**.
       icon: "\U0001F300"
       name: Deactivate
       power_roll:
         tiers:
             high: The pulley is deactivated and doesn't trigger.
             low: The creature triggers the pulley.
-            mid: The pulley is deactivated but the creature is slowed (EoT).
-    - body: A creature adjacent to the pulley uses a maneuver to release the pulley.
+            mid: The pulley is deactivated but the creature is [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
+    - body: A creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the pulley uses a maneuver to release the pulley.
       icon: ❕
       name: Activate
       sections:
         - label: Effect
           text: The triggering creature is lifted to the top of the structure the pulley is attached to. The pulley must be manually reset.
-    - body: A creature adjacent to the pulley can climb its ropes with an **easy Agility test** to ascend to the top of the structure it's attached to.
+    - body: A creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the pulley can climb its ropes with an **easy Agility test** to ascend to the top of the structure it's attached to.
       icon: ⭐️
       name: Climbable
     - body: '**Looped Chain (+1 EV)** Instead of a rope and pulley, the system uses a counterweighted looped chain. A looped chain automatically resets and can be triggered repeatedly.'
@@ -57,17 +57,17 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the pulley.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The pulley is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The pulley is deactivated and doesn&#39;t trigger.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature adjacent to a pulley can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the pulley.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The pulley is deactivated but the creature is <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The pulley is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to a pulley can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature is lifted to the top of the structure the pulley is attached to. The pulley must be manually reset.</p></div></div>
-<div class="fb__feat-body">A creature adjacent to the pulley uses a maneuver to release the pulley.</div>
+<div class="fb__feat-body">A creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the pulley uses a maneuver to release the pulley.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Climbable</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">A creature adjacent to the pulley can climb its ropes with an <b>easy Agility test</b> to ascend to the top of the structure it&#39;s attached to.</div>
+<div class="fb__feat-body">A creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the pulley can climb its ropes with an <b>easy Agility test</b> to ascend to the top of the structure it&#39;s attached to.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>

@@ -2,15 +2,15 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature adjacent to a ram can make an **Agility test**.
+    - body: As a maneuver, a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a ram can make an **Agility test**.
       icon: "\U0001F300"
       name: Deactivate
       power_roll:
         tiers:
             high: The ram is deactivated and doesn't trigger.
             low: The creature triggers the ram and is affected as if in its space.
-            mid: The ram is deactivated but the creature is slowed (EoT).
-    - body: A pressure plate, switch, or other linked trigger is activated.
+            mid: The ram is deactivated but the creature is [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
+    - body: A [pressure plate](scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate), [switch](scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/switch), or other linked trigger is activated.
       icon: ❕
       name: Activate
       sections:
@@ -26,11 +26,11 @@ features:
         formula: + 2
         tiers:
             high: 9 damage; push 5
-            low: 3 damage; slide 1, ignoring stability
+            low: 3 damage; slide 1, ignoring [stability](scc:mcdm.heroes.v1/rule.character/stability)
             mid: 6 damage; push 3
       sections:
         - label: Trigger
-          text: A pressure plate, switch, or other linked trigger is activated.
+          text: A [pressure plate](scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate), [switch](scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/switch), or other linked trigger is activated.
         - label: Special
           text: The area of this ability is the path the ram moves through from its starting position.
         - label: Effect
@@ -38,9 +38,9 @@ features:
       target: Each creature and object in the area
       usage: Free triggered action
     - body: |-
-        **Stone (+1 EV)** The ram is made of stone, has 6 Stamina per square, and deals an extra 1d3 damage.
+        **Stone (+1 EV)** The ram is made of stone, has 6 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) per square, and deals an extra 1d3 damage.
 
-        **Metal (+2 EV)** The ram is made of metal, has 9 Stamina per square, and deals an extra 1d6 damage.
+        **Metal (+2 EV)** The ram is made of metal, has 9 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) per square, and deals an extra 1d6 damage.
 
         **Repeating (+1 EV)** The ram automatically resets at the start of each round.
 
@@ -93,28 +93,28 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the ram and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The ram is deactivated but the creature is slowed (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The ram is deactivated and doesn&#39;t trigger.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature adjacent to a ram can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the ram and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The ram is deactivated but the creature is <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The ram is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to a ram can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Ram</b> ability.</p></div></div>
-<div class="fb__feat-body">A pressure plate, switch, or other linked trigger is activated.</div>
+<div class="fb__feat-body">A <a href="../scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate">pressure plate</a>, <a href="../scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/switch">switch</a>, or other linked trigger is activated.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Ram</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring stability</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; push 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; push 5</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A pressure plate, switch, or other linked trigger is activated.</p></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring <a href="../scc:mcdm.heroes.v1/rule.character/stability">stability</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; push 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; push 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A <a href="../scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate">pressure plate</a>, <a href="../scc:mcdm.monsters.v1/dynamic-terrain.mechanisms/switch">switch</a>, or other linked trigger is activated.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The area of this ability is the path the ram moves through from its starting position.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A target slid by the ram ends up on one side of it or the other (choose randomly). The ram must be manually reset.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body"><b>Stone (+1 EV)</b> The ram is made of stone, has 6 Stamina per square, and deals an extra 1d3 damage.
+<div class="fb__feat-body"><b>Stone (+1 EV)</b> The ram is made of stone, has 6 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> per square, and deals an extra 1d3 damage.
 
-<b>Metal (+2 EV)</b> The ram is made of metal, has 9 Stamina per square, and deals an extra 1d6 damage.
+<b>Metal (+2 EV)</b> The ram is made of metal, has 9 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> per square, and deals an extra 1d6 damage.
 
 <b>Repeating (+1 EV)</b> The ram automatically resets at the start of each round.
 

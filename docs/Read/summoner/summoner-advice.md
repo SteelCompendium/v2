@@ -226,7 +226,7 @@ T1, T2, and T3 are the damage values at each tier of the minion's signature abil
 
 The following pixie bellringer has been converted from a [summoner](../../Browse/class/summoner.md) signature minion into a level 3 enemy minion.
 
-###### Pixie Bellringer {data-scc="mcdm.summoner.v1/monster.statblock/pixie-bellringer"}
+###### Pixie Bellringer (Converted) {data-scc="mcdm.summoner.v1/monster.statblock/pixie-bellringer-converted"}
 
 | — | Fey | Level 3 Minion Support | - | EV 5 for Four minions |
 |:-:|:---:|:----------------------:|:-:|:---------------------:|

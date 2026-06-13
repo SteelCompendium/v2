@@ -8,10 +8,10 @@ features:
       name: Shockwave
       power_roll:
         tiers:
-            high: Push 1
-            low: 5 damage; vertical push 3
-            mid: 4 damage; vertical push 2
-    - body: Each ogre in the encounter shifts up to their speed and can make a free strike. If they can, they gang up on the same target rather than picking different targets.
+            high: '[Push](scc:mcdm.heroes.v1/movement/forced-movement) 1'
+            low: 5 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
+            mid: 4 damage; vertical [push](scc:mcdm.heroes.v1/movement/forced-movement) 2
+    - body: Each ogre in the encounter [shifts](scc:mcdm.heroes.v1/movement/shifting) up to their speed and can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike). If they can, they gang up on the same target rather than picking different targets.
       cost: 5 Malice
       icon: "\U0001F300"
       name: Bully
@@ -40,12 +40,12 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Shockwave</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; vertical push 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; vertical push 2</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 1</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; vertical <a href="../scc:mcdm.heroes.v1/movement/forced-movement">push</a> 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; vertical <a href="../scc:mcdm.heroes.v1/movement/forced-movement">push</a> 2</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../scc:mcdm.heroes.v1/movement/forced-movement">Push</a> 1</span></div></div></div>
 <div class="fb__feat-body">One ogre acting this turn jumps and lands on their rear, causing a 3 burst shockwave. Each size 1 creature in the area makes a <b>Might test</b> or <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Bully</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Each ogre in the encounter shifts up to their speed and can make a free strike. If they can, they gang up on the same target rather than picking different targets.</div>
+<div class="fb__feat-body">Each ogre in the encounter <a href="../scc:mcdm.heroes.v1/movement/shifting">shifts</a> up to their speed and can make a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a>. If they can, they gang up on the same target rather than picking different targets.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Rampage</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

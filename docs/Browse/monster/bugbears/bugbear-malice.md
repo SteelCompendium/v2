@@ -6,15 +6,15 @@ features:
       cost: 3-7 Malice
       icon: ⭐️
       name: Goblin Malice Features
-    - body: For every 3 Malice spent, one non-minion bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M < 1, they are slowed (save ends).
+    - body: For every 3 [Malice](scc:mcdm.monsters.v1/rule.monster/malice) spent, one non-[minion](scc:mcdm.monsters.v1/rule.organization/minion) bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M < 1, they are [slowed](scc:mcdm.heroes.v1/condition/slowed) (save ends).
       cost: 3+ Malice
       icon: "\U0001F464"
       name: Grab Iron Ball
-    - body: For every 5 Malice spent, one non-minion bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M < 1, they are bleeding (save ends). While a creature is bleeding this way, any ally of the bugbear within 2 squares of them can use a free maneuver to pull the bleeding creature up to 2 squares.
+    - body: For every 5 [Malice](scc:mcdm.monsters.v1/rule.monster/malice) spent, one non-[minion](scc:mcdm.monsters.v1/rule.organization/minion) bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M < 1, they are [bleeding](scc:mcdm.heroes.v1/condition/bleeding) (save ends). While a creature is [bleeding](scc:mcdm.heroes.v1/condition/bleeding) this way, any ally of the bugbear within 2 squares of them can use a free maneuver to [pull](scc:mcdm.heroes.v1/movement/forced-movement) the [bleeding](scc:mcdm.heroes.v1/condition/bleeding) creature up to 2 squares.
       cost: 5+ Malice
       icon: "\U0001F464"
       name: Grab Javelin
-    - body: A bugbear infuses the encounter map with bu'gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally's strike has I < 1, the target is also frightened (save ends) and must move their speed in a straight line away from the creature who made the strike.
+    - body: A bugbear infuses the encounter map with bu'gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally's strike has I < 1, the target is also [frightened](scc:mcdm.heroes.v1/condition/frightened) (save ends) and must move their speed in a straight line away from the creature who made the strike.
       cost: 10 Malice
       icon: "\U0001F300"
       name: Show Them the Great Fear
@@ -43,15 +43,15 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Grab Iron Ball</h3><div class="fb__feat-corner"><div class="sc-ability__cost">3+ Malice</div></div></div>
-<div class="fb__feat-body">For every 3 Malice spent, one non-minion bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M &lt; 1, they are slowed (save ends).</div>
+<div class="fb__feat-body">For every 3 <a href="../scc:mcdm.monsters.v1/rule.monster/malice">Malice</a> spent, one non-<a href="../scc:mcdm.monsters.v1/rule.organization/minion">minion</a> bugbear acting this turn grabs an iron ball and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 8 - the number of squares the iron ball was thrown, and if they have M &lt; 1, they are <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (save ends).</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Grab Javelin</h3><div class="fb__feat-corner"><div class="sc-ability__cost">5+ Malice</div></div></div>
-<div class="fb__feat-body">For every 5 Malice spent, one non-minion bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M &lt; 1, they are bleeding (save ends). While a creature is bleeding this way, any ally of the bugbear within 2 squares of them can use a free maneuver to pull the bleeding creature up to 2 squares.</div>
+<div class="fb__feat-body">For every 5 <a href="../scc:mcdm.monsters.v1/rule.monster/malice">Malice</a> spent, one non-<a href="../scc:mcdm.monsters.v1/rule.organization/minion">minion</a> bugbear acting this turn grabs a javelin and can use a maneuver to throw it at a creature within 5 squares of them. The creature takes damage equal to 12 - the number of squares the javelin was thrown, and if they have M &lt; 1, they are <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> (save ends). While a creature is <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> this way, any ally of the bugbear within 2 squares of them can use a free maneuver to <a href="../scc:mcdm.heroes.v1/movement/forced-movement">pull</a> the <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> creature up to 2 squares.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Show Them the Great Fear</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
-<div class="fb__feat-body">A bugbear infuses the encounter map with bu&#39;gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally&#39;s strike has I &lt; 1, the target is also frightened (save ends) and must move their speed in a straight line away from the creature who made the strike.</div>
+<div class="fb__feat-body">A bugbear infuses the encounter map with bu&#39;gathic magic. Until the end of the encounter, all bugbears and allies have their speed doubled and can automatically climb at full speed while moving. Additionally, if the target of any bugbear or ally&#39;s strike has I &lt; 1, the target is also <a href="../scc:mcdm.heroes.v1/condition/frightened">frightened</a> (save ends) and must move their speed in a straight line away from the creature who made the strike.</div>
 </article>
 </div>
 </article>

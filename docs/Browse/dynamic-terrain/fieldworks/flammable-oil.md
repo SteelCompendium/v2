@@ -2,20 +2,20 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature adjacent to a patch of flammable oil can make an **Agility test**.
+    - body: As a maneuver, a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a patch of flammable oil can make an **Agility test**.
       icon: "\U0001F300"
       name: Deactivate
       power_roll:
         tiers:
             high: The oil is rendered safe and can't be ignited.
             low: The creature ignites the oil and is affected as if in its area.
-            mid: The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning (save ends).
+            mid: The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends).
     - body: A creature or object in a square of oil takes fire damage, or a creature or object enters a square of burning oil or starts their turn there.
       icon: ❕
       name: Activate
       sections:
         - label: Effect
-          text: The triggering creature or object takes 3 fire damage and is burning (save ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
+          text: The triggering creature or object takes 3 fire damage and is burning ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
     - body: '**Concealed Oil (+1 EV)** The oil is hidden until it ignites.'
       icon: ⭐️
       name: Upgrade
@@ -57,12 +57,12 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature ignites the oil and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning (save ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The oil is rendered safe and can&#39;t be ignited.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature adjacent to a patch of flammable oil can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature ignites the oil and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The oil is rendered safe and can&#39;t be ignited.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to a patch of flammable oil can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature or object takes 3 fire damage and is burning (save ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature or object takes 3 fire damage and is burning (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</p></div></div>
 <div class="fb__feat-body">A creature or object in a square of oil takes fire damage, or a creature or object enters a square of burning oil or starts their turn there.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">

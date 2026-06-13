@@ -5,10 +5,10 @@ features:
     - body: The tree of might must be completely destroyed.
       icon: "\U0001F300"
       name: Deactivate
-    - body: At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M < 0 takes 10 corruption damage, and the tree of might grows a fruit. The potency increases by 1 each subsequent round.
+    - body: At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M < 0 takes 10 corruption damage, and the tree of might grows a fruit. The [potency](scc:mcdm.heroes.v1/rule.character/potency) increases by 1 each subsequent round.
       icon: ⭐️
       name: Tree's Nourishment
-    - body: Once per round, any creature adjacent to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 temporary Stamina and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.
+    - body: Once per round, any creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 [temporary Stamina](scc:mcdm.heroes.v1/rule.health/temporary-stamina) and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.
       icon: ⭐️
       name: Mighty Fruit
 flavor: A gnarled tree has unearthed roots that writhe and curl.
@@ -53,11 +53,11 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Tree&#39;s Nourishment</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M &lt; 0 takes 10 corruption damage, and the tree of might grows a fruit. The potency increases by 1 each subsequent round.</div>
+<div class="fb__feat-body">At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M &lt; 0 takes 10 corruption damage, and the tree of might grows a fruit. The <a href="../scc:mcdm.heroes.v1/rule.character/potency">potency</a> increases by 1 each subsequent round.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Mighty Fruit</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Once per round, any creature adjacent to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 temporary Stamina and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.</div>
+<div class="fb__feat-body">Once per round, any creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 <a href="../scc:mcdm.heroes.v1/rule.health/temporary-stamina">temporary Stamina</a> and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.</div>
 </article>
 </div>
 </article>

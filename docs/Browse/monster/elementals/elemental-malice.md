@@ -2,11 +2,11 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: Two elementals on the encounter map teleport to swap places, and each has damage immunity 2 until the end of the round.
+    - body: Two elementals on the encounter map [teleport](scc:mcdm.heroes.v1/movement/teleport) to swap places, and each has damage immunity 2 until the end of the round.
       cost: 3 Malice
       icon: ⭐️
       name: Elemental Swap
-    - body: An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original's current Stamina and is one size smaller. Both elementals can then shift up to their speed.
+    - body: An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original's current Stamina and is one size smaller. Both elementals can then [shift](scc:mcdm.heroes.v1/movement/shifting) up to their speed.
       cost: 5 Malice
       icon: "\U0001F464"
       name: Split
@@ -43,11 +43,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Elemental Swap</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">Two elementals on the encounter map teleport to swap places, and each has damage immunity 2 until the end of the round.</div>
+<div class="fb__feat-body">Two elementals on the encounter map <a href="../scc:mcdm.heroes.v1/movement/teleport">teleport</a> to swap places, and each has damage immunity 2 until the end of the round.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Split</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original&#39;s current Stamina and is one size smaller. Both elementals can then shift up to their speed.</div>
+<div class="fb__feat-body">An elemental acting this turn cleaves themself into two separate elementals. Each elemental has the same statistics as the original, except that each has half the original&#39;s current Stamina and is one size smaller. Both elementals can then <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> up to their speed.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Convocation of Chaos</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

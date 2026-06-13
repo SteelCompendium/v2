@@ -21,12 +21,12 @@ features:
             mid: 9 damage; R < 2 chosen condition (save ends)
       sections:
         - label: Effect
-          text: 'The high elf chooses a damage type and condition from one of the following combinations: cold damage and slowed, poison damage and weakened, or corruption damage and frightened.'
+          text: 'The high elf chooses a damage type and condition from one of the following combinations: cold damage and [slowed](scc:mcdm.heroes.v1/condition/slowed), poison damage and [weakened](scc:mcdm.heroes.v1/condition/weakened), or corruption damage and [frightened](scc:mcdm.heroes.v1/condition/frightened).'
         - label: Special
-          text: This ability can't be used by a minion.
+          text: This ability can't be used by a [minion](scc:mcdm.monsters.v1/rule.organization/minion).
       target: Each enemy in the area
       usage: Main action
-    - body: Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf adjacent to that enemy can make a free strike against them.
+    - body: Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to that enemy can make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against them.
       cost: 7 Malice
       icon: "\U0001F300"
       name: In Defiance of Time
@@ -58,12 +58,12 @@ type: featureblock
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; R &lt; 1 chosen condition (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; R &lt; 2 chosen condition (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; R &lt; 3 chosen condition (save ends)</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The high elf chooses a damage type and condition from one of the following combinations: cold damage and slowed, poison damage and weakened, or corruption damage and frightened.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used by a minion.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The high elf chooses a damage type and condition from one of the following combinations: cold damage and <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a>, poison damage and <a href="../scc:mcdm.heroes.v1/condition/weakened">weakened</a>, or corruption damage and <a href="../scc:mcdm.heroes.v1/condition/frightened">frightened</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used by a <a href="../scc:mcdm.monsters.v1/rule.organization/minion">minion</a>.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">In Defiance of Time</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
-<div class="fb__feat-body">Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf adjacent to that enemy can make a free strike against them.</div>
+<div class="fb__feat-body">Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to that enemy can make a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a> against them.</div>
 </article>
 </div>
 </article>

@@ -19,9 +19,9 @@ features:
       power_roll:
         formula: + 2
         tiers:
-            high: 9 fire damage; M < 3 the target is burning (save ends)
-            low: 3 fire damage; M < 1 the target is burning (save ends)
-            mid: 6 fire damage; M < 2 the target is burning (save ends)
+            high: 9 fire damage; M < 3 the target is burning ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            low: 3 fire damage; M < 1 the target is burning ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            mid: 6 fire damage; M < 2 the target is burning ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
       sections:
         - label: Trigger
           text: The pool takes fire damage.
@@ -43,7 +43,7 @@ stats:
     - name: Stamina
       value: 12 per square
     - name: Size
-      value: One or more squares of difficult terrain
+      value: One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)
     - name: Immunity
       value: 20 to all damage except cold or fire damage
 terrain_type: Hazard
@@ -64,7 +64,7 @@ type: dynamic-terrain
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3 per 10 x 10 pool</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">12 per square</div></div>
-<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of difficult terrain</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../scc:mcdm.heroes.v1/movement/difficult-terrain">difficult terrain</a></div></div>
 <div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">20 to all damage except cold or fire damage</div></div>
 </div>
 <div class="fb__feats">
@@ -81,7 +81,7 @@ type: dynamic-terrain
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Explosive Reaction</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage; M &lt; 1 the target is burning (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 fire damage; M &lt; 2 the target is burning (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 fire damage; M &lt; 3 the target is burning (save ends)</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage; M &lt; 1 the target is burning (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 fire damage; M &lt; 2 the target is burning (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 fire damage; M &lt; 3 the target is burning (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The pool takes fire damage.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The liquid in the pool is consumed. This ability has a double edge against any target in the pool. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Any target with acid weakness takes extra damage from this ability and while burning as if the fire damage were acid damage.</p></div></div>
 </article>

@@ -5,10 +5,10 @@ features:
     - body: Ajax automatically treats his initial power roll as a 17. He can still roll to determine if he scores a critical hit.
       icon: ⭐️
       name: Insurgent
-    - body: Before he uses an ability, Ajax can either shift up to 2 squares, or can cause one creature within line of effect to slide up to 2 squares, ignoring stability.
+    - body: Before he uses an ability, Ajax can either [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares, or can cause one creature within line of effect to [slide](scc:mcdm.heroes.v1/movement/forced-movement) up to 2 squares, ignoring stability.
       icon: ⭐️
       name: Mastermind
-    - body: Ajax has damage immunity 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double bane on the roll.
+    - body: Ajax has [damage immunity](scc:mcdm.heroes.v1/rule.damage/damage-immunity) 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double [bane](scc:mcdm.heroes.v1/rule.dice/bane) on the roll.
       icon: ⭐️
       name: Vanguard
 flavor: 'At the start of each round, Ajax chooses a new stance from one of the following options and gains its benefits:'
@@ -36,11 +36,11 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Mastermind</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Before he uses an ability, Ajax can either shift up to 2 squares, or can cause one creature within line of effect to slide up to 2 squares, ignoring stability.</div>
+<div class="fb__feat-body">Before he uses an ability, Ajax can either <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> up to 2 squares, or can cause one creature within line of effect to <a href="../scc:mcdm.heroes.v1/movement/forced-movement">slide</a> up to 2 squares, ignoring stability.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Vanguard</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Ajax has damage immunity 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double bane on the roll.</div>
+<div class="fb__feat-body">Ajax has <a href="../scc:mcdm.heroes.v1/rule.damage/damage-immunity">damage immunity</a> 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double <a href="../scc:mcdm.heroes.v1/rule.dice/bane">bane</a> on the roll.</div>
 </article>
 </div>
 </article>

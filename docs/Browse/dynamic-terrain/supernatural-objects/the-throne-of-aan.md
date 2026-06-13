@@ -17,11 +17,11 @@ features:
       icon: ⭐️
       name: Light of the Northern Sun
     - body: |-
-        Only a creature attuned to the throne can sit on it. A creature adjacent to the throne can use a main action to attune to it by succeeding on a **Presence test**.
+        Only a creature attuned to the throne can sit on it. A creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the throne can use a main action to attune to it by succeeding on a **Presence test**.
 
         A creature seated on the throne becomes the hierophant of A'An and gains the following benefits:
 
-        - The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to stability, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the **Primordial Flare** and **Solar Accretion** abilities.
+        - The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to [stability](scc:mcdm.heroes.v1/rule.character/stability), and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the **Primordial Flare** and **Solar Accretion** abilities.
       icon: ⭐️
       name: Sitting on the Throne
       power_roll:
@@ -55,9 +55,9 @@ features:
       name: Solar Accretion
       sections:
         - label: Trigger
-          text: A target within distance is made winded or is reduced to 0 Stamina by fire damage.
+          text: A target within distance is made [winded](scc:mcdm.heroes.v1/rule.health/winded) or is reduced to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) by fire damage.
         - label: Effect
-          text: If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 Malice.
+          text: If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 [Malice](scc:mcdm.monsters.v1/rule.monster/malice).
       target: One creature
       usage: Free triggered action
     - distance: 10 burst
@@ -120,11 +120,11 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Sitting on the Throne</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 11 fire damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to attune to the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature attunes to the throne and can sit on it.</span></div></div></div>
-<div class="fb__feat-body">Only a creature attuned to the throne can sit on it. A creature adjacent to the throne can use a main action to attune to it by succeeding on a <b>Presence test</b>.
+<div class="fb__feat-body">Only a creature attuned to the throne can sit on it. A creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the throne can use a main action to attune to it by succeeding on a <b>Presence test</b>.
 
 A creature seated on the throne becomes the hierophant of A&#39;An and gains the following benefits:
 
-- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to stability, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the <b>Primordial Flare</b> and <b>Solar Accretion</b> abilities.</div>
+- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to <a href="../scc:mcdm.heroes.v1/rule.character/stability">stability</a>, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the <b>Primordial Flare</b> and <b>Solar Accretion</b> abilities.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Primordial Flare</h3><div class="fb__feat-corner"></div></div>
@@ -137,8 +137,8 @@ A creature seated on the throne becomes the hierophant of A&#39;An and gains the
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Solar Accretion</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A target within distance is made winded or is reduced to 0 Stamina by fire damage.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 Malice.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A target within distance is made <a href="../scc:mcdm.heroes.v1/rule.health/winded">winded</a> or is reduced to 0 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> by fire damage.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 <a href="../scc:mcdm.monsters.v1/rule.monster/malice">Malice</a>.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Nova</h3><div class="fb__feat-corner"></div></div>

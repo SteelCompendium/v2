@@ -13,22 +13,22 @@ features:
       name: Gravity Well
       sections:
         - label: Effect
-          text: A time raider acting this turn activates a gravity well in the area. The gravity well sits at the center of the cube and lasts until the end of the encounter, or until a creature adjacent to the well uses a maneuver to deactivate it. The area is difficult terrain for enemies. Any enemy who ends their turn in the area is pulled up to 4 squares toward the well.
+          text: A time raider acting this turn activates a gravity well in the area. The gravity well sits at the center of the cube and lasts until the end of the encounter, or until a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the well uses a maneuver to deactivate it. The area is [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain) for enemies. Any enemy who ends their turn in the area is [pulled](scc:mcdm.heroes.v1/movement/forced-movement) up to 4 squares toward the well.
       target: Special
       usage: Maneuver
-    - body: Until the end of the round, each time raider gains a +3 bonus to speed, and can teleport up to their speed as a move action.
+    - body: Until the end of the round, each time raider gains a +3 bonus to speed, and can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to their speed as a move action.
       cost: 5 Malice
       icon: ⭐️
       name: Recall Module
-    - body: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest Stamina maximum drops to 0 Stamina or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
+    - body: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) maximum drops to 0 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
       cost: 10 Malice
       icon: "\U0001F300"
       name: Psi-Cage
       power_roll:
         tiers:
             high: No effect.
-            low: 10 psychic damage; slowed (EoT)
-            mid: 7 psychic damage; slowed (EoT)
+            low: 10 psychic damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
+            mid: 7 psychic damage; [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT)
 flavor: At the start of any time raider's turn, you can spend Malice to activate one of the following features.
 kind: malice
 name: Time Raider Malice
@@ -52,16 +52,16 @@ type: featureblock
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Gravity Well</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 3</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A time raider acting this turn activates a gravity well in the area. The gravity well sits at the center of the cube and lasts until the end of the encounter, or until a creature adjacent to the well uses a maneuver to deactivate it. The area is difficult terrain for enemies. Any enemy who ends their turn in the area is pulled up to 4 squares toward the well.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A time raider acting this turn activates a gravity well in the area. The gravity well sits at the center of the cube and lasts until the end of the encounter, or until a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the well uses a maneuver to deactivate it. The area is <a href="../scc:mcdm.heroes.v1/movement/difficult-terrain">difficult terrain</a> for enemies. Any enemy who ends their turn in the area is <a href="../scc:mcdm.heroes.v1/movement/forced-movement">pulled</a> up to 4 squares toward the well.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Recall Module</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Until the end of the round, each time raider gains a +3 bonus to speed, and can teleport up to their speed as a move action.</div>
+<div class="fb__feat-body">Until the end of the round, each time raider gains a +3 bonus to speed, and can <a href="../scc:mcdm.heroes.v1/movement/teleport">teleport</a> up to their speed as a move action.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Psi-Cage</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; slowed (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 psychic damage; slowed (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest Stamina maximum drops to 0 Stamina or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a <b>Reason test</b> against this psionic effect at the start of each round.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 psychic damage; <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="fb__feat-body">All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> maximum drops to 0 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a <b>Reason test</b> against this psionic effect at the start of each round.</div>
 </article>
 </div>
 </article>

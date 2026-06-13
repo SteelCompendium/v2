@@ -10,7 +10,7 @@ type: monster
 
 ---
 
-Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog minions are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
+Ajax's war dogs—brutal patchwork soldiers—owe their new lives to the Iron Saint and fight for him fanatically. War dog [minions](../../rule/organization/minion.md) are the freshest recruits, possessing minimal patchwork qualities and generally treated as disposable. Those who survive a battle are rewarded with gifts from the Body Banks. Those who don't survive become recycled back into the Body Banks to be reborn.
 
 ##### War Dog Stat Block List
 
@@ -72,13 +72,13 @@ Body Bank technology stolen from the upper worlds allows for the storage, manipu
 
 ### Soulless Soldiers
 
-War dogs aren't undead. They still have minds, wills, and drives that separate them from zombies and mournlings. But one thing they share in common with the undead is the lack of a soul. Any remnants of a soul that didn't escape the shattered remains of their constituent parts are irrevocably damaged beyond repair in the process of making a war dog. War dogs are thus metaphysically unstable, incapable of higher spiritual functions such as empathy or love, and their personalities and beliefs are highly malleable. This makes them the ideal disposable soldier for a discerning tyrant.
+War dogs aren't [undead](../../rule/keyword/undead.md). They still have minds, wills, and drives that separate them from zombies and mournlings. But one thing they share in common with the [undead](../../rule/keyword/undead.md) is the lack of a soul. Any remnants of a soul that didn't escape the shattered remains of their constituent parts are irrevocably damaged beyond repair in the process of making a war dog. War dogs are thus metaphysically unstable, incapable of higher spiritual functions such as empathy or love, and their personalities and beliefs are highly malleable. This makes them the ideal disposable soldier for a discerning tyrant.
 
 > **War Dog Tactics**
 >
-> War dogs have a heavy focus on minion frontlines backed by captains with powerful control or support abilities. Those captains' tactics reflect the replaceability of their low-ranking troops, who they throw into the fray without caution. Once a squad of minions is reduced to a few stragglers, a captain will order them into position for maximum effect and manually detonate their loyalty collars.
+> War dogs have a heavy focus on [minion](../../rule/organization/minion.md) frontlines backed by captains with powerful control or support abilities. Those captains' tactics reflect the replaceability of their low-ranking troops, who they throw into the fray without caution. Once a squad of [minions](../../rule/organization/minion.md) is reduced to a few stragglers, a captain will order them into position for maximum effect and manually detonate their loyalty collars.
 >
-> War dog captains are intelligent, well trained, and focused on prioritizing threats to their mission. Defensive and support units focus on tying up and slowing down high-Stamina threats while offensive units try their best to bully low-Stamina backline heroes. Unless ordered, retreat is not an option for war dogs.
+> War dog captains are intelligent, well trained, and focused on prioritizing threats to their mission. Defensive and support units focus on tying up and slowing down high-[Stamina](../../rule/health/stamina.md) threats while offensive units try their best to bully low-[Stamina](../../rule/health/stamina.md) backline heroes. Unless ordered, retreat is not an option for war dogs.
 >
 > **War Dog Sample Encounters**
 >

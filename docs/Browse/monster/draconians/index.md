@@ -10,7 +10,7 @@ type: monster
 
 ---
 
-Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most draconians have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
+Draconians—wyrmwights as some call them, also known as dragon knights in Orden—are a people created through an obscure ritual known as Dracogenesis. Most [draconians](index.md) have an elemental affinity connected to their draconic scales, which they can change given enough time and training.
 
 Six individual draconians are presented in this section—not an adventuring party, but six warriors whose reputations precede them. All are likely to be found serving in various military forces as high-ranking commanders.
 

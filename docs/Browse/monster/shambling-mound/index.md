@@ -12,7 +12,7 @@ type: monster
 
 Rich soil squelches under every footstep. Curtains of menacing vines block the way, and muffled groans echo distantly under the darkening canopy. But by the time a hapless explorer realizes the ground is moving, it's too late—the shambling mound has devoured them.
 
-Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the shambling mound is a wandering mass of vegetation that feeds on everything in their path.
+Found in overgrown swamps, stinking marshes, dense wodes, and dark, damp rainforests, the [shambling mound](index.md) is a wandering mass of vegetation that feeds on everything in their path.
 
 ### Noxious Origins
 

@@ -6,11 +6,11 @@ features:
       cost: 3 Malice
       icon: "\U0001F464"
       name: Repeater
-    - body: At the end of each turn until the end of the round, one valok can either shift up to 2 squares or make a free strike.
+    - body: At the end of each turn until the end of the round, one valok can either [shift](scc:mcdm.heroes.v1/movement/shifting) up to 2 squares or make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
       cost: 5 Malice
       icon: "\U0001F300"
       name: I Was Not Commanded to Wait
-    - body: Each valok in the encounter can end one effect on them that can be ended by a saving throw, and can move up to their speed (making use of the bonus below). Additionally, until the end of the encounter, all valok deal an extra 5 damage on strikes and gain a +5 bonus to speed. This feature can be activated multiples times, stacking the effects.
+    - body: Each valok in the encounter can end one effect on them that can be ended by a [saving throw](scc:mcdm.heroes.v1/rule.general/saving-throw), and can move up to their speed (making use of the bonus below). Additionally, until the end of the encounter, all valok deal an extra 5 damage on strikes and gain a +5 bonus to speed. This feature can be activated multiples times, stacking the effects.
       cost: 7 Malice
       icon: ⭐️
       name: Rapid Logic Overdrive
@@ -39,11 +39,11 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">I Was Not Commanded to Wait</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">At the end of each turn until the end of the round, one valok can either shift up to 2 squares or make a free strike.</div>
+<div class="fb__feat-body">At the end of each turn until the end of the round, one valok can either <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> up to 2 squares or make a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Rapid Logic Overdrive</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
-<div class="fb__feat-body">Each valok in the encounter can end one effect on them that can be ended by a saving throw, and can move up to their speed (making use of the bonus below). Additionally, until the end of the encounter, all valok deal an extra 5 damage on strikes and gain a +5 bonus to speed. This feature can be activated multiples times, stacking the effects.</div>
+<div class="fb__feat-body">Each valok in the encounter can end one effect on them that can be ended by a <a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">saving throw</a>, and can move up to their speed (making use of the bonus below). Additionally, until the end of the encounter, all valok deal an extra 5 damage on strikes and gain a +5 bonus to speed. This feature can be activated multiples times, stacking the effects.</div>
 </article>
 </div>
 </article>

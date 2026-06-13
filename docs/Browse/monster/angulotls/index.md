@@ -22,7 +22,7 @@ Angulotl physiology is delicately balanced, and it doesn't take much to upset th
 
 #### Moisture Dependent
 
-Angulotls breathe through their skin, so they need to stay damp or they suffocate. They often avoid travel in dry areas, and they prefer not to stray far from sources of freshwater unless it's raining.
+Angulotls breathe through their skin, so they need to stay damp or they [suffocate](../../rule/health/suffocating.md). They often avoid travel in dry areas, and they prefer not to stray far from sources of freshwater unless it's raining.
 
 #### Clawfish
 
@@ -34,7 +34,7 @@ Most angulotls speak Filliaric.
 
 #### Wet
 
-Angulotls make use of a unique effect called "wet." While wet, an angulotl doesn't provoke opportunity attacks by moving. At the same time, any non-angulotl who is wet and ends their turn with none of their movement remaining slips and falls prone. Several angulotl abilities can impose this effect, but a creature in an encounter featuring angulotls can also become wet by entering water, as the Director determines.
+Angulotls make use of a unique effect called "wet." While wet, an angulotl doesn't provoke [opportunity attacks](../../rule/combat/opportunity-attack.md) by moving. At the same time, any non-angulotl who is wet and ends their turn with none of their movement remaining slips and falls [prone](../../condition/prone.md). Several angulotl abilities can impose this effect, but a creature in an encounter featuring angulotls can also become wet by entering water, as the Director determines.
 
 ###### On Angulotls
 

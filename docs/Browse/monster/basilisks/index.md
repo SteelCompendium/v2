@@ -30,8 +30,8 @@ Alchemists have discovered a gland in the basilisk's mouth that excretes an oil 
 >
 > After a basilisk dies, a character can make a Reason test to claim oil from the basilisk's mouth, which can be used to create a special salve. One dose of salve can be applied to a petrified creature as a main action, and 1 minute after the salve is applied, that creature is no longer petrified.
 >
-> - **≤11:** 1 The character must complete the Find a Cure downtime project in *Draw Steel: Heroes* to create one dose of salve.
-> - **12-16:** 2 The character creates one dose of salve and can create two more doses by completing the Find a Cure downtime project.
+> - **≤11:** 1 The character must complete the [Find a Cure](../../project/find-a-cure.md) downtime project in *Draw Steel: Heroes* to create one dose of salve.
+> - **12-16:** 2 The character creates one dose of salve and can create two more doses by completing the [Find a Cure](../../project/find-a-cure.md) downtime project.
 > - **17+:** 3 The character creates three doses of salve.
 
 ---

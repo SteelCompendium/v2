@@ -104,11 +104,11 @@ John shrugged with one shoulder. "If I'm wrong, we're all going to die anyway. N
 
 ### On Dragons
 
-Terrifying behemoths. Harbingers of destruction and woe. Dragons claim the world for themselves, throw the innocent into despair, and inspire heroes to draw steel.
+Terrifying behemoths. Harbingers of destruction and woe. [Dragons](index.md) claim the world for themselves, throw the innocent into despair, and inspire heroes to draw steel.
 
 #### Where the Elements Meet Anguish
 
-As elementals are pure expressions of the mundane world, their shapes can become hardened and bent by intense energies permeating that world. Over time, an elemental entangled in extreme concentrations of rancor or grief might crystallize into a terrifying creature known as a dragon.
+As [elementals](../../rule/keyword/elemental.md) are pure expressions of the mundane world, their shapes can become hardened and bent by intense energies permeating that world. Over time, an elemental entangled in extreme concentrations of rancor or grief might crystallize into a terrifying creature known as a dragon.
 
 Dragons are both a provocateur and a consequence of people's anguish. A thorn dragon will cover crops and forests in a fortress of bramble vines and threaten to starve the people living there, yet they were born out of decades of hunger and strife that came before them. Vanquishing a dragon might be necessary to save innocent lives, but unless the underlying problems are addressed, another dragon will take their place in time.
 
@@ -196,7 +196,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 
 > **Thorn Dragon's Domain**
 >
-> If the encounter map is a location the dragon has occupied for 1 week or more, all surfaces on the map are covered in overgrowth. Any creature other than the dragon who starts their turn on the encounter map has their speed reduced by 2 (to a minimum of 1). Any creature made restrained while on the ground is also made bleeding.
+> If the encounter map is a location the dragon has occupied for 1 week or more, all surfaces on the map are covered in overgrowth. Any creature other than the dragon who starts their turn on the encounter map has their speed reduced by 2 (to a minimum of 1). Any creature made [restrained](../../condition/restrained.md) while on the ground is also made [bleeding](../../condition/bleeding.md).
 
 ### Gloom Dragon
 
@@ -224,7 +224,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 
 > **Gloom Dragon's Domain**
 >
-> If the encounter map is a location the dragon has occupied for 1 week or more, illusory magic suffuses the location with shadowy malevolence. Each creature on the encounter map other than the dragon takes a −2 penalty to saving throws made to end the frightened condition. Additionally, whenever a frightened enemy on the encounter map takes damage, they take an extra 3 psychic damage.
+> If the encounter map is a location the dragon has occupied for 1 week or more, illusory magic suffuses the location with shadowy malevolence. Each creature on the encounter map other than the dragon takes a −2 penalty to saving throws made to end the [frightened](../../condition/frightened.md) condition. Additionally, whenever a [frightened](../../condition/frightened.md) enemy on the encounter map takes damage, they take an extra 3 psychic damage.
 
 ### Crucible Dragon
 
@@ -252,7 +252,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 
 > **Crucible Dragon's Domain**
 >
-> If the encounter map is a location the dragon has occupied for 1 week or more, melted metal and blades coat nearly every surface. Any creature other than the dragon who starts their turn in physical contact with a surface on the encounter map takes 5 damage. Such creatures take an additional 5 damage when they take damage from being force moved into a surface on the map. Whenever an enemy in the encounter uses an ability that deals lightning damage, they take 1d6 damage to themself and each enemy and object adjacent to them.
+> If the encounter map is a location the dragon has occupied for 1 week or more, melted metal and blades coat nearly every surface. Any creature other than the dragon who starts their turn in physical contact with a surface on the encounter map takes 5 damage. Such creatures take an additional 5 damage when they take damage from being [force moved](../../movement/forced-movement.md) into a surface on the map. Whenever an enemy in the encounter uses an ability that deals lightning damage, they take 1d6 damage to themself and each enemy and object [adjacent](../../rule/combat/adjacent.md) to them.
 
 ### Omen Dragon
 
@@ -280,7 +280,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 
 > **Omen Dragon's Domain**
 >
-> If the encounter map is a location the dragon has occupied for 1 week or more, any creature on the map who regains Stamina regains only half the expected amount. Additionally, when a creature on the map who has a soul dies, the dragon absorbs the soul, granting the Director 1 Malice. The creature can't be brought back to life until the dragon is destroyed.
+> If the encounter map is a location the dragon has occupied for 1 week or more, any creature on the map who regains [Stamina](../../rule/health/stamina.md) regains only half the expected amount. Additionally, when a creature on the map who has a soul dies, the dragon absorbs the soul, granting the Director 1 [Malice](../../rule/monster/malice.md). The creature can't be brought back to life until the dragon is destroyed.
 
 ### Meteor Dragon
 
@@ -310,7 +310,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 
 > **Meteor Dragon's Domain**
 >
-> If the encounter map is a location the dragon has occupied for 1 week or more, each creature other than the dragon has their stability reduced to 0 and automatically obtains a tier 1 outcome on Agility tests. Additionally, any creature who is suffocating during the encounter takes an extra 1d6 damage at the end of each round.
+> If the encounter map is a location the dragon has occupied for 1 week or more, each creature other than the dragon has their [stability](../../rule/character/stability.md) reduced to 0 and automatically obtains a tier 1 outcome on Agility tests. Additionally, any creature who is suffocating during the encounter takes an extra 1d6 damage at the end of each round.
 
 ---
 

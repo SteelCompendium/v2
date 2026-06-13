@@ -13,22 +13,22 @@ features:
       power_roll:
         formula: + 2
         tiers:
-            high: 13 damage; push 5, taunted (EoT)
-            low: 7 damage; push 3
-            mid: 10 damage; push 3, taunted (EoT)
+            high: 13 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 5, [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
+            low: 7 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3
+            mid: 10 damage; [push](scc:mcdm.heroes.v1/movement/forced-movement) 3, [taunted](scc:mcdm.heroes.v1/condition/taunted) (EoT)
       sections:
         - label: Effect
           text: If the target is wearing clothing covering the lower half of their body, they must use a maneuver once to pull that clothing up before they can move.
         - label: Special
-          text: This ability can't be used by a minion.
+          text: This ability can't be used by a [minion](scc:mcdm.monsters.v1/rule.organization/minion).
       target: One creature
       usage: Main action
-    - body: Each radenwight in the encounter shifts up to their speed. If a radenwight ends this shift adjacent to one or more radenwights, they can make a melee free strike against each enemy adjacent to them.
+    - body: Each radenwight in the encounter [shifts](scc:mcdm.heroes.v1/movement/shifting) up to their speed. If a radenwight ends this shift [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to one or more radenwights, they can make a melee [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against each enemy [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them.
       cost: 5 Malice
       icon: ⭐️
       name: Rat Race
     - body: |-
-        A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn't block line of effect for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 Stamina.
+        A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn't block [line of effect](scc:mcdm.heroes.v1/rule.combat/line-of-effect) for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
 
         If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.
       cost: 7 Malice
@@ -62,18 +62,18 @@ type: featureblock
 <div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><h3 class="fb__feat-name sc-ability__name">Trouser Cut</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; push 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; push 3, taunted (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; push 5, taunted (EoT)</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; <a href="../scc:mcdm.heroes.v1/movement/forced-movement">push</a> 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; <a href="../scc:mcdm.heroes.v1/movement/forced-movement">push</a> 3, <a href="../scc:mcdm.heroes.v1/condition/taunted">taunted</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; <a href="../scc:mcdm.heroes.v1/movement/forced-movement">push</a> 5, <a href="../scc:mcdm.heroes.v1/condition/taunted">taunted</a> (EoT)</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target is wearing clothing covering the lower half of their body, they must use a maneuver once to pull that clothing up before they can move.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used by a minion.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used by a <a href="../scc:mcdm.monsters.v1/rule.organization/minion">minion</a>.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Rat Race</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Each radenwight in the encounter shifts up to their speed. If a radenwight ends this shift adjacent to one or more radenwights, they can make a melee free strike against each enemy adjacent to them.</div>
+<div class="fb__feat-body">Each radenwight in the encounter <a href="../scc:mcdm.heroes.v1/movement/shifting">shifts</a> up to their speed. If a radenwight ends this shift <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to one or more radenwights, they can make a melee <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a> against each enemy <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to them.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Rally the Rodents</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; the target can&#39;t take a respite activity during their next respite</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block line of effect for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 Stamina.
+<div class="fb__feat-body">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block <a href="../scc:mcdm.heroes.v1/rule.combat/line-of-effect">line of effect</a> for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a>.
 
 If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.</div>
 </article>
