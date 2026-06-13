@@ -112,8 +112,8 @@
    main/maneuver/triggered/move/none/trait is already inherited from
    steel-ability-cards.css; add the featureblock-specific keys. */
 .fb__feat[data-action="passive"] { --act: var(--sc-act-none); }
-.fb__feat[data-action="villain"] { --act: #e0584b; }   /* red  */
-.fb__feat[data-action="special"] { --act: #48c9b0; }   /* teal — terrain activate / deactivate */
+.fb__feat[data-action="villain"] { --act: var(--sc-role-controller); }   /* red  */
+.fb__feat[data-action="special"] { --act: var(--sc-role-mount); }        /* teal — terrain activate / deactivate */
 
 /* ── KILL BLOCK — neutralize the steel-ability-cards.css plate chrome ──
    .fb__feat IS .sc-ability, so the kills select .fb__feat directly at the SAME
