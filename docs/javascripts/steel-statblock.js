@@ -1,300 +1,22 @@
 /* ============================================================
    Steel Compendium — steel-statblock.js
-   Renders a Draw Steel creature statblock into the High-Fantasy
-   Steel DOM styled by steel-statblock.css. Feature internals reuse
-   the site's .sc-ability grammar (crest / eyebrow / cost badge /
-   power-roll / sections / enhancement) so a statblock feature looks
-   identical to a standalone ability card. The statblock-specific
-   zones (header, defenses, 2×2 secondary stats, characteristics,
-   Malice + Villain bands, sticky) are sb__* and reflow between
-   layouts via the data-sb-* preference attributes on <html>.
-
-   Usage — drop a JSON "island" emitted by steel-etl in the page and
-   this script replaces it on load:
-       <script type="application/json" class="sc-statblock-data">
-         { …statblock json… }
-       </script>
-   Registered in mkdocs.yml extra_javascript AFTER steel-ability-cards.js.
-
-   window.SCStatblock.render(data)        -> DOM node
-   window.SCStatblock.mount(target, data) -> DOM node (replaces target)
-
-   Ported from the design handoff renderer (statblock-render.js). The
-   demo's hardcoded TERMS linkify is intentionally dropped: rules links
-   are preserved from the SOURCE (markdown [text](href) in the island,
-   converted here), never re-derived. The body[data-aug-links] gate
-   still controls link styling.
+   Statblock DOM is rendered at BUILD TIME by steel-etl
+   (internal/site/statblock_card.go) into the .sb-wrap markup styled
+   by steel-statblock.css. This script only attaches RUNTIME behavior
+   to those server-rendered cards:
+     - collapsible Villain Actions / Malice bands
+     - the sticky mini-header that reveals on scroll
+   It builds no DOM. navigation.instant-safe: subscribes to document$,
+   idempotent init, tears down window listeners on each page swap.
+   See the workspace-root spec
+   docs/superpowers/specs/2026-06-14-statblock-build-time-render-design.md.
    ============================================================ */
 (function (global) {
   "use strict";
 
-  /* action → crest glyph (DrawSteelGlyphs placeholders, same mapping as the
-     ability-card renderer) + eyebrow label */
-  var ACT = {
-    main:      { glyph: "l", label: "Main Action" },
-    maneuver:  { glyph: "f", label: "Maneuver" },
-    triggered: { glyph: ")", label: "Triggered Action" },
-    move:      { glyph: "o", label: "Move Action" },
-    passive:   { glyph: "*", label: "Trait" },
-    villain:   { glyph: "*", label: "Villain Action" },
-    malice:    { glyph: "*", label: "Malice" }
-  };
-  var TIER_GLYPH = { low: "!", mid: "@", high: "#" }; // ≤11 / 12–16 / 17+
-
   // Window scroll/resize handlers the sticky mini-header registers, tracked so
-  // they can be torn down on the next navigation (see init / teardown below).
+  // they can be torn down on the next navigation.
   var stickyHandlers = [];
-
-  function esc(s) {
-    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
-      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
-    });
-  }
-  // esc + preserve source markdown links [text](href) + **bold**.
-  // Links from the source become .sb-term anchors (styling gated by
-  // body[data-aug-links]); we never invent links the source didn't carry.
-  function rich(text) {
-    return esc(text)
-      .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, function (_m, label, href) {
-        return '<a class="sb-term" href="' + href + '">' + label + "</a>";
-      })
-      .replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
-  }
-  function el(html) {
-    var t = document.createElement("template");
-    t.innerHTML = html.trim();
-    return t.content.firstElementChild;
-  }
-
-  // cost badge — number gets the mono .num treatment
-  function costBadge(cost) {
-    if (!cost) return "";
-    var m = String(cost).match(/^\s*(\d+)\s+(.*)$/);
-    var inner = m ? '<span class="num">' + esc(m[1]) + "</span> " + rich(m[2]) : rich(cost);
-    return '<div class="sc-ability__cost">' + inner + "</div>";
-  }
-
-  /* a single spec field (keywords / usage / distance / target) — one DOM,
-     CSS reflows it between text · grid · ledger · (chips for crest kw) */
-  function specField(mod, label, valueHTML) {
-    return '<div class="sb__field sb__field--' + mod + '">' +
-      '<span class="sb__field-l">' + esc(label) + '</span>' +
-      '<span class="sb__field-v">' + valueHTML + "</span></div>";
-  }
-
-  /* one feature → flattened steel feature article. The head shows EITHER a
-     crest (data-sb-kwusage=crest) or an inline icon; the keyword+usage and
-     distance+target blocks each reflow independently via data-sb-* attrs. */
-  function renderFeature(f) {
-    var a = ACT[f.action] || ACT.passive;
-    var dia = '<span class="sc-ability__dia"></span>';
-    var p = ['<article class="sc-ability sb__feat" data-action="' + esc(f.action) +
-      '" data-kind="' + esc(f.kind) + '">'];
-
-    // head: crest OR inline icon · (eyebrow=usage) name · cost
-    p.push('<div class="sb__feat-head">');
-    p.push('<span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">' + a.glyph + "</span></span>");
-    p.push('<span class="sb__feat-icon"><span class="sb__feat-glyph">' + a.glyph + "</span></span>");
-    p.push('<div class="sb__feat-titles">');
-    // eyebrow = usage; a usage-less passive feature is a Trait (kind="passive"
-    // is set upstream only when the feature has no keyword/usage table).
-    var eyebrow = f.usage || (f.kind === "passive" ? "Trait" : "");
-    if (eyebrow) p.push('<div class="sb__feat-eyebrow">' + dia + rich(eyebrow) + "</div>");
-    p.push('<h3 class="sb__feat-name sc-ability__name">' + rich(f.name) + "</h3>");
-    p.push("</div>");
-    p.push('<div class="sb__feat-corner">' + costBadge(f.cost) + "</div>");
-    p.push("</div>");
-
-    // passive / malice → plain body paragraph, done
-    if (f.body) {
-      p.push('<p class="sb__feat-body">' + rich(f.body) + "</p>");
-      p.push("</article>");
-      return p.join("");
-    }
-
-    // keyword + usage block (independent style: crest|text|grid|ledger)
-    if ((f.keywords && f.keywords.length) || f.usage) {
-      p.push('<div class="sb__ku">');
-      if (f.keywords && f.keywords.length) {
-        p.push(specField("kw", "Keywords", f.keywords.map(function (k) {
-          return '<span class="sc-ability__chip">' + esc(k) + "</span>";
-        }).join("")));
-      }
-      if (f.usage) p.push(specField("usage", "Action", rich(f.usage)));
-      p.push("</div>");
-    }
-
-    // distance + target block (independent style: text|grid|ledger)
-    if (f.distance || f.target) {
-      p.push('<div class="sb__dt">');
-      p.push(specField("dist", "Distance", rich(f.distance || "—")));
-      p.push(specField("tgt", "Target", rich(f.target || "—")));
-      p.push("</div>");
-    }
-
-    // power roll
-    if (f.powerRoll) {
-      var pr = f.powerRoll;
-      p.push('<div class="sc-ability__pr">');
-      if (pr.formula) {
-        p.push('<div class="sc-ability__pr-head">' + dia +
-          '<span class="pre">Power Roll</span><span class="chars">' + esc(pr.formula) + "</span></div>");
-      }
-      p.push('<div class="sc-ability__pr-rows">');
-      ["low", "mid", "high"].forEach(function (t) {
-        if (pr.tiers && pr.tiers[t] != null) {
-          p.push('<div class="sc-ability__tier" data-tier="' + t + '">' +
-            '<span class="badge">' + TIER_GLYPH[t] + "</span>" +
-            '<span class="res">' + rich(pr.tiers[t]) + "</span></div>");
-        }
-      });
-      p.push("</div></div>");
-    }
-
-    // sections (Trigger / Effect)
-    (f.sections || []).forEach(function (s) {
-      p.push('<div class="sc-ability__section">' +
-        '<div class="sc-ability__section-head">' + dia + '<span class="tag">' + rich(s.label) + "</span></div>" +
-        '<div class="sc-ability__section-body"><p>' + rich(s.text) + "</p></div></div>");
-    });
-
-    // trailing note (plain paragraph after the roll)
-    if (f.trailing) p.push('<p class="sb__feat-trailing">' + rich(f.trailing) + "</p>");
-
-    // enhancements (dashed "spend X" rows)
-    (f.enhancements || []).forEach(function (e) {
-      p.push('<div class="sc-ability__enh"><span class="cost">' + rich(e.cost) + "</span>" +
-        '<span class="txt">' + rich(e.text) + "</span></div>");
-    });
-
-    p.push("</article>");
-    return p.join("");
-  }
-
-  /* collapsible band (Villain Actions / Malice) */
-  function band(kind, title, glyph, introHTML, featuresHTML) {
-    return '<section class="sb__band sb__band--' + kind + '" data-open="true">' +
-      '<button type="button" class="sb__band-head" aria-expanded="true">' +
-        '<span class="sc-crest sb__band-crest"><span class="sb__band-glyph">' + glyph + "</span></span>" +
-        '<span class="sb__band-title">' + esc(title) + "</span>" +
-        '<span class="sb__band-chev" aria-hidden="true">▾</span>' +
-      "</button>" +
-      '<div class="sb__band-body">' + (introHTML || "") + featuresHTML + "</div>" +
-    "</section>";
-  }
-
-  /* fixed 2×2 secondary stats: immunity | weakness ; movement | captain */
-  function metaCell(label, value) {
-    return '<div class="sb__field sb__field--meta"><span class="sb__field-l">' + esc(label) +
-      '</span><span class="sb__field-v">' + rich(value) + "</span></div>";
-  }
-  function renderMeta(m) {
-    return '<div class="sb__meta">' +
-      metaCell("Immunity", m.immunity) +
-      metaCell("Weakness", m.weakness) +
-      metaCell("Movement", m.movement) +
-      metaCell(m.captain.label, m.captain.value) +
-    "</div>";
-  }
-
-  function renderChars(list) {
-    return '<div class="sb__chars">' + list.map(function (c) {
-      return '<div class="sb__char">' +
-        '<span class="sb__char-box">' + esc(c.k) + "</span>" +
-        '<span class="sb__char-v">' + esc(c.v) + "</span>" +
-        '<span class="sb__char-l">' + esc(c.l) + "</span>" +
-      "</div>";
-    }).join("") + "</div>";
-  }
-
-  function renderSticky(d) {
-    var defs = d.defenses.map(function (x) {
-      return '<span class="m"><b>' + esc(x.v) + "</b>" + esc(x.l) + "</span>";
-    }).join("");
-    var chars = d.characteristics.map(function (c) {
-      return '<span class="c"><b>' + esc(c.v) + '</b><i>' + esc(c.k) + '</i></span>';
-    }).join("");
-    var meta = [
-      ["Movement", d.meta.movement],
-      [d.meta.captain.label, d.meta.captain.value],
-      ["Immunity", d.meta.immunity],
-      ["Weakness", d.meta.weakness]
-    ].map(function (kv) {
-      return '<span class="sm"><b>' + esc(kv[0]) + "</b>" + esc(kv[1]) + "</span>";
-    }).join("");
-    return '<div class="sb__sticky" aria-hidden="true">' +
-      '<div class="sb__sticky-row1">' +
-        '<span class="sb__sticky-id"><span class="sb__sticky-name">' + esc(d.name) + "</span>" +
-          '<span class="sb__sticky-role" data-role="' + esc(d.roleKey) + '">' + esc(d.role) + "</span></span>" +
-        '<span class="sb__sticky-stats"><span class="sb__sticky-defs">' + defs + "</span>" +
-          '<span class="sb__sticky-chars">' + chars + "</span></span>" +
-      "</div>" +
-      '<div class="sb__sticky-row2">' + meta + "</div>" +
-    "</div>";
-  }
-
-  function render(data) {
-    data = data || {};
-    var defs = (data.defenses || []).map(function (d) {
-      return '<div class="sb__stat"><span class="v">' + esc(d.v) + '</span><span class="l">' + esc(d.l) + '</span></div>';
-    }).join("");
-
-    var features = data.features || [];
-    var normal = features.filter(function (f) { return f.kind !== "villain"; });
-    var villains = features.filter(function (f) { return f.kind === "villain"; });
-
-    var featHTML = normal.map(renderFeature).join("");
-
-    var villainHTML = "";
-    if (villains.length) {
-      villainHTML = band("villain", "Villain Actions", ACT.villain.glyph, "",
-        villains.map(renderFeature).join(""));
-    }
-
-    var maliceHTML = "";
-    if (data.malice && data.malice.features && data.malice.features.length) {
-      var intro = '<p class="sb__band-intro">' + rich(data.malice.intro || "") +
-        (data.malice.sourceName ? ' <span class="sb__band-source">' + esc(data.malice.sourceName) + "</span>" : "") + "</p>";
-      maliceHTML = band("malice", data.malice.name || "Malice Features", ACT.malice.glyph, intro,
-        data.malice.features.map(renderFeature).join(""));
-    }
-
-    var html =
-      '<div class="sb-wrap" data-role="' + esc(data.roleKey) + '" data-creature="' + esc(data.id) + '">' +
-        renderSticky(data) +
-        '<article class="sb md-typeset" data-role="' + esc(data.roleKey) + '">' +
-          '<header class="sb__head">' +
-            '<div class="sb__head-row">' +
-              '<div class="sb__identity">' +
-                '<div class="sb__kw">' + esc(data.ancestry) + "</div>" +
-                '<h2 class="sb__name">' + esc(data.name) + "</h2>" +
-              "</div>" +
-              '<div class="sb__class">' +
-                '<div class="sb__level">Level ' + esc(data.level) + "</div>" +
-                '<div class="sb__role" data-role="' + esc(data.roleKey) + '">' + esc(data.role) + "</div>" +
-                '<div class="sb__ev">EV ' + esc(data.ev) + "</div>" +
-              "</div>" +
-            "</div>" +
-          "</header>" +
-          '<div class="sb__defenses">' + defs + "</div>" +
-          renderMeta(data.meta) +
-          renderChars(data.characteristics || []) +
-          '<div class="sb__features">' + featHTML + villainHTML + maliceHTML + "</div>" +
-        "</article>" +
-      "</div>";
-
-    var node = el(html);
-    wire(node);
-    return node;
-  }
-
-  function mount(target, data) {
-    var elt = typeof target === "string" ? document.querySelector(target) : target;
-    if (!elt) return null;
-    var node = render(data);
-    elt.replaceWith(node);
-    return node;
-  }
 
   function wire(wrap) {
     // collapsible bands
@@ -308,47 +30,49 @@
     });
     // sticky mini-header reveal (rAF-throttled scroll)
     var head = wrap.querySelector(".sb__head");
-    if (head) {
-      var ticking = false;
-      var lastTop = -1;
-      // Real bottom edge of Material's fixed chrome (header + sticky tabs).
-      // Measured, not hardcoded: the bar height varies with the configured
-      // fonts and the tabs row disappears below 76.25em — a constant either
-      // overlaps the tabs or floats with a gap. Falls back to the CSS default.
-      function chromeBottom() {
-        var bottom = 0;
-        var header = document.querySelector(".md-header");
-        if (header) bottom = header.getBoundingClientRect().bottom;
-        var tabs = document.querySelector(".md-tabs");
-        if (tabs) {
-          var tr = tabs.getBoundingClientRect();
-          if (tr.height > 0) bottom = Math.max(bottom, tr.bottom);
-        }
-        return bottom > 0 ? Math.round(bottom) : 96;
+    if (!head) return;
+    var ticking = false;
+    var lastTop = -1;
+    // Real bottom edge of Material's fixed chrome (header + sticky tabs).
+    // Measured, not hardcoded: the bar height varies with the configured fonts
+    // and the tabs row disappears below 76.25em — a constant either overlaps the
+    // tabs or floats with a gap. Falls back to the CSS default.
+    function chromeBottom() {
+      var bottom = 0;
+      var header = document.querySelector(".md-header");
+      if (header) bottom = header.getBoundingClientRect().bottom;
+      var tabs = document.querySelector(".md-tabs");
+      if (tabs) {
+        var tr = tabs.getBoundingClientRect();
+        if (tr.height > 0) bottom = Math.max(bottom, tr.bottom);
       }
-      function update() {
-        ticking = false;
-        var top = chromeBottom();
-        if (top !== lastTop) {
-          lastTop = top;
-          wrap.style.setProperty("--sticky-top", top + "px");
-        }
-        var hr = head.getBoundingClientRect();
-        var wr = wrap.getBoundingClientRect();
-        wrap.classList.toggle("is-stuck", hr.bottom < top + 2 && wr.bottom > top + 74);
-      }
-      function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
-      window.addEventListener("scroll", onScroll, { passive: true });
-      window.addEventListener("resize", onScroll, { passive: true });
-      stickyHandlers.push(onScroll);
-      update();
+      return bottom > 0 ? Math.round(bottom) : 96;
     }
+    function update() {
+      ticking = false;
+      var top = chromeBottom();
+      if (top !== lastTop) {
+        lastTop = top;
+        wrap.style.setProperty("--sticky-top", top + "px");
+      }
+      var hr = head.getBoundingClientRect();
+      var wr = wrap.getBoundingClientRect();
+      // Stick once the full header has scrolled above the chrome (hr.bottom < top),
+      // but drop the mini-header again once the card's tail is within ~its own
+      // height of scrolling away (74 ≈ the .sb__sticky height) so it doesn't
+      // hover over the page below the statblock.
+      wrap.classList.toggle("is-stuck", hr.bottom < top + 2 && wr.bottom > top + 74);
+    }
+    function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll, { passive: true });
+    stickyHandlers.push(onScroll);
+    update();
   }
 
   // Tear down the previous page's sticky scroll/resize listeners. Under
-  // Material's navigation.instant the JS context survives page swaps, so without
-  // this each visited statblock leaks a window listener pinning a detached
-  // .sb-wrap (and recomputing getBoundingClientRect on every scroll forever).
+  // navigation.instant the JS context survives page swaps, so without this each
+  // visited statblock leaks a window listener pinning a detached .sb-wrap.
   function teardown() {
     stickyHandlers.forEach(function (h) {
       window.removeEventListener("scroll", h);
@@ -357,22 +81,12 @@
     stickyHandlers = [];
   }
 
-  // Auto-mount every statblock island. The island IS the only render path for a
-  // statblock (unlike the build-time ability/trait cards), so this MUST run on
-  // EVERY page view. Two navigation.instant hazards, both handled here:
-  //   1) page swaps don't re-fire DOMContentLoaded → subscribe to `document$`.
-  //   2) Material recreates inline <script>s and strips their class/type → we
-  //      locate the island by its `.sc-statblock-mount` DIV (whose attributes
-  //      survive) and read the child <script>, falling back to any <script>.
-  // See .repo-docs/decisions/2026-06-11-client-scripts-navigation-instant.md.
+  // Wire every server-rendered statblock on the page. Runs on EVERY page view:
+  // navigation.instant does not re-fire DOMContentLoaded, so subscribe to
+  // document$. Idempotent (teardown first; addEventListener on fresh nodes).
   function init() {
     teardown();
-    document.querySelectorAll(".sc-statblock-mount").forEach(function (host) {
-      var s = host.querySelector("script.sc-statblock-data") || host.querySelector("script");
-      if (!s) return;
-      try { mount(host, JSON.parse(s.textContent)); }
-      catch (err) { if (global.console) console.warn("[steel-statblock] bad JSON island", err); }
-    });
+    document.querySelectorAll(".sb-wrap").forEach(wire);
   }
   if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
     document$.subscribe(init);
@@ -382,5 +96,5 @@
     document.addEventListener("DOMContentLoaded", init);
   }
 
-  global.SCStatblock = { render: render, mount: mount, ACT: ACT };
+  global.SCStatblock = { wire: wire };
 })(window);
