@@ -144,6 +144,18 @@
   list-style: none; padding: 0; margin: 1rem 0 0;
   display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 1rem;
 }
+/* Paired base + advancement-features cards (beastheart companions, summoner
+   fixtures): force exactly two columns so each base/advancement pair shares a
+   row. Collapses to one column on phones. Emitted by steel-etl
+   buildAdvancementPairContent as <div class="sc-cards sc-cards--pairs">. */
+.md-typeset .sc-cards--pairs {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+@media (max-width: 44.9375em) {
+  .md-typeset .sc-cards--pairs {
+    grid-template-columns: 1fr;
+  }
+}
 .md-typeset .sc-card {
   position: relative; display: block; text-decoration: none; color: inherit;
   border: 1px solid rgba(255,255,255,.05); border-radius: .55rem; padding: 1rem 1.1rem;
