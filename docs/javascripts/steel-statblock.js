@@ -70,7 +70,7 @@
   function costBadge(cost) {
     if (!cost) return "";
     var m = String(cost).match(/^\s*(\d+)\s+(.*)$/);
-    var inner = m ? '<span class="num">' + esc(m[1]) + "</span> " + esc(m[2]) : esc(cost);
+    var inner = m ? '<span class="num">' + esc(m[1]) + "</span> " + rich(m[2]) : rich(cost);
     return '<div class="sc-ability__cost">' + inner + "</div>";
   }
 
@@ -100,7 +100,7 @@
     // is set upstream only when the feature has no keyword/usage table).
     var eyebrow = f.usage || (f.kind === "passive" ? "Trait" : "");
     if (eyebrow) p.push('<div class="sb__feat-eyebrow">' + dia + rich(eyebrow) + "</div>");
-    p.push('<h3 class="sb__feat-name sc-ability__name">' + esc(f.name) + "</h3>");
+    p.push('<h3 class="sb__feat-name sc-ability__name">' + rich(f.name) + "</h3>");
     p.push("</div>");
     p.push('<div class="sb__feat-corner">' + costBadge(f.cost) + "</div>");
     p.push("</div>");
@@ -154,7 +154,7 @@
     // sections (Trigger / Effect)
     (f.sections || []).forEach(function (s) {
       p.push('<div class="sc-ability__section">' +
-        '<div class="sc-ability__section-head">' + dia + '<span class="tag">' + esc(s.label) + "</span></div>" +
+        '<div class="sc-ability__section-head">' + dia + '<span class="tag">' + rich(s.label) + "</span></div>" +
         '<div class="sc-ability__section-body"><p>' + rich(s.text) + "</p></div></div>");
     });
 
@@ -163,7 +163,7 @@
 
     // enhancements (dashed "spend X" rows)
     (f.enhancements || []).forEach(function (e) {
-      p.push('<div class="sc-ability__enh"><span class="cost">' + esc(e.cost) + "</span>" +
+      p.push('<div class="sc-ability__enh"><span class="cost">' + rich(e.cost) + "</span>" +
         '<span class="txt">' + rich(e.text) + "</span></div>");
     });
 
