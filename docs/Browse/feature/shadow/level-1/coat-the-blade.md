@@ -16,7 +16,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Trait</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature</div>
 <h3 class="sc-trait__name">Coat the Blade</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

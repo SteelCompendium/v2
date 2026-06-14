@@ -14,7 +14,7 @@
                            data island into a live filter surface.
 
    Item shape:
-     { kind:"trait"|"ability", name, klass, level, href,
+     { kind:"feature"|"trait"|"ability", name, klass, level, href,
        flavor,                                  // 1-line summary / atmosphere
        // trait:
        action?, grants?, benefits?, tag?,        // action accents the spine
@@ -51,9 +51,12 @@
   }
 
   function traitCard(it, ctx) {
-    // Traits use the trait accent + trait crest consistently; the level lives in
-    // the tag, so the eyebrow carries "<Source> Trait · <subclass?>".
-    var eyebrow = esc(it.klass ? it.klass + " Trait" : "Trait");
+    // Traits and plain features share the recessed niche (accent + crest); the
+    // level lives in the tag, so the eyebrow carries "<Source> <noun> · <subclass?>".
+    // The noun reflects the real type: "Trait" only for ancestry/monster traits,
+    // "Feature" for the plain feature umbrella.
+    var noun = it.kind === "feature" ? "Feature" : "Trait";
+    var eyebrow = esc(it.klass ? it.klass + " " + noun : noun);
     if (it.subclass) eyebrow += " · " + esc(it.subclass);
     var tag = it.tag
       ? '<div class="sc-prev__tag">' + esc(it.tag) + '</div>'
@@ -140,7 +143,7 @@
     });
 
     var facets = [
-      { key: "kind",     label: "Type",    values: ["trait", "ability"], display: cap },
+      { key: "kind",     label: "Type",    values: ["feature", "ability", "trait"], display: cap },
       { key: "klass",    label: "Source",  values: srcValues, dot: function (v) { return srcColor(klassSrc[v]); } },
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },

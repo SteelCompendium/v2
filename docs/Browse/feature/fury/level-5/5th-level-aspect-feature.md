@@ -16,7 +16,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Trait</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
 <h3 class="sc-trait__name">5th-Level Aspect Feature</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

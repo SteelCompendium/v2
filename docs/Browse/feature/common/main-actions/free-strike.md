@@ -14,7 +14,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Trait</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
 <h3 class="sc-trait__name">Free Strike</h3>
 </div>
 </header>
