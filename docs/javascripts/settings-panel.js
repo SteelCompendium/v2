@@ -301,7 +301,7 @@
               '<select class="sc-set__select" id="set-sb-meta">' +
                 '<option value="grid">Grid (label top)</option>' +
                 '<option value="gridc">Grid (centered)</option>' +
-                '<option value="ledger">Ledger rows</option>' +
+                '<option value="ledger">Ledger</option>' +
               '</select>' +
             '</div>' +
             '<div class="sc-set__row">' +
@@ -329,26 +329,26 @@
                 sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
               '<select class="sc-set__select" id="set-sb-featstyle">' +
                 '<option value="card">Cards</option>' +
-                '<option value="flat">Flat + separators</option>' +
+                '<option value="flat">Flat list</option>' +
               '</select>' +
             '</div>' +
             '<div class="sc-set__row">' +
-              '<label class="sc-set__label" for="set-sb-kwusage">Keyword + usage' +
-                sbHelp("How each feature shows its keywords and action type. Crest is the only mode with the heraldic crest.") + '</label>' +
+              '<label class="sc-set__label" for="set-sb-kwusage">Keyword display' +
+                sbHelp("How each feature shows its keywords and action type. Crest adds a decorative emblem.") + '</label>' +
               '<select class="sc-set__select" id="set-sb-kwusage">' +
-                '<option value="crest">Crest + eyebrow + chips</option>' +
-                '<option value="text">Text (space-between)</option>' +
-                '<option value="grid">Grid cells</option>' +
-                '<option value="ledger">Ledger rows</option>' +
+                '<option value="crest">Crest (decorated)</option>' +
+                '<option value="text">Inline text</option>' +
+                '<option value="grid">Grid</option>' +
+                '<option value="ledger">Ledger</option>' +
               '</select>' +
             '</div>' +
             '<div class="sc-set__row">' +
               '<label class="sc-set__label" for="set-sb-disttarget">Distance + target' +
                 sbHelp("How each feature shows its Distance and Target line.") + '</label>' +
               '<select class="sc-set__select" id="set-sb-disttarget">' +
-                '<option value="text">Text (space-between)</option>' +
-                '<option value="grid">Grid cells</option>' +
-                '<option value="ledger">Ledger rows</option>' +
+                '<option value="text">Inline text</option>' +
+                '<option value="grid">Grid</option>' +
+                '<option value="ledger">Ledger</option>' +
               '</select>' +
             '</div>' +
             '<div class="sc-set__row">' +
@@ -392,15 +392,15 @@
               sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
             '<select class="sc-set__select" id="set-fb-featstyle">' +
               '<option value="card">Cards</option>' +
-              '<option value="flat">Flat + separators</option>' +
+              '<option value="flat">Flat list</option>' +
             '</select>' +
           '</div>' +
           '<div class="sc-set__row">' +
             '<label class="sc-set__label" for="set-fb-stats">Stat line' +
               sbHelp("Layout for the loose header stats (EV, Stamina, Size): boxed grid cells or hairline ledger rows.") + '</label>' +
             '<select class="sc-set__select" id="set-fb-stats">' +
-              '<option value="grid">Grid cells</option>' +
-              '<option value="ledger">Ledger rows</option>' +
+              '<option value="grid">Grid</option>' +
+              '<option value="ledger">Ledger</option>' +
             '</select>' +
           '</div>' +
         '</details>' +
