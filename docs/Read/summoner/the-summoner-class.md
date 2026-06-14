@@ -1087,7 +1087,7 @@ Your fixture gains additional features at 5th and 9th level.
 
 The boil arises from the chaotic depths of the Abyssal Waste, concentrated into a heaving mass by the pressure of a coherent reality. As it slushes and threatens to burst, the noises drive nearby demons into a frenzy.
 
-###### The Boil {data-scc="mcdm.summoner.v1/fixture.demon.statblock/the-boil"}
+###### The Boil {data-scc="mcdm.summoner.v1/monster.fixture.demon.featureblock/the-boil"}
 
 *Hazard Support*
 
@@ -1101,6 +1101,8 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 > ⭐️ **Oh, It Pops**
 >
 > When the boil is destroyed, each enemy within 3 squares of the boil takes acid [damage](../../Browse/rule/damage/damage.md) equal to your level and is A < STRONG [weakened](../../Browse/condition/weakened.md) (save ends).
+
+###### The Boil Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil"}
 
 > **Level 5 Fixture Advancement Feature**
 >
@@ -1122,7 +1124,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 
 The storm of elements from Quintessence coalesce into a hardened, crystalline structure. It magnifies the elemental composition of any matter that passes through it and emits supernatural colors while doing so.
 
-###### Primordial Crystal {data-scc="mcdm.summoner.v1/fixture.elemental.statblock/primordial-crystal"}
+###### Primordial Crystal {data-scc="mcdm.summoner.v1/monster.fixture.elemental.featureblock/primordial-crystal"}
 
 *Relic Artillery*
 
@@ -1136,6 +1138,8 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 > ⭐️ **Elemental Boost**
 >
 > When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.
+
+###### Primordial Crystal Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal"}
 
 > **Level 5 Fixture Advancement Feature**
 >
@@ -1157,7 +1161,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 
 The vibrant waters of Arcadia pour through a hole in reality and pool into a verdant cup of paradise. As the pond babbles, it causes the surrounding flora to grow and provides the fey places to hide.
 
-###### Glade Pond {data-scc="mcdm.summoner.v1/fixture.fey.statblock/glade-pond"}
+###### Glade Pond {data-scc="mcdm.summoner.v1/monster.fixture.fey.featureblock/glade-pond"}
 
 *Hazard Ambusher*
 
@@ -1171,6 +1175,8 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 > ⭐️ **Overgrowth**
 >
 > Each of your fey [minions](../../Browse/feature/summoner/level-1/minions.md) that ends their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the pond is hidden until the start of their next [turn](../../Browse/rule/combat/turn.md).
+
+###### Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
 
 > **Level 5 Fixture Advancement Feature**
 >
@@ -1192,7 +1198,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 
 Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spirits swirl around its bars. The undead refuse to stop moving while near the threshold of oblivion.
 
-###### Barrow Gates {data-scc="mcdm.summoner.v1/fixture.undead.statblock/barrow-gates"}
+###### Barrow Gates {data-scc="mcdm.summoner.v1/monster.fixture.undead.featureblock/barrow-gates"}
 
 *Fortification Defender*
 
@@ -1206,6 +1212,8 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 > ⭐️ **Undead Dominion**
 >
 > Each of your undead [minions](../../Browse/feature/summoner/level-1/minions.md) has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2 while occupying a space within 3 squares of the gates.
+
+###### Barrow Gates Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates"}
 
 > **Level 5 Fixture Advancement Feature**
 >

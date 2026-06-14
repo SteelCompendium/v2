@@ -11,7 +11,7 @@ type: class
 
 ---
 
-A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a [wolf](../feature-group/companion/wolf.md), a [basilisk](../feature-group/companion/basilisk.md), or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.
+A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a [wolf](../monster/companion/beastheart/wolf.md), a [basilisk](../monster/companion/beastheart/basilisk.md), or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.
 
 As a beastheart, you face the world's dangers alongside your wild companion. With your combined might, you rush into the thick of combat to challenge enemy champions or prowl around the outskirts to pick off vulnerable foes.
 
@@ -84,13 +84,13 @@ Choose a companion from the following options. (*Quick Build:* Wolf.)
 
 #### Customizing Your Companion
 
-Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the [condor](../feature-group/companion/condor.md) companion for an escaped Hawklord hawk, the [wolf](../feature-group/companion/wolf.md) for a dog or jackal, or even the [boar](../feature-group/companion/boar.md) for a particularly ornery stag or elk.
+Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the [condor](../monster/companion/beastheart/condor.md) companion for an escaped Hawklord hawk, the [wolf](../monster/companion/beastheart/wolf.md) for a dog or jackal, or even the [boar](../monster/companion/beastheart/boar.md) for a particularly ornery stag or elk.
 
-With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a [hellhound](../feature-group/companion/hellhound.md) you travel with a white wolf that deals cold damage instead of fire damage; maybe your [elemental spark](../feature-group/companion/elemental-spark.md) is an elemental ember that deals fire damage; or maybe your [panther](../feature-group/companion/panther.md) is a shadow whose [Pounce](../feature/ability/companion/panther/level-1/pounce.md) maneuver deals corruption or cold damage.
+With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a [hellhound](../monster/companion/beastheart/hellhound.md) you travel with a white wolf that deals cold damage instead of fire damage; maybe your [elemental spark](../monster/companion/beastheart/elemental-spark.md) is an elemental ember that deals fire damage; or maybe your [panther](../monster/companion/beastheart/panther.md) is a shadow whose [Pounce](../feature/ability/companion/beastheart/panther/level-1/pounce.md) maneuver deals corruption or cold damage.
 
 ## Companion Stat Blocks
 
-### Basilisk {data-scc="mcdm.beastheart.v1/feature-group.companion/basilisk"}
+### Basilisk {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk"}
 
 |     Beast, Companion     |         -         |                            Level 1                            |          -          |            -             |
 |:------------------------:|:-----------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
@@ -98,7 +98,7 @@ With the Director's permission, you can also change the damage types of your com
 | **Poison 3**<br>Immunity | **—**<br>Movement | **[Alertness](../skill/intrigue/alertness.md)**<br>Skills |                     |                          |
 |     **+2**<br>Might      | **+1**<br>Agility |                       **−1**<br>Reason                        | **+2**<br>Intuition |    **+2**<br>Presence    |
 
-#### Petrify {data-scc="mcdm.beastheart.v1/feature.ability.companion.basilisk.level-1/petrify"}
+#### Petrify {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.basilisk.level-1/petrify"}
 
 *Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.*
 
@@ -106,33 +106,29 @@ With the Director's permission, you can also change the damage types of your com
 |---------------------------------------------|-----------------:|
 | **📏 Melee 1 or ranged 5**                  | **🎯 One enemy** |
 
-**Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../feature/companion/basilisk/level-1/stoned.md)).
+**Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../feature/companion/beastheart/basilisk/level-1/stoned.md)).
 
 **Spend 1 Ferocity:** While stoned this way, the target is also [slowed](../condition/slowed.md).
 
-#### Stoned {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-1/stoned"}
+#### Stoned {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-1/stoned"}
 
 A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.
 
-#### Level 3 Basilisk Advancement Feature
+#### Basilisk Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk"}
 
-##### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-3/foes-forever-frozen"}
+##### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-3/foes-forever-frozen"}
 
 Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).
 
-#### Level 6 Basilisk Advancement Feature
-
-##### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-6/rock-smasher"}
+##### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-6/rock-smasher"}
 
 Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.
 
-#### Level 10 Basilisk Advancement Feature
-
-##### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-10/heart-of-stone"}
+##### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-10/heart-of-stone"}
 
 While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.
 
-### Bear {data-scc="mcdm.beastheart.v1/feature-group.companion/bear"}
+### Bear {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear"}
 
 | Animal, Companion |           -           |                             Level 1                             |          -          |            -             |
 |:-----------------:|:---------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
@@ -140,7 +136,7 @@ While the basilisk is rampaging, you and the basilisk have damage immunity 10 as
 | **—**<br>Immunity | **Climb**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+1**<br>Agility   |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
 
-#### Backhand {data-scc="mcdm.beastheart.v1/feature.ability.companion.bear.level-1/backhand"}
+#### Backhand {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.bear.level-1/backhand"}
 
 *The bear casually swats the pesky foe into next week.*
 
@@ -152,29 +148,25 @@ While the basilisk is rampaging, you and the basilisk have damage immunity 10 as
 
 **Spend 1 Ferocity:** The target is [force moved](../movement/forced-movement.md) up to a number of additional squares equal to the bear's Might score.
 
-#### Strong Like Bear {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-1/strong-like-bear"}
+#### Strong Like Bear {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-1/strong-like-bear"}
 
 You gain a +1 bonus to your stability.
 
-#### Level 3 Bear Advancement Feature
+#### Bear Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear"}
 
-##### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-3/foe-thresher"}
+##### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-3/foe-thresher"}
 
 Whenever the bear targets a creature with a strike that doesn't impose [forced movement](../movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
 
-#### Level 6 Bear Advancement Feature
-
-##### Ursine Form {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-6/ursine-form"}
+##### Ursine Form {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-6/ursine-form"}
 
 While the bear is rampaging, you have damage immunity 5 and your size increases to the bear's size (to a maximum of 2). If you don't have enough unoccupied space to grow, you grow as soon as there is sufficient space.
 
-#### Level 10 Bear Advancement Feature
-
-##### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-10/twin-colossi"}
+##### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-10/twin-colossi"}
 
 While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear's size (to a maximum of 3), and your strikes deal an extra 5 damage.
 
-### Boar {data-scc="mcdm.beastheart.v1/feature-group.companion/boar"}
+### Boar {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar"}
 
 | Animal, Companion |         -         |                         Level 1                         |          -          |            -             |
 |:-----------------:|:-----------------:|:-------------------------------------------------------:|:-------------------:|:------------------------:|
@@ -182,7 +174,7 @@ While the bear is rampaging, you gain a +1 bonus to distance with melee weapon a
 | **—**<br>Immunity | **—**<br>Movement | **[Search](../skill/intrigue/search.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                    **−1**<br>Reason                     | **+2**<br>Intuition |    **+2**<br>Presence    |
 
-#### Gore {data-scc="mcdm.beastheart.v1/feature.ability.companion.boar.level-1/gore"}
+#### Gore {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.boar.level-1/gore"}
 
 *With an enraged snort, the boar lunges forward to rip open foes with their tusks.*
 
@@ -194,29 +186,25 @@ While the bear is rampaging, you gain a +1 bonus to distance with melee weapon a
 
 **Spend 1 Ferocity:** The target is [bleeding](../condition/bleeding.md) until the end of their next turn.
 
-#### Spiteful Endurance {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-1/spiteful-endurance"}
+#### Spiteful Endurance {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-1/spiteful-endurance"}
 
 While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../condition/bleeding.md).
 
-#### Level 3 Boar Advancement Feature
+#### Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
 
-##### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-3/greased-pig"}
+##### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig"}
 
 While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.
 
-#### Level 6 Boar Advancement Feature
-
-##### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-6/wild-rush"}
+##### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush"}
 
 While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../movement/shifting.md) instead of move when using the Charge action or the Gore maneuver.
 
-#### Level 10 Boar Advancement Feature
-
-##### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-10/immortal-rage"}
+##### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage"}
 
 Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.
 
-### Condor {data-scc="mcdm.beastheart.v1/feature-group.companion/condor"}
+### Condor {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor"}
 
 | Animal, Companion |          -          |                            Level 1                            |          -          |            -             |
 |:-----------------:|:-------------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
@@ -224,7 +212,7 @@ Whenever you or the boar use an ability that deals damage while the boar is ramp
 | **—**<br>Immunity | **Fly**<br>Movement | **[Alertness](../skill/intrigue/alertness.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |  **+1**<br>Agility  |                       **−1**<br>Reason                        | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Flurry of Wings {data-scc="mcdm.beastheart.v1/feature.ability.companion.condor.level-1/flurry-of-wings"}
+#### Flurry of Wings {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.condor.level-1/flurry-of-wings"}
 
 *I can't draw a bead on them with that infernal bird flapping in my face!*
 
@@ -236,29 +224,25 @@ Whenever you or the boar use an ability that deals damage while the boar is ramp
 
 **Spend 1 Ferocity:** An enemy who would be [weakened](../condition/weakened.md) by this ability is [taunted](../condition/taunted.md) instead.
 
-#### Moving Target {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-1/moving-target"}
+#### Moving Target {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-1/moving-target"}
 
 While the condor is [flying](../movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane.
 
-#### Level 3 Condor Advancement Feature
+#### Condor Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor"}
 
-##### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-3/dive-bomb"}
+##### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-3/dive-bomb"}
 
 Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they've moved on their turn (to a maximum of 5).
 
-#### Level 6 Condor Advancement Feature
-
-##### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-6/borne-aloft"}
+##### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-6/borne-aloft"}
 
 While the condor is rampaging, you gain wings and can [fly](../movement/fly.md). While flying, you gain a +2 bonus to speed. If you are midair when the condor's rampage ends, you take no damage from the fall.
 
-#### Level 10 Condor Advancement Feature
-
-##### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-10/flight-of-the-condor"}
+##### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-10/flight-of-the-condor"}
 
 While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
-### Deinonychus {data-scc="mcdm.beastheart.v1/feature-group.companion/deinonychus"}
+### Deinonychus {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus"}
 
 | Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
 |:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -266,7 +250,7 @@ While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 | **—**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Terrible Claws {data-scc="mcdm.beastheart.v1/feature.ability.companion.deinonychus.level-1/terrible-claws"}
+#### Terrible Claws {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.deinonychus.level-1/terrible-claws"}
 
 *The deinonychus kicks their prey, then slashes them with wicked claws.*
 
@@ -278,37 +262,33 @@ While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
 **Spend 1 Ferocity:** A target who has M < STRONG is [bleeding](../condition/bleeding.md) (save ends).
 
-#### Blood Frenzy {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-1/blood-frenzy"}
+#### Blood Frenzy {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-1/blood-frenzy"}
 
 Whenever the deinonychus deals damage to a [bleeding](../condition/bleeding.md) creature, they gain 1 surge.
 
-#### Level 3 Deinonychus Advancement Feature
+#### Deinonychus Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus"}
 
-##### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-3/tear-you-to-ribbons"}
+##### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-3/tear-you-to-ribbons"}
 
 Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../condition/bleeding.md) until the end of their next turn.
 
-#### Level 6 Deinonychus Advancement Feature
-
-##### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-6/slake-my-thirst-in-blood"}
+##### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-6/slake-my-thirst-in-blood"}
 
 Whenever you use an ability that deals rolled damage to a [bleeding](../condition/bleeding.md) creature while the deinonychus is rampaging, you gain 2 surges.
 
-#### Level 10 Deinonychus Advancement Feature
-
-##### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-10/reaping-scythe"}
+##### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-10/reaping-scythe"}
 
 The deinonychus's claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy's space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus's Might score.
 
-### Drake {data-scc="mcdm.beastheart.v1/feature-group.companion/drake"}
+### Drake {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake"}
 
 |                                                                  Companion, Dragon                                                                  |          -          |                             Level 1                             |          -          |            -             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |                                                                   **1M**<br>Size                                                                    |   **5**<br>Speed    |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Attuned damage type 3 (see [Elementally Attuned](../feature/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
+| **Attuned damage type 3 (see [Elementally Attuned](../feature/companion/beastheart/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |                                                                   **+2**<br>Might                                                                   |  **+1**<br>Agility  |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
 
-#### Drake Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.drake.level-1/drake-breath"}
+#### Drake Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.drake.level-1/drake-breath"}
 
 *The drake exhales a blast of flesh-melting energy.*
 
@@ -316,37 +296,33 @@ The deinonychus's claws slash at creatures underfoot. When the deinonychus moves
 |-----------------------------|---------------------------------:|
 | **📏 1 or 2 cube within 1** | **🎯 Each creature in the area** |
 
-**Effect:** The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../feature/companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
+**Effect:** The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../feature/companion/beastheart/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
 
 **Spend 1 or 2 Ferocity:** This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.
 
-#### Elementally Attuned {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-1/elementally-attuned"}
+#### Elementally Attuned {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/elementally-attuned"}
 
 When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.
 
-#### Shared Scales {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-1/shared-scales"}
+#### Shared Scales {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/shared-scales"}
 
 You have immunity 3 to the drake's attuned damage type.
 
-#### Level 3 Drake Advancement Feature
+#### Drake Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake"}
 
-##### Endless Breath {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-3/endless-breath"}
+##### Endless Breath {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-3/endless-breath"}
 
 The drake's Drake Breath maneuver deals an extra 2 damage.
 
-#### Level 6 Drake Advancement Feature
-
-##### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-6/a-burning-inside-me"}
+##### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-6/a-burning-inside-me"}
 
 While the drake is rampaging, you gain draconic wings and can [fly](../movement/fly.md). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
 
-#### Level 10 Drake Advancement Feature
-
-##### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-10/elemental-avatar"}
+##### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-10/elemental-avatar"}
 
 While the drake is rampaging, you and the drake have immunity all to the drake's attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake's attuned damage type.
 
-### Elemental Spark {data-scc="mcdm.beastheart.v1/feature-group.companion/elemental-spark"}
+### Elemental Spark {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark"}
 
 |    Companion, Elemental     |         -         |                        Level 1                        |          -          |            -             |
 |:---------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -354,7 +330,7 @@ While the drake is rampaging, you and the drake have immunity all to the drake's
 | **Lightning 3**<br>Immunity | **—**<br>Movement | **[Magic](../skill/lore/magic.md)**<br>Skills |                     |                          |
 |       **+2**<br>Might       | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Static Shock {data-scc="mcdm.beastheart.v1/feature.ability.companion.elemental-spark.level-1/static-shock"}
+#### Static Shock {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.elemental-spark.level-1/static-shock"}
 
 *An arc of lightning crackles from the spark.*
 
@@ -366,29 +342,25 @@ While the drake is rampaging, you and the drake have immunity all to the drake's
 
 **Spend 1 Ferocity:** The distance increases to melee 5.
 
-#### Electric Surge {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-1/electric-surge"}
+#### Electric Surge {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-1/electric-surge"}
 
 The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.
 
-#### Level 3 Elemental Spark Advancement Feature
+#### Elemental Spark Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark"}
 
-##### Electroshock {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-3/electroshock"}
+##### Electroshock {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-3/electroshock"}
 
 Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M < AVERAGE to be [dazed](../condition/dazed.md) until the end of the target's next turn.
 
-#### Level 6 Elemental Spark Advancement Feature
-
-##### Conductive {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-6/conductive"}
+##### Conductive {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-6/conductive"}
 
 While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.
 
-#### Level 10 Elemental Spark Advancement Feature
-
-##### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-10/lightning-speed"}
+##### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-10/lightning-speed"}
 
 While the spark is rampaging, you and the spark can [shift](../movement/shifting.md) up to your speed as a free maneuver once on each of your turns.
 
-### Gummy Ball {data-scc="mcdm.beastheart.v1/feature-group.companion/gummy-ball"}
+### Gummy Ball {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball"}
 
 |    Companion, Ooze     |         -         |                        Level 1                        |          -          |            -             |
 |:----------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -396,7 +368,7 @@ While the spark is rampaging, you and the spark can [shift](../movement/shifting
 | **Acid 3**<br>Immunity | **—**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |    **+2**<br>Might     | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Absorb {data-scc="mcdm.beastheart.v1/feature.ability.companion.gummy-ball.level-1/absorb"}
+#### Absorb {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.gummy-ball.level-1/absorb"}
 
 *With a sickening squelch, the ball oozes around their hapless prey.*
 
@@ -408,29 +380,25 @@ While the spark is rampaging, you and the spark can [shift](../movement/shifting
 
 **Spend 1 Ferocity:** A target [grabbed](../condition/grabbed.md) this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.
 
-#### Gelatinous {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-1/gelatinous"}
+#### Gelatinous {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-1/gelatinous"}
 
 The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is [difficult terrain](../movement/difficult-terrain.md).
 
-#### Level 3 Gummy Ball Advancement Feature
+#### Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
 
-##### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-3/suck-it-up"}
+##### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-3/suck-it-up"}
 
 Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../condition/grabbed.md) by the ball.
 
-#### Level 6 Gummy Ball Advancement Feature
-
-##### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-6/taffy-pull"}
+##### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-6/taffy-pull"}
 
 While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.
 
-#### Level 10 Gummy Ball Advancement Feature
-
-##### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-10/runaway-expansion"}
+##### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-10/runaway-expansion"}
 
 While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball's size increases by 1 (to a maximum of 5). The ball's size can't increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.
 
-### Hellhound {data-scc="mcdm.beastheart.v1/feature-group.companion/hellhound"}
+### Hellhound {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound"}
 
 |  Companion, Infernal   |         -         |                             Level 1                             |          -          |            -             |
 |:----------------------:|:-----------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
@@ -438,7 +406,7 @@ While the ball is rampaging, you and the ball have acid immunity 10, and wheneve
 | **Fire 3**<br>Immunity | **—**<br>Movement | **[Intimidate](../skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
 |    **+2**<br>Might     | **+2**<br>Agility |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Fire Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.hellhound.level-1/fire-breath"}
+#### Fire Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.hellhound.level-1/fire-breath"}
 
 *The hellhound exhales infernal flames.*
 
@@ -450,29 +418,25 @@ While the ball is rampaging, you and the ball have acid immunity 10, and wheneve
 
 **Spend 1 Ferocity:** This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.
 
-#### Hellish Pact {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-1/hellish-pact"}
+#### Hellish Pact {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-1/hellish-pact"}
 
 You have fire immunity equal to the hellhound's fire immunity.
 
-#### Level 3 Hellhound Advancement Feature
+#### Hellhound Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound"}
 
-##### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-3/infernal-apparition"}
+##### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-3/infernal-apparition"}
 
 Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../condition/frightened.md) until the end of the target's next turn.
 
-#### Level 6 Hellhound Advancement Feature
-
-##### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-6/slavering-jaws"}
+##### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-6/slavering-jaws"}
 
 While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
 
-#### Level 10 Hellhound Advancement Feature
-
-##### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-10/wreathed-in-flames"}
+##### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-10/wreathed-in-flames"}
 
 While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound's Might score.
 
-### Lightbender {data-scc="mcdm.beastheart.v1/feature-group.companion/lightbender"}
+### Lightbender {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender"}
 
 | Beast, Companion  |         -         |                       Level 1                       |          -          |            -             |
 |:-----------------:|:-----------------:|:---------------------------------------------------:|:-------------------:|:------------------------:|
@@ -480,7 +444,7 @@ While the hellhound is rampaging, you and the hellhound are surrounded by an aur
 | **—**<br>Immunity | **—**<br>Movement | **[Hide](../skill/intrigue/hide.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+1**<br>Agility |                  **−1**<br>Reason                   | **+2**<br>Intuition |    **+2**<br>Presence    |
 
-#### Sparking Tail Whip {data-scc="mcdm.beastheart.v1/feature.ability.companion.lightbender.level-1/sparking-tail-whip"}
+#### Sparking Tail Whip {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.lightbender.level-1/sparking-tail-whip"}
 
 *The lightbender swings their tail, sending gouts of sparks in their foe's face.*
 
@@ -492,29 +456,25 @@ While the hellhound is rampaging, you and the hellhound are surrounded by an aur
 
 **Spend 1 Ferocity:** A dazzled creature also takes a bane on strikes.
 
-#### Avoidance {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-1/avoidance"}
+#### Avoidance {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-1/avoidance"}
 
 Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.
 
-#### Level 3 Lightbender Advancement Feature
+#### Lightbender Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender"}
 
-##### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-3/hit-and-run"}
+##### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-3/hit-and-run"}
 
 Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../movement/teleport.md) up to 5 squares and use the [Hide](../skill/intrigue/hide.md) maneuver.
 
-#### Level 6 Lightbender Advancement Feature
-
-##### Lightbearer {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-6/lightbearer"}
+##### Lightbearer {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-6/lightbearer"}
 
 While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.
 
-#### Level 10 Lightbender Advancement Feature
-
-##### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-10/everywhere-and-nowhere"}
+##### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-10/everywhere-and-nowhere"}
 
 While the lightbender is rampaging, your grip on spatial reality is [weakened](../condition/weakened.md), and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender's rampage ends.
 
-### Panther {data-scc="mcdm.beastheart.v1/feature-group.companion/panther"}
+### Panther {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther"}
 
 | Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
 |:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -522,7 +482,7 @@ While the lightbender is rampaging, your grip on spatial reality is [weakened](.
 | **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+2**<br>Agility   |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Pounce {data-scc="mcdm.beastheart.v1/feature.ability.companion.panther.level-1/pounce"}
+#### Pounce {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.panther.level-1/pounce"}
 
 *The panther bunches up, then uncoils into a deadly leap.*
 
@@ -534,29 +494,25 @@ While the lightbender is rampaging, your grip on spatial reality is [weakened](.
 
 **Spend 1 Ferocity:** The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M < STRONG is knocked [prone](../condition/prone.md).
 
-#### Mighty Spring {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-1/mighty-spring"}
+#### Mighty Spring {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-1/mighty-spring"}
 
 Whenever the panther takes the Advance move action or the Charge action, they can [jump](../movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.
 
-#### Level 3 Panther Advancement Feature
+#### Panther Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther"}
 
-##### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-3/cat-and-mouse"}
+##### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-3/cat-and-mouse"}
 
 Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../condition/prone.md).
 
-#### Level 6 Panther Advancement Feature
-
-##### Single Bound {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-6/single-bound"}
+##### Single Bound {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-6/single-bound"}
 
 While the panther is rampaging, you can [jump](../movement/jump.md) up to a number of squares equal to your speed as a free maneuver once on each of your turns.
 
-#### Level 10 Panther Advancement Feature
-
-##### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-10/panther-spirit"}
+##### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-10/panther-spirit"}
 
 While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are [difficult terrain](../movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is [teleported](../movement/teleport.md) to the last unoccupied space they previously occupied.
 
-### Spider {data-scc="mcdm.beastheart.v1/feature-group.companion/spider"}
+### Spider {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider"}
 
 | Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
 |:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -564,7 +520,7 @@ While the panther is rampaging, you and the panther are invisible and can move t
 | **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../skill/intrigue/sneak.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  |   **+2**<br>Agility   |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Web Shot {data-scc="mcdm.beastheart.v1/feature.ability.companion.spider.level-1/web-shot"}
+#### Web Shot {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.spider.level-1/web-shot"}
 
 *The spider fires a ball of sticky silk.*
 
@@ -576,29 +532,25 @@ While the panther is rampaging, you and the panther are invisible and can move t
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [restrained](../condition/restrained.md) (save ends).
 
-#### Come Into My Parlor {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-1/come-into-my-parlor"}
+#### Come Into My Parlor {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-1/come-into-my-parlor"}
 
 Whenever the spider makes a strike against a [restrained](../condition/restrained.md) creature, the spider deals extra poison damage equal to twice their Intuition score.
 
-#### Level 3 Spider Advancement Feature
+#### Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
 
-##### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-3/dripping-fangs"}
+##### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-3/dripping-fangs"}
 
 Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
 
-#### Level 6 Spider Advancement Feature
-
-##### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-6/web-slinger"}
+##### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-6/web-slinger"}
 
 Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../movement/fly.md) in a straight line to any space within 5 squares of that object.
 
-#### Level 10 Spider Advancement Feature
-
-##### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-10/life-drinker"}
+##### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-10/life-drinker"}
 
 Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
 
-### Sporeling {data-scc="mcdm.beastheart.v1/feature-group.companion/sporeling"}
+### Sporeling {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling"}
 
 |     Beast, Companion     |         -         |                        Level 1                        |          -          |            -             |
 |:------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -606,7 +558,7 @@ Whenever you or the spider deals damage with a maneuver while the spider is ramp
 | **Poison 3**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |     **+2**<br>Might      | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Spore Puff {data-scc="mcdm.beastheart.v1/feature.ability.companion.sporeling.level-1/spore-puff"}
+#### Spore Puff {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.sporeling.level-1/spore-puff"}
 
 *The sporeling breathes a cloud of disorienting fumes.*
 
@@ -618,29 +570,25 @@ Whenever you or the spider deals damage with a maneuver while the spider is ramp
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [dazed](../condition/dazed.md) until the end of their next turn.
 
-#### Skulker {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-1/skulker"}
+#### Skulker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-1/skulker"}
 
 The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.
 
-#### Level 3 Sporeling Advancement Feature
+#### Sporeling Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling"}
 
-##### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-3/slowing-spores"}
+##### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-3/slowing-spores"}
 
 Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../condition/slowed.md) until the end of the target's next turn.
 
-#### Level 6 Sporeling Advancement Feature
-
-##### Plant Walk {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-6/plant-walk"}
+##### Plant Walk {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-6/plant-walk"}
 
 Once on each of your turns while the sporeling is rampaging, you can [teleport](../movement/teleport.md) to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.
 
-#### Level 10 Sporeling Advancement Feature
-
-##### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-10/trailing-mycelia"}
+##### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-10/trailing-mycelia"}
 
 While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M < STRONG, the creature is [grabbed](../condition/grabbed.md) by the attacker. Additionally, you and the sporeling can't be force moved or knocked [prone](../condition/prone.md) until the sporeling's rampage ends.
 
-### Wolf {data-scc="mcdm.beastheart.v1/feature-group.companion/wolf"}
+### Wolf {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf"}
 
 | Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
 |:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
@@ -648,7 +596,7 @@ While the sporeling is rampaging, you and the sporeling sprout rootlike, grippin
 | **—**<br>Immunity | **—**<br>Movement | **[Track](../skill/intrigue/track.md)**<br>Skills |                     |                          |
 |  **+2**<br>Might  | **+2**<br>Agility |                   **−1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
 
-#### Clamping Jaws {data-scc="mcdm.beastheart.v1/feature.ability.companion.wolf.level-1/clamping-jaws"}
+#### Clamping Jaws {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.wolf.level-1/clamping-jaws"}
 
 *With an unnerving growl, the wolf sinks powerful teeth into their quarry.*
 
@@ -660,25 +608,21 @@ While the sporeling is rampaging, you and the sporeling sprout rootlike, grippin
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [grabbed](../condition/grabbed.md) by the wolf.
 
-#### Retriever {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-1/retriever"}
+#### Retriever {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-1/retriever"}
 
 The wolf can move at full speed while they have a creature [grabbed](../condition/grabbed.md), no matter the [grabbed](../condition/grabbed.md) creature's size.
 
-#### Level 3 Wolf Advancement Feature
+#### Wolf Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf"}
 
-##### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-3/my-what-big-teeth-you-have"}
+##### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-3/my-what-big-teeth-you-have"}
 
 Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.
 
-#### Level 6 Wolf Advancement Feature
-
-##### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-6/call-of-the-wild"}
+##### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-6/call-of-the-wild"}
 
 While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can't be hidden or have concealment from you or the wolf.
 
-#### Level 10 Wolf Advancement Feature
-
-##### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-10/dire-wolf"}
+##### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-10/dire-wolf"}
 
 While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are [frightened](../condition/frightened.md) until the end of their next turn.
 
@@ -935,7 +879,7 @@ Your companion can't use every consumable, but with your help, they can benefit 
 
 Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
 
-You companion doesn't need to wear their trinket around their neck: a [condor](../feature-group/companion/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
+You companion doesn't need to wear their trinket around their neck: a [condor](../monster/companion/beastheart/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
 
 ##### Leveled Items
 
