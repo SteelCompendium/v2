@@ -462,16 +462,16 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    So no amount of widening the page or shrinking cards could ever reach 3 columns —
    the plate just centered at 86rem and leaked whitespace to the sides.
 
-   `width: calc(100% / var(--sc-card-scale))` makes the plate fill its container
-   AFTER the card-size zoom. extra.css applies `zoom: var(--sc-card-scale)` to the
-   whole .sb-wrap, so a plain `width: 100%` would render at scale× the container
-   and re-introduce the side gap whenever Card size < 100%. Dividing by the scale
-   pre-compensates: pre-zoom width = container/scale, post-zoom = container (no gap).
-   It also makes Card size drive the column count the way users expect — a smaller
-   scale enlarges the plate's pre-zoom coordinate space (container/scale) while the
-   `columns: 28rem` minimum stays fixed, so more 28rem columns flow in. Column count
-   is thus governed by BOTH the Page width slider (container width) and Card size. */
-[data-sb-wide="on"] .sb-wrap { max-width: none; width: calc(100% / var(--sc-card-scale, 1)); }
+   Dropping the cap lets the auto-width plate fill its container. Crucially, do NOT
+   add an explicit `width` to compensate for the card-size zoom: extra.css applies
+   `zoom: var(--sc-card-scale)` to the whole .sb-wrap, and modern `zoom` is zoom-
+   AWARE — an auto/100% width already fills the container at any scale (no side gap),
+   AND the plate's inner coordinate space already measures container/scale wide, so
+   the fixed `columns: 28rem` minimum flows MORE columns as Card size shrinks. An
+   explicit `width: calc(100%/scale)` divides by the scale a second time → the plate
+   renders container/scale² wide and overflows the viewport (worse the smaller the
+   scale). Column count is governed by BOTH the Page width slider and Card size. */
+[data-sb-wide="on"] .sb-wrap { max-width: none; }
 /* Column count derives from a MINIMUM column width, not a viewport media query, so
    the browser adds a column only while every column keeps ≥~28rem; narrow contexts
    degrade to a single full-width column on their own. */
