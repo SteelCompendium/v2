@@ -456,15 +456,25 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 /* ════════════════════════════════════════════════════════════
    WIDE — independent toggle: full-width plate, multi-column features
    ════════════════════════════════════════════════════════════ */
-[data-sb-wide="on"] .sb-wrap { max-width: 86rem; }
-/* Column count derives from a MINIMUM column width, not a viewport media query.
-   The old `min-width: 58em → columns: 2` gated on the VIEWPORT while the plate
-   lives inside Material's much narrower content column (sidebars + max-width),
-   so two columns could be squeezed into ~15rem each. `columns: 28rem` lets the
-   browser add a column only while every column keeps ≥~28rem — narrow contexts
-   degrade to a single full-width column on their own. (28rem + the 86rem cap
-   means at most 2 columns of ~40rem; 24rem gave 3 × ~27rem at the cap, which
-   read as too tight.) */
+/* Fill the available content column instead of capping at a fixed rem width.
+   The old `max-width: 86rem` cap combined with `columns: 28rem` (+2rem gap) hard-
+   locked the feature flow to 2 columns: a 3rd needs 3×28 + 2×2 = 88rem > 86rem.
+   So no amount of widening the page or shrinking cards could ever reach 3 columns —
+   the plate just centered at 86rem and leaked whitespace to the sides.
+
+   `width: calc(100% / var(--sc-card-scale))` makes the plate fill its container
+   AFTER the card-size zoom. extra.css applies `zoom: var(--sc-card-scale)` to the
+   whole .sb-wrap, so a plain `width: 100%` would render at scale× the container
+   and re-introduce the side gap whenever Card size < 100%. Dividing by the scale
+   pre-compensates: pre-zoom width = container/scale, post-zoom = container (no gap).
+   It also makes Card size drive the column count the way users expect — a smaller
+   scale enlarges the plate's pre-zoom coordinate space (container/scale) while the
+   `columns: 28rem` minimum stays fixed, so more 28rem columns flow in. Column count
+   is thus governed by BOTH the Page width slider (container width) and Card size. */
+[data-sb-wide="on"] .sb-wrap { max-width: none; width: calc(100% / var(--sc-card-scale, 1)); }
+/* Column count derives from a MINIMUM column width, not a viewport media query, so
+   the browser adds a column only while every column keeps ≥~28rem; narrow contexts
+   degrade to a single full-width column on their own. */
 [data-sb-wide="on"] .sb__features { display: block; columns: 28rem; column-gap: 2rem; }
 [data-sb-wide="on"] .sb__feat, [data-sb-wide="on"] .sb__band { break-inside: avoid; -webkit-column-break-inside: avoid; margin-bottom: .8rem; }
 [data-sb-wide="on"] .sb__band-body { display: flex; }
