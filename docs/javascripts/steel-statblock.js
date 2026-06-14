@@ -8,7 +8,8 @@
      - the sticky mini-header that reveals on scroll
    It builds no DOM. navigation.instant-safe: subscribes to document$,
    idempotent init, tears down window listeners on each page swap.
-   See docs/superpowers/specs/2026-06-14-statblock-build-time-render-design.md.
+   See the workspace-root spec
+   docs/superpowers/specs/2026-06-14-statblock-build-time-render-design.md.
    ============================================================ */
 (function (global) {
   "use strict";
@@ -56,6 +57,10 @@
       }
       var hr = head.getBoundingClientRect();
       var wr = wrap.getBoundingClientRect();
+      // Stick once the full header has scrolled above the chrome (hr.bottom < top),
+      // but drop the mini-header again once the card's tail is within ~its own
+      // height of scrolling away (74 ≈ the .sb__sticky height) so it doesn't
+      // hover over the page below the statblock.
       wrap.classList.toggle("is-stuck", hr.bottom < top + 2 && wr.bottom > top + 74);
     }
     function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
