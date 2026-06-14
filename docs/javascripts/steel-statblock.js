@@ -99,7 +99,7 @@
     // eyebrow = usage; a usage-less passive feature is a Trait (kind="passive"
     // is set upstream only when the feature has no keyword/usage table).
     var eyebrow = f.usage || (f.kind === "passive" ? "Trait" : "");
-    if (eyebrow) p.push('<div class="sb__feat-eyebrow">' + dia + esc(eyebrow) + "</div>");
+    if (eyebrow) p.push('<div class="sb__feat-eyebrow">' + dia + rich(eyebrow) + "</div>");
     p.push('<h3 class="sb__feat-name sc-ability__name">' + esc(f.name) + "</h3>");
     p.push("</div>");
     p.push('<div class="sb__feat-corner">' + costBadge(f.cost) + "</div>");
@@ -120,7 +120,7 @@
           return '<span class="sc-ability__chip">' + esc(k) + "</span>";
         }).join("")));
       }
-      if (f.usage) p.push(specField("usage", "Action", esc(f.usage)));
+      if (f.usage) p.push(specField("usage", "Action", rich(f.usage)));
       p.push("</div>");
     }
 
