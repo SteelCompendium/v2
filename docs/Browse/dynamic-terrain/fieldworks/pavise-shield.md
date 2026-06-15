@@ -2,8 +2,8 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a pavise shield controlled by another creature can make a **Might test**.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a pavise shield controlled by another creature can make a **Might test**.
       name: Deactivate
       power_roll:
         tiers:
@@ -51,8 +51,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a pavise shield controlled by another creature can make a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature controlling the shield retains control of it and can make an <a href="../../../rule/combat/opportunity-attack/">opportunity attack</a> against the creature making the test.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature controlling the shield retains control of it.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature making the test grabs the shield and takes control of it.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a pavise shield controlled by another creature can make a <b>Might test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Controlling the Shield</h3><div class="fb__feat-corner"></div></div>

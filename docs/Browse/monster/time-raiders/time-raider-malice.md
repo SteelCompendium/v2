@@ -20,9 +20,9 @@ features:
       cost: 5 Malice
       icon: ⭐️
       name: Recall Module
-    - body: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest [Stamina](../../rule/health/stamina.md) maximum drops to 0 [Stamina](../../rule/health/stamina.md) or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
-      cost: 10 Malice
+    - cost: 10 Malice
       icon: "\U0001F300"
+      intro: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest [Stamina](../../rule/health/stamina.md) maximum drops to 0 [Stamina](../../rule/health/stamina.md) or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
       name: Psi-Cage
       power_roll:
         tiers:
@@ -60,8 +60,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Psi-Cage</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-intro">All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest <a href="../../../rule/health/stamina/">Stamina</a> maximum drops to 0 <a href="../../../rule/health/stamina/">Stamina</a> or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a <b>Reason test</b> against this psionic effect at the start of each round.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest <a href="../../../rule/health/stamina/">Stamina</a> maximum drops to 0 <a href="../../../rule/health/stamina/">Stamina</a> or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a <b>Reason test</b> against this psionic effect at the start of each round.</div>
 </article>
 </div>
 </article>

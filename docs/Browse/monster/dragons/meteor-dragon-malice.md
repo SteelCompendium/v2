@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: ☠️
       name: Solo Action
-    - body: The dragon drops stars into five 2 cubes anywhere on the encounter map. The area is [difficult terrain](../../movement/difficult-terrain.md), and each creature and object in the area when it appears makes an **Agility test**.
-      cost: 5 Malice
+    - cost: 5 Malice
       icon: "\U0001F533"
+      intro: The dragon drops stars into five 2 cubes anywhere on the encounter map. The area is [difficult terrain](../../movement/difficult-terrain.md), and each creature and object in the area when it appears makes an **Agility test**.
       name: Starfall
       power_roll:
         tiers:
@@ -52,8 +52,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Starfall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-intro">The dragon drops stars into five 2 cubes anywhere on the encounter map. The area is <a href="../../../movement/difficult-terrain/">difficult terrain</a>, and each creature and object in the area when it appears makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">20 holy damage; <a href="../../../condition/slowed/">slowed</a> (save ends), <a href="../../../condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 holy damage; <a href="../../../condition/slowed/">slowed</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 holy damage</span></div></div></div>
-<div class="fb__feat-body">The dragon drops stars into five 2 cubes anywhere on the encounter map. The area is <a href="../../../movement/difficult-terrain/">difficult terrain</a>, and each creature and object in the area when it appears makes an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Event Horizon</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>

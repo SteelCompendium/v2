@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: ⭐️
       name: Duplicate
-    - body: Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a **Reason test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: ❇️
+      intro: Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a **Reason test**.
       name: Everything the Light Touches
       power_roll:
         tiers:
@@ -48,8 +48,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Everything the Light Touches</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a <b>Reason test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (save ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a <b>Reason test</b>.</div>
 </article>
 </div>
 </article>

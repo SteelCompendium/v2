@@ -14,9 +14,9 @@ features:
       cost: 5 Malice
       icon: "\U0001F533"
       name: Stone Pillars
-    - body: The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a **Might test**.
-      cost: 10 Malice
+    - cost: 10 Malice
       icon: "\U0001F300"
+      intro: The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a **Might test**.
       name: Choking Dust
       power_roll:
         tiers:
@@ -56,8 +56,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Choking Dust</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-intro">The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Until the end of the enemy&#39;s next turn, their <a href="../../../rule/character/stability/">stability</a> is reduced to 0, and any <a href="../../../movement/forced-movement/">forced movement</a> effects targeting them gain a +2 bonus to the distance moved.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The enemy&#39;s <a href="../../../rule/character/stability/">stability</a> is halved (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a <b>Might test</b>.</div>
 </article>
 </div>
 </article>

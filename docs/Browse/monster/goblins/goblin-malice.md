@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: ❇️
       name: Tiny Stabs
-    - body: The encounter map is covered in a green mist that lasts until the end of the round, and which can't be dispersed by wind. All areas of the map are [difficult terrain](../../movement/difficult-terrain.md) for non-goblins, and each non-goblin on the map makes a **Might test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: "\U0001F300"
+      intro: The encounter map is covered in a green mist that lasts until the end of the round, and which can't be dispersed by wind. All areas of the map are [difficult terrain](../../movement/difficult-terrain.md) for non-goblins, and each non-goblin on the map makes a **Might test**.
       name: Swamp Stink
       power_roll:
         tiers:
@@ -48,8 +48,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Swamp Stink</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">The encounter map is covered in a green mist that lasts until the end of the round, and which can&#39;t be dispersed by wind. All areas of the map are <a href="../../../movement/difficult-terrain/">difficult terrain</a> for non-goblins, and each non-goblin on the map makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 poison damage; the creature is <a href="../../../condition/weakened/">weakened</a> until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature is <a href="../../../condition/weakened/">weakened</a> until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">The encounter map is covered in a green mist that lasts until the end of the round, and which can&#39;t be dispersed by wind. All areas of the map are <a href="../../../movement/difficult-terrain/">difficult terrain</a> for non-goblins, and each non-goblin on the map makes a <b>Might test</b>.</div>
 </article>
 </div>
 </article>

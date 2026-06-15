@@ -2,8 +2,8 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: A creature who has the [Psionics](../../skill/lore/psionics.md) skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: A creature who has the [Psionics](../../skill/lore/psionics.md) skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.
       name: Deactivate
       power_roll:
         tiers:
@@ -51,8 +51,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">A creature who has the <a href="../../../skill/lore/psionics/">Psionics</a> skill can deactivate and take control of the chronal hypercube by making a <b>Reason test</b> while within 10 squares of the hypercube.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 1d6 psychic damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to deactivate the hypercube.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hypercube <a href="../../../movement/teleport/">teleports</a> <a href="../../../rule/combat/adjacent/">adjacent</a> to the creature at the start of the next round and becomes an ally to the creature and their allies.</span></div></div></div>
-<div class="fb__feat-body">A creature who has the <a href="../../../skill/lore/psionics/">Psionics</a> skill can deactivate and take control of the chronal hypercube by making a <b>Reason test</b> while within 10 squares of the hypercube.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Dimensional Flicker</h3><div class="fb__feat-corner"></div></div>

@@ -6,9 +6,9 @@ features:
       cost: 3 Malice
       icon: ⭐️
       name: Black Skies
-    - body: The dragon [flies](../../movement/fly.md) up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura [trait](../../rule/monster/monster-trait.md) makes a **Presence test**.
-      cost: 5 Malice
+    - cost: 5 Malice
       icon: ❇️
+      intro: The dragon [flies](../../movement/fly.md) up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura [trait](../../rule/monster/monster-trait.md) makes a **Presence test**.
       name: Rise and Fall
       power_roll:
         tiers:
@@ -48,8 +48,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Rise and Fall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-intro">The dragon <a href="../../../movement/fly/">flies</a> up to 10 squares and carries fated souls with them. Each creature in the area of the dragon&#39;s Stagnant Wyrmscale Aura <a href="../../../rule/monster/monster-trait/">trait</a> makes a <b>Presence test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical pull 10</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical pull 6</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical pull 4</span></div></div></div>
-<div class="fb__feat-body">The dragon <a href="../../../movement/fly/">flies</a> up to 10 squares and carries fated souls with them. Each creature in the area of the dragon&#39;s Stagnant Wyrmscale Aura <a href="../../../rule/monster/monster-trait/">trait</a> makes a <b>Presence test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>

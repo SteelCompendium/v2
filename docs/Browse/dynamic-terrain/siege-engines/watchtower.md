@@ -8,8 +8,8 @@ features:
     - body: Creatures who have access to the watchtower's interior ladders or stairs have [high ground](../../movement/high-ground.md) and [cover](../../rule/combat/cover.md) against creatures outside the watchtower.
       icon: ⭐️
       name: High Ground and Cover
-    - body: A creature outside and [adjacent](../../rule/combat/adjacent.md) to the watchtower can gain access to the interior by climbing it as an **Agility test** or breaking into it with a **Might test**.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: A creature outside and [adjacent](../../rule/combat/adjacent.md) to the watchtower can gain access to the interior by climbing it as an **Agility test** or breaking into it with a **Might test**.
       name: Getting Inside
       power_roll:
         tiers:
@@ -71,8 +71,8 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Getting Inside</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">A creature outside and <a href="../../../rule/combat/adjacent/">adjacent</a> to the watchtower can gain access to the interior by climbing it as an <b>Agility test</b> or breaking into it with a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1d6 damage; the creature remains outside the watchtower</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature remains outside the watchtower.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature gains access to the watchtower.</span></div></div></div>
-<div class="fb__feat-body">A creature outside and <a href="../../../rule/combat/adjacent/">adjacent</a> to the watchtower can gain access to the interior by climbing it as an <b>Agility test</b> or breaking into it with a <b>Might test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>

@@ -2,9 +2,9 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: Each orc [shifts](../../movement/shifting.md) up to their speed, moving through enemy spaces if they can. Each enemy passed through during this movement makes a **Might test**.
-      cost: 3 Malice
+    - cost: 3 Malice
       icon: ⭐️
+      intro: Each orc [shifts](../../movement/shifting.md) up to their speed, moving through enemy spaces if they can. Each enemy passed through during this movement makes a **Might test**.
       name: Overwhelming March
       power_roll:
         tiers:
@@ -15,9 +15,9 @@ features:
       cost: 5 Malice
       icon: "\U0001F533"
       name: Mohler Trench
-    - body: The ground shakes as a group of mohlers dig a 5 cube pit beneath an area where at least one creature is on the ground. The area is [difficult terrain](../../movement/difficult-terrain.md). Each orc in the area can [shift](../../movement/shifting.md) into the nearest unoccupied space outside the pit before it is completed. Each nonorc in the area makes an **Agility test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: "\U0001F533"
+      intro: The ground shakes as a group of mohlers dig a 5 cube pit beneath an area where at least one creature is on the ground. The area is [difficult terrain](../../movement/difficult-terrain.md). Each orc in the area can [shift](../../movement/shifting.md) into the nearest unoccupied space outside the pit before it is completed. Each nonorc in the area makes an **Agility test**.
       name: Mohler Cavity
       power_roll:
         tiers:
@@ -45,8 +45,8 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Overwhelming March</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-intro">Each orc <a href="../../../movement/shifting/">shifts</a> up to their speed, moving through enemy spaces if they can. Each enemy passed through during this movement makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; <a href="../../../condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; <a href="../../../condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../movement/forced-movement/">Push</a> 2</span></div></div></div>
-<div class="fb__feat-body">Each orc <a href="../../../movement/shifting/">shifts</a> up to their speed, moving through enemy spaces if they can. Each enemy passed through during this movement makes a <b>Might test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Mohler Trench</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
@@ -54,8 +54,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Mohler Cavity</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">The ground shakes as a group of mohlers dig a 5 cube pit beneath an area where at least one creature is on the ground. The area is <a href="../../../movement/difficult-terrain/">difficult terrain</a>. Each orc in the area can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the pit before it is completed. Each nonorc in the area makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; the target falls; <a href="../../../condition/prone/">prone</a> and can&#39;t stand (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; the target falls</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the pit.</span></div></div></div>
-<div class="fb__feat-body">The ground shakes as a group of mohlers dig a 5 cube pit beneath an area where at least one creature is on the ground. The area is <a href="../../../movement/difficult-terrain/">difficult terrain</a>. Each orc in the area can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the pit before it is completed. Each nonorc in the area makes an <b>Agility test</b>.</div>
 </article>
 </div>
 </article>

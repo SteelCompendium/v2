@@ -2,17 +2,15 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: |-
-        As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an exploding mill wheel that isn't rolling can make an **Agility test**.
-
-        Once the wheel is rolling, it can't be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an exploding mill wheel that isn't rolling can make an **Agility test**.
       name: Deactivate
       power_roll:
         tiers:
             high: The exploding mill wheel is deactivated and can't be used.
             low: The creature accidentally activates the **Roll the Wheel** ability.
             mid: The exploding mill wheel is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+      trailing: Once the wheel is rolling, it can't be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.
     - distance: Special
       icon: "\U0001F300"
       keywords:
@@ -30,19 +28,18 @@ features:
       target: Each creature and object in the area
       trailing: If the wheel enters the space of any creature or object of size 3 or larger, or if it is reduced to 0 [Stamina](../../rule/health/stamina.md), its movement stops and it explodes. Each creature and object in a 5 burst centered on the wheel is targeted by the following power roll. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
       usage: Main action (Adjacent creature)
-    - body: |-
+    - icon: ⭐️
+      intro: |-
         **Piloted (+4 EV)** The wheel has been fitted with a control mechanism and a pilot's seat for a creature of size 1M or smaller. As a move action, the pilot can turn the wheel in any direction while it is moving. As a main action, the pilot can leap out of the pilot's seat, landing in an [adjacent](../../rule/combat/adjacent.md) space while the wheel continues moving in a straight line.
 
         Without proper training, determining how to pilot the wheel requires a **Reason test**.
-
-        On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.
-      icon: ⭐️
       name: Upgrade
       power_roll:
         tiers:
             high: The creature can pilot the wheel.
             low: The wheel immediately explodes as if striking a size 3 or larger creature or object.
             mid: The creature fails to pilot the wheel.
+      trailing: On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.
 flavor: A massive wooden wheel is loaded with explosives and rolled toward enemy forces or fortifications, ready to explode.
 level: 3
 name: Exploding Mill Wheel
@@ -78,10 +75,9 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to an exploding mill wheel that isn&#39;t rolling can make an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Roll the Wheel</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The exploding mill wheel is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The exploding mill wheel is deactivated and can&#39;t be used.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to an exploding mill wheel that isn&#39;t rolling can make an <b>Agility test</b>.
-
-Once the wheel is rolling, it can&#39;t be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.</div>
+<div class="fb__feat-trailing">Once the wheel is rolling, it can&#39;t be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Roll the Wheel</h3><div class="fb__feat-corner"></div></div>
@@ -93,12 +89,11 @@ Once the wheel is rolling, it can&#39;t be deactivated. However, it can be explo
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro"><b>Piloted (+4 EV)</b> The wheel has been fitted with a control mechanism and a pilot&#39;s seat for a creature of size 1M or smaller. As a move action, the pilot can turn the wheel in any direction while it is moving. As a main action, the pilot can leap out of the pilot&#39;s seat, landing in an <a href="../../../rule/combat/adjacent/">adjacent</a> space while the wheel continues moving in a straight line.
+
+Without proper training, determining how to pilot the wheel requires a <b>Reason test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The wheel immediately explodes as if striking a size 3 or larger creature or object.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to pilot the wheel.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature can pilot the wheel.</span></div></div></div>
-<div class="fb__feat-body"><b>Piloted (+4 EV)</b> The wheel has been fitted with a control mechanism and a pilot&#39;s seat for a creature of size 1M or smaller. As a move action, the pilot can turn the wheel in any direction while it is moving. As a main action, the pilot can leap out of the pilot&#39;s seat, landing in an <a href="../../../rule/combat/adjacent/">adjacent</a> space while the wheel continues moving in a straight line.
-
-Without proper training, determining how to pilot the wheel requires a <b>Reason test</b>.
-
-On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.</div>
+<div class="fb__feat-trailing">On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.</div>
 </article>
 </div>
 </article>

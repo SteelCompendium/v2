@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: "\U0001F464"
       name: Cut the... Nonsense!
-    - body: All minotaurs in the encounter fill the area around them with psychic impressions of feeling lost and isolated. Each enemy within 5 squares of a minotaur is [teleported](../../movement/teleport.md) up to 5 squares and makes an **Intuition test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: ❇️
+      intro: All minotaurs in the encounter fill the area around them with psychic impressions of feeling lost and isolated. Each enemy within 5 squares of a minotaur is [teleported](../../movement/teleport.md) up to 5 squares and makes an **Intuition test**.
       name: Bullseye
       power_roll:
         tiers:
@@ -48,8 +48,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Bullseye</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">All minotaurs in the encounter fill the area around them with psychic impressions of feeling lost and isolated. Each enemy within 5 squares of a minotaur is <a href="../../../movement/teleport/">teleported</a> up to 5 squares and makes an <b>Intuition test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target has line of effect only within 3 squares and is <a href="../../../condition/frightened/">frightened</a> of all minotaurs (save ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target has line of effect only within 3 squares (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">All minotaurs in the encounter fill the area around them with psychic impressions of feeling lost and isolated. Each enemy within 5 squares of a minotaur is <a href="../../../movement/teleport/">teleported</a> up to 5 squares and makes an <b>Intuition test</b>.</div>
 </article>
 </div>
 </article>

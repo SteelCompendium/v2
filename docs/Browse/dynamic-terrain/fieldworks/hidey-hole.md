@@ -2,8 +2,8 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a hidey-hole can make a **Might test**.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a hidey-hole can make a **Might test**.
       name: Deactivate
       power_roll:
         tiers:
@@ -54,8 +54,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a hidey-hole can make a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature is <a href="../../../condition/restrained/">restrained</a> (<a href="../../../rule/general/saving-throw/">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hidey-hole collapses but the creature is <a href="../../../condition/slowed/">slowed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hidey-hole collapses and can no longer be used until repaired.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a hidey-hole can make a <b>Might test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>

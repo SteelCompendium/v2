@@ -2,9 +2,9 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: One troll acting this turn spews out a half-digested meal in a 5 x 1 line within 1 square of them. Each troll in the area regains 3 [Stamina](../../rule/health/stamina.md). Each enemy in the area makes a **Might test**.
-      cost: 3 Malice
+    - cost: 3 Malice
       icon: "\U0001F533"
+      intro: One troll acting this turn spews out a half-digested meal in a 5 x 1 line within 1 square of them. Each troll in the area regains 3 [Stamina](../../rule/health/stamina.md). Each enemy in the area makes a **Might test**.
       name: Foul Spew
       power_roll:
         tiers:
@@ -40,8 +40,8 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Foul Spew</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-intro">One troll acting this turn spews out a half-digested meal in a 5 x 1 line within 1 square of them. Each troll in the area regains 3 <a href="../../../rule/health/stamina/">Stamina</a>. Each enemy in the area makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 acid damage; <a href="../../../condition/dazed/">dazed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 acid damage; <a href="../../../condition/weakened/">weakened</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 acid damage</span></div></div></div>
-<div class="fb__feat-body">One troll acting this turn spews out a half-digested meal in a 5 x 1 line within 1 square of them. Each troll in the area regains 3 <a href="../../../rule/health/stamina/">Stamina</a>. Each enemy in the area makes a <b>Might test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><h3 class="fb__feat-name sc-ability__name">Emergency Meal</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>

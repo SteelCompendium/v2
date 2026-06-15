@@ -27,12 +27,12 @@ features:
       cost: 5 Malice
       icon: ⭐️
       name: Rat Race
-    - body: |-
+    - cost: 7 Malice
+      icon: "\U0001F533"
+      intro: |-
         A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn't block [line of effect](../../rule/combat/line-of-effect.md) for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 [Stamina](../../rule/health/stamina.md).
 
         If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.
-      cost: 7 Malice
-      icon: "\U0001F533"
       name: Rally the Rodents
       power_roll:
         tiers:
@@ -72,10 +72,10 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Rally the Rodents</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; the target can&#39;t take a respite activity during their next respite</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block <a href="../../../rule/combat/line-of-effect/">line of effect</a> for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 <a href="../../../rule/health/stamina/">Stamina</a>.
+<div class="fb__feat-intro">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block <a href="../../../rule/combat/line-of-effect/">line of effect</a> for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 <a href="../../../rule/health/stamina/">Stamina</a>.
 
 If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; the target can&#39;t take a respite activity during their next respite</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 </article>
 </div>
 </article>

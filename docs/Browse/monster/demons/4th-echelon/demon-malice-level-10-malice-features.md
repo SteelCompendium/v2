@@ -6,9 +6,9 @@ features:
       cost: 3-7 Malice
       icon: ⭐️
       name: Prior Malice Features
-    - body: One demon acting this turn unleashes their pent-up agony and pain on every non-demon in a 5 burst. Each target makes a **Presence test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: ❇️
+      intro: One demon acting this turn unleashes their pent-up agony and pain on every non-demon in a 5 burst. Each target makes a **Presence test**.
       name: Soul Flense
       power_roll:
         tiers:
@@ -44,9 +44,9 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Soul Flense</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">One demon acting this turn unleashes their pent-up agony and pain on every non-demon in a 5 burst. Each target makes a <b>Presence test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 corruption damage; the target is soul flensed</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target is soul flensed</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The demon removes all <a href="../../../../rule/combat/condition/">conditions</a> and effects on themself that can be ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a>, and transfers all those effects to each creature soul flensed this way.</p></div></div>
-<div class="fb__feat-body">One demon acting this turn unleashes their pent-up agony and pain on every non-demon in a 5 burst. Each target makes a <b>Presence test</b>.</div>
 </article>
 </div>
 </article>

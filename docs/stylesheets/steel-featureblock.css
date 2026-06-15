@@ -172,9 +172,10 @@
 .fb__feat .sc-ability__pr { margin-top: .7rem; }
 .fb__feat .sc-ability__section { margin-top: .65rem; }
 .fb__feat .sc-ability__enh { margin-top: .85rem; }
-.fb__feat-body, .fb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .5rem 0 0; }
-.fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: var(--md-typeset-a-color); text-decoration: none; }
-.fb__feat-body a:hover, .fb__feat-trailing a:hover, .fb__feat .sc-ability__section-body a:hover, .fb__feat .res a:hover { text-decoration: underline; }
+.fb__feat-intro, .fb__feat-body, .fb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .5rem 0 0; }
+.fb__feat-intro { margin-bottom: .65rem; }
+.fb__feat-intro a, .fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: var(--md-typeset-a-color); text-decoration: none; }
+.fb__feat-intro a:hover, .fb__feat-body a:hover, .fb__feat-trailing a:hover, .fb__feat .sc-ability__section-body a:hover, .fb__feat .res a:hover { text-decoration: underline; }
 
 /* ── advancement bands: fixture / retainer "Level N" feature groups ──
    A contiguous run of features sharing a Level > 0, grouped under a small

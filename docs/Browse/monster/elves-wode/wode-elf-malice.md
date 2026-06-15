@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: ⭐️
       name: Punishing Regrowth
-    - body: Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: "\U0001F300"
+      intro: Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an **Agility test**.
       name: Vines Everywhere
       power_roll:
         tiers:
@@ -48,8 +48,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Vines Everywhere</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; <a href="../../../condition/restrained/">restrained</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../condition/restrained/">Restrained</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">Vines rapidly grow across the entire encounter map. Each enemy in the encounter makes an <b>Agility test</b>.</div>
 </article>
 </div>
 </article>

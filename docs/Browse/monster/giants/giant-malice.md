@@ -24,9 +24,9 @@ features:
       cost: 5 Malice
       icon: ❇️
       name: Bellow
-    - body: A giant creates a fissure along the ground, either in a 15 x 2 line within 1 or a 10 x 3 line within 2, and that opens up to a depth of 6 squares. Each giant in the area can [shift](../../movement/shifting.md) into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an **Agility test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: "\U0001F533"
+      intro: A giant creates a fissure along the ground, either in a 15 x 2 line within 1 or a 10 x 3 line within 2, and that opens up to a depth of 6 squares. Each giant in the area can [shift](../../movement/shifting.md) into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an **Agility test**.
       name: Titanic Tear
       power_roll:
         tiers:
@@ -65,8 +65,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Titanic Tear</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">A giant creates a fissure along the ground, either in a 15 x 2 line within 1 or a 10 x 3 line within 2, and that opens up to a depth of 6 squares. Each giant in the area can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 damage; the target falls into the fissure, and is <a href="../../../condition/prone/">prone</a> and can&#39;t stand (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; the target is <a href="../../../condition/prone/">prone</a> and hanging onto the edge of the fissure</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the fissure.</span></div></div></div>
-<div class="fb__feat-body">A giant creates a fissure along the ground, either in a 15 x 2 line within 1 or a 10 x 3 line within 2, and that opens up to a depth of 6 squares. Each giant in the area can <a href="../../../movement/shifting/">shift</a> into the nearest unoccupied space outside the fissure. Each non-giant in the area makes an <b>Agility test</b>.</div>
 </article>
 </div>
 </article>

@@ -2,8 +2,8 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an arrow launcher can make an **Agility test**.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an arrow launcher can make an **Agility test**.
       name: Deactivate
       power_roll:
         tiers:
@@ -117,8 +117,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to an arrow launcher can make an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arrow Storm</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The arrow launcher is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The arrow launcher is deactivated and can&#39;t be used.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to an arrow launcher can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Arrow Storm</h3><div class="fb__feat-corner"></div></div>

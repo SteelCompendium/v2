@@ -10,9 +10,9 @@ features:
       cost: 3 Malice
       icon: "\U0001F300"
       name: Paranormal Fling
-    - body: Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn [adjacent](../../../rule/combat/adjacent.md) to an affected square makes an **Agility test**.
-      cost: 5 Malice
+    - cost: 5 Malice
       icon: "\U0001F533"
+      intro: Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn [adjacent](../../../rule/combat/adjacent.md) to an affected square makes an **Agility test**.
       name: The Grasping, the Hungry
       power_roll:
         tiers:
@@ -56,9 +56,9 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">The Grasping, the Hungry</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-intro">Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn <a href="../../../../rule/combat/adjacent/">adjacent</a> to an affected square makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; <a href="../../../../condition/restrained/">restrained</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, a creature takes 1d6 damage at the start of each of their turns.</p></div></div>
-<div class="fb__feat-body">Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn <a href="../../../../rule/combat/adjacent/">adjacent</a> to an affected square makes an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Dread March</h3><div class="fb__feat-corner"><div class="sc-ability__cost">7+ Malice</div></div></div>

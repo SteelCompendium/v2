@@ -2,8 +2,8 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to the black obelisk can make a **Reason test**.
-      icon: "\U0001F300"
+    - icon: "\U0001F300"
+      intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to the black obelisk can make a **Reason test**.
       name: Deactivate
       power_roll:
         tiers:
@@ -70,8 +70,8 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to the black obelisk can make a <b>Reason test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Your Fears Become Manifest</b> ability, which gains an edge.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature must make another test to deactivate the obelisk. If they obtain this outcome a second time, they accidentally activate <b>Your Fears Become Manifest</b>.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The obelisk is deactivated until the end of the encounter.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to the black obelisk can make a <b>Reason test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>

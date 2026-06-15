@@ -40,9 +40,9 @@ features:
           text: At a time of the medusa's choosing, a charmed creature moves up to their speed and makes a [free strike](../../feature/common/main-actions/free-strike.md) against an enemy of the medusa's choice as a free triggered action. The creature is then no longer charmed.
       target: Three creatures
       usage: Main action
-    - body: The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a **Might test**. An enemy [restrained](../../condition/restrained.md) or [slowed](../../condition/slowed.md) by the medusa's Petrify ability has a double bane on the test.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: "\U0001F533"
+      intro: The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a **Might test**. An enemy [restrained](../../condition/restrained.md) or [slowed](../../condition/slowed.md) by the medusa's Petrify ability has a double bane on the test.
       name: Shatter Victims
       power_roll:
         tiers:
@@ -87,8 +87,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Shatter Victims</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a <b>Might test</b>. An enemy <a href="../../../condition/restrained/">restrained</a> or <a href="../../../condition/slowed/">slowed</a> by the medusa&#39;s Petrify ability has a double bane on the test.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3; <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div></div></div>
-<div class="fb__feat-body">The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a <b>Might test</b>. An enemy <a href="../../../condition/restrained/">restrained</a> or <a href="../../../condition/slowed/">slowed</a> by the medusa&#39;s Petrify ability has a double bane on the test.</div>
 </article>
 </div>
 </article>

@@ -10,9 +10,9 @@ features:
       cost: 5 Malice
       icon: ☠️
       name: Solo Action
-    - body: The manticore lets out an unnerving cry. Each enemy within the manticore's line of effect makes an **Intuition test**.
-      cost: 5 Malice
+    - cost: 5 Malice
       icon: "\U0001F300"
+      intro: The manticore lets out an unnerving cry. Each enemy within the manticore's line of effect makes an **Intuition test**.
       name: Desperate Howl
       power_roll:
         tiers:
@@ -52,8 +52,8 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Desperate Howl</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-intro">The manticore lets out an unnerving cry. Each enemy within the manticore&#39;s line of effect makes an <b>Intuition test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../condition/frightened/">Frightened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../condition/frightened/">Frightened</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
-<div class="fb__feat-body">The manticore lets out an unnerving cry. Each enemy within the manticore&#39;s line of effect makes an <b>Intuition test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Barrage of Barbs</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

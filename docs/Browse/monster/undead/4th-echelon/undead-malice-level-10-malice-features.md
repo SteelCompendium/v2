@@ -6,9 +6,9 @@ features:
       cost: 2-7+ Malice
       icon: ⭐️
       name: Prior Malice Features
-    - body: The [undead](../../../rule/keyword/undead.md) attempts to rend the vitality of their foes. Each enemy within 5 squares of the [undead](../../../rule/keyword/undead.md) makes a **Might test**.
-      cost: 7 Malice
+    - cost: 7 Malice
       icon: ❇️
+      intro: The [undead](../../../rule/keyword/undead.md) attempts to rend the vitality of their foes. Each enemy within 5 squares of the [undead](../../../rule/keyword/undead.md) makes a **Might test**.
       name: Death Tax
       power_roll:
         tiers:
@@ -46,10 +46,10 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Death Tax</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-intro">The <a href="../../../../rule/keyword/undead/">undead</a> attempts to rend the vitality of their foes. Each enemy within 5 squares of the <a href="../../../../rule/keyword/undead/">undead</a> makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 corruption damage; the target loses 2 <a href="../../../../rule/health/recoveries/">Recoveries</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 corruption damage; the target loses 1 <a href="../../../../rule/health/recoveries/">Recovery</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 corruption damage</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A target who has fewer <a href="../../../../rule/health/recoveries/">Recoveries</a> than they would lose is also <a href="../../../../condition/weakened/">weakened</a> (save ends).</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used by a <a href="../../../../rule/organization/minion/">minion</a>.</p></div></div>
-<div class="fb__feat-body">The <a href="../../../../rule/keyword/undead/">undead</a> attempts to rend the vitality of their foes. Each enemy within 5 squares of the <a href="../../../../rule/keyword/undead/">undead</a> makes a <b>Might test</b>.</div>
 </article>
 </div>
 </article>

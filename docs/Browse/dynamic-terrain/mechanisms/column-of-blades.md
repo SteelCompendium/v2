@@ -56,8 +56,8 @@ features:
           text: A creature or object moves within distance of the column.
       target: The triggering creature or object
       usage: Free triggered action
-    - body: Allies who [shift](../../movement/shifting.md) don't trigger the column. A creature observing an ally [shift](../../movement/shifting.md) this way can make an **Intuition test** to [shift](../../movement/shifting.md) in imitation of their movements.
-      icon: ⭐️
+    - icon: ⭐️
+      intro: Allies who [shift](../../movement/shifting.md) don't trigger the column. A creature observing an ally [shift](../../movement/shifting.md) this way can make an **Intuition test** to [shift](../../movement/shifting.md) in imitation of their movements.
       name: Allied Awareness
       power_roll:
         formula: + 2
@@ -133,8 +133,8 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">Allies who <a href="../../../movement/shifting/">shift</a> don&#39;t trigger the column. A creature observing an ally <a href="../../../movement/shifting/">shift</a> this way can make an <b>Intuition test</b> to <a href="../../../movement/shifting/">shift</a> in imitation of their movements.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the column and the column&#39;s ability gains an edge.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature triggers the column.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature doesn&#39;t trigger the column.</span></div></div></div>
-<div class="fb__feat-body">Allies who <a href="../../../movement/shifting/">shift</a> don&#39;t trigger the column. A creature observing an ally <a href="../../../movement/shifting/">shift</a> this way can make an <b>Intuition test</b> to <a href="../../../movement/shifting/">shift</a> in imitation of their movements.</div>
 </article>
 </div>
 </article>
