@@ -530,6 +530,19 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   align-items: start; list-style: none;
 }
 
+/* Companion group landing: the base↔advancement pair grid (.sc-cards--pairs,
+   steel-redesign.css) doubles as a .sb-prev preview grid, so it also carries
+   .sb-cards (for the zone-toggle JS + CSS). Keep the 2-up pair template instead
+   of .sb-cards' auto-fill columns; top-align the tall preview against the short
+   advancement card. Collapses to one column on phones (matches .sc-cards--pairs). */
+.md-typeset .sc-cards--pairs.sb-cards {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+}
+@media (max-width: 44.9375em) {
+  .md-typeset .sc-cards--pairs.sb-cards { grid-template-columns: 1fr; }
+}
+
 .sb-wrap.sb-prev { max-width: none; margin: 0; --pad: .9rem; isolation: isolate; }
 .sb-prev .sb { box-shadow: var(--fx-bevel), 0 4px 12px rgba(0,0,0,.28); transition: border-color .15s ease; }
 .sb-prev:hover .sb,
