@@ -505,3 +505,15 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   .sb__band[data-open="false"] .sb__band-body { display: flex !important; }
   .sb__stat, .sb__chars, .sb__field, .sb__feat, .sb__feat .sc-ability__pr, .sb__feat .sc-ability__section { background: none !important; }
 }
+
+/* Back-link from a summon statblock to the Rival Summoner that conjures it
+   (steel-etl augmentRivalSummonerPages). Sits above the .sb-wrap card. */
+.sb-backlink {
+  font-size: 0.85rem;
+  font-style: italic;
+  margin: 0 0 0.75rem;
+  opacity: 0.85;
+}
+.sb-backlink a {
+  font-weight: 600;
+}
