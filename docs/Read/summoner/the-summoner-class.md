@@ -431,7 +431,7 @@ Your portfolio comprises the minions you've learned to summon. Each summoner cir
 
 Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
-###### Ensnarer {data-scc="mcdm.summoner.v1/minion.demon.statblock/ensnarer"}
+###### Ensnarer {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/ensnarer"}
 
 This vaguely humanoid form is warped and distorted by a demon nestled inside them. They extend long tongues from multiple orifices to drag victims in close.
 
@@ -449,7 +449,7 @@ This vaguely humanoid form is warped and distorted by a demon nestled inside the
 >
 > Each creature adjacent to the ensnarer can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
-###### Rasquine {data-scc="mcdm.summoner.v1/minion.demon.statblock/rasquine"}
+###### Rasquine {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/rasquine"}
 
 The rasquine are skulking demons that shimmer in the light. They teleport into position before biting the necks of their prey.
 
@@ -467,7 +467,7 @@ The rasquine are skulking demons that shimmer in the light. They teleport into p
 >
 > Each creature adjacent to the rasquine can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
-###### Razor {data-scc="mcdm.summoner.v1/minion.demon.statblock/razor"}
+###### Razor {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/razor"}
 
 Razors appear to be a diminutive variant of the ruinant demon. Their bodies are swift, tumbling mounds of scarred flesh and deadly claws.
 
@@ -489,7 +489,7 @@ Razors appear to be a diminutive variant of the ruinant demon. Their bodies are 
 
 Choose two of the following minions. You can use Call Forth to summon the listed number of 3-Essence minions for their essence cost.
 
-###### Archer Spittlich {data-scc="mcdm.summoner.v1/minion.demon.statblock/archer-spittlich"}
+###### Archer Spittlich {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/archer-spittlich"}
 
 These minor demons resemble larger pitlings. They can spit a nerve-numbing phlegm at long distance that makes it easy to catch their next meal.
 
@@ -507,7 +507,7 @@ These minor demons resemble larger pitlings. They can spit a nerve-numbing phleg
 >
 > Each creature adjacent to the spittlich can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
-###### Fanged Musilex {data-scc="mcdm.summoner.v1/minion.demon.statblock/fanged-musilex"}
+###### Fanged Musilex {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/fanged-musilex"}
 
 Ensnarers knot and twist their bodies together to form heaving, heavy musilexes. They're compelled to drag everything in toward their body.
 
@@ -525,7 +525,7 @@ Ensnarers knot and twist their bodies together to form heaving, heavy musilexes.
 >
 > Each creature adjacent to the musilex can't be [hidden](../../Browse/feature/common/maneuvers/hide.md) from them.
 
-###### Twisted Bengrul {data-scc="mcdm.summoner.v1/minion.demon.statblock/twisted-bengrul"}
+###### Twisted Bengrul {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/twisted-bengrul"}
 
 The bengrul is an undulating heap of glass and flesh. They shatter pieces of themselves to disrupt senses and inflict grisly wounds on their prey.
 
@@ -557,7 +557,7 @@ The bengrul is an undulating heap of glass and flesh. They shatter pieces of the
 
 You gain the elemental mote and can choose one of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
-###### Elemental Mote {data-scc="mcdm.summoner.v1/minion.elemental.statblock/elemental-mote"}
+###### Elemental Mote {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/elemental-mote"}
 
 This near-pure form of autonomous essence just barely maintains their form. They can shift their nature to match their surroundings.
 
@@ -577,7 +577,7 @@ This near-pure form of autonomous essence just barely maintains their form. They
 >
 > Alternatively, you can spend 1 essence to transform the mote into any [signature minion](../../Browse/feature/summoner/level-1/minions.md) in the elemental portfolio you don't have, as if you summoned the new minion into the mote's space.
 
-###### Brisk Gale {data-scc="mcdm.summoner.v1/minion.elemental.statblock/brisk-gale"}
+###### Brisk Gale {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/brisk-gale"}
 
 The gales are twisting ribbons of cloud and debris endlessly dancing in place. They disrupt the air and allow their allies to move freely.
 
@@ -595,7 +595,7 @@ The gales are twisting ribbons of cloud and debris endlessly dancing in place. T
 >
 > When the gale is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), winds whip in their space until the end of the encounter. You or an ally that enters this space or starts their turn there can immediately [shift](../../Browse/movement/shifting.md) (including vertically).
 
-###### Fire Plume {data-scc="mcdm.summoner.v1/minion.elemental.statblock/fire-plume"}
+###### Fire Plume {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/fire-plume"}
 
 A fire plume burns so bright that their true shape is hard to discern from the flames. They sputter and spit motes of fire in high arcs.
 
@@ -613,7 +613,7 @@ A fire plume burns so bright that their true shape is hard to discern from the f
 >
 > When the plume is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their space becomes wreathed in flames until the end of the encounter. An enemy that enters this space or starts their turn there takes 2 fire damage.
 
-###### Walking Boulder {data-scc="mcdm.summoner.v1/minion.elemental.statblock/walking-boulder"}
+###### Walking Boulder {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/walking-boulder"}
 
 These massive clods of animated stone roll upon smaller piles of rocks that could be perceived as limbs. Walking boulders are useful for taking up space and forming barricades.
 
@@ -639,7 +639,7 @@ These massive clods of animated stone roll upon smaller piles of rocks that coul
 
 Choose two of the following minions. You can use Call Forth to summon the listed number of 3-Essence minions for their essence cost.
 
-###### Crux of Ash {data-scc="mcdm.summoner.v1/minion.elemental.statblock/crux-of-ash"}
+###### Crux of Ash {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/crux-of-ash"}
 
 The crux is a curtain of billowing hot ash with an avian head. They cover their victims in a burning cloak of charcoal and soot.
 
@@ -657,7 +657,7 @@ The crux is a curtain of billowing hot ash with an avian head. They cover their 
 >
 > When the crux is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the crux is clouded by ash until it is dispersed by wind. You or any ally are [concealed](../../Browse/rule/combat/concealment.md) while occupying an affected square. An enemy can't establish [line of effect](../../Browse/rule/combat/line-of-effect.md) beyond the ash while occupying an affected square.
 
-###### Flow of Magma {data-scc="mcdm.summoner.v1/minion.elemental.statblock/flow-of-magma"}
+###### Flow of Magma {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/flow-of-magma"}
 
 This elemental is a long, serpentine creature of heated rock. Flows of magma drool trails of lava from their fangs after biting their prey.
 
@@ -685,7 +685,7 @@ This elemental is a long, serpentine creature of heated rock. Flows of magma dro
 >
 > When the flow is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they launch lava into an area equal to 1 + their size within 5 squares. The affected area becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that enters an affected square or starts their turn there takes A < AVERAGE 4 fire damage.
 
-###### Desolation of Sand {data-scc="mcdm.summoner.v1/minion.elemental.statblock/desolation-of-sand"}
+###### Desolation of Sand {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/desolation-of-sand"}
 
 The desolations have vaguely humanoid sand forms with no legs. Their glass hose “arms” shift and bristle before firing high pressure streams of sand at their foes.
 
@@ -711,7 +711,7 @@ The desolations have vaguely humanoid sand forms with no legs. Their glass hose 
 
 Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost.
 
-###### Nixie Soakreed {data-scc="mcdm.summoner.v1/minion.fey.statblock/nixie-soakreed"}
+###### Nixie Soakreed {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/nixie-soakreed"}
 
 These nixies are especially tiny. Their hair grows longer than their bodies and curls into reeds. The water soakreeds swim in tends to turn thick and cling to surfaces.
 
@@ -733,7 +733,7 @@ These nixies are especially tiny. Their hair grows longer than their bodies and 
 >
 > The soakreed has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Pixie Bellringer {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-bellringer"}
+###### Pixie Bellringer {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/pixie-bellringer"}
 
 The bellringers are glowing pixies that jingle as they fly. Historically, these pixies worked alongside bowman to ensure their arrows struck true.
 
@@ -755,7 +755,7 @@ The bellringers are glowing pixies that jingle as they fly. Historically, these 
 >
 > The bellringer has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Sprite Dandeknight {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-dandeknight"}
+###### Sprite Dandeknight {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/sprite-dandeknight"}
 
 Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. They're usually clad in tassels that shift color as they swing their weapons.
 
@@ -781,7 +781,7 @@ Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. T
 
 Choose two of the following minions. You can use Call Forth to summon the listed number of 3-Essence minions for their essence cost.
 
-###### Pixie Hydrain {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-hydrain"}
+###### Pixie Hydrain {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/pixie-hydrain"}
 
 This pixie flies on a delicate array of vibrant flower petals for wings. The color drains from their wings as they call forth acid rain showers.
 
@@ -809,7 +809,7 @@ This pixie flies on a delicate array of vibrant flower petals for wings. The col
 >
 > The hydrain has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Pixie Loftlilly {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-loftlilly"}
+###### Pixie Loftlilly {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/pixie-loftlilly"}
 
 Loftlillies lazily drift through the air in flower cups. They sip on toxic nectar to emit a powerful haze from their skin.
 
@@ -827,7 +827,7 @@ Loftlillies lazily drift through the air in flower cups. They sip on toxic necta
 >
 > The loftlilly has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Sprite Orchiguard {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-orchiguard"}
+###### Sprite Orchiguard {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/sprite-orchiguard"}
 
 The orchiguard is a sprite surrounded by a wheel of shields. They are usually crushed by the pressures of their own impenetrable defenses before ever being felled by enemy hands.
 
@@ -849,7 +849,7 @@ The orchiguard is a sprite surrounded by a wheel of shields. They are usually cr
 
 Select two of the following [signature minions](../../Browse/feature/summoner/level-1/minions.md). Signature minions are summoned at the start of combat and at the start of your turn for free. You can also use Call Forth to summon any number of signature minions for their essence cost. (Quick Build: Skeleton, Husk.)
 
-###### Husk {data-scc="mcdm.summoner.v1/minion.undead.statblock/husk"}
+###### Husk {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/husk"}
 
 Husks have stiff corpses that snap and crackle with each sudden movement. Corrosive breath endlessly billows from their slackjawed faces.
 
@@ -863,7 +863,7 @@ Husks have stiff corpses that snap and crackle with each sudden movement. Corros
 >
 > The husk's melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) inflict M < WEAK [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)). The [potency](../../Browse/rule/character/potency.md) increases by 1 for each additional husk adjacent to the target (maximum +2).
 
-###### Shrieker {data-scc="mcdm.summoner.v1/minion.undead.statblock/shrieker"}
+###### Shrieker {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/shrieker"}
 
 The shrieker expresses their unending pain in a way that can be heard and felt for miles. A white-hot fire smolders within each of their sunken eye sockets.
 
@@ -881,7 +881,7 @@ The shrieker expresses their unending pain in a way that can be heard and felt f
 >
 > Each enemy within 2 squares of the shrieker can't [hide](../../Browse/feature/common/maneuvers/hide.md) or be [hidden](../../Browse/feature/common/maneuvers/hide.md).
 
-###### Skeleton {data-scc="mcdm.summoner.v1/minion.undead.statblock/skeleton"}
+###### Skeleton {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/skeleton"}
 
 These autonomous bone networks fall just short of replicating the structure they had in life. Skeleton bones are especially brittle and can splinter into huge shards when met with enough force.
 
@@ -899,7 +899,7 @@ These autonomous bone networks fall just short of replicating the structure they
 
 Choose two of the following minions. You can use Call Forth to summon the listed number of 3-Essence minions for their essence cost. (Quick Build: Stalker Shade, Grave Knight.)
 
-###### Grave Knight {data-scc="mcdm.summoner.v1/minion.undead.statblock/grave-knight"}
+###### Grave Knight {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/grave-knight"}
 
 The grave knights are zombie warriors that continue to fight after death. Any blood spilled at a grave knight's hand runs pitch black.
 
@@ -925,7 +925,7 @@ The grave knights are zombie warriors that continue to fight after death. Any bl
 >
 > When the grave knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) before being destroyed.
 
-###### Stalker Shade {data-scc="mcdm.summoner.v1/minion.undead.statblock/stalker-shade"}
+###### Stalker Shade {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/stalker-shade"}
 
 Shades are a form of umbral stalker that float free from any floor or surface. They can bend their appearance to completely vanish in the light.
 
@@ -943,7 +943,7 @@ Shades are a form of umbral stalker that float free from any floor or surface. T
 >
 > The stalker shade can move through other creatures and objects at normal speed. The first time in a round that the stalker shade passes through a creature, that creature takes 2 corruption damage. The stalker shade doesn't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 
-###### Zombie Lumberer {data-scc="mcdm.summoner.v1/minion.undead.statblock/zombie-lumberer"}
+###### Zombie Lumberer {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/zombie-lumberer"}
 
 These massive, animated ogre corpses still maintain their incredible grip strength. When a lumberer falls, they'll take anything within reach down with them.
 
@@ -1239,7 +1239,7 @@ Your circle allows you to select new [minions](../../Browse/feature/summoner/lev
 
 Choose one of the following minions.
 
-###### Gushing Spewler {data-scc="mcdm.summoner.v1/minion.demon.statblock/gushing-spewler"}
+###### Gushing Spewler {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/gushing-spewler"}
 
 A spewler's mouth makes up most of its size. They unleash torrents of acid and bile from their pitless stomachs before consuming their prey with bag-like maws.
 
@@ -1261,7 +1261,7 @@ A spewler's mouth makes up most of its size. They unleash torrents of acid and b
 >
 > Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the spewler can't be hidden from them.
 
-###### Hulking Chimor {data-scc="mcdm.summoner.v1/minion.demon.statblock/hulking-chimor"}
+###### Hulking Chimor {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/hulking-chimor"}
 
 Chimors have no true shape; their bodies restructure and change endlessly. Pieces of the chimor demon snap off inside their prey, causing their bodies to also restructure from the inside out.
 
@@ -1283,7 +1283,7 @@ Chimors have no true shape; their bodies restructure and change endlessly. Piece
 >
 > Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the chimor can't be hidden from them.
 
-###### Violent {data-scc="mcdm.summoner.v1/minion.demon.statblock/violent"}
+###### Violent {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/violent"}
 
 The violents are lanky, oily bipeds with bright red flesh that contort and snap their bodies into unassuming objects. Their mimicry is particularly precise, to the point where it's unclear whether their victims die from the surprise or the violent transformation process first.
 
@@ -1309,7 +1309,7 @@ The violents are lanky, oily bipeds with bright red flesh that contort and snap 
 
 Choose one of the following minions.
 
-###### Dancing Silk {data-scc="mcdm.summoner.v1/minion.elemental.statblock/dancing-silk"}
+###### Dancing Silk {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/dancing-silk"}
 
 The silks are akin to baby spiders ballooning through the air on strands of webbing. They spin silk from their legs as they fly, eventually turning huge swaths of the environment into tangled web mazes.
 
@@ -1327,7 +1327,7 @@ The silks are akin to baby spiders ballooning through the air on strands of webb
 >
 > When the silk is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they launch ribbons of webbing into an area equal to their [size](../../Browse/rule/character/size.md) + 1 within 5 before being destroyed. The affected area is considered [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../Browse/rule/combat/turn.md) in the webbing is M < STRONG [slowed](../../Browse/condition/slowed.md) (EoT).
 
-###### Principle of the Swamp {data-scc="mcdm.summoner.v1/minion.elemental.statblock/principle-of-the-swamp"}
+###### Principle of the Swamp {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/principle-of-the-swamp"}
 
 The manes of these equine sludge dwellers extend and hook into things like strong, fraying arms. This allows the principle of the swamp to either pull themselves onto dry land, or pull their prey into the dank depths.
 
@@ -1345,7 +1345,7 @@ The manes of these equine sludge dwellers extend and hook into things like stron
 >
 > When the principle is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the area within 1 square of the principle becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of the encounter. An enemy that ends their [turn](../../Browse/rule/combat/turn.md) in the affected area is pulled 4 toward the center of the area.
 
-###### Quiet of Snow {data-scc="mcdm.summoner.v1/minion.elemental.statblock/quiet-of-snow"}
+###### Quiet of Snow {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/quiet-of-snow"}
 
 This elemental is a pure-white vulpine with six legs that freely sprints through the air. Their howls are telepathic, washing over the receivers with a strong chill and a wave of goosebumps.
 
@@ -1377,7 +1377,7 @@ This elemental is a pure-white vulpine with six legs that freely sprints through
 
 Choose one of the following minions.
 
-###### Nixie Hemloche {data-scc="mcdm.summoner.v1/minion.fey.statblock/nixie-hemloche"}
+###### Nixie Hemloche {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/nixie-hemloche"}
 
 Hemloches are spotted nixies whose long, wavy hair endlessly bobs and flows into the water surrounding them. Any sailor caught in a whirlpool created by hemloches knows that their ship won't survive the encounter.
 
@@ -1399,7 +1399,7 @@ Hemloches are spotted nixies whose long, wavy hair endlessly bobs and flows into
 >
 > The hemloche has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Sprite Foxglow {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-foxglow"}
+###### Sprite Foxglow {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/sprite-foxglow"}
 
 Foxglows are masked sprites that leave behind an evanescent trail of tiny glowing orbs as they fly. They beat their wings at a frequency that completely blocks out all nearby noise.
 
@@ -1421,7 +1421,7 @@ Foxglows are masked sprites that leave behind an evanescent trail of tiny glowin
 >
 > The foxglow has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Pixie Rosenthall {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-rosenthall"}
+###### Pixie Rosenthall {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/pixie-rosenthall"}
 
 The collective of blood-eyed pixie warriors that make up a rosenthall are also known as rosies. It's said that some rosenthall armies contain thousands of pixies and can span half the length of a wode.
 
@@ -1453,7 +1453,7 @@ The collective of blood-eyed pixie warriors that make up a rosenthall are also k
 
 Choose one of the following minions.
 
-###### Accursed Mummy {data-scc="mcdm.summoner.v1/minion.undead.statblock/accursed-mummy"}
+###### Accursed Mummy {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/accursed-mummy"}
 
 The preserved dead, bound for eternal rest, know only violence when robbed of their future. Accursed mummies use their wrappings to bind others to the same fate.
 
@@ -1481,7 +1481,7 @@ The preserved dead, bound for eternal rest, know only violence when robbed of th
 >
 > Whenever the mummy takes [damage](../../Browse/rule/damage/damage.md), each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the mummy takes 2 poison [damage](../../Browse/rule/damage/damage.md).
 
-###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/minion.undead.statblock/ceaseless-mournling"}
+###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/ceaseless-mournling"}
 
 Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenches where their cheeks used to be. Their crying shakes enemies to their bone and renders them struggling to move.
 
@@ -1503,7 +1503,7 @@ Mournlings are hulking amalgams of mismatched cadavers with tear-stained trenche
 >
 > The first time the mournling [burrows](../../Browse/movement/burrow.md) out of the ground on their [turn](../../Browse/rule/combat/turn.md), they can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against each [adjacent](../../Browse/rule/combat/adjacent.md) enemy.
 
-###### Phase Ghoul {data-scc="mcdm.summoner.v1/minion.undead.statblock/phase-ghoul"}
+###### Phase Ghoul {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/phase-ghoul"}
 
 Phase ghouls are bilocated undead caught between two different manifolds, rapidly flickering between them. They almost appear transparent save for their long, bright blue tongues that appears to lag behind their movements by a full second.
 
@@ -1721,7 +1721,7 @@ Your circle allows you to select new [minions](../../Browse/feature/summoner/lev
 
 Choose one of the following minions.
 
-###### Faded Blightling {data-scc="mcdm.summoner.v1/minion.demon.statblock/faded-blightling"}
+###### Faded Blightling {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/faded-blightling"}
 
 This cherubin creature is bloated and warped by demonic energy. The lights from their myriad eyes have all but gone out, now resembling pustules across their body.
 
@@ -1753,7 +1753,7 @@ This cherubin creature is bloated and warped by demonic energy. The lights from 
 >
 > Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the blightling can't be hidden from them.
 
-###### Gorrre {data-scc="mcdm.summoner.v1/minion.demon.statblock/gorrre"}
+###### Gorrre {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/gorrre"}
 
 The gorrre demons evoke features of rhino and orangutan while clad in heavy armor. They've been utilized as jail guards by devils, as few prisoners can ever hope to outrun a monster with unlimited endurance.
 
@@ -1775,7 +1775,7 @@ The gorrre demons evoke features of rhino and orangutan while clad in heavy armo
 >
 > Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the gorrre can't be hidden from them.
 
-###### Vicisittante {data-scc="mcdm.summoner.v1/minion.demon.statblock/vicisittante"}
+###### Vicisittante {data-scc="mcdm.summoner.v1/monster.minion.summoner.demon.statblock/vicisittante"}
 
 It's difficult to identify the base nature of a vicisittante apart from an ever-changing mass of burning flesh. Any surface they touch immediately scars as the demon leaves parts of themselves behind.
 
@@ -1807,7 +1807,7 @@ It's difficult to identify the base nature of a vicisittante apart from an ever-
 
 Choose one of the following minions.
 
-###### Iron Reaver {data-scc="mcdm.summoner.v1/minion.elemental.statblock/iron-reaver"}
+###### Iron Reaver {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/iron-reaver"}
 
 Iron reavers are long, gnashing lines of centipede-like bladed legs. Their bodies endlessly shed metal shavings and hard sheets of iron as they move.
 
@@ -1829,7 +1829,7 @@ Iron reavers are long, gnashing lines of centipede-like bladed legs. Their bodie
 >
 > When the reaver is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they create a line equal to 2 × their [size](../../Browse/rule/character/size.md) centered on their space of iron shards on the ground until the end of the encounter. You or any ally has [cover](../../Browse/rule/combat/cover.md) and [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2 while occupying an affected square.
 
-###### Knight of Blood {data-scc="mcdm.summoner.v1/minion.elemental.statblock/knight-of-blood"}
+###### Knight of Blood {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/knight-of-blood"}
 
 These faceless suits of armor have visible rivers of deep red blood flowing throughout their being. Their blood has a powerful pull to it, causing any open wounds nearby to rip deeper and leak toward the knight.
 
@@ -1847,7 +1847,7 @@ These faceless suits of armor have visible rivers of deep red blood flowing thro
 >
 > When the knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they move up to their [speed](../../Browse/rule/character/speed.md) ignoring [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). Each square that they exit during this movement pools with blood until the end of the encounter. Each affected square is considered [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies and deals 3 corruption [damage](../../Browse/rule/damage/damage.md) to an enemy when they first enter it on a [turn](../../Browse/rule/combat/turn.md). Whenever a [bleeding](../../Browse/condition/bleeding.md) enemy starts their [turn](../../Browse/rule/combat/turn.md) within 10 squares of the blood pool, they are pulled 2 toward the nearest affected square, ignoring [stability](../../Browse/rule/character/stability.md).
 
-###### Light of the Sun {data-scc="mcdm.summoner.v1/minion.elemental.statblock/light-of-the-sun"}
+###### Light of the Sun {data-scc="mcdm.summoner.v1/monster.minion.summoner.elemental.statblock/light-of-the-sun"}
 
 These elementals are blazing white avian-shaped beings that are nearly impossible to perceive directly. Between a light of the sun's talons is a massive glowing sword that can split the heaviest of defenses asunder.
 
@@ -1879,7 +1879,7 @@ These elementals are blazing white avian-shaped beings that are nearly impossibl
 
 Choose one of the following minions.
 
-###### Nixie Corallia {data-scc="mcdm.summoner.v1/minion.fey.statblock/nixie-corallia"}
+###### Nixie Corallia {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/nixie-corallia"}
 
 Corallias are saltwater nixies with coarse, coral-like skin and curly hair with hooked ends. Their salty tears are used to hallow places of worship and ward off demons.
 
@@ -1901,7 +1901,7 @@ Corallias are saltwater nixies with coarse, coral-like skin and curly hair with 
 >
 > The coralia has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Pixie Belladonix {data-scc="mcdm.summoner.v1/minion.fey.statblock/pixie-belladonix"}
+###### Pixie Belladonix {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/pixie-belladonix"}
 
 The belladonix are found among the elite guard of fey monarchs and carry themselves like royalty. Their moth-like wings ooze with vibrant colors and are barbed; the poison within threatening to completely shift the reality of their victims.
 
@@ -1929,7 +1929,7 @@ The belladonix are found among the elite guard of fey monarchs and carry themsel
 >
 > The belladonix has [cover](../../Browse/rule/combat/cover.md) while occupying a larger creature's space.
 
-###### Sprite Olyender {data-scc="mcdm.summoner.v1/minion.fey.statblock/sprite-olyender"}
+###### Sprite Olyender {data-scc="mcdm.summoner.v1/monster.minion.summoner.fey.statblock/sprite-olyender"}
 
 These brawny sprites wear heavy beetle armor and have a halo hovering away from their backs where their wings used to be. The faster the halo spins, the more power the olyender generates, enabling them to stand toe to toe with giants.
 
@@ -1955,7 +1955,7 @@ These brawny sprites wear heavy beetle armor and have a halo hovering away from 
 
 Choose one of the following minions.
 
-###### False Vampire {data-scc="mcdm.summoner.v1/minion.undead.statblock/false-vampire"}
+###### False Vampire {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/false-vampire"}
 
 A false vampire is a bestial, bipedal ghoul that draws life from liquified remains. In death, their hands curl into thick hooks, their bodies turn a putrid red-green as if wearing a dress suit, and their mouth twists and extends into a large feeding needle that can pierce steel.
 
@@ -1973,7 +1973,7 @@ A false vampire is a bestial, bipedal ghoul that draws life from liquified remai
 >
 > The false vampire has a [speed](../../Browse/rule/character/speed.md) of 10 while a creature is [bleeding](../../Browse/condition/bleeding.md) within 10.
 
-###### Phantom of the Ripper {data-scc="mcdm.summoner.v1/minion.undead.statblock/phantom-of-the-ripper"}
+###### Phantom of the Ripper {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/phantom-of-the-ripper"}
 
 These phantoms puppet the remnants of their corporeal forms. Unlike other spirits, the ripper tears the reality around them and leaves behind distorted or uneven "bumps" in the air, which can affect stone, metal, and flesh.
 
@@ -2001,7 +2001,7 @@ These phantoms puppet the remnants of their corporeal forms. Unlike other spirit
 >
 > The phantom can move through other creatures and objects at normal speed. The first time in a [round](../../Browse/rule/combat/combat-round.md) that the phantom passes through a creature, that creature takes 3 corruption [damage](../../Browse/rule/damage/damage.md) and has a [bane](../../Browse/rule/dice/bane.md) on their next [strike](../../Browse/rule/combat/strike.md). The phantom doesn't take [damage](../../Browse/rule/damage/damage.md) from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 
-###### Zombie Titan {data-scc="mcdm.summoner.v1/minion.undead.statblock/zombie-titan"}
+###### Zombie Titan {data-scc="mcdm.summoner.v1/monster.minion.summoner.undead.statblock/zombie-titan"}
 
 Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard's entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.
 
@@ -2239,7 +2239,7 @@ Your champion is an Aspect of a demon lord. They have borne witness to your expl
 
 The demon lord's Aspect enjoys bringing enemies in close with their appendages or flinging victims and throwing them to the gnashing horde. They're willing to put your connection to this world at risk if it means taking one more bite.
 
-###### Demon Lord's Aspect {data-scc="mcdm.summoner.v1/champion.demon.statblock/demon-lords-aspect"}
+###### Demon Lord's Aspect {data-scc="mcdm.summoner.v1/monster.champion.summoner.demon.statblock/demon-lords-aspect"}
 
 | — | Abyssal, Demon | Champion | - | 9 essence for one champion |
 |:-:|:--------------:|:--------:|:-:|:--------------------------:|
@@ -2307,7 +2307,7 @@ Your champion is a Portent of a dragon yet to manifest. Through defending the in
 
 As a harbinger of ruin, the dragon's Portent has incredibly potent impact and control of the environment. Their final shape has yet to be determined; use this to your advantage and call upon the affinity that will end conflict the quickest.
 
-###### Dragon's Portent {data-scc="mcdm.summoner.v1/champion.elemental.statblock/dragons-portent"}
+###### Dragon's Portent {data-scc="mcdm.summoner.v1/monster.champion.summoner.elemental.statblock/dragons-portent"}
 
 | — | Dragon, Elemental | Champion | - | 9 essence for one champion |
 |:-:|:-----------------:|:--------:|:-:|:--------------------------:|
@@ -2371,7 +2371,7 @@ Your champion is an Attendant of a celestial. Whenever you call on their assista
 
 The celestial Attendant wants to swarm the map with pixies while limiting their foes' ability to do anything about it. A single neurotoxic strike is all it takes to move everyone into position.
 
-###### Celestial Attendant {data-scc="mcdm.summoner.v1/champion.fey.statblock/celestial-attendant"}
+###### Celestial Attendant {data-scc="mcdm.summoner.v1/monster.champion.summoner.fey.statblock/celestial-attendant"}
 
 | — | Fey | Champion | - | 9 essence for one champion |
 |:-:|:---:|:--------:|:-:|:--------------------------:|
@@ -2439,7 +2439,7 @@ Your champion is an Avatar of death. The number of creatures you and your army h
 
 The Avatar of death weighs down their foes with conditions so their army can take care of the rest. If an enemy can't handle it, well then maybe they should just die.
 
-###### Avatar of Death {data-scc="mcdm.summoner.v1/champion.undead.statblock/avatar-of-death"}
+###### Avatar of Death {data-scc="mcdm.summoner.v1/monster.champion.summoner.undead.statblock/avatar-of-death"}
 
 | — | Undead | Champion | - | 9 essence for one champion |
 |:-:|:------:|:--------:|:-:|:--------------------------:|

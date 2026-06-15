@@ -79,12 +79,9 @@ sections:
       - monster/
       - dynamic-terrain/
       - retainer/
-      # Summoner book statblock trees (portfolio minions/fixtures/champions +
-      # the rival summoner) reuse the same bestiary cards as monster/retainer.
-      - minion/
-      - fixture/
-      - champion/
-      - rival/
+      # Summoner portfolio minions/champions, fixtures, and the rival summoner
+      # all live under monster.* now (folded in via StatblockParser), so they
+      # arrive through the monster/ include above — no separate top-level trees.
     exclude:
       - feature/trait/ancestry-traits
     sort: natural
