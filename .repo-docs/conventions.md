@@ -27,6 +27,24 @@ updated: 2026-05-23
 
 To override generated content, place your file at the same relative path under `static_content/docs/`.
 
+### Browse landing card grid is hand-maintained — keep it in sync with `site.yaml`
+
+`static_content/docs/Browse/index.md` is a hand-authored override (a `grid cards`
+list, one card per category) that shadows the generated Browse landing. It does **not**
+update itself: when you add or remove a category in the `sections: Browse: include:`
+list in `site.yaml`, you must add or remove the matching card here, or the landing
+silently drifts out of sync with the actual Browse nav. To verify, diff the card link
+targets against the generated category dirs:
+
+```bash
+diff <(ls -d docs/Browse/*/ | sed 's#docs/Browse/##;s#/##' | sort) \
+     <(grep -oE '\]\([a-z-]+/index\.md\)' static_content/docs/Browse/index.md \
+       | sed 's#](##;s#/index.md)##' | sort)
+```
+
+(`transform_indexes.py` only rewrites `Index.md`/`_Index.md` table pages, so it never
+touches this lowercase, table-free override.)
+
 ## Naming
 
 - JavaScript files: kebab-case (`scc-headerlinks.js`, `browse-enhancements.js`)
