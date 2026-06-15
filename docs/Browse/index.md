@@ -17,6 +17,14 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Ancestries](ancestry/index.md)
 
+-   ### :material-earth:{ .sc-crest } Cultures
+
+    ---
+
+    Environment, organization, and upbringing — the cultural building blocks behind every hero
+
+    [:octicons-arrow-right-24: View Cultures](culture/index.md)
+
 -   ### :material-briefcase-variant:{ .sc-crest } Careers
 
     ---
@@ -49,6 +57,46 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Features](feature/index.md)
 
+-   ### :material-heart-broken:{ .sc-crest } Conditions
+
+    ---
+
+    Bleeding, Dazed, Frightened, Grabbed, Prone, Restrained, Slowed, Taunted, Weakened
+
+    [:octicons-arrow-right-24: View Conditions](condition/index.md)
+
+-   ### :material-run-fast:{ .sc-crest } Movement
+
+    ---
+
+    Walk, climb, fly, teleport, forced movement, difficult terrain, and other movement rules
+
+    [:octicons-arrow-right-24: View Movement](movement/index.md)
+
+-   ### :material-handshake:{ .sc-crest } Negotiations
+
+    ---
+
+    Motivations and pitfalls for social encounters — benevolence, greed, justice, power, and more
+
+    [:octicons-arrow-right-24: View Negotiations](negotiation/index.md)
+
+-   ### :material-school:{ .sc-crest } Skills
+
+    ---
+
+    Crafting, exploration, interpersonal, intrigue, and lore skills
+
+    [:octicons-arrow-right-24: View Skills](skill/index.md)
+
+-   ### :material-book-open-variant:{ .sc-crest } Rules
+
+    ---
+
+    Every glossary term and rules definition, grouped by topic — combat, damage, health, and more
+
+    [:octicons-arrow-right-24: View Rules](rule/index.md)
+
 -   ### :material-bag-personal:{ .sc-crest } Kits
 
     ---
@@ -72,6 +120,22 @@ Look up specific rules, abilities, and character options. Use **search** or pick
     Titles earned across all four echelons of play
 
     [:octicons-arrow-right-24: View Titles](title/index.md)
+
+-   ### :material-hands-pray:{ .sc-crest } Gods and Religion
+
+    ---
+
+    The gods of the setting — Cavall, Kul, Ord, Salorna, Val, and the rest of the pantheon
+
+    [:octicons-arrow-right-24: View Gods](god/index.md)
+
+-   ### :material-hammer-wrench:{ .sc-crest } Downtime Projects
+
+    ---
+
+    What heroes accomplish between adventures — craft treasure, discover lore, build, and more
+
+    [:octicons-arrow-right-24: View Projects](project/index.md)
 
 -   ### :material-treasure-chest:{ .sc-crest } Treasures
 
