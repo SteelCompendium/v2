@@ -2,7 +2,7 @@
 printing: "1.0"
 printing_book: "The Beastheart"
 features:
-    - body: Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of the target's next turn.
+    - body: Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../../condition/frightened.md) until the end of the target's next turn.
       level: 3
       name: Infernal Apparition
     - body: While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
@@ -31,7 +31,7 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Infernal Apparition</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../scc:mcdm.heroes.v1/condition/frightened">frightened</a> until the end of the target&#39;s next turn.</div>
+<div class="fb__feat-body">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../../../condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">

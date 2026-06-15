@@ -13,9 +13,9 @@ features:
       power_roll:
         tiers:
             high: No effect.
-            low: 13 psychic damage; the target uses a [signature ability](scc:mcdm.heroes.v1/rule.combat/signature-ability) against a creature of Lord Syuul's choice
-            mid: 10 psychic damage; the target makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike) against a creature of Lord Syuul's choice
-    - body: Lord Syuul takes an additional main action on his turn. He can use this feature even if he is [dazed](scc:mcdm.heroes.v1/condition/dazed).
+            low: 13 psychic damage; the target uses a [signature ability](../../rule/combat/signature-ability.md) against a creature of Lord Syuul's choice
+            mid: 10 psychic damage; the target makes a [free strike](../../feature/common/main-actions/free-strike.md) against a creature of Lord Syuul's choice
+    - body: Lord Syuul takes an additional main action on his turn. He can use this feature even if he is [dazed](../../condition/dazed.md).
       cost: 5 Malice
       icon: ☠️
       name: Solo Action
@@ -60,12 +60,12 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Do It for Me</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 psychic damage; the target uses a <a href="../scc:mcdm.heroes.v1/rule.combat/signature-ability">signature ability</a> against a creature of Lord Syuul&#39;s choice</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 psychic damage; the target makes a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a> against a creature of Lord Syuul&#39;s choice</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 psychic damage; the target uses a <a href="../../../rule/combat/signature-ability/">signature ability</a> against a creature of Lord Syuul&#39;s choice</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 psychic damage; the target makes a <a href="../../../feature/common/main-actions/free-strike/">free strike</a> against a creature of Lord Syuul&#39;s choice</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 <div class="fb__feat-body">Lord Syuul psionically plunders the minds of each creature within 2 squares of him. Each such creature makes a <b>Reason test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Lord Syuul takes an additional main action on his turn. He can use this feature even if he is <a href="../scc:mcdm.heroes.v1/condition/dazed">dazed</a>.</div>
+<div class="fb__feat-body">Lord Syuul takes an additional main action on his turn. He can use this feature even if he is <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Overpower</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

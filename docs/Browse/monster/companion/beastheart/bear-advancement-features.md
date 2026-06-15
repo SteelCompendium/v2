@@ -2,7 +2,7 @@
 printing: "1.0"
 printing_book: "The Beastheart"
 features:
-    - body: Whenever the bear targets a creature with a strike that doesn't impose [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
+    - body: Whenever the bear targets a creature with a strike that doesn't impose [forced movement](../../../movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
       level: 3
       name: Foe Thresher
     - body: While the bear is rampaging, you have damage immunity 5 and your size increases to the bear's size (to a maximum of 2). If you don't have enough unoccupied space to grow, you grow as soon as there is sufficient space.
@@ -31,7 +31,7 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Foe Thresher</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Whenever the bear targets a creature with a strike that doesn&#39;t impose <a href="../scc:mcdm.heroes.v1/movement/forced-movement">forced movement</a> while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</div>
+<div class="fb__feat-body">Whenever the bear targets a creature with a strike that doesn&#39;t impose <a href="../../../../movement/forced-movement/">forced movement</a> while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">

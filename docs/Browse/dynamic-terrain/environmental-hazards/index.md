@@ -23,7 +23,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(3,1fr)">
     <div class="sc-card__stat"><div class="v">1</div><div class="l">Level</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">1 per 10 x 10 thicket</div><div class="l">EV</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](../../movement/difficult-terrain.md)</div><div class="l">Size</div></div>
   </div>
   <div class="sc-card__flavor">This thicket features close-growing vines tipped with sharp thorns.</div>
 </div>
@@ -35,7 +35,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(3,1fr)">
     <div class="sc-card__stat"><div class="v">2</div><div class="l">Level</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">3 per 10 x 10 pool</div><div class="l">EV</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](../../movement/difficult-terrain.md)</div><div class="l">Size</div></div>
   </div>
   <div class="sc-card__flavor">This shallow pool bubbles with acid or some other corrosive liquid.</div>
 </div>
@@ -47,7 +47,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(3,1fr)">
     <div class="sc-card__stat"><div class="v">1</div><div class="l">Level</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">1 per 10 x 10 pond</div><div class="l">EV</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](../../movement/difficult-terrain.md)</div><div class="l">Size</div></div>
   </div>
   <div class="sc-card__flavor">A shallow, frozen patch of water features ice thick enough that it won&#39;t break, but its surface is slick and treacherous to navigate.</div>
 </div>
@@ -59,7 +59,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(3,1fr)">
     <div class="sc-card__stat"><div class="v">3</div><div class="l">Level</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">4 per 10 x 10 patch</div><div class="l">EV</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](../../movement/difficult-terrain.md)</div><div class="l">Size</div></div>
   </div>
   <div class="sc-card__flavor">A patch of blisteringly hot molten rock wells up from the ground, threatening anyone who gets close to it.</div>
 </div>

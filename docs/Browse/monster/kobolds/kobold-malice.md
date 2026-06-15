@@ -2,7 +2,7 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: Up to 3 kobolds make a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike), swaps positions with an [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) kobold, and then that kobold makes a [free strike](scc:mcdm.heroes.v1/feature.common.main-actions/free-strike).
+    - body: Up to 3 kobolds make a [free strike](../../feature/common/main-actions/free-strike.md), swaps positions with an [adjacent](../../rule/combat/adjacent.md) kobold, and then that kobold makes a [free strike](../../feature/common/main-actions/free-strike.md).
       cost: 3 Malice
       icon: ⭐️
       name: Maniple Tactics
@@ -35,7 +35,7 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Maniple Tactics</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">Up to 3 kobolds make a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a>, swaps positions with an <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> kobold, and then that kobold makes a <a href="../scc:mcdm.heroes.v1/feature.common.main-actions/free-strike">free strike</a>.</div>
+<div class="fb__feat-body">Up to 3 kobolds make a <a href="../../../feature/common/main-actions/free-strike/">free strike</a>, swaps positions with an <a href="../../../rule/combat/adjacent/">adjacent</a> kobold, and then that kobold makes a <a href="../../../feature/common/main-actions/free-strike/">free strike</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Set the Initiative</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>

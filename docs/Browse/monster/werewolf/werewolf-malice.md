@@ -2,11 +2,11 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: The werewolf gains 10 temporary [Stamina](scc:mcdm.heroes.v1/rule.health/stamina) and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
+    - body: The werewolf gains 10 temporary [Stamina](../../rule/health/stamina.md) and a +3 bonus to speed until the end of their turn. The werewolf can't use this feature if they took any holy damage since ending their last turn.
       cost: 3 Malice
       icon: ⭐️
       name: Blood In Their Eyes
-    - body: The werewolf takes an additional main action on their turn. They can use this feature even if they are [dazed](scc:mcdm.heroes.v1/condition/dazed).
+    - body: The werewolf takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       cost: 5 Malice
       icon: ☠️
       name: Solo Action
@@ -35,11 +35,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Blood In Their Eyes</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">The werewolf gains 10 temporary <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a> and a +3 bonus to speed until the end of their turn. The werewolf can&#39;t use this feature if they took any holy damage since ending their last turn.</div>
+<div class="fb__feat-body">The werewolf gains 10 temporary <a href="../../../rule/health/stamina/">Stamina</a> and a +3 bonus to speed until the end of their turn. The werewolf can&#39;t use this feature if they took any holy damage since ending their last turn.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">The werewolf takes an additional main action on their turn. They can use this feature even if they are <a href="../scc:mcdm.heroes.v1/condition/dazed">dazed</a>.</div>
+<div class="fb__feat-body">The werewolf takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Moonfall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>

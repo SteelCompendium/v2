@@ -2,7 +2,7 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: A draconian acting this turn flaps their wings and creates a mighty gale. Each creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked [prone](scc:mcdm.heroes.v1/condition/prone).
+    - body: A draconian acting this turn flaps their wings and creates a mighty gale. Each creature [adjacent](../../rule/combat/adjacent.md) to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked [prone](../../condition/prone.md).
       cost: 3 Malice
       icon: "\U0001F464"
       name: Guarding Gale
@@ -63,7 +63,7 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><h3 class="fb__feat-name sc-ability__name">Guarding Gale</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">A draconian acting this turn flaps their wings and creates a mighty gale. Each creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the draconian is pushed up to 4 squares, and if they have M &lt; 2, they are knocked <a href="../scc:mcdm.heroes.v1/condition/prone">prone</a>.</div>
+<div class="fb__feat-body">A draconian acting this turn flaps their wings and creates a mighty gale. Each creature <a href="../../../rule/combat/adjacent/">adjacent</a> to the draconian is pushed up to 4 squares, and if they have M &lt; 2, they are knocked <a href="../../../condition/prone/">prone</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Breath Weapon</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>

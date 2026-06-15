@@ -8,7 +8,7 @@ features:
     - body: While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can't be hidden or have concealment from you or the wolf.
       level: 6
       name: Call of the Wild
-    - body: While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are [frightened](scc:mcdm.heroes.v1/condition/frightened) until the end of their next turn.
+    - body: While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are [frightened](../../../condition/frightened.md) until the end of their next turn.
       level: 10
       name: Dire Wolf
 name: Wolf Advancement Features
@@ -45,7 +45,7 @@ type: featureblock
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Dire Wolf</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../scc:mcdm.heroes.v1/condition/frightened">frightened</a> until the end of their next turn.</div>
+<div class="fb__feat-body">While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../../../../condition/frightened/">frightened</a> until the end of their next turn.</div>
 </article>
 </div>
 </div>

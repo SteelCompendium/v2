@@ -2,15 +2,15 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: The fossil cryptic [slides](scc:mcdm.heroes.v1/movement/forced-movement) one creature on the ground up to 5 squares. If the creature is [prone](scc:mcdm.heroes.v1/condition/prone), this [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) ignores [stability](scc:mcdm.heroes.v1/rule.character/stability).
+    - body: The fossil cryptic [slides](../../movement/forced-movement.md) one creature on the ground up to 5 squares. If the creature is [prone](../../condition/prone.md), this [forced movement](../../movement/forced-movement.md) ignores [stability](../../rule/character/stability.md).
       cost: 3 Malice
       icon: "\U0001F3F9"
       name: Floor Mosaic
-    - body: The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are [dazed](scc:mcdm.heroes.v1/condition/dazed).
+    - body: The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       cost: 5 Malice
       icon: ☠️
       name: Solo Action
-    - body: Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked [prone](scc:mcdm.heroes.v1/condition/prone) on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M < 2 they are [restrained](scc:mcdm.heroes.v1/condition/restrained) (save ends).
+    - body: Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked [prone](../../condition/prone.md) on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M < 2 they are [restrained](../../condition/restrained.md) (save ends).
       cost: 5 Malice
       icon: "\U0001F533"
       name: Stone Pillars
@@ -21,8 +21,8 @@ features:
       power_roll:
         tiers:
             high: No effect.
-            low: Until the end of the enemy's next turn, their [stability](scc:mcdm.heroes.v1/rule.character/stability) is reduced to 0, and any [forced movement](scc:mcdm.heroes.v1/movement/forced-movement) effects targeting them gain a +2 bonus to the distance moved.
-            mid: The enemy's [stability](scc:mcdm.heroes.v1/rule.character/stability) is halved (EoT).
+            low: Until the end of the enemy's next turn, their [stability](../../rule/character/stability.md) is reduced to 0, and any [forced movement](../../movement/forced-movement.md) effects targeting them gain a +2 bonus to the distance moved.
+            mid: The enemy's [stability](../../rule/character/stability.md) is halved (EoT).
 flavor: At the start of a fossil cryptic's turn, you can spend Malice to activate one of the following features.
 kind: malice
 name: Fossil Cryptic Malice
@@ -44,19 +44,19 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Floor Mosaic</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">The fossil cryptic <a href="../scc:mcdm.heroes.v1/movement/forced-movement">slides</a> one creature on the ground up to 5 squares. If the creature is <a href="../scc:mcdm.heroes.v1/condition/prone">prone</a>, this <a href="../scc:mcdm.heroes.v1/movement/forced-movement">forced movement</a> ignores <a href="../scc:mcdm.heroes.v1/rule.character/stability">stability</a>.</div>
+<div class="fb__feat-body">The fossil cryptic <a href="../../../movement/forced-movement/">slides</a> one creature on the ground up to 5 squares. If the creature is <a href="../../../condition/prone/">prone</a>, this <a href="../../../movement/forced-movement/">forced movement</a> ignores <a href="../../../rule/character/stability/">stability</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are <a href="../scc:mcdm.heroes.v1/condition/dazed">dazed</a>.</div>
+<div class="fb__feat-body">The fossil cryptic takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Stone Pillars</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked <a href="../scc:mcdm.heroes.v1/condition/prone">prone</a> on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M &lt; 2 they are <a href="../scc:mcdm.heroes.v1/condition/restrained">restrained</a> (save ends).</div>
+<div class="fb__feat-body">Two pillars of stone 1 square wide either thrust up out of the ground or jut down from the ceiling anywhere on the encounter map, to a height of up to 5 squares. A creature in the area of a pillar before it appears is knocked <a href="../../../condition/prone/">prone</a> on its surface. If the creature comes into contact with the ceiling above or the floor beneath the pillar and has M &lt; 2 they are <a href="../../../condition/restrained/">restrained</a> (save ends).</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Choking Dust</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Until the end of the enemy&#39;s next turn, their <a href="../scc:mcdm.heroes.v1/rule.character/stability">stability</a> is reduced to 0, and any <a href="../scc:mcdm.heroes.v1/movement/forced-movement">forced movement</a> effects targeting them gain a +2 bonus to the distance moved.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The enemy&#39;s <a href="../scc:mcdm.heroes.v1/rule.character/stability">stability</a> is halved (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Until the end of the enemy&#39;s next turn, their <a href="../../../rule/character/stability/">stability</a> is reduced to 0, and any <a href="../../../movement/forced-movement/">forced movement</a> effects targeting them gain a +2 bonus to the distance moved.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The enemy&#39;s <a href="../../../rule/character/stability/">stability</a> is halved (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 <div class="fb__feat-body">The air across the encounter map is thick with dust until the end of the encounter. Each enemy in the dust is suffocating. Additionally, at the end of each round, each enemy in the dust makes a <b>Might test</b>.</div>
 </article>
 </div>

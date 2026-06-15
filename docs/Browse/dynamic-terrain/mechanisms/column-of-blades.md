@@ -5,7 +5,7 @@ features:
     - body: The column of blades must be completely destroyed.
       icon: "\U0001F300"
       name: Deactivate
-    - body: A creature or object moves [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the column of blades.
+    - body: A creature or object moves [adjacent](../../rule/combat/adjacent.md) to the column of blades.
       icon: ❕
       name: Activate
       sections:
@@ -21,18 +21,18 @@ features:
       power_roll:
         formula: + 2
         tiers:
-            high: 9 damage; M < 3 [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            high: 9 damage; M < 3 [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends)
             low: 4 damage
-            mid: 6 damage; M < 2 [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            mid: 6 damage; M < 2 [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends)
       sections:
         - label: Trigger
           text: A creature or object moves within distance of the column.
       target: The triggering creature or object
       usage: Free triggered action
     - body: |-
-        **Stone Column (+1 EV)** The column is made of stone and has 8 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+        **Stone Column (+1 EV)** The column is made of stone and has 8 [Stamina](../../rule/health/stamina.md).
 
-        **Metal Column (+1 EV)** The column is made of metal and has 11 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina).
+        **Metal Column (+1 EV)** The column is made of metal and has 11 [Stamina](../../rule/health/stamina.md).
 
         **Concealed (+1 EV)** The blades are concealed inside the column, which remains motionless until triggered.
 
@@ -48,15 +48,15 @@ features:
       name: Whirling Flails
       power_roll:
         tiers:
-            high: 11 damage; M < 3 [dazed](scc:mcdm.heroes.v1/condition/dazed) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            high: 11 damage; M < 3 [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
             low: 5 damage
-            mid: 8 damage; M < 2 [dazed](scc:mcdm.heroes.v1/condition/dazed) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends)
+            mid: 8 damage; M < 2 [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
       sections:
         - label: Trigger
           text: A creature or object moves within distance of the column.
       target: The triggering creature or object
       usage: Free triggered action
-    - body: Allies who [shift](scc:mcdm.heroes.v1/movement/shifting) don't trigger the column. A creature observing an ally [shift](scc:mcdm.heroes.v1/movement/shifting) this way can make an **Intuition test** to [shift](scc:mcdm.heroes.v1/movement/shifting) in imitation of their movements.
+    - body: Allies who [shift](../../movement/shifting.md) don't trigger the column. A creature observing an ally [shift](../../movement/shifting.md) this way can make an **Intuition test** to [shift](../../movement/shifting.md) in imitation of their movements.
       icon: ⭐️
       name: Allied Awareness
       power_roll:
@@ -105,20 +105,20 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Spinning Blades</b> ability.</p></div></div>
-<div class="fb__feat-body">A creature or object moves <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the column of blades.</div>
+<div class="fb__feat-body">A creature or object moves <a href="../../../rule/combat/adjacent/">adjacent</a> to the column of blades.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Spinning Blades</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; M &lt; 2 <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; M &lt; 3 <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; M &lt; 2 <a href="../../../condition/bleeding/">bleeding</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; M &lt; 3 <a href="../../../condition/bleeding/">bleeding</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object moves within distance of the column.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body"><b>Stone Column (+1 EV)</b> The column is made of stone and has 8 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a>.
+<div class="fb__feat-body"><b>Stone Column (+1 EV)</b> The column is made of stone and has 8 <a href="../../../rule/health/stamina/">Stamina</a>.
 
-<b>Metal Column (+1 EV)</b> The column is made of metal and has 11 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a>.
+<b>Metal Column (+1 EV)</b> The column is made of metal and has 11 <a href="../../../rule/health/stamina/">Stamina</a>.
 
 <b>Concealed (+1 EV)</b> The blades are concealed inside the column, which remains motionless until triggered.
 
@@ -128,13 +128,13 @@ type: dynamic-terrain
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><h3 class="fb__feat-name sc-ability__name">Whirling Flails</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; 2 <a href="../scc:mcdm.heroes.v1/condition/dazed">dazed</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; 3 <a href="../scc:mcdm.heroes.v1/condition/dazed">dazed</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends)</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; 2 <a href="../../../condition/dazed/">dazed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; 3 <a href="../../../condition/dazed/">dazed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object moves within distance of the column.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the column and the column&#39;s ability gains an edge.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature triggers the column.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature doesn&#39;t trigger the column.</span></div></div></div>
-<div class="fb__feat-body">Allies who <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> don&#39;t trigger the column. A creature observing an ally <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> this way can make an <b>Intuition test</b> to <a href="../scc:mcdm.heroes.v1/movement/shifting">shift</a> in imitation of their movements.</div>
+<div class="fb__feat-body">Allies who <a href="../../../movement/shifting/">shift</a> don&#39;t trigger the column. A creature observing an ally <a href="../../../movement/shifting/">shift</a> this way can make an <b>Intuition test</b> to <a href="../../../movement/shifting/">shift</a> in imitation of their movements.</div>
 </article>
 </div>
 </article>

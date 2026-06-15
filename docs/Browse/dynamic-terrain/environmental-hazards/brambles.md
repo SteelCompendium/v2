@@ -5,13 +5,13 @@ features:
     - body: Each square of brambles must be individually destroyed.
       icon: "\U0001F300"
       name: Deactivate
-    - body: A creature enters a square of brambles without [shifting](scc:mcdm.heroes.v1/movement/shifting).
+    - body: A creature enters a square of brambles without [shifting](../../movement/shifting.md).
       icon: ❕
       name: Activate
       sections:
         - label: Effect
           text: A creature takes 1 damage per square of brambles they enter.
-    - body: '**Poisonous Thorns (+1 EV)** The brambles are poisonous. Any creature who takes damage from brambles is also [bleeding](scc:mcdm.heroes.v1/condition/bleeding) ([save](scc:mcdm.heroes.v1/rule.general/saving-throw) ends).'
+    - body: '**Poisonous Thorns (+1 EV)** The brambles are poisonous. Any creature who takes damage from brambles is also [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends).'
       icon: ⭐️
       name: Upgrade
 flavor: This thicket features close-growing vines tipped with sharp thorns.
@@ -25,7 +25,7 @@ stats:
     - name: Stamina
       value: 3 per square
     - name: Size
-      value: One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)
+      value: One or more squares of [difficult terrain](../../movement/difficult-terrain.md)
 terrain_type: Hazard
 type: dynamic-terrain
 ---
@@ -44,7 +44,7 @@ type: dynamic-terrain
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1 per 10 x 10 thicket</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
-<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../scc:mcdm.heroes.v1/movement/difficult-terrain">difficult terrain</a></div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../movement/difficult-terrain/">difficult terrain</a></div></div>
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
@@ -54,11 +54,11 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature takes 1 damage per square of brambles they enter.</p></div></div>
-<div class="fb__feat-body">A creature enters a square of brambles without <a href="../scc:mcdm.heroes.v1/movement/shifting">shifting</a>.</div>
+<div class="fb__feat-body">A creature enters a square of brambles without <a href="../../../movement/shifting/">shifting</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body"><b>Poisonous Thorns (+1 EV)</b> The brambles are poisonous. Any creature who takes damage from brambles is also <a href="../scc:mcdm.heroes.v1/condition/bleeding">bleeding</a> (<a href="../scc:mcdm.heroes.v1/rule.general/saving-throw">save</a> ends).</div>
+<div class="fb__feat-body"><b>Poisonous Thorns (+1 EV)</b> The brambles are poisonous. Any creature who takes damage from brambles is also <a href="../../../condition/bleeding/">bleeding</a> (<a href="../../../rule/general/saving-throw/">save</a> ends).</div>
 </article>
 </div>
 </article>

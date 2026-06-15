@@ -2,11 +2,11 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: Each lightbender acting this turn can [teleport](scc:mcdm.heroes.v1/movement/teleport) up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
+    - body: Each lightbender acting this turn can [teleport](../../movement/teleport.md) up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
       cost: 3 Malice
       icon: ⭐️
       name: Silent Prowl
-    - body: Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 [Stamina](scc:mcdm.heroes.v1/rule.health/stamina), and has the lightbender's speed. A duplicate acts on the lightbender's turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.
+    - body: Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space [adjacent](../../rule/combat/adjacent.md) to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 [Stamina](../../rule/health/stamina.md), and has the lightbender's speed. A duplicate acts on the lightbender's turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.
       cost: 5 Malice
       icon: ⭐️
       name: Duplicate
@@ -40,11 +40,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Silent Prowl</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
-<div class="fb__feat-body">Each lightbender acting this turn can <a href="../scc:mcdm.heroes.v1/movement/teleport">teleport</a> up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.</div>
+<div class="fb__feat-body">Each lightbender acting this turn can <a href="../../../movement/teleport/">teleport</a> up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Duplicate</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
-<div class="fb__feat-body">Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 <a href="../scc:mcdm.heroes.v1/rule.health/stamina">Stamina</a>, and has the lightbender&#39;s speed. A duplicate acts on the lightbender&#39;s turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.</div>
+<div class="fb__feat-body">Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space <a href="../../../rule/combat/adjacent/">adjacent</a> to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 <a href="../../../rule/health/stamina/">Stamina</a>, and has the lightbender&#39;s speed. A duplicate acts on the lightbender&#39;s turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Everything the Light Touches</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>

@@ -2,15 +2,15 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - body: As a maneuver, a creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to a switch can make an **Agility test**.
+    - body: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a switch can make an **Agility test**.
       icon: "\U0001F300"
       name: Deactivate
       power_roll:
         tiers:
             high: The switch is deactivated and doesn't trigger.
             low: The creature triggers the switch.
-            mid: The switch is deactivated but the creature is [slowed](scc:mcdm.heroes.v1/condition/slowed) (EoT).
-    - body: A creature [adjacent](scc:mcdm.heroes.v1/rule.combat/adjacent) to the switch uses a maneuver to trigger it.
+            mid: The switch is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+    - body: A creature [adjacent](../../rule/combat/adjacent.md) to the switch uses a maneuver to trigger it.
       icon: ❕
       name: Activate
       sections:
@@ -57,13 +57,13 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the switch.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The switch is deactivated but the creature is <a href="../scc:mcdm.heroes.v1/condition/slowed">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The switch is deactivated and doesn&#39;t trigger.</span></div></div></div>
-<div class="fb__feat-body">As a maneuver, a creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to a switch can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the switch.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The switch is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The switch is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="fb__feat-body">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a switch can make an <b>Agility test</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❕</span><h3 class="fb__feat-name sc-ability__name">Activate</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The linked mechanism is activated. A switch automatically resets and can be triggered repeatedly.</p></div></div>
-<div class="fb__feat-body">A creature <a href="../scc:mcdm.heroes.v1/rule.combat/adjacent">adjacent</a> to the switch uses a maneuver to trigger it.</div>
+<div class="fb__feat-body">A creature <a href="../../../rule/combat/adjacent/">adjacent</a> to the switch uses a maneuver to trigger it.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrade</h3><div class="fb__feat-corner"></div></div>

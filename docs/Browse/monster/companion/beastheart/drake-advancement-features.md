@@ -5,7 +5,7 @@ features:
     - body: The drake's Drake Breath maneuver deals an extra 2 damage.
       level: 3
       name: Endless Breath
-    - body: While the drake is rampaging, you gain draconic wings and can [fly](scc:mcdm.heroes.v1/movement/fly). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
+    - body: While the drake is rampaging, you gain draconic wings and can [fly](../../../movement/fly.md). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
       level: 6
       name: A Burning Inside Me
     - body: While the drake is rampaging, you and the drake have immunity all to the drake's attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake's attuned damage type.
@@ -38,7 +38,7 @@ type: featureblock
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">A Burning Inside Me</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">While the drake is rampaging, you gain draconic wings and can <a href="../scc:mcdm.heroes.v1/movement/fly">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</div>
+<div class="fb__feat-body">While the drake is rampaging, you gain draconic wings and can <a href="../../../../movement/fly/">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">

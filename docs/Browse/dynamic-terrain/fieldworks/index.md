@@ -11,7 +11,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(3,1fr)">
     <div class="sc-card__stat"><div class="v">1</div><div class="l">Level</div></div>
     <div class="sc-card__stat"><div class="v">2</div><div class="l">EV</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](scc:mcdm.heroes.v1/movement/difficult-terrain)</div><div class="l">Size</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">One or more squares of [difficult terrain](../../movement/difficult-terrain.md)</div><div class="l">Size</div></div>
   </div>
   <div class="sc-card__flavor">A series of sharp stakes have been placed point-out to protect defenders against charges and other direct attacks.</div>
 </div>

@@ -5,7 +5,7 @@ features:
     - body: Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
       level: 3
       name: Dripping Fangs
-    - body: Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](scc:mcdm.heroes.v1/movement/fly) in a straight line to any space within 5 squares of that object.
+    - body: Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../../movement/fly.md) in a straight line to any space within 5 squares of that object.
       level: 6
       name: Web Slinger
     - body: Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
@@ -38,7 +38,7 @@ type: featureblock
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Web Slinger</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../scc:mcdm.heroes.v1/movement/fly">fly</a> in a straight line to any space within 5 squares of that object.</div>
+<div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../../../movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">

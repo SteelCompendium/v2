@@ -2,7 +2,7 @@
 printing: "1.0"
 printing_book: "The Beastheart"
 features:
-    - body: Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](scc:mcdm.heroes.v1/condition/grabbed) by the ball.
+    - body: Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../../../condition/grabbed.md) by the ball.
       level: 3
       name: Suck It Up
     - body: While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.
@@ -31,7 +31,7 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Suck It Up</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../scc:mcdm.heroes.v1/condition/grabbed">grabbed</a> by the ball.</div>
+<div class="fb__feat-body">Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../../../../condition/grabbed/">grabbed</a> by the ball.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
