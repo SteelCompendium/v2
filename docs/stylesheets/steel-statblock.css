@@ -517,3 +517,103 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb-backlink a {
   font-weight: 600;
 }
+
+/* ════════════════════════════════════════════════════════════
+   PREVIEW CARDS — compact .sb-prev mini-statblocks on index /
+   group-landing pages (steel-etl statblock_preview.go). The zone
+   styling here is FIXED (decoupled from the global data-sb-* prefs);
+   .sb-cards[data-sbprev-*] gates which zones show.
+   ════════════════════════════════════════════════════════════ */
+.md-typeset .sb-cards {
+  display: grid; gap: 1rem; margin: 1rem 0; padding: 0;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  align-items: start; list-style: none;
+}
+
+.sb-wrap.sb-prev { max-width: none; margin: 0; --pad: .9rem; isolation: isolate; }
+.sb-prev .sb { box-shadow: var(--fx-bevel), 0 4px 12px rgba(0,0,0,.28); transition: border-color .15s ease; }
+.sb-prev:hover .sb,
+.sb-prev:focus-within .sb { border-color: color-mix(in srgb, var(--role) 55%, transparent); }
+
+/* whole-card click target — mirrors .sc-card__link (steel-redesign.css). The
+   preview emits no inner anchors (links are stripped), so a flat overlay is safe. */
+.sb-prev__link { position: absolute; inset: 0; z-index: 2; border-radius: .65rem; }
+
+/* source provenance chip (e.g. "Summoner"), top-right of the card */
+.sb-prev__src {
+  position: absolute; top: .5rem; right: .6rem; z-index: 1;
+  font-family: var(--md-small-header-font); font-variant: small-caps;
+  letter-spacing: .06em; font-size: .64rem; color: var(--md-default-fg-color--light);
+}
+
+/* header — tighter than the full card; collapses on the x-axis as-is */
+.sb-prev .sb__head { padding: .7rem var(--pad) .75rem; margin-bottom: .4rem; }
+.sb-prev.sb-wrap .md-typeset .sb__name { font-size: 1.4rem; }
+.sb-prev .sb__role { font-size: 1.05rem; }
+.sb-prev .sb__level, .sb-prev .sb__ev { font-size: .76rem; }
+
+/* defenses — same 5-up grid, smaller faces */
+.sb-prev .sb__defenses { padding: .25rem var(--pad) .5rem; gap: .3rem; }
+.sb-prev .sb__stat { padding: .3rem .15rem; }
+.sb-prev .sb__stat .v { font-size: 1.1rem; }
+.sb-prev .sb__stat .l { font-size: .62rem; }
+
+/* secondary stats — FIXED ledger layout */
+.sb-prev .sb__meta { grid-template-columns: 1fr 1fr; gap: 0 1.2rem; padding: 0 var(--pad) .5rem; }
+.sb-prev .sb__meta .sb__field {
+  display: flex; align-items: baseline; justify-content: space-between; gap: .5rem;
+  padding: .26rem .05rem; border-bottom: 1px solid var(--fx-metal-faint);
+}
+.sb-prev .sb__meta .sb__field-v { text-align: right; }
+
+/* characteristics — FIXED one-line, boxed first letter */
+.sb-prev .sb__chars { margin: 0 var(--pad) .4rem; padding: .4rem .3rem; gap: .3rem; }
+.sb-prev .sb__char { grid-auto-flow: column; justify-content: center; align-items: baseline; gap: .25rem; }
+.sb-prev .sb__char-box { display: grid; width: 1.15rem; height: 1.15rem; font-size: .7rem; }
+.sb-prev .sb__char-v { font-size: 1.05rem; }
+.sb-prev .sb__char-l { display: none; }
+
+/* feature preview list — icon · name · usage · cost */
+.sb-prev__feats {
+  list-style: none; margin: .2rem var(--pad) .7rem; padding: .45rem 0 0;
+  border-top: 1px solid var(--fx-metal-faint);
+  display: flex; flex-direction: column; gap: .2rem;
+}
+.sb-prev__feat[data-action="passive"]   { --act: var(--sc-act-none); }
+.sb-prev__feat[data-action="villain"]    { --act: #e0584b; }
+.sb-prev__feat[data-action="main"]       { --act: var(--sc-act-main); }
+.sb-prev__feat[data-action="maneuver"]   { --act: var(--sc-act-maneuver); }
+.sb-prev__feat[data-action="triggered"]  { --act: var(--sc-act-triggered); }
+.sb-prev__feat[data-action="move"]       { --act: var(--sc-act-main); }
+.sb-prev__feat { display: flex; align-items: baseline; gap: .5rem; font-size: .84rem; line-height: 1.25; }
+.sb-prev__feat-icon .sb__feat-glyph { font-size: .95rem; color: var(--act); }
+.sb-prev__feat-name { font-family: var(--md-small-header-font); color: var(--sc-steel-lighter); }
+.sb-prev__feat-usage { font-size: .7rem; font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
+.sb-prev__feat-cost { margin-left: auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); flex: 0 0 auto; }
+
+/* ── ZONE TOGGLES — grid-level data-sbprev-* (build-time baseline + JS) ── */
+.sb-cards[data-sbprev-stats="off"] .sb-prev .sb__defenses,
+.sb-cards[data-sbprev-meta="off"]  .sb-prev .sb__meta,
+.sb-cards[data-sbprev-chars="off"] .sb-prev .sb__chars,
+.sb-cards[data-sbprev-feats="off"] .sb-prev .sb-prev__feats { display: none; }
+
+/* ── per-page toggle bar (statblock-preview.js) ── */
+.sb-prev-bar { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: .2rem 0 .9rem; }
+.sb-prev-bar__label {
+  font-family: var(--md-small-header-font); font-variant: small-caps;
+  letter-spacing: .06em; font-size: .78rem; color: var(--md-default-fg-color--light); margin-right: .15rem;
+}
+.sb-prev-bar__chip {
+  cursor: pointer; user-select: none; font: inherit; font-size: .78rem;
+  border: 1px solid var(--fx-metal-line); border-radius: 999px; padding: .18rem .7rem;
+  color: var(--md-default-fg-color--light); background: transparent; transition: background .12s, color .12s, border-color .12s;
+}
+.sb-prev-bar__chip[aria-pressed="true"] {
+  color: var(--sc-steel-lighter);
+  border-color: color-mix(in srgb, var(--md-accent-fg-color) 60%, transparent);
+  background: color-mix(in srgb, var(--md-accent-fg-color) 12%, transparent);
+}
+
+@media (max-width: 30em) {
+  .md-typeset .sb-cards { grid-template-columns: 1fr; }
+}
