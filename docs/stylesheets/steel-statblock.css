@@ -564,7 +564,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   display: flex; align-items: baseline; justify-content: space-between; gap: .5rem;
   padding: .26rem .05rem; border-bottom: 1px solid var(--fx-metal-faint);
 }
-.sb-prev .sb__meta .sb__field-v { text-align: right; }
+.sb-prev .sb__meta .sb__field-v { text-align: right; font-size: .82rem; }
 
 /* characteristics — FIXED one-line, boxed first letter */
 .sb-prev .sb__chars { margin: 0 var(--pad) .4rem; padding: .4rem .3rem; gap: .3rem; }
@@ -575,9 +575,9 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* feature preview list — icon · name · usage · cost */
 .sb-prev__feats {
-  list-style: none; margin: .65rem var(--pad) .7rem; padding: .55rem 0 0;
+  list-style: none; margin: .5rem var(--pad) .7rem; padding: .85rem 0 0;
   border-top: 1px solid var(--fx-metal-faint);
-  display: flex; flex-direction: column; gap: .2rem;
+  display: flex; flex-direction: column; gap: 0;
 }
 .sb-prev__feat[data-action="passive"]   { --act: var(--sc-act-none); }
 .sb-prev__feat[data-action="villain"]    { --act: #e0584b; }
@@ -585,14 +585,16 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb-prev__feat[data-action="maneuver"]   { --act: var(--sc-act-maneuver); }
 .sb-prev__feat[data-action="triggered"]  { --act: var(--sc-act-triggered); }
 .sb-prev__feat[data-action="move"]       { --act: var(--sc-act-main); }
-/* Row reads as one left-packed cluster — name · usage · cost — so the cost sits
-   right after the feature instead of drifting to the far edge (no per-row rule). */
-.sb-prev__feat { display: flex; align-items: baseline; flex-wrap: wrap; gap: .1rem .45rem; font-size: .84rem; line-height: 1.25; }
+/* Row: name · usage on the left, cost pinned right; subtle zebra banding keeps
+   the eye on a row across the gap (no per-row rule, no left-justified column). */
+.sb-prev__feat { display: flex; align-items: baseline; gap: .5rem; font-size: .84rem; line-height: 1.25; padding: .2rem .4rem; border-radius: 4px; }
+.sb-prev__feat:nth-child(odd) { background: rgba(255, 255, 255, .045); }
+[data-md-color-scheme="default"] .sb-prev__feat:nth-child(odd) { background: rgba(0, 0, 0, .04); }
 .sb-prev__feat-icon { flex: 0 0 auto; }
 .sb-prev__feat-icon .sb__feat-glyph { font-size: .95rem; color: var(--act); }
 .sb-prev__feat-name { flex: 0 1 auto; min-width: 0; font-family: var(--md-small-header-font); color: var(--sc-steel-lighter); }
 .sb-prev__feat-usage { flex: 0 0 auto; font-size: .7rem; font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
-.sb-prev__feat-cost { flex: 0 0 auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); }
+.sb-prev__feat-cost { margin-left: auto; flex: 0 0 auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); }
 
 /* ── ZONE TOGGLES — grid-level data-sbprev-* (build-time baseline + JS) ── */
 .sb-cards[data-sbprev-stats="off"] .sb-prev .sb__defenses,
@@ -600,8 +602,17 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb-cards[data-sbprev-chars="off"] .sb-prev .sb__chars,
 .sb-cards[data-sbprev-feats="off"] .sb-prev .sb-prev__feats { display: none; }
 
+/* All four zones hidden → the header IS the whole card. Drop its stylized bottom
+   border + centered diamond + the gap they leave, so there's no orphaned empty
+   body below the header. */
+.sb-cards[data-sbprev-stats="off"][data-sbprev-meta="off"][data-sbprev-chars="off"][data-sbprev-feats="off"] .sb-prev .sb__head {
+  margin-bottom: 0; border-bottom: none;
+}
+.sb-cards[data-sbprev-stats="off"][data-sbprev-meta="off"][data-sbprev-chars="off"][data-sbprev-feats="off"] .sb-prev .sb__head::after { display: none; }
+.sb-cards[data-sbprev-stats="off"][data-sbprev-meta="off"][data-sbprev-chars="off"][data-sbprev-feats="off"] .sb-prev .sb { padding-bottom: 0; }
+
 /* ── per-page toggle bar (statblock-preview.js) ── */
-.sb-prev-bar { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: .2rem 0 .9rem; }
+.sb-prev-bar { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: 1.3rem 0 .9rem; }
 .sb-prev-bar__label {
   font-family: var(--md-small-header-font); font-variant: small-caps;
   letter-spacing: .06em; font-size: .78rem; color: var(--md-default-fg-color--light); margin-right: .15rem;
