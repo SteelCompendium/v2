@@ -547,7 +547,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 }
 
 /* header — tighter than the full card; collapses on the x-axis as-is */
-.sb-prev .sb__head { padding: .7rem var(--pad) .75rem; margin-bottom: .4rem; }
+.sb-prev .sb__head { padding: .5rem var(--pad) .5rem; margin-bottom: .65rem; }
 .sb-prev.sb-wrap .md-typeset .sb__name { font-size: 1.4rem; }
 .sb-prev .sb__role { font-size: 1.05rem; }
 .sb-prev .sb__level, .sb-prev .sb__ev { font-size: .76rem; }
@@ -575,7 +575,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* feature preview list — icon · name · usage · cost */
 .sb-prev__feats {
-  list-style: none; margin: .2rem var(--pad) .7rem; padding: .45rem 0 0;
+  list-style: none; margin: .65rem var(--pad) .7rem; padding: .55rem 0 0;
   border-top: 1px solid var(--fx-metal-faint);
   display: flex; flex-direction: column; gap: .2rem;
 }
@@ -585,11 +585,14 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb-prev__feat[data-action="maneuver"]   { --act: var(--sc-act-maneuver); }
 .sb-prev__feat[data-action="triggered"]  { --act: var(--sc-act-triggered); }
 .sb-prev__feat[data-action="move"]       { --act: var(--sc-act-main); }
-.sb-prev__feat { display: flex; align-items: baseline; gap: .5rem; font-size: .84rem; line-height: 1.25; }
+/* Row reads as one left-packed cluster — name · usage · cost — so the cost sits
+   right after the feature instead of drifting to the far edge (no per-row rule). */
+.sb-prev__feat { display: flex; align-items: baseline; flex-wrap: wrap; gap: .1rem .45rem; font-size: .84rem; line-height: 1.25; }
+.sb-prev__feat-icon { flex: 0 0 auto; }
 .sb-prev__feat-icon .sb__feat-glyph { font-size: .95rem; color: var(--act); }
-.sb-prev__feat-name { font-family: var(--md-small-header-font); color: var(--sc-steel-lighter); }
-.sb-prev__feat-usage { font-size: .7rem; font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
-.sb-prev__feat-cost { margin-left: auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); flex: 0 0 auto; }
+.sb-prev__feat-name { flex: 0 1 auto; min-width: 0; font-family: var(--md-small-header-font); color: var(--sc-steel-lighter); }
+.sb-prev__feat-usage { flex: 0 0 auto; font-size: .7rem; font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
+.sb-prev__feat-cost { flex: 0 0 auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); }
 
 /* ── ZONE TOGGLES — grid-level data-sbprev-* (build-time baseline + JS) ── */
 .sb-cards[data-sbprev-stats="off"] .sb-prev .sb__defenses,
