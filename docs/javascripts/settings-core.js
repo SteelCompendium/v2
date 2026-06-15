@@ -85,6 +85,22 @@
     storage.setItem(STORAGE_KEY, JSON.stringify(prefs));
   }
 
+  // Statblock-preview zone visibility. SINGLE SOURCE OF TRUTH for the global
+  // default (mirror steel-etl sbPreviewDefaults + overrides/main.html).
+  var SBPREV_DEFAULTS = { stats: "on", meta: "off", chars: "off", feats: "off" };
+  var SBPREV_KEYS = ["stats", "meta", "chars", "feats"];
+
+  // resolveSbPreview merges a saved {stats,meta,chars,feats} pref over the
+  // defaults, coercing anything that is not exactly "on"/"off" to the default.
+  function resolveSbPreview(pref) {
+    pref = pref || {};
+    var out = {};
+    SBPREV_KEYS.forEach(function (k) {
+      out[k] = (pref[k] === "on" || pref[k] === "off") ? pref[k] : SBPREV_DEFAULTS[k];
+    });
+    return out;
+  }
+
   return {
     STORAGE_KEY: STORAGE_KEY,
     SCALE_MIN: SCALE_MIN, SCALE_MAX: SCALE_MAX, SCALE_STEP: SCALE_STEP, SCALE_DEFAULT: SCALE_DEFAULT,
@@ -97,6 +113,9 @@
     widthToControls: widthToControls,
     controlsToWidth: controlsToWidth,
     loadPrefs: loadPrefs,
-    savePrefs: savePrefs
+    savePrefs: savePrefs,
+    SBPREV_DEFAULTS: SBPREV_DEFAULTS,
+    SBPREV_KEYS: SBPREV_KEYS,
+    resolveSbPreview: resolveSbPreview
   };
 });

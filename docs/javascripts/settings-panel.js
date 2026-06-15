@@ -133,6 +133,13 @@
       html.setAttribute("data-fb-" + k, fb[k] || FB_DEFAULTS[k]);
     });
   }
+  function applyStatblockPreview(prefs) {
+    var r = C.resolveSbPreview(prefs.statblockPreview);
+    var html = document.documentElement;
+    C.SBPREV_KEYS.forEach(function (k) {
+      html.setAttribute("data-sbprev-" + k, r[k]);
+    });
+  }
   function setAug(body, name, on) {
     if (on) body.removeAttribute("data-aug-" + name);
     else body.setAttribute("data-aug-" + name, "off");
@@ -156,6 +163,7 @@
     applyCardStyle(prefs.cardStyle);
     applyStatblocks(prefs);
     applyFeatureblocks(prefs);
+    applyStatblockPreview(prefs);
   }
 
   var prefs = C.loadPrefs(localStorage);
@@ -384,6 +392,24 @@
               sbHelp("Adds Movement, Immunity, Weakness, and Captain to the pinned mini-header.") +
             '</div>' +
           '</fieldset>' +
+          '<fieldset class="sc-set__sub"><legend>Index previews</legend>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-stats" type="checkbox"><span>Show stats</span></label>' +
+              sbHelp("Show the defenses row (Size, Speed, Stamina, Stability, Free Strike) on statblock preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-meta" type="checkbox"><span>Show secondary stats</span></label>' +
+              sbHelp("Show Immunity, Weakness, Movement, and Captain on preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-chars" type="checkbox"><span>Show characteristics</span></label>' +
+              sbHelp("Show the Might / Agility / Reason / Intuition / Presence line on preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-feats" type="checkbox"><span>Show feature previews</span></label>' +
+              sbHelp("List each feature (icon, name, usage, cost) on preview cards. Off by default — turns long statblocks into tall cards.") +
+            '</div>' +
+          '</fieldset>' +
         '</details>' +
 
         '<details class="sc-set__group sc-set__group--fb"><summary>Featureblocks</summary>' +
@@ -590,6 +616,7 @@
     // Statblocks (selects + presets + web-extra toggles)
     var syncSb = bindStatblocks(drawer);
     var syncFb = bindFeatureblocks(drawer);
+    var syncSbPrev = bindStatblockPreview(drawer);
 
     // Reset all
     drawer.querySelector("#set-reset").addEventListener("click", function () {
@@ -609,6 +636,7 @@
       syncWidthUI(C.widthToControls(undefined));
       syncSb();
       syncFb();
+      syncSbPrev();
       persist();
     });
   }
@@ -683,6 +711,33 @@
         applyFeatureblocks(prefs);
         persist();
         syncUI();
+      });
+    });
+    syncUI();
+    return syncUI;
+  }
+
+  // ---------- bind statblock-preview controls ----------
+  // Returns syncUI() the Reset handler calls to re-derive controls from prefs.
+  function bindStatblockPreview(drawer) {
+    function sp() { return prefs.statblockPreview || (prefs.statblockPreview = {}); }
+    var ids = { stats: "set-sbprev-stats", meta: "set-sbprev-meta", chars: "set-sbprev-chars", feats: "set-sbprev-feats" };
+
+    function syncUI() {
+      var r = C.resolveSbPreview(prefs.statblockPreview);
+      C.SBPREV_KEYS.forEach(function (k) {
+        drawer.querySelector("#" + ids[k]).checked = r[k] === "on";
+      });
+    }
+    C.SBPREV_KEYS.forEach(function (k) {
+      drawer.querySelector("#" + ids[k]).addEventListener("change", function () {
+        sp()[k] = this.checked ? "on" : "off";
+        applyStatblockPreview(prefs);
+        persist();
+        syncUI();
+        if (window.SteelStatblockPreview && window.SteelStatblockPreview.reseed) {
+          window.SteelStatblockPreview.reseed();
+        }
       });
     });
     syncUI();

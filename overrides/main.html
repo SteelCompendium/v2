@@ -94,6 +94,15 @@
             var fb = s.featureblock || {};
             var fbD = {featstyle:"card", stats:"grid"};
             for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
+            // Statblock-preview zone visibility (data-sbprev-*) — global default
+            // seed read by statblock-preview.js; SINGLE SOURCE mirrors
+            // settings-core SBPREV_DEFAULTS + steel-etl sbPreviewDefaults.
+            var sp = s.statblockPreview || {};
+            var spD = {stats:"on", meta:"off", chars:"off", feats:"off"};
+            for (var spk in spD) {
+              var spv = (sp[spk] === "on" || sp[spk] === "off") ? sp[spk] : spD[spk];
+              document.documentElement.setAttribute("data-sbprev-"+spk, spv);
+            }
         } catch(e) {}
     })();
 </script>
