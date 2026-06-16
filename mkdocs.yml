@@ -1,9 +1,5 @@
 site_name: "Steel Compendium: Draw Steel Rules"
 site_url: https://steelcompendium.io/v2
-# Per-effort plans/specs live in docs/superpowers/ (workspace convention) but must
-# never be published — exclude them from the built site.
-exclude_docs: |
-  superpowers/
 copyright: 'The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.'
 theme:
   name: "material"
