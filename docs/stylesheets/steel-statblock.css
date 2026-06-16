@@ -588,7 +588,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* feature preview list — icon · name · usage · cost */
 .sb-prev__feats {
-  list-style: none; margin: .5rem var(--pad) .7rem; padding: .85rem 0 0;
+  list-style: none; margin: .5rem var(--pad) .7rem; padding: 1.25rem 0 0;
   border-top: 1px solid var(--fx-metal-faint);
   display: flex; flex-direction: column; gap: 0;
 }
