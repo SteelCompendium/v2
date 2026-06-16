@@ -59,7 +59,7 @@
    edge (the ability name sits lower, leaving the top strip clear). */
 .sc-copylink { left: 50%; right: auto; transform: translateX(-50%); }
 .sc-copylink[data-card="sb"],
-.sc-copylink[data-card="fb"] { top: 0; transform: translate(-50%, -50%); }  /* straddle the top border */
+.sc-copylink[data-card="fb"] { top: 0; transform: translate(calc(-50% + .1rem), 30%); }  /* straddle the top border */
 /* Ability cards force `position: relative` on every direct child
    (steel-ability-cards.css `.md-typeset .sc-ability > *`, to lift content above the
    watermark) — out-specify it so the button keeps absolute positioning + stacks on top. */
