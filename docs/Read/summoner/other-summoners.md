@@ -181,7 +181,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 ##### 1st-Echelon Rival Summoner
 
-###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rivals.1st-echelon.statblock/rival-summoner"}
+###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rival.1st-echelon.statblock/rival-summoner"}
 
 | — | Humanoid, Rival | Level 2 Elite Controller | - | EV 16 |
 |:-:|:---------------:|:------------------------:|:-:|:-----:|
@@ -231,7 +231,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > At the start of an encounter, the summoner chooses one creature within their [line of effect](../../Browse/rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../Browse/rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 2 damage.
 
-###### Skeleton {data-scc="mcdm.summoner.v1/monster.rivals.1st-echelon.summoner.minion/skeleton"}
+###### Skeleton {data-scc="mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/skeleton"}
 
 | — | Undead | Signature Minion Harrier | - | 1 Malice per minion summoned |
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
@@ -243,7 +243,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the skeleton is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their square becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
 
-###### Zombie Lumberer {data-scc="mcdm.summoner.v1/monster.rivals.1st-echelon.summoner.minion/zombie-lumberer"}
+###### Zombie Lumberer {data-scc="mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/zombie-lumberer"}
 
 | — | Undead | Minion Defender | - | 2 Malice for two minions |
 |:-:|:------:|:---------------:|:-:|:------------------------:|
@@ -259,7 +259,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the lumberer is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can latch onto an [adjacent](../../Browse/rule/combat/adjacent.md) enemy before being destroyed. The enemy is M < 2 [restrained](../../Browse/condition/restrained.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
-###### Accursed Mummy {data-scc="mcdm.summoner.v1/monster.rivals.1st-echelon.summoner.minion/accursed-mummy"}
+###### Accursed Mummy {data-scc="mcdm.summoner.v1/monster.rival.1st-echelon.summoner.minion/accursed-mummy"}
 
 | — | Mummy, Undead | Minion Hexer | - | 3 Malice for three minions |
 |:-:|:-------------:|:------------:|:-:|:--------------------------:|
@@ -287,7 +287,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 ##### 2nd-Echelon Rival Summoner
 
-###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rivals.2nd-echelon.statblock/rival-summoner"}
+###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rival.2nd-echelon.statblock/rival-summoner"}
 
 | — | Humanoid, Rival | Level 5 Elite Controller | - | EV 28 |
 |:-:|:---------------:|:------------------------:|:-:|:-----:|
@@ -339,7 +339,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > At the start of an encounter, the summoner chooses one creature within their [line of effect](../../Browse/rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../Browse/rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 3 damage.
 
-###### Skeleton {data-scc="mcdm.summoner.v1/monster.rivals.2nd-echelon.summoner.minion/skeleton"}
+###### Skeleton {data-scc="mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/skeleton"}
 
 | — | Undead | Signature Minion Harrier | - | 1 Malice per minion summoned |
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
@@ -351,7 +351,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the skeleton is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their square becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
 
-###### Grave Knight {data-scc="mcdm.summoner.v1/monster.rivals.2nd-echelon.summoner.minion/grave-knight"}
+###### Grave Knight {data-scc="mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/grave-knight"}
 
 | — | Undead | Minion Brute | - | 2 Malice for two minions |
 |:-:|:------:|:------------:|:-:|:------------------------:|
@@ -375,7 +375,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the grave knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) before being destroyed.
 
-###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rivals.2nd-echelon.summoner.minion/ceaseless-mournling"}
+###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rival.2nd-echelon.summoner.minion/ceaseless-mournling"}
 
 | — | Undead | Minion Controller | - | 4 Malice for three minions |
 |:-:|:------:|:-----------------:|:-:|:--------------------------:|
@@ -397,7 +397,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 ##### 3rd-Echelon Rival Summoner
 
-###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rivals.3rd-echelon.statblock/rival-summoner"}
+###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rival.3rd-echelon.statblock/rival-summoner"}
 
 | — | Humanoid, Rival | Level 8 Elite Controller | - | EV 40 |
 |:-:|:---------------:|:------------------------:|:-:|:-----:|
@@ -447,7 +447,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > At the start of an encounter, the summoner chooses one creature within their [line of effect](../../Browse/rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../Browse/rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 4 damage.
 
-###### Skeleton {data-scc="mcdm.summoner.v1/monster.rivals.3rd-echelon.summoner.minion/skeleton"}
+###### Skeleton {data-scc="mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/skeleton"}
 
 | — | Undead | Signature Minion Harrier | - | 1 Malice per minion summoned |
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
@@ -459,7 +459,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the skeleton is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their square becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
 
-###### Zombie Lumberer {data-scc="mcdm.summoner.v1/monster.rivals.3rd-echelon.summoner.minion/zombie-lumberer"}
+###### Zombie Lumberer {data-scc="mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/zombie-lumberer"}
 
 | — | Undead | Minion Defender | - | 2 Malice for two minions |
 |:-:|:------:|:---------------:|:-:|:------------------------:|
@@ -475,7 +475,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the lumberer is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can latch onto an [adjacent](../../Browse/rule/combat/adjacent.md) enemy before being destroyed. The enemy is M < 4 [restrained](../../Browse/condition/restrained.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
 
-###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rivals.3rd-echelon.summoner.minion/ceaseless-mournling"}
+###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/ceaseless-mournling"}
 
 | — | Undead | Minion Controller | - | 4 Malice for three minions |
 |:-:|:------:|:-----------------:|:-:|:--------------------------:|
@@ -495,7 +495,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > The first time the mournling [burrows](../../Browse/movement/burrow.md) out of the ground on their turn, they can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against each [adjacent](../../Browse/rule/combat/adjacent.md) enemy.
 
-###### False Vampire {data-scc="mcdm.summoner.v1/monster.rivals.3rd-echelon.summoner.minion/false-vampire"}
+###### False Vampire {data-scc="mcdm.summoner.v1/monster.rival.3rd-echelon.summoner.minion/false-vampire"}
 
 | — | Undead | Minion Brute | - | 6 Malice for two minions |
 |:-:|:------:|:------------:|:-:|:------------------------:|
@@ -513,7 +513,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 
 ##### 4th-Echelon Rival Summoner
 
-###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rivals.4th-echelon.statblock/rival-summoner"}
+###### Rival Summoner {data-scc="mcdm.summoner.v1/monster.rival.4th-echelon.statblock/rival-summoner"}
 
 | — | Humanoid, Rival | Level 10 Elite Controller | - | EV 48 |
 |:-:|:---------------:|:-------------------------:|:-:|:-----:|
@@ -557,7 +557,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > At the start of an encounter, the summoner chooses one creature within their [line of effect](../../Browse/rule/combat/line-of-effect.md). Both the summoner and the creature can add a d3 roll to [power rolls](../../Browse/rule/dice/power-roll.md) they make against each other. Whenever one of the summoner's squads uses a damaging ability against the creature, the creature takes an additional 5 damage.
 
-###### Skeleton {data-scc="mcdm.summoner.v1/monster.rivals.4th-echelon.summoner.minion/skeleton"}
+###### Skeleton {data-scc="mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/skeleton"}
 
 | — | Undead | Signature Minion Harrier | - | 1 Malice per minion summoned |
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
@@ -569,7 +569,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the skeleton is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), their square becomes [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. The first time any enemy enters this space, they take 2 damage and end this effect.
 
-###### Grave Knight {data-scc="mcdm.summoner.v1/monster.rivals.4th-echelon.summoner.minion/grave-knight"}
+###### Grave Knight {data-scc="mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/grave-knight"}
 
 | — | Undead | Minion Brute | - | 2 Malice for two minions |
 |:-:|:------:|:------------:|:-:|:------------------------:|
@@ -593,7 +593,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > When the grave knight is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) before being destroyed.
 
-###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rivals.4th-echelon.summoner.minion/ceaseless-mournling"}
+###### Ceaseless Mournling {data-scc="mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/ceaseless-mournling"}
 
 | — | Undead | Minion Controller | - | 4 Malice for three minions |
 |:-:|:------:|:-----------------:|:-:|:--------------------------:|
@@ -613,7 +613,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 >
 > The first time the mournling [burrows](../../Browse/movement/burrow.md) out of the ground on their turn, they can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against each [adjacent](../../Browse/rule/combat/adjacent.md) enemy.
 
-###### Zombie Titan {data-scc="mcdm.summoner.v1/monster.rivals.4th-echelon.summoner.minion/zombie-titan"}
+###### Zombie Titan {data-scc="mcdm.summoner.v1/monster.rival.4th-echelon.summoner.minion/zombie-titan"}
 
 | — | Undead | Minion Defender | - | 6 Malice for one minion |
 |:-:|:------:|:---------------:|:-:|:-----------------------:|

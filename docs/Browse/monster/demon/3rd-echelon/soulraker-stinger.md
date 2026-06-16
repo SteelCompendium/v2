@@ -1,0 +1,35 @@
+---
+printing: "1.01"
+printing_book: "Draw Steel: Monsters"
+agility: -1
+ev: 9 for four minions
+free_strike: 4
+intuition: 4
+keywords:
+    - Abyssal
+    - Demon
+    - Soulraker
+level: 7
+might: 0
+movement: Climb
+name: Soulraker Stinger
+organization: Minion
+presence: 0
+reason: 4
+role: Artillery
+scc: mcdm.monsters.v1/monster.demon.3rd-echelon.statblock/soulraker-stinger
+size: 1M
+speed: 6
+stability: 0
+stamina: "10"
+type: statblock
+weaknesses:
+    - Holy 5
+with_captain: Gain an edge on strikes
+---
+
+# Soulraker Stinger
+
+---
+
+<div class="sb-wrap" data-role="artillery" data-creature="soulraker-stinger"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Soulraker Stinger</span><span class="sb__sticky-role" data-role="artillery">Minion Artillery</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>10</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>4</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+0</b><i>M</i></span><span class="c"><b>-1</b><i>A</i></span><span class="c"><b>+4</b><i>R</i></span><span class="c"><b>+4</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>Holy 5</span></div></div><article class="sb md-typeset" data-role="artillery"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Abyssal, Demon, Soulraker</div><h2 class="sb__name">Soulraker Stinger</h2></div><div class="sb__class"><div class="sb__level">Level 7</div><div class="sb__role" data-role="artillery">Minion Artillery</div><div class="sb__ev">EV 9 for four minions</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">10</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">Holy 5</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+0</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">-1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+4</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+4</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Barb Launch</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 20</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature per minion</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 4</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 poison damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 poison damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 poison damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>All soulraker demons have <a class="sb-term" href="../../../../rule/combat/concealment/">concealment</a> from the target until the start of the stinger's next turn.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Abyssal Buzzing</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Any enemy who starts their turn with two or more soulraker <a class="sb-term" href="../../../../rule/organization/minion/">minions</a> <a class="sb-term" href="../../../../rule/combat/adjacent/">adjacent</a> to them takes 3 sonic damage.</p></article></div></article></div>

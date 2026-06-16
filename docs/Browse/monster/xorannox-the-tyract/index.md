@@ -38,7 +38,7 @@ Unwitting explorers sometimes accidentally abscond with an egg. If unfertilized,
 
 Xorannox (*ZOR-ah-nocks*) rules as Lord of the White Tower, an isolated, multilevel finger of alabaster stone connecting to the World Below. He is commonly known as the Tyract, an ancient Za'hariax word that literally translates as "a king who rules with his teeth"-and the overmind indeed consumes those who displease him.
 
-Xorannox is chief of the Grasp, a secret organization that seeks to overthrow the [voiceless talkers](../voiceless-talkers/index.md)' great empire and place Xorannox above all, first as king, then as god. The Tyract is a master strategist, always one step ahead of his enemies. Heroes may be surprised to discover their allies are members of the Grasp. When they meet Xorannox, he's delighted! He loves treating with humanoids! They have the same enemies, after all.
+Xorannox is chief of the Grasp, a secret organization that seeks to overthrow the [voiceless talkers](../voiceless-talker/index.md)' great empire and place Xorannox above all, first as king, then as god. The Tyract is a master strategist, always one step ahead of his enemies. Heroes may be surprised to discover their allies are members of the Grasp. When they meet Xorannox, he's delighted! He loves treating with humanoids! They have the same enemies, after all.
 
 Unfortunately, no matter how useful or dependable a party of heroes might be, Xorannox is nearly incapable of resisting the urge to betray his allies. He assumes, as do most vaurathi, that the natural end of all alliances is betrayal. Thus when the gauntlet is thrown and his life is in danger, the only [minions](../../rule/organization/minion.md) he can truly trust are his own six eyes.
 
