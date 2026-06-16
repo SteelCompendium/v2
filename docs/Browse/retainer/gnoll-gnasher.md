@@ -40,7 +40,6 @@ type: statblock
 <div class="fb__adv-head">Level 4 Advancement</div>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">Frenzied Bite</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>An enemy within 5 squares is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gnasher moves up to their speed and can use their <a href="../../rule/combat/signature-ability/">signature ability</a>.</p></div></div>
@@ -59,7 +58,6 @@ type: statblock
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Horrific Feas</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The gnasher reduces a creature to 0 <a href="../../rule/health/stamina/">Stamina</a>.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gnasher consumes part of the target&#39;s body. The gnasher can spend a <a href="../../rule/health/recoveries/">Recovery</a>, and each enemy within 5 squares of the gnasher who has I &lt; AVERAGE is <a href="../../condition/frightened/">frightened</a> (<a href="../../rule/general/saving-throw/">save</a> ends).</p></div></div>

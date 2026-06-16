@@ -84,8 +84,6 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
-<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The boiling oil cauldron is reloaded, allowing <b>Boiling Oil</b> to be used again. This action can be used only once per round.</p></div></div>
 </article>
 </div>

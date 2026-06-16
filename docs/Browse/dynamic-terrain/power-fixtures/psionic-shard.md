@@ -63,7 +63,6 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Psionic Pulse</h3></div><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The shard is destroyed.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The shard releases a shockwave channeled through each creature affected by Psionic Barrier. Each ally in the encounter is <a href="../../../condition/dazed/">dazed</a> until the end of their next turn.</p></div></div>

@@ -49,7 +49,6 @@ type: statblock
 <div class="fb__adv-head">Level 7 Advancement</div>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Mow &#39;Em Down</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; See below</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The charger moves in a straight line up to their speed. During this move, they ignore enemy <a href="../../feature/common/main-actions/free-strike/">free strikes</a>, and they can make a melee <a href="../../feature/common/main-actions/free-strike/">free strike</a> against any creature they move <a href="../../rule/combat/adjacent/">adjacent</a> to.</p></div></div>
 </article>

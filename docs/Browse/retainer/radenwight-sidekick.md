@@ -41,7 +41,6 @@ type: statblock
 <div class="fb__adv-head">Level 4 Advancement</div>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Boost</h3></div><div class="fb__feat-corner"></div></div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the sidekick&#39;s mentor moves <a href="../../rule/combat/adjacent/">adjacent</a> to the sidekick at any point during the mentor&#39;s turn, the mentor gains a +1 bonus to speed and can automatically climb at full speed while moving until the end of their turn.</p></div></div>
 </article>
