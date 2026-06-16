@@ -62,20 +62,20 @@ type: dynamic-terrain
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">The watchtower must be completely destroyed.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">High Ground and Cover</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">High Ground and Cover</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Creatures who have access to the watchtower&#39;s interior ladders or stairs have <a href="../../../movement/high-ground/">high ground</a> and <a href="../../../rule/combat/cover/">cover</a> against creatures outside the watchtower.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Getting Inside</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Getting Inside</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-intro">A creature outside and <a href="../../../rule/combat/adjacent/">adjacent</a> to the watchtower can gain access to the interior by climbing it as an <b>Agility test</b> or breaking into it with a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1d6 damage; the creature remains outside the watchtower</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature remains outside the watchtower.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature gains access to the watchtower.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Upgrades</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body"><b>Ballista Emplacement (+12 EV)</b> The watchtower is equipped with a <a href="../field-ballista/">field ballista</a> that can be used by creatures in the watchtower. The ballista can&#39;t be moved.
 
 <b>Boiling Oil Cauldron (+17 EV)</b> The watchtower is equipped with a <a href="../boiling-oil-cauldron/">boiling oil cauldron</a> that can be used by creatures in the watchtower.

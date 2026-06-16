@@ -36,11 +36,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Hunger Thrush</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hunger Thrush</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the boil is I &lt; AVERAGE <a href="../../../../condition/taunted/">taunted</a> (EoT) by the boil, or I &lt; WEAK <a href="../../../../condition/taunted/">taunted</a> (EoT) by the boil and can&#39;t move further from it.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Oh, It Pops</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Oh, It Pops</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">When the boil is destroyed, each enemy within 3 squares of the boil takes acid <a href="../../../../rule/damage/damage/">damage</a> equal to your level and is A &lt; STRONG <a href="../../../../condition/weakened/">weakened</a> (save ends).</div>
 </article>
 </div>

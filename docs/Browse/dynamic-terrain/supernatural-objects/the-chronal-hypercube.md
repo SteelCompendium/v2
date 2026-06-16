@@ -50,16 +50,16 @@ type: dynamic-terrain
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Deactivate</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-intro">A creature who has the <a href="../../../skill/lore/psionics/">Psionics</a> skill can deactivate and take control of the chronal hypercube by making a <b>Reason test</b> while within 10 squares of the hypercube.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 1d6 psychic damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to deactivate the hypercube.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hypercube <a href="../../../movement/teleport/">teleports</a> <a href="../../../rule/combat/adjacent/">adjacent</a> to the creature at the start of the next round and becomes an ally to the creature and their allies.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Dimensional Flicker</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dimensional Flicker</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube <a href="../../../movement/teleport/">teleports</a> to a square of one ally&#39;s choice within 10 squares and is hidden. While the hypercube is hidden, <a href="../../../skill/lore/psionics/">Psionics</a> is the only skill that can be applied to a test made to find it.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Chronal Superhighway</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Chronal Superhighway</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Any ally within 10 squares of the hypercube can <a href="../../../movement/teleport/">teleport</a> when they move. An ally who <a href="../../../movement/teleport/">teleports</a> gains an edge on the next power roll they make.</div>
 </article>
 </div>

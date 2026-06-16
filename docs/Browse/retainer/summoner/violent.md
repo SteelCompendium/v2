@@ -41,7 +41,7 @@ weaknesses:
 <div class="fb__band--adv" data-level="7">
 <div class="fb__adv-head">Level 7 Advancement</div>
 <article class="sc-ability fb__feat" data-action="maneuver">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Cleansing Flense</h3><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Cleansing Flense</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each of the detective&#39;s minions in the area</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Each target moves up to their <a href="../../../rule/character/speed/">speed</a> toward an ally. Each ally within <a href="../../../rule/combat/line-of-effect/">line of effect</a> of the detective can give one <a href="../../../rule/combat/end-of-turn/">EoT</a> or save ends effect they&#39;re affected by to an <a href="../../../rule/combat/adjacent/">adjacent</a> minion and end that effect on themself.</p></div></div>
@@ -51,7 +51,7 @@ weaknesses:
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="main">
-<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Blightwash</h3><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Blightwash</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One of the detective&#39;s minions</div></div></div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 corruption damage; M &lt; AVERAGE <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; M &lt; STRONG <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div></div></div>
@@ -59,7 +59,7 @@ weaknesses:
 <div class="fb__feat-trailing">The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an <a href="../../../rule/dice/edge/">edge</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
-<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Summon Gorrres</h3><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Summon Gorrres</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The detective summons two gorrres into unoccupied spaces within distance. On each of the detective&#39;s turns, they direct the squad of <b>gorrres</b> to move and use a main action.</p></div></div>

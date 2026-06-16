@@ -131,10 +131,16 @@
 .fb .fb__feat::before { display: none; }
 .fb .fb__feat:hover { transform: none; box-shadow: none; }
 
-/* ── FEATURE HEAD — one line: icon · name · cost ── */
+/* ── FEATURE HEAD — icon · (usage eyebrow over) name · cost ── */
 .fb__feat-head { display: flex; align-items: baseline; gap: .55rem; }
 .fb__feat-icon { align-self: center; font-size: 1.1rem; line-height: 1; }
-.md-typeset .fb__feat-name { font-size: 1.25rem; margin: 0; flex: 1; min-width: 0; }
+.fb__feat-titles { flex: 1; min-width: 0; }
+/* usage eyebrow ("main action (adjacent creature)") — small-caps, action-tinted,
+   the human-readable twin of the [data-action] accent. */
+.fb__feat-eyebrow { display: flex; align-items: center; gap: .5rem;
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .1em; font-size: .85rem; color: var(--act); }
+.md-typeset .fb__feat-name { font-size: 1.25rem; margin: 0; min-width: 0; }
 .fb__feat-corner { margin-left: auto; align-self: baseline; }
 .fb__feat-corner .sc-ability__cost { white-space: nowrap; }
 

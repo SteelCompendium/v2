@@ -39,15 +39,15 @@ type: featureblock
 <div class="fb__flavor">At the start of any goblin&#39;s turn, you can spend Malice to activate one of the following features.</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Goblin Mode</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Goblin Mode</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="fb__feat-body">Each goblin in the encounter gains a +2 bonus to speed until the end of the round.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
-<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Tiny Stabs</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Tiny Stabs</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-body">Each enemy in the encounter takes 1 damage for each goblin <a href="../../../rule/combat/adjacent/">adjacent</a> to them.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Swamp Stink</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Swamp Stink</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
 <div class="fb__feat-intro">The encounter map is covered in a green mist that lasts until the end of the round, and which can&#39;t be dispersed by wind. All areas of the map are <a href="../../../movement/difficult-terrain/">difficult terrain</a> for non-goblins, and each non-goblin on the map makes a <b>Might test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 poison damage; the creature is <a href="../../../condition/weakened/">weakened</a> until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature is <a href="../../../condition/weakened/">weakened</a> until the mist disappears.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 </article>

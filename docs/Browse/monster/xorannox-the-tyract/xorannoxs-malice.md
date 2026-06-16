@@ -38,19 +38,19 @@ type: featureblock
 <div class="fb__flavor">At the start of Xorannox&#39;s turn, you can spend Malice to activate one</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="main">
-<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><h3 class="fb__feat-name sc-ability__name">Gas Belch</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Gas Belch</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="fb__feat-body">Xorannox lets out a noxious belch. Each enemy within 2 squares of him who has M &lt; 3 is <a href="../../../condition/weakened/">weakened</a> (save ends).</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Slime Trail</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slime Trail</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-body">Until the end of Xorannox&#39;s next turn, whenever he or any of his eyes leave their space, they secrete a viscous slime onto the ground in that area. Any enemy who enters an affected square has lightning weakness 5 and fire weakness 5 until the end of the encounter.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
-<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Solo Action</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-body">Xorannox takes an additional main action on his turn. He can use this feature even if he is <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Mind Over Matter</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Mind Over Matter</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">7</span> Malice</div></div></div>
 <div class="fb__feat-body">Xorannox fills the encounter map with a powerful telekinetic field. The Director chooses a cardinal direction (north, south, east, or west). Whenever a creature in the encounter willingly moves or is <a href="../../../movement/forced-movement/">force moved</a>, they are <a href="../../../movement/forced-movement/">pulled</a> 2 squares in the chosen direction, ignoring stability. Each time this feature is used, its previous effect ends.</div>
 </article>
 </div>

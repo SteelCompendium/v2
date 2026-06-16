@@ -43,20 +43,20 @@ type: featureblock
 <div class="fb__flavor">At the start of a meteor dragon&#39;s turn, you can spend Malice to activate one of the following features.</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Liftoff</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Liftoff</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="fb__feat-body">The next time the dragon uses their Crescent Claws ability, they can also <a href="../../../movement/forced-movement/">slide</a> the target up to 5 squares. If the target is dragonsealed, the dragon can vertical <a href="../../../movement/forced-movement/">slide</a> them instead.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
-<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Solo Action</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Solo Action</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-body">The dragon takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">Starfall</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Starfall</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-intro">The dragon drops stars into five 2 cubes anywhere on the encounter map. The area is <a href="../../../movement/difficult-terrain/">difficult terrain</a>, and each creature and object in the area when it appears makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">20 holy damage; <a href="../../../condition/slowed/">slowed</a> (save ends), <a href="../../../condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 holy damage; <a href="../../../condition/slowed/">slowed</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 holy damage</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
-<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><h3 class="fb__feat-name sc-ability__name">Event Horizon</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">☠️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Event Horizon</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">10</span> Malice</div></div></div>
 <div class="fb__feat-body">A black hole manifests as a 1 cube within 20 squares of the dragon in an unoccupied space. Each creature who has M &lt; 5 and each object of size 3 or smaller is vertical <a href="../../../movement/forced-movement/">pulled</a> 2 squares toward the area at the start of each round, ignoring <a href="../../../rule/character/stability/">stability</a>. Any creature who starts their turn in the area or any object in the area at the end of the round suffers the effect of the dragon&#39;s Voidlight Breath ability, and the black hole disappears.</div>
 </article>
 </div>

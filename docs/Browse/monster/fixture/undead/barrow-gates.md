@@ -36,11 +36,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">The Bell Tolls</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">The Bell Tolls</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the gates is I &lt; AVERAGE <a href="../../../../condition/frightened/">frightened</a> (EoT) by the gates. The <a href="../../../../rule/character/potency/">potency</a> increases by 1 for <a href="../../../../rule/health/winded/">winded</a> enemies.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Undead Dominion</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Undead Dominion</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Each of your undead <a href="../../../../feature/summoner/level-1/minions/">minions</a> has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 2 while occupying a space within 3 squares of the gates.</div>
 </article>
 </div>

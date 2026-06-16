@@ -30,21 +30,21 @@ type: featureblock
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">My, What Big Teeth You Have</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">My, What Big Teeth You Have</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Call of the Wild</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Call of the Wild</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can&#39;t be hidden or have concealment from you or the wolf.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><h3 class="fb__feat-name sc-ability__name">Dire Wolf</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dire Wolf</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../../../../condition/frightened/">frightened</a> until the end of their next turn.</div>
 </article>
 </div>

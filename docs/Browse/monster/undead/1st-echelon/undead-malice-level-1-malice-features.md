@@ -47,21 +47,21 @@ type: featureblock
 <div class="fb__flavor">At the start of any undead&#39;s turn, you can spend Malice to activate one of the following features.</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Ravenous Horde</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">2</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Ravenous Horde</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">2</span> Malice</div></div></div>
 <div class="fb__feat-body">At the end of this round, each hero not already <a href="../../../../rule/combat/adjacent/">adjacent</a> to one or more undead is beset by two <b>rotting zombies</b> who burst up from the ground to appear in adjacent unoccupied spaces. Each zombie is <a href="../../../../rule/health/winded/">winded</a>. This feature can&#39;t be used two rounds in a row.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
-<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><h3 class="fb__feat-name sc-ability__name">Paranormal Fling</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Paranormal Fling</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">3</span> Malice</div></div></div>
 <div class="fb__feat-body">Up to three unattended objects on the encounter map rise to float 1 square off the ground. Each object is then <a href="../../../../movement/forced-movement/">pulled</a> 5 squares toward the nearest enemy within 3 squares of the object.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><h3 class="fb__feat-name sc-ability__name">The Grasping, the Hungry</h3><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">The Grasping, the Hungry</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost"><span class="num">5</span> Malice</div></div></div>
 <div class="fb__feat-intro">Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. Any creature who ends their turn <a href="../../../../rule/combat/adjacent/">adjacent</a> to an affected square makes an <b>Agility test</b>.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; <a href="../../../../condition/restrained/">restrained</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, a creature takes 1d6 damage at the start of each of their turns.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Dread March</h3><div class="fb__feat-corner"><div class="sc-ability__cost">7+ Malice</div></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dread March</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">7+ Malice</div></div></div>
 <div class="fb__feat-body">Up to four undead in the encounter move up to their speed and can make a <a href="../../../../feature/common/main-actions/free-strike/">free strike</a>. The number of undead affected increases by 1 for each additional <a href="../../../../rule/monster/malice/">Malice</a> spent on this feature. If an undead is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> during this dread march, they don&#39;t die until the march is resolved.</div>
 </article>
 </div>

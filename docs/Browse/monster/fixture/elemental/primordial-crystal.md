@@ -36,11 +36,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Magnetic Pull</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Magnetic Pull</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Elemental Boost</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Elemental Boost</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
 </article>
 </div>

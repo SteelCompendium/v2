@@ -33,18 +33,18 @@ type: featureblock
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Terra Resonance</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Terra Resonance</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">Each <a href="../../../../rule/combat/combat-round/">round</a>, you gain a <a href="../../../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../../../rule/combat/aura/">auras</a>) while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Size Increase</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Size Increase</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">The crystal is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Magnified Strike</h3><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Magnified Strike</h3></div><div class="fb__feat-corner"></div></div>
 <div class="fb__feat-body">When you or an ally makes a ranged <a href="../../../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../../../rule/resource/surge/">surge</a> which they can use on the ability.</div>
 </article>
 </div>
