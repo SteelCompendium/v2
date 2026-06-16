@@ -43,6 +43,9 @@ features:
       keywords:
         - '-'
       name: Spot
+      sections:
+        - label: Effect
+          text: The next use of **Release Bolt** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
@@ -89,9 +92,9 @@ features:
       power_roll:
         formula: + 2
         tiers:
-            high: 3 Pull 5
+            high: Pull 5
             low: Pull 1
-            mid: Pull
+            mid: Pull 3
       sections:
         - label: Special
           text: The target must be [slowed](../../condition/slowed.md) by the field ballista.
@@ -154,6 +157,7 @@ type: dynamic-terrain
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Spot</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">-</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">-</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Release Bolt</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Move</h3><div class="fb__feat-corner"></div></div>
@@ -178,7 +182,7 @@ type: dynamic-terrain
 <div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><h3 class="fb__feat-name sc-ability__name">Crank the Chain</h3><div class="fb__feat-corner"></div></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">3 Pull 5</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Pull 5</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a href="../../../condition/slowed/">slowed</a> by the field ballista.</p></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This <a href="../../../movement/forced-movement/">forced movement</a> triggers <a href="../../../rule/combat/opportunity-attack/">opportunity attacks</a>.</p></div></div>
 </article>
