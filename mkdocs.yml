@@ -124,6 +124,7 @@ extra_css:
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
+  - stylesheets/steel-copylink.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
@@ -147,3 +148,5 @@ extra_javascript:
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
   - javascripts/scc-headerlinks.js
+  - javascripts/scc-card-copy-core.js
+  - javascripts/scc-card-copy.js
