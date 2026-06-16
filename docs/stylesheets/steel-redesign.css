@@ -293,6 +293,14 @@
   font-size: .72rem; color: var(--fx-metal); }
 .sc-card__sig-name { font-family: var(--md-small-header-font); font-size: .95rem; color: var(--md-default-fg-color); }
 
+/* Advancement-features index card: gained features + the level each is gained at */
+.sc-card__advlist { list-style: none; margin: .8rem 0 0; padding: .7rem 0 0;
+  border-top: 1px solid var(--fx-metal-faint); display: flex; flex-direction: column; gap: .35rem; }
+.sc-card__advfeat { display: flex; align-items: baseline; gap: .5rem; position: relative; z-index: 1; }
+.sc-card__advlvl { flex: 0 0 auto; min-width: 2.1rem; font-family: var(--md-small-header-font);
+  font-variant: small-caps; letter-spacing: .04em; font-size: .72rem; color: var(--fx-metal); }
+.sc-card__advname { font-size: .9rem; color: var(--md-default-fg-color); }
+
 /* ============================================================
    WIDE EDITORIAL CARDS — high-count, text-led types (complication, perk)
    Emitted as <div class="sc-cards sc-cards--wide"> of <a class="sc-card sc-card--wide">
