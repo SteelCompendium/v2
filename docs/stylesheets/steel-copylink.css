@@ -1,0 +1,76 @@
+/* SCC card copy-link button (scc-card-copy.js).
+   A small utility button injected into the top-right corner of statblock,
+   featureblock, and ability cards — "tucked under the cost chip", matching the
+   original card design's hover .ops toolbar. Copies the page's stable
+   /scc/<code>/ permalink. Hidden until hover (desktop) so it stays out of
+   screenshots; faint-but-persistent on touch; hidden in print. */
+
+.sc-copylink {
+  position: absolute;
+  z-index: 4;
+  width: 1.7rem;
+  height: 1.7rem;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border-radius: 0.35rem;
+  color: var(--md-default-fg-color--light);
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+
+.sc-copylink svg {
+  width: 0.95rem;
+  height: 0.95rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+}
+
+.sc-copylink:hover {
+  color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+}
+
+/* Reveal on card hover (desktop) and on keyboard focus (a11y). */
+.sb-wrap:hover .sc-copylink,
+.fb-wrap:hover .sc-copylink,
+.sc-ability:hover .sc-copylink,
+.sc-copylink:focus-visible {
+  opacity: 1;
+}
+
+/* Touch devices have no hover: show faint-but-persistent so the affordance
+   exists without being loud. */
+@media (hover: none) {
+  .sc-copylink {
+    opacity: 0.4;
+  }
+}
+
+/* Per-card-type placement: top-right, sat under the card's cost/EV chip. */
+.sc-copylink[data-card="sb"] { top: 3.1rem; right: 0.7rem; }      /* under .sb__class (role + EV) */
+.sc-copylink[data-card="ability"] { top: 3rem; right: 0.8rem; }   /* under .sc-ability__cost */
+.sc-copylink[data-card="fb"] { top: 0.85rem; right: 0.85rem; }    /* fb head right corner is clear */
+
+/* Transient "Copied" confirmation, placed to the LEFT of the button so it stays
+   inside .sc-ability's overflow:hidden bounds. */
+.sc-copylink--copied::after {
+  content: "Copied";
+  position: absolute;
+  right: calc(100% + 0.35rem);
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  color: var(--md-accent-fg-color);
+}
+
+@media print {
+  .sc-copylink { display: none !important; }
+}
