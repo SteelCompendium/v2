@@ -23,9 +23,9 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p>
-<ul><li>2, −1, −1</li><li>1, 1, −1</li><li>1, 0, 0</li></ul>
-<p><b>Weak Potency:</b> Might − 2</p>
-<p><b>Average Potency:</b> Might − 1</p>
+<ul><li>2, -1, -1</li><li>1, 1, -1</li><li>1, 0, 0</li></ul>
+<p><b>Weak Potency:</b> Might - 2</p>
+<p><b>Average Potency:</b> Might - 1</p>
 <p><b>Strong Potency:</b> Might</p>
 <p><b>Starting Stamina at 1st Level:</b> 21</p>
 <p><b>Stamina Gained at 2nd and Higher Levels:</b> 12</p>

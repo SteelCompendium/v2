@@ -25,7 +25,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 |:-:|:---------------:|:---------------------------:|:-:|:-:|
 | **1M**<br>Size | **5**<br>Speed | **21**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
 | **Fire 2**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−1**<br>Might | **0**<br>Agility | **+2**<br>Reason | **+2**<br>Intuition | **0**<br>Presence |
+| **-1**<br>Might | **0**<br>Agility | **+2**<br>Reason | **+2**<br>Intuition | **0**<br>Presence |
 
 > ⭐️ **Demon Summoner**
 >
@@ -57,7 +57,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 |:-:|:--------------:|:------------------------:|:-:|:-:|
 | **1M**<br>Size | **6**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
 | **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **0**<br>Might | **+2**<br>Agility | **−1**<br>Reason | **−1**<br>Intuition | **−1**<br>Presence |
+| **0**<br>Might | **+2**<br>Agility | **-1**<br>Reason | **-1**<br>Intuition | **-1**<br>Presence |
 
 > ⭐️ **Teeth!**
 >
@@ -101,7 +101,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 |:-:|:--------------:|:---------------:|:-:|:-:|
 | **1M**<br>Size | **7**<br>Speed | **7 \| 7 \| 7**<br>Stamina | **1**<br>Stability | **4**<br>Free Strike |
 | **—**<br>Immunity | **Climb**<br>Movement | - | **Holy 1**<br>Weakness | **Corruption**<br>Free Strike Damage Type |
-| **+2**<br>Might | **+3**<br>Agility | **0**<br>Reason | **−1**<br>Intuition | **−1**<br>Presence |
+| **+2**<br>Might | **+3**<br>Agility | **0**<br>Reason | **-1**<br>Intuition | **-1**<br>Presence |
 
 > ⭐️ **Transforming Strike**
 >
@@ -161,7 +161,7 @@ Whenever the following retainer would gain a new advancement ability, the player
 |:-:|:--------------:|:------------:|:-:|:-:|
 | **2**<br>Size | **5**<br>Speed | **27 \| 27**<br>Stamina | **2**<br>Stability | **8**<br>Free Strike |
 | **—**<br>Immunity | **—**<br>Movement | - | **Holy 1**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+4**<br>Might | **+3**<br>Agility | **0**<br>Reason | **−1**<br>Intuition | **0**<br>Presence |
+| **+4**<br>Might | **+3**<br>Agility | **0**<br>Reason | **-1**<br>Intuition | **0**<br>Presence |
 
 > ⭐️ **Gorrring Strike**
 >
@@ -237,7 +237,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
 | **1M**<br>Size | **6**<br>Speed | **2**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
 | **Corruption 2, poison 2**<br>Immunity | **Climb**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−2**<br>Might | **+2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **−2**<br>Presence |
+| **-2**<br>Might | **+2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **-2**<br>Presence |
 
 > ⭐️ **Bonetrops**
 >
@@ -249,7 +249,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:---------------:|:-:|:------------------------:|
 | **2**<br>Size | **5**<br>Speed | **8 \| 8**<br>Stamina | **2**<br>Stability | **4**<br>Free Strike |
 | **Corruption 2, poison 2**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
+| **+2**<br>Might | **-2**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+1**<br>Presence |
 
 > ⭐️ **Zombie Clutch**
 >
@@ -265,7 +265,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:-------------:|:------------:|:-:|:--------------------------:|
 | **1M**<br>Size | **5**<br>Speed | **4 \| 4 \| 4**<br>Stamina | **2**<br>Stability | **3**<br>Free Strike |
 | **Corruption 2, poison 2**<br>Immunity | **—**<br>Movement | - | **Fire 1**<br>Weakness | **Poison**<br>Free Strike Damage Type |
-| **+2**<br>Might | **−1**<br>Agility | **+1**<br>Reason | **+3**<br>Intuition | **−1**<br>Presence |
+| **+2**<br>Might | **-1**<br>Agility | **+1**<br>Reason | **+3**<br>Intuition | **-1**<br>Presence |
 
 > 🗡 **Fetid Bindings 2d10 + 3 (Signature Ability)**
 >
@@ -345,7 +345,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:------------------------:|:-:|:----------------------------:|
 | **1M**<br>Size | **6**<br>Speed | **3**<br>Stamina | **0**<br>Stability | **1**<br>Free Strike |
 | **Corruption 3, poison 3**<br>Immunity | **Climb**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **−1**<br>Might | **+3**<br>Agility | **+1**<br>Reason | **+1**<br>Intuition | **−1**<br>Presence |
+| **-1**<br>Might | **+3**<br>Agility | **+1**<br>Reason | **+1**<br>Intuition | **-1**<br>Presence |
 
 > ⭐️ **Bonetrops**
 >
@@ -381,7 +381,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:-----------------:|:-:|:--------------------------:|
 | **2**<br>Size | **5**<br>Speed | **6 \| 6 \| 6**<br>Stamina | **3**<br>Stability | **3**<br>Free Strike |
 | **Corruption 3, poison 3**<br>Immunity | **Burrow**<br>Movement | - | **—**<br>Weakness | **Sonic**<br>Free Strike Damage Type |
-| **+3**<br>Might | **+3**<br>Agility | **0**<br>Reason | **+2**<br>Intuition | **−1**<br>Presence |
+| **+3**<br>Might | **+3**<br>Agility | **0**<br>Reason | **+2**<br>Intuition | **-1**<br>Presence |
 
 > ⭐️ **Always Crying**
 >
@@ -599,7 +599,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:-----------------:|:-:|:--------------------------:|
 | **2**<br>Size | **5**<br>Speed | **10 \| 10 \| 10**<br>Stamina | **5**<br>Stability | **3**<br>Free Strike |
 | **Corruption 5, poison 5**<br>Immunity | **Burrow**<br>Movement | - | **—**<br>Weakness | **Sonic**<br>Free Strike Damage Type |
-| **+5**<br>Might | **+5**<br>Agility | **−2**<br>Reason | **+4**<br>Intuition | **+1**<br>Presence |
+| **+5**<br>Might | **+5**<br>Agility | **-2**<br>Reason | **+4**<br>Intuition | **+1**<br>Presence |
 
 > ⭐️ **Always Crying**
 >
@@ -619,7 +619,7 @@ Any minions that the rival can summon can be replaced with the equivalent minion
 |:-:|:------:|:---------------:|:-:|:-----------------------:|
 | **4**<br>Size | **4**<br>Speed | **50**<br>Stamina | **5**<br>Stability | **7**<br>Free Strike |
 | **Corruption 5, poison 5**<br>Immunity | **—**<br>Movement | - | **—**<br>Weakness | **—**<br>Free Strike Damage Type |
-| **+5**<br>Might | **−1**<br>Agility | **+2**<br>Reason | **+4**<br>Intuition | **+5**<br>Presence |
+| **+5**<br>Might | **-1**<br>Agility | **+2**<br>Reason | **+4**<br>Intuition | **+5**<br>Presence |
 
 > ⭐️ **Big Stomp**
 >

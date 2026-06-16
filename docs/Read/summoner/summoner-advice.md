@@ -232,7 +232,7 @@ The following pixie bellringer has been converted from a [summoner](../../Browse
 |:-:|:---:|:----------------------:|:-:|:---------------------:|
 | **1T**<br>Size | **5**<br>Speed | **7**<br>Stamina | **0**<br>Stability | **2**<br>Free Strike |
 | **—**<br>Immunity | **Fly, hover**<br>Movement | - | **—**<br>Weakness | - |
-| **−3**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
+| **-3**<br>Might | **+1**<br>Agility | **0**<br>Reason | **0**<br>Intuition | **+2**<br>Presence |
 
 With Captain: +2 bonus to speed
 
@@ -252,7 +252,7 @@ With Captain: +2 bonus to speed
 
 > ⭐️ **Fairy Chime**
 >
-> Each ally within 1 square of a bellringer has a +1 to saving throws. Each enemy within 1 square of a bellringer has a −1 to saving throws.
+> Each ally within 1 square of a bellringer has a +1 to saving throws. Each enemy within 1 square of a bellringer has a -1 to saving throws.
 
 > ⭐️ **Minuscule**
 >

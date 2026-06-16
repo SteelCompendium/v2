@@ -10,7 +10,7 @@ features:
       icon: ⭐️
       level: 9
       name: Size Increase
-    - body: Each non-fey enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the pond has a −1 penalty to [saving throws](../../../rule/general/saving-throw.md) and resisting [potencies](../../../rule/character/potency.md) until the start of their next [turn](../../../rule/combat/turn.md).
+    - body: Each non-fey enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the pond has a -1 penalty to [saving throws](../../../rule/general/saving-throw.md) and resisting [potencies](../../../rule/character/potency.md) until the start of their next [turn](../../../rule/combat/turn.md).
       icon: ⭐️
       level: 9
       name: Folly Field
@@ -45,7 +45,7 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><h3 class="fb__feat-name sc-ability__name">Folly Field</h3><div class="fb__feat-corner"></div></div>
-<div class="fb__feat-body">Each non-fey enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the pond has a −1 penalty to <a href="../../../../rule/general/saving-throw/">saving throws</a> and resisting <a href="../../../../rule/character/potency/">potencies</a> until the start of their next <a href="../../../../rule/combat/turn/">turn</a>.</div>
+<div class="fb__feat-body">Each non-fey enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the pond has a -1 penalty to <a href="../../../../rule/general/saving-throw/">saving throws</a> and resisting <a href="../../../../rule/character/potency/">potencies</a> until the start of their next <a href="../../../../rule/combat/turn/">turn</a>.</div>
 </article>
 </div>
 </div>

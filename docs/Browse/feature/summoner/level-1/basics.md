@@ -23,9 +23,9 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a <a href="../../../../rule/character/reason/">Reason</a> of 2, and you can choose one of the following arrays for your other <a href="../../../../rule/character/characteristic/">characteristics</a> scores:</p>
-<ul><li>2, 2, −1, −1</li><li>2, 1, 1, −1</li><li>2, 1, 0, 0</li><li>1, 1, 1, 0</li></ul>
-<p><b>Weak <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> − 2</p>
-<p><b>Average <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> − 1</p>
+<ul><li>2, 2, -1, -1</li><li>2, 1, 1, -1</li><li>2, 1, 0, 0</li><li>1, 1, 1, 0</li></ul>
+<p><b>Weak <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> - 2</p>
+<p><b>Average <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a> - 1</p>
 <p><b>Strong <a href="../../../../rule/character/potency/">Potency</a>:</b> <a href="../../../../rule/character/reason/">Reason</a></p>
 <p><b>Starting <a href="../../../../rule/health/stamina/">Stamina</a> at 1st Level:</b> 15</p>
 <p><b><a href="../../../../rule/health/stamina/">Stamina</a> Gained at 2nd and Higher Levels:</b> 6</p>
