@@ -592,7 +592,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    bare class selectors, so the padding-top gap below the divider and the row indent
    must beat them. */
 .md-typeset .sb-prev__feats {
-  list-style: none; margin: .5rem var(--pad) .7rem; padding: 1.25rem 0 0;
+  list-style: none; margin: .5rem var(--pad) .7rem; padding: 0.5rem 0 0;
   border-top: 1px solid var(--fx-metal-faint);
   display: flex; flex-direction: column; gap: 0;
 }
