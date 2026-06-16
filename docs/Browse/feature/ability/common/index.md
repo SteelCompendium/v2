@@ -2,36 +2,12 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="free-strikes/">Free Strikes</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Melee Weapon Free Strike](free-strikes/melee-weapon-free-strike-combat.md)
-- [Ranged Weapon Free Strike](free-strikes/ranged-weapon-free-strike-combat.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="maneuvers/">Maneuvers</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Escape Grab](maneuvers/escape-grab.md)
-- [Grab](maneuvers/grab.md)
-- [Knockback](maneuvers/knockback.md)
-
-</div>
-
-</details>
-
-<div class="browse-index" markdown>
-
-- [Claw Dirt](claw-dirt.md)
-- [Dragon's Fire](dragons-fire.md)
-- [Melee Weapon Free Strike](melee-weapon-free-strike.md)
-- [Ranged Weapon Free Strike](ranged-weapon-free-strike.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="claw-dirt/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Claw Dirt</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">-</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Self</span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="dragons-fire/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Dragon&#39;s Fire</h3></div></div><div class="sc-prev__flavor">You open your maw and unleash hell.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Area</span><span class="sc-prev__chip">Magic</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v"><b>5</b> x <b>1</b> line within <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Each enemy in the area</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="escape-grab/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Escape Grab</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">-</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Self</span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="grab/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Grab</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Melee</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Melee <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="knockback/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Knockback</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Melee</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Melee <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="melee-weapon-free-strike/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Melee Weapon Free Strike</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Charge</span><span class="sc-prev__chip">Melee</span><span class="sc-prev__chip">Strike</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Melee <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature or object</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="ranged-weapon-free-strike/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Ranged Weapon Free Strike</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Ranged</span><span class="sc-prev__chip">Strike</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Ranged <b>5</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature or object</span></span></div></a>
 </div>

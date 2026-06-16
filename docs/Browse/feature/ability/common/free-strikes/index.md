@@ -1,8 +1,0 @@
-# Free Strikes
-
----
-
-<div class="sc-prevs">
-<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="melee-weapon-free-strike-combat/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Melee Weapon Free Strike</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Charge</span><span class="sc-prev__chip">Melee</span><span class="sc-prev__chip">Stike</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Melee <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature or object</span></span></div></a>
-<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="ranged-weapon-free-strike-combat/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Ranged Weapon Free Strike</h3></div></div><div class="sc-prev__kw"><span class="sc-prev__chip">Ranged</span><span class="sc-prev__chip">Stike</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Ranged <b>5</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature or object</span></span></div></a>
-</div>
