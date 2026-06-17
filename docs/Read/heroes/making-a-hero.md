@@ -104,27 +104,55 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
 
-| **Charge, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
-|------------------------------------|------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 2 + M or A damage
-- **12-16:** 5 + M or A damage
-- **17+:** 7 + M or A damage
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Melee Weapon Free Strike</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M or A damage</span></div>
+</div>
+</div>
+</article>
 
 ###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike"}
 
-| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**             | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 2 + M or A damage
-- **12-16:** 4 + M or A damage
-- **17+:** 6 + M or A damage
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ranged Weapon Free Strike</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + M or A damage</span></div>
+</div>
+</div>
+</article>
 
 #### 8. Complication
 

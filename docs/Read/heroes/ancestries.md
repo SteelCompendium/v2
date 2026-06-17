@@ -379,43 +379,112 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 ### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits"}
 
-[Devil](../../Browse/ancestry/devil.md) heroes have access to the following traits.
-
-#### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
-
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md) (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when attempting to discover an [NPC](../../Browse/rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
-
-#### Purchased Devil Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns.)
-
-##### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
-
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md), you can deal extra damage with the [strike](../../Browse/rule/combat/strike.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
-
-##### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
-
-Your powerful legs make you faster. You have [speed](../../Browse/rule/character/speed.md) 6.
-
-##### Glowing Eyes {data-scc="mcdm.heroes.v1/feature.trait.devil/glowing-eyes"}
-
-Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to deal that creature psychic damage equal to 1d10 + your level.
-
-##### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
-
-Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) made against creatures with [concealment](../../Browse/rule/combat/concealment.md).
-
-##### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
-
-Your cherished horns are larger than the average [devil's](../../Browse/ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a [saving throw](../../Browse/rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
-
-##### Prehensile Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/prehensile-tail"}
-
-Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
-
-##### Wings {data-scc="mcdm.heroes.v1/feature.trait.devil/wings"}
-
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
+<h3 class="sc-trait__name">Devil Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/devil/">Devil</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Silver Tongue</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the <a href="../../../Browse/skill/interpersonal/">interpersonal skill group</a> (see Skills in Chapter 9: <a href="../tests/">Tests</a>), and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> when attempting to discover an <a href="../../../Browse/rule/general/npc/">NPC</a>&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../negotiation/">Negotiation</a>).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Devil Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Beast Legs, Impressive Horns.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Barbed Tail</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../Browse/rule/combat/strike/">strike</a> equal to your highest <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beast Legs</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your powerful legs make you faster. You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Glowing Eyes</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Hellsight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> made against creatures with <a href="../../../Browse/rule/combat/concealment/">concealment</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Impressive Horns</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your cherished horns are larger than the average <a href="../../../Browse/ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prehensile Tail</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wings</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight"}
 
@@ -505,71 +574,159 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 
 ### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
 
-[Dragon knight](../../Browse/ancestry/dragon-knight.md) heroes have access to the following traits.
-
-#### Signature Trait: Wyrmplate {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate"}
-
-Your hardened scales grant you [damage immunity](../../Browse/rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../../Browse/rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../../Browse/rule/damage/damage-immunity.md) type when you finish a [respite](../../Browse/rule/resource/respite.md).
-
-#### Purchased Dragon Knight Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](../../Browse/feature/ability/dragon-knight/dragon-breath.md), Prismatic Scales.)
-
-##### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
-
-Whenever you or an [adjacent](../../Browse/rule/combat/adjacent.md) creature takes damage from a [strike](../../Browse/rule/combat/strike.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../../Browse/rule/combat/strike.md) by an amount equal to your level.
-
-##### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
-
-You have the following [signature ability](../../Browse/rule/combat/signature-ability.md).
-
-###### Draconian Pride {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride"}
-
-*You let loose a mighty roar to shake your foes' spirits.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 1 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 2 damage
-- **12-16:** 5 damage; [push](../../Browse/movement/forced-movement.md) 1
-- **17+:** 7 damage; [push](../../Browse/movement/forced-movement.md) 2
-
-##### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
-
-You have the following [signature ability](../../Browse/rule/combat/signature-ability.md).
-
-###### Dragon Breath {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath"}
-
-*A furious exhalation of energy washes over your foes.*
-
-| **Area, Magic**        |               **Main action** |
-|------------------------|------------------------------:|
-| **📏 3 [cube](../../Browse/rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 2 damage
-- **12-16:** 4 damage
-- **17+:** 6 damage
-
-**Effect:** You choose the ability's [damage type](../../Browse/rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
-
-##### Prismatic Scales {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales"}
-
-Select one [damage immunity](../../Browse/rule/damage/damage-immunity.md) granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
-
-##### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
-
-As a maneuver, you can recite the following oath. Until the start of your next [turn](../../Browse/rule/combat/turn.md), whenever you make a [saving throw](../../Browse/rule/general/saving-throw.md), you succeed on a 4 or higher.
-
-*Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
-
-##### Wings {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wings"}
-
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dragon Knight Trait</div>
+<h3 class="sc-trait__name">Dragon Knight Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/dragon-knight/">Dragon knight</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Wyrmplate</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your hardened scales grant you <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../Browse/rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> type when you finish a <a href="../../../Browse/rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Dragon Knight Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> <a href="../../../Browse/feature/ability/dragon-knight/dragon-breath/">Dragon Breath</a>, Prismatic Scales.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Draconian Guard</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature takes damage from a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../Browse/rule/combat/strike/">strike</a> by an amount equal to your level.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Draconian Pride</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Draconian Pride</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You let loose a mighty roar to shake your foes&#39; spirits.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../Browse/rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2</span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Dragon Breath</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Dragon Breath</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A furious exhalation of energy washes over your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../Browse/rule/combat/cube/">cube</a> within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You choose the ability&#39;s <a href="../../../Browse/rule/damage/damage-type/">damage type</a> from acid, cold, corruption, fire, lightning, or poison.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prismatic Scales</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Select one <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Remember Your Oath</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can recite the following oath. Until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
+<p class="sc-trait__flavor">Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wings</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf"}
 
@@ -677,43 +834,96 @@ John was grinning madly at Embers. She held up three fingers.
 
 ### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
 
-[Dwarf](../../Browse/ancestry/dwarf.md) heroes have access to the following traits.
-
-#### Signature Trait: Runic Carving {data-scc="mcdm.heroes.v1/feature.trait.dwarf/runic-carving"}
-
-You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
-
-**Detection:** Pick a specific type of creature (such as goblins or [humans](../../Browse/ancestry/human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the creature or object. You can change the type of creature or object as a maneuver.
-
-**Light:** Your skin sheds light for 10 squares. You can [turn](../../Browse/rule/combat/turn.md) this light on and off as a maneuver.
-
-**Voice:** As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature's name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.
-
-You can have one rune active at a time, and can change or remove a rune with 10 uninterrupted minutes of work.
-
-#### Purchased Dwarf Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
-
-##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.dwarf/great-fortitude"}
-
-Your hearty constitution prevents you from losing strength. You can't be made [weakened](../../Browse/condition/weakened.md).
-
-##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
-
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
-
-##### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
-
-Your stone skin affords you potent protection. You have a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and that [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels.
-
-##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
-
-Your body is made to withstand the blows of your enemies. Your [Might](../../Browse/rule/character/might.md) score is treated as 1 higher for the purpose of resisting [potencies](../../Browse/rule/character/potency.md), and you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities.
-
-##### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
-
-You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can't destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dwarf Trait</div>
+<h3 class="sc-trait__name">Dwarf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/dwarf/">Dwarf</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Runic Carving</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:</p>
+<p><b>Detection:</b> Pick a specific type of creature (such as goblins or <a href="../../../Browse/ancestry/human/">humans</a>) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to the creature or object. You can change the type of creature or object as a maneuver.</p>
+<p><b>Light:</b> Your skin sheds light for 10 squares. You can <a href="../../../Browse/rule/combat/turn/">turn</a> this light on and off as a maneuver.</p>
+<p><b>Voice:</b> As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature&#39;s name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.</p>
+<p>You can have one rune active at a time, and can change or remove a rune with 10 uninterrupted minutes of work.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Dwarf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Grounded, Spark Off Your Skin.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Great Fortitude</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Grounded</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Spark Off Your Skin</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your stone skin affords you potent protection. You have a +6 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/health/stamina/">Stamina</a>, and that <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Stand Tough</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Stone Singer</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can&#39;t destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Wode Elf {data-scc="mcdm.heroes.v1/ancestry/wode-elf"}
 
@@ -801,53 +1011,128 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
 
-[Wode elf](../../Browse/ancestry/wode-elf.md) heroes have access to the following traits.
-
-#### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
-
-You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to hide and sneak, and [tests](../../Browse/rule/test/test.md) made to search for you while you are hidden take a [bane](../../Browse/rule/dice/bane.md).
-
-#### Purchased Wode Elf Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)
-
-##### Forest Walk {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/forest-walk"}
-
-You can [shift](../../Browse/movement/shifting.md) into and while within [difficult terrain](../../Browse/movement/difficult-terrain.md).
-
-##### Quick and Brutal {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal"}
-
-Whenever you score a [critical hit](../../Browse/rule/combat/critical-hit.md), you can take an additional main action and an additional move action instead of just a main action.
-
-##### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace"}
-
-Your elf body and mind can't be contained for long. Whenever you make a [saving throw](../../Browse/rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
-
-##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
-
-Accessing memories is as easy as living in the present for you. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to recall lore.
-
-##### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
-
-You have [speed](../../Browse/rule/character/speed.md) 6.
-
-##### The Wode Defends {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends"}
-
-You have the following [signature ability](../../Browse/rule/combat/signature-ability.md). [Signature abilities](../../Browse/rule/combat/signature-ability.md) can be used at will.
-
-###### The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
-
-*Thorny vines erupt from every surface and attempt to bind your foe.*
-
-| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          |           **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
+<h3 class="sc-trait__name">Wode Elf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/wode-elf/">Wode elf</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Wode Elf Glamor</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can magically alter your appearance to better blend in with your surroundings. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to hide and sneak, and <a href="../../../Browse/rule/test/test/">tests</a> made to search for you while you are hidden take a <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Wode Elf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Swift, Otherworldly Grace.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Forest Walk</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can <a href="../../../Browse/movement/shifting/">shift</a> into and while within <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Quick and Brutal</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you score a <a href="../../../Browse/rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Otherworldly Grace</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Revisit Memory</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Swift</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">The Wode Defends</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Wode Defends</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Thorny vines erupt from every surface and attempt to bind your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage; A &lt; WEAK, <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M or A damage; A &lt; AVERAGE, <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M or A damage; A &lt; STRONG, <a href="../../../Browse/condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## High Elf {data-scc="mcdm.heroes.v1/ancestry/high-elf"}
 
@@ -923,39 +1208,102 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits"}
 
-[High elf](../../Browse/ancestry/high-elf.md) heroes have access to the following traits.
-
-#### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
-
-A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) using the [Flirt](../../Browse/skill/interpersonal/flirt.md) or [Persuade](../../Browse/skill/interpersonal/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
-
-#### Purchased High Elf Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* High Senses, Otherworldly Grace.)
-
-##### Glamor of Terror {data-scc="mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror"}
-
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to make that creature [frightened](../../Browse/condition/frightened.md) of you until the end of their next [turn](../../Browse/rule/combat/turn.md).
-
-##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
-
-You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
-
-##### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
-
-Your senses are especially keen and perceptive. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to notice threats.
-
-##### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace"}
-
-Your elf body and mind can't be contained for long. Whenever you make a [saving throw](../../Browse/rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
-
-##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.high-elf/revisit-memory"}
-
-Accessing memories is as easy as living in the present for you. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to recall lore.
-
-##### Unstoppable Mind {data-scc="mcdm.heroes.v1/feature.trait.high-elf/unstoppable-mind"}
-
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../Browse/condition/dazed.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>High Elf Trait</div>
+<h3 class="sc-trait__name">High Elf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/high-elf/">High elf</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: High Elf Glamor</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> using the <a href="../../../Browse/skill/interpersonal/flirt/">Flirt</a> or <a href="../../../Browse/skill/interpersonal/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased High Elf Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> High Senses, Otherworldly Grace.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Glamor of Terror</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../Browse/condition/frightened/">frightened</a> of you until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Graceful Retreat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">High Senses</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your senses are especially keen and perceptive. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to notice threats.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Otherworldly Grace</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Revisit Memory</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Unstoppable Mind</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Hakaan {data-scc="mcdm.heroes.v1/ancestry/hakaan"}
 
@@ -1057,39 +1405,94 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
 
-[Hakaan](../../Browse/ancestry/hakaan.md) heroes have access to the following traits.
-
-#### Signature Trait: Big! {data-scc="mcdm.heroes.v1/feature.trait.hakaan/big"}
-
-Your stature reflects your giant forebears. Your [size](../../Browse/rule/character/size.md) is 1L.
-
-#### Purchased Hakaan Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doomsight, Forceful.)
-
-##### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
-
-You are exceptionally strong. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to lift and haul heavy objects.
-
-##### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
-
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on [tests](../../Browse/rule/test/test.md) and [ability rolls](../../Browse/rule/dice/ability-roll.md), and you don't die no matter how low your [Stamina](../../Browse/rule/health/stamina.md) falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
-
-If you don't predetermine your death encounter, you can choose to become doomed while you are [dying](../../Browse/rule/health/dying.md) with the Director's approval (no action required). Doing so should be reserved for encounters in which you are [dying](../../Browse/rule/health/dying.md) as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
-
-Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain [Stamina](../../Browse/rule/health/stamina.md) or have this effect undone in any way. After 12 hours, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
-
-##### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
-
-Whenever you [force move](../../Browse/movement/forced-movement.md) a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
-
-##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
-
-Your hearty constitution prevents you from losing strength. You can't be made [weakened](../../Browse/condition/weakened.md).
-
-##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
-
-Your body is made to withstand the blows of your enemies. Your [Might](../../Browse/rule/character/might.md) score is treated as 1 higher for the purpose of resisting [potencies](../../Browse/rule/character/potency.md), and you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Hakaan Trait</div>
+<h3 class="sc-trait__name">Hakaan Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/hakaan/">Hakaan</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Big!</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your stature reflects your giant forebears. Your <a href="../../../Browse/rule/character/size/">size</a> is 1L.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Hakaan Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Doomsight, Forceful.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">All Is a Feather</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You are exceptionally strong. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Doomsight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on <a href="../../../Browse/rule/test/test/">tests</a> and <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a>, and you don&#39;t die no matter how low your <a href="../../../Browse/rule/health/stamina/">Stamina</a> falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</p>
+<p>If you don&#39;t predetermine your death encounter, you can choose to become doomed while you are <a href="../../../Browse/rule/health/dying/">dying</a> with the Director&#39;s approval (no action required). Doing so should be reserved for encounters in which you are <a href="../../../Browse/rule/health/dying/">dying</a> as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you&#39;re playing a one-shot and have nothing to lose, Hacaarl.</p>
+<p>Additionally, when your <a href="../../../Browse/rule/health/stamina/">Stamina</a> reaches the negative of your <a href="../../../Browse/rule/health/winded/">winded</a> value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can&#39;t regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> or have this effect undone in any way. After 12 hours, you regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to your <a href="../../../Browse/rule/health/recoveries/">recovery value</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Forceful</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you <a href="../../../Browse/movement/forced-movement/">force move</a> a creature or object, the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> gains a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Great Fortitude</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Stand Tough</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
 
@@ -1135,35 +1538,92 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 ### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits"}
 
-[Human](../../Browse/ancestry/human.md) heroes have access to the following traits.
-
-#### Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
-
-As a maneuver, you can open your awareness to detect [supernatural](../../Browse/rule/general/supernatural.md) creatures and phenomena. Until the end of your next [turn](../../Browse/rule/combat/turn.md), you know the location of any [supernatural](../../Browse/rule/general/supernatural.md) object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
-
-#### Purchased Human Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Perseverance, Staying Power.)
-
-##### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
-
-Your connection to the natural world allows you to resist certain [supernatural](../../Browse/rule/general/supernatural.md) effects. You ignore temporary [difficult terrain](../../Browse/movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../Browse/movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) by 1.
-
-##### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
-
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../Browse/condition/frightened.md), [slowed](../../Browse/condition/slowed.md), or [weakened](../../Browse/condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../../Browse/rule/combat/condition.md).
-
-##### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
-
-Giving up is for other people. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the [Endurance](../../Browse/skill/exploration/endurance.md) skill. Additionally, when you are [slowed](../../Browse/condition/slowed.md), your [speed](../../Browse/rule/character/speed.md) is reduced to 3 instead of 2.
-
-##### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
-
-Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn't untyped, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to take half the damage.
-
-##### Staying Power {data-scc="mcdm.heroes.v1/feature.trait.human/staying-power"}
-
-Your [human](../../Browse/ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../../Browse/rule/health/recoveries.md) by 2.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Human Trait</div>
+<h3 class="sc-trait__name">Human Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/human/">Human</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Detect the Supernatural</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can open your awareness to detect <a href="../../../Browse/rule/general/supernatural/">supernatural</a> creatures and phenomena. Until the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, you know the location of any <a href="../../../Browse/rule/general/supernatural/">supernatural</a> object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Human Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Perseverance, Staying Power.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Can&#39;t Take Hold</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your connection to the natural world allows you to resist certain <a href="../../../Browse/rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../Browse/movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> by 1.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Determination</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../Browse/condition/frightened/">frightened</a>, <a href="../../../Browse/condition/slowed/">slowed</a>, or <a href="../../../Browse/condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../Browse/rule/combat/condition/">conditions</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Perseverance</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Giving up is for other people. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made using the <a href="../../../Browse/skill/exploration/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../Browse/condition/slowed/">slowed</a>, your <a href="../../../Browse/rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Resist the Unnatural</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Staying Power</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../../Browse/ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> by 2.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek"}
 
@@ -1257,47 +1717,122 @@ John offered his hand. Revile shook it and then held it.
 
 ### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits"}
 
-[Memonek](../../Browse/ancestry/memonek.md) heroes have access to the following traits.
-
-#### Signature Trait: Fall Lightly {data-scc="mcdm.heroes.v1/feature.trait.memonek/fall-lightly"}
-
-Your silicone body is low in density. Whenever you fall, you reduce the [distance](../../Browse/rule/combat/distance.md) of the fall by 2 squares.
-
-#### Signature Trait: Lightweight {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightweight"}
-
-Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../Browse/rule/character/size.md) as one [size](../../Browse/rule/character/size.md) smaller than it is.
-
-#### Purchased Memonek Traits
-
-You have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop.)
-
-##### I Am Law {data-scc="mcdm.heroes.v1/feature.trait.memonek/i-am-law"}
-
-Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can't move through your space unless you allow them to do so.
-
-##### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
-
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an [adjacent](../../Browse/rule/combat/adjacent.md) creature makes a [power roll](../../Browse/rule/dice/power-roll.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to remove an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md) on the roll, to [turn](../../Browse/rule/combat/turn.md) a double [edge](../../Browse/rule/dice/edge.md) into an [edge](../../Browse/rule/dice/edge.md), or to [turn](../../Browse/rule/combat/turn.md) a double [bane](../../Browse/rule/dice/bane.md) into a [bane](../../Browse/rule/dice/bane.md).
-
-##### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
-
-You can push your body to move at incredible [speeds](../../Browse/rule/character/speed.md). Your [speed](../../Browse/rule/character/speed.md) is 7.
-
-##### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.memonek/nonstop"}
-
-Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](../../Browse/condition/slowed.md).
-
-##### Systematic Mind {data-scc="mcdm.heroes.v1/feature.trait.memonek/systematic-mind"}
-
-You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
-
-##### Unphased {data-scc="mcdm.heroes.v1/feature.trait.memonek/unphased"}
-
-Your ordered mind can't be caught off guard. You can't be made [surprised](../../Browse/rule/combat/surprised.md).
-
-##### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
-
-Velloparatha—the worldsickness—might hinder you, but you know how to [turn](../../Browse/rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../../Browse/rule/resource/surge.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Memonek Trait</div>
+<h3 class="sc-trait__name">Memonek Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/memonek/">Memonek</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Fall Lightly</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your silicone body is low in density. Whenever you fall, you reduce the <a href="../../../Browse/rule/combat/distance/">distance</a> of the fall by 2 squares.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Lightweight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your <a href="../../../Browse/rule/character/size/">size</a> as one <a href="../../../Browse/rule/character/size/">size</a> smaller than it is.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Memonek Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 4 ancestry points to spend on the following traits. (<em>Quick Build:</em> Lightning Nimbleness, Nonstop.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">I Am Law</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Keeper of Order</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature makes a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to remove an <a href="../../../Browse/rule/dice/edge/">edge</a> or a <a href="../../../Browse/rule/dice/bane/">bane</a> on the roll, to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/edge/">edge</a> into an <a href="../../../Browse/rule/dice/edge/">edge</a>, or to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/bane/">bane</a> into a <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Lightning Nimbleness</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can push your body to move at incredible <a href="../../../Browse/rule/character/speed/">speeds</a>. Your <a href="../../../Browse/rule/character/speed/">speed</a> is 7.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Nonstop</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Systematic Mind</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Unphased</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../Browse/rule/combat/surprised/">surprised</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Useful Emotion</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Velloparatha—the worldsickness—might hinder you, but you know how to <a href="../../../Browse/rule/combat/turn/">turn</a> your pain into something your enemies feel. At the start of any combat, you gain 1 <a href="../../../Browse/rule/resource/surge/">surge</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
 
@@ -1425,35 +1960,92 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 ### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits"}
 
-[Orc](../../Browse/ancestry/orc.md) heroes have access to the following traits.
-
-#### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
-
-Whenever a creature deals damage to you that leaves you [dying](../../Browse/rule/health/dying.md), you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by your [strike](../../Browse/rule/combat/strike.md), you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
-
-#### Purchased Orc Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing [Recovery](../../Browse/rule/health/recoveries.md), Grounded.)
-
-##### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
-
-The magic coursing through your veins makes you run faster in the heat of battle. The first time in any [combat round](../../Browse/rule/combat/combat-round.md) that you take damage, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of the round.
-
-##### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
-
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many [Recoveries](../../Browse/rule/health/recoveries.md) as you like.
-
-##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
-
-The magic in your blood makes it difficult for others to move you. You have a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
-
-##### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.orc/nonstop"}
-
-Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](../../Browse/condition/slowed.md).
-
-##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
-
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the [crafting skill group](../../Browse/skill/crafting/index.md), whether you have those skills or not. Whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md) for a [crafting project](../../Browse/rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Orc Trait</div>
+<h3 class="sc-trait__name">Orc Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/orc/">Orc</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Relentless</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever a creature deals damage to you that leaves you <a href="../../../Browse/rule/health/dying/">dying</a>, you can make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> by your <a href="../../../Browse/rule/combat/strike/">strike</a>, you can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Orc Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Glowing <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, Grounded.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Bloodfire Rush</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>The magic coursing through your veins makes you run faster in the heat of battle. The first time in any <a href="../../../Browse/rule/combat/combat-round/">combat round</a> that you take damage, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> until the end of the round.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Glowing Recovery</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> as you like.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Grounded</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>The magic in your blood makes it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Nonstop</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Passionate Artisan</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>, whether you have those skills or not. Whenever you make a <a href="../../../Browse/rule/downtime/project-roll/">project roll</a> for a <a href="../../../Browse/rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
@@ -1573,7 +2165,18 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 
 ### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
-[Polder](../../Browse/ancestry/polder.md) heroes have access to the following traits.
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Polder Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/polder/">Polder</a> heroes have access to the following traits.</p>
+</div>
+</section>
 
 ### Signature Trait: Shadowmeld
 
@@ -1581,19 +2184,41 @@ You have the following ability.
 
 ###### Shadowmeld {data-scc="mcdm.heroes.v1/feature.ability.polder/shadowmeld"}
 
-*You become an actual shadow.*
-
-| **Magic**   |    **Maneuver** |
-|-------------|----------------:|
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and [strikes](../../Browse/rule/combat/strike.md) made against you and [tests](../../Browse/rule/test/test.md) made to search for you take a [bane](../../Browse/rule/dice/bane.md). You can't move or be [force moved](../../Browse/movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
-
-If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Shadowmeld</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You become an actual shadow.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a> from or who isn&#39;t observing you. While in shadow form, you have full awareness of your surroundings, and <a href="../../../Browse/rule/combat/strike/">strikes</a> made against you and <a href="../../../Browse/rule/test/test/">tests</a> made to search for you take a <a href="../../../Browse/rule/dice/bane/">bane</a>. You can&#39;t move or be <a href="../../../Browse/movement/forced-movement/">force moved</a>, and you can&#39;t take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.</p><p>If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
 
 #### Signature Trait: Small! {data-scc="mcdm.heroes.v1/feature.trait.polder/small"}
 
-Your diminutive stature lets you easily get out of—or into—trouble. Your [size](../../Browse/rule/character/size.md) is 1S.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Signature Trait: Small!</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your diminutive stature lets you easily get out of—or into—trouble. Your <a href="../../../Browse/rule/character/size/">size</a> is 1S.</p>
+</div>
+</section>
 
 #### Purchased Polder Traits
 
@@ -1601,27 +2226,93 @@ You have 4 ancestry points to spend on the following traits. (*Quick Build:* Cor
 
 ##### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity"}
 
-Your innate [shadow](../../Browse/class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Corruption Immunity</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your innate <a href="../../../Browse/class/shadow/">shadow</a> magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p>
+</div>
+</section>
 
 ##### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless"}
 
-Courage is all you know. You can't be made [frightened](../../Browse/condition/frightened.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Fearless</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Courage is all you know. You can&#39;t be made <a href="../../../Browse/condition/frightened/">frightened</a>.</p>
+</div>
+</section>
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small [size](../../Browse/rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Graceful Retreat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your small <a href="../../../Browse/rule/character/size/">size</a> makes it easier for you to slip away from the fray. You gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action.</p>
+</div>
+</section>
 
 ##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
-A light step serves you well when [speed](../../Browse/rule/character/speed.md) is of the essence. You ignore the effects of [difficult terrain](../../Browse/movement/difficult-terrain.md) and can move at full [speed](../../Browse/rule/character/speed.md) while sneaking.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Nimblestep</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A light step serves you well when <a href="../../../Browse/rule/character/speed/">speed</a> is of the essence. You ignore the effects of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> and can move at full <a href="../../../Browse/rule/character/speed/">speed</a> while sneaking.</p>
+</div>
+</section>
 
 ##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
-Evading others' notice gives you freedom to move. At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, if no enemy has [line of effect](../../Browse/rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../../Browse/rule/combat/concealment.md) from any enemy with [line of effect](../../Browse/rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of your [turn](../../Browse/rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Polder Geist</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Evading others&#39; notice gives you freedom to move. At the start of each of your <a href="../../../Browse/rule/combat/turn/">turns</a> during combat, if no enemy has <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to you or if you are hidden from or have <a href="../../../Browse/rule/combat/concealment/">concealment</a> from any enemy with <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to you, you gain a +3 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> until the end of your <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
 
 ##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
-Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../../Browse/movement/forced-movement.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) 1 square after the [forced movement](../../Browse/movement/forced-movement.md) is resolved.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
+<h3 class="sc-trait__name">Reactive Tumble</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../Browse/movement/forced-movement/">force moved</a>, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to <a href="../../../Browse/movement/shifting/">shift</a> 1 square after the <a href="../../../Browse/movement/forced-movement/">forced movement</a> is resolved.</p>
+</div>
+</section>
 
 ## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant"}
 
@@ -1689,61 +2380,135 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits"}
 
-[Revenant](../../Browse/ancestry/revenant.md) heroes have access to the following traits.
-
-#### Signature Trait: Former Life {data-scc="mcdm.heroes.v1/feature.trait.revenant/former-life"}
-
-Choose the ancestry you were before you died. Your [size](../../Browse/rule/character/size.md) is that ancestry's [size](../../Browse/rule/character/size.md) and your [speed](../../Browse/rule/character/speed.md) is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
-
-#### Signature Trait: Tough But Withered {data-scc="mcdm.heroes.v1/feature.trait.revenant/tough-but-withered"}
-
-Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
-
-Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you become inert instead of [dying](../../Browse/rule/health/dying.md). You fall [prone](../../Browse/condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or [triggered actions](../../Browse/rule/combat/triggered-action.md). While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
-
-##### Purchased Revenant Traits
-
-You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your [size](../../Browse/rule/character/size.md) is 1S. (*Quick Build:* Bloodless, plus Undead Influence if [size](../../Browse/rule/character/size.md) 1S.)
-
-##### Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
-
-For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../Browse/condition/bleeding.md) even while [dying](../../Browse/rule/health/dying.md).
-
-##### Previous Life: 1 Point {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point"}
-
-You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.
-
-##### Previous Life: 2 Points {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-2-points"}
-
-You select a purchased trait that costs 2 ancestry points from your previous ancestry.
-
-##### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
-
-Your [supernatural](../../Browse/rule/general/supernatural.md) gifts allow you to influence other undead. You gain an [edge](../../Browse/rule/dice/edge.md) on [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), and [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to interact with undead creatures.
-
-##### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
-
-As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature's body, and whether the sigil is visible to only you or to all creatures.
-
-You always know the direction to the exact location of a creature who bears one of your sigils and is on the same world. You can have a number of active sigils equal to your level, and can remove a sigil from a creature at will (no action required). If you already have the maximum number of sigils activated and you place a new one, your oldest sigil disappears with no other effect.
-
-Additionally, you have the following [signature ability](../../Browse/rule/combat/signature-ability.md). [Signature abilities](../../Browse/rule/combat/signature-ability.md) can be used at will.
-
-###### Detonate Sigil {data-scc="mcdm.heroes.v1/feature.ability.revenant/detonate-sigil"}
-
-*A magic sigil you placed on a creature explodes with energy.*
-
-| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |                        **Main action** |
-|---------------------------|---------------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature bearing your sigil** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 3 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 1
-- **12-16:** 5 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 2
-- **17+:** 7 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 3
-
-**Effect:** The sigil disappears from the creature.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Revenant Trait</div>
+<h3 class="sc-trait__name">Revenant Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/revenant/">Revenant</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Former Life</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Choose the ancestry you were before you died. Your <a href="../../../Browse/rule/character/size/">size</a> is that ancestry&#39;s <a href="../../../Browse/rule/character/size/">size</a> and your <a href="../../../Browse/rule/character/speed/">speed</a> is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Tough But Withered</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can&#39;t suffocate, and you don&#39;t need to eat or drink to stay alive.</p>
+<p>Additionally, when your <a href="../../../Browse/rule/health/stamina/">Stamina</a> reaches the negative of your <a href="../../../Browse/rule/health/winded/">winded</a> value, you become inert instead of <a href="../../../Browse/rule/health/dying/">dying</a>. You fall <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or <a href="../../../Browse/rule/combat/triggered-action/">triggered actions</a>. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to your <a href="../../../Browse/rule/health/recoveries/">recovery value</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Revenant Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your <a href="../../../Browse/rule/character/size/">size</a> is 1S. (<em>Quick Build:</em> Bloodless, plus Undead Influence if <a href="../../../Browse/rule/character/size/">size</a> 1S.)</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Bloodless</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../Browse/condition/bleeding/">bleeding</a> even while <a href="../../../Browse/rule/health/dying/">dying</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Previous Life: 1 Point</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Previous Life: 2 Points</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You select a purchased trait that costs 2 ancestry points from your previous ancestry.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Undead Influence</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../../Browse/rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, and <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> made to interact with undead creatures.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Vengeance Mark</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature&#39;s body, and whether the sigil is visible to only you or to all creatures.</p>
+<p>You always know the direction to the exact location of a creature who bears one of your sigils and is on the same world. You can have a number of active sigils equal to your level, and can remove a sigil from a creature at will (no action required). If you already have the maximum number of sigils activated and you place a new one, your oldest sigil disappears with no other effect.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Detonate Sigil</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A magic sigil you placed on a creature explodes with energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature bearing your sigil</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R, I, or P damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The sigil disappears from the creature.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## Time Raider {data-scc="mcdm.heroes.v1/ancestry/time-raider"}
 
@@ -1843,74 +2608,169 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
 
-[Time raider](../../Browse/ancestry/time-raider.md) heroes have access to the following traits.
-
-#### Signature Trait: Psychic Scar {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psychic-scar"}
-
-Your mind is a formidable layer of defense. You have psychic immunity equal to your level.
-
-#### Purchased Time Raider Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../../Browse/feature/ability/time-raider/psionic-bolt.md).)
-
-##### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
-
-As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have [line of effect](../../Browse/rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver.
-
-##### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
-
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../../Browse/rule/combat/strike.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to impose a [bane](../../Browse/rule/dice/bane.md) on the [power roll](../../Browse/rule/dice/power-roll.md).
-
-##### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
-
-Your unique physiology enhances your movement. You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that use the [Climb](../../Browse/skill/exploration/climb.md), [Gymnastics](../../Browse/skill/exploration/gymnastics.md), or [Swim](../../Browse/skill/exploration/swim.md) skills when you can use all your arms in the attempt.
-
-##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
-
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../Browse/feature/common/maneuvers/grab.md) or [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver against an [adjacent](../../Browse/rule/combat/adjacent.md) creature, you can target one additional [adjacent](../../Browse/rule/combat/adjacent.md) creature, using the same [power roll](../../Browse/rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/condition/grabbed.md) at a time.
-
-##### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
-
-Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) from the following options. [Signature abilities](../../Browse/rule/combat/signature-ability.md) can be used at will.
-
-###### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
-
-*You slam an invisible force down upon the target.*
-
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  | Main action                   |
-|------------------------------|-------------------------------|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; [push](../../Browse/movement/forced-movement.md) 1
-- **17+:** 7 + R, I, or P damage; [push](../../Browse/movement/forced-movement.md) 2; M < STRONG, [prone](../../Browse/condition/prone.md)
-
-###### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
-
-*You shoot forth a purple beam of psychic force that moves your target.*
-
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  | Main action                   |
-|------------------------------|-------------------------------|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 2 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 1
-- **12-16:** 5 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 2
-- **17+:** 7 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 3
-
-###### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
-
-*You fill yourself or an ally with a burst of [speed](../../Browse/rule/character/speed.md).*
-
-| **Psionic, [Melee](../../Browse/rule/combat/melee.md)** | Maneuver               |
-|-------------------|------------------------|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 Self or one ally** |
-
-**Effect:** The target gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) equal to your [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) score (your choice) until the start of your next [turn](../../Browse/rule/combat/turn.md).
-
-##### Unstoppable Mind
-
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../Browse/condition/dazed.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Time Raider Trait</div>
+<h3 class="sc-trait__name">Time Raider Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/time-raider/">Time raider</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Psychic Scar</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Time Raider Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Beyondsight, Psionic Gift with <a href="../../../Browse/feature/ability/time-raider/psionic-bolt/">Psionic Bolt</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beyondsight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to any creature or object in that area. You can restore your usual vision as a maneuver.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Foresight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../Browse/rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../../Browse/rule/dice/bane/">bane</a> on the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Four-Armed Athletics</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your unique physiology enhances your movement. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> that use the <a href="../../../Browse/skill/exploration/climb/">Climb</a>, <a href="../../../Browse/skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../../Browse/skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/grab/">Grab</a> or <a href="../../../Browse/feature/common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../../Browse/condition/grabbed/">grabbed</a> at a time.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Psionic Gift</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Concussive Slam</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You slam an invisible force down upon the target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P damage;</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; <a href="../../../Browse/movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2; M &lt; STRONG, <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Psionic Bolt</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You shoot forth a purple beam of psychic force that moves your target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P psychic damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P psychic damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P psychic damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Minor Acceleration</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You fill yourself or an ally with a burst of <a href="../../../Browse/rule/character/speed/">speed</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> equal to your <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a> score (your choice) until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Unstoppable Mind</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>

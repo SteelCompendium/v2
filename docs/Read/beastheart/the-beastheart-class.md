@@ -21,40 +21,39 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 
 ### Basics {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/basics"}
 
-**Starting Characteristics:** You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:
-
-- 2, -1, -1
-- 1, 1, -1
-- 1, 0, 0
-
-**Weak Potency:** Might - 2
-
-**Average Potency:** Might - 1
-
-**Strong Potency:** Might
-
-**Starting Stamina at 1st Level:** 21
-
-**Stamina Gained at 2nd and Higher Levels:** 12
-
-**Recoveries:** 12
-
-**Skills:** You gain the [Animal Handling](../../Browse/skill/interpersonal/handle-animals.md) skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* [Animal Handling](../../Browse/skill/interpersonal/handle-animals.md), [Navigate](../../Browse/skill/exploration/navigate.md), [Track](../../Browse/skill/intrigue/track.md).)
-
-###### Beastheart Advancement Table
-
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Abilities                 | Wild Nature Abilities |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
-| 1st   | [Wild Nature](../../Browse/feature/beastheart/level-1/wild-nature.md), [Companion](../../Browse/feature/beastheart/level-1/companion.md), [Heart of the Beast](../../Browse/feature/beastheart/level-1/heart-of-the-beast.md), [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md), [Ferocity](../../Browse/feature/beastheart/level-1/ferocity.md), [Rampage](../../Browse/feature/beastheart/level-1/rampage.md), [Wild Nature Maneuver](../../Browse/feature/beastheart/level-1/wild-nature-maneuver.md), [Wild Nature Triggered Action](../../Browse/feature/beastheart/level-1/wild-nature-triggered-action.md), [Kit](../../Browse/feature/beastheart/level-1/kit.md), [Beastheart Abilities](../../Browse/feature/beastheart/level-1/beastheart-abilities.md) | Signature, 3, 5           | —                     |
-| 2nd   | [Perk](../../Browse/feature/beastheart/level-2/perk.md), [Everyone’s Best Friend](../../Browse/feature/beastheart/level-2/everyones-best-friend.md), [Wild Nature Feature](../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-feature.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5           | 5                     |
-| 3rd   | [Companion Advancement Feature](../../Browse/feature/beastheart/level-3/companion-advancement-feature.md), [7-Ferocity Ability](../../Browse/feature/beastheart/level-3/7-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7        | 5                     |
-| 4th   | [Characteristic Increase](../../Browse/feature/beastheart/level-4/characteristic-increase.md), [Perk](../../Browse/feature/beastheart/level-4/perk.md), [Rampage Improvement](../../Browse/feature/beastheart/level-4/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-4/skill.md), [Unleash the Beast](../../Browse/feature/beastheart/level-4/unleash-the-beast.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                     |
-| 5th   | [Wild Nature Feature](../../Browse/feature/beastheart/level-5/5th-level-wild-nature-feature.md), [9-Ferocity Ability](../../Browse/feature/beastheart/level-5/9-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9     | 5                     |
-| 6th   | [Perk](../../Browse/feature/beastheart/level-6/perk.md), [Become the Beast](../../Browse/feature/beastheart/level-6/become-the-beast.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-6/6th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 7th   | [Characteristic Increase](../../Browse/feature/beastheart/level-7/characteristic-increase.md), [Feral Heart](../../Browse/feature/beastheart/level-7/feral-heart.md), [Rampage Improvement](../../Browse/feature/beastheart/level-7/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-7/skill.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 8th   | [Wild Nature Feature](../../Browse/feature/beastheart/level-8/8th-level-wild-nature-feature.md), [Perk](../../Browse/feature/beastheart/level-8/perk.md), [11-Ferocity Ability](../../Browse/feature/beastheart/level-8/11-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9                  |
-| 9th   | [Avatar of the Green](../../Browse/feature/beastheart/level-9/avatar-of-the-green.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-9/9th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
-| 10th  | [Characteristic Increase](../../Browse/feature/beastheart/level-10/characteristic-increase.md), [Companion Advancement Feature](../../Browse/feature/beastheart/level-10/companion-advancement-feature.md), [Final Evolution](../../Browse/feature/beastheart/level-10/final-evolution.md), [Perk](../../Browse/feature/beastheart/level-10/perk.md), [Ferox](../../Browse/feature/beastheart/level-10/ferox.md), [Rampage Improvement](../../Browse/feature/beastheart/level-10/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-10/skill.md)                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Basics</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p>
+<ul><li>2, -1, -1</li><li>1, 1, -1</li><li>1, 0, 0</li></ul>
+<p><b>Weak Potency:</b> Might - 2</p>
+<p><b>Average Potency:</b> Might - 1</p>
+<p><b>Strong Potency:</b> Might</p>
+<p><b>Starting Stamina at 1st Level:</b> 21</p>
+<p><b>Stamina Gained at 2nd and Higher Levels:</b> 12</p>
+<p><b>Recoveries:</b> 12</p>
+<p><b>Skills:</b> You gain the <a href="../../../Browse/skill/interpersonal/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (<em>Quick Build:</em> <a href="../../../Browse/skill/interpersonal/handle-animals/">Animal Handling</a>, <a href="../../../Browse/skill/exploration/navigate/">Navigate</a>, <a href="../../../Browse/skill/intrigue/track/">Track</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beastheart Advancement Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Level</th><th>Features</th><th>Abilities</th><th>Wild Nature Abilities</th></tr></thead><tbody><tr><td>1st</td><td><a href="../../../Browse/feature/beastheart/level-1/wild-nature/">Wild Nature</a>, <a href="../../../Browse/feature/beastheart/level-1/companion/">Companion</a>, <a href="../../../Browse/feature/beastheart/level-1/heart-of-the-beast/">Heart of the Beast</a>, <a href="../../../Browse/feature/ability/beastheart/level-1/feral-strike/">Feral Strike</a>, <a href="../../../Browse/feature/beastheart/level-1/ferocity/">Ferocity</a>, <a href="../../../Browse/feature/beastheart/level-1/rampage/">Rampage</a>, <a href="../../../Browse/feature/beastheart/level-1/wild-nature-maneuver/">Wild Nature Maneuver</a>, <a href="../../../Browse/feature/beastheart/level-1/wild-nature-triggered-action/">Wild Nature Triggered Action</a>, <a href="../../../Browse/feature/beastheart/level-1/kit/">Kit</a>, <a href="../../../Browse/feature/beastheart/level-1/beastheart-abilities/">Beastheart Abilities</a></td><td>Signature, 3, 5</td><td>—</td></tr><tr><td>2nd</td><td><a href="../../../Browse/feature/beastheart/level-2/perk/">Perk</a>, <a href="../../../Browse/feature/beastheart/level-2/everyones-best-friend/">Everyone’s Best Friend</a>, <a href="../../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5</td><td>5</td></tr><tr><td>3rd</td><td><a href="../../../Browse/feature/beastheart/level-3/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../../Browse/feature/beastheart/level-3/7-ferocity-ability/">7-Ferocity Ability</a></td><td>Signature, 3, 5, 7</td><td>5</td></tr><tr><td>4th</td><td><a href="../../../Browse/feature/beastheart/level-4/characteristic-increase/">Characteristic Increase</a>, <a href="../../../Browse/feature/beastheart/level-4/perk/">Perk</a>, <a href="../../../Browse/feature/beastheart/level-4/rampage-improvement/">Rampage Improvement</a>, <a href="../../../Browse/feature/beastheart/level-4/skill/">Skill</a>, <a href="../../../Browse/feature/beastheart/level-4/unleash-the-beast/">Unleash the Beast</a></td><td>Signature, 3, 5, 7</td><td>5</td></tr><tr><td>5th</td><td><a href="../../../Browse/feature/beastheart/level-5/5th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../../Browse/feature/beastheart/level-5/9-ferocity-ability/">9-Ferocity Ability</a></td><td>Signature, 3, 5, 7, 9</td><td>5</td></tr><tr><td>6th</td><td><a href="../../../Browse/feature/beastheart/level-6/perk/">Perk</a>, <a href="../../../Browse/feature/beastheart/level-6/become-the-beast/">Become the Beast</a>, <a href="../../../Browse/feature/beastheart/level-6/6th-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5, 7, 9</td><td>5, 9</td></tr><tr><td>7th</td><td><a href="../../../Browse/feature/beastheart/level-7/characteristic-increase/">Characteristic Increase</a>, <a href="../../../Browse/feature/beastheart/level-7/feral-heart/">Feral Heart</a>, <a href="../../../Browse/feature/beastheart/level-7/rampage-improvement/">Rampage Improvement</a>, <a href="../../../Browse/feature/beastheart/level-7/skill/">Skill</a></td><td>Signature, 3, 5, 7, 9</td><td>5, 9</td></tr><tr><td>8th</td><td><a href="../../../Browse/feature/beastheart/level-8/8th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../../Browse/feature/beastheart/level-8/perk/">Perk</a>, <a href="../../../Browse/feature/beastheart/level-8/11-ferocity-ability/">11-Ferocity Ability</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9</td></tr><tr><td>9th</td><td><a href="../../../Browse/feature/beastheart/level-9/avatar-of-the-green/">Avatar of the Green</a>, <a href="../../../Browse/feature/beastheart/level-9/9th-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9, 11</td></tr><tr><td>10th</td><td><a href="../../../Browse/feature/beastheart/level-10/characteristic-increase/">Characteristic Increase</a>, <a href="../../../Browse/feature/beastheart/level-10/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../../Browse/feature/beastheart/level-10/final-evolution/">Final Evolution</a>, <a href="../../../Browse/feature/beastheart/level-10/perk/">Perk</a>, <a href="../../../Browse/feature/beastheart/level-10/ferox/">Ferox</a>, <a href="../../../Browse/feature/beastheart/level-10/rampage-improvement/">Rampage Improvement</a>, <a href="../../../Browse/feature/beastheart/level-10/skill/">Skill</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9, 11</td></tr></tbody></table>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Draw Steel Master Classes
 
@@ -68,1032 +67,1619 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Wild Nature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature"}
 
-Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren't bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (*Quick Build:* Punisher.)
-
-**Guardian:** You are the fearless defender of your pack—anyone who harms them must go through you. You have the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill.
-
-**Prowler:** You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you're there. You have the [Hide](../../Browse/skill/intrigue/hide.md) skill.
-
-**Punisher:** Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the [Endurance](../../Browse/skill/exploration/endurance.md) skill.
-
-**Spark:** Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the [Magic](../../Browse/skill/lore/magic.md) skill.
-
-Your wild nature is your subclass, and your choice of wild nature determines many of the features you'll gain as you gain new levels.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Wild Nature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren&#39;t bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (<em>Quick Build:</em> Punisher.)</p>
+<p><b>Guardian:</b> You are the fearless defender of your pack—anyone who harms them must go through you. You have the <a href="../../../Browse/skill/interpersonal/read-person/">Read Person</a> skill.</p>
+<p><b>Prowler:</b> You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you&#39;re there. You have the <a href="../../../Browse/skill/intrigue/hide/">Hide</a> skill.</p>
+<p><b>Punisher:</b> Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the <a href="../../../Browse/skill/exploration/endurance/">Endurance</a> skill.</p>
+<p><b>Spark:</b> Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the <a href="../../../Browse/skill/lore/magic/">Magic</a> skill.</p>
+<p>Your wild nature is your subclass, and your choice of wild nature determines many of the features you&#39;ll gain as you gain new levels.</p>
+</div>
+</section>
 
 ### Companion {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion"}
 
-You gain the companionship of a wild animal who travels with you. Your companion isn't your pet. Rather, they've forged a mystical bond with you—one that allows you to share your companion's senses and primal instincts.
-
-Choose a companion from the following options. (*Quick Build:* Wolf.)
-
-##### Customizing Your Companion
-
-Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the [condor](../../Browse/monster/companion/beastheart/condor.md) companion for an escaped Hawklord hawk, the [wolf](../../Browse/monster/companion/beastheart/wolf.md) for a dog or jackal, or even the [boar](../../Browse/monster/companion/beastheart/boar.md) for a particularly ornery stag or elk.
-
-With the Director's permission, you can also change the damage types of your companion's abilities to better match your vision. Perhaps instead of a [hellhound](../../Browse/monster/companion/beastheart/hellhound.md) you travel with a white wolf that deals cold damage instead of fire damage; maybe your [elemental spark](../../Browse/monster/companion/beastheart/elemental-spark.md) is an elemental ember that deals fire damage; or maybe your [panther](../../Browse/monster/companion/beastheart/panther.md) is a shadow whose [Pounce](../../Browse/feature/ability/companion/beastheart/panther/level-1/pounce.md) maneuver deals corruption or cold damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Companion</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain the companionship of a wild animal who travels with you. Your companion isn&#39;t your pet. Rather, they&#39;ve forged a mystical bond with you—one that allows you to share your companion&#39;s senses and primal instincts.</p>
+<p>Choose a companion from the following options. (<em>Quick Build:</em> Wolf.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Customizing Your Companion</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the <a href="../../../Browse/monster/companion/beastheart/condor/">condor</a> companion for an escaped Hawklord hawk, the <a href="../../../Browse/monster/companion/beastheart/wolf/">wolf</a> for a dog or jackal, or even the <a href="../../../Browse/monster/companion/beastheart/boar/">boar</a> for a particularly ornery stag or elk.</p>
+<p>With the Director&#39;s permission, you can also change the damage types of your companion&#39;s abilities to better match your vision. Perhaps instead of a <a href="../../../Browse/monster/companion/beastheart/hellhound/">hellhound</a> you travel with a white wolf that deals cold damage instead of fire damage; maybe your <a href="../../../Browse/monster/companion/beastheart/elemental-spark/">elemental spark</a> is an elemental ember that deals fire damage; or maybe your <a href="../../../Browse/monster/companion/beastheart/panther/">panther</a> is a shadow whose <a href="../../../Browse/feature/ability/companion/beastheart/panther/level-1/pounce/">Pounce</a> maneuver deals corruption or cold damage.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Companion Stat Blocks
 
 #### Basilisk {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk"}
 
-|     Beast, Companion     |         -         |                            Level 1                            |          -          |            -             |
-|:------------------------:|:-----------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
-|      **1L**<br>Size      |  **5**<br>Speed   |                    **= yours**<br>Stamina                     | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **Poison 3**<br>Immunity | **—**<br>Movement | **[Alertness](../../Browse/skill/intrigue/alertness.md)**<br>Skills |                     |                          |
-|     **+2**<br>Might      | **+1**<br>Agility |                       **-1**<br>Reason                        | **+2**<br>Intuition |    **+2**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="basilisk"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Basilisk</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Alertness](../../../Browse/skill/intrigue/alertness/)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Basilisk</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Petrify</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see <a class="sb-term" href="../../../Browse/feature/companion/beastheart/basilisk/level-1/stoned/">Stoned</a>).</p></div></div><p class="sb__feat-trailing">*Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a class="sb-term" href="../../../Browse/condition/slowed/">slowed</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Stoned</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.</p></article></div></article></div>
 
-##### Petrify {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.basilisk.level-1/petrify"}
+## Basilisk Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk"}
 
-*Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.*
-
-| **Companion, Magic, Melee, Ranged, Weapon** |     **Maneuver** |
-|---------------------------------------------|-----------------:|
-| **📏 Melee 1 or ranged 5**                  | **🎯 One enemy** |
-
-**Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../../Browse/feature/companion/beastheart/basilisk/level-1/stoned.md)).
-
-**Spend 1 Ferocity:** While stoned this way, the target is also [slowed](../../Browse/condition/slowed.md).
-
-##### Stoned {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-1/stoned"}
-
-A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.
-
-##### Basilisk Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk"}
-
-###### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-3/foes-forever-frozen"}
+### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-3/foes-forever-frozen"}
 
 Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).
 
-###### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-6/rock-smasher"}
+### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-6/rock-smasher"}
 
 Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.
 
-###### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-10/heart-of-stone"}
+### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-10/heart-of-stone"}
 
 While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.
 
+##### Basilisk Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Basilisk Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Foes Forever Frozen</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Rock Smasher</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Heart of Stone</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Bear {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear"}
 
-| Animal, Companion |           -           |                             Level 1                             |          -          |            -             |
-|:-----------------:|:---------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1L**<br>Size   |    **5**<br>Speed     |                     **= yours**<br>Stamina                      | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **[Intimidate](../../Browse/skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  |   **+1**<br>Agility   |                        **-1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="bear"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Bear</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Intimidate](../../../Browse/skill/interpersonal/intimidate/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Bear</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Backhand</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.</p></div></div><p class="sb__feat-trailing">*The bear casually swats the pesky foe into next week.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../../Browse/movement/forced-movement/">force moved</a> up to a number of additional squares equal to the bear's Might score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Strong Like Bear</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You gain a +1 bonus to your stability.</p></article></div></article></div>
 
-##### Backhand {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.bear.level-1/backhand"}
+## Bear Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear"}
 
-*The bear casually swats the pesky foe into next week.*
-
-| **Companion, Melee, Weapon** |                  **Maneuver** |
-|------------------------------|------------------------------:|
-| **📏 Melee 1**               | **🎯 One creature or object** |
-
-**Effect:** The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.
-
-**Spend 1 Ferocity:** The target is [force moved](../../Browse/movement/forced-movement.md) up to a number of additional squares equal to the bear's Might score.
-
-##### Strong Like Bear {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-1/strong-like-bear"}
-
-You gain a +1 bonus to your stability.
-
-##### Bear Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear"}
-
-###### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-3/foe-thresher"}
+### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-3/foe-thresher"}
 
 Whenever the bear targets a creature with a strike that doesn't impose [forced movement](../../Browse/movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
 
-###### Ursine Form {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-6/ursine-form"}
+### Ursine Form {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-6/ursine-form"}
 
 While the bear is rampaging, you have damage immunity 5 and your size increases to the bear's size (to a maximum of 2). If you don't have enough unoccupied space to grow, you grow as soon as there is sufficient space.
 
-###### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-10/twin-colossi"}
+### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.bear.level-10/twin-colossi"}
 
 While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear's size (to a maximum of 3), and your strikes deal an extra 5 damage.
 
+##### Bear Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Bear Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Foe Thresher</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the bear targets a creature with a strike that doesn&#39;t impose <a href="../../../Browse/movement/forced-movement/">forced movement</a> while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Ursine Form</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the bear is rampaging, you have damage immunity 5 and your size increases to the bear&#39;s size (to a maximum of 2). If you don&#39;t have enough unoccupied space to grow, you grow as soon as there is sufficient space.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Twin Colossi</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Boar {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar"}
 
-| Animal, Companion |         -         |                         Level 1                         |          -          |            -             |
-|:-----------------:|:-----------------:|:-------------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   |                 **= yours**<br>Stamina                  | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **[Search](../../Browse/skill/intrigue/search.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  | **+1**<br>Agility |                    **-1**<br>Reason                     | **+2**<br>Intuition |    **+2**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="boar"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Boar</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Search](../../../Browse/skill/intrigue/search/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Boar</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/search/">Search</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Gore</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.</p></div></div><p class="sb__feat-trailing">*With an enraged snort, the boar lunges forward to rip open foes with their tusks.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Spiteful Endurance</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a>.</p></article></div></article></div>
 
-##### Gore {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.boar.level-1/gore"}
+## Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
 
-*With an enraged snort, the boar lunges forward to rip open foes with their tusks.*
-
-| **Companion, Melee, Weapon** |                  **Maneuver** |
-|------------------------------|------------------------------:|
-| **📏 Melee 1**               | **🎯 One creature or object** |
-
-**Effect:** The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.
-
-**Spend 1 Ferocity:** The target is [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
-
-##### Spiteful Endurance {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-1/spiteful-endurance"}
-
-While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../../Browse/condition/bleeding.md).
-
-##### Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
-
-###### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig"}
+### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig"}
 
 While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.
 
-###### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush"}
+### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush"}
 
 While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../../Browse/movement/shifting.md) instead of move when using the Charge action or the Gore maneuver.
 
-###### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage"}
+### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage"}
 
 Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.
 
+##### Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Boar Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Greased Pig</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Wild Rush</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the boar is rampaging, you can use their Gore maneuver, and you and the boar can <a href="../../../Browse/movement/shifting/">shift</a> instead of move when using the Charge action or the Gore maneuver.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Immortal Rage</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Condor {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor"}
 
-| Animal, Companion |          -          |                            Level 1                            |          -          |            -             |
-|:-----------------:|:-------------------:|:-------------------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |   **7**<br>Speed    |                    **= yours**<br>Stamina                     | **0**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Fly**<br>Movement | **[Alertness](../../Browse/skill/intrigue/alertness.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  |  **+1**<br>Agility  |                       **-1**<br>Reason                        | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="condor"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Condor</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Alertness](../../../Browse/skill/intrigue/alertness/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Condor</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Flurry of Wings</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the condor's Might score. Additionally, enemies are <a class="sb-term" href="../../../Browse/condition/weakened/">weakened</a> while adjacent to the condor until the end of your next turn.</p></div></div><p class="sb__feat-trailing">*I can't draw a bead on them with that infernal bird flapping in my face!*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be <a class="sb-term" href="../../../Browse/condition/weakened/">weakened</a> by this ability is <a class="sb-term" href="../../../Browse/condition/taunted/">taunted</a> instead.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Moving Target</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">While the condor is <a class="sb-term" href="../../../Browse/movement/fly/">flying</a> and has a speed greater than 0, ranged strikes against them take a bane.</p></article></div></article></div>
 
-##### Flurry of Wings {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.condor.level-1/flurry-of-wings"}
+## Condor Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor"}
 
-*I can't draw a bead on them with that infernal bird flapping in my face!*
-
-| **Companion, Melee, Weapon** |                  **Maneuver** |
-|------------------------------|------------------------------:|
-| **📏 Melee 1**               | **🎯 One creature or object** |
-
-**Effect:** The target takes damage equal to 3 + the condor's Might score. Additionally, enemies are [weakened](../../Browse/condition/weakened.md) while adjacent to the condor until the end of your next turn.
-
-**Spend 1 Ferocity:** An enemy who would be [weakened](../../Browse/condition/weakened.md) by this ability is [taunted](../../Browse/condition/taunted.md) instead.
-
-##### Moving Target {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-1/moving-target"}
-
-While the condor is [flying](../../Browse/movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane.
-
-##### Condor Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor"}
-
-###### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-3/dive-bomb"}
+### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-3/dive-bomb"}
 
 Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they've moved on their turn (to a maximum of 5).
 
-###### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-6/borne-aloft"}
+### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-6/borne-aloft"}
 
 While the condor is rampaging, you gain wings and can [fly](../../Browse/movement/fly.md). While flying, you gain a +2 bonus to speed. If you are midair when the condor's rampage ends, you take no damage from the fall.
 
-###### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-10/flight-of-the-condor"}
+### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.condor.level-10/flight-of-the-condor"}
 
 While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
+##### Condor Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Condor Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dive Bomb</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they&#39;ve moved on their turn (to a maximum of 5).</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Borne Aloft</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the condor is rampaging, you gain wings and can <a href="../../../Browse/movement/fly/">fly</a>. While flying, you gain a +2 bonus to speed. If you are midair when the condor&#39;s rampage ends, you take no damage from the fall.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Flight of the Condor</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the condor is rampaging, you and the condor gain a +5 bonus to speed.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Deinonychus {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus"}
 
-| Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
-|:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/intrigue/track.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  | **+2**<br>Agility |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="deinonychus"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Deinonychus</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../../../Browse/skill/intrigue/track/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Deinonychus</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Terrible Claws</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the deinonychus's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The deinonychus kicks their prey, then slashes them with wicked claws.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Blood Frenzy</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the deinonychus deals damage to a <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> creature, they gain 1 surge.</p></article></div></article></div>
 
-##### Terrible Claws {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.deinonychus.level-1/terrible-claws"}
+## Deinonychus Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus"}
 
-*The deinonychus kicks their prey, then slashes them with wicked claws.*
-
-| **Companion, Melee, Weapon** |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes damage equal to 3 + the deinonychus's Might score, and if they have M < AVERAGE, they are [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
-
-**Spend 1 Ferocity:** A target who has M < STRONG is [bleeding](../../Browse/condition/bleeding.md) (save ends).
-
-##### Blood Frenzy {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-1/blood-frenzy"}
-
-Whenever the deinonychus deals damage to a [bleeding](../../Browse/condition/bleeding.md) creature, they gain 1 surge.
-
-##### Deinonychus Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus"}
-
-###### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-3/tear-you-to-ribbons"}
+### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-3/tear-you-to-ribbons"}
 
 Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
 
-###### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-6/slake-my-thirst-in-blood"}
+### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-6/slake-my-thirst-in-blood"}
 
 Whenever you use an ability that deals rolled damage to a [bleeding](../../Browse/condition/bleeding.md) creature while the deinonychus is rampaging, you gain 2 surges.
 
-###### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-10/reaping-scythe"}
+### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.deinonychus.level-10/reaping-scythe"}
 
 The deinonychus's claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy's space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus's Might score.
 
+##### Deinonychus Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Deinonychus Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Tear You to Ribbons</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the deinonychus makes a strike against a creature while rampaging, the target is <a href="../../../Browse/condition/bleeding/">bleeding</a> until the end of their next turn.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slake My Thirst in Blood</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you use an ability that deals rolled damage to a <a href="../../../Browse/condition/bleeding/">bleeding</a> creature while the deinonychus is rampaging, you gain 2 surges.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Reaping Scythe</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The deinonychus&#39;s claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy&#39;s space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus&#39;s Might score.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Drake {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake"}
 
-|                                                                  Companion, Dragon                                                                  |          -          |                             Level 1                             |          -          |            -             |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
-|                                                                   **1M**<br>Size                                                                    |   **5**<br>Speed    |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Attuned damage type 3 (see [Elementally Attuned](../../Browse/feature/companion/beastheart/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../../Browse/skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
-|                                                                   **+2**<br>Might                                                                   |  **+1**<br>Agility  |                        **-1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="drake"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Drake</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Intimidate](../../../Browse/skill/interpersonal/intimidate/)</span><span class="sm"><b>Immunity</b>Attuned damage type 3 (see [Elementally Attuned](../../../Browse/feature/companion/beastheart/drake/level-1/elementally-attuned/))</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Dragon</div><h2 class="sb__name">Drake</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Attuned damage type 3 (see <a class="sb-term" href="../../../Browse/feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>)</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Drake Breath</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">1 or 2 cube within 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each creature in the area</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage of the drake's attuned damage type (see <a class="sb-term" href="../../../Browse/feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>) equal to the drake's Might score.</p></div></div><p class="sb__feat-trailing">*The drake exhales a blast of flesh-melting energy.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 or 2 Ferocity</span><span class="txt">This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Elementally Attuned</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Shared Scales</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You have immunity 3 to the drake's attuned damage type.</p></article></div></article></div>
 
-##### Drake Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.drake.level-1/drake-breath"}
+## Drake Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake"}
 
-*The drake exhales a blast of flesh-melting energy.*
-
-| **Area, Companion, Magic**  |                     **Maneuver** |
-|-----------------------------|---------------------------------:|
-| **📏 1 or 2 cube within 1** | **🎯 Each creature in the area** |
-
-**Effect:** The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../Browse/feature/companion/beastheart/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
-
-**Spend 1 or 2 Ferocity:** This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.
-
-##### Elementally Attuned {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/elementally-attuned"}
-
-When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.
-
-##### Shared Scales {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-1/shared-scales"}
-
-You have immunity 3 to the drake's attuned damage type.
-
-##### Drake Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake"}
-
-###### Endless Breath {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-3/endless-breath"}
+### Endless Breath {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-3/endless-breath"}
 
 The drake's Drake Breath maneuver deals an extra 2 damage.
 
-###### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-6/a-burning-inside-me"}
+### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-6/a-burning-inside-me"}
 
 While the drake is rampaging, you gain draconic wings and can [fly](../../Browse/movement/fly.md). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
 
-###### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-10/elemental-avatar"}
+### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.drake.level-10/elemental-avatar"}
 
 While the drake is rampaging, you and the drake have immunity all to the drake's attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake's attuned damage type.
 
+##### Drake Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Drake Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Endless Breath</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The drake&#39;s Drake Breath maneuver deals an extra 2 damage.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">A Burning Inside Me</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the drake is rampaging, you gain draconic wings and can <a href="../../../Browse/movement/fly/">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Elemental Avatar</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the drake is rampaging, you and the drake have immunity all to the drake&#39;s attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake&#39;s attuned damage type.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Elemental Spark {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark"}
 
-|    Companion, Elemental     |         -         |                        Level 1                        |          -          |            -             |
-|:---------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|       **1M**<br>Size        |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Lightning 3**<br>Immunity | **—**<br>Movement | **[Magic](../../Browse/skill/lore/magic.md)**<br>Skills |                     |                          |
-|       **+2**<br>Might       | **+2**<br>Agility |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="elemental-spark"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Elemental Spark</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Magic](../../../Browse/skill/lore/magic/)</span><span class="sm"><b>Immunity</b>Lightning 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Elemental</div><h2 class="sb__name">Elemental Spark</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Lightning 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/lore/magic/">Magic</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Static Shock</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes lightning damage equal to 2 + the spark's Might score.</p></div></div><p class="sb__feat-trailing">*An arc of lightning crackles from the spark.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to melee 5.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Electric Surge</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.</p></article></div></article></div>
 
-##### Static Shock {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.elemental-spark.level-1/static-shock"}
+## Elemental Spark Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark"}
 
-*An arc of lightning crackles from the spark.*
-
-| **Companion, Magic, Melee** |                  **Maneuver** |
-|-----------------------------|------------------------------:|
-| **📏 Melee 1**              | **🎯 One creature or object** |
-
-**Effect:** The target takes lightning damage equal to 2 + the spark's Might score.
-
-**Spend 1 Ferocity:** The distance increases to melee 5.
-
-##### Electric Surge {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-1/electric-surge"}
-
-The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.
-
-##### Elemental Spark Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark"}
-
-###### Electroshock {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-3/electroshock"}
+### Electroshock {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-3/electroshock"}
 
 Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M < AVERAGE to be [dazed](../../Browse/condition/dazed.md) until the end of the target's next turn.
 
-###### Conductive {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-6/conductive"}
+### Conductive {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-6/conductive"}
 
 While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.
 
-###### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-10/lightning-speed"}
+### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-10/lightning-speed"}
 
 While the spark is rampaging, you and the spark can [shift](../../Browse/movement/shifting.md) up to your speed as a free maneuver once on each of your turns.
 
+##### Elemental Spark Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Elemental Spark Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Electroshock</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be <a href="../../../Browse/condition/dazed/">dazed</a> until the end of the target&#39;s next turn.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Conductive</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Lightning Speed</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the spark is rampaging, you and the spark can <a href="../../../Browse/movement/shifting/">shift</a> up to your speed as a free maneuver once on each of your turns.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Gummy Ball {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball"}
 
-|    Companion, Ooze     |         -         |                        Level 1                        |          -          |            -             |
-|:----------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|     **1L**<br>Size     |  **5**<br>Speed   |                **= yours**<br>Stamina                 | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **Acid 3**<br>Immunity | **—**<br>Movement | **[Sneak](../../Browse/skill/intrigue/sneak.md)**<br>Skills |                     |                          |
-|    **+2**<br>Might     | **+2**<br>Agility |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="gummy-ball"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Gummy Ball</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Sneak](../../../Browse/skill/intrigue/sneak/)</span><span class="sm"><b>Immunity</b>Acid 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Ooze</div><h2 class="sb__name">Gummy Ball</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Acid 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Absorb</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes acid damage equal to 3 + the ball's Might score, and if they have A &lt; AVERAGE, the ball moves into the target's space. If the target completely fits within the ball's space, the target is <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> by the ball.</p></div></div><p class="sb__feat-trailing">*With a sickening squelch, the ball oozes around their hapless prey.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Gelatinous</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is <a class="sb-term" href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p></article></div></article></div>
 
-##### Absorb {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.gummy-ball.level-1/absorb"}
+## Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
 
-*With a sickening squelch, the ball oozes around their hapless prey.*
-
-| **Companion, Melee, Weapon** |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes acid damage equal to 3 + the ball's Might score, and if they have A < AVERAGE, the ball moves into the target's space. If the target completely fits within the ball's space, the target is [grabbed](../../Browse/condition/grabbed.md) by the ball.
-
-**Spend 1 Ferocity:** A target [grabbed](../../Browse/condition/grabbed.md) this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.
-
-##### Gelatinous {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-1/gelatinous"}
-
-The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is [difficult terrain](../../Browse/movement/difficult-terrain.md).
-
-##### Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
-
-###### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-3/suck-it-up"}
+### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-3/suck-it-up"}
 
 Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../../Browse/condition/grabbed.md) by the ball.
 
-###### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-6/taffy-pull"}
+### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-6/taffy-pull"}
 
 While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.
 
-###### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-10/runaway-expansion"}
+### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-10/runaway-expansion"}
 
 While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball's size increases by 1 (to a maximum of 5). The ball's size can't increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.
 
+##### Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Gummy Ball Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Suck It Up</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../../../Browse/condition/grabbed/">grabbed</a> by the ball.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Taffy Pull</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Runaway Expansion</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball&#39;s size increases by 1 (to a maximum of 5). The ball&#39;s size can&#39;t increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Hellhound {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound"}
 
-|  Companion, Infernal   |         -         |                             Level 1                             |          -          |            -             |
-|:----------------------:|:-----------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
-|     **1M**<br>Size     |  **7**<br>Speed   |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Fire 3**<br>Immunity | **—**<br>Movement | **[Intimidate](../../Browse/skill/interpersonal/intimidate.md)**<br>Skills |                     |                          |
-|    **+2**<br>Might     | **+2**<br>Agility |                        **-1**<br>Reason                         | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="hellhound"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Hellhound</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Intimidate](../../../Browse/skill/interpersonal/intimidate/)</span><span class="sm"><b>Immunity</b>Fire 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Infernal</div><h2 class="sb__name">Hellhound</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Fire 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Fire Breath</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or Ranged 2</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes fire damage equal to 3 + the hellhound's Might score.</p></div></div><p class="sb__feat-trailing">*The hellhound exhales infernal flames.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Hellish Pact</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You have fire immunity equal to the hellhound's fire immunity.</p></article></div></article></div>
 
-##### Fire Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.hellhound.level-1/fire-breath"}
+## Hellhound Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound"}
 
-*The hellhound exhales infernal flames.*
-
-| **Companion, Magic, Melee, Ranged** |                  **Maneuver** |
-|-------------------------------------|------------------------------:|
-| **📏 Melee 1 or Ranged 2**          | **🎯 One creature or object** |
-
-**Effect:** The target takes fire damage equal to 3 + the hellhound's Might score.
-
-**Spend 1 Ferocity:** This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.
-
-##### Hellish Pact {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-1/hellish-pact"}
-
-You have fire immunity equal to the hellhound's fire immunity.
-
-##### Hellhound Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound"}
-
-###### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-3/infernal-apparition"}
+### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-3/infernal-apparition"}
 
 Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../Browse/condition/frightened.md) until the end of the target's next turn.
 
-###### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-6/slavering-jaws"}
+### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-6/slavering-jaws"}
 
 While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
 
-###### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-10/wreathed-in-flames"}
+### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.hellhound.level-10/wreathed-in-flames"}
 
 While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound's Might score.
 
+##### Hellhound Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Hellhound Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Infernal Apparition</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../../Browse/condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slavering Jaws</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Wreathed in Flames</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Lightbender {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender"}
 
-| Beast, Companion  |         -         |                       Level 1                       |          -          |            -             |
-|:-----------------:|:-----------------:|:---------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1L**<br>Size   |  **7**<br>Speed   |               **= yours**<br>Stamina                | **2**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **[Hide](../../Browse/skill/intrigue/hide.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  | **+1**<br>Agility |                  **-1**<br>Reason                   | **+2**<br>Intuition |    **+2**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="lightbender"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Lightbender</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Hide](../../../Browse/skill/intrigue/hide/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Lightbender</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/hide/">Hide</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Sparking Tail Whip</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the lightbender's Might score, and if they have M &lt; AVERAGE, they are dazzled until the end of their next turn. A dazzled creature has line of effect only within 1 square.</p></div></div><p class="sb__feat-trailing">*The lightbender swings their tail, sending gouts of sparks in their foe's face.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A dazzled creature also takes a bane on strikes.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Avoidance</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.</p></article></div></article></div>
 
-##### Sparking Tail Whip {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.lightbender.level-1/sparking-tail-whip"}
+## Lightbender Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender"}
 
-*The lightbender swings their tail, sending gouts of sparks in their foe's face.*
-
-| **Companion, Melee, Weapon** |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes damage equal to 3 + the lightbender's Might score, and if they have M < AVERAGE, they are dazzled until the end of their next turn. A dazzled creature has line of effect only within 1 square.
-
-**Spend 1 Ferocity:** A dazzled creature also takes a bane on strikes.
-
-##### Avoidance {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-1/avoidance"}
-
-Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.
-
-##### Lightbender Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender"}
-
-###### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-3/hit-and-run"}
+### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-3/hit-and-run"}
 
 Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../Browse/movement/teleport.md) up to 5 squares and use the [Hide](../../Browse/skill/intrigue/hide.md) maneuver.
 
-###### Lightbearer {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-6/lightbearer"}
+### Lightbearer {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-6/lightbearer"}
 
 While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.
 
-###### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-10/everywhere-and-nowhere"}
+### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.lightbender.level-10/everywhere-and-nowhere"}
 
 While the lightbender is rampaging, your grip on spatial reality is [weakened](../../Browse/condition/weakened.md), and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender's rampage ends.
 
+##### Lightbender Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Lightbender Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hit and Run</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares and use the <a href="../../../Browse/skill/intrigue/hide/">Hide</a> maneuver.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Lightbearer</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Everywhere and Nowhere</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the lightbender is rampaging, your grip on spatial reality is <a href="../../../Browse/condition/weakened/">weakened</a>, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Panther {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther"}
 
-| Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
-|:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |    **7**<br>Speed     |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../../Browse/skill/intrigue/sneak.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  |   **+2**<br>Agility   |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="panther"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Panther</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../../../Browse/skill/intrigue/sneak/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Panther</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Pounce</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the panther's Might score, and if they have M &lt; AVERAGE, they are knocked <a class="sb-term" href="../../../Browse/condition/prone/">prone</a>.</p></div></div><p class="sb__feat-trailing">*The panther bunches up, then uncoils into a deadly leap.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked <a class="sb-term" href="../../../Browse/condition/prone/">prone</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Mighty Spring</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the panther takes the Advance move action or the Charge action, they can <a class="sb-term" href="../../../Browse/movement/jump/">jump</a> up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.</p></article></div></article></div>
 
-##### Pounce {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.panther.level-1/pounce"}
+## Panther Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther"}
 
-*The panther bunches up, then uncoils into a deadly leap.*
-
-| **Companion, Melee, Weapon** |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes damage equal to 3 + the panther's Might score, and if they have M < AVERAGE, they are knocked [prone](../../Browse/condition/prone.md).
-
-**Spend 1 Ferocity:** The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M < STRONG is knocked [prone](../../Browse/condition/prone.md).
-
-##### Mighty Spring {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-1/mighty-spring"}
-
-Whenever the panther takes the Advance move action or the Charge action, they can [jump](../../Browse/movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.
-
-##### Panther Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther"}
-
-###### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-3/cat-and-mouse"}
+### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-3/cat-and-mouse"}
 
 Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../Browse/condition/prone.md).
 
-###### Single Bound {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-6/single-bound"}
+### Single Bound {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-6/single-bound"}
 
 While the panther is rampaging, you can [jump](../../Browse/movement/jump.md) up to a number of squares equal to your speed as a free maneuver once on each of your turns.
 
-###### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-10/panther-spirit"}
+### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.panther.level-10/panther-spirit"}
 
 While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are [difficult terrain](../../Browse/movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is [teleported](../../Browse/movement/teleport.md) to the last unoccupied space they previously occupied.
 
+##### Panther Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Panther Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Cat and Mouse</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target <a href="../../../Browse/condition/prone/">prone</a>.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Single Bound</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the panther is rampaging, you can <a href="../../../Browse/movement/jump/">jump</a> up to a number of squares equal to your speed as a free maneuver once on each of your turns.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Panther Spirit</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for you both. A creature who ends their turn inside a solid object from moving this way is <a href="../../../Browse/movement/teleport/">teleported</a> to the last unoccupied space they previously occupied.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Spider {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider"}
 
-| Animal, Companion |           -           |                        Level 1                        |          -          |            -             |
-|:-----------------:|:---------------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |    **5**<br>Speed     |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **Climb**<br>Movement | **[Sneak](../../Browse/skill/intrigue/sneak.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  |   **+2**<br>Agility   |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="spider"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Spider</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../../../Browse/skill/intrigue/sneak/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Spider</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Web Shot</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, they are <a class="sb-term" href="../../../Browse/condition/restrained/">restrained</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The spider fires a ball of sticky silk.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../../Browse/condition/restrained/">restrained</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Come Into My Parlor</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the spider makes a strike against a <a class="sb-term" href="../../../Browse/condition/restrained/">restrained</a> creature, the spider deals extra poison damage equal to twice their Intuition score.</p></article></div></article></div>
 
-##### Web Shot {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.spider.level-1/web-shot"}
+## Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
 
-*The spider fires a ball of sticky silk.*
-
-| **Companion, Ranged, Weapon** |     **Maneuver** |
-|-------------------------------|-----------------:|
-| **📏 Ranged 5**               | **🎯 One enemy** |
-
-**Effect:** If the target has M < AVERAGE, they are [restrained](../../Browse/condition/restrained.md) until the end of their next turn.
-
-**Spend 1 Ferocity:** If the target has M < STRONG, they are [restrained](../../Browse/condition/restrained.md) (save ends).
-
-##### Come Into My Parlor {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-1/come-into-my-parlor"}
-
-Whenever the spider makes a strike against a [restrained](../../Browse/condition/restrained.md) creature, the spider deals extra poison damage equal to twice their Intuition score.
-
-##### Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
-
-###### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-3/dripping-fangs"}
+### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-3/dripping-fangs"}
 
 Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
 
-###### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-6/web-slinger"}
+### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-6/web-slinger"}
 
 Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../Browse/movement/fly.md) in a straight line to any space within 5 squares of that object.
 
-###### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-10/life-drinker"}
+### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-10/life-drinker"}
 
 Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
 
+##### Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Spider Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dripping Fangs</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Web Slinger</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../../Browse/movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Life Drinker</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Sporeling {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling"}
 
-|     Beast, Companion     |         -         |                        Level 1                        |          -          |            -             |
-|:------------------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|      **1S**<br>Size      |  **5**<br>Speed   |                **= yours**<br>Stamina                 | **0**<br>Stability  | **1 + M**<br>Free Strike |
-| **Poison 3**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/intrigue/track.md)**<br>Skills |                     |                          |
-|     **+2**<br>Might      | **+2**<br>Agility |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="sporeling"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Sporeling</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../../../Browse/skill/intrigue/track/)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Sporeling</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Spore Puff</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes poison damage equal to 3 + the sporeling's Might score, and the sporeling is invisible to the target until the end of the sporeling's next turn or they deal damage to the target.</p></div></div><p class="sb__feat-trailing">*The sporeling breathes a cloud of disorienting fumes.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../../Browse/condition/dazed/">dazed</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Skulker</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.</p></article></div></article></div>
 
-##### Spore Puff {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.sporeling.level-1/spore-puff"}
+## Sporeling Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling"}
 
-*The sporeling breathes a cloud of disorienting fumes.*
-
-| **Companion, Melee**         |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes poison damage equal to 3 + the sporeling's Might score, and the sporeling is invisible to the target until the end of the sporeling's next turn or they deal damage to the target.
-
-**Spend 1 Ferocity:** If the target has M < STRONG, they are [dazed](../../Browse/condition/dazed.md) until the end of their next turn.
-
-##### Skulker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-1/skulker"}
-
-The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.
-
-##### Sporeling Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling"}
-
-###### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-3/slowing-spores"}
+### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-3/slowing-spores"}
 
 Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../Browse/condition/slowed.md) until the end of the target's next turn.
 
-###### Plant Walk {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-6/plant-walk"}
+### Plant Walk {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-6/plant-walk"}
 
 Once on each of your turns while the sporeling is rampaging, you can [teleport](../../Browse/movement/teleport.md) to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.
 
-###### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-10/trailing-mycelia"}
+### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.sporeling.level-10/trailing-mycelia"}
 
 While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M < STRONG, the creature is [grabbed](../../Browse/condition/grabbed.md) by the attacker. Additionally, you and the sporeling can't be force moved or knocked [prone](../../Browse/condition/prone.md) until the sporeling's rampage ends.
 
+##### Sporeling Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Sporeling Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slowing Spores</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../../Browse/condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Plant Walk</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Once on each of your turns while the sporeling is rampaging, you can <a href="../../../Browse/movement/teleport/">teleport</a> to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Trailing Mycelia</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../../Browse/condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../../Browse/condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 #### Wolf {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf"}
 
-| Animal, Companion |         -         |                        Level 1                        |          -          |            -             |
-|:-----------------:|:-----------------:|:-----------------------------------------------------:|:-------------------:|:------------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   |                **= yours**<br>Stamina                 | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **—**<br>Immunity | **—**<br>Movement | **[Track](../../Browse/skill/intrigue/track.md)**<br>Skills |                     |                          |
-|  **+2**<br>Might  | **+2**<br>Agility |                   **-1**<br>Reason                    | **+2**<br>Intuition |    **+1**<br>Presence    |
+<div class="sb-wrap" data-role="leader" data-creature="wolf"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Wolf</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../../../Browse/skill/intrigue/track/)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Wolf</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../../Browse/skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Clamping Jaws</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the wolf's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> by the wolf.</p></div></div><p class="sb__feat-trailing">*With an unnerving growl, the wolf sinks powerful teeth into their quarry.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> by the wolf.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Retriever</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The wolf can move at full speed while they have a creature <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a>, no matter the <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> creature's size.</p></article></div></article></div>
 
-##### Clamping Jaws {data-scc="mcdm.beastheart.v1/feature.ability.companion.beastheart.wolf.level-1/clamping-jaws"}
+## Wolf Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf"}
 
-*With an unnerving growl, the wolf sinks powerful teeth into their quarry.*
-
-| **Companion, Melee, Weapon** |     **Maneuver** |
-|------------------------------|-----------------:|
-| **📏 Melee 1**               | **🎯 One enemy** |
-
-**Effect:** The target takes damage equal to 3 + the wolf's Might score, and if they have M < AVERAGE, they are [grabbed](../../Browse/condition/grabbed.md) by the wolf.
-
-**Spend 1 Ferocity:** If the target has M < STRONG, they are [grabbed](../../Browse/condition/grabbed.md) by the wolf.
-
-##### Retriever {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-1/retriever"}
-
-The wolf can move at full speed while they have a creature [grabbed](../../Browse/condition/grabbed.md), no matter the [grabbed](../../Browse/condition/grabbed.md) creature's size.
-
-##### Wolf Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf"}
-
-###### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-3/my-what-big-teeth-you-have"}
+### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-3/my-what-big-teeth-you-have"}
 
 Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.
 
-###### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-6/call-of-the-wild"}
+### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-6/call-of-the-wild"}
 
 While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can't be hidden or have concealment from you or the wolf.
 
-###### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-10/dire-wolf"}
+### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.wolf.level-10/dire-wolf"}
 
 While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are [frightened](../../Browse/condition/frightened.md) until the end of their next turn.
 
+##### Wolf Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Wolf Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">My, What Big Teeth You Have</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Call of the Wild</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can&#39;t be hidden or have concealment from you or the wolf.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dire Wolf</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../../../Browse/condition/frightened/">frightened</a> until the end of their next turn.</div>
+</article>
+</div>
+</div>
+</article>
+</div>
+
 ### Companion Rules {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion-rules"}
 
-- **Companion Stamina and Recoveries.** Your companion's Stamina maximum equals your Stamina maximum. Your companion has no Recoveries. When an effect would allow your companion to spend a Recovery, your companion spends one of your Recoveries.
-- **Companion Death.** A companion can become dying at 0 Stamina and die at negative half their Stamina, just like a hero.
-- **Companion Actions.** Your companion is your ally, but they take their turn as a part of your turn. For the purpose of effects that end at the end of the companion's turn, or any other rules elements that depend on the start or end of creature's turn, the start and end of your turn is also the start and end of the companion's turn.
-- You and your companion each take your own move action. You can use one triggered action per round, which can be used by either you or your companion. Your main action and maneuver are split between you and your companion; if you take a main action, you can't take a maneuver but your companion can. If you take a maneuver, you can't take a main action but your companion can. Taking a main action doesn't prevent you or your companion from taking free maneuvers.
-- You and your companion share one turn during montage tests and similar scenes. Typically, you'll take this turn, but there may be circumstances when your companion does instead.
-- **Ranged Free Strikes.** Your companion doesn't have a ranged free strike. **Shared Maneuvers.** When you or your companion use the Catch Breath, Escape Grab, Hide, or Stand Up maneuvers, your partner can use the same maneuver as a triggered free action.
-- **Shared Abilities.** You and your companion share some abilities, but not all of them. If a beastheart ability has the Beastheart keyword, it can be used by only the beastheart. If it has the Companion keyword, it can be used by only the companion. If an ability can be used by either you or your companion, the word "you" in the ability's text refers to whoever uses the ability, while the word "partner" refers to whoever didn't use the ability. Within a companion's stat block, the word "you" always refers to the beastheart. In all cases, phrases like "you both" and "you each" refer to you and your companion.
-- **Shared Senses.** While you are within 1 mile of each other, you and your companion can communicate telepathically as if you shared a language, although this communication uses vague images and feelings instead of words.
-- **Shared Skills.** Your companion has any skill you have, and vice versa. No matter what skills they possess, your companion can't take any action their physiology wouldn't allow (for instance, a wolf can't pick locks).
-- **Shared Space.** You and your companion can move freely through and stop in each other's spaces.
-
-- **Shared Perks, Titles, and Complications.** If you gain a benefit or drawback by earning a perk, a title, or a complication, your companion shares the benefit or drawback. Your companion can only be affected by benefits or drawbacks that logically affect an animal: for instance, an animal can't craft and therefore can't benefit from the Handy perk. If you're not sure what your companion can do, ask your Director.
-- **Surges.** Surges you and your companion gain are added to a surge pool you both can spend from. When an effect would grant 1 or more surges to both you and your companion, you only gain the surges once.
-- **Changing Your Companion.** As a respite activity, you can release your current companion, then gain a new companion of a different species or summon a companion you previously released.
-- **One Hero.** You and your companion count as one hero for determining the difficulty of combats, montage tests, and other challenges.
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Companion Rules</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Companion Stamina and Recoveries.</b> Your companion&#39;s Stamina maximum equals your Stamina maximum. Your companion has no Recoveries. When an effect would allow your companion to spend a Recovery, your companion spends one of your Recoveries.</li><li><b>Companion Death.</b> A companion can become dying at 0 Stamina and die at negative half their Stamina, just like a hero.</li><li><b>Companion Actions.</b> Your companion is your ally, but they take their turn as a part of your turn. For the purpose of effects that end at the end of the companion&#39;s turn, or any other rules elements that depend on the start or end of creature&#39;s turn, the start and end of your turn is also the start and end of the companion&#39;s turn.</li><li>You and your companion each take your own move action. You can use one triggered action per round, which can be used by either you or your companion. Your main action and maneuver are split between you and your companion; if you take a main action, you can&#39;t take a maneuver but your companion can. If you take a maneuver, you can&#39;t take a main action but your companion can. Taking a main action doesn&#39;t prevent you or your companion from taking free maneuvers.</li><li>You and your companion share one turn during montage tests and similar scenes. Typically, you&#39;ll take this turn, but there may be circumstances when your companion does instead.</li><li><b>Ranged Free Strikes.</b> Your companion doesn&#39;t have a ranged free strike. <b>Shared Maneuvers.</b> When you or your companion use the Catch Breath, Escape Grab, Hide, or Stand Up maneuvers, your partner can use the same maneuver as a triggered free action.</li><li><b>Shared Abilities.</b> You and your companion share some abilities, but not all of them. If a beastheart ability has the Beastheart keyword, it can be used by only the beastheart. If it has the Companion keyword, it can be used by only the companion. If an ability can be used by either you or your companion, the word &#34;you&#34; in the ability&#39;s text refers to whoever uses the ability, while the word &#34;partner&#34; refers to whoever didn&#39;t use the ability. Within a companion&#39;s stat block, the word &#34;you&#34; always refers to the beastheart. In all cases, phrases like &#34;you both&#34; and &#34;you each&#34; refer to you and your companion.</li><li><b>Shared Senses.</b> While you are within 1 mile of each other, you and your companion can communicate telepathically as if you shared a language, although this communication uses vague images and feelings instead of words.</li><li><b>Shared Skills.</b> Your companion has any skill you have, and vice versa. No matter what skills they possess, your companion can&#39;t take any action their physiology wouldn&#39;t allow (for instance, a wolf can&#39;t pick locks).</li><li><b>Shared Space.</b> You and your companion can move freely through and stop in each other&#39;s spaces.</li></ul>
+<ul><li><b>Shared Perks, Titles, and Complications.</b> If you gain a benefit or drawback by earning a perk, a title, or a complication, your companion shares the benefit or drawback. Your companion can only be affected by benefits or drawbacks that logically affect an animal: for instance, an animal can&#39;t craft and therefore can&#39;t benefit from the Handy perk. If you&#39;re not sure what your companion can do, ask your Director.</li><li><b>Surges.</b> Surges you and your companion gain are added to a surge pool you both can spend from. When an effect would grant 1 or more surges to both you and your companion, you only gain the surges once.</li><li><b>Changing Your Companion.</b> As a respite activity, you can release your current companion, then gain a new companion of a different species or summon a companion you previously released.</li><li><b>One Hero.</b> You and your companion count as one hero for determining the difficulty of combats, montage tests, and other challenges.</li></ul>
+</div>
+</section>
 
 ### Adding and Subtracting Actions {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/adding-and-subtracting-actions"}
 
-Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent's Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.
-
-Similarly, the [dazed](../../Browse/condition/dazed.md) condition limits what a creature can do on their turn. Being [dazed](../../Browse/condition/dazed.md) works the same on you and your companion as it does on other creatures; whoever is [dazed](../../Browse/condition/dazed.md) can only do one thing on their turn (a move action, maneuver, or main action). You being [dazed](../../Browse/condition/dazed.md) has no effect on your companion, and vice versa.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Adding and Subtracting Actions</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent&#39;s Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.</p>
+<p>Similarly, the <a href="../../../Browse/condition/dazed/">dazed</a> condition limits what a creature can do on their turn. Being <a href="../../../Browse/condition/dazed/">dazed</a> works the same on you and your companion as it does on other creatures; whoever is <a href="../../../Browse/condition/dazed/">dazed</a> can only do one thing on their turn (a move action, maneuver, or main action). You being <a href="../../../Browse/condition/dazed/">dazed</a> has no effect on your companion, and vice versa.</p>
+</div>
+</section>
 
 ### Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/heart-of-the-beast"}
 
-You and your companion share a primordial bond so intense your hearts literally beat as one. If your partner is lost, you can split your heart in two and summon them back to your side.
-
-Both you and your companion can use the following ability.
-
-##### Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/heart-of-the-beast"}
-
-*"Better look away—this might not be pretty."*
-
-| **Magic, Ranged** | **Maneuver** |
-|-------------------|-------------:|
-| **📏 Self**       | **🎯 Self**  |
-
-**Effect:** You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner [teleports](../../Browse/movement/teleport.md) to your space from any distance, even if they don't have line of effect to you.
-
-**Spend 1 Ferocity:** Your partner can [shift](../../Browse/movement/shifting.md) up to their speed.
-
-**Spend 1–5 Ferocity:** Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.
-
-**Spend 5 Ferocity:** You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.
-
-##### Feral Strike {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/feral-strike"}
-
-Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.
-
-| **Area, Companion, Melee, Strike, Weapon** |                  **Main action** |
-|--------------------------------------------|---------------------------------:|
-| **📏 1 burst**                             | **🎯 Each creature in the area** |
-
-**Effect:** Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.
-
-Your companion then makes the following power roll:
-
-**Power Roll + Might:**
-
-- **≤11:** 1 + M damage
-- **12-16:** 3 + M damage
-- **17+:** 4 + M damage
-
-This ability gains the following benefit based on your wild nature.
-
-- **Guardian:** Each enemy target is [taunted](../../Browse/condition/taunted.md) by your companion until the start of your next turn.
-- **Prowler:** Each enemy target is [weakened](../../Browse/condition/weakened.md) until the start of your next turn.
-- **Punisher:** Your companion slides each target up to a number of squares equal to their Might score.
-- **Spark:** This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Heart of the Beast</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion share a primordial bond so intense your hearts literally beat as one. If your partner is lost, you can split your heart in two and summon them back to your side.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Both you and your companion can use the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Heart of the Beast</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;Better look away—this might not be pretty.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner <a href="../../../Browse/movement/teleport/">teleports</a> to your space from any distance, even if they don&#39;t have line of effect to you.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your partner can <a href="../../../Browse/movement/shifting/">shift</a> up to their speed.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1–5 Ferocity</span><span class="txt">Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Feral Strike</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.</p><p>Your companion then makes the following power roll:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p><ul><li><b>Guardian:</b> Each enemy target is <a href="../../../Browse/condition/taunted/">taunted</a> by your companion until the start of your next turn.</li><li><b>Prowler:</b> Each enemy target is <a href="../../../Browse/condition/weakened/">weakened</a> until the start of your next turn.</li><li><b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score.</li><li><b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</li></ul></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### Ferocity {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/ferocity"}
 
-You and your companion tap into a predator's bloodlust that grants you a Heroic Resource called ferocity.
-
-##### Ferocity in Combat
-
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
-
-Additionally, the first time each combat round that a creature adjacent to your companion takes damage, you gain 2 ferocity.
-
-You lose any remaining ferocity at the end of the encounter.
-
-##### Ferocity Outside of Combat
-
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you or your companion uses an ability or effect outside of combat that costs ferocity, that same ability or effect can't be used outside of combat again until you earn 1 or more Victories or finish a respite.
-
-When you or your companion uses an ability outside of combat that has a variable or unlimited ferocity cost, the ability can be used as if you had spent an amount of ferocity equal to your Victories.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Ferocity</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion tap into a predator&#39;s bloodlust that grants you a Heroic Resource called ferocity.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ferocity in Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.</p>
+<p>Additionally, the first time each combat round that a creature adjacent to your companion takes damage, you gain 2 ferocity.</p>
+<p>You lose any remaining ferocity at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ferocity Outside of Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Though you can&#39;t gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you or your companion uses an ability or effect outside of combat that costs ferocity, that same ability or effect can&#39;t be used outside of combat again until you earn 1 or more Victories or finish a respite.</p>
+<p>When you or your companion uses an ability outside of combat that has a variable or unlimited ferocity cost, the ability can be used as if you had spent an amount of ferocity equal to your Victories.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Rampage {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/rampage"}
 
-While your ferocity sharpens your killer instinct, it can also drive your companion into a rampage, causing them to strike friends and foes alike in a blood-soaked battle frenzy. As their rampage builds, they become something more than a mortal companion, embodying a primordial spirit of destruction.
-
-Your companion has a resource called rampage. Whenever you or your companion spends ferocity, your companion gains rampage equal to the ferocity spent. Your companion loses their rampage and its effects at the end of an encounter.
-
-Your companion doesn't spend rampage to activate abilities. Instead, when your companion gains 8 rampage, they are rampaging. As your companion's rampage increases, they gain the listed effects from the Rampage table. Effects are cumulative. Some Rampage effects are applied only if you are a specific level or higher, with the level of these effects noted in the Rampage table.
-
-| Rampage         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rampage         | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 8               | At the end of each of your turns, your companion must use their [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md) ability as a free maneuver. You can’t willingly decrease the power roll outcome to a lower tier. For each ally damaged this way, you gain 2 surges, which you can use on this strike.                                                                                                                                                                                                |
-| 12              | Your companion has damage immunity equal to their Intuition score.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 16 (4th level)  | When your companion uses their [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md) ability, they deal extra damage equal to their Intuition score to each target. You gain 1 additional surge for each ally damaged this way.                                                                                                                                                                                                                                                                            |
-| 20 (7th level)  | As a free maneuver, your companion can increase their size up to size 2, or increase their size by 1 if their original size is already 2 or larger. This size increase lasts until your companion’s rampage ends or they use a free maneuver to end it. While your companion’s size is increased, they gain a +2 bonus to speed and stability, the potencies of their abilities increase by 1, and the size of their [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md) ability’s burst increases by 1. |
-| 24 (10th level) | When your companion increases their size, they can increase it up to size 3, or increase their size by 1 if their original size is already 3 or larger. Whenever they make a power roll while their size is increased this way, they can roll 3d10 and discard the lowest roll.                                                                                                                                                                                                                                                             |
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Rampage</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While your ferocity sharpens your killer instinct, it can also drive your companion into a rampage, causing them to strike friends and foes alike in a blood-soaked battle frenzy. As their rampage builds, they become something more than a mortal companion, embodying a primordial spirit of destruction.</p>
+<p>Your companion has a resource called rampage. Whenever you or your companion spends ferocity, your companion gains rampage equal to the ferocity spent. Your companion loses their rampage and its effects at the end of an encounter.</p>
+<p>Your companion doesn&#39;t spend rampage to activate abilities. Instead, when your companion gains 8 rampage, they are rampaging. As your companion&#39;s rampage increases, they gain the listed effects from the Rampage table. Effects are cumulative. Some Rampage effects are applied only if you are a specific level or higher, with the level of these effects noted in the Rampage table.</p>
+<table><thead><tr><th>Rampage</th><th></th></tr></thead><tbody><tr><td>Rampage</td><td>Effect</td></tr><tr><td>8</td><td>At the end of each of your turns, your companion must use their <a href="../../../Browse/feature/ability/beastheart/level-1/feral-strike/">Feral Strike</a> ability as a free maneuver. You can’t willingly decrease the power roll outcome to a lower tier. For each ally damaged this way, you gain 2 surges, which you can use on this strike.</td></tr><tr><td>12</td><td>Your companion has damage immunity equal to their Intuition score.</td></tr><tr><td>16 (4th level)</td><td>When your companion uses their <a href="../../../Browse/feature/ability/beastheart/level-1/feral-strike/">Feral Strike</a> ability, they deal extra damage equal to their Intuition score to each target. You gain 1 additional surge for each ally damaged this way.</td></tr><tr><td>20 (7th level)</td><td>As a free maneuver, your companion can increase their size up to size 2, or increase their size by 1 if their original size is already 2 or larger. This size increase lasts until your companion’s rampage ends or they use a free maneuver to end it. While your companion’s size is increased, they gain a +2 bonus to speed and stability, the potencies of their abilities increase by 1, and the size of their <a href="../../../Browse/feature/ability/beastheart/level-1/feral-strike/">Feral Strike</a> ability’s burst increases by 1.</td></tr><tr><td>24 (10th level)</td><td>When your companion increases their size, they can increase it up to size 3, or increase their size by 1 if their original size is already 3 or larger. Whenever they make a power roll while their size is increased this way, they can roll 3d10 and discard the lowest roll.</td></tr></tbody></table>
+</div>
+</section>
 
 ### Wild Nature Maneuver {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-maneuver"}
 
-Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.
-
-| Wild Nature | Maneuver                                                                                         |
-|-------------|--------------------------------------------------------------------------------------------------|
-| Guardian    | [Living Arrow](../../Browse/feature/ability/beastheart/level-1/living-arrow.md)           |
-| Prowler     | [Lightning Leap](../../Browse/feature/ability/beastheart/level-1/lightning-leap.md)       |
-| Punisher    | [Avalanche Rush](../../Browse/feature/ability/beastheart/level-1/avalanche-rush.md)       |
-| Spark       | [Jaws of the Storm](../../Browse/feature/ability/beastheart/level-1/jaws-of-the-storm.md) |
-
-##### Avalanche Rush {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/avalanche-rush"}
-
-*You ride a cascade of ice over your foes.*
-
-| **Beastheart, Melee, Weapon** |        **Maneuver** |
-|-------------------------------|--------------------:|
-| **📏 Melee 1**                | **🎯 One creature** |
-
-**Effect:** The target takes damage equal to 3 + your Might score, and if they have M < AVERAGE, they are knocked [prone](../../Browse/condition/prone.md).
-
-You can move up to 3 squares before and after you use this ability. During this movement, a [prone](../../Browse/condition/prone.md) enemy's space doesn't count as difficult terrain, and the first time you enter a [prone](../../Browse/condition/prone.md) enemy's space, that enemy takes cold damage equal to your Might score.
-
-**Spend 1 Ferocity:** If the target has M < STRONG, they are knocked [prone](../../Browse/condition/prone.md).
-
-##### Jaws of the Storm {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/jaws-of-the-storm"}
-
-*Your foes are torn by a tempest of primordial teeth and claws.*
-
-| **Area, Beastheart, Magic** |                  **Maneuver** |
-|-----------------------------|------------------------------:|
-| **📏 2 cube within 5**      | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.
-
-**Spend 1 Ferocity:** The size of the cube increases by 1.
-
-##### Lightning Leap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/lightning-leap"}
-
-*You summon a lightning bolt and ride it into battle.*
-
-| **Beastheart, Melee, Weapon** |        **Maneuver** |
-|-------------------------------|--------------------:|
-| **📏 Melee 1**                | **🎯 One creature** |
-
-**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can [jump](../../Browse/movement/jump.md) up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies' spaces don't count as [difficult terrain](../../Browse/movement/difficult-terrain.md) for you. The target takes extra lightning damage equal to the number of squares you jumped this way.
-
-**Spend 1 Ferocity:** Your jump doesn't provoke opportunity attacks.
-
-##### Living Arrow {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/living-arrow"}
-
-*You point, and your companion appears.*
-
-| **Beastheart, Magic, Ranged** |                **Maneuver** |
-|-------------------------------|----------------------------:|
-| **📏 Ranged 10**              | **🎯 One unoccupied space** |
-
-**Effect:** If your companion is within range and can fit into the target space, they [teleport](../../Browse/movement/teleport.md) to the space. They can then make a melee free strike.
-
-**Spend 1 Ferocity:** The distance increases to ranged 15.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Wild Nature Maneuver</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.</p>
+<table><thead><tr><th>Wild Nature</th><th>Maneuver</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/living-arrow/">Living Arrow</a></td></tr><tr><td>Prowler</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/lightning-leap/">Lightning Leap</a></td></tr><tr><td>Punisher</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/avalanche-rush/">Avalanche Rush</a></td></tr><tr><td>Spark</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/jaws-of-the-storm/">Jaws of the Storm</a></td></tr></tbody></table>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Avalanche Rush</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You ride a cascade of ice over your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked <a href="../../../Browse/condition/prone/">prone</a>.</p><p>You can move up to 3 squares before and after you use this ability. During this movement, a <a href="../../../Browse/condition/prone/">prone</a> enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a <a href="../../../Browse/condition/prone/">prone</a> enemy&#39;s space, that enemy takes cold damage equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are knocked <a href="../../../Browse/condition/prone/">prone</a>.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Jaws of the Storm</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your foes are torn by a tempest of primordial teeth and claws.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 cube within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The size of the cube increases by 1.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Lightning Leap</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You summon a lightning bolt and ride it into battle.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score. Before you use this ability, you can <a href="../../../Browse/movement/jump/">jump</a> up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies&#39; spaces don&#39;t count as <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for you. The target takes extra lightning damage equal to the number of squares you jumped this way.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your jump doesn&#39;t provoke opportunity attacks.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Living Arrow</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You point, and your companion appears.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One unoccupied space</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If your companion is within range and can fit into the target space, they <a href="../../../Browse/movement/teleport/">teleport</a> to the space. They can then make a melee free strike.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to ranged 15.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### Wild Nature Triggered Action {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-triggered-action"}
 
-Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.
-
-| Wild Nature | Triggered Action                                                                                   |
-|-------------|----------------------------------------------------------------------------------------------------|
-| Guardian    | [The Pack Defends](../../Browse/feature/ability/beastheart/level-1/the-pack-defends.md)     |
-| Prowler     | [Shadow in the Mist](../../Browse/feature/ability/beastheart/level-1/shadow-in-the-mist.md) |
-| Punisher    | [Thunderclap](../../Browse/feature/ability/beastheart/level-1/thunderclap.md)               |
-| Spark       | [Pyre](../../Browse/feature/ability/beastheart/level-1/pyre.md)                             |
-
-##### Pyre {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/pyre"}
-
-*You burn to ash before your foes' eyes.*
-
-| **Magic**   | **Triggered Action** |
-|-------------|---------------------:|
-| **📏 Self** |          **🎯 Self** |
-
-**Trigger:** You take damage.
-
-**Effect:** You take half the damage and [teleport](../../Browse/movement/teleport.md) up to 5 squares.
-
-**Spend 1 Ferocity:** When you [teleport](../../Browse/movement/teleport.md) this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.
-
-##### Shadow in the Mist {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/shadow-in-the-mist"}
-
-*While everyone's eyes are drawn to your foe, you wreathe yourself in obscuring mist.*
-
-| **Magic**   | **Triggered Action** |
-|-------------|---------------------:|
-| **📏 Self** |          **🎯 Self** |
-
-**Trigger:** An enemy within 10 squares deals damage to a creature other than you.
-
-**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the [Hide](../../Browse/skill/intrigue/hide.md) maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.
-
-**Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) during this movement.
-
-##### The Pack Defends {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends"}
-
-*You siphon away the pain and endure it yourself.*
-
-| **Magic**      | **Triggered Action** |
-|----------------|---------------------:|
-| **📏 Melee 1** |      **🎯 One ally** |
-
-**Trigger:** The target takes damage.
-
-**Effect:** The target takes half the damage.
-
-**Spend 1 Ferocity:** You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.
-
-##### Thunderclap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/thunderclap"}
-
-*The force of your counterattack cracks the air.*
-
-| **Melee, Weapon** | **Triggered Action** |
-|-------------------|---------------------:|
-| **📏 Melee 1**    | **🎯 One enemy**     |
-
-**Trigger:** The target deals damage to a creature.
-
-**Effect:** You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this [forced movement](../../Browse/movement/forced-movement.md) pushes the target away from the creature they damaged, the creature takes half the triggering damage.
-
-**Spend 1 Ferocity:** The [forced movement](../../Browse/movement/forced-movement.md) distance is doubled.
-
-##### Kit {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/kit"}
-
-You can use and gain the benefits of a kit. See the <u>Kits</u> chapter of Draw Steel: Heroes for more information.
-
-You and your companion both gain the benefits of the kit, with the following exceptions:
-
-- Only you can use the kit's signature ability, not your companion.
-- Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.
-
-##### Beasthearts and Magic Treasure {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/beasthearts-and-magic-treasure"}
-
-###### Consumables
-
-Your companion can't use every consumable, but with your help, they can benefit from an edible or drinkable consumable, such as a Healing Potion. While using a kit, your companion can also benefit from a consumable that enhances a weapon, such as a Lachomp Tooth. When you use one of these kinds of consumables while you are adjacent to your companion, you can grant the benefit to your companion instead of yourself. You must take the action type required to use the consumable; no action is required of your companion.
-
-###### Trinkets
-
-Your companion can't use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn't require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.
-
-You companion doesn't need to wear their trinket around their neck: a [condor](../../Browse/monster/companion/beastheart/condor.md) might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!
-
-###### Leveled Items
-
-Although your companion can't wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Wild Nature Triggered Action</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.</p>
+<table><thead><tr><th>Wild Nature</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a></td></tr><tr><td>Prowler</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a></td></tr><tr><td>Punisher</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/thunderclap/">Thunderclap</a></td></tr><tr><td>Spark</td><td><a href="../../../Browse/feature/ability/beastheart/level-1/pyre/">Pyre</a></td></tr></tbody></table>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Pyre</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You burn to ash before your foes&#39; eyes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>You take damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You take half the damage and <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you <a href="../../../Browse/movement/teleport/">teleport</a> this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Shadow in the Mist</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">While everyone&#39;s eyes are drawn to your foe, you wreathe yourself in obscuring mist.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>An enemy within 10 squares deals damage to a creature other than you.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You become invisible until the end of your next turn or you deal damage. You can then use the <a href="../../../Browse/skill/intrigue/hide/">Hide</a> maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> during this movement.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">The Pack Defends</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You siphon away the pain and endure it yourself.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Thunderclap</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The force of your counterattack cracks the air.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target deals damage to a creature.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this <a href="../../../Browse/movement/forced-movement/">forced movement</a> pushes the target away from the creature they damaged, the creature takes half the triggering damage.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../Browse/movement/forced-movement/">forced movement</a> distance is doubled.</span></div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Kit</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can use and gain the benefits of a kit. See the &lt;u&gt;Kits&lt;/u&gt; chapter of Draw Steel: Heroes for more information.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You and your companion both gain the benefits of the kit, with the following exceptions:</p>
+<ul><li>Only you can use the kit&#39;s signature ability, not your companion.</li><li>Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beasthearts and Magic Treasure</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Consumables</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion can&#39;t use every consumable, but with your help, they can benefit from an edible or drinkable consumable, such as a Healing Potion. While using a kit, your companion can also benefit from a consumable that enhances a weapon, such as a Lachomp Tooth. When you use one of these kinds of consumables while you are adjacent to your companion, you can grant the benefit to your companion instead of yourself. You must take the action type required to use the consumable; no action is required of your companion.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Trinkets</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion can&#39;t use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn&#39;t require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.</p>
+<p>You companion doesn&#39;t need to wear their trinket around their neck: a <a href="../../../Browse/monster/companion/beastheart/condor/">condor</a> might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Leveled Items</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Although your companion can&#39;t wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Beastheart Abilities {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/beastheart-abilities"}
 
-Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.
-
-#### Signature Ability
-
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Come On!)
-
-##### Bodyswap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/bodyswap"}
-
-*You and your ally morph into each other, magically switching places.*
-
-| **Beastheart, Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------------------|------------------------------:|
-| **📏 Melee 1**                               | **🎯 One creature or object** |
-
-**Effect:** If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](../../Browse/movement/teleport.md) to swap places. If you do, you gain an edge on this ability.
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 + I damage
-- **12-16:** 5 + I damage
-- **17+:** 7 + I damage
-
-##### Come On! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/come-on"}
-
-*You launch a flurry of attacks to cover your movement.*
-
-| **Beastheart, Melee, Ranged, Strike, Weapon** |               **Main action** |
-|-----------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                    | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M damage
-- **12-16:** 3 + M damage
-- **17+:** 4 + M damage
-
-**Effect:** Your companion can make a melee free strike. You both [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your Intuition score.
-
-##### Covering Fire {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire"}
-
-*Keep your head down, or I'll shoot it off!*
-
-| **Beastheart, Ranged, Strike, Weapon** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 Ranged 5**                        | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 + I damage
-- **12-16:** 4 + I damage
-- **17+:** 6 + I damage
-
-**Effect:** If the target is not [prone](../../Browse/condition/prone.md), they must use a free triggered action to fall [prone](../../Browse/condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
-
-##### Stormrage {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage"}
-
-*Lances of primordial energy leap from you and your companion to sear, crush, or freeze your foe.*
-
-| **Beastheart, Magic, Melee, Ranged, Strike, Weapon** |              **Main action** |
-|------------------------------------------------------|-----------------------------:|
-| **📏 Melee 1 or ranged 5**                           | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M cold, fire, lightning, or sonic damage
-- **12-16:** 4 + M cold, fire, lightning, or sonic damage
-- **17+:** 6 + M cold, fire, lightning, or sonic damage
-
-**Effect:** You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don't trigger this effect.
-
-#### Heroic Abilities
-
-From traveling and fighting alongside your companion, you have learned a number of heroic abilities.
-
-##### 3-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Hungry Like the Wolf.)
-
-###### Bring the Thunder {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder"}
-
-*Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.*
-
-| **Area, Companion, Magic** |                **Main action** |
-|----------------------------|-------------------------------:|
-| **📏 2 burst**             | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 sonic damage; push 1; P < WEAK [taunted](../../Browse/condition/taunted.md) (save ends)
-- **12-16:** 5 sonic damage; push 2; P < AVERAGE [taunted](../../Browse/condition/taunted.md) (save ends)
-- **17+:** 7 sonic damage; push 3; P < STRONG [frightened](../../Browse/condition/frightened.md) (save ends)
-
-**Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
-
-###### Herd the Sheep {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/herd-the-sheep"}
-
-*Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.*
-
-| **Companion, Melee, Strike, Weapon** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1**                       | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; slide 1; I < WEAK [weakened](../../Browse/condition/weakened.md) (save ends)
-- **12-16:** 8 + M damage; slide 2; I < AVERAGE [weakened](../../Browse/condition/weakened.md) (save ends)
-- **17+:** 11 + M damage; slide 4; I < STRONG [weakened](../../Browse/condition/weakened.md) (save ends)
-
-**Effect:** You and your companion can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../Browse/movement/forced-movement.md).
-
-###### Hungry Like the Wolf {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf"}
-
-*The enemy's blood flows like wine, invigorating your companion.*
-
-| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------------|----------------:|
-| **📏 Melee 1**                              | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 4 + M damage; your companion can spend a Recovery
-- **12-16:** 7 + M damage; you and your companion can each spend a Recovery
-- **17+:** 11 + M damage; A < STRONG [bleeding](../../Browse/condition/bleeding.md) (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
-
-###### Pushover {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/pushover"}
-
-*You and your companion surround your foe in order to bring them down.*
-
-| **Companion, Melee, Strike, Weapon** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1**                       | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage; push 2
-- **12-16:** 8 + M damage; push 4
-- **17+:** 11 + M damage; push 6
-
-**Effect:** This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](../../Browse/condition/prone.md) and take extra damage equal to your Intuition score.
-
-##### 5-Ferocity Ability
-
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)
-
-###### All of You Versus All of Me {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/all-of-you-versus-all-of-me"}
-
-*Let all of them come forward and shatter themselves against your might!*
-
-| **Area, Beastheart** |                  **Maneuver** |
-|----------------------|------------------------------:|
-| **📏 3 burst**       | **🎯 Each enemy in the area** |
-
-**Effect:** You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn.
-
-**Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are [taunted](../../Browse/condition/taunted.md) by your companion. An enemy in both areas is [taunted](../../Browse/condition/taunted.md) only by you.
-
-###### I Feed On Your Pain! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/i-feed-on-your-pain"}
-
-*Invigorated by the smell of blood, you strike a savage blow.*
-
-| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
-|-----------------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M damage
-- **12-16:** 12 + M damage
-- **17+:** 16 + M damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) (save ends)
-
-**Effect:** If the target is killed by this damage, or is winded or [bleeding](../../Browse/condition/bleeding.md) after taking this damage, you gain 2 surges.
-
-###### Rain of Fire {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire"}
-
-*As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.*
-
-| **Area, Beastheart, Weapon** |              **Main action** |
-|------------------------------|-----------------------------:|
-| **📏 3 cube within 5**       | **🎯 Each enemy in the area** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 fire damage
-- **12-16:** 5 fire damage
-- **17+:** 8 fire damage
-
-**Effect:** If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
-
-###### You Let Me Get Too Close {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close"}
-
-*The wilderness has no concept of fair play.*
-
-| **Beastheart, Charge, Melee, Strike, Weapon** | **Main action** |
-|-----------------------------------------------|----------------:|
-| **📏 Melee 1**                                | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M damage; M < WEAK [grabbed](../../Browse/condition/grabbed.md)
-- **12-16:** 12 + M damage; M < AVERAGE [grabbed](../../Browse/condition/grabbed.md)
-- **17+:** 16 + M damage; M < STRONG [grabbed](../../Browse/condition/grabbed.md)
-
-**Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Beastheart Abilities</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one signature ability from the following options. Signature abilities can be used at will. (<em>Quick Build:</em> Come On!)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Bodyswap</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You and your ally morph into each other, magically switching places.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + I damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../Browse/movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Come On!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You launch a flurry of attacks to cover your movement.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both <a href="../../../Browse/movement/shifting/">shift</a> up to a number of squares equal to your Intuition score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Covering Fire</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Keep your head down, or I&#39;ll shoot it off!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + I damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is not <a href="../../../Browse/condition/prone/">prone</a>, they must use a free triggered action to fall <a href="../../../Browse/condition/prone/">prone</a> or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Stormrage</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Lances of primordial energy leap from you and your companion to sear, crush, or freeze your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + M cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + M cold, fire, lightning, or sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don&#39;t trigger this effect.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heroic Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>From traveling and fighting alongside your companion, you have learned a number of heroic abilities.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3-Ferocity Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (<em>Quick Build:</em> Hungry Like the Wolf.)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Bring the Thunder</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; push 1; P &lt; WEAK <a href="../../../Browse/condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage; push 2; P &lt; AVERAGE <a href="../../../Browse/condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 sonic damage; push 3; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Herd the Sheep</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; slide 1; I &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; slide 2; I &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; slide 4; I &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and your companion can <a href="../../../Browse/movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../Browse/movement/forced-movement/">force moved</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Hungry Like the Wolf</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The enemy&#39;s blood flows like wine, invigorating your companion.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; your companion can spend a Recovery</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M damage; you and your companion can each spend a Recovery</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; A &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (EoT); you and your companion can each spend a Recovery and shift up to 2 squares</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Pushover</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your companion surround your foe in order to bring them down.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; push 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; push 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; push 6</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall <a href="../../../Browse/condition/prone/">prone</a> and take extra damage equal to your Intuition score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5-Ferocity Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">All of You Versus All of Me</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Let all of them come forward and shatter themselves against your might!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is <a href="../../../Browse/condition/taunted/">taunted</a> by you until the end of their next turn.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are <a href="../../../Browse/condition/taunted/">taunted</a> by your companion. An enemy in both areas is <a href="../../../Browse/condition/taunted/">taunted</a> only by you.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">I Feed On Your Pain!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Invigorated by the smell of blood, you strike a savage blow.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../Browse/condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Rain of Fire</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If your companion is in the area, they deal fire damage equal to their Intuition score to each target.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">You Let Me Get Too Close</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The wilderness has no concept of fair play.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; M &lt; WEAK <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; M &lt; AVERAGE <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 2nd-Level Features
 
@@ -1101,200 +1687,433 @@ As a 2nd-level beastheart, you gain the following features.
 
 ##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/perk"}
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
+</div>
+</section>
 
 ##### Everyone's Best Friend {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/everyones-best-friend"}
 
-Your companion may not be much of a talker, but they've got a lifetime of experience surviving the dangers of the wild. They can offer aid in nearly any circumstance: helping exhausted travelers find their way, leading panicked villagers out of a burning building, or even providing a comforting nuzzle at just the right time. Once per round during a montage test, when you or another character makes a test, your companion can increase the tier outcome by one tier (to a maximum of tier 3).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Everyone&#39;s Best Friend</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion may not be much of a talker, but they&#39;ve got a lifetime of experience surviving the dangers of the wild. They can offer aid in nearly any circumstance: helping exhausted travelers find their way, leading panicked villagers out of a burning building, or even providing a comforting nuzzle at just the right time. Once per round during a montage test, when you or another character makes a test, your companion can increase the tier outcome by one tier (to a maximum of tier 3).</p>
+</div>
+</section>
 
 ##### 2nd-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-feature"}
 
-Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.
-
-###### 2nd-Level Wild Nature Features
-
-| Wild Nature | Feature |
-| ---- | ---- |
-| Guardian | [Watchdog](../../Browse/feature/beastheart/level-2/watchdog.md) |
-| Prowler |  [Supersniffer](../../Browse/feature/beastheart/level-2/supersniffer.md) |
-| Punisher | [This One’s Yours](../../Browse/feature/beastheart/level-2/this-ones-yours.md) |
-| Spark | [Stormheart](../../Browse/feature/beastheart/level-2/stormheart.md) |
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">2nd-Level Wild Nature Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Wild Nature Features</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Wild Nature</th><th>Feature</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../../Browse/feature/beastheart/level-2/watchdog/">Watchdog</a></td></tr><tr><td>Prowler</td><td><a href="../../../Browse/feature/beastheart/level-2/supersniffer/">Supersniffer</a></td></tr><tr><td>Punisher</td><td><a href="../../../Browse/feature/beastheart/level-2/this-ones-yours/">This One’s Yours</a></td></tr><tr><td>Spark</td><td><a href="../../../Browse/feature/beastheart/level-2/stormheart/">Stormheart</a></td></tr></tbody></table>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ##### Stormheart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/stormheart"}
 
-Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Spark</div>
+<h3 class="sc-trait__name">Stormheart</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.</p>
+</div>
+</section>
 
 ##### Supersniffer {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/supersniffer"}
 
-While a creature is adjacent to your companion, that creature can't be hidden or have concealment from your companion.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Prowler</div>
+<h3 class="sc-trait__name">Supersniffer</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While a creature is adjacent to your companion, that creature can&#39;t be hidden or have concealment from your companion.</p>
+</div>
+</section>
 
 ##### This One's Yours {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/this-ones-yours"}
 
-Once per turn, you or your companion can use the following free triggered action.
-
-###### This One's Yours {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours"}
-
-When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.
-
-**Trigger:** A creature [force moved](../../Browse/movement/forced-movement.md) by another creature enters a space adjacent to you.
-
-**Effect:** You end the [forced movement](../../Browse/movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.
-
-**Spend 1 Ferocity:** You and your companions can each use this free triggered action on the same turn.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the This One&#39;s Yours ability">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Punisher</div>
+<h3 class="sc-trait__name">This One&#39;s Yours</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Once per turn, you or your companion can use the following free triggered action.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">This One&#39;s Yours</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature <a href="../../../Browse/movement/forced-movement/">force moved</a> by another creature enters a space adjacent to you.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You end the <a href="../../../Browse/movement/forced-movement/">forced movement</a>. You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You and your companions can each use this free triggered action on the same turn.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ##### Watchdog {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/watchdog"}
 
-You and your companion can't be surprised.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Guardian</div>
+<h3 class="sc-trait__name">Watchdog</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion can&#39;t be surprised.</p>
+</div>
+</section>
 
 ### 2nd-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-ability"}
 
-Your wild nature grants your choice of one of two heroic abilities.
-
-##### 2nd-Level Guardian Abilities
-
-Choose one of the following abilities.
-
-##### Fetch! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/fetch"}
-
-*Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.*
-
-| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------------|----------------:|
-| **📏 Melee 1**                              | **🎯 One creature or object** |
-
-**Effect:** Your companion can [teleport](../../Browse/movement/teleport.md) up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M damage; M < WEAK [grabbed](../../Browse/condition/grabbed.md)
-- **12-16:** 8 + M damage; M < AVERAGE [grabbed](../../Browse/condition/grabbed.md)
-- **17+:** 12 + M damage; M < STRONG [grabbed](../../Browse/condition/grabbed.md)
-
-After making the power roll, your companion can teleport with a [grabbed](../../Browse/condition/grabbed.md) creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the [grabbed](../../Browse/condition/grabbed.md) creature or held object is teleported to.
-
-##### Omnomnom {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/omnomnom"}
-
-*What do you have in your mouth? No! Bad boy!*
-
-| **Companion, Melee, Strike, Weapon** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1**                       | **🎯 One creature** |
-
-**Special:** This ability targets only creatures who are [grabbed](../../Browse/condition/grabbed.md) and are your companion's size or smaller.
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M damage; M < WEAK the target is swallowed
-- **12-16:** 10 + M damage; M < AVERAGE the target is swallowed
-- **17+:** 14 + M damage; M < STRONG the target is swallowed
-
-**Effect:** A swallowed creature shares your companion's space, is [grabbed](../../Browse/condition/grabbed.md) and [restrained](../../Browse/condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
-
-Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion's Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands [prone](../../Browse/condition/prone.md) in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.
-
-##### 2nd-Level Prowler Abilities
-
-Choose one of the following abilities.
-
-##### Jump Scare {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/jump-scare"}
-
-*Surprised to see me?*
-
-| **Area, Companion, Magic** | **Main action** |
-|----------------------------|----------------:|
-| **📏 2 burst**             | **🎯 Each enemy in the area** |
-
-**Special:** This ability targets only enemies with line of effect to your companion.
-
-**Effect:** Your companion [shifts](../../Browse/movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
-
-**Power Roll + Intuition:**
-
-- **≤11:** 4 damage; P < WEAK [frightened](../../Browse/condition/frightened.md) (save ends)
-- **12-16:** 6 damage; P < AVERAGE [frightened](../../Browse/condition/frightened.md) (save ends)
-- **17+:** 10 damage; P < STRONG [frightened](../../Browse/condition/frightened.md) (save ends)
-
-##### On You Like Your Shadow {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/on-you-like-your-shadow"}
-
-*Your companion darts around their target, staying out of reach and using them as a shield.*
-
-| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |
-|----------------------------------------------|----------------:|
-| **📏 Melee 1**                               | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage
-- **12-16:** 8 + M damage
-- **17+:** 12 + M damage
-
-**Effect:** Your companion enters the target's space. Until your companion is no longer in the target's space, they can end their turn in that space, strikes against them also affect the target, and your strikes against the target gain an edge.
-
-##### 2nd-Level Punisher Abilities
-
-Choose one of the following abilities.
-
-##### Foe Bowling {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/foe-bowling"}
-
-*Your companion sends one enemy tumbling into another, taking them both out.*
-
-| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |
-|----------------------------------------------|----------------:|
-| **📏 Melee 1**                               | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; push 2; M < WEAK [prone](../../Browse/condition/prone.md)
-- **12-16:** 5 + M damage; push 3; M < AVERAGE [prone](../../Browse/condition/prone.md)
-- **17+:** 8 + M damage; push 4; M < STRONG [prone](../../Browse/condition/prone.md)
-
-**Effect:** If the target is [force moved](../../Browse/movement/forced-movement.md) at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.
-
-##### One Roar and We're Back In the Fight {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/one-roar-and-were-back-in-the-fight"}
-
-*Your companion builds up courage with a roar, growl, or aggressive display.*
-
-| **Companion** |     **Maneuver** |
-|---------------|-----------------:|
-| **📏 Ranged 5** | **🎯 One ally** |
-
-**Effect:** Your companion and the target can each gain 2 surges, spend up to 2 Recoveries, and end one condition or effect on them that is ended by a saving throw or that ends at the end of their turn.
-
-##### 2nd-Level Spark Abilities
-
-Choose one of the following abilities.
-
-##### Burning Lash {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/burning-lash"}
-
-*A blazing tongue of energy entangles a foe.*
-
-| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------------|----------------:|
-| **📏 Melee 2**                              | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 6 + I fire or lightning damage; M < WEAK [prone](../../Browse/condition/prone.md)
-- **12-16:** 9 + I fire or lightning damage; M < AVERAGE [prone](../../Browse/condition/prone.md)
-- **17+:** 14 + I fire or lightning damage; M < STRONG [prone](../../Browse/condition/prone.md) and can't stand (EoT)
-
-**Spend 1 Ferocity:** If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.
-
-##### Howling Gale {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/howling-gale"}
-
-*A blizzard or thunderstorm sends foes flying and lifts you like a feather.*
-
-| **Area, Companion, Magic** | **Main action** |
-|----------------------------|----------------:|
-| **📏 3 cube within 5**     | **🎯 Each enemy in the area** |
-
-**Power Roll + Might:**
-
-- **≤11:** 6 cold or sonic damage; slide 1
-- **12-16:** 9 cold or sonic damage; slide 2
-- **17+:** 13 cold or sonic damage; slide 4
-
-**Effect:** Until the end of your next turn, you and your companion can [fly](../../Browse/movement/fly.md) and gain a +3 bonus to speed.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">2nd-Level Wild Nature Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants your choice of one of two heroic abilities.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Guardian Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fetch!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; M &lt; WEAK <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; M &lt; AVERAGE <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a <a href="../../../Browse/condition/grabbed/">grabbed</a> creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the <a href="../../../Browse/condition/grabbed/">grabbed</a> creature or held object is teleported to.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Omnomnom</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">What do you have in your mouth? No! Bad boy!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; M &lt; WEAK the target is swallowed</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + M damage; M &lt; AVERAGE the target is swallowed</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage; M &lt; STRONG the target is swallowed</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../Browse/condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is <a href="../../../Browse/condition/grabbed/">grabbed</a> and <a href="../../../Browse/condition/restrained/">restrained</a>, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands <a href="../../../Browse/condition/prone/">prone</a> in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Prowler Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Jump Scare</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Surprised to see me?</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; P &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; P &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only enemies with line of effect to your companion.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">On You Like Your Shadow</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion darts around their target, staying out of reach and using them as a shield.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion enters the target&#39;s space. Until your companion is no longer in the target&#39;s space, they can end their turn in that space, strikes against them also affect the target, and your strikes against the target gain an edge.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Punisher Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Foe Bowling</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion sends one enemy tumbling into another, taking them both out.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 2; M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; push 3; M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; push 4; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../Browse/movement/forced-movement/">force moved</a> at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability&#39;s power roll, but they don&#39;t trigger this effect.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">One Roar and We&#39;re Back In the Fight</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion builds up courage with a roar, growl, or aggressive display.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion and the target can each gain 2 surges, spend up to 2 Recoveries, and end one condition or effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Spark Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Burning Lash</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A blazing tongue of energy entangles a foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + I fire or lightning damage; M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + I fire or lightning damage; M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + I fire or lightning damage; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (EoT)</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Howling Gale</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A blizzard or thunderstorm sends foes flying and lifts you like a feather.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 cold or sonic damage; slide 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 cold or sonic damage; slide 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 cold or sonic damage; slide 4</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of your next turn, you and your companion can <a href="../../../Browse/movement/fly/">fly</a> and gain a +3 bonus to speed.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 3rd-Level Features
 
@@ -1302,77 +2121,153 @@ As a 3rd-level beastheart, you gain the following features.
 
 ##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/companion-advancement-feature"}
 
-Your companion gains the level 3 advancement feature granted by their stat block.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Companion Advancement Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion gains the level 3 advancement feature granted by their stat block.</p>
+</div>
+</section>
 
 #### 7-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/7-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
-
-##### Death and Violence {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/death-and-violence"}
-
-*You leap from your foe's corpse.*
-
-| **Beastheart, Magic, Ranged** | **Triggered Action** |
-|-------------------------------|---------------------:|
-| **📏 Ranged 10**              | **🎯 One creature**  |
-
-**Trigger:** Your companion uses an ability that reduces the target to 0 Stamina.
-
-**Effect:** The target dies. You [teleport](../../Browse/movement/teleport.md) to the target's space, [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:
-
-**Power Roll + Might:**
-
-- **≤11:** P < WEAK [frightened](../../Browse/condition/frightened.md) (save ends)
-- **12-16:** 4 psychic damage; P < AVERAGE [frightened](../../Browse/condition/frightened.md) (save ends)
-- **17+:** 8 psychic damage; P < STRONG [frightened](../../Browse/condition/frightened.md) (save ends)
-
-##### Head to Head {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/head-to-head"}
-
-*Your bloody-forehead smash drives your companion into a frenzy.*
-
-| **Beastheart, Melee, Strike** | **Main action** |
-|-------------------------------|----------------:|
-| **📏 Melee 1**                | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 13 + M damage; P < WEAK [dazed](../../Browse/condition/dazed.md) (save ends)
-- **12-16:** 19 + M damage; P < AVERAGE [dazed](../../Browse/condition/dazed.md) (save ends)
-- **17+:** 25 + M damage; P < STRONG [dazed](../../Browse/condition/dazed.md) (save ends)
-
-**Effect:** You are [bleeding](../../Browse/condition/bleeding.md) (save ends). Until the end of your next turn, your companion gains an edge on power rolls.
-
-##### Jaws of Death {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death"}
-
-*Spectral teeth clamp on a foe, chaining them to you and draining their life essence.*
-
-| **Beastheart, Magic, Melee, Ranged** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**           | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 7 + I damage; P < WEAK [weakened](../../Browse/condition/weakened.md) (save ends)
-- **12-16:** 10 + I damage; P < AVERAGE [weakened](../../Browse/condition/weakened.md) (save ends)
-- **17+:** 14 + I damage; P < STRONG [weakened](../../Browse/condition/weakened.md) (save ends)
-
-**Effect:** Whenever a target more than 3 squares away from you fails the saving throw while [weakened](../../Browse/condition/weakened.md) this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.
-
-##### Shieldbreaker {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker"}
-
-*You smash through their guard and shatter their armor, leaving them wide open.*
-
-| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
-|-----------------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage
-- **12-16:** 14 + M damage
-- **17+:** 19 + M damage
-
-**Effect:** The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">7-Ferocity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Death and Violence</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You leap from your foe&#39;s corpse.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 psychic damage; P &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>Your companion uses an ability that reduces the target to 0 Stamina.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../Browse/movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../Browse/movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Head to Head</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your bloody-forehead smash drives your companion into a frenzy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + M damage; P &lt; WEAK <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">19 + M damage; P &lt; AVERAGE <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">25 + M damage; P &lt; STRONG <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Jaws of Death</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Spectral teeth clamp on a foe, chaining them to you and draining their life essence.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + I damage; P &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + I damage; P &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + I damage; P &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../Browse/condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Shieldbreaker</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You smash through their guard and shatter their armor, leaving them wide open.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 4th-Level Features
 
@@ -1380,23 +2275,83 @@ As a 4th-level beastheart, you gain the following features.
 
 ##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/characteristic-increase"}
 
-Your and your companion's Might and Intuition scores increase to 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your and your companion&#39;s Might and Intuition scores increase to 3.</p>
+</div>
+</section>
 
 ##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Rampage Improvement</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../../Browse/feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 16 or more rampage.</p>
+</div>
+</section>
 
 ##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ##### Unleash the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/unleash-the-beast"}
 
-The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Unleash the Beast</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.</p>
+</div>
+</section>
 
 ### 5th-Level Features
 
@@ -1404,99 +2359,214 @@ As a 5th-level beastheart, you gain the following features.
 
 ##### 5th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/5th-level-wild-nature-feature"}
 
-Your wild nature grants you a feature, as shown on the 5th-Level Wild Nature Features table.
-
-| ♦ 5th-Level Wild Nature Features ♦ |                                                                                                      |
-|------------------------------------|------------------------------------------------------------------------------------------------------|
-| Wild Nature                        | Feature                                                                                              |
-| Guardian                           | [There For Each Other](../../Browse/feature/beastheart/level-5/there-for-each-other.md) |
-| Prowler                            | [Melt Away](../../Browse/feature/beastheart/level-5/melt-away.md)                       |
-| Punisher                           | [I Can Take It](../../Browse/feature/beastheart/level-5/i-can-take-it.md)               |
-| Spark                              | [Wildfire Pyre](../../Browse/feature/beastheart/level-5/wildfire-pyre.md)               |
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">5th-Level Wild Nature Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants you a feature, as shown on the 5th-Level Wild Nature Features table.</p>
+<table><thead><tr><th>♦ 5th-Level Wild Nature Features ♦</th><th></th></tr></thead><tbody><tr><td>Wild Nature</td><td>Feature</td></tr><tr><td>Guardian</td><td><a href="../../../Browse/feature/beastheart/level-5/there-for-each-other/">There For Each Other</a></td></tr><tr><td>Prowler</td><td><a href="../../../Browse/feature/beastheart/level-5/melt-away/">Melt Away</a></td></tr><tr><td>Punisher</td><td><a href="../../../Browse/feature/beastheart/level-5/i-can-take-it/">I Can Take It</a></td></tr><tr><td>Spark</td><td><a href="../../../Browse/feature/beastheart/level-5/wildfire-pyre/">Wildfire Pyre</a></td></tr></tbody></table>
+</div>
+</section>
 
 ##### I Can Take It {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/i-can-take-it"}
 
-When you or your companion uses your [Thunderclap](../../Browse/feature/ability/beastheart/level-1/thunderclap.md) ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Punisher</div>
+<h3 class="sc-trait__name">I Can Take It</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you or your companion uses your <a href="../../../Browse/feature/ability/beastheart/level-1/thunderclap/">Thunderclap</a> ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.</p>
+</div>
+</section>
 
 ##### Melt Away {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/melt-away"}
 
-You or your companion can use your [Shadow in the Mist](../../Browse/feature/ability/beastheart/level-1/shadow-in-the-mist.md) ability even when targeted by the triggering ability.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Prowler</div>
+<h3 class="sc-trait__name">Melt Away</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You or your companion can use your <a href="../../../Browse/feature/ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a> ability even when targeted by the triggering ability.</p>
+</div>
+</section>
 
 ##### There For Each Other {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/there-for-each-other"}
 
-When you or your companion uses your [The Pack Defends](../../Browse/feature/ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Guardian</div>
+<h3 class="sc-trait__name">There For Each Other</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you or your companion uses your <a href="../../../Browse/feature/ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a> ability to spend a Recovery, you and the target both regain Stamina.</p>
+</div>
+</section>
 
 ##### Wildfire Pyre {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/wildfire-pyre"}
 
-When you or your companion deals damage with your [Pyre](../../Browse/feature/ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Spark</div>
+<h3 class="sc-trait__name">Wildfire Pyre</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you or your companion deals damage with your <a href="../../../Browse/feature/ability/beastheart/level-1/pyre/">Pyre</a> ability, each enemy adjacent to either of you takes the damage.</p>
+</div>
+</section>
 
 #### 9-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/9-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
-
-##### Deadshot {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot"}
-
-*You channel your companion's feral senses to take the perfect shot.*
-
-| **Beastheart, Ranged, Strike, Weapon** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 Ranged 15**                       | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 12 + I damage
-- **12-16:** 18 + I damage
-- **17+:** 30 + I damage
-
-**Effect:** If you are hidden, you remain hidden after the strike.
-
-##### Dogpile {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile"}
-
-*You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
-
-| **Beastheart, Melee, Strike, Weapon** |     **Main action** |
-|---------------------------------------|--------------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; M < WEAK [grabbed](../../Browse/condition/grabbed.md) and [prone](../../Browse/condition/prone.md)
-- **12-16:** 15 + M damage; M < AVERAGE [grabbed](../../Browse/condition/grabbed.md) and [prone](../../Browse/condition/prone.md)
-- **17+:** 20 + M damage; M < STRONG [grabbed](../../Browse/condition/grabbed.md) and [prone](../../Browse/condition/prone.md)
-
-**Effect:** Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.
-
-##### One, Two, Three, Heave {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave"}
-
-*Harnessing your companion's strength, you send your foe flying.*
-
-| **Beastheart, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; vertical push 4; [prone](../../Browse/condition/prone.md)
-- **12-16:** 15 + M damage; vertical push 6; [prone](../../Browse/condition/prone.md)
-- **17+:** 20 + M damage; vertical push 8; [prone](../../Browse/condition/prone.md)
-
-**Effect:** If your companion is adjacent to the target, this [forced movement](../../Browse/movement/forced-movement.md) can ignore the target's stability.
-
-##### Rip Them Apart! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart"}
-
-*In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.*
-
-| **Melee, Strike, Weapon** | **Main action** |
-|---------------------------|----------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage; M < WEAK [bleeding](../../Browse/condition/bleeding.md) (save ends)
-- **12-16:** 17 + M damage; M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) (save ends)
-- **17+:** 22 + M damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) (save ends)
-
-**Effect:** If the target is [grabbed](../../Browse/condition/grabbed.md) by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P < AVERAGE is [frightened](../../Browse/condition/frightened.md) (save ends).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">9-Ferocity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Deadshot</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel your companion&#39;s feral senses to take the perfect shot.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 15</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">30 + I damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you are hidden, you remain hidden after the strike.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Dogpile</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; M &lt; WEAK <a href="../../../Browse/condition/grabbed/">grabbed</a> and <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage; M &lt; AVERAGE <a href="../../../Browse/condition/grabbed/">grabbed</a> and <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a> and <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">One, Two, Three, Heave</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Harnessing your companion&#39;s strength, you send your foe flying.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; vertical push 4; <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage; vertical push 6; <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; vertical push 8; <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this <a href="../../../Browse/movement/forced-movement/">forced movement</a> can ignore the target&#39;s stability.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Rip Them Apart!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">In a gruesome display, you and your companion rip off a pinned enemy&#39;s limb or other body part and toss it away.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; M &lt; WEAK <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; M &lt; AVERAGE <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; M &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../Browse/condition/grabbed/">grabbed</a> by your partner, the target takes extra damage equal to your Might score plus your partner&#39;s Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P &lt; AVERAGE is <a href="../../../Browse/condition/frightened/">frightened</a> (save ends).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 6th-Level Features
 
@@ -1504,151 +2574,292 @@ As a 6th-level beastheart, you gain the following features.
 
 ##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/perk"}
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
+</div>
+</section>
 
 ##### Become the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/become-the-beast"}
 
-Your companion's rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion's stat block.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Become the Beast</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion&#39;s rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion&#39;s stat block.</p>
+</div>
+</section>
 
 ### 6th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/6th-level-wild-nature-ability"}
 
-Your wild nature grants your choice of one of two heroic abilities.
-
-##### 6th-Level Guardian Abilities
-
-Choose one of the following abilities.
-
-##### Sic 'Em! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/sic-em"}
-
-*Your companion rushes forward to protect you from a dangerous foe.*
-
-| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |
-|----------------------------------------------|----------------:|
-| **📏 Melee 1**                               | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage; [taunted](../../Browse/condition/taunted.md) (save ends); M < WEAK [prone](../../Browse/condition/prone.md)
-- **12-16:** 16 + M damage; [taunted](../../Browse/condition/taunted.md) (save ends); M < AVERAGE [prone](../../Browse/condition/prone.md)
-- **17+:** 21 + M damage; [taunted](../../Browse/condition/taunted.md) (save ends); M < STRONG [prone](../../Browse/condition/prone.md) and can't stand (EoT)
-
-**Spend 2 Ferocity:** Your companion can use this ability as a triggered action against an enemy who damages you.
-
-##### Stare Down {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/stare-down"}
-
-*Your companion locks eyes with an enemy, imposing their will upon the enemy and daring them to move a muscle.*
-
-| **Companion, Magic, Ranged** |        **Maneuver** |
-|------------------------------|--------------------:|
-| **📏 Ranged 5**              | **🎯 One creature** |
-
-**Effect:** The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn't acted before the start of your next turn, they are [frightened](../../Browse/condition/frightened.md) of your companion (save ends).
-
-**Power Roll + Intuition:**
-
-- **≤11:** 9 + I psychic damage; I < WEAK [weakened](../../Browse/condition/weakened.md) (save ends)
-- **12-16:** 13 + I psychic damage; I < AVERAGE [weakened](../../Browse/condition/weakened.md) (save ends)
-- **17+:** 18 + I psychic damage; I < STRONG [weakened](../../Browse/condition/weakened.md) (save ends)
-
-##### 6th-Level Prowler Abilities
-
-Choose one of the following abilities.
-
-##### Soft Underbelly {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/soft-underbelly"}
-
-*Your companion ducks under your enemy's guard and rakes open their soft vitals, leaving them vulnerable.*
-
-| **Companion, Melee, Strike, Weapon** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 2**                       | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; A < WEAK [bleeding](../../Browse/condition/bleeding.md) (save ends)
-- **12-16:** 15 + M damage; A < AVERAGE [bleeding](../../Browse/condition/bleeding.md) (save ends)
-- **17+:** 20 + M damage; A < STRONG [bleeding](../../Browse/condition/bleeding.md) (save ends)
-
-**Effect:** While [bleeding](../../Browse/condition/bleeding.md) this way, the target has damage weakness 5.
-
-##### Wraith Heart {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/wraith-heart"}
-
-*You and your companion become soul-freezing wraiths.*
-
-| **Magic**   |    **Move** |
-|-------------|------------:|
-| **📏 Self** | **🎯 Self** |
-
-**Effect:** You and your companion [shift](../../Browse/movement/shifting.md) up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.
-
-##### 6th-Level Punisher Abilities
-
-Choose one of the following abilities.
-
-##### Lead the Pack {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/lead-the-pack"}
-
-*Roaring like wild beasts, your companion and your allies rush toward the foe.*
-
-| **Companion** |   **Maneuver** |
-|---------------|---------------:|
-| **📏 Self**   | **🎯 Self**    |
-
-**Effect:** Your companion [shifts](../../Browse/movement/shifting.md) up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion's starting position can shift up to their speed and make free strikes.
-
-##### Rolling Thunder {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder"}
-
-*The rumble of your companion's dash is a rolling thunderclap, their impact an earthquake.*
-
-| **Companion, Magic, Melee, Strike** | **Main action** |
-|-------------------------------------|----------------:|
-| **📏 Self**                         | **🎯 Self**     |
-
-**Effect:** Your companion [shifts](../../Browse/movement/shifting.md) up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
-
-**Power Roll + Might:**
-
-- **≤11:** 9 sonic damage; M < WEAK [prone](../../Browse/condition/prone.md)
-- **12-16:** 13 sonic damage; M < AVERAGE [prone](../../Browse/condition/prone.md)
-- **17+:** 18 sonic damage; M < STRONG [prone](../../Browse/condition/prone.md)
-
-**Spend 2 Ferocity:** You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.
-
-##### 6th-Level Spark Abilities
-
-Choose one of the following abilities.
-
-##### Elements Unleashed {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/elements-unleashed"}
-
-*Your companion's body becomes a bank of glowing coals, a web of arcing lightning, a cloud of rumbling thunder, or a flurry of dancing ice crystals.*
-
-| **Companion, Magic** | **Maneuver** |
-|----------------------|-------------:|
-| **📏 Self**          | **🎯 Self**  |
-
-**Effect:** Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:
-
-- Your companion can [fly](../../Browse/movement/fly.md). If they could already fly, they gain a +2 bonus to speed.
-- When your companion enters another creature's space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature.
-- Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.
-
-Your companion's transformation lasts until the start of your next turn. At the start of each of your turns, you can spend 3 ferocity to extend the transformation's duration for one turn. When you do so, you can change the chosen damage type.
-
-**Spend 2 Ferocity:** You also transform.
-
-##### Killing Frost {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/killing-frost"}
-
-*Black frost freezes boots to the floor and creeps up trapped victims until they're completely encased in ice.*
-
-| **Area, Companion, Magic** |              **Main action** |
-|----------------------------|-----------------------------:|
-| **📏 5 cube within 1**     | **🎯 Each enemy in the area** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 cold damage; I < WEAK [restrained](../../Browse/condition/restrained.md) (save ends)
-- **12-16:** 7 cold damage; I < AVERAGE [restrained](../../Browse/condition/restrained.md) (save ends)
-- **17+:** 12 cold damage; I < STRONG [restrained](../../Browse/condition/restrained.md) (save ends)
-
-**Effect:** While [restrained](../../Browse/condition/restrained.md) this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">6th-Level Wild Nature Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants your choice of one of two heroic abilities.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Guardian Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sic &#39;Em!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion rushes forward to protect you from a dangerous foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; <a href="../../../Browse/condition/taunted/">taunted</a> (save ends); M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + M damage; <a href="../../../Browse/condition/taunted/">taunted</a> (save ends); M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage; <a href="../../../Browse/condition/taunted/">taunted</a> (save ends); M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (EoT)</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">Your companion can use this ability as a triggered action against an enemy who damages you.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Stare Down</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion locks eyes with an enemy, imposing their will upon the enemy and daring them to move a muscle.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I psychic damage; I &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I psychic damage; I &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I psychic damage; I &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../Browse/condition/frightened/">frightened</a> of your companion (save ends).</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Prowler Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Soft Underbelly</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion ducks under your enemy&#39;s guard and rakes open their soft vitals, leaving them vulnerable.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; A &lt; WEAK <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage; A &lt; AVERAGE <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; A &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../Browse/condition/bleeding/">bleeding</a> this way, the target has damage weakness 5.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="move">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">o</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Move Action</div>
+<h3 class="sc-ability__name">Wraith Heart</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your companion become soul-freezing wraiths.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and your companion <a href="../../../Browse/movement/shifting/">shift</a> up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Punisher Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Lead the Pack</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Roaring like wild beasts, your companion and your allies rush toward the foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion&#39;s starting position can shift up to their speed and make free strikes.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Rolling Thunder</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The rumble of your companion&#39;s dash is a rolling thunderclap, their impact an earthquake.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 sonic damage; M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 sonic damage; M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 sonic damage; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Spark Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Elements Unleashed</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion&#39;s body becomes a bank of glowing coals, a web of arcing lightning, a cloud of rumbling thunder, or a flurry of dancing ice crystals.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:</p><ul><li>Your companion can <a href="../../../Browse/movement/fly/">fly</a>. If they could already fly, they gain a +2 bonus to speed.</li><li>When your companion enters another creature&#39;s space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature.</li><li>Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.</li></ul><p>Your companion&#39;s transformation lasts until the start of your next turn. At the start of each of your turns, you can spend 3 ferocity to extend the transformation&#39;s duration for one turn. When you do so, you can change the chosen damage type.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You also transform.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Killing Frost</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Black frost freezes boots to the floor and creeps up trapped victims until they&#39;re completely encased in ice.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 cold damage; I &lt; WEAK <a href="../../../Browse/condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 cold damage; I &lt; AVERAGE <a href="../../../Browse/condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 cold damage; I &lt; STRONG <a href="../../../Browse/condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../Browse/condition/restrained/">restrained</a> this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 7th-Level Features
 
@@ -1656,19 +2867,67 @@ As a 7th-level beastheart, you gain the following features.
 
 ##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/characteristic-increase"}
 
-Each of your and your companion's characteristic scores increases by 1, to a maximum of 4.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each of your and your companion&#39;s characteristic scores increases by 1, to a maximum of 4.</p>
+</div>
+</section>
 
 ##### Feral Heart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/feral-heart"}
 
-At the start of each of your turns in combat, you gain 1d3 + 1 ferocity instead of 1d3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Feral Heart</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of each of your turns in combat, you gain 1d3 + 1 ferocity instead of 1d3.</p>
+</div>
+</section>
 
 ##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 20 or more rampage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Rampage Improvement</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../../Browse/feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 20 or more rampage.</p>
+</div>
+</section>
 
 ##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ### 8th-Level Features
 
@@ -1676,97 +2935,219 @@ As an 8th-level beastheart, you gain the following features.
 
 ##### 8th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/8th-level-wild-nature-feature"}
 
-Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.
-
-| ♦ 8th-Level Wild Nature Features ♦ |                                                                                                            |
-|------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Wild Nature                        | Feature                                                                                                    |
-| Guardian                           | [Reflexes Perfected](../../Browse/feature/beastheart/level-8/reflexes-perfected.md)           |
-| Prowler                            | [Born to Run](../../Browse/feature/beastheart/level-8/born-to-run.md)                         |
-| Punisher                           | [Built for Violence](../../Browse/feature/beastheart/level-8/built-for-violence.md)           |
-| Spark                              | [Nature Will Not Harm Us](../../Browse/feature/beastheart/level-8/nature-will-not-harm-us.md) |
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">8th-Level Wild Nature Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.</p>
+<table><thead><tr><th>♦ 8th-Level Wild Nature Features ♦</th><th></th></tr></thead><tbody><tr><td>Wild Nature</td><td>Feature</td></tr><tr><td>Guardian</td><td><a href="../../../Browse/feature/beastheart/level-8/reflexes-perfected/">Reflexes Perfected</a></td></tr><tr><td>Prowler</td><td><a href="../../../Browse/feature/beastheart/level-8/born-to-run/">Born to Run</a></td></tr><tr><td>Punisher</td><td><a href="../../../Browse/feature/beastheart/level-8/built-for-violence/">Built for Violence</a></td></tr><tr><td>Spark</td><td><a href="../../../Browse/feature/beastheart/level-8/nature-will-not-harm-us/">Nature Will Not Harm Us</a></td></tr></tbody></table>
+</div>
+</section>
 
 ##### Born to Run {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/born-to-run"}
 
-You and your companion gain a +2 bonus to speed.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Prowler</div>
+<h3 class="sc-trait__name">Born to Run</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion gain a +2 bonus to speed.</p>
+</div>
+</section>
 
 ##### Built for Violence {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/built-for-violence"}
 
-You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Punisher</div>
+<h3 class="sc-trait__name">Built for Violence</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.</p>
+</div>
+</section>
 
 ##### Nature Will Not Harm Us {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/nature-will-not-harm-us"}
 
-You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Spark</div>
+<h3 class="sc-trait__name">Nature Will Not Harm Us</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.</p>
+</div>
+</section>
 
 ##### Reflexes Perfected {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/reflexes-perfected"}
 
-Your and your companion's free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn't adjacent, you or your companion can make an opportunity attack, even if the enemy [shifted](../../Browse/movement/shifting.md), [teleported](../../Browse/movement/teleport.md), was [force moved](../../Browse/movement/forced-movement.md), or another feature that doesn't provoke opportunity attacks.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature · Guardian</div>
+<h3 class="sc-trait__name">Reflexes Perfected</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy <a href="../../../Browse/movement/shifting/">shifted</a>, <a href="../../../Browse/movement/teleport/">teleported</a>, was <a href="../../../Browse/movement/forced-movement/">force moved</a>, or another feature that doesn&#39;t provoke opportunity attacks.</p>
+</div>
+</section>
 
 ##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 #### 11-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/11-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
-
-##### Life-Drinking Wound {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/life-drinking-wound"}
-
-*As your attack strikes home, your enemy's escaping life force drifts to your allies in crimson threads.*
-
-| **Beastheart, Magic, Melee, Ranged, Strike, Weapon** | **Main action** |
-|------------------------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**                           | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 12 + M damage
-- **12-16:** 18 + M damage
-- **17+:** 24 + M damage
-
-**Effect:** Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.
-
-##### On the Razor's Edge {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/on-the-razors-edge"}
-
-*Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.*
-
-| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |
-|-----------------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**                    | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M damage
-- **12-16:** 15 + M damage
-- **17+:** 25 + M damage
-
-**Effect:** Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is [bleeding](../../Browse/condition/bleeding.md), dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.
-
-##### Ride or Die {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/ride-or-die"}
-
-*Your enemies might be stronger than you, but that's why you're not alone.*
-
-| **Beastheart** | **Main action** |
-|----------------|----------------:|
-| **📏 Self**    | **🎯 Self**     |
-
-**Effect:** You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
-
-##### Turn the World To Ash {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/turn-the-world-to-ash"}
-
-*Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can't control.*
-
-| **Area, Beastheart, Magic** |              **Main action** |
-|-----------------------------|-----------------------------:|
-| **📏 2 burst**              | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 10 cold, fire, lightning, or sonic damage
-- **12-16:** 18 cold, fire, lightning, or sonic damage
-- **17+:** 26 cold, fire, lightning, or sonic damage
-
-**Spend 2+ Ferocity:** You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can't be reduced in any way. You can choose how much ferocity you spend after you make the power roll.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">11-Ferocity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Life-Drinking Wound</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">As your attack strikes home, your enemy&#39;s escaping life force drifts to your allies in crimson threads.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">On the Razor&#39;s Edge</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">25 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is <a href="../../../Browse/condition/bleeding/">bleeding</a>, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ride or Die</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your enemies might be stronger than you, but that&#39;s why you&#39;re not alone.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Turn the World To Ash</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can&#39;t control.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">26 cold, fire, lightning, or sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Ferocity</span><span class="txt">You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can&#39;t be reduced in any way. You can choose how much ferocity you spend after you make the power roll.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### 9th-Level Features
 
@@ -1774,165 +3155,306 @@ As a 9th-level beastheart, you gain the following features.
 
 ##### Avatar of the Green {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/avatar-of-the-green"}
 
-Your companion has transcended beasthood. Although they're still your faithful friend, they're also a vessel for nature's wisdom and memories. Your companion's Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the [Nature](../../Browse/skill/lore/nature.md) skill and one other skill from the lore skill group.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Avatar of the Green</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion has transcended beasthood. Although they&#39;re still your faithful friend, they&#39;re also a vessel for nature&#39;s wisdom and memories. Your companion&#39;s Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the <a href="../../../Browse/skill/lore/nature/">Nature</a> skill and one other skill from the lore skill group.</p>
+</div>
+</section>
 
 ### 9th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/9th-level-wild-nature-ability"}
 
-Your wild nature grants your choice of one of two heroic abilities.
-
-##### 9th-Level Guardian Abilities
-
-Choose one of the following abilities.
-
-##### Banshee Howl {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl"}
-
-*Your companion's howl, screech, roar, or psychic emanation presages death to those who hear it.*
-
-| **Area, Companion, Magic** |              **Main action** |
-|----------------------------|-----------------------------:|
-| **📏 3 burst**             | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 5 sonic damage; I < WEAK [frightened](../../Browse/condition/frightened.md) (save ends)
-- **12-16:** 10 sonic damage; I < AVERAGE [frightened](../../Browse/condition/frightened.md) (save ends)
-- **17+:** 15 sonic damage; I < STRONG [frightened](../../Browse/condition/frightened.md) (save ends)
-
-**Effect:** While [frightened](../../Browse/condition/frightened.md) this way, a creature takes 10 psychic damage at the start of each of your turns.
-
-**Spend 1 Ferocity:** This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.
-
-##### Relentless {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/relentless"}
-
-*Your companion launches at your foe, shielding allies with their body.*
-
-| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |
-|----------------------------------------------|----------------:|
-| **📏 Melee 1**                               | **🎯 One enemy** |
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage; P < WEAK [taunted](../../Browse/condition/taunted.md) (save ends)
-- **12-16:** 17 + M damage; P < AVERAGE [taunted](../../Browse/condition/taunted.md) (save ends)
-- **17+:** 22 + M damage; P < STRONG [taunted](../../Browse/condition/taunted.md) (save ends)
-
-**Effect:** While the target is [taunted](../../Browse/condition/taunted.md) this way, all creatures except your companion have immunity 10 to damage dealt by the target.
-
-##### 9th-Level Prowler Abilities
-
-Choose one of the following abilities.
-
-##### Behold the Face of Chaos {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos"}
-
-*Your companion appears next to their victim in the guise of a heart-stopping nightmare.*
-
-| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------------|----------------:|
-| **📏 Melee 1**                              | **🎯 One creature** |
-
-**Effect:** Your companion [teleports](../../Browse/movement/teleport.md) up to their speed.
-
-**Power Roll + Intuition:**
-
-- **≤11:** 13 + I psychic damage; P < WEAK [frightened](../../Browse/condition/frightened.md) (save ends)
-- **12-16:** 20 + I psychic damage; P < AVERAGE [frightened](../../Browse/condition/frightened.md) (save ends)
-- **17+:** 27 + I psychic damage; P < STRONG [frightened](../../Browse/condition/frightened.md) (save ends)
-
-##### Let's Take This Outside {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/lets-take-this-outside"}
-
-*Your companion drags your chosen foe into storms of the Primordial Plane.*
-
-| **Companion, Magic** | **Main action** |
-|----------------------|----------------:|
-| **📏 Melee 1**       | **🎯 One creature** |
-
-**Effect:** You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can't affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can't move or [teleport](../../Browse/movement/teleport.md) away from each other, but can otherwise act normally.
-
-While on Quintessence, the target takes 5 cold damage, 5 fire damage, 5 lightning damage, and 5 sonic damage at the start of each of your turns.
-
-The effect ends when one of you dies or you end it as a free maneuver. The target can make a save at the end of each of their turns to end the effect early. When the effect ends, you each reappear in the space you left or the nearest unoccupied space. If the target dies on Quintessence, their remains do not return.
-
-##### 9th-Level Punisher Abilities
-
-Choose one of the following abilities.
-
-##### Battle Frenzy {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy"}
-
-*Your companion shatters the floodgates that keep their rampage dammed up, and it cascades into the unprepared minds of nearby creatures.*
-
-| **Area, Companion, Magic** | **Main action** |
-|----------------------------|----------------:|
-| **📏 5 burst**             | **🎯 Special**  |
-
-**Special:** This ability targets only creatures you choose within distance.
-
-**Power Roll + Might:**
-
-- **≤11:** P < WEAK the target is battle-frenzied
-- **12-16:** P < AVERAGE the target is battle-frenzied
-- **17+:** The target is battle-frenzied
-
-**Effect:** If a target resists the potency, they can choose to become battle-frenzied.
-
-A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature's target. After making this strike, they are no longer battle frenzied.
-
-##### Juggernaut {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut"}
-
-*Your companion plows through the front lines, tossing enemies—and allies—this way and that.*
-
-| **Area, Charge, Companion** | **Main action** |
-|-----------------------------|----------------:|
-| **📏 2 burst**              | **🎯 Each creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 9 damage; vertical slide 2; M < WEAK [prone](../../Browse/condition/prone.md)
-- **12-16:** 13 damage; vertical slide 4; M < AVERAGE [prone](../../Browse/condition/prone.md)
-- **17+:** 18 damage; vertical slide 6; M < STRONG [prone](../../Browse/condition/prone.md)
-
-**Effect:** Your companion can forgo dealing damage to targets of your choice.
-
-##### 9th-Level Spark Abilities
-
-Choose one of the following abilities.
-
-##### For the Pack! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack"}
-
-*They'd tell stories in hushed tones of your companion's last stand—if any of them lived to tell the tale.*
-
-| **Area, Companion, Magic** | **Free Triggered Action** |
-|----------------------------|--------------------------:|
-| **📏 Self**                | **🎯 Self**               |
-
-**Trigger:** After taking damage, your companion is dead or dying.
-
-**Effect:** Your companion makes a power roll, which targets each enemy in a 5 burst.
-
-**Power Roll + Intuition:**
-
-- **≤11:** 20 cold, fire, lightning, or sonic damage
-- **12-16:** 25 cold, fire, lightning, or sonic damage
-- **17+:** 30 cold, fire, lightning, or sonic damage
-
-**Effect:** Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.
-
-##### Wild Hunt {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt"}
-
-*Your companion summons a ravening pack of spectral ancestors to devour your foes.*
-
-| **Area, Companion, Magic** |              **Main action** |
-|----------------------------|-----------------------------:|
-| **📏 5 cube within 20**    | **🎯 Each enemy in the area** |
-
-**Effect:** Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it's centered on your companion's space, then continues moving in a straight line until it is up to 20 squares away.
-
-Your companion targets each enemy inside the pack's area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.
-
-**Power Roll + Might:**
-
-- **≤11:** 9 damage
-- **12-16:** 13 damage
-- **17+:** 18 damage
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">9th-Level Wild Nature Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your wild nature grants your choice of one of two heroic abilities.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Guardian Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Banshee Howl</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion&#39;s howl, screech, roar, or psychic emanation presages death to those who hear it.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 sonic damage; I &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 sonic damage; I &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 sonic damage; I &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../Browse/condition/frightened/">frightened</a> this way, a creature takes 10 psychic damage at the start of each of your turns.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Relentless</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion launches at your foe, shielding allies with their body.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; P &lt; WEAK <a href="../../../Browse/condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; P &lt; AVERAGE <a href="../../../Browse/condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; P &lt; STRONG <a href="../../../Browse/condition/taunted/">taunted</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../Browse/condition/taunted/">taunted</a> this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Prowler Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Behold the Face of Chaos</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion appears next to their victim in the guise of a heart-stopping nightmare.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + I psychic damage; P &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">20 + I psychic damage; P &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/teleport/">teleports</a> up to their speed.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Let&#39;s Take This Outside</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion drags your chosen foe into storms of the Primordial Plane.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can&#39;t affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can&#39;t move or <a href="../../../Browse/movement/teleport/">teleport</a> away from each other, but can otherwise act normally.</p><p>While on Quintessence, the target takes 5 cold damage, 5 fire damage, 5 lightning damage, and 5 sonic damage at the start of each of your turns.</p><p>The effect ends when one of you dies or you end it as a free maneuver. The target can make a save at the end of each of their turns to end the effect early. When the effect ends, you each reappear in the space you left or the nearest unoccupied space. If the target dies on Quintessence, their remains do not return.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Punisher Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Battle Frenzy</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion shatters the floodgates that keep their rampage dammed up, and it cascades into the unprepared minds of nearby creatures.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK the target is battle-frenzied</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; AVERAGE the target is battle-frenzied</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is battle-frenzied</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures you choose within distance.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If a target resists the potency, they can choose to become battle-frenzied.</p><p>A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature&#39;s target. After making this strike, they are no longer battle frenzied.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Juggernaut</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion plows through the front lines, tossing enemies—and allies—this way and that.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage; vertical slide 2; M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; vertical slide 4; M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 damage; vertical slide 6; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can forgo dealing damage to targets of your choice.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Spark Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">For the Pack!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">They&#39;d tell stories in hushed tones of your companion&#39;s last stand—if any of them lived to tell the tale.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">20 cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">25 cold, fire, lightning, or sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">30 cold, fire, lightning, or sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>After taking damage, your companion is dead or dying.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion makes a power roll, which targets each enemy in a 5 burst.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Wild Hunt</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your companion summons a ravening pack of spectral ancestors to devour your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 20</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 10th-Level Features
 
@@ -1940,32 +3462,114 @@ As a 10th-level beastheart, you gain the following features.
 
 ##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/characteristic-increase"}
 
-Your and your companion's Might and Intuition scores increase to 5.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your and your companion&#39;s Might and Intuition scores increase to 5.</p>
+</div>
+</section>
 
 ##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/companion-advancement-feature"}
 
-Your companion gains the level 10 advancement feature granted by their stat block.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Companion Advancement Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your companion gains the level 10 advancement feature granted by their stat block.</p>
+</div>
+</section>
 
 ##### Final Evolution {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/final-evolution"}
 
-When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Final Evolution</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1.</p>
+</div>
+</section>
 
 ##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/perk"}
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
+</div>
+</section>
 
 ##### Ferox {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/ferox"}
 
-You have an epic resource called ferox. Each time you finish a respite, you gain ferox equal to the XP you gain. You can spend ferox on your abilities as if it were ferocity.
-
-Additionally, you can spend 1 ferox as a free maneuver to allow you and your companion to each to take a main action on your turn, instead of a main action and a maneuver. On that turn, the ferocity cost of your heroic abilities is reduced by 1.
-
-Ferox remains until you spend it.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Ferox</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have an epic resource called ferox. Each time you finish a respite, you gain ferox equal to the XP you gain. You can spend ferox on your abilities as if it were ferocity.</p>
+<p>Additionally, you can spend 1 ferox as a free maneuver to allow you and your companion to each to take a main action on your turn, instead of a main action and a maneuver. On that turn, the ferocity cost of your heroic abilities is reduced by 1.</p>
+<p>Ferox remains until you spend it.</p>
+</div>
+</section>
 
 ##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 24 or more rampage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Rampage Improvement</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../../Browse/feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 24 or more rampage.</p>
+</div>
+</section>
 
 ##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>

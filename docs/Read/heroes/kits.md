@@ -173,19 +173,34 @@ You wear no armor and wield a bow.
 
 ###### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
 
-*Your ammunition explodes with magical energy.*
-
-| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 15**                  | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 5 + A, R, I, or P fire damage
-- **12-16:** 7 + A, R, I, or P fire damage
-- **17+:** 10 + A, R, I, or P fire damage
-
-**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's [power roll](../../Browse/rule/dice/power-roll.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Arcane Archer (Exploding Arrow)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your ammunition explodes with magical energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 15</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a>, <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A, R, I, or P fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A, R, I, or P fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + A, R, I, or P fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One creature or object of your choice within 2 squares of the target takes fire damage equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
 
 #### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind"}
 
@@ -209,19 +224,34 @@ You wear light armor and wield a medium weapon.
 
 ###### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring"}
 
-*Your weapon unleashes psionic energy that reduces your target's weight.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|------------------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 5 + M, R, I, or P damage
-- **12-16:** 8 + M, R, I, or P damage
-- **17+:** 11 + M, R, I, or P damage
-
-**Effect:** Until the end of the target's next [turn](../../Browse/rule/combat/turn.md), any [forced movement](../../Browse/movement/forced-movement.md) that affects the target has its [distance](../../Browse/rule/combat/distance.md) increased by 2.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Battlemind (Unmooring)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your weapon unleashes psionic energy that reduces your target&#39;s weight.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a>, <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M, R, I, or P damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M, R, I, or P damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M, R, I, or P damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a>, any <a href="../../../Browse/movement/forced-movement/">forced movement</a> that affects the target has its <a href="../../../Browse/rule/combat/distance/">distance</a> increased by 2.</p></div>
+</div>
+</article>
 
 #### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger"}
 
@@ -249,17 +279,30 @@ You wear light armor and wield one or two light weapons.
 
 ###### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade"}
 
-*A stab, and a few quick, careful steps back.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10**       | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage; you can [shift](../../Browse/movement/shifting.md) 1 square
-- **12-16:** 6 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 2 squares
-- **17+:** 8 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 3 squares
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Cloak And Dagger (Fade)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A stab, and a few quick, careful steps back.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1 or <a href="../../../Browse/rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage; you can <a href="../../../Browse/movement/shifting/">shift</a> 1 square</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; you can <a href="../../../Browse/movement/shifting/">shift</a> up to 2 squares</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; you can <a href="../../../Browse/movement/shifting/">shift</a> up to 3 squares</span></div>
+</div>
+</div>
+</article>
 
 #### Dual Wielder {data-scc="mcdm.heroes.v1/kit/dual-wielder"}
 
@@ -283,19 +326,34 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ###### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike"}
 
-*Why strike once when you could do it twice?*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
-|---------------------------|--------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 damage
-- **12-16:** 6 damage
-- **17+:** 8 damage
-
-**Effect:** If you use this ability on your [turn](../../Browse/rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../Browse/rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../Browse/rule/dice/power-roll.md) for both targets.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Dual Wielder (Double Strike)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Why strike once when you could do it twice?</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you use this ability on your <a href="../../../Browse/rule/combat/turn/">turn</a>, you can use it against one target, then use your maneuver and your move action for that <a href="../../../Browse/rule/combat/turn/">turn</a> before using the ability against a second target. You still use the same <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for both targets.</p></div>
+</div>
+</article>
 
 #### Guisarmier {data-scc="mcdm.heroes.v1/kit/guisarmier"}
 
@@ -319,17 +377,30 @@ You wear medium armor and wield a polearm.
 
 ###### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash"}
 
-*In your hands, the haft is as good as the head.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
-|---------------------------|--------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**            | **🎯 Two creatures or objects** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 damage
-- **12-16:** 7 damage
-- **17+:** 9 damage
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Guisarmier (Forward Thrust, Backward Smash)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">In your hands, the haft is as good as the head.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage</span></div>
+</div>
+</div>
+</article>
 
 #### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist"}
 
@@ -353,19 +424,34 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 ###### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
 
-*You feint to move your enemies into perfect position.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 5 + M or A damage
-- **12-16:** 8 + M or A damage; you can swap places with the target
-- **17+:** 11 + M or A damage; you can swap places with the target
-
-**Effect:** If you obtain a tier 2 or tier 3 outcome and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Martial Artist (Battle Grace)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You feint to move your enemies into perfect position.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M or A damage; you can swap places with the target</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M or A damage; you can swap places with the target</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 or tier 3 outcome and can&#39;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.</p></div>
+</div>
+</article>
 
 #### Mountain {data-scc="mcdm.heroes.v1/kit/mountain"}
 
@@ -387,19 +473,34 @@ You wear heavy armor and wield a heavy weapon.
 
 ###### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain"}
 
-*An enemy who tagged you will pay for that.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 5 + M or A damage
-- **17+:** 13 + M or A damage
-
-**Effect:** If the target dealt damage to you since the end of your last [turn](../../Browse/rule/combat/turn.md), this [strike](../../Browse/rule/combat/strike.md) deals additional damage equal to your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score (your choice).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Mountain (Pain for Pain)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">An enemy who tagged you will pay for that.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M or A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target dealt damage to you since the end of your last <a href="../../../Browse/rule/combat/turn/">turn</a>, this <a href="../../../Browse/rule/combat/strike/">strike</a> deals additional damage equal to your <a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a> score (your choice).</p></div>
+</div>
+</article>
 
 #### Panther {data-scc="mcdm.heroes.v1/kit/panther"}
 
@@ -423,19 +524,34 @@ You wear no armor and wield a heavy weapon.
 
 ###### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush"}
 
-*The faster you move, the harder you hit.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage
-- **17+:** 13 + M or A damage
-
-**Effect:** You can move up to 3 squares straight toward the target before this [strike](../../Browse/rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Panther (Devastating Rush)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The faster you move, the harder you hit.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M or A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can move up to 3 squares straight toward the target before this <a href="../../../Browse/rule/combat/strike/">strike</a>, which deals extra damage equal to the number of squares you move this way.</p></div>
+</div>
+</article>
 
 #### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist"}
 
@@ -459,19 +575,34 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 ###### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
 
-*Keeping your enemies stumbling around the battlefield is second nature to you.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 1
-- **17+:** 8 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 2
-
-**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you [slide](../../Browse/movement/forced-movement.md) them.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Pugilist (Let&#39;s Dance)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Keeping your enemies stumbling around the battlefield is second nature to you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 2</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> into any square the target leaves after you <a href="../../../Browse/movement/forced-movement/">slide</a> them.</p></div>
+</div>
+</article>
 
 #### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
 
@@ -499,19 +630,34 @@ You wear light armor and wield a shield and a light weapon.
 
 ###### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe"}
 
-*You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../Browse/feature/tactician/level-7/shock-and-awe.md)")*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10**       | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage
-- **17+:** 8 + M or A damage
-
-**Effect:** The target takes a [bane](../../Browse/rule/dice/bane.md) on their next [power roll](../../Browse/rule/dice/power-roll.md) made before the end of their next [turn](../../Browse/rule/combat/turn.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Raider (Raider&#39;s Awe)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../Browse/feature/tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1 or <a href="../../../Browse/rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../../Browse/rule/dice/bane/">bane</a> on their next <a href="../../../Browse/rule/dice/power-roll/">power roll</a> made before the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
 
 #### Ranger {data-scc="mcdm.heroes.v1/kit/ranger"}
 
@@ -539,17 +685,30 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ###### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot"}
 
-*A well-placed shot leaves your enemy struggling to move.*
-
-| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
-- **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
-- **17+:** 7 + M or A damage; A < STRONG, [slowed](../../Browse/condition/slowed.md) (save ends)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ranger (Hamstring Shot)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A well-placed shot leaves your enemy struggling to move.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage; A &lt; WEAK, <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M or A damage; A &lt; AVERAGE, <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M or A damage; A &lt; STRONG, <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+</article>
 
 #### Rapid-Fire {data-scc="mcdm.heroes.v1/kit/rapid-fire"}
 
@@ -575,17 +734,30 @@ You wear light armor and wield a bow.
 
 ###### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot"}
 
-*When you fire two arrows back-to-back, both hit their mark.*
-
-| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
-|----------------------------|--------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 12**           | **🎯 Two creatures or objects** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 damage
-- **12-16:** 6 damage
-- **17+:** 8 damage
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Rapid Fire (Two Shot)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">When you fire two arrows back-to-back, both hit their mark.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 12</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
+</div>
+</div>
+</article>
 
 #### Retiarius {data-scc="mcdm.heroes.v1/kit/retiarius"}
 
@@ -611,17 +783,30 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ###### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
 
-*The well-thrown net that follows your main attack leaves your foes right where you want them.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
-- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
-- **17+:** 8 + M or A damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Retiarius (Net and Stab)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The well-thrown net that follows your main attack leaves your foes right where you want them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; A &lt; WEAK, <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; A &lt; AVERAGE, <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; A &lt; STRONG, <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>)</span></div>
+</div>
+</div>
+</article>
 
 #### Shining Armor {data-scc="mcdm.heroes.v1/kit/shining-armor"}
 
@@ -643,19 +828,34 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ###### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
 
-*The strength of your assault makes it impossible for your foe to ignore you.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 5 + M or A damage
-- **12-16:** 8 + M or A damage
-- **17+:** 11 + M or A damage
-
-**Effect:** The target is [taunted](../../Browse/condition/taunted.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Shining Armor (Protective Attack)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The strength of your assault makes it impossible for your foe to ignore you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M or A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../Browse/condition/taunted/">taunted</a> until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
 
 #### Sniper {data-scc="mcdm.heroes.v1/kit/sniper"}
 
@@ -679,19 +879,34 @@ You wear no armor and wield a bow.
 
 ###### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot"}
 
-*Breathe... aim... wait... then strike!*
-
-| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 15**           | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage
-- **17+:** 13 + M or A damage
-
-**Effect:** If you don't take a move action this [turn](../../Browse/rule/combat/turn.md), this [strike](../../Browse/rule/combat/strike.md) deals extra damage equal to your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score (your choice).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sniper (Patient Shot)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Breathe... aim... wait... then strike!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 15</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M or A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you don&#39;t take a move action this <a href="../../../Browse/rule/combat/turn/">turn</a>, this <a href="../../../Browse/rule/combat/strike/">strike</a> deals extra damage equal to your <a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a> score (your choice).</p></div>
+</div>
+</article>
 
 #### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword"}
 
@@ -715,19 +930,34 @@ You wear light armor and wield a shield and a medium weapon.
 
 ###### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
 
-*Lightning jumps from your weapon as you strike to harm a nearby foe.*
-
-| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 5 + M, R, I, or P lightning damage
-- **12-16:** 8 + M, R, I, or P lightning damage
-- **17+:** 11 + M, R, I, or P lightning damage
-
-**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's [power roll](../../Browse/rule/dice/power-roll.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Spellsword (Leaping Lightning)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Lightning jumps from your weapon as you strike to harm a nearby foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a>, <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M, R, I, or P lightning damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M, R, I, or P lightning damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M, R, I, or P lightning damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A creature or object of your choice within 2 squares of the target takes lightning damage equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
 
 #### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe"}
 
@@ -753,17 +983,30 @@ You wear light armor and wield a polearm.
 
 ###### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you"}
 
-*When your stick speaks, your enemy moves.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 + M or A damage
-- **12-16:** 7 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 1
-- **17+:** 10 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 3
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Stick And Robe (Where I Want You)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">When your stick speaks, your enemy moves.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; <a href="../../../Browse/movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+</article>
 
 #### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
 
@@ -787,19 +1030,34 @@ You wear light armor and wield a medium weapon.
 
 ###### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
 
-*All combat is a dance—and you'll be the one leading.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 5 + M or A damage
-- **12-16:** 7 + M or A damage; [push](../../Browse/movement/forced-movement.md) 1
-- **17+:** 10 + M or A damage; [push](../../Browse/movement/forced-movement.md) 2
-
-**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you [push](../../Browse/movement/forced-movement.md) them.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Swashbuckler (Fancy Footwork)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">All combat is a dance—and you&#39;ll be the one leading.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; <a href="../../../Browse/movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> into any square the target leaves after you <a href="../../../Browse/movement/forced-movement/">push</a> them.</p></div>
+</div>
+</article>
 
 #### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board"}
 
@@ -823,17 +1081,30 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ###### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash"}
 
-*In your hands, a shield isn't just for protection.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 + M or A damage; [push](../../Browse/movement/forced-movement.md) 1
-- **12-16:** 7 + M or A damage; [push](../../Browse/movement/forced-movement.md) 2
-- **17+:** 9 + M or A damage; [push](../../Browse/movement/forced-movement.md) 3; M < STRONG[, prone](../../Browse/condition/prone.md)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sword And Board (Shield Bash)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">In your hands, a shield isn&#39;t just for protection.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; <a href="../../../Browse/movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M or A damage; <a href="../../../Browse/movement/forced-movement/">push</a> 3; M &lt; STRONG<a href="../../../Browse/condition/prone/">, prone</a></span></div>
+</div>
+</div>
+</article>
 
 #### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest"}
 
@@ -857,19 +1128,34 @@ You wear heavy armor and wield a light weapon.
 
 ###### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
 
-*The impact of your weapon brands your target for destruction.*
-
-| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
-
-- **≤11:** 3 + M, R, I, or P holy damage
-- **12-16:** 5 + M, R, I, or P holy damage
-- **17+:** 8 + M, R, I, or P holy damage
-
-**Effect:** Until the end of the target's next [turn](../../Browse/rule/combat/turn.md), they have [damage weakness](../../Browse/rule/damage/damage-weakness.md) equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's [power roll](../../Browse/rule/dice/power-roll.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Warrior Priest (Weakening Brand)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The impact of your weapon brands your target for destruction.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a>, <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M, R, I, or P holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M, R, I, or P holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M, R, I, or P holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a>, they have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
 
 #### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind"}
 
@@ -893,17 +1179,30 @@ You wear no armor and wield a whip.
 
 ###### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm"}
 
-*When you draw your whip back after an attack, your enemy is drawn ever closer.*
-
-| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 3**            | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** 4 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 1
-- **12-16:** 7 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 2
-- **17+:** 10 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Whirlwind (Extension of My Arm)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">When you draw your whip back after an attack, your enemy is drawn ever closer.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 3</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; vertical <a href="../../../Browse/movement/forced-movement/">pull</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; vertical <a href="../../../Browse/movement/forced-movement/">pull</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; vertical <a href="../../../Browse/movement/forced-movement/">pull</a> 3</span></div>
+</div>
+</div>
+</article>
 
 ### Optional Rule: Losing Equipment
 

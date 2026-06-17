@@ -75,262 +75,276 @@ Environmental hazards represent natural elements that creatures (typically creat
 
 ###### Angry Beehive (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/angry-beehive"}
 
-This beehive is full of angry bees who swarm and attack with little provocation.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Hazard · Hexer</div>
+<h2 class="fb__name">Angry Beehive</h2>
+</header>
+<div class="fb__flavor">This beehive is full of angry bees who swarm and attack with little provocation.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The beehive can&#39;t be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The hive is removed from the encounter map and a swarm of bees is placed in one square of the space of the triggering creature. Any creature who starts their turn in the swarm&#39;s space takes 3 poison damage. At the start of each round, the swarm moves 1 square and its size increases by 1 square (to 2 squares by 2 squares, 3 squares by 3 squares, and so forth), preferring squares in a creature&#39;s space. After 3 rounds, the swarm dissipates.</p></div></div>
+<div class="fb__feat-body">A creature enters the hive&#39;s space or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> space without <a href="../../../Browse/movement/shifting/">shifting</a>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Concealed Hive (+1 EV)</b> The hive is hidden until the swarm is unleashed.
 
-- **EV:** 2
-- **Stamina:** 3
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> The beehive can't be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.
-
-> ❕ **Activate**
->
-> A creature enters the hive's space or an [adjacent](../../Browse/rule/combat/adjacent.md) space without [shifting](../../Browse/movement/shifting.md).
->
-> **Effect:** The hive is removed from the encounter map and a swarm of bees is placed in one square of the space of the triggering creature. Any creature who starts their turn in the swarm's space takes 3 poison damage. At the start of each round, the swarm moves 1 square and its size increases by 1 square (to 2 squares by 2 squares, 3 squares by 3 squares, and so forth), preferring squares in a creature's space. After 3 rounds, the swarm dissipates.
-
-> ⭐️ **Upgrades**
->
-> **Concealed Hive (+1 EV)** The hive is hidden until the swarm is unleashed.
->
-> **Killer Bees (+2 EV)** The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature [shifts](../../Browse/movement/shifting.md) into or while [adjacent](../../Browse/rule/combat/adjacent.md) to it, and the swarm deals 1d6 + 3 poison damage.
+<b>Killer Bees (+2 EV)</b> The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature <a href="../../../Browse/movement/shifting/">shifts</a> into or while <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to it, and the swarm deals 1d6 + 3 poison damage.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Brambles (Level 1 Hazard Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/brambles"}
 
-This thicket features close-growing vines tipped with sharp thorns.
-
-- **EV:** 1 per 10 x 10 thicket
-- **Stamina:** 3 per square
-- **Size:** One or more squares of [difficult terrain](../../Browse/movement/difficult-terrain.md)
-
-> 🌀 **Deactivate**
->
-> Each square of brambles must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature enters a square of brambles without [shifting](../../Browse/movement/shifting.md).
->
-> **Effect:** A creature takes 1 damage per square of brambles they enter.
-
-> ⭐️ **Upgrade**
->
-> **Poisonous Thorns (+1 EV)** The brambles are poisonous. Any creature who takes damage from brambles is also [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends).
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Hazard · Defender</div>
+<h2 class="fb__name">Brambles</h2>
+</header>
+<div class="fb__flavor">This thicket features close-growing vines tipped with sharp thorns.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1 per 10 x 10 thicket</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a></div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of brambles must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature takes 1 damage per square of brambles they enter.</p></div></div>
+<div class="fb__feat-body">A creature enters a square of brambles without <a href="../../../Browse/movement/shifting/">shifting</a>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poisonous Thorns (+1 EV)</b> The brambles are poisonous. Any creature who takes damage from brambles is also <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Corrosive Pool (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/corrosive-pool"}
 
-This shallow pool bubbles with acid or some other corrosive liquid.
-
-- **EV:** 3 per 10 x 10 pool
-- **Stamina:** 12 per square
-- **Size:** One or more squares of [difficult terrain](../../Browse/movement/difficult-terrain.md)
-- **Immunity:** 20 to all damage except cold or fire damage
-
-> 🌀 **Deactivate**
->
-> The pool must be completely destroyed.
-
-> ❕ **Activate**
->
-> A creature or object enters the corrosive pool or starts their turn there. The liquid in the pool is also highly volatile (see **Explosive Reaction** below).
->
-> **Effect:** A creature or object takes 3 acid damage if they start their turn in the pool, and takes 3 acid damage for each square of the pool they enter.
-
-> ❗️ **Explosive Reaction**
->
-> | **Area**       |                   **Free triggered action** |
-> |----------------|--------------------------------------------:|
-> | **📏 3 burst** | **🎯 Each creature and object in the area** |
->
-> **Trigger:** The pool takes fire damage.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 fire damage; M < 1 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 6 fire damage; M < 2 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 9 fire damage; M < 3 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The liquid in the pool is consumed. This ability has a double edge against any target in the pool. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Any target with acid weakness takes extra damage from this ability and while burning as if the fire damage were acid damage.
-
-> ⭐️ **Allied Awareness**
->
-> Allies who have weapons are equipped with torches. Any ally can use a maneuver to throw a torch up to 5 squares and deal 1 fire damage to the pool, triggering Explosive Reaction.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Hazard · Hexer</div>
+<h2 class="fb__name">Corrosive Pool</h2>
+</header>
+<div class="fb__flavor">This shallow pool bubbles with acid or some other corrosive liquid.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3 per 10 x 10 pool</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">12 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a></div></div>
+<div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">20 to all damage except cold or fire damage</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The pool must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature or object takes 3 acid damage if they start their turn in the pool, and takes 3 acid damage for each square of the pool they enter.</p></div></div>
+<div class="fb__feat-body">A creature or object enters the corrosive pool or starts their turn there. The liquid in the pool is also highly volatile (see <b>Explosive Reaction</b> below).</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Explosive Reaction</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage; M &lt; 1 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 fire damage; M &lt; 2 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 fire damage; M &lt; 3 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The pool takes fire damage.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The liquid in the pool is consumed. This ability has a double edge against any target in the pool. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Any target with acid weakness takes extra damage from this ability and while burning as if the fire damage were acid damage.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Allies who have weapons are equipped with torches. Any ally can use a maneuver to throw a torch up to 5 squares and deal 1 fire damage to the pool, triggering Explosive Reaction.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Frozen Pond (Level 1 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/frozen-pond"}
 
-A shallow, frozen patch of water features ice thick enough that it won't break, but its surface is slick and treacherous to navigate.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Hazard · Hexer</div>
+<h2 class="fb__name">Frozen Pond</h2>
+</header>
+<div class="fb__flavor">A shallow, frozen patch of water features ice thick enough that it won&#39;t break, but its surface is slick and treacherous to navigate.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1 per 10 x 10 pond</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a></div></div>
+<div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">5 to all damage except fire damage</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Destroying a square of the frozen pond turns the square into shallow icy water.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Slippery Surface</b> ability.</p></div></div>
+<div class="fb__feat-body">A creature or object enters a square of the frozen pond without <a href="../../../Browse/movement/shifting/">shifting</a>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Slippery Surface</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1 in the direction the target was moving</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2 in the direction the target was moving; A &lt; 1 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 3 in the direction the target was moving; A &lt; 2 <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters a square of the frozen pond without <a href="../../../Browse/movement/shifting/">shifting</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature&#39;s movement ends, then they are <a href="../../../Browse/movement/forced-movement/">force moved</a>. If the target triggered this ability by being <a href="../../../Browse/movement/forced-movement/">force moved</a>, this ability gains an edge and any remaining <a href="../../../Browse/movement/forced-movement/">forced movement</a> distance is added to the ability&#39;s <a href="../../../Browse/movement/forced-movement/">forced movement</a>. The ability&#39;s <a href="../../../Browse/movement/forced-movement/">forced movement</a> doesn&#39;t trigger the ability again.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Thin Ice (+1 EV)</b> The ice covering the pond is thin and the water is deeper. Whenever a creature or object enters or falls <a href="../../../Browse/condition/prone/">prone</a> in a square of the frozen pond, that square is destroyed and replaced with icy water. The <b>Icy Water</b> ability replaces <b>Slippery Surface</b>.
 
-- **EV:** 1 per 10 x 10 pond
-- **Stamina:** 3 per square
-- **Size:** One or more squares of [difficult terrain](../../Browse/movement/difficult-terrain.md)
-- **Immunity:** 5 to all damage except fire damage
-
-> 🌀 **Deactivate**
->
-> Destroying a square of the frozen pond turns the square into shallow icy water.
-
-> ❕ **Activate**
->
-> A creature or object enters a square of the frozen pond without [shifting](../../Browse/movement/shifting.md).
->
-> **Effect:** The **Slippery Surface** ability.
-
-> ❗️ **Slippery Surface**
->
-> | **Melee, Strike** |                **Free triggered action** |
-> |-------------------|-----------------------------------------:|
-> | **📏 Melee 0**    | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters a square of the frozen pond without [shifting](../../Browse/movement/shifting.md).
->
-> **Power Roll + 2:**
->
-> - **≤11:** Push 1 in the direction the target was moving
-> - **12-16:** Push 2 in the direction the target was moving; A < 1 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** Push 3 in the direction the target was moving; A < 2 [prone](../../Browse/condition/prone.md) and can't stand ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The triggering creature's movement ends, then they are [force moved](../../Browse/movement/forced-movement.md). If the target triggered this ability by being [force moved](../../Browse/movement/forced-movement.md), this ability gains an edge and any remaining [forced movement](../../Browse/movement/forced-movement.md) distance is added to the ability's [forced movement](../../Browse/movement/forced-movement.md). The ability's [forced movement](../../Browse/movement/forced-movement.md) doesn't trigger the ability again.
-
-> ⭐️ **Upgrade**
->
-> **Thin Ice (+1 EV)** The ice covering the pond is thin and the water is deeper. Whenever a creature or object enters or falls [prone](../../Browse/condition/prone.md) in a square of the frozen pond, that square is destroyed and replaced with icy water. The **Icy Water** ability replaces **Slippery Surface**.
->
-> Any creature who starts their turn in the icy water takes 1 cold damage. If the water is deep enough, a creature can swim beneath the surface of the frozen pond, but takes this cold damage while doing so.
-
-❗️ **Icy Water**
-
-> **Power Roll + 2:**
->
-> | **Melee, Strike** |                **Free triggered action** |
-> |-------------------|-----------------------------------------:|
-> | **📏 Melee 0**    | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters or falls [prone](../../Browse/condition/prone.md) in a square of the frozen pond.
->
-> - **≤11:** Slide 1
-> - **12-16:** 1 cold damage; M < 1 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 3 cold damage; M < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The triggering creature's movement ends, then they are [force moved](../../Browse/movement/forced-movement.md) if applicable.
+Any creature who starts their turn in the icy water takes 1 cold damage. If the water is deep enough, a creature can swim beneath the surface of the frozen pond, but takes this cold damage while doing so.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Lava (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/lava"}
 
-A patch of blisteringly hot molten rock wells up from the ground, threatening anyone who gets close to it.
-
-- **EV:** 4 per 10 x 10 patch
-- **Stamina:** 12 per square
-- **Size:** One or more squares of [difficult terrain](../../Browse/movement/difficult-terrain.md)
-- **Immunity:** 20 to all damage except cold damage
-
-> 🌀 **Deactivate**
->
-> Each square of lava must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature or object enters the lava or starts their turn there, or starts their turn [adjacent](../../Browse/rule/combat/adjacent.md) to the lava.
->
-> **Effect:** The **Liquid Hot Magma** ability.
-
-> ❗️ **Liquid Hot Magma**
->
-> | **Melee, Strike** |                **Free triggered action** |
-> |-------------------|-----------------------------------------:|
-> | **📏 Melee 1**    | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters the lava or starts their turn there, or starts their turn [adjacent](../../Browse/rule/combat/adjacent.md) to the lava.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 fire damage; M < 1 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 fire damage; M < 2 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 12 fire damage; M < 3 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** If the target is [adjacent](../../Browse/rule/combat/adjacent.md) to lava but not in it, this ability takes a bane. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> ⭐️ **Upgrade**
->
-> **Magma Flow (+4 EV)** The lava is flowing! At the start of each round, add one square of lava [adjacent](../../Browse/rule/combat/adjacent.md) to an existing square of lava.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Hazard · Hexer</div>
+<h2 class="fb__name">Lava</h2>
+</header>
+<div class="fb__flavor">A patch of blisteringly hot molten rock wells up from the ground, threatening anyone who gets close to it.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">4 per 10 x 10 patch</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">12 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a></div></div>
+<div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">20 to all damage except cold damage</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of lava must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Liquid Hot Magma</b> ability.</p></div></div>
+<div class="fb__feat-body">A creature or object enters the lava or starts their turn there, or starts their turn <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the lava.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Liquid Hot Magma</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; M &lt; 1 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 fire damage; M &lt; 2 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 fire damage; M &lt; 3 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters the lava or starts their turn there, or starts their turn <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the lava.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target is <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to lava but not in it, this ability takes a bane. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Magma Flow (+4 EV)</b> The lava is flowing! At the start of each round, add one square of lava <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to an existing square of lava.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Quicksand (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/quicksand"}
 
-When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
-
-- **EV:** 3 per 10 x 10 patch
-- **Stamina:** -
-- **Size:** One or more squares
-
-> 🌀 **Deactivate**
->
-> -
-
-> ❕ **Activate**
->
-> A creature or object enters the quicksand or starts their turn there.
->
-> **Effect:** The **Grasping Depths** ability.
-
-> ❗️ **Grasping Depths**
->
-> | **Melee, Strike** |                **Free triggered action** |
-> |-------------------|-----------------------------------------:|
-> | **📏 Melee 0**    | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters the quicksand or starts their turn there.
->
-> **Power Roll + 2:**
->
-> - **≤11:** M < 0 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** M < 1 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** M < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** This ability takes a bane if a triggering creature [shifted](../../Browse/movement/shifting.md) into the quicksand. A character who starts their turn [restrained](../../Browse/condition/restrained.md) this way is [suffocating](../../Browse/rule/health/suffocating.md).
-
-> ⭐️ **Hidden**
->
-> The quicksand is hidden until triggered or detected.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Hazard · Hexer</div>
+<h2 class="fb__name">Quicksand</h2>
+</header>
+<div class="fb__flavor">When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3 per 10 x 10 patch</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">-</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">-</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Grasping Depths</b> ability.</p></div></div>
+<div class="fb__feat-body">A creature or object enters the quicksand or starts their turn there.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Grasping Depths</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; 0 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; 1 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; 2 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters the quicksand or starts their turn there.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability takes a bane if a triggering creature <a href="../../../Browse/movement/shifting/">shifted</a> into the quicksand. A character who starts their turn <a href="../../../Browse/condition/restrained/">restrained</a> this way is <a href="../../../Browse/rule/health/suffocating/">suffocating</a>.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The quicksand is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Toxic Plants (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/toxic-plants"}
 
-Colorful mushrooms or lovely flowering plants release a cloud of spores or pollen when disturbed, causing creatures to fall into a magical slumber.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Hazard · Hexer</div>
+<h2 class="fb__name">Toxic Plants</h2>
+</header>
+<div class="fb__flavor">Colorful mushrooms or lovely flowering plants release a cloud of spores or pollen when disturbed, causing creatures to fall into a magical slumber.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2 per 10 x 10 field</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of plants must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Sleep Spores</b> ability.</p></div></div>
+<div class="fb__feat-body">A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without <a href="../../../Browse/movement/shifting/">shifting</a>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Sleep Spores</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; 0 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; 1 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; 2 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without <a href="../../../Browse/movement/shifting/">shifting</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While <a href="../../../Browse/condition/dazed/">dazed</a> this way, a target who starts their turn in the area of the toxic plants falls <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poisonous Spores (+2 EV)</b> Any creature <a href="../../../Browse/condition/dazed/">dazed</a> by this hazard takes 1d6 poison damage at the start of each of their turns.
 
-- **EV:** 2 per 10 x 10 field
-- **Stamina:** 3 per square
-- **Size:** One or more squares
-
-> 🌀 **Deactivate**
->
-> Each square of plants must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without [shifting](../../Browse/movement/shifting.md).
->
-> **Effect:** The **Sleep Spores** ability.
-
-> ❗️ **Sleep Spores**
->
-> | **Magic, Melee, Strike** |      **Free triggered action** |
-> |--------------------------|-------------------------------:|
-> | **📏 Melee 0**           | **🎯 The triggering creature** |
->
-> **Trigger:** A creature starts their turn in the area of the toxic plants, or enters a square of toxic plants without [shifting](../../Browse/movement/shifting.md).
->
-> **Power Roll + 2:**
->
-> - **≤11:** M < 0 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** M < 1 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** M < 2 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** While [dazed](../../Browse/condition/dazed.md) this way, a target who starts their turn in the area of the toxic plants falls [prone](../../Browse/condition/prone.md) and can't stand.
-
-> ⭐️ **Upgrades**
->
-> **Poisonous Spores (+2 EV)** Any creature [dazed](../../Browse/condition/dazed.md) by this hazard takes 1d6 poison damage at the start of each of their turns.
->
-> **Carnivorous Plants (+2 EV)** The plants are carnivorous and attempt to slowly digest any creature who falls among them. Any creature who starts their turn [prone](../../Browse/condition/prone.md) in the area takes 4 acid damage.
+<b>Carnivorous Plants (+2 EV)</b> The plants are carnivorous and attempt to slowly digest any creature who falls among them. Any creature who starts their turn <a href="../../../Browse/condition/prone/">prone</a> in the area takes 4 acid damage.</div>
+</article>
+</div>
+</article>
+</div>
 
 ### Fieldworks
 
@@ -338,260 +352,282 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 
 ###### Archer's Stakes (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/archers-stakes"}
 
-A series of sharp stakes have been placed point-out to protect defenders against charges and other direct attacks.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Fortification · Defender</div>
+<h2 class="fb__name">Archer&#39;s Stakes</h2>
+</header>
+<div class="fb__flavor">A series of sharp stakes have been placed point-out to protect defenders against charges and other direct attacks.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a></div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">4 x 1-square area</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">One side of the stakes is defined as the front.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each square of stakes must be individually destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature takes 2 damage per square of stakes they enter. If they are <a href="../../../Browse/movement/forced-movement/">force moved</a> into an area of stakes, they take an additional 3 damage.</p></div></div>
+<div class="fb__feat-body">A creature enters an area of stakes from the front.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poison (+2 EV)</b> The tips of the stakes have poison applied to them. Any creature who takes damage from the stakes also takes 1d6 poison damage at the start of each of their turns (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).
 
-- **EV:** 2
-- **Stamina:** 3 per square
-- **Size:** One or more squares of [difficult terrain](../../Browse/movement/difficult-terrain.md)
-- **Typical Space:** 4 x 1-square area
-- **Direction:** One side of the stakes is defined as the front.
-
-> 🌀 **Deactivate**
->
-> Each square of stakes must be individually destroyed.
-
-> ❕ **Activate**
->
-> A creature enters an area of stakes from the front.
->
-> **Effect:** The triggering creature takes 2 damage per square of stakes they enter. If they are [force moved](../../Browse/movement/forced-movement.md) into an area of stakes, they take an additional 3 damage.
-
-> ⭐️ **Upgrades**
->
-> **Poison (+2 EV)** The tips of the stakes have poison applied to them. Any creature who takes damage from the stakes also takes 1d6 poison damage at the start of each of their turns ([save](../../Browse/rule/general/saving-throw.md) ends).
->
-> **Sticky (+3 EV)** A sticky slime or webbing has been applied to the stakes and the ground between them. Any creature who enters an area of stakes triggers the **Sticky Stakes** ability in addition to suffering the stakes' other effects.
-
-> ❗️ **Sticky Stakes**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object enters an area of sticky stakes.
->
-> **Power Roll + 2:**
->
-> - **≤11:** No effect.
-> - **12-16:** A < 1 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** A < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-> ⭐️ **Allied Awareness**
->
-> Allies of this object ignore the [difficult terrain](../../Browse/movement/difficult-terrain.md) created by the stakes, take no damage from moving through the stakes unless they are [force moved](../../Browse/movement/forced-movement.md), and have [cover](../../Browse/rule/combat/cover.md) while in an area of archer's stakes.
+<b>Sticky (+3 EV)</b> A sticky slime or webbing has been applied to the stakes and the ground between them. Any creature who enters an area of stakes triggers the <b>Sticky Stakes</b> ability in addition to suffering the stakes&#39; other effects.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Sticky Stakes</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">A &lt; 1 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; 2 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters an area of sticky stakes.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Allies of this object ignore the <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> created by the stakes, take no damage from moving through the stakes unless they are <a href="../../../Browse/movement/forced-movement/">force moved</a>, and have <a href="../../../Browse/rule/combat/cover/">cover</a> while in an area of archer&#39;s stakes.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Bear Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/bear-trap"}
 
-A set of spring-loaded steel jaws stands ready to snap shut when stepped on.
-
-- **EV:** 2
-- **Stamina:** 6
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a bear trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its space.
-> - **12-16:** The trap is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The bear trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.
->
-> **Effect:** A triggering creature or object ends their movement and is targeted by the **Bear Trap** ability.
-
-> ❗️ **Bear Trap**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's space.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 1 The target [shifts](../../Browse/movement/shifting.md) 1 square away from the trap.
-> - **12-16:** 3 damage; A < 1 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 5 damage; A < 2 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The bear trap must be manually reset.
-
-> ⭐️ **Upgrade**
->
-> **Chain (+1 EV)** The bear trap is attached to the ground by a steel chain. A target who would be made [slowed](../../Browse/condition/slowed.md) by the trap is [restrained](../../Browse/condition/restrained.md) instead.
-
-> ⭐️ **Hidden**
->
-> The bear trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Bear Trap</h2>
+</header>
+<div class="fb__flavor">A set of spring-loaded steel jaws stands ready to snap shut when stepped on.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a bear trap can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A triggering creature or object ends their movement and is targeted by the <b>Bear Trap</b> ability.</p></div></div>
+<div class="fb__feat-body">The bear trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Bear Trap</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1 The target <a href="../../../Browse/movement/shifting/">shifts</a> 1 square away from the trap.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage; A &lt; 1 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage; A &lt; 2 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s space.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The bear trap must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Chain (+1 EV)</b> The bear trap is attached to the ground by a steel chain. A target who would be made <a href="../../../Browse/condition/slowed/">slowed</a> by the trap is <a href="../../../Browse/condition/restrained/">restrained</a> instead.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The bear trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Flammable Oil (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/flammable-oil"}
 
-A patch of flammable oil or pitch on the ground is ready to be ignited.
-
-- **EV:** 2 per 10 x 10 patch
-- **Stamina:** -
-- **Size:** One or more squares
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a patch of flammable oil can make an **Agility test**.
->
-> - **≤11:** The creature ignites the oil and is affected as if in its area.
-> - **12-16:** The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning ([save](../../Browse/rule/general/saving-throw.md) ends).
-> - **17+:** The oil is rendered safe and can't be ignited.
-
-> ❕ **Activate**
->
-> A creature or object in a square of oil takes fire damage, or a creature or object enters a square of burning oil or starts their turn there.
->
-> **Effect:** The triggering creature or object takes 3 fire damage and is burning ([save](../../Browse/rule/general/saving-throw.md) ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> ⭐️ **Upgrade**
->
-> **Concealed Oil (+1 EV)** The oil is hidden until it ignites.
-
-> ⭐️ **Allied Awareness**
->
-> Allies who have weapons are equipped with torches. Any ally can use a maneuver to throw a torch up to 5 squares and ignite the flammable oil.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Flammable Oil</h2>
+</header>
+<div class="fb__flavor">A patch of flammable oil or pitch on the ground is ready to be ignited.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2 per 10 x 10 patch</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">-</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a patch of flammable oil can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature ignites the oil and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The oil temporarily ignites before safely burning out, and the creature takes 3 fire damage and is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The oil is rendered safe and can&#39;t be ignited.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature or object takes 3 fire damage and is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends). A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</p></div></div>
+<div class="fb__feat-body">A creature or object in a square of oil takes fire damage, or a creature or object enters a square of burning oil or starts their turn there.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Concealed Oil (+1 EV)</b> The oil is hidden until it ignites.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Allies who have weapons are equipped with torches. Any ally can use a maneuver to throw a torch up to 5 squares and ignite the flammable oil.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Hidey-Hole (Level 1 Fortification Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/hidey-hole"}
 
-A cavity in a floor, wall, or ceiling might hold hidden threats.
-
-- **EV:** 1
-- **Stamina:** -
-- **Size:** One or more squares
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a hidey-hole can make a **Might test**.
->
-> - **≤11:** The creature is [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends).
-> - **12-16:** The hidey-hole collapses but the creature is [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends).
-> - **17+:** The hidey-hole collapses and can no longer be used until repaired.
-
-> ❕ **Activate**
->
-> A creature starts the encounter in the hidey-hole or ends their turn there.
->
-> **Effect:** The triggering creature can attempt to [hide](../../Browse/feature/common/maneuvers/hide.md) as a free triggered action.
-
-> ⭐️ **Upgrade**
->
-> **Network (+1 EV per hidey-hole)** The hidey-hole is connected to a tunnel network. A creature familiar with the network can move from one hidey-hole to any space [adjacent](../../Browse/rule/combat/adjacent.md) to a connected hidey-hole if they have movement available equal to the straight-line distance to that space. A creature unfamiliar with the network can use a maneuver to make a **hard Intuition test** to discover a connected hidey-hole.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Fortification · Ambusher</div>
+<h2 class="fb__name">Hidey-Hole</h2>
+</header>
+<div class="fb__flavor">A cavity in a floor, wall, or ceiling might hold hidden threats.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">-</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a hidey-hole can make a <b>Might test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature is <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hidey-hole collapses but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hidey-hole collapses and can no longer be used until repaired.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature can attempt to <a href="../../../Browse/feature/common/maneuvers/hide/">hide</a> as a free triggered action.</p></div></div>
+<div class="fb__feat-body">A creature starts the encounter in the hidey-hole or ends their turn there.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Network (+1 EV per hidey-hole)</b> The hidey-hole is connected to a tunnel network. A creature familiar with the network can move from one hidey-hole to any space <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a connected hidey-hole if they have movement available equal to the straight-line distance to that space. A creature unfamiliar with the network can use a maneuver to make a <b>hard Intuition test</b> to discover a connected hidey-hole.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Pavise Shield (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/pavise-shield"}
 
-A reinforced metal shield embedded in the ground acts as [cover](../../Browse/rule/combat/cover.md) for the creature controlling it.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Fortification · Defender</div>
+<h2 class="fb__name">Pavise Shield</h2>
+</header>
+<div class="fb__flavor">A reinforced metal shield embedded in the ground acts as cover for the creature controlling it.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">9</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1M</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a pavise shield controlled by another creature can make a <b>Might test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature controlling the shield retains control of it and can make an <a href="../../../Browse/rule/combat/opportunity-attack/">opportunity attack</a> against the creature making the test.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature controlling the shield retains control of it.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature making the test grabs the shield and takes control of it.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Controlling the Shield</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While a creature has the pavise shield grabbed, they have <a href="../../../Browse/rule/combat/cover/">cover</a> and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
 
-- **EV:** 1
-- **Stamina:** 9
-- **Size:** 1M
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a pavise shield controlled by another creature can make a **Might test**.
->
-> - **≤11:** The creature controlling the shield retains control of it and can make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) against the creature making the test.
-> - **12-16:** The creature controlling the shield retains control of it.
-> - **17+:** The creature making the test grabs the shield and takes control of it.
-
-> ⭐️ **Controlling the Shield**
->
-> While a creature has the pavise shield grabbed, they have [cover](../../Browse/rule/combat/cover.md) and take half damage from abilities whose line of effect extends through the shield. The pavise shield takes the other half of the damage.
->
-> While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a [grabbed](../../Browse/condition/grabbed.md) creature.
+While a creature has a pavise shield grabbed, their speed is halved and they move the shield like a <a href="../../../Browse/condition/grabbed/">grabbed</a> creature.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Snare Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/snare-trap"}
 
-A rope snare is set to grab a target, leaving them hanging upside down.
-
-- **EV:** 1
-- **Stamina:** 1
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a snare trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its space.
-> - **12-16:** The trap is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The snare trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.
->
-> **Effect:** A triggering creature or object ends their movement and is targeted by the **Snare** ability.
-
-> ❗️ **Snare**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 0**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's space.
->
-> **Power Roll + 2:**
->
-> - **≤11:** The target [shifts](../../Browse/movement/shifting.md) 1 square away from the snare.
-> - **12-16:** 1 damage; A < 1 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 3 damage; A < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** A creature [restrained](../../Browse/condition/restrained.md) this way is vertical pulled 2 squares and suspended in the air by the snare line. On a successful [save](../../Browse/rule/general/saving-throw.md), the snare is cut or breaks and the creature falls to the ground. The snare must be manually reset.
-
-> ⭐️ **Upgrade**
->
-> **Net Trap (+1 EV)** The snare becomes a net that can wrap up multiple targets. The net has 3 [Stamina](../../Browse/rule/health/stamina.md) and fills an area of 3 squares by 3 squares. The Snare ability loses its existing keywords, gains the Area keyword, and targets each creature or object in the area. The trap can be triggered by a target moving through one specific square, or by requiring multiple squares to be moved through. Any creature who makes their [save](../../Browse/rule/general/saving-throw.md) to end the [restrained](../../Browse/condition/restrained.md) effect ends that effect for all targets, who all fall to the ground.
-
-> ⭐️ **Hidden**
->
-> The snare trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Snare Trap</h2>
+</header>
+<div class="fb__flavor">A rope snare is set to grab a target, leaving them hanging upside down.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a snare trap can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A triggering creature or object ends their movement and is targeted by the <b>Snare</b> ability.</p></div></div>
+<div class="fb__feat-body">The snare trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its space.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Snare</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target <a href="../../../Browse/movement/shifting/">shifts</a> 1 square away from the snare.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">1 damage; A &lt; 1 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">3 damage; A &lt; 2 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s space.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A creature <a href="../../../Browse/condition/restrained/">restrained</a> this way is vertical pulled 2 squares and suspended in the air by the snare line. On a successful <a href="../../../Browse/rule/general/saving-throw/">save</a>, the snare is cut or breaks and the creature falls to the ground. The snare must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Net Trap (+1 EV)</b> The snare becomes a net that can wrap up multiple targets. The net has 3 <a href="../../../Browse/rule/health/stamina/">Stamina</a> and fills an area of 3 squares by 3 squares. The Snare ability loses its existing keywords, gains the Area keyword, and targets each creature or object in the area. The trap can be triggered by a target moving through one specific square, or by requiring multiple squares to be moved through. Any creature who makes their <a href="../../../Browse/rule/general/saving-throw/">save</a> to end the <a href="../../../Browse/condition/restrained/">restrained</a> effect ends that effect for all targets, who all fall to the ground.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The snare trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Spike Trap (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/spike-trap"}
 
-A pit dug into the ground is filled with spikes, and camouflaged to avoid detection.
-
-- **EV:** 3
-- **Stamina:** 6
-- **Size:** One or more squares
-- **Typical Space:** 2 x 2-square area
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a spike trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is affected as if in its area.
-> - **12-16:** The trap is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The trap is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The spike trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its area.
->
-> **Effect:** The **Spike Trap** ability.
-
-> ❗️ **Spike Trap**
->
-> | **Area, Weapon** |                **Free triggered action** |
-> |------------------|-----------------------------------------:|
-> | **📏 Melee 0**   | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object of the appropriate size enters the trap's area.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; the target [shifts](../../Browse/movement/shifting.md) 1 square away from the trap
-> - **12-16:** 4 damage; the target falls into the pit; A < 0 [prone](../../Browse/condition/prone.md)
-> - **17+:** 6 damage; the target falls into the pit; A < 1 [prone](../../Browse/condition/prone.md); [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The target ends their movement when they enter the trap's area. The pit is typically 2 squares deep. The trap must be manually reset.
-
-> ⭐️ **Hidden**
->
-> The spike trap is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Trap · Ambusher</div>
+<h2 class="fb__name">Spike Trap</h2>
+</header>
+<div class="fb__flavor">A pit dug into the ground is filled with spikes, and camouflaged to avoid detection.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One or more squares</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">2 x 2-square area</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a spike trap can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Spike Trap</b> ability.</p></div></div>
+<div class="fb__feat-body">The spike trap is calibrated to be triggered by creatures or objects of a particular size or larger. The trap triggers when a creature or object of the appropriate size enters its area.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Spike Trap</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; the target <a href="../../../Browse/movement/shifting/">shifts</a> 1 square away from the trap</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; the target falls into the pit; A &lt; 0 <a href="../../../Browse/condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; the target falls into the pit; A &lt; 1 <a href="../../../Browse/condition/prone/">prone</a>; <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object of the appropriate size enters the trap&#39;s area.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target ends their movement when they enter the trap&#39;s area. The pit is typically 2 squares deep. The trap must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The spike trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ### Mechanisms
 
@@ -599,349 +635,361 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 
 ###### Column of Blades (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/column-of-blades"}
 
-A spinning wooden column is affixed with sharp blades to slash the unwary.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Fortification · Defender</div>
+<h2 class="fb__name">Column of Blades</h2>
+</header>
+<div class="fb__flavor">A spinning wooden column is affixed with sharp blades to slash the unwary.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">5</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1L</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The column of blades must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Spinning Blades</b> ability.</p></div></div>
+<div class="fb__feat-body">A creature or object moves <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the column of blades.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Spinning Blades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; M &lt; 2 <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; M &lt; 3 <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object moves within distance of the column.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Stone Column (+1 EV)</b> The column is made of stone and has 8 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.
 
-- **EV:** 3
-- **Stamina:** 5
-- **Size:** 1L
+<b>Metal Column (+1 EV)</b> The column is made of metal and has 11 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.
 
-> 🌀 **Deactivate**
->
-> The column of blades must be completely destroyed.
+<b>Concealed (+1 EV)</b> The blades are concealed inside the column, which remains motionless until triggered.
 
-> ❕ **Activate**
->
-> A creature or object moves [adjacent](../../Browse/rule/combat/adjacent.md) to the column of blades.
->
-> **Effect:** The **Spinning Blades** ability.
-
-> ❗️ **Spinning Blades**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 1**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object moves within distance of the column.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 6 damage; M < 2 [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 9 damage; M < 3 [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-> ⭐️ **Upgrades**
->
-> **Stone Column (+1 EV)** The column is made of stone and has 8 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Metal Column (+1 EV)** The column is made of metal and has 11 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Concealed (+1 EV)** The blades are concealed inside the column, which remains motionless until triggered.
->
-> **Spiked Flails (+4 EV)** Instead of blades, the column is affixed with heavy spiked balls attached by long chains. The **Whirling Flails** ability replaces **Spinning Blades**.
-
-> ❗️ **Whirling Flails**
->
-> | **Melee, Strike, Weapon** |                **Free triggered action** |
-> |---------------------------|-----------------------------------------:|
-> | **📏 Melee 2**            | **🎯 The triggering creature or object** |
->
-> **Trigger:** A creature or object moves within distance of the column.
->
-> - **≤11:** 5 damage
-> - **12-16:** 8 damage; M < 2 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 11 damage; M < 3 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-> ⭐️ **Allied Awareness**
->
-> Allies who [shift](../../Browse/movement/shifting.md) don't trigger the column. A creature observing an ally [shift](../../Browse/movement/shifting.md) this way can make an **Intuition test** to [shift](../../Browse/movement/shifting.md) in imitation of their movements.
->
-> **Power Roll + 2:**
->
-> - **≤11:** The creature triggers the column and the column's ability gains an edge.
-> - **12-16:** The creature triggers the column.
-> - **17+:** The creature doesn't trigger the column.
+<b>Spiked Flails (+4 EV)</b> Instead of blades, the column is affixed with heavy spiked balls attached by long chains. The <b>Whirling Flails</b> ability replaces <b>Spinning Blades</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Whirling Flails</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; 2 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; 3 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object moves within distance of the column.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Allied Awareness</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">Allies who <a href="../../../Browse/movement/shifting/">shift</a> don&#39;t trigger the column. A creature observing an ally <a href="../../../Browse/movement/shifting/">shift</a> this way can make an <b>Intuition test</b> to <a href="../../../Browse/movement/shifting/">shift</a> in imitation of their movements.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the column and the column&#39;s ability gains an edge.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature triggers the column.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature doesn&#39;t trigger the column.</span></div></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Dart Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/dart-trap"}
 
-A concealed dart thrower hurls missiles at short range.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trap · Ambusher</div>
+<h2 class="fb__name">Dart Trap</h2>
+</header>
+<div class="fb__flavor">A concealed dart thrower hurls missiles at short range.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">The dart trap fires in a fixed direction.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a dart trap can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the trap and is targeted by it.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The trap is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The trap is deactivated and doesn’t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Dart</b> ability.</p></div></div>
+<div class="fb__feat-body">A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Dart</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Poison Darts (+2 EV)</b> The darts are tipped with poison. Any creature who takes damage from a dart also takes 1d6 poison damage at the start of each of their turns (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).
 
-- **EV:** 1
-- **Stamina:** 3
-- **Size:** 1S
-- **Direction:** The dart trap fires in a fixed direction.
+<b>Large Darts (+1 EV)</b> Larger, heavier darts impart kinetic force to the trap&#39;s attack. A target of the <b>Dart</b> ability is pushed 1 square on a tier 1 outcome, 2 squares on a tier 2 outcome, or 3 squares on a tier 3 outcome.
 
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a dart trap can make an **Agility test**.
->
-> - **≤11:** The creature triggers the trap and is targeted by it.
-> - **12-16:** The trap is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The trap is deactivated and doesn’t trigger.
-
-> ❕ **Activate**
->
-> A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Effect:** The **Dart** ability.
-
-> ❗️ **Dart**
->
-> | **Ranged, Strike, Weapon** |     **Free triggered action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature or object** |
->
-> **Trigger:** A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 2 damage
-> - **12-16:** 4 damage
-> - **17+:** 5 damage
-
-> ⭐️ **Upgrades**
->
-> **Poison Darts (+2 EV)** The darts are tipped with poison. Any creature who takes damage from a dart also takes 1d6 poison damage at the start of each of their turns ([save](../../Browse/rule/general/saving-throw.md) ends).
->
-> **Large Darts (+1 EV)** Larger, heavier darts impart kinetic force to the trap's attack. A target of the **Dart** ability is pushed 1 square on a tier 1 outcome, 2 squares on a tier 2 outcome, or 3 squares on a tier 3 outcome.
->
-> **Gatling Darts (+4 EV)** The dart trap is equipped with multiple barrels to launch darts at a high rate of fire. The **Dart** ability loses the Ranged and Strike and takes the Area keyword, its area becomes a 5 x 1 line within 1, and it deals an extra 1d6 damage.
-
-> ⭐️ **Hidden**
->
-> The dart trap is hidden until triggered or detected.
+<b>Gatling Darts (+4 EV)</b> The dart trap is equipped with multiple barrels to launch darts at a high rate of fire. The <b>Dart</b> ability loses the Ranged and Strike and takes the Area keyword, its area becomes a 5 x 1 line within 1, and it deals an extra 1d6 damage.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The dart trap is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Pillar (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pillar"}
 
-This stone pillar can be toppled onto unsuspecting foes with the right amount of damage or a well-engineered trigger mechanism.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Hazard · Hexer</div>
+<h2 class="fb__name">Pillar</h2>
+</header>
+<div class="fb__flavor">This stone pillar can be toppled onto unsuspecting foes with the right amount of damage or a well-engineered trigger mechanism.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">6</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">One square that can&#39;t be moved through</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">The pillar topples in a preset direction.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The pillar&#39;s linked trigger must be deactivated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Toppling Pillar</b> ability.</p></div></div>
+<div class="fb__feat-body">The pillar is destroyed, or a <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Toppling Pillar</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; M &lt; 1 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; M &lt; 2 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The pillar is destroyed, or a <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The area is <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Metal Pillar (+1 EV)</b> The pillar is made of metal, has 9 <a href="../../../Browse/rule/health/stamina/">Stamina</a>, and deals 1d6 extra damage.
 
-- **EV:** 3
-- **Stamina:** 6
-- **Size:** One square that can't be moved through
-- **Direction:** The pillar topples in a preset direction.
-
-> 🌀 **Deactivate**
->
-> The pillar's linked trigger must be deactivated.
-
-> ❕ **Activate**
->
-> The pillar is destroyed, or a [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Effect:** The **Toppling Pillar** ability.
-
-> ❗️ **Toppling Pillar**
->
-> | **Area**                   |                   **Free triggered action** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 4 x 1 line within 1** | **🎯 Each creature and object in the area** |
->
-> **Trigger:** The pillar is destroyed, or a [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 6 damage; M < 1 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 9 damage; M < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The area is [difficult terrain](../../Browse/movement/difficult-terrain.md).
-
-> ⭐️ **Upgrades**
->
-> **Metal Pillar (+1 EV)** The pillar is made of metal, has 9 [Stamina](../../Browse/rule/health/stamina.md), and deals 1d6 extra damage.
->
-> **Multiple Pillars (+3 EV per additional pillar)** Multiple pillars can be used to represent a larger toppling object such as a wall. If triggered by destruction, all individual pillars need to be destroyed before the object falls.
+<b>Multiple Pillars (+3 EV per additional pillar)</b> Multiple pillars can be used to represent a larger toppling object such as a wall. If triggered by destruction, all individual pillars need to be destroyed before the object falls.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Portcullis (Level 3 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/portcullis"}
 
-A portcullis is hidden in the ceiling of a passage or choke point, waiting to drop when activated.
-
-- **EV:** 4
-- **Stamina:** 9 per square
-- **Size:** The area of the corridor to be blocked
-- **Typical Space:** 2 x 1-square area, up to a 4 x 2-square area
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a portcullis can make an **Agility test**.
->
-> - **≤11:** The creature triggers the portcullis and is affected as if in its area.
-> - **12-16:** The portcullis is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The portcullis is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Effect:** The **Heavy Gate** ability.
-
-> ❗️ **Heavy Gate**
->
-> | **Area, Weapon** |                   **Free triggered action** |
-> |------------------|--------------------------------------------:|
-> | **📏 Special**   | **🎯 Each creature and object in the area** |
->
-> **Trigger:** A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Special:** The area of this ability is the area directly beneath the portcullis when it falls.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; slide 1, ignoring [stability](../../Browse/rule/character/stability.md)
-> - **12-16:** 7 damage; A < 2 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 10 damage; A < 3 [restrained](../../Browse/condition/restrained.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The portcullis blocks movement from one side of it to the other. A target slid by the portcullis ends up on one side of it or the other (choose randomly). The portcullis must be manually reset.
-
-> ⭐️ **Hidden**
->
-> The portcullis is hidden until triggered or detected.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Trap · Ambusher</div>
+<h2 class="fb__name">Portcullis</h2>
+</header>
+<div class="fb__flavor">A portcullis is hidden in the ceiling of a passage or choke point, waiting to drop when activated.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">4</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">9 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">The area of the corridor to be blocked</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">2 x 1-square area, up to a 4 x 2-square area</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a portcullis can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the portcullis and is affected as if in its area.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The portcullis is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The portcullis is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Heavy Gate</b> ability.</p></div></div>
+<div class="fb__feat-body">A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Heavy Gate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring <a href="../../../Browse/rule/character/stability/">stability</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; A &lt; 2 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; A &lt; 3 <a href="../../../Browse/condition/restrained/">restrained</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The area of this ability is the area directly beneath the portcullis when it falls.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The portcullis blocks movement from one side of it to the other. A target slid by the portcullis ends up on one side of it or the other (choose randomly). The portcullis must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The portcullis is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Pressure Plate (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate"}
 
-This mechanism acts as a trigger for another linked mechanism, and is skillfully hidden from view in the floor.
-
-- **EV:** 2
-- **Stamina:** -
-- **Size:** Any area
-- **Typical Space:** One square, up to a 4 x 4-square area
-- **Link:** A pressure plate is linked to another mechanism that it activates when triggered.
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a pressure plate can make an **Agility test**.
->
-> - **≤11:** The creature triggers the pressure plate.
-> - **12-16:** The pressure plate is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The pressure plate is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> The pressure plate is calibrated to be triggered by creatures or objects of a particular size. The pressure plate triggers when a creature or object of the appropriate size enters its area.
->
-> **Effect:** The linked mechanism is activated. A pressure plate automatically resets and can be triggered repeatedly.
-
-> ⭐️ **Upgrade**
->
-> **Tripwire (−1 EV)** The pressure plate is a tripwire, which can trigger once and must be manually reset. A concealed tripwire can be discovered with an **easy Intuition test**.
-
-> ⭐️ **Hidden**
->
-> The pressure plate is hidden until triggered or detected.
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trigger · Support</div>
+<h2 class="fb__name">Pressure Plate</h2>
+</header>
+<div class="fb__flavor">This mechanism acts as a trigger for another linked mechanism, and is skillfully hidden from view in the floor.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">2</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">-</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">Any area</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">One square, up to a 4 x 4-square area</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Link</div><div class="fb__stat-v">A pressure plate is linked to another mechanism that it activates when triggered.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a pressure plate can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the pressure plate.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The pressure plate is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The pressure plate is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The linked mechanism is activated. A pressure plate automatically resets and can be triggered repeatedly.</p></div></div>
+<div class="fb__feat-body">The pressure plate is calibrated to be triggered by creatures or objects of a particular size. The pressure plate triggers when a creature or object of the appropriate size enters its area.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Tripwire (−1 EV)</b> The pressure plate is a tripwire, which can trigger once and must be manually reset. A concealed tripwire can be discovered with an <b>easy Intuition test</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The pressure plate is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Pulley (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pulley"}
 
-A counterweighted pulley system can be used to quickly ascend to the top of a wall, scaffold, tower, or other structure.
-
-- **EV:** 1
-- **Stamina:** 1
-- **Size:** 1S
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a pulley can make an **Agility test**.
->
-> - **≤11:** The creature triggers the pulley.
-> - **12-16:** The pulley is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The pulley is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> A creature [adjacent](../../Browse/rule/combat/adjacent.md) to the pulley uses a maneuver to release the pulley.
->
-> **Effect:** The triggering creature is lifted to the top of the structure the pulley is attached to. The pulley must be manually reset.
-
-> ⭐️ **Climbable**
->
-> A creature [adjacent](../../Browse/rule/combat/adjacent.md) to the pulley can climb its ropes with an **easy Agility test** to ascend to the top of the structure it's attached to.
-
-> ⭐️ **Upgrade**
->
-> **Looped Chain (+1 EV)** Instead of a rope and pulley, the system uses a counterweighted looped chain. A looped chain automatically resets and can be triggered repeatedly.
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trigger · Support</div>
+<h2 class="fb__name">Pulley</h2>
+</header>
+<div class="fb__flavor">A counterweighted pulley system can be used to quickly ascend to the top of a wall, scaffold, tower, or other structure.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1S</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a pulley can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the pulley.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The pulley is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The pulley is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The triggering creature is lifted to the top of the structure the pulley is attached to. The pulley must be manually reset.</p></div></div>
+<div class="fb__feat-body">A creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the pulley uses a maneuver to release the pulley.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Climbable</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">A creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the pulley can climb its ropes with an <b>easy Agility test</b> to ascend to the top of the structure it&#39;s attached to.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Looped Chain (+1 EV)</b> Instead of a rope and pulley, the system uses a counterweighted looped chain. A looped chain automatically resets and can be triggered repeatedly.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Ram (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/ram"}
 
-A heavy wooden ram drops down or swings into the fray, crushing all in its path.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Trap · Ambusher</div>
+<h2 class="fb__name">Ram</h2>
+</header>
+<div class="fb__flavor">A heavy wooden ram drops down or swings into the fray, crushing all in its path.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3 per square</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">Any area; the area can&#39;t be moved through</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Typical Space</div><div class="fb__stat-v">1 x 3-square area or a 2 x 2-square area</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Direction</div><div class="fb__stat-v">One side of the ram is defined as the front.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a ram can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the ram and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The ram is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The ram is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Ram</b> ability.</p></div></div>
+<div class="fb__feat-body">A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Ram</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring <a href="../../../Browse/rule/character/stability/">stability</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; push 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; push 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A <a href="../../../Browse/dynamic-terrain/mechanisms/pressure-plate/">pressure plate</a>, <a href="../../../Browse/dynamic-terrain/mechanisms/switch/">switch</a>, or other linked trigger is activated.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The area of this ability is the path the ram moves through from its starting position.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A target slid by the ram ends up on one side of it or the other (choose randomly). The ram must be manually reset.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Stone (+1 EV)</b> The ram is made of stone, has 6 <a href="../../../Browse/rule/health/stamina/">Stamina</a> per square, and deals an extra 1d3 damage.
 
-- **EV:** 3
-- **Stamina:** 3 per square
-- **Size:** Any area; the area can't be moved through
-- **Typical Space:** 1 x 3-square area or a 2 x 2-square area
-- **Direction:** One side of the ram is defined as the front.
+<b>Metal (+2 EV)</b> The ram is made of metal, has 9 <a href="../../../Browse/rule/health/stamina/">Stamina</a> per square, and deals an extra 1d6 damage.
 
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a ram can make an **Agility test**.
->
-> - **≤11:** The creature triggers the ram and is affected as if in its space.
-> - **12-16:** The ram is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The ram is deactivated and doesn't trigger.
+<b>Repeating (+1 EV)</b> The ram automatically resets at the start of each round.
 
-> ❕ **Activate**
->
-> A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Effect:** The **Ram** ability.
+<b>Rapid Repeating (+3 EV)</b> The ram automatically resets at the start of each turn.
 
-> ❗️ **Ram**
->
-> | **Area, Weapon** |                   **Free triggered action** |
-> |------------------|--------------------------------------------:|
-> | **📏 Special**   | **🎯 Each creature and object in the area** |
->
-> **Trigger:** A [pressure plate](../../Browse/dynamic-terrain/mechanisms/pressure-plate.md), [switch](../../Browse/dynamic-terrain/mechanisms/switch.md), or other linked trigger is activated.
->
-> **Special:** The area of this ability is the path the ram moves through from its starting position.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 3 damage; slide 1, ignoring [stability](../../Browse/rule/character/stability.md)
-> - **12-16:** 6 damage; push 3
-> - **17+:** 9 damage; push 5
->
-> **Effect:** A target slid by the ram ends up on one side of it or the other (choose randomly). The ram must be manually reset.
-
-> ⭐️ **Upgrades**
->
-> **Stone (+1 EV)** The ram is made of stone, has 6 [Stamina](../../Browse/rule/health/stamina.md) per square, and deals an extra 1d3 damage.
->
-> **Metal (+2 EV)** The ram is made of metal, has 9 [Stamina](../../Browse/rule/health/stamina.md) per square, and deals an extra 1d6 damage.
->
-> **Repeating (+1 EV)** The ram automatically resets at the start of each round.
->
-> **Rapid Repeating (+3 EV)** The ram automatically resets at the start of each turn.
->
-> **Multiple Rams (+3 EV per additional ram)** Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.
-
-> ⭐️ **Hidden**
->
-> The ram is hidden until triggered or detected.
+<b>Multiple Rams (+3 EV per additional ram)</b> Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hidden</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The ram is hidden until triggered or detected.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Switch (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/switch"}
 
-Set into any surface, this mechanism acts as a trigger for another linked mechanism.
-
-- **EV:** 1
-- **Stamina:** 3
-- **Size:** 1T
-- **Link:** A switch is linked to another mechanism that it activates when triggered.
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a switch can make an **Agility test**.
->
-> - **≤11:** The creature triggers the switch.
-> - **12-16:** The switch is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The switch is deactivated and doesn't trigger.
-
-> ❕ **Activate**
->
-> A creature [adjacent](../../Browse/rule/combat/adjacent.md) to the switch uses a maneuver to trigger it.
->
-> **Effect:** The linked mechanism is activated. A switch automatically resets and can be triggered repeatedly.
-
-> ⭐️ **Upgrade**
->
-> **Concealed (+1 EV)** The switch is hidden.
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 1 Trigger · Support</div>
+<h2 class="fb__name">Switch</h2>
+</header>
+<div class="fb__flavor">Set into any surface, this mechanism acts as a trigger for another linked mechanism.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">1</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1T</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Link</div><div class="fb__stat-v">A switch is linked to another mechanism that it activates when triggered.</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a switch can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the switch.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The switch is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The switch is deactivated and doesn&#39;t trigger.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The linked mechanism is activated. A switch automatically resets and can be triggered repeatedly.</p></div></div>
+<div class="fb__feat-body">A creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the switch uses a maneuver to trigger it.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Concealed (+1 EV)</b> The switch is hidden.</div>
+</article>
+</div>
+</article>
+</div>
 
 ### Power Fixtures
 
@@ -949,66 +997,95 @@ Power fixtures are especially potent fortifications for solo creatures and small
 
 ###### Holy Idol (Level 5 Relic Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/holy-idol"}
 
-An empowering monument to a higher power enables a villain's machinations.
-
-- **EV:** 7
-- **Stamina:** 35
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> The holy idol must be completely destroyed.
-
-> ⭐️ **Empowered Will**
->
-> At the start of each round while the holy idol is intact, the Director gains a d6 that lasts until the end of the round. When a Director-controlled creature deals or takes damage, the Director can roll the d6 to increase the damage the creature deals or reduce the damage the creature takes by an amount equal to the roll (to a minimum of 2 damage). If multiple idols are in play, only one d6 can be applied to a single instance of damage.
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 5 Relic · Support</div>
+<h2 class="fb__name">Holy Idol</h2>
+</header>
+<div class="fb__flavor">An empowering monument to a higher power enables a villain&#39;s machinations.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">7</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">35</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The holy idol must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Empowered Will</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">At the start of each round while the holy idol is intact, the Director gains a d6 that lasts until the end of the round. When a Director-controlled creature deals or takes damage, the Director can roll the d6 to increase the damage the creature deals or reduce the damage the creature takes by an amount equal to the roll (to a minimum of 2 damage). If multiple idols are in play, only one d6 can be applied to a single instance of damage.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Psionic Shard (Level 5 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/psionic-shard"}
 
-A massive humming crystal makes the air around it feel thick.
-
-- **EV:** 7
-- **Stamina:** 40
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> The psionic shard must be completely destroyed.
-
-> ⭐️ **Psionic Barrier**
->
-> A psionic shard is attuned to one side in an encounter. While a psionic shard is intact, any damage dealt to each ally of the shard in the encounter is halved.
-
-> ❗️ **Psionic Pulse**
->
-> | **-**          | **Free triggered action** |
-> |----------------|--------------------------:|
-> | **📏 Special** |            **🎯 Special** |
->
-> **Trigger:** The shard is destroyed.
->
-> **Effect:** The shard releases a shockwave channeled through each creature affected by Psionic Barrier. Each ally in the encounter is [dazed](../../Browse/condition/dazed.md) until the end of their next turn.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 5 Fortification · Defender</div>
+<h2 class="fb__name">Psionic Shard</h2>
+</header>
+<div class="fb__flavor">A massive humming crystal makes the air around it feel thick.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">7</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">40</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The psionic shard must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Psionic Barrier</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">A psionic shard is attuned to one side in an encounter. While a psionic shard is intact, any damage dealt to each ally of the shard in the encounter is halved.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Psionic Pulse</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The shard is destroyed.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The shard releases a shockwave channeled through each creature affected by Psionic Barrier. Each ally in the encounter is <a href="../../../Browse/condition/dazed/">dazed</a> until the end of their next turn.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Tree of Might (Level 5 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/tree-of-might"}
 
-A gnarled tree has unearthed roots that writhe and curl.
-
-- **EV:** 14
-- **Stamina:** 60
-- **Size:** 3
-- **Immunity:** 5 to all damage except corruption or fire damage
-
-> 🌀 **Deactivate**
->
-> The tree of might must be completely destroyed.
-
-> ⭐️ **Tree's Nourishment**
->
-> At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M < 0 takes 10 corruption damage, and the tree of might grows a fruit. The [potency](../../Browse/rule/character/potency.md) increases by 1 each subsequent round.
-
-> ⭐️ **Mighty Fruit**
->
-> Once per round, any creature [adjacent](../../Browse/rule/combat/adjacent.md) to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 5 Hazard · Hexer</div>
+<h2 class="fb__name">Tree of Might</h2>
+</header>
+<div class="fb__flavor">A gnarled tree has unearthed roots that writhe and curl.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">14</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">60</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">3</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Immunity</div><div class="fb__stat-v">5 to all damage except corruption or fire damage</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The tree of might must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Tree&#39;s Nourishment</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">At the start of each round while the tree of might is intact, each enemy touching the ground in the encounter area who has M &lt; 0 takes 10 corruption damage, and the tree of might grows a fruit. The <a href="../../../Browse/rule/character/potency/">potency</a> increases by 1 each subsequent round.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Mighty Fruit</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Once per round, any creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the tree of might can take a fruit from the tree and eat it (no action required). The creature gains 10 <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> and has their Might score increased by 1 (to a maximum of 6) until the end of the encounter.</div>
+</article>
+</div>
+</article>
+</div>
 
 ### Siege Engines
 
@@ -1022,407 +1099,335 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 
 ###### Arrow Launcher (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/arrow-launcher"}
 
-A small wooden cart uses alchemical rockets to launch up to a hundred arrows at a time across a wide area.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Siege Engine · Artillery</div>
+<h2 class="fb__name">Arrow Launcher</h2>
+</header>
+<div class="fb__flavor">A small wooden cart uses alchemical rockets to launch up to a hundred arrows at a time across a wide area.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">8</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">30</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1L</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to an arrow launcher can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arrow Storm</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The arrow launcher is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The arrow launcher is deactivated and can&#39;t be used.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Arrow Storm</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">- Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the arrow launcher is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The arrow launcher is reloaded, allowing <b>Arrow Storm</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Spot</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Arrow Storm</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Move</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The arrow launcher and the creature using this action move together up to 3 squares.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Flaming Arrows (+1 EV) Arrow Storm</b> deals fire damage, and can ignite flammable objects in its area.
 
-- **EV:** 8
-- **Stamina:** 30
-- **Size:** 1L
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to an arrow launcher can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Arrow Storm** ability.
-> - **12-16:** The arrow launcher is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The arrow launcher is deactivated and can't be used.
-
-> 🔳 **Arrow Storm**
->
-> | **- Area, Ranged, Weapon** |         **Main action (Adjacent creature)** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 5 cube within 20**    | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 8 damage
-> - **17+:** 11 damage
->
-> **Effect:** This ability can't be used again until the arrow launcher is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The arrow launcher is reloaded, allowing **Arrow Storm** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The next use of **Arrow Storm** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The arrow launcher and the creature using this action move together up to 3 squares.
-
-> ⭐️ **Upgrades**
->
-> **Flaming Arrows (+1 EV) Arrow Storm** deals fire damage, and can ignite flammable objects in its area.
->
-> **Screamers (+3 EV)** The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The **Screamers** ability replaces **Arrow Storm**.
-
-> 🔳 **Screamers**
->
-> | **Area, Ranged, Weapon** |         **Main action (Adjacent creature)** |
-> |--------------------------|--------------------------------------------:|
-> | **📏 5 cube within 20**  | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage; R < 0 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 8 damage; R < 1 [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 11 damage; R < 2 [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** This ability can't be used again until the arrow launcher is reloaded.
+<b>Screamers (+3 EV)</b> The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The <b>Screamers</b> ability replaces <b>Arrow Storm</b>.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Screamers</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; R &lt; 0 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; R &lt; 1 <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; R &lt; 2 <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the arrow launcher is reloaded.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Boiling Oil Cauldron (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/boiling-oil-cauldron"}
 
-A large cauldron of boiling oil stands ready to be poured onto enemies.
-
-- **EV:** 10
-- **Stamina:** 50
-- **Size:** 1L
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a boiling oil cauldron can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Boiling Oil** ability.
-> - **12-16:** The boiling oil cauldron is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The boiling oil cauldron is deactivated and can't be used.
-
-> 🔳 **Boiling Oil**
->
-> | **Area, Weapon**       |         **Main action (Adjacent creature)** |
-> |------------------------|--------------------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 fire damage; M < 1 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 fire damage; M < 2 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 12 fire damage; M < 3 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** If the boiling oil is poured down on targets from above, it has [high ground](../../Browse/movement/high-ground.md) and gains an edge on the power roll. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the boiling oil cauldron is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The boiling oil cauldron is reloaded, allowing **Boiling Oil** to be used again. This action can be used only once per round.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Fortification · Defender</div>
+<h2 class="fb__name">Boiling Oil Cauldron</h2>
+</header>
+<div class="fb__flavor">A large cauldron of boiling oil stands ready to be poured onto enemies.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">10</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">50</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1L</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a boiling oil cauldron can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Boiling Oil</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The boiling oil cauldron is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The boiling oil cauldron is deactivated and can&#39;t be used.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Boiling Oil</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; M &lt; 1 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 fire damage; M &lt; 2 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 fire damage; M &lt; 3 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the boiling oil is poured down on targets from above, it has <a href="../../../Browse/movement/high-ground/">high ground</a> and gains an edge on the power roll. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can&#39;t be used again until the boiling oil cauldron is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The boiling oil cauldron is reloaded, allowing <b>Boiling Oil</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Catapult (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/catapult"}
 
-This massive counterweighted engine hurls a heavy projectile for a devastating assault.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Siege Engine · Artillery</div>
+<h2 class="fb__name">Catapult</h2>
+</header>
+<div class="fb__flavor">This massive counterweighted engine hurls a heavy projectile for a devastating assault.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">10</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">50</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a catapult can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arcing Shot</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The catapult is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The catapult is deactivated and can&#39;t be used.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Arcing Shot</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">- Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; A &lt; 0 push 1</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; A &lt; 1 push 2</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Line of effect for this ability is an arc that can be traced over obstacles between the catapult and the target area. This ability can&#39;t be used again until the catapult is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The catapult is reloaded, allowing <b>Arcing Shot</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Spot</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Arcing Shot</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Move</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The catapult and the creature using this action move together up to 2 squares.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Air Assault (+2 EV)</b> The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.
 
-- **EV:** 10
-- **Stamina:** 50
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a catapult can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Arcing Shot** ability.
-> - **12-16:** The catapult is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The catapult is deactivated and can't be used.
-
-> 🔳 **Arcing Shot**
->
-> | **- Area, Ranged, Weapon** |         **Main action (Adjacent creature)** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 3 cube within 20**    | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 9 damage; A < 0 push 1
-> - **17+:** 12 damage; A < 1 push 2
->
-> **Effect:** Line of effect for this ability is an arc that can be traced over obstacles between the catapult and the target area. This ability can't be used again until the catapult is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|-------------------------------------:|
-> | **📏 -** |                             **🎯 -** |
->
-> **Effect:** The catapult is reloaded, allowing **Arcing Shot** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The next use of **Arcing Shot** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The catapult and the creature using this action move together up to 2 squares.
-
-> ⭐️ **Upgrades**
->
-> **Air Assault (+2 EV)** The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.
->
-> **Flammable (+2 EV) Arcing Shot** deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
+<b>Flammable (+2 EV) Arcing Shot</b> deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Exploding Mill Wheel (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/exploding-mill-wheel"}
 
-A massive wooden wheel is loaded with explosives and rolled toward enemy forces or fortifications, ready to explode.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Siege Engine · Artillery</div>
+<h2 class="fb__name">Exploding Mill Wheel</h2>
+</header>
+<div class="fb__flavor">A massive wooden wheel is loaded with explosives and rolled toward enemy forces or fortifications, ready to explode.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">10</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">25</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to an exploding mill wheel that isn&#39;t rolling can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Roll the Wheel</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The exploding mill wheel is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The exploding mill wheel is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="fb__feat-trailing">Once the wheel is rolling, it can&#39;t be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Roll the Wheel</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; push 1; M &lt; 0 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; push 2; M &lt; 1 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; push 3; M &lt; 2 burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>When this ability is used and at the start of every turn thereafter, the exploding mill wheel rolls, moving 2 squares in a straight line. Each creature and object of size 2 or smaller in the area defined by the wheel&#39;s movement is targeted by the following power roll. A target <a href="../../../Browse/movement/forced-movement/">force moved</a> this way is moved to either side of the wheel, as the Director determines.</p></div></div>
+<div class="fb__feat-trailing">If the wheel enters the space of any creature or object of size 3 or larger, or if it is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a>, its movement stops and it explodes. Each creature and object in a 5 burst centered on the wheel is targeted by the following power roll. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrade</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro"><b>Piloted (+4 EV)</b> The wheel has been fitted with a control mechanism and a pilot&#39;s seat for a creature of size 1M or smaller. As a move action, the pilot can turn the wheel in any direction while it is moving. As a main action, the pilot can leap out of the pilot&#39;s seat, landing in an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> space while the wheel continues moving in a straight line.
 
-- **EV:** 10
-- **Stamina:** 25
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to an exploding mill wheel that isn't rolling can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Roll the Wheel** ability.
-> - **12-16:** The exploding mill wheel is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The exploding mill wheel is deactivated and can't be used.
->
-> Once the wheel is rolling, it can't be deactivated. However, it can be exploded early by destroying it or blocking its movement with a suitably large creature or object.
-
-> 🌀 **Roll the Wheel**
->
-> | **Area**       |         **Main action (Adjacent creature)** |
-> |----------------|--------------------------------------------:|
-> | **📏 Special** | **🎯 Each creature and object in the area** |
->
-> **Effect:** When this ability is used and at the start of every turn thereafter, the exploding mill wheel rolls, moving 2 squares in a straight line. Each creature and object of size 2 or smaller in the area defined by the wheel's movement is targeted by the following power roll. A target [force moved](../../Browse/movement/forced-movement.md) this way is moved to either side of the wheel, as the Director determines.
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage; push 1
-> - **12-16:** 9 damage; push 2
-> - **17+:** 12 damage; push 3
->
-> If the wheel enters the space of any creature or object of size 3 or larger, or if it is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), its movement stops and it explodes. Each creature and object in a 5 burst centered on the wheel is targeted by the following power roll.
->
-> - **≤11:** 5 damage; push 1; M < 0 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 damage; push 2; M < 1 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 12 damage; push 3; M < 2 burning ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> ⭐️ **Upgrade**
->
-> **Piloted (+4 EV)** The wheel has been fitted with a control mechanism and a pilot's seat for a creature of size 1M or smaller. As a move action, the pilot can turn the wheel in any direction while it is moving. As a main action, the pilot can leap out of the pilot's seat, landing in an [adjacent](../../Browse/rule/combat/adjacent.md) space while the wheel continues moving in a straight line.
->
-> Without proper training, determining how to pilot the wheel requires a **Reason test**.
->
-> - **≤11:** The wheel immediately explodes as if striking a size 3 or larger creature or object.
-> - **12-16:** The creature fails to pilot the wheel.
-> - **17+:** The creature can pilot the wheel.
->
-> On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.
+Without proper training, determining how to pilot the wheel requires a <b>Reason test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The wheel immediately explodes as if striking a size 3 or larger creature or object.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to pilot the wheel.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature can pilot the wheel.</span></div></div></div>
+<div class="fb__feat-trailing">On a natural 19 or 20, a creature can both pilot the wheel and can disarm its explosives as a maneuver.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Field Ballista (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/field-ballista"}
 
-A massive crossbow fires thick metal bolts with devastating effect.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Siege Engine · Artillery</div>
+<h2 class="fb__name">Field Ballista</h2>
+</header>
+<div class="fb__flavor">A massive crossbow fires thick metal bolts with devastating effect.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">8</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">40</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to a field ballista can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Release Bolt</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; 1 push 1</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; 2 push 2</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the field ballista is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The field ballista is reloaded, allowing <b>Release Bolt</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Spot</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Release Bolt</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Move</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The field ballista and the creature using this action move together up to 3 squares.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Penetrating Bolt (+2 EV)</b> The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
 
-- **EV:** 8
-- **Stamina:** 40
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to a field ballista can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Release Bolt** ability.
-> - **12-16:** The field ballista is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The field ballista is deactivated and can't be used.
-
-> 🏹 **Release Bolt**
->
-> | **Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |----------------------------|------------------------------------:|
-> | **📏 Ranged 20**           |       **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 8 damage; M < 1 push 1
-> - **17+:** 11 damage; M < 2 push 2
->
-> **Effect:** This ability can't be used again until the field ballista is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The field ballista is reloaded, allowing **Release Bolt** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
-> 
-> **Effect:** The next use of **Release Bolt** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The field ballista and the creature using this action move together up to 3 squares.
-
-> ⭐️ **Upgrades**
->
-> **Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
->
-> **Chain Bolt (+2 EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
->
-> 🏹 **Chain Bolt**
->
-> | **Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |----------------------------|------------------------------------:|
-> | **📏 Ranged 20**           |       **🎯 One creature or object** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage; M < 1 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 10 damage; M < 2 [slowed](../../Browse/condition/slowed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** This ability can't be used again until the field ballista is reloaded.
->
-> 🏹 **Crank the Chain**
->
-> | **Ranged, Strike, Weapon** | **Main action (Adjacent creature)** |
-> |----------------------------|------------------------------------:|
-> | **📏 Ranged 20**           |                 **🎯 One creature** |
->
-> **Special:** The target must be [slowed](../../Browse/condition/slowed.md) by the field ballista.
->
-> **Power Roll + 2:**
->
-> - **≤11:** Pull 1
-> - **12-16:** Pull 3
-> - **17+:** Pull 5
->
-> **Effect:** This [forced movement](../../Browse/movement/forced-movement.md) triggers [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md).
+<b>Chain Bolt (+2 EV)</b> The field ballista&#39;s bolts are set with heavy chains that wrap around targets. The <b>Chain Bolt</b> ability replaces <b>Release Bolt</b>, and the field ballista gains the <b>Crank the Chain</b> ability.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Chain Bolt</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; M &lt; 1 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; M &lt; 2 <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability can&#39;t be used again until the field ballista is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Crank the Chain</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Pull 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a href="../../../Browse/condition/slowed/">slowed</a> by the field ballista.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This <a href="../../../Browse/movement/forced-movement/">forced movement</a> triggers <a href="../../../Browse/rule/combat/opportunity-attack/">opportunity attacks</a>.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Iron Dragon (Level 4 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/iron-dragon"}
 
-A massive metal device uses a bellows system and liquid fuel to shoot out gouts of flame.
-
-- **EV:** 12
-- **Stamina:** 60
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to an iron dragon can make an **Agility test**.
->
-> - **≤11:** The creature accidentally activates the **Gout of Flame** ability.
-> - **12-16:** The iron dragon is deactivated but the creature is [slowed](../../Browse/condition/slowed.md) (EoT).
-> - **17+:** The iron dragon is deactivated and can't be used.
-
-> 🔳 **Gout of Flame**
->
-> | **Area, Weapon**           |         **Main action (Adjacent creature)** |
-> |----------------------------|--------------------------------------------:|
-> | **📏 8 x 2 line within 1** | **🎯 Each creature and object in the area** |
->
-> **Power Roll + 2:**
->
-> - **≤11:** 6 fire damage; A < 0 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 10 fire damage; A < 1 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 13 fire damage; A < 2 the target is burning ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the iron dragon is reloaded.
-
-> ⭐️ **Reload**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The iron dragon is reloaded, allowing **Gout of Flame** to be used again. This action can be used only once per round.
-
-> ⭐️ **Spot**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The next use of **Gout of Flame** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
-
-> ⭐️ **Move**
->
-> | **-**    | **Main action (Adjacent creature)** |
-> |----------|------------------------------------:|
-> | **📏 -** |                            **🎯 -** |
->
-> **Effect:** The iron dragon and the creature using this action move together up to 2 squares.
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 4 Siege Engine · Artillery</div>
+<h2 class="fb__name">Iron Dragon</h2>
+</header>
+<div class="fb__flavor">A massive metal device uses a bellows system and liquid fuel to shoot out gouts of flame.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">12</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">60</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to an iron dragon can make an <b>Agility test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Gout of Flame</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The iron dragon is deactivated but the creature is <a href="../../../Browse/condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The iron dragon is deactivated and can&#39;t be used.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Gout of Flame</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">8 x 2 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 fire damage; A &lt; 0 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 fire damage; A &lt; 1 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 fire damage; A &lt; 2 the target is burning (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can&#39;t be used again until the iron dragon is reloaded.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Reload</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The iron dragon is reloaded, allowing <b>Gout of Flame</b> to be used again. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Spot</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next use of <b>Gout of Flame</b> gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action (Adjacent creature)</div><h3 class="fb__feat-name sc-ability__name">Move</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The iron dragon and the creature using this action move together up to 2 squares.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Watchtower (Level 2 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/watchtower"}
 
-A sturdy wooden tower accessed by interior ladders or stairs provides [cover](../../Browse/rule/combat/cover.md) and [high ground](../../Browse/movement/high-ground.md) for attackers.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 2 Fortification · Defender</div>
+<h2 class="fb__name">Watchtower</h2>
+</header>
+<div class="fb__flavor">A sturdy wooden tower accessed by interior ladders or stairs provides cover and high ground for attackers.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">8</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">50</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">3</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The watchtower must be completely destroyed.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">High Ground and Cover</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Creatures who have access to the watchtower&#39;s interior ladders or stairs have <a href="../../../Browse/movement/high-ground/">high ground</a> and <a href="../../../Browse/rule/combat/cover/">cover</a> against creatures outside the watchtower.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Getting Inside</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">A creature outside and <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the watchtower can gain access to the interior by climbing it as an <b>Agility test</b> or breaking into it with a <b>Might test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">1d6 damage; the creature remains outside the watchtower</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature remains outside the watchtower.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature gains access to the watchtower.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Upgrades</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body"><b>Ballista Emplacement (+12 EV)</b> The watchtower is equipped with a <a href="../../../Browse/dynamic-terrain/siege-engines/field-ballista/">field ballista</a> that can be used by creatures in the watchtower. The ballista can&#39;t be moved.
 
-- **EV:** 8
-- **Stamina:** 50
-- **Size:** 3
+<b>Boiling Oil Cauldron (+17 EV)</b> The watchtower is equipped with a <a href="../../../Browse/dynamic-terrain/siege-engines/boiling-oil-cauldron/">boiling oil cauldron</a> that can be used by creatures in the watchtower.
 
-> 🌀 **Deactivate**
->
-> The watchtower must be completely destroyed.
+<b>Spyglass (+2 EV)</b> Any creature in the watchtower can use the spyglass to search for hidden creatures around the tower, gaining an edge on the Intuition test and increasing the distance at which creatures can be spotted to 15 squares.
 
-> ⭐️ **High Ground and Cover**
->
-> Creatures who have access to the watchtower's interior ladders or stairs have [high ground](../../Browse/movement/high-ground.md) and [cover](../../Browse/rule/combat/cover.md) against creatures outside the watchtower.
+<b>Stone Tower (+2 EV)</b> The watchtower is reinforced with stone and has 75 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.
 
-> 🌀 **Getting Inside**
->
-> A creature outside and [adjacent](../../Browse/rule/combat/adjacent.md) to the watchtower can gain access to the interior by climbing it as an **Agility test** or breaking into it with a **Might test**.
->
-> - **≤11:** 1d6 damage; the creature remains outside the watchtower
-> - **12-16:** The creature remains outside the watchtower.
-> - **17+:** The creature gains access to the watchtower.
-
-> ⭐️ **Upgrades**
->
-> **Ballista Emplacement (+12 EV)** The watchtower is equipped with a [field ballista](../../Browse/dynamic-terrain/siege-engines/field-ballista.md) that can be used by creatures in the watchtower. The ballista can't be moved.
->
-> **Boiling Oil Cauldron (+17 EV)** The watchtower is equipped with a [boiling oil cauldron](../../Browse/dynamic-terrain/siege-engines/boiling-oil-cauldron.md) that can be used by creatures in the watchtower.
->
-> **Spyglass (+2 EV)** Any creature in the watchtower can use the spyglass to search for hidden creatures around the tower, gaining an edge on the Intuition test and increasing the distance at which creatures can be spotted to 15 squares.
->
-> **Stone Tower (+2 EV)** The watchtower is reinforced with stone and has 75 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Iron Tower (+4 EV)** The watchtower is reinforced with stone and iron and has 100 [Stamina](../../Browse/rule/health/stamina.md).
+<b>Iron Tower (+4 EV)</b> The watchtower is reinforced with stone and iron and has 100 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.</div>
+</article>
+</div>
+</article>
+</div>
 
 ### Supernatural Objects
 
@@ -1434,138 +1439,131 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 
 ###### The Black Obelisk (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-black-obelisk"}
 
-A foreboding obelisk shaped of dark stone harrows the minds and spirits of those around it.
-
-- **EV:** 20
-- **Stamina:** 100
-- **Size:** 2
-
-> 🌀 **Deactivate**
->
-> As a maneuver, a creature [adjacent](../../Browse/rule/combat/adjacent.md) to the black obelisk can make a **Reason test**.
->
-> - **≤11:** The creature accidentally activates the **Your Fears Become Manifest** ability, which gains an edge.
-> - **12-16:** The creature must make another test to deactivate the obelisk. If they obtain this outcome a second time, they accidentally activate **Your Fears Become Manifest**.
-> - **17+:** The obelisk is deactivated until the end of the encounter.
-
-> ❕ **Activate**
->
-> A new round starts.
->
-> **Effect:** The **Your Fears Become Manifest** ability.
-
-> ❗️ **Your Fears Become Manifest**
->
-> | **Area, Magic** |     **Free triggered action** |
-> |-----------------|------------------------------:|
-> | **📏 10 burst** | **🎯 Each enemy in the area** |
->
-> **Trigger:** A new round starts.
->
-> **Power Roll + 2:**
->
-> - **≤11:** P < 1 [slowed](../../Browse/condition/slowed.md) (EoT)
-> - **12-16:** P < 2 [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) (EoT)
-> - **17+:** P < 3 [frightened](../../Browse/condition/frightened.md), [slowed](../../Browse/condition/slowed.md), and [weakened](../../Browse/condition/weakened.md) (EoT)
->
-> **Effect:** The target is pushed 2 squares.
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Relic · Controller</div>
+<h2 class="fb__name">The Black Obelisk</h2>
+</header>
+<div class="fb__flavor">A foreboding obelisk shaped of dark stone harrows the minds and spirits of those around it.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">20</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">100</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">As a maneuver, a creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the black obelisk can make a <b>Reason test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Your Fears Become Manifest</b> ability, which gains an edge.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature must make another test to deactivate the obelisk. If they obtain this outcome a second time, they accidentally activate <b>Your Fears Become Manifest</b>.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The obelisk is deactivated until the end of the encounter.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❕</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Activate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Your Fears Become Manifest</b> ability.</p></div></div>
+<div class="fb__feat-body">A new round starts.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Your Fears Become Manifest</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; 1 <a href="../../../Browse/condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; 2 <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; 3 <a href="../../../Browse/condition/frightened/">frightened</a>, <a href="../../../Browse/condition/slowed/">slowed</a>, and <a href="../../../Browse/condition/weakened/">weakened</a> (EoT)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A new round starts.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target is pushed 2 squares.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### The Chronal Hypercube (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-chronal-hypercube"}
 
-This unnatural object twists space around it in a reflection of its own unnatural form.
-
-- **EV:** 20
-- **Stamina:** 80
-- **Size:** 1M
-
-> 🌀 **Deactivate**
->
-> A creature who has the [Psionics](../../Browse/skill/lore/psionics.md) skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.
->
-> - **≤11:** The creature takes 1d6 psychic damage.
-> - **12-16:** The creature fails to deactivate the hypercube.
-> - **17+:** The hypercube [teleports](../../Browse/movement/teleport.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the creature at the start of the next round and becomes an ally to the creature and their allies.
-
-> ⭐️ **Dimensional Flicker**
->
-> At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube [teleports](../../Browse/movement/teleport.md) to a square of one ally's choice within 10 squares and is hidden. While the hypercube is hidden, [Psionics](../../Browse/skill/lore/psionics.md) is the only skill that can be applied to a test made to find it.
-
-> ⭐️ **Chronal Superhighway**
->
-> Any ally within 10 squares of the hypercube can [teleport](../../Browse/movement/teleport.md) when they move. An ally who [teleports](../../Browse/movement/teleport.md) gains an edge on the next power roll they make.
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 3 Relic · Controller</div>
+<h2 class="fb__name">The Chronal Hypercube</h2>
+</header>
+<div class="fb__flavor">This unnatural object twists space around it in a reflection of its own unnatural form.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">20</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">80</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">1M</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">A creature who has the <a href="../../../Browse/skill/lore/psionics/">Psionics</a> skill can deactivate and take control of the chronal hypercube by making a <b>Reason test</b> while within 10 squares of the hypercube.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 1d6 psychic damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to deactivate the hypercube.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The hypercube <a href="../../../Browse/movement/teleport/">teleports</a> <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the creature at the start of the next round and becomes an ally to the creature and their allies.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dimensional Flicker</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">At the start of each round while the hypercube is present, roll a d10. On a 7 or higher, the hypercube <a href="../../../Browse/movement/teleport/">teleports</a> to a square of one ally&#39;s choice within 10 squares and is hidden. While the hypercube is hidden, <a href="../../../Browse/skill/lore/psionics/">Psionics</a> is the only skill that can be applied to a test made to find it.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Chronal Superhighway</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Any ally within 10 squares of the hypercube can <a href="../../../Browse/movement/teleport/">teleport</a> when they move. An ally who <a href="../../../Browse/movement/teleport/">teleports</a> gains an edge on the next power roll they make.</div>
+</article>
+</div>
+</article>
+</div>
 
 ###### The Throne of A'An (Level 4 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-throne-of-aan"}
 
-The throne of A'An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Level 4 Relic · Controller</div>
+<h2 class="fb__name">The Throne of A&#39;An</h2>
+</header>
+<div class="fb__flavor">The throne of A&#39;An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.</div>
+<div class="fb__stats">
+<div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">24</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">140</div></div>
+<div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
+</div>
+<div class="fb__feats">
+<article class="sc-ability fb__feat" data-action="special">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Deactivate</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">The throne of A&#39;An can be deactivated only by the current hierophant of A&#39;An (see <b>Sitting on the Throne</b>), who must succeed on a <b>Presence test</b> that takes a bane to do so.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The hierophant triggers the <b>Nova</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hierophant fails to deactivate the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The throne is deactivated until the end of the encounter.</span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Light of the Northern Sun</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A&#39;An was the brightest. The throne of A&#39;An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:
 
-- **EV:** 24
-- **Stamina:** 140
-- **Size:** 2
+- The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden. - Any creature with cold immunity has fire weakness 10. - Any creature who uses an ability that deals cold damage takes 11 fire damage.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Sitting on the Throne</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-intro">Only a creature attuned to the throne can sit on it. A creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the throne can use a main action to attune to it by succeeding on a <b>Presence test</b>.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 11 fire damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to attune to the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature attunes to the throne and can sit on it.</span></div></div></div>
+<div class="fb__feat-trailing">A creature seated on the throne becomes the hierophant of A&#39;An and gains the following benefits:
 
-> 🌀 **Deactivate**
->
-> The throne of A'An can be deactivated only by the current hierophant of A'An (see **Sitting on the Throne**), who must succeed on a **Presence test** that takes a bane to do so.
->
-> - **≤11:** The hierophant triggers the **Nova** ability.
-> - **12-16:** The hierophant fails to deactivate the throne.
-> - **17+:** The throne is deactivated until the end of the encounter.
-
-> ⭐️ **Light of the Northern Sun**
->
-> In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A'An was the brightest. The throne of A'An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:
->
-> - The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden.
-> - Any creature with cold immunity has fire weakness 10.
-> - Any creature who uses an ability that deals cold damage takes 11 fire damage.
-
-> ⭐️ **Sitting on the Throne**
->
-> Only a creature attuned to the throne can sit on it. A creature [adjacent](../../Browse/rule/combat/adjacent.md) to the throne can use a main action to attune to it by succeeding on a **Presence test**.
->
-> - **≤11:** The creature takes 11 fire damage.
-> - **12-16:** The creature fails to attune to the throne.
-> - **17+:** The creature attunes to the throne and can sit on it.
->
-> A creature seated on the throne becomes the hierophant of A'An and gains the following benefits:
->
-> - The hierophant and each of their allies within 10 squares of the throne have fire immunity 10.
-> - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage.
-> - The hierophant has a +5 bonus to [stability](../../Browse/rule/character/stability.md), and any strike made against them takes a bane unless the attacker is also attuned to the throne.
-> - The hierophant can use the **Primordial Flare** and **Solar Accretion** abilities.
-
-> 🏹 **Primordial Flare**
->
-> | **Magic, Ranged, Strike** |                  **Maneuver** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 20**          | **🎯 One creature or object** |
->
-> **Power Roll + 3:**
->
-> - **≤11:** 6 fire damage
-> - **12-16:** 11 fire damage
-> - **17+:** 14 fire damage
->
-> **Effect:** The target has fire weakness 10 until the start of the hierophant's next turn.
-
-> ❗️ **Solar Accretion**
->
-> | **Magic, Ranged** | **Free triggered action** |
-> |-------------------|--------------------------:|
-> | **📏 Ranged 10**  |       **🎯 One creature** |
->
-> **Trigger:** A target within distance is made [winded](../../Browse/rule/health/winded.md) or is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by fire damage.
->
-> **Effect:** If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 [Malice](../../Browse/rule/monster/malice.md).
-
-> ❗️ **Nova**
->
-> | **Area, Magic** |                   **Free triggered action** |
-> |-----------------|--------------------------------------------:|
-> | **📏 10 burst** | **🎯 Each creature and object in the area** |
->
-> **Trigger:** The throne is destroyed or the hierophant obtains a tier 1 outcome on the test to deactivate it.
->
-> **Effect:** Each target takes 14 fire damage and the Hierophant gains the Incubator of A'An complication (see the sidebar). If there is no hierophant, one creature within 10 squares of the throne chosen by the Director gains this complication.
+- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to <a href="../../../Browse/rule/character/stability/">stability</a>, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the <b>Primordial Flare</b> and <b>Solar Accretion</b> abilities.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Primordial Flare</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 3</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 fire damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target has fire weakness 10 until the start of the hierophant&#39;s next turn.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Solar Accretion</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A target within distance is made <a href="../../../Browse/rule/health/winded/">winded</a> or is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> by fire damage.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 <a href="../../../Browse/rule/monster/malice/">Malice</a>.</p></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Nova</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The throne is destroyed or the hierophant obtains a tier 1 outcome on the test to deactivate it.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Each target takes 14 fire damage and the Hierophant gains the Incubator of A&#39;An complication (see the sidebar). If there is no hierophant, one creature within 10 squares of the throne chosen by the Director gains this complication.</p></div></div>
+</article>
+</div>
+</article>
+</div>
 
 ###### Incubator of A'An
 

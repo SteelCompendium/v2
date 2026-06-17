@@ -198,15 +198,29 @@ If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig i
 
 ###### Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
 
-| **-**       | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
-
-- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
-- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)).
-- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Claw Dirt</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are <a href="../../../Browse/condition/slowed/">slowed</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can move 1 square into, out of, or through ground you are touching that can be burrowed through.</span></div>
+</div>
+</div>
+</article>
 
 ###### Burrowing Forced Movement
 
@@ -395,15 +409,48 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 
 #### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance"}
 
-When a creature takes the [Advance](../../Browse/feature/common/move-actions/advance.md) move action, they move a number of squares up to their [speed](../../Browse/rule/character/speed.md). They can break up this movement with their maneuver and main action however they wish.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Advance</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When a creature takes the <a href="../../../Browse/feature/common/move-actions/advance/">Advance</a> move action, they move a number of squares up to their <a href="../../../Browse/rule/character/speed/">speed</a>. They can break up this movement with their maneuver and main action however they wish.</p>
+</div>
+</section>
 
 #### Disengage {data-scc="mcdm.heroes.v1/feature.common.move-actions/disengage"}
 
-When a creature takes the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, they can [shift](../../Browse/movement/shifting.md) 1 square. Certain class features, kits, and other rules allow a creature to [shift](../../Browse/movement/shifting.md) more than 1 square when they disengage. A creature who does so can break up their [shift](../../Browse/movement/shifting.md) with their maneuver and main action however they wish.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Disengage</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When a creature takes the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action, they can <a href="../../../Browse/movement/shifting/">shift</a> 1 square. Certain class features, kits, and other rules allow a creature to <a href="../../../Browse/movement/shifting/">shift</a> more than 1 square when they disengage. A creature who does so can break up their <a href="../../../Browse/movement/shifting/">shift</a> with their maneuver and main action however they wish.</p>
+</div>
+</section>
 
 #### Ride {data-scc="mcdm.heroes.v1/feature.common.move-actions/ride"}
 
-A creature can take the [Ride](../../Browse/feature/common/move-actions/ride.md) move action only while mounted on another creature (see [Mounted Combat](../../Browse/rule/combat/mounted-combat.md) below). When a creature takes the [Ride](../../Browse/feature/common/move-actions/ride.md) move action, they cause their mount to move up to the mount's [speed](../../Browse/rule/character/speed.md), taking the rider with them. Alternatively, a creature can use the [Ride](../../Browse/feature/common/move-actions/ride.md) move action to have their mount use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action as a free [triggered action](../../Browse/rule/combat/triggered-action.md). A creature can use the [Ride](../../Browse/feature/common/move-actions/ride.md) move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Ride</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature can take the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action only while mounted on another creature (see <a href="../../../Browse/rule/combat/mounted-combat/">Mounted Combat</a> below). When a creature takes the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action, they cause their mount to move up to the mount&#39;s <a href="../../../Browse/rule/character/speed/">speed</a>, taking the rider with them. Alternatively, a creature can use the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action to have their mount use the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a>. A creature can use the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider&#39;s maneuver and main action however they wish.</p>
+</div>
+</section>
 
 ### Maneuvers
 
@@ -413,98 +460,242 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 
 #### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack"}
 
-A creature who uses the [Aid Attack](../../Browse/feature/common/maneuvers/aid-attack.md) maneuver chooses an enemy [adjacent](../../Browse/rule/combat/adjacent.md) to them. The next [ability roll](../../Browse/rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature's next [turn](../../Browse/rule/combat/turn.md) gains an [edge](../../Browse/rule/dice/edge.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Aid Attack</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature who uses the <a href="../../../Browse/feature/common/maneuvers/aid-attack/">Aid Attack</a> maneuver chooses an enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them. The next <a href="../../../Browse/rule/dice/ability-roll/">ability roll</a> an ally makes against that enemy before the start of the aiding creature&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a> gains an <a href="../../../Browse/rule/dice/edge/">edge</a>.</p>
+</div>
+</section>
 
 #### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
 
-A creature who uses the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver spends a [Recovery](../../Browse/rule/health/recoveries.md) and regains [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md). (See below for [Stamina](../../Browse/rule/health/stamina.md). See [Recoveries](../../Browse/rule/health/recoveries.md) in Chapter 1: [The Basics](the-basics.md).)
-
-A creature who is [dying](../../Browse/rule/health/dying.md) (see [Dying](../../Browse/rule/health/dying.md) and Death in [Stamina](../../Browse/rule/health/stamina.md) below) can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, but other creatures can help them spend [Recoveries](../../Browse/rule/health/recoveries.md) in other ways.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Catch Breath</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature who uses the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver spends a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> and regains <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to their <a href="../../../Browse/rule/health/recoveries/">recovery value</a>. (See below for <a href="../../../Browse/rule/health/stamina/">Stamina</a>. See <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> in Chapter 1: <a href="../the-basics/">The Basics</a>.)</p>
+<p>A creature who is <a href="../../../Browse/rule/health/dying/">dying</a> (see <a href="../../../Browse/rule/health/dying/">Dying</a> and Death in <a href="../../../Browse/rule/health/stamina/">Stamina</a> below) can&#39;t use the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> in other ways.</p>
+</div>
+</section>
 
 #### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab"}
 
-A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creature, an object, or an effect (see [Grab](../../Browse/feature/common/maneuvers/grab.md) below) can attempt to escape by using the following ability.
-
-##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common/escape-grab"}
-
-
-| **-**       | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
-
-- **≤11:** No effect.
-- **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/condition/grabbed.md) can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../Browse/condition/grabbed.md).
-- **17+:** You are no longer [grabbed](../../Browse/condition/grabbed.md).
-
-**Effect:** You take a [bane](../../Browse/rule/dice/bane.md) on this maneuver if your [size](../../Browse/rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/condition/grabbed.md).
-
-See [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) [condition](../../Browse/rule/combat/condition.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Escape Grab maneuver">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Escape Grab</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature who is <a href="../../../Browse/condition/grabbed/">grabbed</a> by another creature, an object, or an effect (see <a href="../../../Browse/feature/common/maneuvers/grab/">Grab</a> below) can attempt to escape by using the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Escape Grab</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../Browse/condition/grabbed/">grabbed</a> can make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against you before you are no longer <a href="../../../Browse/condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You are no longer <a href="../../../Browse/condition/grabbed/">grabbed</a>.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You take a <a href="../../../Browse/rule/dice/bane/">bane</a> on this maneuver if your <a href="../../../Browse/rule/character/size/">size</a> is smaller than the size of the creature, object, or effect that has you <a href="../../../Browse/condition/grabbed/">grabbed</a>.</p><p>See <a href="../../../Browse/rule/combat/condition/">Conditions</a> in Chapter 5: <a href="../classes/">Classes</a> for information on the <a href="../../../Browse/condition/grabbed/">grabbed</a> <a href="../../../Browse/rule/combat/condition/">condition</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 #### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab"}
 
-A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
-
-##### Grab {data-scc="mcdm.heroes.v1/feature.ability.common/grab"}
-
-
-| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |        **Maneuver** |
-|-------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
-
-- **≤11:** No effect.
-- **12-16:** You can grab the target, but if you do, the target can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before they are [grabbed](../../Browse/condition/grabbed.md).
-- **17+:** The target is [grabbed](../../Browse/condition/grabbed.md) by you.
-
-**Effect:** You can usually target only creatures of your [size](../../Browse/rule/character/size.md) or smaller. If your [Might](../../Browse/rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../Browse/rule/character/size.md) equal to or less than your [Might](../../Browse/rule/character/might.md) score.
-
-Unless otherwise indicated, a creature can grab only one creature at a time.
-
-See [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) [condition](../../Browse/rule/combat/condition.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Grab maneuver">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Grab</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Grab</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can grab the target, but if you do, the target can make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against you before they are <a href="../../../Browse/condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../../Browse/condition/grabbed/">grabbed</a> by you.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can usually target only creatures of your <a href="../../../Browse/rule/character/size/">size</a> or smaller. If your <a href="../../../Browse/rule/character/might/">Might</a> score is 2 or higher, you can target any creature with a <a href="../../../Browse/rule/character/size/">size</a> equal to or less than your <a href="../../../Browse/rule/character/might/">Might</a> score.</p><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p><p>See <a href="../../../Browse/rule/combat/condition/">Conditions</a> in Chapter 5: <a href="../classes/">Classes</a> for information on the <a href="../../../Browse/condition/grabbed/">grabbed</a> <a href="../../../Browse/rule/combat/condition/">condition</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 #### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
 
-Using the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver, a creature attempts to hide from other creatures who aren't observing them while they have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md). See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Hide</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Using the <a href="../../../Browse/feature/common/maneuvers/hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a> for full details.</p>
+</div>
+</section>
 
 #### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
-A creature wanting to [push](../../Browse/movement/forced-movement.md) an [adjacent](../../Browse/rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
-
-##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common/knockback"}
-
-
-| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |        **Maneuver** |
-|-------------------|--------------------:|
-| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One creature** |
-
-**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
-
-- **≤11:** [Push](../../Browse/movement/forced-movement.md) 1
-- **12-16:** [Push](../../Browse/movement/forced-movement.md) 2
-- **17+:** [Push](../../Browse/movement/forced-movement.md) 3
-
-**Effect:** You can usually target only creatures of your [size](../../Browse/rule/character/size.md) or smaller. If your [Might](../../Browse/rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../Browse/rule/character/size.md) equal to or less than your [Might](../../Browse/rule/character/might.md) score.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Knockback maneuver">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Knockback</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to <a href="../../../Browse/movement/forced-movement/">push</a> an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature away from them can attempt to shove that creature using the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Knockback</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../Browse/movement/forced-movement/">Push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../Browse/movement/forced-movement/">Push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../Browse/movement/forced-movement/">Push</a> 3</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can usually target only creatures of your <a href="../../../Browse/rule/character/size/">size</a> or smaller. If your <a href="../../../Browse/rule/character/might/">Might</a> score is 2 or higher, you can target any creature with a <a href="../../../Browse/rule/character/size/">size</a> equal to or less than your <a href="../../../Browse/rule/character/might/">Might</a> score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 #### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test"}
 
-Many [tests](../../Browse/rule/test/test.md) are maneuvers if made in combat. Searching a chest with a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md), picking a door's lock with an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md), or lifting a portcullis with a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) would all be maneuvers. Assisting a [test](../../Browse/rule/test/test.md) is also a maneuver in combat (see Assist a [Test](../../Browse/rule/test/test.md) in Chapter 9: [Tests](tests.md)).
-
-Complex or time-consuming [tests](../../Browse/rule/test/test.md) might require a main action if made in combat—or could take so long that they can't be made during combat at all. Other [tests](../../Browse/rule/test/test.md) that take no time at all, such as a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) to recall lore about mummies, are usually [free maneuvers](../../Browse/rule/combat/free-maneuver.md) in combat. The Director has the final say regarding which [tests](../../Browse/rule/test/test.md) can be made as maneuvers.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Make or Assist a Test</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Many <a href="../../../Browse/rule/test/test/">tests</a> are maneuvers if made in combat. Searching a chest with a <a href="../../../Browse/rule/character/reason/">Reason</a> <a href="../../../Browse/rule/test/test/">test</a>, picking a door&#39;s lock with an <a href="../../../Browse/rule/character/agility/">Agility</a> <a href="../../../Browse/rule/test/test/">test</a>, or lifting a portcullis with a <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">test</a> would all be maneuvers. Assisting a <a href="../../../Browse/rule/test/test/">test</a> is also a maneuver in combat (see Assist a <a href="../../../Browse/rule/test/test/">Test</a> in Chapter 9: <a href="../tests/">Tests</a>).</p>
+<p>Complex or time-consuming <a href="../../../Browse/rule/test/test/">tests</a> might require a main action if made in combat—or could take so long that they can&#39;t be made during combat at all. Other <a href="../../../Browse/rule/test/test/">tests</a> that take no time at all, such as a <a href="../../../Browse/rule/character/reason/">Reason</a> <a href="../../../Browse/rule/test/test/">test</a> to recall lore about mummies, are usually <a href="../../../Browse/rule/combat/free-maneuver/">free maneuvers</a> in combat. The Director has the final say regarding which <a href="../../../Browse/rule/test/test/">tests</a> can be made as maneuvers.</p>
+</div>
+</section>
 
 #### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures"}
 
-The [Search for Hidden Creatures](../../Browse/feature/common/maneuvers/search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Search for Hidden Creatures</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>The <a href="../../../Browse/feature/common/maneuvers/search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a>).</p>
+</div>
+</section>
 
 #### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up"}
 
-A creature can use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to stand up if they [are prone](../../Browse/condition/prone.md), ending that [condition](../../Browse/rule/combat/condition.md). Alternatively, they can use this maneuver to make a willing [adjacent](../../Browse/rule/combat/adjacent.md) prone creature stand up.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Stand Up</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature can use the <a href="../../../Browse/feature/common/maneuvers/stand-up/">Stand Up</a> maneuver to stand up if they <a href="../../../Browse/condition/prone/">are prone</a>, ending that <a href="../../../Browse/rule/combat/condition/">condition</a>. Alternatively, they can use this maneuver to make a willing <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> prone creature stand up.</p>
+</div>
+</section>
 
 #### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable"}
 
-Unless otherwise noted in its description, a creature can activate a [consumable](../../Browse/rule/treasure/consumable.md) treasure such as a potion with the [Use Consumable](../../Browse/feature/common/maneuvers/use-consumable.md) maneuver. A creature can use this maneuver to administer a [consumable](../../Browse/rule/treasure/consumable.md) treasure that benefits the user either to themself or to a willing [adjacent](../../Browse/rule/combat/adjacent.md) creature. See [Consumables](../../Browse/rule/treasure/consumable.md) in Chapter 13: [Rewards](rewards.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Use Consumable</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Unless otherwise noted in its description, a creature can activate a <a href="../../../Browse/rule/treasure/consumable/">consumable</a> treasure such as a potion with the <a href="../../../Browse/feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a <a href="../../../Browse/rule/treasure/consumable/">consumable</a> treasure that benefits the user either to themself or to a willing <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature. See <a href="../../../Browse/rule/treasure/consumable/">Consumables</a> in Chapter 13: <a href="../rewards/">Rewards</a>.</p>
+</div>
+</section>
 
 ### Main Actions
 
@@ -516,21 +707,64 @@ You can convert your main action into a maneuver or a move action, allowing you 
 
 #### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge"}
 
-When a creature takes the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, they move up to their [speed](../../Browse/rule/character/speed.md) in a straight line, then make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
-
-A creature can't move through [difficult terrain](../../Browse/movement/difficult-terrain.md) or [shift](../../Browse/movement/shifting.md) when they charge. They can [fly](../../Browse/movement/fly.md) or [burrow](../../Browse/movement/burrow.md) as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full [speed](../../Browse/rule/character/speed.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Charge</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When a creature takes the <a href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action, they move up to their <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line, then make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> (see <a href="../../../Browse/feature/common/main-actions/free-strike/">Free Strikes</a> below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>.</p>
+<p>A creature can&#39;t move through <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> or <a href="../../../Browse/movement/shifting/">shift</a> when they charge. They can <a href="../../../Browse/movement/fly/">fly</a> or <a href="../../../Browse/movement/burrow/">burrow</a> as part of the <a href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action if they have that movement available to them, but they can&#39;t climb or swim while charging unless they can automatically use that movement at full <a href="../../../Browse/rule/character/speed/">speed</a>.</p>
+</div>
+</section>
 
 #### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend"}
 
-When a creature takes the [Defend](../../Browse/feature/common/main-actions/defend.md) main action, [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them have a double [bane](../../Browse/rule/dice/bane.md) until the start of their next [turn](../../Browse/rule/combat/turn.md). Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/condition/taunted.md) by them (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Defend</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When a creature takes the <a href="../../../Browse/feature/common/main-actions/defend/">Defend</a> main action, <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../Browse/rule/dice/bane/">bane</a> until the start of their next <a href="../../../Browse/rule/combat/turn/">turn</a>. Additionally, you have a double <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities. A creature gains no benefit from this action while another creature is <a href="../../../Browse/condition/taunted/">taunted</a> by them (see <a href="../../../Browse/rule/combat/condition/">Conditions</a> in Chapter 5: <a href="../classes/">Classes</a>).</p>
+</div>
+</section>
 
 #### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike"}
 
-A creature can use this main action to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../../Browse/feature/common/main-actions/free-strike.md) are available for when all else fails. For instance, a [fury](../../Browse/class/fury.md) who has no other options for [ranged](../../Browse/rule/combat/ranged.md) [strikes](../../Browse/rule/combat/strike.md) might use the [Ranged Weapon Free Strike](../../Browse/feature/ability/common/ranged-weapon-free-strike.md) ability with an improvised weapon when battling a [flying](../../Browse/movement/fly.md) foe.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Free Strike</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature can use this main action to make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> (see Free Strikes below). Most of the time, you&#39;ll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature&#39;s stat block, but <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a> are available for when all else fails. For instance, a <a href="../../../Browse/class/fury/">fury</a> who has no other options for <a href="../../../Browse/rule/combat/ranged/">ranged</a> <a href="../../../Browse/rule/combat/strike/">strikes</a> might use the <a href="../../../Browse/feature/ability/common/ranged-weapon-free-strike/">Ranged Weapon Free Strike</a> ability with an improvised weapon when battling a <a href="../../../Browse/movement/fly/">flying</a> foe.</p>
+</div>
+</section>
 
 #### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
 
-A creature who uses the [Heal](../../Browse/feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an [adjacent](../../Browse/rule/combat/adjacent.md) creature feel better and stay in the fight. The target creature can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md), or can make a [saving throw](../../Browse/rule/general/saving-throw.md) against one effect they are suffering that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
+<h3 class="sc-trait__name">Heal</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>A creature who uses the <a href="../../../Browse/feature/common/main-actions/heal/">Heal</a> main action employs medicine or inspiring words to make an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature feel better and stay in the fight. The target creature can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> to regain <a href="../../../Browse/rule/health/stamina/">Stamina</a>, or can make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> against one effect they are suffering that is ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>.</p>
+</div>
+</section>
 
 ### Free Strikes
 

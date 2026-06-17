@@ -538,1410 +538,851 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 
 ###### Angulotl Hopper {data-scc="mcdm.monsters.v1/retainer.statblock/angulotl-hopper"}
 
-|    Angulotl, Humanoid    |              -               |      Level 1      |   Harrier Retainer    |         EV -         |
-|:------------------------:|:----------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1S**<br>Size      |        **6**<br>Speed        | **21**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-| **Poison 2**<br>Immunity | **Climb, swim **<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **+1**<br>Might      |      **+2**<br>Agility       |  **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="harrier" data-creature="angulotl-hopper"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Angulotl Hopper</span><span class="sb__sticky-role" data-role="harrier">Retainer Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+1</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb, swim</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Poison 2</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Angulotl, Humanoid</div><h2 class="sb__name">Angulotl Hopper</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="harrier">Retainer Harrier</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 2</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb, swim</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Leapfrog</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Before or after making this <a class="sb-term" href="../../../Browse/rule/combat/strike/">strike</a>, the hopper jumps up to 2 squares, or up to 4 squares if they jump over their mentor's space.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Toxiferous</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever an <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> enemy grabs the hopper or uses a melee ability against them, that enemy takes 3 poison damage.</p></article></div></article></div>
 
-> 🗡 **Leapfrog  (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** Before or after making this [strike](../../Browse/rule/combat/strike.md), the hopper jumps up to 2 squares, or up to 4 squares if they jump over their mentor's space.
-
-> ⭐️ **Toxiferous**
->
-> Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) enemy grabs the hopper or uses a melee ability against them, that enemy takes 3 poison damage.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🗡 **Leaping Attack (Encounter)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 damage; M < WEAK, [prone](../../Browse/condition/prone.md)
-> - **12-16:** 9 damage; M < AVERAGE, [prone](../../Browse/condition/prone.md)
-> - **17+:** 12 damage; M < STRONG, [prone](../../Browse/condition/prone.md)
->
-> **Effect:** The hopper can jump up to their speed in a straight line before the [strike](../../Browse/rule/combat/strike.md) without provoking [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). If they jump 2 or more squares this way, they gain 1 [surge](../../Browse/rule/resource/surge.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 🏹 **Three-Poison Dart (Encounter)**
->
-> | **Ranged, Strike, Weapon** |     **Main action** |
-> |----------------------------|--------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 poison damage; M < WEAK, [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 poison damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 12 poison damage; M < STRONG, [dazed](../../Browse/condition/dazed.md), [slowed](../../Browse/condition/slowed.md), and [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-**Level 10 Retainer Advancement Ability**
-
-> ❗️ **Trip of the Tongue (Encounter)**
->
-> | **Melee**      |          **Triggered action** |
-> |----------------|------------------------------:|
-> | **📏 Melee 5** | **🎯 One creature or object** |
->
-> **Trigger:** A creature moves within distance.
->
-> **Effect:** If the target has M < AVERAGE, their movement ends, they are knocked [prone](../../Browse/condition/prone.md), and one ally within distance gains 2 [surges](../../Browse/rule/resource/surge.md).
+<div class="fb-wrap" data-role="harrier">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Harrier Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Leaping Attack</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; M &lt; WEAK, <a href="../../../Browse/condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; M &lt; AVERAGE, <a href="../../../Browse/condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG, <a href="../../../Browse/condition/prone/">prone</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The hopper can jump up to their speed in a straight line before the <a href="../../../Browse/rule/combat/strike/">strike</a> without provoking <a href="../../../Browse/rule/combat/opportunity-attack/">opportunity attacks</a>. If they jump 2 or more squares this way, they gain 1 <a href="../../../Browse/rule/resource/surge/">surge</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Three-Poison Dart</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 poison damage; M &lt; WEAK, <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 poison damage; M &lt; AVERAGE, <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 poison damage; M &lt; STRONG, <a href="../../../Browse/condition/dazed/">dazed</a>, <a href="../../../Browse/condition/slowed/">slowed</a>, and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">Trip of the Tongue</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature moves within distance.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, their movement ends, they are knocked <a href="../../../Browse/condition/prone/">prone</a>, and one ally within distance gains 2 <a href="../../../Browse/rule/resource/surge/">surges</a>.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Bugbear Commando {data-scc="mcdm.monsters.v1/retainer.statblock/bugbear-commando"}
 
-| Bugbear, Fey, Goblin, Humanoid |         -         |      Level 2      |   Ambusher Retainer   |         EV -         |
-|:------------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|         **1L**<br>Size         |  **5**<br>Speed   | **30**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-|       **-**<br>Immunity        | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|        **+2**<br>Might         | **+2**<br>Agility |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="ambusher" data-creature="bugbear-commando"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Bugbear Commando</span><span class="sb__sticky-role" data-role="ambusher">Retainer Ambusher</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>30</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="ambusher"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Bugbear, Fey, Goblin, Humanoid</div><h2 class="sb__name">Bugbear Commando</h2></div><div class="sb__class"><div class="sb__level">Level 2</div><div class="sb__role" data-role="ambusher">Retainer Ambusher</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">30</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Bear Hug</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the commando started their turn with concealment from the target or hidden from them, they gain 1 <a class="sb-term" href="../../../Browse/rule/resource/surge/">surge</a> that can be used immediately.</p></div></div></article><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Throw</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> by the commando.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target is vertical pushed up to 5 squares. An ally doesn't take damage from being <a class="sb-term" href="../../../Browse/movement/forced-movement/">force moved</a> this way.</p></div></div></article><article class="sc-ability sb__feat" data-action="triggered" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">)</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">)</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="sb__feat-name sc-ability__name">Catcher</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Free triggered action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">The triggering creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A size 1 creature or object is <a class="sb-term" href="../../../Browse/movement/forced-movement/">force moved</a> within distance, or a size 1 ally willingly moves within distance.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target is <a class="sb-term" href="../../../Browse/condition/grabbed/">grabbed</a> by the commando.</p></div></div></article></div></article></div>
 
-> 🗡 **Bear Hug (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 6 damage
-> - **17+:** 11 damage
->
-> **Effect:** If the commando started their turn with concealment from the target or hidden from them, they gain 1 [surge](../../Browse/rule/resource/surge.md) that can be used immediately.
-
-> 🗡 **Throw**
->
-> | **Melee, Strike** |                  **Maneuver** |
-> |-------------------|------------------------------:|
-> | **📏 Melee 1**    | **🎯 One creature or object** |
->
-> **Special:** The target must be [grabbed](../../Browse/condition/grabbed.md) by the commando.
->
-> **Effect:** The target is vertical pushed up to 5 squares. An ally doesn't take damage from being [force moved](../../Browse/movement/forced-movement.md) this way.
-
-> ❗️ **Catcher**
->
-> | **Melee**      |                **Free triggered action** |
-> |----------------|-----------------------------------------:|
-> | **📏 Melee 1** | **🎯 The triggering creature or object** |
->
-> **Trigger:** A size 1 creature or object is [force moved](../../Browse/movement/forced-movement.md) within distance, or a size 1 ally willingly moves within distance.
->
-> **Effect:** The target is [grabbed](../../Browse/condition/grabbed.md) by the commando.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🗡 **Face Grab (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage; M < WEAK [grabbed](../../Browse/condition/grabbed.md)
-> - **12-16:** 9 damage; M < AVERAGE [grabbed](../../Browse/condition/grabbed.md)
-> - **17+:** 13 damage; M < STRONG [grabbed](../../Browse/condition/grabbed.md)
->
-> **Effect:** While the target is [grabbed](../../Browse/condition/grabbed.md) this way, they can't communicate and all creatures and objects have concealment from them.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🏹 **Shadow Drag (Encounter)**
->
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** Pull 8
-> - **12-16:** Pull 10
-> - **17+:** Pull 12
->
-> **Effect:** The target takes 1 damage for each square they are [pulled](../../Browse/movement/forced-movement.md).
-
-**Level 10 Retainer Advancement Ability**
-
-> 🗡 **Neck Snap (Encounter)**
->
-> | **Melee**      |                             **Main action** |
-> |----------------|--------------------------------------------:|
-> | **📏 Melee 1** | **🎯 One creature grabbed by the commando** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 12 damage
-> - **12-16:** 18 damage
-> - **17+:** 24 damage
->
-> **Effect:** The target takes 15 damage, they are no longer [grabbed](../../Browse/condition/grabbed.md), and they fall [prone](../../Browse/condition/prone.md).
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Ambusher Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Face Grab</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; M &lt; WEAK <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; M &lt; AVERAGE <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While the target is <a href="../../../Browse/condition/grabbed/">grabbed</a> this way, they can&#39;t communicate and all creatures and objects have concealment from them.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Shadow Drag</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 8</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull 10</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Pull 12</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes 1 damage for each square they are <a href="../../../Browse/movement/forced-movement/">pulled</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Neck Snap</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature grabbed by the commando</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes 15 damage, they are no longer <a href="../../../Browse/condition/grabbed/">grabbed</a>, and they fall <a href="../../../Browse/condition/prone/">prone</a>.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Devil Defector {data-scc="mcdm.monsters.v1/retainer.statblock/devil-defector"}
 
-|    Devil, Infernal     |          -          |      Level 5      |    Hexer Retainer     |         EV -         |
-|:----------------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size     |   **6**<br>Speed    | **57**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-| **Fire 5**<br>Immunity | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|    **+3**<br>Might     |  **+2**<br>Agility  | **+3**<br>Reason  |  **+1**<br>Intuition  |  **+2**<br>Presence  |
+<div class="sb-wrap" data-role="hexer" data-creature="devil-defector"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Devil Defector</span><span class="sb__sticky-role" data-role="hexer">Retainer Hexer</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>57</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>5</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+3</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+3</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Fire 5</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="hexer"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Devil, Infernal</div><h2 class="sb__name">Devil Defector</h2></div><div class="sb__class"><div class="sb__level">Level 5</div><div class="sb__role" data-role="hexer">Retainer Hexer</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">57</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Fire 5</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+3</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+3</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Black Flame</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption or fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption or fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 corruption or fire damage</span></div></div></div></article><article class="sc-ability sb__feat" data-action="triggered" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">)</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">)</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="sb__feat-name sc-ability__name">Tempting Offer</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Free triggered action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">The triggering creature</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A sapient enemy is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The defector makes an offer to keep the target alive. If the target accepts, they are reduced to 1 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> instead. On the target's next turn, the defector controls their move action and the target must use a <a class="sb-term" href="../../../Browse/rule/combat/signature-ability/">signature ability</a> against a creature of the defector's choice or immediately die. To have the target turn down the offer, the Diretor must spend 3 <a class="sb-term" href="../../../Browse/rule/monster/malice/">Malice</a>.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">True Name</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.</p></article></div></article></div>
 
-> 🏹 **Black Flame (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 corruption or fire damage
-> - **12-16:** 10 corruption or fire damage
-> - **17+:** 13 corruption or fire damage
-
-> ❗️ **Tempting Offer (Encounter)**
->
-> | **Ranged, Strike** |      **Free triggered action** |
-> |--------------------|-------------------------------:|
-> | **📏 Ranged 10**   | **🎯 The triggering creature** |
->
-> **Trigger:** A sapient enemy is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Effect:** The defector makes an offer to keep the target alive. If the target accepts, they are reduced to 1 [Stamina](../../Browse/rule/health/stamina.md) instead. On the target's next turn, the defector controls their move action and the target must use a [signature ability](../../Browse/rule/combat/signature-ability.md) against a creature of the defector's choice or immediately die. To have the target turn down the offer, the Diretor must spend 3 [Malice](../../Browse/rule/monster/malice.md).
-
-> ⭐️ **True Name**
->
-> If a creature within 10 squares speaks the defector's true name, the defector loses their damage immunities and their Tempting Offer triggered action until the end of the encounter.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🔳 **Flames of Revenge (Encounter)**
->
-> | **Area, Magic, Ranged** |               **Main action** |
-> |-------------------------|------------------------------:|
-> | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 corruption damage
-> - **12-16:** 10 corruption damage
-> - **17+:** 14 corruption damage
->
-> **Effect:** If the defector's mentor is in the area, the mentor burns with flame until the end of the defector's next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🔳 **Hell On Earth (Encounter)**
->
-> | **Area, Magic, Ranged** | **Main action** |
-> |-------------------------|----------------:|
-> | **📏 5 cube within 10** |  **🎯 Special** |
->
-> **Effect:** The area burns with infernal fire until the end of the devil's next turn. Any enemy of the defector who ends their turn in the area takes 10 fire damage, and if they have P < AVERAGE they are [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends).
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Hexer Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Flames of Revenge</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the defector&#39;s mentor is in the area, the mentor burns with flame until the end of the defector&#39;s next turn. While this fire burns the mentor has fire immunity 10, and any creature who targets the mentor with a strike takes 10 fire damage.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Hell On Earth</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The area burns with infernal fire until the end of the devil&#39;s next turn. Any enemy of the defector who ends their turn in the area takes 10 fire damage, and if they have P &lt; AVERAGE they are <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### The Nameless {data-scc="mcdm.monsters.v1/retainer.statblock/the-nameless"}
 
-| Draconian, Dragon, Humanoid  |          -          |      Level 6      |   Defender Retainer   |         EV -         |
-|:----------------------------:|:-------------------:|:-----------------:|:---------------------:|:--------------------:|
-|        **1M**<br>Size        |   **5**<br>Speed    | **66**<br>Stamina |  **4**<br>Stability   | **6**<br>Free Strike |
-| **Corruption 6**<br>Immunity | **Fly**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **+3**<br>Might        |  **+2**<br>Agility  | **+1**<br>Reason  |  **+1**<br>Intuition  |  **+2**<br>Presence  |
+<div class="sb-wrap" data-role="defender" data-creature="the-nameless"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">The Nameless</span><span class="sb__sticky-role" data-role="defender">Retainer Defender</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>66</b>Stamina</span><span class="m"><b>4</b>Stability</span><span class="m"><b>6</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+3</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+1</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Corruption 6</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="defender"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Draconian, Dragon, Humanoid</div><h2 class="sb__name">The Nameless</h2></div><div class="sb__class"><div class="sb__level">Level 6</div><div class="sb__role" data-role="defender">Retainer Defender</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">66</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Corruption 6</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+3</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Baneful Blade</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 damage; <a class="sb-term" href="../../../Browse/movement/forced-movement/">push</a> 2</span></div></div></div></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">I'm Not a Steed, You're Equipment</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">The Nameless's mentor</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The Nameless's mentor enters the Nameless's space and rides on their back. The Nameless or the mentor can move the mentor to an <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> space as a free maneuver. While in the Nameless's space, the mentor moves with them and can't use their move action, and ability rolls against the mentor take a bane.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Wing Block</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Ranged strikes against the Nameless take a bane.</p></article></div></article></div>
 
-> 🗡 **Baneful Blade  (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage; [push](../../Browse/movement/forced-movement.md) 2
-
-> 🗡 **I'm Not a Steed, You're Equipment (Encounter)**
->
-> | **Melee**      |              **Main action** |
-> |----------------|-----------------------------:|
-> | **📏 Melee 1** | **🎯 The Nameless's mentor** |
->
-> **Effect:** The Nameless's mentor enters the Nameless's space and rides on their back. The Nameless or the mentor can move the mentor to an [adjacent](../../Browse/rule/combat/adjacent.md) space as a free maneuver. While in the Nameless's space, the mentor moves with them and can't use their move action, and ability rolls against the mentor take a bane.
-
-> ⭐️ **Wing Block**
->
-> Ranged strikes against the Nameless take a bane.
-
-**Level 7 Retainer Advancement Ability**
-
-> ❇️ **Looming Wings (Encounter)**
->
-> | **Area, Weapon** |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 corruption damage; I < WEAK [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 corruption damage; I < AVERAGE [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 12 corruption damage; I < STRONG [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** If the Nameless's mentor is in the area, ability rolls against the mentor have a double bane until the start of their next turn.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Spew Death (Encounter)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 5 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> **Special:** The Nameless must be [winded](../../Browse/rule/health/winded.md) to use this ability.
->
-> - **≤11:** 11 corruption damage
-> - **12-16:** 16 corruption damage
-> - **17+:** 21 corruption damage
->
-> **Effect:** Any living [minions](../../Browse/rule/organization/minion.md) reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this ability regain all their [Stamina](../../Browse/rule/health/stamina.md) and become corporeal [undead](../../Browse/rule/keyword/undead.md) under the Nameless's control until the end of the Nameless's next turn, after which they are destroyed.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Defender Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Looming Wings</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; I &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 corruption damage; I &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; I &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the Nameless&#39;s mentor is in the area, ability rolls against the mentor have a double bane until the start of their next turn.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Spew Death</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 corruption damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 corruption damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The Nameless must be <a href="../../../Browse/rule/health/winded/">winded</a> to use this ability.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Any living <a href="../../../Browse/rule/organization/minion/">minions</a> reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> by this ability regain all their <a href="../../../Browse/rule/health/stamina/">Stamina</a> and become corporeal <a href="../../../Browse/rule/keyword/undead/">undead</a> under the Nameless&#39;s control until the end of the Nameless&#39;s next turn, after which they are destroyed.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Dwarf Mortar {data-scc="mcdm.monsters.v1/retainer.statblock/dwarf-mortar"}
 
-|  Dwarf, Humanoid  |         -         |      Level 1      |    Hexer Retainer     |         EV -         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **21**<br>Stamina |  **3**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **0**<br>Agility  |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="hexer" data-creature="dwarf-mortar"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Dwarf Mortar</span><span class="sb__sticky-role" data-role="hexer">Retainer Hexer</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>3</b>Stability</span><span class="m"><b>3</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+0</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="hexer"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Dwarf, Humanoid</div><h2 class="sb__name">Dwarf Mortar</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="hexer">Retainer Hexer</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+0</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Armor-Piercing Shell</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 15</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability ignores <a class="sb-term" href="../../../Browse/rule/combat/cover/">cover</a> and bypasses <a class="sb-term" href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a>.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Voice Rune</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The mortar can use a magical rune inscribed on their skin to talk to their mentor over any distance as long as both are in the same world.</p></article></div></article></div>
 
-> 🏹 **Armor-Piercing Shell (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** This ability ignores [cover](../../Browse/rule/combat/cover.md) and bypasses [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
-
-> ⭐️ **Voice Rune**
->
-> The mortar can use a magical rune inscribed on their skin to talk to their mentor over any distance as long as both are in the same world.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🔳 **Signal Shell (Encounter)**
->
-> | **Area, Ranged, Weapon**  |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Special; see below** | **🎯 Each enemy in the area** |
->
-> **Effect:** The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can't [hide](../../Browse/feature/common/maneuvers/hide.md) or turn invisible and can't benefit from concealment or cover. At the start of the mortar's next turn, the shell explodes to deal damage to enemies in the area.
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 fire damage
-> - **12-16:** 8 fire damage
-> - **17+:** 11 fire damage
-
-**Level 10 Retainer Advancement Ability**
-
-> 🔳 **Pacifier Shell (Encounter)**
->
-> | **Area, Ranged, Weapon** |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 3 cube within 15**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 damage; I < WEAK [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends
-> - **12-16:** 12 damage; I < AVERAGE [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 16 damage; I < STRONG [dazed](../../Browse/condition/dazed.md) ([save](../../Browse/rule/general/saving-throw.md) ends) and [prone](../../Browse/condition/prone.md)
-
-**Level 7 Retainer Advancement Ability**
-
-> 🔳 **Screaming Shell (Encounter)**
->
-> | **Area, Weapon**            |               **Main action** |
-> |-----------------------------|------------------------------:|
-> | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage; P < WEAK [frightened](../../Browse/condition/frightened.md)
-> - **12-16:** 9 damage; P < AVERAGE [frightened](../../Browse/condition/frightened.md)
-> - **17+:** 13 damage; P < STRONG [frightened](../../Browse/condition/frightened.md)
->
-> **Effect:** Until the start of the mortar's next turn, [strikes](../../Browse/rule/combat/strike.md) made against the mortar or any ally [adjacent](../../Browse/rule/combat/adjacent.md) to them take a bane.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Hexer Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Signal Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special; see below</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can&#39;t <a href="../../../Browse/feature/common/maneuvers/hide/">hide</a> or turn invisible and can&#39;t benefit from concealment or cover. At the start of the mortar&#39;s next turn, the shell explodes to deal damage to enemies in the area.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Pacifier Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 15</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; I &lt; WEAK <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 damage; I &lt; AVERAGE <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; I &lt; STRONG <a href="../../../Browse/condition/dazed/">dazed</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends) and <a href="../../../Browse/condition/prone/">prone</a></span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Screaming Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; P &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; P &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the start of the mortar&#39;s next turn, <a href="../../../Browse/rule/combat/strike/">strikes</a> made against the mortar or any ally <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them take a bane.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### High Elf Weatherwise {data-scc="mcdm.monsters.v1/retainer.statblock/high-elf-weatherwise"}
 
-| Fey, High Elf, Humanoid |         -         |     Level 1      |  Controller Retainer  |         EV -         |
-|:-----------------------:|:-----------------:|:----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **5**<br>Speed   | **21**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |        -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **-1**<br>Might     | **+1**<br>Agility | **+2**<br>Reason |  **0**<br>Intuition   |  **+1**<br>Presence  |
+<div class="sb-wrap" data-role="controller" data-creature="high-elf-weatherwise"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">High Elf Weatherwise</span><span class="sb__sticky-role" data-role="controller">Retainer Controller</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>-1</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>+2</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="controller"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Fey, High Elf, Humanoid</div><h2 class="sb__name">High Elf Weatherwise</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="controller">Retainer Controller</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">-1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+2</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Summer's Bolt</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 fire damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the weatherwise targets their mentor, the mentor ignores the damage and instead gains <a class="sb-term" href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> equal to the damage dealt.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Otherworldly Grace</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">At the start of each of their turns, the weatherwise can choose one effect on them that can be ended by a <a class="sb-term" href="../../../Browse/rule/general/saving-throw/">saving throw</a>. That effect instead ends at the end of their turn.</p></article></div></article></div>
 
-> 🏹 **Summer's Bolt (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 fire damage
-> - **12-16:** 5 fire damage
-> - **17+:** 7 fire damage
->
-> **Effect:** If the weatherwise targets their mentor, the mentor ignores the damage and instead gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt.
-
-> ⭐️ **Otherworldly Grace**
->
-> At the start of each of their turns, the weatherwise can choose one effect on them that can be ended by a [saving throw](../../Browse/rule/general/saving-throw.md). That effect instead ends at the end of their turn.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🔳 **Winter's Breath (Encounter)**
->
-> | **Area, Magic**        |               **Main action** |
-> |------------------------|------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 cold damage; [push](../../Browse/movement/forced-movement.md) 2
-> - **12-16:** 5 cold damage; [push](../../Browse/movement/forced-movement.md) 3
-> - **17+:** 8 cold damage; [push](../../Browse/movement/forced-movement.md) 5
->
-> **Effect:** The weatherwise can [teleport](../../Browse/movement/teleport.md) up to 5 squares before or after using this ability.
-
-**Level 7 Retainer Advancement Ability**
-
-> ❇️ **Spring's Rebirth (Encounter)**
->
-> | **Area, Magic** |              **Main action** |
-> |-----------------|-----------------------------:|
-> | **📏 3 burst**  | **🎯 Each ally in the area** |
->
-> **Effect:** Each target can spend a [Recovery](../../Browse/rule/health/recoveries.md), and can choose one effect on them that can be ended by a [saving throw](../../Browse/rule/general/saving-throw.md). That effect instead ends at the end of their turn.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🔳 **Autumn's Decay (Encounter)**
->
-> | **Area, Magic**        |               **Main action** |
-> |------------------------|------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 corruption damage; P < WEAK [prone](../../Browse/condition/prone.md) and can't stand ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 10 corruption damage; P < AVERAGE [prone](../../Browse/condition/prone.md) and can't stand ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 14 corruption damage; P < STRONG [prone](../../Browse/condition/prone.md) and can't stand ([save](../../Browse/rule/general/saving-throw.md) ends)
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Controller Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Winter&#39;s Breath</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 cold damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 cold damage; <a href="../../../Browse/movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 cold damage; <a href="../../../Browse/movement/forced-movement/">push</a> 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The weatherwise can <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares before or after using this ability.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Spring&#39;s Rebirth</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and can choose one effect on them that can be ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>. That effect instead ends at the end of their turn.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Autumn&#39;s Decay</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage; P &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage; P &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage; P &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Shadow Elf Shade {data-scc="mcdm.monsters.v1/retainer.statblock/shadow-elf-shade"}
 
-| Fey, Humanoid, Shadow Elf |           -           |      Level 4      |   Ambusher Retainer   |         EV -         |
-|:-------------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |    **5**<br>Speed     | **48**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|     **-**<br>Immunity     | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **+1**<br>Might      |   **+3**<br>Agility   |  **0**<br>Reason  |  **+2**<br>Intuition  |  **+1**<br>Presence  |
+<div class="sb-wrap" data-role="ambusher" data-creature="shadow-elf-shade"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Shadow Elf Shade</span><span class="sb__sticky-role" data-role="ambusher">Retainer Ambusher</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>48</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>5</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+1</b><i>M</i></span><span class="c"><b>+3</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="ambusher"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Fey, Humanoid, Shadow Elf</div><h2 class="sb__name">Shadow Elf Shade</h2></div><div class="sb__class"><div class="sb__level">Level 4</div><div class="sb__role" data-role="ambusher">Retainer Ambusher</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">48</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+3</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Gloom Dagger</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 3</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Whenever the shade starts their turn with concealment from the target, they gain 1 <a class="sb-term" href="../../../Browse/rule/resource/surge/">surge</a>.</p></div></div></article><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Duskfall</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">3 cube within 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Special</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the end of the next turn, the area is filled with darkness. The shade's mentor ignores concealment created by this darkness.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Of the Umbra</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The shade ignores concealment created by darkness. While the shade is in direct sunlight, they have <a class="sb-term" href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 3. While the shade has concealment, they have <a class="sb-term" href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> 3.</p></article></div></article></div>
 
-> ⚔️ **Gloom Dagger (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 3**        | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 10 damage
-> - **17+:** 13 damage
->
-> **Effect:** Whenever the shade starts their turn with concealment from the target, they gain 1 [surge](../../Browse/rule/resource/surge.md).
-
-> 🔳 **Duskfall (Encounter)**
->
-> | **Area, Magic**        |   **Maneuver** |
-> |------------------------|---------------:|
-> | **📏 3 cube within 1** | **🎯 Special** |
->
-> **Effect:** Until the end of the next turn, the area is filled with darkness. The shade's mentor ignores concealment created by this darkness.
-
-> ⭐️ **Of the Umbra**
->
-> The shade ignores concealment created by darkness. While the shade is in direct sunlight, they have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 3. While the shade has concealment, they have [damage immunity](../../Browse/rule/damage/damage-immunity.md) 3.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🏹 **Slow-Poison Needle (Encounter)**
->
-> | **Ranged, Strike, Weapon** |     **Main action** |
-> |----------------------------|--------------------:|
-> | **📏 Ranged 5**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 poison damage; [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 12 poison damage; [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 16 poison damage; [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target's next turn. If the shade is hidden, using this ability doesn't cause them to be revealed.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🗡 **Shadow Dagger (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 12 poison damage; the target has shadowed vision (save ends)
-> - **12-16:** 17 poison damage; the target has shadowed vision (save ends)
-> - **17+:** 23 poison damage; the target has shadowed vision (save ends)
->
-> **Effect:** While a creature has shadowed vision, all creatures have concealment from them.
+<div class="fb-wrap" data-role="ambusher">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Ambusher Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Slow-Poison Needle</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 poison damage; <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 poison damage; <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 poison damage; <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target&#39;s next turn. If the shade is hidden, using this ability doesn&#39;t cause them to be revealed.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Shadow Dagger</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 poison damage; the target has shadowed vision (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 poison damage; the target has shadowed vision (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 poison damage; the target has shadowed vision (save ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While a creature has shadowed vision, all creatures have concealment from them.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Wode Elf Arrowswift {data-scc="mcdm.monsters.v1/retainer.statblock/wode-elf-arrowswift"}
 
-| Fey, Humanoid, Wode Elf |         -         |      Level 1      |  Artillery Retainer   |         EV -         |
-|:-----------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|     **1M**<br>Size      |  **7**<br>Speed   | **21**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-|    **-**<br>Immunity    | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|     **0**<br>Might      | **+2**<br>Agility |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="artillery" data-creature="wode-elf-arrowswift"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Wode Elf Arrowswift</span><span class="sb__sticky-role" data-role="artillery">Retainer Artillery</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+0</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="artillery"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Fey, Humanoid, Wode Elf</div><h2 class="sb__name">Wode Elf Arrowswift</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="artillery">Retainer Artillery</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+0</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Longshot</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 15</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The arrowswift can take a bane on this ability to gain a +5 bonus to ranged distance.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Masking Glamor</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Abilities targeting the arrowswift that would take a bane from cover or concealment have a double bane instead.</p></article></div></article></div>
 
-> 🏹 **Longshot (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 10 damage
->
-> **Effect:** The arrowswift can take a bane on this ability to gain a +5 bonus to ranged distance.
-
-> ⭐️ **Masking Glamor**
->
-> Abilities targeting the arrowswift that would take a bane from cover or concealment have a double bane instead.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🏹 **Snipe (Encounter)**
->
-> | **Ranged, Strike, Weapon** |     **Main action** |
-> |----------------------------|--------------------:|
-> | **📏 Ranged 15**           | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 16 damage
->
-> **Effect:** If the arrowswift is hidden when they use this ability, they gain 2 [surges](../../Browse/rule/resource/surge.md) that can be used immediately.
-
-**Level 7 Retainer Advancement Ability**
-
-> 👤 **Magic Arrows (Encounter)**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** Until the end of the encounter, whenever the arrowswift makes a ranged [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) gains an edge and the arrowswift gains 1 [surge](../../Browse/rule/resource/surge.md) that must be used immediately. While the arrowswift's mentor is [adjacent](../../Browse/rule/combat/adjacent.md) to them, the mentor also gains this benefit.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🏹 **Double Shot (Encounter)**
->
-> | **Ranged, Strike, Weapon** |                 **Main action** |
-> |----------------------------|--------------------------------:|
-> | **📏 Ranged 15**           | **🎯 Two creatures or objects** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 12 damage
-> - **12-16:** 17 damage
-> - **17+:** 23 damage
+<div class="fb-wrap" data-role="artillery">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Artillery Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Snipe</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 15</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the arrowswift is hidden when they use this ability, they gain 2 <a href="../../../Browse/rule/resource/surge/">surges</a> that can be used immediately.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Magic Arrows</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the end of the encounter, whenever the arrowswift makes a ranged <a href="../../../Browse/rule/combat/strike/">strike</a>, the <a href="../../../Browse/rule/combat/strike/">strike</a> gains an edge and the arrowswift gains 1 <a href="../../../Browse/rule/resource/surge/">surge</a> that must be used immediately. While the arrowswift&#39;s mentor is <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them, the mentor also gains this benefit.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Double Shot</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 15</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 damage</span></div></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Gnoll Gnasher {data-scc="mcdm.monsters.v1/retainer.statblock/gnoll-gnasher"}
 
-|  Abyssal, Gnoll   |         -         |      Level 2      |   Harrier Retainer    |        EV 60         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **7**<br>Speed   | **30**<br>Stamina |  **1**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+1**<br>Might  | **+2**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
+<div class="sb-wrap" data-role="harrier" data-creature="gnoll-gnasher"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Gnoll Gnasher</span><span class="sb__sticky-role" data-role="harrier">Retainer Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>30</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>3</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+1</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Abyssal, Gnoll</div><h2 class="sb__name">Gnoll Gnasher</h2></div><div class="sb__class"><div class="sb__level">Level 2</div><div class="sb__role" data-role="harrier">Retainer Harrier</div><div class="sb__ev">EV 60</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">30</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Gnash</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; M &lt; STRONG <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> (<a class="sb-term" href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Death Frenzy</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever a non-<a class="sb-term" href="../../../Browse/rule/organization/minion/">minion</a> ally within 7 squares of the gnasher is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>, the gnasher moves up to their speed and can make a melee <a class="sb-term" href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>.</p></article></div></article></div>
 
-> 🗡 **Gnash  (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 10 damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-> ⭐️ **Death Frenzy**
->
-> Whenever a non-[minion](../../Browse/rule/organization/minion.md) ally within 7 squares of the gnasher is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the gnasher moves up to their speed and can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
-
-**Level 4 Retainer Advancement Ability**
-
-> ❗️ **Frenzied Bite (Encounter)**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** An enemy within 5 squares is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Effect:** The gnasher moves up to their speed and can use their [signature ability](../../Browse/rule/combat/signature-ability.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Flurry of Fangs (Encounter)**
->
-> | **Melee, Strike, Weapon** |                   **Main action** |
-> |---------------------------|----------------------------------:|
-> | **📏 Melee 1**            | **🎯 Three creatures or objects** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 16 damage
-
-**Level 10 Retainer Advancement Ability**
-
-> 👤 **Horrific Feas (Encounter)**
->
-> | **-**       | **Main action** |
-> |-------------|----------------:|
-> | **📏 Self** |     **🎯 Self** |
->
-> **Trigger:** The gnasher reduces a creature to 0 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Effect:** The gnasher consumes part of the target's body. The gnasher can spend a [Recovery](../../Browse/rule/health/recoveries.md), and each enemy within 5 squares of the gnasher who has I < AVERAGE is [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends).
+<div class="fb-wrap" data-role="harrier">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Harrier Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">Frenzied Bite</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>An enemy within 5 squares is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gnasher moves up to their speed and can use their <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Flurry of Fangs</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage</span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Horrific Feas</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The gnasher reduces a creature to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gnasher consumes part of the target&#39;s body. The gnasher can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and each enemy within 5 squares of the gnasher who has I &lt; AVERAGE is <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Goblin Guide {data-scc="mcdm.monsters.v1/retainer.statblock/goblin-guide"}
 
-| Goblin, Humanoid  |           -           |      Level 1      |   Harrier Retainer    |         EV -         |
-|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1S**<br>Size   |    **5**<br>Speed     | **21**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-| **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **-1**<br>Might  |   **+1**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
+<div class="sb-wrap" data-role="harrier" data-creature="goblin-guide"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Goblin Guide</span><span class="sb__sticky-role" data-role="harrier">Retainer Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>-1</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Goblin, Humanoid</div><h2 class="sb__name">Goblin Guide</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="harrier">Retainer Harrier</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">-1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Stabbity Stab</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target can't make opportunity attacks until the end of the guide's turn.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Crafty</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The guide doesn't provoke opportunity attacks by moving.</p></article></div></article></div>
 
-> 🗡 **Stabbity Stab (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** The target can't make opportunity attacks until the end of the guide's turn.
-
-> ⭐️ **Crafty**
->
-> The guide doesn't provoke opportunity attacks by moving.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🗡 **Weaving Knives (Encounter)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage
->
-> **Effect:** The guide [shifts](../../Browse/movement/shifting.md) up to their speed before and after the [strike](../../Browse/rule/combat/strike.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Sneak and Stab (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 damage
-> - **12-16:** 12 damage; the guide and their mentor can each move up to their speed
-> - **17+:** 16 damage; the guide and their mentor can each move up to their speed, then attempt to [hide](../../Browse/feature/common/maneuvers/hide.md)
->
-> **Effect:** If the guide is hidden from the target, this ability has a double edge.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🌀 **Poison Blade (Encounter)**
->
-> | **-**          | **Main action** |
-> |----------------|----------------:|
-> | **📏 Special** |  **🎯 Special** |
->
-> **Effect:** The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) deals an extra 10 poison damage, and if the target has M < AVERAGE, they are [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends). If the guide is [adjacent](../../Browse/rule/combat/adjacent.md) to their mentor when they use Poison Blade, they apply poison to the mentor's weapon in the same way.
+<div class="fb-wrap" data-role="harrier">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Harrier Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Weaving Knives</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The guide <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed before and after the <a href="../../../Browse/rule/combat/strike/">strike</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Sneak and Stab</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 damage; the guide and their mentor can each move up to their speed</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; the guide and their mentor can each move up to their speed, then attempt to <a href="../../../Browse/feature/common/maneuvers/hide/">hide</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the guide is hidden from the target, this ability has a double edge.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🌀</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Poison Blade</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The guide applies poison to their weapon. The next time the guide obtains a tier 2 or tier 3 outcome on a weapon <a href="../../../Browse/rule/combat/strike/">strike</a>, the <a href="../../../Browse/rule/combat/strike/">strike</a> deals an extra 10 poison damage, and if the target has M &lt; AVERAGE, they are <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends). If the guide is <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to their mentor when they use Poison Blade, they apply poison to the mentor&#39;s weapon in the same way.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Hobgoblin Flameslinger {data-scc="mcdm.monsters.v1/retainer.statblock/hobgoblin-flameslinger"}
 
-| Goblin, Hobgoblin, Humanoid, Infernal |         -          |      Level 4      |  Controller Retainer  |         EV -         |
-|:-------------------------------------:|:------------------:|:-----------------:|:---------------------:|:--------------------:|
-|            **1M**<br>Size             |   **5**<br>Speed   | **48**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|            **1M**<br>Size             |   **5**<br>Speed   | **48**<br>Stamina |  **0**<br>Stability   | **5**<br>Free Strike |
-|        **Fire 4**<br>Immunity         | **- **<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **+1**<br>Might            |  **0**<br>Agility  | **+2**<br>Reason  |  **+1**<br>Intuition  |  **+3**<br>Presence  |
+<div class="sb-wrap" data-role="controller" data-creature="hobgoblin-flameslinger"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Hobgoblin Flameslinger</span><span class="sb__sticky-role" data-role="controller">Retainer Controller</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>48</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>5</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+1</b><i>M</i></span><span class="c"><b>+0</b><i>A</i></span><span class="c"><b>+2</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+3</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Fire 4</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="controller"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Goblin, Hobgoblin, Humanoid, Infernal</div><h2 class="sb__name">Hobgoblin Flameslinger</h2></div><div class="sb__class"><div class="sb__level">Level 4</div><div class="sb__role" data-role="controller">Retainer Controller</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">48</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Fire 4</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+1</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+0</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+2</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+3</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Fire Curse</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 fire damage; A &lt; STRONG the target is burning (save ends)</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.</p></div></div></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Fuel for the Fire</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Infernal Ichor</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">When the flameslinger is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>, they spray buring blood. Each creature <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the flameslinger takes 3 fire damage.</p></article></div></article></div>
 
-> 🏹 **Fire Curse (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 fire damage
-> - **12-16:** 9 fire damage
-> - **17+:** 12 fire damage; A < STRONG the target is burning (save ends)
->
-> **Effect:** A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round.
-
-> 🏹 **Fuel for the Fire**
->
-> | **Magic, Ranged** |     **Main action** |
-> |-------------------|--------------------:|
-> | **📏 Ranged 10**  | **🎯 One creature** |
->
-> **Effect:** Until the end of the flameslinger's next turn, the target has fire weakness equal to the flameslinger's level. If the target is the flameslinger's mentor, they instead have fire immunity equal to the flameslinger's level.
-
-> ⭐️ **Infernal Ichor**
->
-> When the flameslinger is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they spray buring blood. Each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the flameslinger takes 3 fire damage.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🔳 **Unholy Attraction (Encounter)**
->
-> | **Area, Magic, Ranged** |               **Main action** |
-> |-------------------------|------------------------------:|
-> | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 damage; pull 1
-> - **12-16:** 12 damage; pull 2
-> - **17+:** 16 damage, pull 4
->
-> **Effect:** A target who is pulled [adjacent](../../Browse/rule/combat/adjacent.md) to the flameslinger and who has P < AVERAGE is knocked [prone](../../Browse/condition/prone.md).
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Fire Spiral (Encounter)**
->
-> | **Area, Magic** |               **Main action** |
-> |-----------------|------------------------------:|
-> | **📏 3 burst**  | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 damage; [push](../../Browse/movement/forced-movement.md) 2
-> - **12-16:** 12 damage; [push](../../Browse/movement/forced-movement.md) 3
-> - **17+:** 16 damage; [push](../../Browse/movement/forced-movement.md) 5
->
-> **Effect:** If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.
+<div class="fb-wrap" data-role="controller">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Controller Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Unholy Attraction</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 damage; pull 2</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage, pull 4</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A target who is pulled <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the flameslinger and who has P &lt; AVERAGE is knocked <a href="../../../Browse/condition/prone/">prone</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Fire Spiral</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 2</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 5</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the flameslinger&#39;s mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Human Warrior {data-scc="mcdm.monsters.v1/retainer.statblock/human-warrior"}
 
-|  Human, Humanoid  |         -         |      Level 1      |   Defender Retainer   |         EV -         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **21**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **0**<br>Agility  |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
+<div class="sb-wrap" data-role="defender" data-creature="human-warrior"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Human Warrior</span><span class="sb__sticky-role" data-role="defender">Retainer Defender</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+0</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="defender"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Human, Humanoid</div><h2 class="sb__name">Human Warrior</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="defender">Retainer Defender</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+0</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Chop</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the warrior is <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> to their mentor, this ability gains an edge.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Supernatural Insight</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The warrior ignores concealment if it's granted by a supernatural effect.</p></article></div></article></div>
 
-> 🗡 **Chop  (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
->
-> **Effect:** If the warrior is [adjacent](../../Browse/rule/combat/adjacent.md) to their mentor, this ability gains an edge.
-
-> ⭐️ **Supernatural Insight**
->
-> The warrior ignores concealment if it's granted by a supernatural effect.
-
-**Level 4 Retainer Advancement Ability**
-
-> ❗️ **'Scuse Me, Boss (Encounter)**
->
-> | **Melee**      |          **Triggered action** |
-> |----------------|------------------------------:|
-> | **📏 Melee 1** |   **🎯 The warrior's mentor** |
->
-> **Trigger:** The warrior's mentor is targeted by a strike while within distance.
->
-> **Effect:** The warrior and the mentor switch places. The warrior is the strike's new target and the strike has a double bane.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Defensive Fighting (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 damage
-> - **12-16:** 11 damage
-> - **17+:** 16 damage
->
-> **Effect:** Until the start of the warrior's next turn, ability rolls against the warrior or any ally [adjacent](../../Browse/rule/combat/adjacent.md) to the warrior have a double bane.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Whirlwind of Steel (Encounter)**
->
-> | **Area, Charge, Weapon** |               **Main action** |
-> |--------------------------|------------------------------:|
-> | **📏 1 burst**           | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 12 damage
-> - **12-16:** 18 damage
-> - **17+:** 24 damage
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Defender Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">&#39;Scuse Me, Boss</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The warrior&#39;s mentor</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The warrior&#39;s mentor is targeted by a strike while within distance.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The warrior and the mentor switch places. The warrior is the strike&#39;s new target and the strike has a double bane.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Defensive Fighting</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the start of the warrior&#39;s next turn, ability rolls against the warrior or any ally <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the warrior have a double bane.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Whirlwind of Steel</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 damage</span></div></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Kobold Shieldbearer {data-scc="mcdm.monsters.v1/retainer.statblock/kobold-shieldbearer"}
 
-| Humanoid, Kobold  |         -         |      Level 1       |   Defender Retainer   |         EV -         |
-|:-----------------:|:-----------------:|:------------------:|:---------------------:|:--------------------:|
-|   **2**<br>Size   |  **5**<br>Speed   | **21**<br>Stamina  |  **4**<br>Stability   | **6**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+1**<br>Agility |  **0**<br>Reason   |  **0**<br>Intuition   |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="defender" data-creature="kobold-shieldbearer"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Kobold Shieldbearer</span><span class="sb__sticky-role" data-role="defender">Retainer Defender</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>4</b>Stability</span><span class="m"><b>6</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="defender"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Humanoid, Kobold</div><h2 class="sb__name">Kobold Shieldbearer</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="defender">Retainer Defender</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Gladius</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; <a class="sb-term" href="../../../Browse/condition/taunted/">taunted</a> (EoT)</span></div></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Shield, Boss?</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">While the shieldbearer is <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> to their mentor, both have a +1 bonus to <a class="sb-term" href="../../../Browse/rule/character/stability/">stability</a>, have <a class="sb-term" href="../../../Browse/rule/combat/cover/">cover</a>, and grant <a class="sb-term" href="../../../Browse/rule/combat/cover/">cover</a> to allies.</p></article></div></article></div>
 
-> 🗡 **Gladius (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage; [taunted](../../Browse/condition/taunted.md) (EoT)
-
-> ⭐️ **Shield, Boss?**
->
-> While the shieldbearer is [adjacent](../../Browse/rule/combat/adjacent.md) to their mentor, both have a +1 bonus to [stability](../../Browse/rule/character/stability.md), have [cover](../../Browse/rule/combat/cover.md), and grant [cover](../../Browse/rule/combat/cover.md) to allies.
-
-**Level 4 Retainer Advancement Ability**
-
-> ❗️ **Shield Block (Encounter)**
->
-> | **Ranged**      |             **Triggered action** |
-> |-----------------|---------------------------------:|
-> | **📏 Ranged 5** | **🎯 The shieldbearer's mentor** |
->
-> **Trigger:** The mentor takes damage from a strike while within distance.
->
-> **Effect:** The shieldbearer blocks the [strike](../../Browse/rule/combat/strike.md) (if [adjacent](../../Browse/rule/combat/adjacent.md) to the mentor) or throws their shield into the mentor's space. The triggering [strike](../../Browse/rule/combat/strike.md)'s damage is halved and the [potency](../../Browse/rule/character/potency.md) of any [potency](../../Browse/rule/character/potency.md) effects is reduced by 1. If the shieldbearer threw their shield, it bounces back to their hand.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Living Backpack**
->
-> | **Melee**      |                  **Main action** |
-> |----------------|---------------------------------:|
-> | **📏 Melee 1** | **🎯 The shieldbearer's mentor** |
->
-> **Effect:** The shieldbearer straps their shield on their back and climbs onto their mentor's back, entering the mentor's space. While the shieldbearer is on their mentor's back, each of them gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and can use Shield Block as a triggered action targeting an ally instead of the shieldbearer's mentor. Additionally, the shieldbearer moves with the mentor, and they can't use main actions, maneuvers, or move actions except to end this effect as a maneuver. The effect also ends if the shieldbearer is [force moved](../../Browse/movement/forced-movement.md) away from their mentor or knocked [prone](../../Browse/condition/prone.md). If the shieldbearer is still in their mentor's space when the effect ends, they move into an [adjacent](../../Browse/rule/combat/adjacent.md) unoccupied space of their choice.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🗡 **Let's Go Sledding (Encounter)**
->
-> | **Charge, Melee, Strike, Weapon** |      **Main action** |
-> |-----------------------------------|---------------------:|
-> | **📏 Melee 1**                    | **🎯 Three enemies** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage; M < WEAK [prone](../../Browse/condition/prone.md)
-> - **12-16:** 10 damage; M < AVERAGE [prone](../../Browse/condition/prone.md)
-> - **17+:** 14 damage; M < STRONG [prone](../../Browse/condition/prone.md)
->
-> **Effect:** If this ability is used as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, the shieldbearer gains 2 [surges](../../Browse/rule/resource/surge.md) that can be used immediately.
+<div class="fb-wrap" data-role="defender">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Defender Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">Shield Block</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The shieldbearer&#39;s mentor</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The mentor takes damage from a strike while within distance.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The shieldbearer blocks the <a href="../../../Browse/rule/combat/strike/">strike</a> (if <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the mentor) or throws their shield into the mentor&#39;s space. The triggering <a href="../../../Browse/rule/combat/strike/">strike</a>&#39;s damage is halved and the <a href="../../../Browse/rule/character/potency/">potency</a> of any <a href="../../../Browse/rule/character/potency/">potency</a> effects is reduced by 1. If the shieldbearer threw their shield, it bounces back to their hand.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Living Backpack</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The shieldbearer&#39;s mentor</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The shieldbearer straps their shield on their back and climbs onto their mentor&#39;s back, entering the mentor&#39;s space. While the shieldbearer is on their mentor&#39;s back, each of them gains 10 <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> and can use Shield Block as a triggered action targeting an ally instead of the shieldbearer&#39;s mentor. Additionally, the shieldbearer moves with the mentor, and they can&#39;t use main actions, maneuvers, or move actions except to end this effect as a maneuver. The effect also ends if the shieldbearer is <a href="../../../Browse/movement/forced-movement/">force moved</a> away from their mentor or knocked <a href="../../../Browse/condition/prone/">prone</a>. If the shieldbearer is still in their mentor&#39;s space when the effect ends, they move into an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> unoccupied space of their choice.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Let&#39;s Go Sledding</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; M &lt; WEAK <a href="../../../Browse/condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; M &lt; AVERAGE <a href="../../../Browse/condition/prone/">prone</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 damage; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If this ability is used as part of the <a href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action, the shieldbearer gains 2 <a href="../../../Browse/rule/resource/surge/">surges</a> that can be used immediately.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Minotaur Gorer {data-scc="mcdm.monsters.v1/retainer.statblock/minotaur-gorer"}
 
-| Accursed, Humanoid, Minotaur |         -         |      Level 3      |    Brute Retainer     |         EV -         |
-|:----------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|        **2**<br>Size         |  **6**<br>Speed   | **39**<br>Stamina |  **2**<br>Stability   | **6**<br>Free Strike |
-|      **-**<br>Immunity       | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|       **+2**<br>Might        | **+1**<br>Agility |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="brute" data-creature="minotaur-gorer"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Minotaur Gorer</span><span class="sb__sticky-role" data-role="brute">Retainer Brute</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>39</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>6</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="brute"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Accursed, Humanoid, Minotaur</div><h2 class="sb__name">Minotaur Gorer</h2></div><div class="sb__class"><div class="sb__level">Level 3</div><div class="sb__role" data-role="brute">Retainer Brute</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">39</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Gore</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG <a class="sb-term" href="../../../Browse/condition/prone/">prone</a></span></div></div></div></article><article class="sc-ability sb__feat" data-action="triggered" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">)</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">)</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="sb__feat-name sc-ability__name">Retaliatory Strike</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Triggered action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 6</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">The triggering creature</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature within distance deals damage to the gorer.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gorer uses the <a class="sb-term" href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action and Gore against the target.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Minotaur Sense</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The gorer can't obtain less than a tier 2 outcome when making tests to navigate, search, or seek.</p></article></div></article></div>
 
-> 🗡 **Gore (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 9 damage
-> - **17+:** 12 damage; M < STRONG [prone](../../Browse/condition/prone.md)
-
-> ❗️ **Retaliatory Strike**
->
-> | **Ranged**      |           **Triggered action** |
-> |-----------------|-------------------------------:|
-> | **📏 Ranged 6** | **🎯 The triggering creature** |
->
-> **Trigger:** A creature within distance deals damage to the gorer.
->
-> **Effect:** The gorer uses the [Charge](../../Browse/feature/common/main-actions/charge.md) main action and Gore against the target.
-
-> ⭐️ **Minotaur Sense**
->
-> The gorer can't obtain less than a tier 2 outcome when making tests to navigate, search, or seek.
-
-**Level 4 Retainer Advancement Ability**
-
-> ❗️ **Horn Toss**
->
-> | **Melee**      |      **Free triggered action** |
-> |----------------|-------------------------------:|
-> | **📏 Melee 1** | **🎯 The triggering creature** |
->
-> **Trigger:** The gorer damages a creature within distance using Gore.
->
-> **Effect:** The target is pushed up to 3 squares. If the target has [stability](../../Browse/rule/character/stability.md) 0, they are also knocked [prone](../../Browse/condition/prone.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 👤 **Triumphant Bay (Encounter)**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** The gorer gains 3 [surges](../../Browse/rule/resource/surge.md), and until the start of the gorer's next turn, [strikes](../../Browse/rule/combat/strike.md) made against them and their mentor take a bane.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Horn Rake (Encounter)**
->
-> | **Area, Weapon** |               **Main action** |
-> |------------------|------------------------------:|
-> | **📏 1 burst**   | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 11 damage; M < WEAK [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 16 damage; M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 21 damage; M < STRONG [prone](../../Browse/condition/prone.md) and can't stand ([save](../../Browse/rule/general/saving-throw.md) ends).
+<div class="fb-wrap" data-role="brute">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Brute Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Horn Toss</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The gorer damages a creature within distance using Gore.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target is pushed up to 3 squares. If the target has <a href="../../../Browse/rule/character/stability/">stability</a> 0, they are also knocked <a href="../../../Browse/condition/prone/">prone</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Triumphant Bay</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The gorer gains 3 <a href="../../../Browse/rule/resource/surge/">surges</a>, and until the start of the gorer&#39;s next turn, <a href="../../../Browse/rule/combat/strike/">strikes</a> made against them and their mentor take a bane.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Horn Rake</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 damage; M &lt; WEAK <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 damage; M &lt; AVERAGE <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 damage; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends).</span></div></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Orc Charger {data-scc="mcdm.monsters.v1/retainer.statblock/orc-charger"}
 
-|   Humanoid, Orc   |         -         |      Level 1      |   Harrier Retainer    |         EV -         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **8**<br>Speed   | **21**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **+2**<br>Agility |  **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="harrier" data-creature="orc-charger"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Orc Charger</span><span class="sb__sticky-role" data-role="harrier">Retainer Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>8</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>3</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Humanoid, Orc</div><h2 class="sb__name">Orc Charger</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="harrier">Retainer Harrier</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">8</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Notched Axe</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Relentless</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">If the charger is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>, they can make a <a class="sb-term" href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> before dying. If the target of the <a class="sb-term" href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>, the charger is reduced to 1 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> instead.</p></article></div></article></div>
 
-> ⚔️ **Notched Axe (Signature Ability)**
->
-> | **Charge, Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |-------------------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 5**                | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
-
-> ⭐️ **Relentless**
->
-> If the charger is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) before dying. If the target of the [free strike](../../Browse/feature/common/main-actions/free-strike.md) is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the charger is reduced to 1 [Stamina](../../Browse/rule/health/stamina.md) instead.
-
-**Level 4 Retainer Advancement Ability**
-
-> 👤 **Blood Oath (Encounter)**
->
-> | **Self**    | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** Until the start of the charger's next turn, the charger and their mentor each have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to their Recovery value and a +2 bonus to speed, and they each gain an edge on reactive tests.
-
-**Level 7 Retainer Advancement Ability**
-
-> 👤 **Mow 'Em Down (Encounter)**
->
-> | **-**                  | **Main action** |
-> |------------------------|----------------:|
-> | **📏 Self; See below** |     **🎯 Self** |
->
-> **Effect:** The charger moves in a straight line up to their speed. During this move, they ignore enemy [free strikes](../../Browse/feature/common/main-actions/free-strike.md), and they can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature they move [adjacent](../../Browse/rule/combat/adjacent.md) to.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Vein Burst (Encounter)**
->
-> | **Area, Psionic** |               **Main action** |
-> |-------------------|------------------------------:|
-> | **📏 2 burst**    | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 12 psychic damage
-> - **12-16:** 18 psychic damage
-> - **17+:** 24 psychic damage
->
-> **Effect:** The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way.
+<div class="fb-wrap" data-role="harrier">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Harrier Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Blood Oath</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Self</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the start of the charger&#39;s next turn, the charger and their mentor each have <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> equal to their Recovery value and a +2 bonus to speed, and they each gain an edge on reactive tests.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Mow &#39;Em Down</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; See below</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The charger moves in a straight line up to their speed. During this move, they ignore enemy <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a>, and they can make a melee <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against any creature they move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Vein Burst</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 psychic damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 psychic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 psychic damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The charger takes psychic damage equal to the number of enemies affected. This damage can&#39;t be reducetd in any way.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Radenwight Sidekick {data-scc="mcdm.monsters.v1/retainer.statblock/radenwight-sidekick"}
 
-| Humanoid, Radenwight |           -           |      Level 1      |   Support Retainer    |         EV -         |
-|:--------------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|    **1S**<br>Size    |    **5**<br>Speed     | **21**<br>Stamina |  **0**<br>Stability   | **2**<br>Free Strike |
-|  **-**<br>Immunity   | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|    **0**<br>Might    |   **+2**<br>Agility   |  **0**<br>Reason  |  **+1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="support" data-creature="radenwight-sidekick"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Radenwight Sidekick</span><span class="sb__sticky-role" data-role="support">Retainer Support</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+0</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="support"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Humanoid, Radenwight</div><h2 class="sb__name">Radenwight Sidekick</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="support">Retainer Support</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+0</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Dagger's Bite</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div></div></div></article><article class="sc-ability sb__feat" data-action="triggered" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">)</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">)</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="sb__feat-name sc-ability__name">Ready Rodent</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Triggered action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>An ally deals damage to the target.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The sidekick makes a <a class="sb-term" href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against the target.</p></div></div></article></div></article></div>
 
-> ⚔️ **Dagger's Bite (Signature Ability)**
->
-> | **Melee, Ranged, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 damage
-> - **12-16:** 5 damage
-> - **17+:** 7 damage
-
-> ❗️ **Ready Rodent**
->
-> | **Melee, Weapon** | **Triggered action** |
-> |-------------------|---------------------:|
-> | **📏 Melee 1**    |  **🎯 One creature** |
->
-> **Trigger:** An ally deals damage to the target.
->
-> **Effect:** The sidekick makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target.
-
-**Level 4 Retainer Advancement Ability**
-
-> 👤 **Boost**
->
-> | **-**       | **Maneuver** |
-> |-------------|-------------:|
-> | **📏 Self** |  **🎯 Self** |
->
-> **Effect:** If the sidekick's mentor moves [adjacent](../../Browse/rule/combat/adjacent.md) to the sidekick at any point during the mentor's turn, the mentor gains a +1 bonus to speed and can automatically climb at full speed while moving until the end of their turn.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🔳 **Bug Bag (Encounter)**
->
-> | **Area, Ranged**       |                  **Main action** |
-> |------------------------|---------------------------------:|
-> | **📏 3 cube within 3** | **🎯 Each creature in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 poison damage; M < WEAK [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 9 poison damage; M < AVERAGE [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 13 poison damage; M < STRONG [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-**Level 10 Retainer Advancement Ability**
-
-> 🏹 **Triumphant Squeak (Encounter)**
->
-> | **Ranged** | **Maneuver** |
-> | --- | ---:|
-> | **📏 Ranged 10** | **🎯 Self and each ally** |
->
-> **Effect:** Each target can spend a [Recovery](../../Browse/rule/health/recoveries.md), and ends the [dazed](../../Browse/condition/dazed.md), [frightened](../../Browse/condition/frightened.md), and [weakened](../../Browse/condition/weakened.md) conditions on themself.
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Support Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">👤</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Boost</h3></div><div class="fb__feat-corner"></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the sidekick&#39;s mentor moves <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the sidekick at any point during the mentor&#39;s turn, the mentor gains a +1 bonus to speed and can automatically climb at full speed while moving until the end of their turn.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Bug Bag</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 3</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 poison damage; M &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 poison damage; M &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 poison damage; M &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Triumphant Squeak</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and ends the <a href="../../../Browse/condition/dazed/">dazed</a>, <a href="../../../Browse/condition/frightened/">frightened</a>, and <a href="../../../Browse/condition/weakened/">weakened</a> conditions on themself.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Time Raider Mind Healer {data-scc="mcdm.monsters.v1/retainer.statblock/time-raider-mind-healer"}
 
-|   Humanoid, Time Raider   |         -         |      Level 3      |   Support Retainer    |         EV -         |
-|:-------------------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|      **1M**<br>Size       |  **5**<br>Speed   | **39**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-| **Psychic 5**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|      **0**<br>Might       | **+2**<br>Agility | **+2**<br>Reason  |  **+2**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="support" data-creature="time-raider-mind-healer"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Time Raider Mind Healer</span><span class="sb__sticky-role" data-role="support">Retainer Support</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>39</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>4</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+0</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+2</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Psychic 5</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="support"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Humanoid, Time Raider</div><h2 class="sb__name">Time Raider Mind Healer</h2></div><div class="sb__class"><div class="sb__level">Level 3</div><div class="sb__role" data-role="support">Retainer Support</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">39</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Psychic 5</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+0</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+2</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Laser Lancet</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 3</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the mind healer targets an ally, the ability deals no damage. Additionally, the target can end one effect on them that can be ended by a <a class="sb-term" href="../../../Browse/rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn.</p></div></div><p class="sb__feat-trailing"><b>2d10 + highest characteristic:</b></p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Foresight</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The mind healer doesn't take a bane on strikes against creatures with concealment.</p></article></div></article></div>
 
-> 🏹 **Laser Lancet (Signature Ability)**
->
-> | **Ranged, Strike, Weapon** |               **Main action** |
-> |----------------------------|------------------------------:|
-> | **📏 Ranged 3**            | **🎯 One creature or object** |
->
-> **2d10 + highest characteristic:**
->
-> - **≤11:** 5 fire damage
-> - **12-16:** 8 fire damage
-> - **17+:** 11 fire damage
->
-> **Effect:** If the mind healer targets an ally, the ability deals no damage. Additionally, the target can end one effect on them that can be ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn.
-
-> ⭐️ **Foresight**
->
-> The mind healer doesn't take a bane on strikes against creatures with concealment.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🏹 **Stim Charge (Encounter)**
->
-> | **Ranged**      |     **Main action** |
-> |-----------------|--------------------:|
-> | **📏 Ranged 3** | **🎯 One creature** |
->
-> **Effect:** The target can spend 1 [Recovery](../../Browse/rule/health/recoveries.md), and has their speed doubled until the end of their next turn.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🏹 **Mind Whelm (Encounter)**
->
-> | **Psionic, Ranged, Strike** |     **Main action** |
-> |-----------------------------|--------------------:|
-> | **📏 Ranged 3**             | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 psychic damage; R < WEAK [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 13 psychic damage; R < AVERAGE [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 17 psychic damage; R < STRONG [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-**Level 10 Retainer Advancement Ability**
-
-> ❇️ **Psychic Short Circuit (Encounter)**
->
-> | **Area, Psionic** |               **Main action** |
-> |-------------------|------------------------------:|
-> | **📏 2 burst**    | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 11 psychic damage
-> - **12-16:** 16 psychic damage
-> - **17+:** 21 psychic damage
->
-> **Effect:** If the mind healer is [dazed](../../Browse/condition/dazed.md), [frightened](../../Browse/condition/frightened.md), or [taunted](../../Browse/condition/taunted.md), they can end one of those conditions and impose the same condition on one enemy in the area. Additionally, they can do the same for their mentor if the mentor is in the area and is [dazed](../../Browse/condition/dazed.md), [frightened](../../Browse/condition/frightened.md), or [taunted](../../Browse/condition/taunted.md).
+<div class="fb-wrap" data-role="support">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Support Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Stim Charge</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 3</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target can spend 1 <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and has their speed doubled until the end of their next turn.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Mind Whelm</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 3</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 psychic damage; R &lt; WEAK <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 psychic damage; R &lt; AVERAGE <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 psychic damage; R &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">❇️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Psychic Short Circuit</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 psychic damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 psychic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 psychic damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the mind healer is <a href="../../../Browse/condition/dazed/">dazed</a>, <a href="../../../Browse/condition/frightened/">frightened</a>, or <a href="../../../Browse/condition/taunted/">taunted</a>, they can end one of those conditions and impose the same condition on one enemy in the area. Additionally, they can do the same for their mentor if the mentor is in the area and is <a href="../../../Browse/condition/dazed/">dazed</a>, <a href="../../../Browse/condition/frightened/">frightened</a>, or <a href="../../../Browse/condition/taunted/">taunted</a>.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Troll Mercenary {data-scc="mcdm.monsters.v1/retainer.statblock/troll-mercenary"}
 
-|   Giant, Troll    |         -          |      Level 5      |    Brute Retainer     |              EV -               |
-|:-----------------:|:------------------:|:-----------------:|:---------------------:|:-------------------------------:|
-|   **2**<br>Size   |   **6**<br>Speed   | **57**<br>Stamina |  **4**<br>Stability   |      **6**<br>Free Strike       |
-| **-**<br>Immunity | **- **<br>Movement |         -         | **-**<br>With Captain |  **Acid 5, fire **<br>Weakness  |
-|  **+3**<br>Might  | **+1**<br>Agility  | **-1**<br>Reason  |  **0**<br>Intuition   |       **+1**<br>Presence        |
+<div class="sb-wrap" data-role="brute" data-creature="troll-mercenary"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Troll Mercenary</span><span class="sb__sticky-role" data-role="brute">Retainer Brute</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>57</b>Stamina</span><span class="m"><b>4</b>Stability</span><span class="m"><b>6</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+3</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>Acid 5, fire</span></div></div><article class="sb md-typeset" data-role="brute"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Giant, Troll</div><h2 class="sb__name">Troll Mercenary</h2></div><div class="sb__class"><div class="sb__level">Level 5</div><div class="sb__role" data-role="brute">Retainer Brute</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">57</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">Acid 5, fire</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+3</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Big Bite</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 damage</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mercenary regains <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> equal to half the damage dealt.</p></div></div></article><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Troll Roar</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">3 burst</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each enemy in the area</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK <a class="sb-term" href="../../../Browse/condition/frightened/">frightened</a> (<a class="sb-term" href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; AVERAGE <a class="sb-term" href="../../../Browse/condition/frightened/">frightened</a> (<a class="sb-term" href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG <a class="sb-term" href="../../../Browse/condition/frightened/">frightened</a> (<a class="sb-term" href="../../../Browse/rule/general/saving-throw/">save</a> ends), push 3, <a class="sb-term" href="../../../Browse/condition/prone/">prone</a></span></div></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Relentless Hunger</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The mercenary dies only if they are reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> by acid or fire damage, if they end their turn with 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>, or if they take acid or fire damage while at 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a>.</p></article></div></article></div>
 
-> 🗡 **Big Bite (Signature Ability)**
->
-> | **Charge, Melee, Strike, Weapon** |               **Main action** |
-> |-----------------------------------|------------------------------:|
-> | **📏 Melee 1**                    | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 damage
-> - **12-16:** 11 damage
-> - **17+:** 14 damage
->
-> **Effect:** The mercenary regains [Stamina](../../Browse/rule/health/stamina.md) equal to half the damage dealt.
-
-> ❇️ **Troll Roar (Encounter)**
->
-> | **Area**       |                  **Maneuver** |
-> |----------------|------------------------------:|
-> | **📏 3 burst** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** P < WEAK [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** P < AVERAGE [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** P < STRONG [frightened](../../Browse/condition/frightened.md) ([save](../../Browse/rule/general/saving-throw.md) ends), push 3, [prone](../../Browse/condition/prone.md)
-
-> ⭐️ **Relentless Hunger**
->
-> The mercenary dies only if they are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by acid or fire damage, if they end their turn with 0 [Stamina](../../Browse/rule/health/stamina.md), or if they take acid or fire damage while at 0 [Stamina](../../Browse/rule/health/stamina.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Hangry Frenzy (Encounter)**
->
-> | **Melee**      |        **Main action** |
-> |----------------|-----------------------:|
-> | **📏 Melee 1** | **🎯 Three creatures** |
->
-> **Effect:** The mercenary must be [winded](../../Browse/rule/health/winded.md) to use this ability. The mercenary uses Big Bite against each target.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❗️ **Fire Bad (Encounter)**
->
-> | **-**       | **Triggered action** |
-> |-------------|---------------------:|
-> | **📏 Self** |          **🎯 Self** |
->
-> **Trigger:** An ability deals acid or fire damage to the mercenary.
->
-> **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.
+<div class="fb-wrap" data-role="brute">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Brute Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Hangry Frenzy</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mercenary must be <a href="../../../Browse/rule/health/winded/">winded</a> to use this ability. The mercenary uses Big Bite against each target.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Triggered action</div><h3 class="fb__feat-name sc-ability__name">Fire Bad</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>An ability deals acid or fire damage to the mercenary.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Undead Servitor {data-scc="mcdm.monsters.v1/retainer.statblock/undead-servitor"}
 
-| Undead, Soulless  |         -         |      Level 1      |    Brute Retainer     |         EV -         |
-|:-----------------:|:-----------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |  **5**<br>Speed   | **21**<br>Stamina |  **0**<br>Stability   | **3**<br>Free Strike |
-| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  | **-1**<br>Agility | **-3**<br>Reason  |  **-1**<br>Intuition  |  **0**<br>Presence   |
+<div class="sb-wrap" data-role="brute" data-creature="undead-servitor"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Undead Servitor</span><span class="sb__sticky-role" data-role="brute">Retainer Brute</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>3</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>-1</b><i>A</i></span><span class="c"><b>-3</b><i>R</i></span><span class="c"><b>-1</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="brute"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Undead, Soulless</div><h2 class="sb__name">Undead Servitor</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="brute">Retainer Brute</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">-1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-3</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">-1</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Lurching Swipe</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage</span></div></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Arise</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The first time in an encounter that the servitor is reduced to 0 <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their <a class="sb-term" href="../../../Browse/rule/health/stamina/">Stamina</a> maximum and fall <a class="sb-term" href="../../../Browse/condition/prone/">prone</a>.</p></article></div></article></div>
 
-> 🗡 **Lurching Swipe (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 4 damage
-> - **12-16:** 7 damage
-> - **17+:** 10 damage
-
-> ⭐️ **Arise**
->
-> The first time in an encounter that the servitor is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their [Stamina](../../Browse/rule/health/stamina.md) maximum and fall [prone](../../Browse/condition/prone.md).
-
-**Level 4 Retainer Advancement Ability**
-
-> 🗡 **Grab and Bite (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 damage; M < WEAK [grabbed](../../Browse/condition/grabbed.md)
-> - **12-16:** 11 damage; M < AVERAGE [grabbed](../../Browse/condition/grabbed.md)
-> - **17+:** 16 damage; M < STRONG [grabbed](../../Browse/condition/grabbed.md)
-
-########Level 7 Retainer Advancement Ability
-
-> 🏹 **Death to Death (Encounter)**
->
-> | **Magic, Ranged, Strike** |        **Maneuver** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 8 corruption damage; P < WEAK [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 13 corruption damage; P < AVERAGE [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 17 corruption damage; P < STRONG [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** Before making the [strike](../../Browse/rule/combat/strike.md), the servitor can [teleport](../../Browse/movement/teleport.md) up to 10 squares to a space containing a dead creature, then burst out of the creature's body.
-
-**Level 10 Retainer Advancement Ability**
-
-> ❗️ **Death Miasma (Encounter)**
->
-> | **Area, Magic** |     **Free triggered action** |
-> |-----------------|------------------------------:|
-> | **📏 2 burst**  | **🎯 Each enemy in the area** |
->
-> **Trigger:** The servitor is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md).
->
-> **Effect:** The servitor explodes.
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 corruption damage
-> - **12-16:** 10 corruption damage
-> - **17+:** 14 corruption damage
+<div class="fb-wrap" data-role="brute">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Brute Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Grab and Bite</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; M &lt; WEAK <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage; M &lt; AVERAGE <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div></div></div>
+</article>
+<article class="sc-ability fb__feat" data-action="maneuver">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="fb__feat-name sc-ability__name">Death to Death</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 corruption damage; P &lt; WEAK <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 corruption damage; P &lt; AVERAGE <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 corruption damage; P &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Before making the <a href="../../../Browse/rule/combat/strike/">strike</a>, the servitor can <a href="../../../Browse/movement/teleport/">teleport</a> up to 10 squares to a space containing a dead creature, then burst out of the creature&#39;s body.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="triggered">
+<div class="fb__feat-head"><span class="fb__feat-icon">❗️</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Free triggered action</div><h3 class="fb__feat-name sc-ability__name">Death Miasma</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The servitor is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The servitor explodes.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Unquiet Spirit {data-scc="mcdm.monsters.v1/retainer.statblock/unquiet-spirit"}
 
-|            Undead, Soulless            |             -              |      Level 1      |    Hexer Retainer     |         EV -         |
-|:--------------------------------------:|:--------------------------:|:-----------------:|:---------------------:|:--------------------:|
-|             **1M**<br>Size             |       **5**<br>Speed       | **21**<br>Stamina |  **1**<br>Stability   | **2**<br>Free Strike |
-| **Corruption 3, poison 3**<br>Immunity | **Fly, hover**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|            **-4**<br>Might             |     **+1**<br>Agility      |  **0**<br>Reason  |  **0**<br>Intuition   |  **+2**<br>Presence  |
+<div class="sb-wrap" data-role="hexer" data-creature="unquiet-spirit"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Unquiet Spirit</span><span class="sb__sticky-role" data-role="hexer">Retainer Hexer</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>21</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>2</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>-4</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly, hover</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Corruption 3, poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="hexer"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Undead, Soulless</div><h2 class="sb__name">Unquiet Spirit</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="hexer">Retainer Hexer</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">21</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Corruption 3, poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly, hover</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">-4</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Chill of Death</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 cold damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 cold damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 cold damage; P &lt; STRONG <a class="sb-term" href="../../../Browse/condition/slowed/">slowed</a> (EoT)</span></div></div></div></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Spirit Meld</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">-</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Self</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Self</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>While <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> to their mentor, the unquiet spirit enters the mentor's space. A spirit who enters their mentor's space this way moves with the mentor, can't be sensed, and can't affect or be affected by other creatures or objects. They can't take main actions, maneuvers, or move actions, except to use this ability to leave their mentor's space and appear in an <a class="sb-term" href="../../../Browse/rule/combat/adjacent/">adjacent</a> space.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Corruptive Phasing</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The unquiet spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature other than their mentor, that creature takes 2 corruption damage.</p></article></div></article></div>
 
-> 🏹 **Chill of Death (Signature Ability)**
->
-> | **Magic, Ranged, Strike** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature or object** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 3 cold damage
-> - **12-16:** 5 cold damage
-> - **17+:** 7 cold damage; P < STRONG [slowed](../../Browse/condition/slowed.md) (EoT)
-
-> 👤 **Spirit Meld**
->
-> | **-**       | **Main action** |
-> |-------------|----------------:|
-> | **📏 Self** |     **🎯 Self** |
->
-> **Effect:** While [adjacent](../../Browse/rule/combat/adjacent.md) to their mentor, the unquiet spirit enters the mentor's space. A spirit who enters their mentor's space this way moves with the mentor, can't be sensed, and can't affect or be affected by other creatures or objects. They can't take main actions, maneuvers, or move actions, except to use this ability to leave their mentor's space and appear in an [adjacent](../../Browse/rule/combat/adjacent.md) space.
-
-> ⭐️ **Corruptive Phasing**
->
-> The unquiet spirit can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the spirit moves through a creature other than their mentor, that creature takes 2 corruption damage.
-
-**Level 4 Retainer Advancement Ability**
-
-> 🏹 **Enervating Curse (Encounter)**
->
-> | **Magic, Ranged, Strike** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 6 corruption damage; the target has 1 level of drain
-> - **12-16:** 10 corruption damage; the target has 2 levels of drain
-> - **17+:** 14 corruption damage; the target has 3 levels of drain
->
-> **Effect:** The next creature to make a [strike](../../Browse/rule/combat/strike.md) against the target gains 1 [surge](../../Browse/rule/resource/surge.md) for each level of drain, which must be used on that [strike](../../Browse/rule/combat/strike.md).
-
-**Level 7 Retainer Advancement Ability**
-
-> 🔳 **Ectoplasm (Encounter)**
->
-> | **Area, Magic**        |               **Main action** |
-> |------------------------|------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** A < WEAK [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** A < AVERAGE [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** A < STRONG [slowed](../../Browse/condition/slowed.md) and [weakened](../../Browse/condition/weakened.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-
-**Level 10 Retainer Advancement Ability**
-
-> 🏹 **Death Phase (Encounter)**
->
-> | **Magic, Ranged, Strike** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Ranged 5**           | **🎯 One creature** |
->
-> **Effect:** If the target has P < STRONG, they are phased until the end of their next turn. A phased target gains the unquiet spirit's Corruptive Phasing trait and can [fly](../../Browse/movement/fly.md). They are visible but can't affect or be affed by other creatures or objects. A willing creature not subject to the ability's [potency](../../Browse/rule/character/potency.md) can choose to automatically be affected.
+<div class="fb-wrap" data-role="hexer">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Hexer Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Enervating Curse</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage; the target has 1 level of drain</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage; the target has 2 levels of drain</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage; the target has 3 levels of drain</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The next creature to make a <a href="../../../Browse/rule/combat/strike/">strike</a> against the target gains 1 <a href="../../../Browse/rule/resource/surge/">surge</a> for each level of drain, which must be used on that <a href="../../../Browse/rule/combat/strike/">strike</a>.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Ectoplasm</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">A &lt; WEAK <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">A &lt; AVERAGE <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; STRONG <a href="../../../Browse/condition/slowed/">slowed</a> and <a href="../../../Browse/condition/weakened/">weakened</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🏹</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Death Phase</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target has P &lt; STRONG, they are phased until the end of their next turn. A phased target gains the unquiet spirit&#39;s Corruptive Phasing trait and can <a href="../../../Browse/movement/fly/">fly</a>. They are visible but can&#39;t affect or be affed by other creatures or objects. A willing creature not subject to the ability&#39;s <a href="../../../Browse/rule/character/potency/">potency</a> can choose to automatically be affected.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
 
 ###### Vampire Rebel {data-scc="mcdm.monsters.v1/retainer.statblock/vampire-rebel"}
 
-|  Undead, Vampire  |           -           |      Level 4      |   Harrier Retainer    |         EV -         |
-|:-----------------:|:---------------------:|:-----------------:|:---------------------:|:--------------------:|
-|  **1M**<br>Size   |    **5**<br>Speed     | **48**<br>Stamina |  **0**<br>Stability   | **4**<br>Free Strike |
-| **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain |  **-**<br>Weakness   |
-|  **+2**<br>Might  |   **+3**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+3**<br>Presence  |
+<div class="sb-wrap" data-role="harrier" data-creature="vampire-rebel"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Vampire Rebel</span><span class="sb__sticky-role" data-role="harrier">Retainer Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>48</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>4</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+3</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+3</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Undead, Vampire</div><h2 class="sb__name">Vampire Rebel</h2></div><div class="sb__class"><div class="sb__level">Level 4</div><div class="sb__role" data-role="harrier">Retainer Harrier</div><div class="sb__ev">EV -</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">48</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+3</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+3</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Flashing Fangs</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage, 3 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage, 6 corruption damage; M &lt; STRONG <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> (<a class="sb-term" href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The vampire rebel gains <a class="sb-term" href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> equal to any corruption damage dealt.</p></div></div><p class="sb__feat-trailing"><b>2d10 + highest characteristic:</b></p></article><article class="sc-ability sb__feat" data-action="move" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">o</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">o</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Move Action</div><h3 class="sb__feat-name sc-ability__name">Bat Form</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">-</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Move Action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Self</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Self</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The vampire rebel changes their form into a bat. In bat form, their size is 1T and they can <a class="sb-term" href="../../../Browse/movement/fly/">fly</a>. The vampire rebel then <a class="sb-term" href="../../../Browse/movement/shifting/">shifts</a> up to their speed, then regains their true form. If they can't fit in their current space when they return to their true form, they take 10 damage and are pushed to the nearest unoccupied space.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Agonizing Bloodthirst</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The vampire rebel has speed 10 while any creature within 10 squares of them is <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a>. If the vampire rebel is able to deal damage to a <a class="sb-term" href="../../../Browse/condition/bleeding/">bleeding</a> creature on their turn and does not do so, they take 5 corruption damage at the end of their turn.</p></article></div></article></div>
 
-> 🗡 **Flashing Fangs (Signature Ability)**
->
-> | **Melee, Strike, Weapon** |               **Main action** |
-> |---------------------------|------------------------------:|
-> | **📏 Melee 1**            | **🎯 One creature or object** |
->
-> **2d10 + highest characteristic:**
->
-> - **≤11:** 5 damage
-> - **12-16:** 5 damage, 3 corruption damage
-> - **17+:** 5 damage, 6 corruption damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** The vampire rebel gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to any corruption damage dealt.
-
-> 👤 **Bat Form (Encounter)**
->
-> | **-**       | **Move Action** |
-> |-------------|----------------:|
-> | **📏 Self** |     **🎯 Self** |
->
-> **Effect:** The vampire rebel changes their form into a bat. In bat form, their size is 1T and they can [fly](../../Browse/movement/fly.md). The vampire rebel then [shifts](../../Browse/movement/shifting.md) up to their speed, then regains their true form. If they can't fit in their current space when they return to their true form, they take 10 damage and are pushed to the nearest unoccupied space.
-
-> ⭐️ **Agonizing Bloodthirst**
->
-> The vampire rebel has speed 10 while any creature within 10 squares of them is [bleeding](../../Browse/condition/bleeding.md). If the vampire rebel is able to deal damage to a [bleeding](../../Browse/condition/bleeding.md) creature on their turn and does not do so, they take 5 corruption damage at the end of their turn.
-
-**Level 7 Retainer Advancement Ability**
-
-> 🗡 **Blood Surge (Encounter)**
->
-> | **Melee, Strike, Weapon** |     **Main action** |
-> |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 damage; M < WEAK [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 11 damage; M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 16 damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
->
-> **Effect:** Before the [strike](../../Browse/rule/combat/strike.md), the vampire rebel [shifts](../../Browse/movement/shifting.md) up to their speed. If the vampire rebel has [temporary Stamina](../../Browse/rule/health/temporary-stamina.md), they can expend it, dealing an extra 2 corruption damage for each point of [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) expended this way.
-
-**Level 10 Retainer Advancement Ability**
-
-> 🔳 **Exsanguination (Encounter)**
->
-> | **Area, Magic**        |               **Main action** |
-> |------------------------|------------------------------:|
-> | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
->
-> **Power Roll + highest characteristic:**
->
-> - **≤11:** 7 corruption damage; M < WEAK [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **12-16:** 11 corruption damage; M < AVERAGE [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
-> - **17+:** 16 corruption damage; M < STRONG [bleeding](../../Browse/condition/bleeding.md) ([save](../../Browse/rule/general/saving-throw.md) ends)
+<div class="fb-wrap" data-role="harrier">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Harrier Retainer</div>
+<h2 class="fb__name">Advancement Abilities</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🗡</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Blood Surge</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; M &lt; WEAK <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 damage; M &lt; AVERAGE <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; M &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Before the <a href="../../../Browse/rule/combat/strike/">strike</a>, the vampire rebel <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed. If the vampire rebel has <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a>, they can expend it, dealing an extra 2 corruption damage for each point of <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> expended this way.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Exsanguination</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 corruption damage; M &lt; WEAK <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 corruption damage; M &lt; AVERAGE <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 corruption damage; M &lt; STRONG <a href="../../../Browse/condition/bleeding/">bleeding</a> (<a href="../../../Browse/rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
