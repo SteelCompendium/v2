@@ -162,7 +162,9 @@
 .sc-trait__nest > .sc-trait {
   margin: 1rem 0; padding: .95rem 1.1rem 1rem 1.2rem;
   background: rgba(0,0,0,.14); box-shadow: var(--fx-bevel);
-  border-left-width: 3px;
+  /* No colored accent spine on nested cards — the background tint + bevel
+     already separate them; a uniform faint edge reads calmer. */
+  border-left: 1px solid var(--fx-metal-faint);
 }
 [data-md-color-scheme="default"] .sc-trait__nest > .sc-trait { background: rgba(0,0,0,.022); }
 .sc-trait__nest > .sc-trait .sc-trait__name { font-size: 1.14rem; }
