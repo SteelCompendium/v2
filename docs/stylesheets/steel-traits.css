@@ -197,3 +197,41 @@
   .sc-trait__tag { justify-self: start; margin-top: .4rem; }
   .sc-trait__name { font-size: 1.32rem; }
 }
+
+/* ════════════════════════════════════════════════════════════
+   CALLOUT — a publisher sidebar (`<!-- @type: callout -->`) that lives
+   inside a feature body. Rendered by steel-etl (trait_cards.go) as a
+   recessed `.sc-callout` aside so it reads as a margin note distinct
+   from the feature's own rules prose, instead of leaking its blockquote
+   markers as text. Reuses the --fx-* ornament tokens.
+   ════════════════════════════════════════════════════════════ */
+.md-typeset .sc-callout {
+  position: relative;
+  margin: 1.1rem 0;
+  padding: .7rem .95rem .8rem;
+  border: 1px solid var(--fx-metal-faint);
+  border-left: 3px solid color-mix(in srgb, var(--fx-metal) 60%, transparent);
+  border-radius: 8px;
+  background: rgba(0,0,0,.14);
+  box-shadow: var(--fx-bevel), inset 0 0 30px rgba(0,0,0,.12);
+}
+[data-md-color-scheme="default"] .md-typeset .sc-callout {
+  border-color: var(--md-default-fg-color--lightest);
+  background: rgba(0,0,0,.03);
+}
+.md-typeset .sc-callout__title {
+  display: flex; align-items: center; gap: .5rem;
+  font-family: var(--md-small-header-font);
+  font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .08em; font-size: .9rem;
+  color: var(--fx-metal-bright); text-shadow: var(--fx-emboss);
+  margin-bottom: .4rem;
+}
+.md-typeset .sc-callout__dia {
+  width: 7px; height: 7px; transform: rotate(45deg);
+  background: var(--fx-metal); flex: 0 0 auto;
+}
+.md-typeset .sc-callout__body { font-size: .92rem; line-height: 1.55; }
+.md-typeset .sc-callout__body > :first-child { margin-top: 0; }
+.md-typeset .sc-callout__body > :last-child { margin-bottom: 0; }
+.md-typeset .sc-callout__body ul { margin: .35rem 0; }
