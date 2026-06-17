@@ -114,5 +114,12 @@ sections:
 search_exclude:
   - Read
 
+# Sections whose container pages embed inline item cards (abilities, features,
+# traits, statblocks, featureblocks) in place of their inlined markdown. Browse
+# only for now; add "Read" here after the page-weight check on the long Classes
+# chapter passes. See docs/superpowers/specs/2026-06-16-inline-item-cards-design.md.
+embed_card_sections:
+  - Browse
+
 # Static content overrides (copied last, takes precedence)
 static_content: ./static_content/docs
