@@ -115,8 +115,9 @@
   color: var(--role); text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 .sb__ev { font-family: var(--md-code-font, monospace); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .12rem; }
-/* Summoner-book gametime summon cost (no "EV" prefix) — may be a short phrase, so allow it to wrap. */
-.sb__cost { text-transform: none; white-space: normal; max-width: 12rem; margin-left: auto; }
+/* Summoner-book gametime summon cost (no "EV" prefix) — a short phrase like
+   "7 essence for two minions"; keep it on one line (the card has room to spare). */
+.sb__cost { text-transform: none; white-space: nowrap; }
 
 /* ── DEFENSES row (Size/Speed/Stamina/Stability/Free Strike) ── */
 .sb__defenses { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4rem; padding: .3rem var(--pad) .65rem; }
