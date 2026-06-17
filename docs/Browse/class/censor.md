@@ -68,428 +68,806 @@ As a 1st-level [censor](censor.md), you gain the following features.
 
 ### Censor Order {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-order"}
 
-[Censors](censor.md) are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a [censor order](../feature/censor/level-1/censor-order.md) from the following options, each of which grants you a skill. (*Quick Build:* Paragon.)
-
-- **Exorcist:** You specialize in hunting your order's hidden enemies, knowing that an open mind is an unguarded fortress. You have the [Read Person](../skill/interpersonal/read-person.md) skill.
-- **Oracle:** Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the [Magic](../skill/lore/magic.md) skill.
-- **Paragon:** Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the [Lead](../skill/interpersonal/lead.md) skill.
-
-Your [censor order](../feature/censor/level-1/censor-order.md) is your [subclass](../rule/general/subclass.md), and your choice of order determines many of the features you'll gain as you gain new levels.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Censor Order</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p><a href="./">Censors</a> are the will of their god made physically manifest, and you act as your god&#39;s agent in the world. As you shoulder that responsibility, you choose a <a href="../../feature/censor/level-1/censor-order/">censor order</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Paragon.)</p>
+<ul><li><b>Exorcist:</b> You specialize in hunting your order&#39;s hidden enemies, knowing that an open mind is an unguarded fortress. You have the <a href="../../skill/interpersonal/read-person/">Read Person</a> skill.</li><li><b>Oracle:</b> Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the <a href="../../skill/lore/magic/">Magic</a> skill.</li><li><b>Paragon:</b> Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the <a href="../../skill/interpersonal/lead/">Lead</a> skill.</li></ul>
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> is your <a href="../../rule/general/subclass/">subclass</a>, and your choice of order determines many of the features you&#39;ll gain as you gain new levels.</p>
+</div>
+</section>
 
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains"}
 
-Choose a god or [saint](../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
-
-After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../god/cavall.md) as deity and War as domain.)
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Deity and Domains</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose a god or <a href="../../rule/world/saint/">saint</a> who your character reveres from Chapter 14: <a href="../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
+<p>After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you&#39;ll gain from this class. (<em>Quick Build:</em> <a href="../../god/cavall/">Cavall</a> as deity and War as domain.)</p>
+</div>
+</section>
 
 ### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath"}
 
-The power you serve grants you a [Heroic Resource](../rule/resource/heroic-resource.md) called wrath, fueling your abilities as you [censor](censor.md) those your church deems to be heretics.
-
-#### Wrath in Combat
-
-At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain wrath equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 2 wrath.
-
-Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature judged by you (see [Judgment](../feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each [combat round](../rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 1 wrath.
-
-You lose any remaining wrath at the end of the encounter.
-
-#### Wrath Outside of Combat
-
-Though you can't gain wrath outside of combat, you can use your [heroic abilities](../rule/general/heroic-ability.md) and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../rule/resource/victories.md) or finish a [respite](../rule/resource/respite.md).
-
-When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your [Victories](../rule/resource/victories.md). (Such abilities aren't part of the core rules for the [censor](censor.md), but they might appear in future products.)
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The power you serve grants you a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called wrath, fueling your abilities as you <a href="./">censor</a> those your church deems to be heretics.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wrath in Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain wrath equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 2 wrath.</p>
+<p>Additionally, the first time each <a href="../../rule/combat/combat-round/">combat round</a> that a creature judged by you (see <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> below) deals damage to you, you gain 1 wrath. The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 1 wrath.</p>
+<p>You lose any remaining wrath at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wrath Outside of Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Though you can&#39;t gain wrath outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your <a href="../../rule/resource/victories/">Victories</a>. (Such abilities aren&#39;t part of the core rules for the <a href="./">censor</a>, but they might appear in future products.)</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Judgment {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment"}
 
-You pick out the enemies most worthy of your wrath and place a divine [judgment](../feature/ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
-
-#### Judgment {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/judgment"}
-
-
-*You utter a prayer that outlines your foe in holy energy.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |     **Maneuver** |
-|-------------------|-----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One enemy** |
-
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](censor.md) judges the target.
-
-Whenever a creature judged by you uses a main action and is within your [line of effect](../rule/combat/line-of-effect.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to deal holy damage equal to twice your [Presence](../rule/character/presence.md) score to them.
-
-When a creature judged by you is reduced to 0 [Stamina](../rule/health/stamina.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to use this ability against a new target.
-
-Additionally, you can spend 1 wrath to take one of the following free [triggered actions](../rule/combat/triggered-action.md):
-
-- When an [adjacent](../rule/combat/adjacent.md) creature judged by you starts to [shift](../movement/shifting.md), you make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against them and their [speed](../rule/character/speed.md) becomes 0 until the end of the current [turn](../rule/combat/turn.md), preventing them from [shifting](../movement/shifting.md).
-- When a creature judged by you within 10 squares makes a [power roll](../rule/dice/power-roll.md), you cause them to take a [bane](../rule/dice/bane.md) on the roll.
-- When a creature judged by you within 10 squares uses an ability with a [potency](../rule/character/potency.md) that targets only one creature, the [potency](../rule/character/potency.md) is reduced by 1 for that creature.
-- If you damage a creature judged by you with a [melee](../rule/combat/melee.md) ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next [turn](../rule/combat/turn.md).
-  
-You can choose only one free [triggered action](../rule/combat/triggered-action.md) option at a time, even if multiple options are triggered by the same effect.
-
-#### Judgment Order Benefit {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment-order-benefit"}
-
-The first time on a [turn](../rule/combat/turn.md) that you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
-
-- **Exorcist:** You can [teleport](../movement/teleport.md) up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../rule/combat/line-of-effect.md) to your destination.
-- **Oracle:** You can deal holy damage equal to twice your [Presence](../rule/character/presence.md) score to the judged creature.
-- **Paragon:** You can vertical [pull](../movement/forced-movement.md) the judged creature up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Judgment</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You pick out the enemies most worthy of your wrath and place a divine <a href="../../feature/ability/censor/level-1/judgment/">judgment</a> upon them, censoring them with the power of your god. You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Judgment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You utter a prayer that outlines your foe in holy energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another <a href="./">censor</a> judges the target.</p><p>Whenever a creature judged by you uses a main action and is within your <a href="../../rule/combat/line-of-effect/">line of effect</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to deal holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score to them.</p><p>When a creature judged by you is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use this ability against a new target.</p><p>Additionally, you can spend 1 wrath to take one of the following free <a href="../../rule/combat/triggered-action/">triggered actions</a>:</p><ul><li>When an <a href="../../rule/combat/adjacent/">adjacent</a> creature judged by you starts to <a href="../../movement/shifting/">shift</a>, you make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a> against them and their <a href="../../rule/character/speed/">speed</a> becomes 0 until the end of the current <a href="../../rule/combat/turn/">turn</a>, preventing them from <a href="../../movement/shifting/">shifting</a>.</li><li>When a creature judged by you within 10 squares makes a <a href="../../rule/dice/power-roll/">power roll</a>, you cause them to take a <a href="../../rule/dice/bane/">bane</a> on the roll.</li><li>When a creature judged by you within 10 squares uses an ability with a <a href="../../rule/character/potency/">potency</a> that targets only one creature, the <a href="../../rule/character/potency/">potency</a> is reduced by 1 for that creature.</li><li>If you damage a creature judged by you with a <a href="../../rule/combat/melee/">melee</a> ability, the creature is <a href="../../condition/taunted/">taunted</a> by you until the end of their next <a href="../../rule/combat/turn/">turn</a>.</li></ul><p>You can choose only one free <a href="../../rule/combat/triggered-action/">triggered action</a> option at a time, even if multiple options are triggered by the same effect.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Judgment Order Benefit</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>The first time on a <a href="../../rule/combat/turn/">turn</a> that you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability to judge a creature, you gain the following benefit based on your order:</p>
+<ul><li><b>Exorcist:</b> You can <a href="../../movement/teleport/">teleport</a> up to a number of squares equal to twice your <a href="../../rule/character/presence/">Presence</a> score. This movement must take you closer to the judged creature. You do not need <a href="../../rule/combat/line-of-effect/">line of effect</a> to your destination.</li><li><b>Oracle:</b> You can deal holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score to the judged creature.</li><li><b>Paragon:</b> You can vertical <a href="../../movement/forced-movement/">pull</a> the judged creature up to a number of squares equal to twice your <a href="../../rule/character/presence/">Presence</a> score.</li></ul>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit"}
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Warrior Priest](../kit/warrior-priest.md).)
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Kit</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../kit/warrior-priest/">Warrior Priest</a>.)</p>
+</div>
+</section>
 
 ### My Life for Yours {data-scc="mcdm.heroes.v1/feature.censor.level-1/my-life-for-yours"}
 
-You channel your will to mend your wounds or the wounds of your allies. You have the following ability.
-
-#### My Life for Yours {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours"}
-
-
-*You channel some of your vitality into more resilience for you or an ally.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |           **Triggered** |
-|-------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target starts their [turn](../rule/combat/turn.md) or takes damage.
-
-**Effect:** You spend a [Recovery](../rule/health/recoveries.md) and the target regains [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
-
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone](../condition/prone.md) target can stand up.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the My Life for Yours triggered action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">My Life for Yours</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You channel your will to mend your wounds or the wounds of your allies. You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">My Life for Yours</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel some of your vitality into more resilience for you or an ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target starts their <a href="../../rule/combat/turn/">turn</a> or takes damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You spend a <a href="../../rule/health/recoveries/">Recovery</a> and the target regains <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/health/recoveries/">recovery value</a>.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Wrath</span><span class="txt">You can end one effect on the target that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or a <a href="../../condition/prone/">prone</a> target can stand up.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature"}
 
-You gain a domain feature from your domain, as shown on the 1st-Level [Censor](censor.md) Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.
-
-##### 1st-Level Censor Domain Features Table
-
-| Domain                           | Feature                       | Skill Group   |
-|----------------------------------|-------------------------------|---------------|
-| Creation                         | [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
-| Death                            | [Grave Speech](../feature/ability/censor/level-1/grave-speech.md)                  | Lore          |
-| Fate                             | [Oracular Visions](../feature/censor/level-1/oracular-visions.md)              | Lore          |
-| Knowledge                        | [Blessing of Comprehension](../feature/censor/level-1/blessing-of-comprehension.md)     | Lore          |
-| Life                             | [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md)           | Exploration   |
-| Love                             | [Blessing of Compassion](../feature/censor/level-1/blessing-of-compassion.md)        | Interpersonal |
-| Nature                           | [Faithful Friend](../feature/ability/censor/level-1/faithful-friend.md)               | Exploration   |
-| Protection                       | [Protective Circle](../feature/censor/level-1/protective-circle.md)             | Exploration   |
-| Storm                            | [Blessing of Fortunate Weather](../feature/censor/level-1/blessing-of-fortunate-weather.md) | Exploration   |
-| Sun                              | [Inner Light](../feature/censor/level-1/inner-light.md)                   | Lore          |
-| Trickery                         | [Inspired Deception](../feature/censor/level-1/inspired-deception.md)            | Intrigue      |
-| War                              | [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md)             | Exploration   |
-
-#### Blessing of Compassion {data-scc="mcdm.heroes.v1/feature.censor.level-1/blessing-of-compassion"}
-
-You exude a magic presence that can soothe those willing to socially engage with you. You gain an [edge](../rule/dice/edge.md) on any [test](../rule/test/test.md) made to assist another creature with a [test](../rule/test/test.md).
-
-Additionally, when you are present at the start of a negotiation, one [NPC](../rule/general/npc.md) of your choice has their patience increased by 1 (to a maximum of 5), and the first [test](../rule/test/test.md) made to influence them gains an [edge](../rule/dice/edge.md).
-
-#### Blessing of Comprehension {data-scc="mcdm.heroes.v1/feature.censor.level-1/blessing-of-comprehension"}
-
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the [project source](../rule/downtime/project-source.md) for any crafting or [research project](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)).
-
-#### Blessing of Fortunate Weather {data-scc="mcdm.heroes.v1/feature.censor.level-1/blessing-of-fortunate-weather"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can decide the weather conditions within 100 squares. Until you finish another [respite](../rule/resource/respite.md), the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
-
-**Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Search](../skill/intrigue/search.md) or [Navigate](../skill/exploration/navigate.md) skills.
-
-**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Hide](../skill/intrigue/hide.md) skill.
-
-**Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/exploration/endurance.md) skill.
-
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/intrigue/track.md) skill.
-
-If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
-
-#### Faithful Friend {data-scc="mcdm.heroes.v1/feature.censor.level-1/faithful-friend"}
-
-You have the following ability.
-
-##### Faithful Friend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/faithful-friend"}
-
-
-*An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
-
-| **Magic**   | **Main action** |
-|-------------|----------------:|
-| **📏 Self** |     **🎯 Self** |
-
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has [speed](../rule/character/speed.md) 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
-
-#### Grave Speech {data-scc="mcdm.heroes.v1/feature.censor.level-1/grave-speech"}
-
-You have the following ability.
-
-##### Grave Speech {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/grave-speech"}
-
-
-*You commune with the lingering soul of the recently dead.*
-
-| **Magic**      |             **Maneuver** |
-|----------------|-------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 One dead creature** |
-
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
-
-#### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.censor.level-1/hands-of-the-maker"}
-
-You have the following ability.
-
-##### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker"}
-
-
-*You craft objects with the power of your mind.*
-
-| **Magic**   | **Maneuver** |
-|-------------|------------:|
-| **📏 Self** | **🎯 Self** |
-
-**Effect:** You create a mundane object of [size](../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Presence](../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
-
-#### Inner Light {data-scc="mcdm.heroes.v1/feature.censor.level-1/inner-light"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
-
-#### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
-
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/index.md), you can use [Presence](../rule/character/presence.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
-
-#### Oracular Visions {data-scc="mcdm.heroes.v1/feature.censor.level-1/oracular-visions"}
-
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more [Victories](../rule/resource/victories.md), you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a [test](../rule/test/test.md), you can spend 1 fate point to tap into a vision of the outcome, granting that creature an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md). You lose any remaining fate points when you finish a [respite](../rule/resource/respite.md).
-
-#### Protective Circle {data-scc="mcdm.heroes.v1/feature.censor.level-1/protective-circle"}
-
-You can spend 10 uninterrupted minutes to create a [protective circle](../feature/censor/level-1/protective-circle.md) on the ground large enough to hold one [size](../rule/character/size.md) 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../feature/censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
-
-#### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.censor.level-1/revitalizing-ritual"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../rule/dice/bonuses-and-penalties.md) to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
-
-#### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-1/sanctified-weapon"}
-
-As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">1st-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a domain feature from your domain, as shown on the 1st-Level <a href="./">Censor</a> Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">1st-Level Censor Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th><th>Skill Group</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a></td><td>Crafting</td></tr><tr><td>Death</td><td><a href="../../feature/ability/censor/level-1/grave-speech/">Grave Speech</a></td><td>Lore</td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-1/oracular-visions/">Oracular Visions</a></td><td>Lore</td></tr><tr><td>Knowledge</td><td><a href="../../feature/censor/level-1/blessing-of-comprehension/">Blessing of Comprehension</a></td><td>Lore</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-1/revitalizing-ritual/">Revitalizing Ritual</a></td><td>Exploration</td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-1/blessing-of-compassion/">Blessing of Compassion</a></td><td>Interpersonal</td></tr><tr><td>Nature</td><td><a href="../../feature/ability/censor/level-1/faithful-friend/">Faithful Friend</a></td><td>Exploration</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-1/protective-circle/">Protective Circle</a></td><td>Exploration</td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-1/blessing-of-fortunate-weather/">Blessing of Fortunate Weather</a></td><td>Exploration</td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-1/inner-light/">Inner Light</a></td><td>Lore</td></tr><tr><td>Trickery</td><td><a href="../../feature/censor/level-1/inspired-deception/">Inspired Deception</a></td><td>Intrigue</td></tr><tr><td>War</td><td><a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a></td><td>Exploration</td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Compassion</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../rule/dice/edge/">edge</a> on any <a href="../../rule/test/test/">test</a> made to assist another creature with a <a href="../../rule/test/test/">test</a>.</p>
+<p>Additionally, when you are present at the start of a negotiation, one <a href="../../rule/general/npc/">NPC</a> of your choice has their patience increased by 1 (to a maximum of 5), and the first <a href="../../rule/test/test/">test</a> made to influence them gains an <a href="../../rule/dice/edge/">edge</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Comprehension</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the <a href="../../rule/downtime/project-source/">project source</a> for any crafting or <a href="../../rule/downtime/research-project/">research project</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can decide the weather conditions within 100 squares. Until you finish another <a href="../../rule/resource/respite/">respite</a>, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p>
+<p><b>Clear:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/intrigue/search/">Search</a> or <a href="../../skill/exploration/navigate/">Navigate</a> skills.</p>
+<p><b>Foggy:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/intrigue/hide/">Hide</a> skill.</p>
+<p><b>Overcast:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/exploration/endurance/">Endurance</a> skill.</p>
+<p><b>Precipitation:</b> When the ground is muddy or snowy, you and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/intrigue/track/">Track</a> skill.</p>
+<p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Faithful Friend</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Faithful Friend</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has <a href="../../rule/character/speed/">speed</a> 5 and can <a href="../../movement/fly/">fly</a>, but can&#39;t physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Grave Speech</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Grave Speech</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make <a href="../../rule/test/test/">tests</a> to influence them and convince them to speak with you. The trauma of <a href="../../rule/health/dying/">dying</a> can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Hands of the Maker</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Hands of the Maker</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You craft objects with the power of your mind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create a mundane object of <a href="../../rule/character/size/">size</a> 1S or smaller. You can maintain a number of objects created this way equal to your <a href="../../rule/character/presence/">Presence</a> score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Inner Light</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../feature/ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Inspired Deception</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods favor your thievery with magic. Whenever you make a <a href="../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../skill/intrigue/">intrigue skill group</a>, you can use <a href="../../rule/character/presence/">Presence</a> on the <a href="../../rule/test/test/">test</a> instead of another <a href="../../rule/character/characteristic/">characteristic</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Oracular Visions</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more <a href="../../rule/resource/victories/">Victories</a>, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a <a href="../../rule/test/test/">test</a>, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an <a href="../../rule/dice/edge/">edge</a> on the <a href="../../rule/test/test/">test</a>. You lose any remaining fate points when you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Protective Circle</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can spend 10 uninterrupted minutes to create a <a href="../../feature/censor/level-1/protective-circle/">protective circle</a> on the ground large enough to hold one <a href="../../rule/character/size/">size</a> 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../../feature/censor/level-1/protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Revitalizing Ritual</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. The chosen character gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to their <a href="../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Sanctified Weapon</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a <a href="../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
-You use a blend of martial techniques and divine magic to attack your foes and defend your allies.
-
-#### Signature Ability
-
-Choose one [signature ability](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../feature/ability/censor/level-1/your-allies-cannot-save-you.md)!)
-
-##### Back Blasphemer! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer"}
-
-
-*You channel power through your weapon to repel foes.*
-
-| **Area, Magic, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
-|--------------------------------|------------------------------:|
-| **📏 2 [cube](../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 holy damage; [push](../movement/forced-movement.md) 1
-- **12-16:** 4 holy damage; [push](../movement/forced-movement.md) 2
-- **17+:** 6 holy damage; [push](../movement/forced-movement.md) 3
-
-##### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
-
-
-*You show your foe a glimpse of their fate after death.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + P psychic damage
-- **12-16:** 7 + P psychic damage
-- **17+:** 10 + P psychic damage
-
-**Effect:** Each time the target willingly moves before the end of your next [turn](../rule/combat/turn.md), they take 1 psychic damage for each square they move.
-
-##### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
-
-
-*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, [slowed](../condition/slowed.md) (save ends)
-
-##### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
-
-
-*Your magic [strike](../rule/combat/strike.md) [turns](../rule/combat/turn.md) your foe's guilt into a burst of holy power.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 5 + M holy damage
-- **17+:** 8 + M holy damage
-
-**Effect:** Each enemy [adjacent](../rule/combat/adjacent.md) to the target is [pushed](../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../rule/character/presence.md) score.
-
-#### Heroic Abilities
-
-You call upon a number of [heroic abilities](../rule/general/heroic-ability.md), all of them bound to your wrath.
-
-##### 3-Wrath Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../feature/ability/censor/level-1/the-gods-punish-and-defend.md).)
-
-##### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
-
-
-*A mighty blow [turns](../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 6 + M holy damage
-- **17+:** 9 + M holy damage
-
-**Effect:** Until the start of your next [turn](../rule/combat/turn.md), enemies take a [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made against you or any ally [adjacent](../rule/combat/adjacent.md) to you.
-
-##### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
-
-
-*As you force your enemy back with your weapon, you use your faith to stay close.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 3 + M damage; [push](../movement/forced-movement.md) 1
-- **12-16:** 6 + M damage; [push](../movement/forced-movement.md) 3
-- **17+:** 9 + M damage; [push](../movement/forced-movement.md) 5
-
-**Effect:** You can [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) in a straight line toward the target after [pushing](../movement/forced-movement.md) them.
-
-##### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
-
-
-*You channel holy energy to smite a foe and heal an ally.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 5 + M holy damage
-- **12-16:** 8 + M holy damage
-- **17+:** 11 + M holy damage
-
-**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
-
-##### Repent! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/repent"}
-
-
-*You conjure memories of their sins to harry your foes.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |    **Main action**  |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + P holy damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-##### 5-Wrath Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../feature/ability/censor/level-1/purifying-fire.md).)
-
-##### Arrest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/arrest"}
-
-
-*"I got you, you son of a bitch."*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 6 + M holy damage; [grabbed](../condition/grabbed.md)
-- **12-16:** 9 + M holy damage; [grabbed](../condition/grabbed.md)
-- **17+:** 13 + M holy damage; [grabbed](../condition/grabbed.md)
-
-**Effect:** If the target makes a [strike](../rule/combat/strike.md) against a creature while [grabbed](../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your [Presence](../rule/character/presence.md) score, then change the target of the [strike](../rule/combat/strike.md) to another target within the [strike](../rule/combat/strike.md)'s [distance](../rule/combat/distance.md).
-
-##### Behold the Face of Justice! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice"}
-
-
-*You attack a foe and your enemies behold a vision of the true nature of your resolve.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|-------------------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
-
-**Effect:** Each enemy [frightened](../condition/frightened.md) this way is [pushed](../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../rule/character/presence.md) score.
-
-##### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
-
-
-*Judged and [sentenced](../feature/ability/censor/level-2/sentenced.md).*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 2 + M holy damage
-- **12-16:** 3 + M holy damage
-- **17+:** 5 + M holy damage
-
-**Effect:** When a target who is not a leader or solo creature is made [winded](../rule/health/winded.md) by this ability, they are reduced to 0 [Stamina](../rule/health/stamina.md).
-
-##### Purifying Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire"}
-
-
-*The gods judge, fire cleanses.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
-|-------------------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
-- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
-- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
-
-**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Censor Abilities</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You use a blend of martial techniques and divine magic to attack your foes and defend your allies.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Back Blasphemer!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You channel power through your weapon to repel foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/cube/">cube</a> within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 holy damage; <a href="../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 holy damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Every Step... Death!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You show your foe a glimpse of their fate after death.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + P psychic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next <a href="../../rule/combat/turn/">turn</a>, they take 1 psychic damage for each square they move.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Halt Miscreant!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You infuse your weapon with holy magic that makes it difficult for your foe to get away.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M holy damage; P &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; P &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M holy damage; P &lt; STRONG, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Your Allies Cannot Save You!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your magic <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/turn/">turns</a> your foe&#39;s guilt into a burst of holy power.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to the target is <a href="../../movement/forced-movement/">pushed</a> away from the target up to a number of squares equal to your <a href="../../rule/character/presence/">Presence</a> score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heroic Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You call upon a number of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of them bound to your wrath.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3-Wrath Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 wrath to use. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Behold a Shield of Faith!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A mighty blow <a href="../../rule/combat/turn/">turns</a> your foe&#39;s vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../rule/combat/turn/">turn</a>, enemies take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> made against you or any ally <a href="../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Driving Assault</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">As you force your enemy back with your weapon, you use your faith to stay close.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; <a href="../../movement/forced-movement/">push</a> 5</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a> in a straight line toward the target after <a href="../../movement/forced-movement/">pushing</a> them.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Gods Punish and Defend</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel holy energy to smite a foe and heal an ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../rule/health/recoveries/">Recovery</a> to allow yourself or one ally within 10 squares to regain <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/health/recoveries/">recovery value</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Repent!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You conjure memories of their sins to harry your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P holy damage; I &lt; WEAK, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + P holy damage; I &lt; AVERAGE, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + P holy damage; I &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5-Wrath Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 wrath to use. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Arrest</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;I got you, you son of a bitch.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M holy damage; <a href="../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M holy damage; <a href="../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M holy damage; <a href="../../condition/grabbed/">grabbed</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target makes a <a href="../../rule/combat/strike/">strike</a> against a creature while <a href="../../condition/grabbed/">grabbed</a> this way, you can spend 3 wrath to deal holy damage to them equal to your <a href="../../rule/character/presence/">Presence</a> score, then change the target of the <a href="../../rule/combat/strike/">strike</a> to another target within the <a href="../../rule/combat/strike/">strike</a>&#39;s <a href="../../rule/combat/distance/">distance</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Behold the Face of Justice!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You attack a foe and your enemies behold a vision of the true nature of your resolve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage; if the target has P &lt; WEAK, each enemy within 2 squares of them is <a href="../../condition/frightened/">frightened</a> of you (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is <a href="../../condition/frightened/">frightened</a> of you (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is <a href="../../condition/frightened/">frightened</a> of you (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../condition/frightened/">frightened</a> this way is <a href="../../movement/forced-movement/">pushed</a> up to 2 squares away from the target and takes psychic damage equal to your <a href="../../rule/character/presence/">Presence</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Censored</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Judged and <a href="../../feature/ability/censor/level-2/sentenced/">sentenced</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made <a href="../../rule/health/winded/">winded</a> by this ability, they are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Purifying Fire</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods judge, fire cleanses.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M holy damage; M &lt; WEAK, the target has fire weakness 3 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 2nd-Level Features
 
@@ -497,139 +875,307 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
+</div>
+</section>
 
 ### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants you two features, as shown on the 2nd-Level Order Features table.
-
-##### 2nd-Level Order Features Table
-
-| Order                    | Features                             |
-|--------------------------|--------------------------------------|
-| Exorcist                 | [Saint](../rule/world/saint.md)'s Vigilance, [A Sense for Truth](../feature/censor/level-2/a-sense-for-truth.md) |
-| Oracle                   | [It Was Foretold](../feature/censor/level-2/it-was-foretold.md), [Judge of Character](../feature/censor/level-2/judge-of-character.md)  |
-| Paragon                  | [Lead by Example](../feature/censor/level-2/lead-by-example.md), [Stalwart Icon](../feature/censor/level-2/stalwart-icon.md)       |
-
-#### It Was Foretold {data-scc="mcdm.heroes.v1/feature.censor.level-2/it-was-foretold"}
-
-Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first [turn](../rule/combat/turn.md). Additionally, whenever the Director calls for a [montage test](../rule/test/montage-test.md), you can make one free [test](../rule/test/test.md) before the montage begins, which counts as an earned success or failure as usual.
-
-#### Judge of Character {data-scc="mcdm.heroes.v1/feature.censor.level-2/judge-of-character"}
-
-Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an [Intuition](../rule/character/intuition.md) [test](../rule/test/test.md), you can make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) instead.
-
-#### Lead by Example {data-scc="mcdm.heroes.v1/feature.censor.level-2/lead-by-example"}
-
-Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are [adjacent](../rule/combat/adjacent.md) to a creature, your allies gain the benefits of [flanking](../rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to aid other creatures with their [tests](../rule/test/test.md).
-
-#### Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.censor.level-2/saints-vigilance"}
-
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../feature/common/maneuvers/hide.md) maneuver. Additionally, you gain an [edge](../rule/dice/edge.md) when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free [triggered action](../rule/combat/triggered-action.md).
-
-#### A Sense for Truth {data-scc="mcdm.heroes.v1/feature.censor.level-2/a-sense-for-truth"}
-
-You are trained in secret techniques from your order that allow you to discern the truth with [supernatural](../rule/general/supernatural.md) precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to detect lies or hidden motives.
-
-#### Stalwart Icon {data-scc="mcdm.heroes.v1/feature.censor.level-2/stalwart-icon"}
-
-You exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to intimidate or persuade others.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">2nd-Level Order Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you two features, as shown on the 2nd-Level Order Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Order Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Order</th><th>Features</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Vigilance, <a href="../../feature/censor/level-2/a-sense-for-truth/">A Sense for Truth</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-2/it-was-foretold/">It Was Foretold</a>, <a href="../../feature/censor/level-2/judge-of-character/">Judge of Character</a></td></tr><tr><td>Paragon</td><td><a href="../../feature/censor/level-2/lead-by-example/">Lead by Example</a>, <a href="../../feature/censor/level-2/stalwart-icon/">Stalwart Icon</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">It Was Foretold</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first <a href="../../rule/combat/turn/">turn</a>. Additionally, whenever the Director calls for a <a href="../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Judge of Character</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../rule/character/intuition/">Intuition</a> <a href="../../rule/test/test/">test</a>, you can make a <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> instead.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Lead by Example</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are <a href="../../rule/combat/adjacent/">adjacent</a> to a creature, your allies gain the benefits of <a href="../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../rule/test/test/">tests</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../feature/common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an <a href="../../rule/dice/edge/">edge</a> when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">A Sense for Truth</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You are trained in secret techniques from your order that allow you to discern the truth with <a href="../../rule/general/supernatural/">supernatural</a> precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to detect lies or hidden motives.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Stalwart Icon</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to intimidate or persuade others.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 2nd-Level Exorcist Ability
-
-Choose one of the following abilities.
-
-##### It Is Justice You Fear {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear"}
-
-
-*I am but a vessel. Your own deeds weigh upon you.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 8 + M holy damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-**Effect:** If the target is already [frightened](../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](../rule/character/presence.md) score.
-
-##### Revelator {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/revelator"}
-
-
-*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../feature/ability/censor/level-1/judgment.md).*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes holy damage equal to twice your [Presence](../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../rule/combat/turn.md). You can then use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../rule/combat/triggered-action.md).
-
-#### 2nd-Level Oracle Ability
-
-Choose one of the following abilities.
-
-##### Prescient Grace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace"}
-
-
-*Gifted by a prescient vision, you warn an ally of an impending attack.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |          **Triggered** |
-|-------------------|-----------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Trigger:** An enemy within 10 squares starts their [turn](../rule/combat/turn.md).
-
-**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow the target to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md). The target can then take their [turn](../rule/combat/turn.md) immediately before the triggering enemy.
-
-##### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
-
-
-*A word in prayer, and the gods show the way.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |         **Main action** |
-|-------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Effect:** The target can use a free [triggered action](../rule/combat/triggered-action.md) to use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md), and has a double [edge](../rule/dice/edge.md) on that ability. If a [heroic ability](../rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
-
-#### 2nd-Level Paragon Ability
-
-Choose one of the following abilities.
-
-##### Blessing of the Faithful {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful"}
-
-
-*The gods reward your faith.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
-
-##### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
-
-
-*The shock of your condemnation freezes your enemy in their boots.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + P damage; P < WEAK, [restrained](../condition/restrained.md) (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, [restrained](../condition/restrained.md) (save ends)
-- **17+:** 12 + P damage; P < STRONG, [restrained](../condition/restrained.md) (save ends)
-
-**Effect:** While the target is [restrained](../condition/restrained.md) this way, your abilities that impose [forced movement](../movement/forced-movement.md) can still move them.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">2nd-Level Order Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Exorcist Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">It Is Justice You Fear</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">I am but a vessel. Your own deeds weigh upon you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M holy damage; P &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M holy damage; P &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 + M holy damage; P &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is already <a href="../../condition/frightened/">frightened</a> of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Revelator</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel holy energy to harm unbelievers and reveal those hidden from your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next <a href="../../rule/combat/turn/">turn</a>. You can then use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Oracle Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Prescient Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Gifted by a prescient vision, you warn an ally of an impending attack.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>An enemy within 10 squares starts their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/health/recoveries/">recovery value</a>. The target can then take their <a href="../../rule/combat/turn/">turn</a> immediately before the triggering enemy.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">With My Blessing</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A word in prayer, and the gods show the way.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> or a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/general/heroic-ability/">heroic ability</a>, and has a double <a href="../../rule/dice/edge/">edge</a> on that ability. If a <a href="../../rule/general/heroic-ability/">heroic ability</a> is chosen, reduce its <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> cost by 3 (to a minimum cost of 0).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Paragon Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of the Faithful</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods reward your faith.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../rule/combat/turn/">turns</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sentenced</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The shock of your condemnation freezes your enemy in their boots.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../condition/restrained/">restrained</a> this way, your abilities that impose <a href="../../movement/forced-movement/">forced movement</a> can still move them.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 3rd-Level Features
 
@@ -637,55 +1183,117 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 
 ### Look On My Work and Despair {data-scc="mcdm.heroes.v1/feature.censor.level-3/look-on-my-work-and-despair"}
 
-Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 [Stamina](../rule/health/stamina.md) and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free [triggered action](../rule/combat/triggered-action.md), if the new target has P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends). If the target is already [frightened](../condition/frightened.md) of you, they instead take holy damage equal to twice your [Presence](../rule/character/presence.md) score.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Look On My Work and Despair</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a> has grown in <a href="../../feature/conduit/level-10/divine-power/">divine power</a>, instilling fear in those you condemn. Whenever you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability, you can spend 1 wrath, and if the target has P &lt; AVERAGE, they are <a href="../../condition/frightened/">frightened</a> of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> and you use <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, if the new target has P &lt; STRONG, they are <a href="../../condition/frightened/">frightened</a> of you (save ends). If the target is already <a href="../../condition/frightened/">frightened</a> of you, they instead take holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score.</p>
+</div>
+</section>
 
 ### 7-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-3/7-wrath-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 7 wrath to use.
-
-#### Edict of Disruptive Isolation {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-disruptive-isolation"}
-
-
-*The evil within your foes detonates with holy fire that burns only the guilty.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target takes holy damage equal to your [Presence](../rule/character/presence.md) score at the end of each of your [turns](../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../rule/combat/adjacent.md) to any enemy.
-
-#### Edict of Perfect Order {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order"}
-
-
-*Within the area of your divine presence, your enemies will regret using their fell abilities.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your [Presence](../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage.
-
-#### Edict of Purifying Pacifism {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-purifying-pacifism"}
-
-
-*You shed a righteous energy that punishes enemies who would harm you or your allies.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target makes a [strike](../rule/combat/strike.md), they take holy damage equal to twice your [Presence](../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage.
-
-#### Edict of Stillness {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-stillness"}
-
-
-*The holy [aura](../rule/combat/aura.md) you project makes it painful for evil-doers to leave your reach.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target moves or is [force moved](../movement/forced-movement.md) out of the area, they take holy damage equal to twice your [Presence](../rule/character/presence.md) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">7-Wrath Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 wrath to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Disruptive Isolation</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The evil within your foes detonates with holy fire that burns only the guilty.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each target takes holy damage equal to your <a href="../../rule/character/presence/">Presence</a> score at the end of each of your <a href="../../rule/combat/turn/">turns</a>. A target takes an extra 2d6 holy damage if they are judged by you or if they are <a href="../../rule/combat/adjacent/">adjacent</a> to any enemy.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Perfect Order</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Within the area of your divine presence, your enemies will regret using their fell abilities.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your <a href="../../rule/character/presence/">Presence</a> score. A target judged by you takes an extra 2d6 holy damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Purifying Pacifism</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You shed a righteous energy that punishes enemies who would harm you or your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, whenever a target makes a <a href="../../rule/combat/strike/">strike</a>, they take holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score. A target judged by you takes an extra 2d6 holy damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Stillness</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The holy <a href="../../rule/combat/aura/">aura</a> you project makes it painful for evil-doers to leave your reach.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, whenever a target moves or is <a href="../../movement/forced-movement/">force moved</a> out of the area, they take holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 4th-Level Features
 
@@ -693,101 +1301,250 @@ As a 4th-level [censor](censor.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-4/characteristic-increase"}
 
-Your [Might](../rule/character/might.md) and [Presence](../rule/character/presence.md) scores each increase to 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 3.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-4/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-4/skill"}
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
+</div>
+</section>
 
 ### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath"}
 
-The first time each [combat round](../rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Wrath Beyond Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.</p>
+</div>
+</section>
 
 ### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature"}
 
-You gain a domain feature from your domain, as shown on the 4th-Level [Censor](censor.md) Domain Features table.
-
-##### 4th-Level Censor Domain Features Table
-
-| Domain                           | Feature                     |
-|----------------------------------|-----------------------------|
-| Creation                         | [Improved Hands of the Maker](../feature/censor/level-4/improved-hands-of-the-maker.md) |
-| Death                            | [Seance](../feature/censor/level-4/seance.md)                      |
-| Fate                             | [Oracular Warning](../feature/censor/level-4/oracular-warning.md)            |
-| Knowledge                        | [Saint](../rule/world/saint.md)'s Epiphany            |
-| Life                             | [Blessing of Life](../feature/censor/level-4/blessing-of-life.md)            |
-| Love                             | [Invocation of the Heart](../feature/censor/level-4/invocation-of-the-heart.md)     |
-| Nature                           | [Wode Road](../feature/censor/level-4/wode-road.md)                   |
-| Protection                       | [Impervious Touch](../feature/censor/level-4/impervious-touch.md)            |
-| Storm                            | [Windwalk](../feature/censor/level-4/windwalk.md)                    |
-| Sun                              | [Light of Revelation](../feature/censor/level-4/light-of-revelation.md)         |
-| Trickery                         | [Blessing of Secrets](../feature/ability/censor/level-4/blessing-of-secrets.md)         |
-| War                              | [Improved Sanctified Weapon](../feature/censor/level-4/improved-sanctified-weapon.md)  |
-
-#### Blessing of Life {data-scc="mcdm.heroes.v1/feature.censor.level-4/blessing-of-life"}
-
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within [distance](../rule/combat/distance.md) of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability regains [Stamina](../rule/health/stamina.md), they regain additional [Stamina](../rule/health/stamina.md) equal to your [Presence](../rule/character/presence.md) score.
-
-#### Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.censor.level-4/blessing-of-secrets"}
-
-You have the following ability.
-
-##### Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets"}
-
-
-*You project an illusory [aura](../rule/combat/aura.md) that makes you and allies harder to notice.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/intrigue/hide.md) or [sneak](../skill/intrigue/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-
-#### Impervious Touch {data-scc="mcdm.heroes.v1/feature.censor.level-4/impervious-touch"}
-
-As a maneuver, you can touch an object with a [size](../rule/character/size.md) equal to your [Presence](../rule/character/presence.md) score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your [Presence](../rule/character/presence.md) score, and you can end the spell on any object at any time (no action required).
-
-Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director's approval) that is of a [size](../rule/character/size.md) larger than your [Presence](../rule/character/presence.md) score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your [Presence](../rule/character/presence.md) score simultaneously.
-
-#### Improved Hands of the Maker {data-scc="mcdm.heroes.v1/feature.censor.level-4/improved-hands-of-the-maker"}
-
-When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is [size](../rule/character/size.md) 2 or smaller.
-
-#### Improved Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-4/improved-sanctified-weapon"}
-
-The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
-
-#### Invocation of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart"}
-
-As a main action, you forge a bond of love and friendship with one willing creature you touch. While this bond is active, you can telepathically speak with the creature over any [distance](../rule/combat/distance.md), including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any [test](../rule/test/test.md) they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).
-
-#### Light of Revelation {data-scc="mcdm.heroes.v1/feature.censor.level-4/light-of-revelation"}
-
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../rule/general/supernatural.md) illusions.
-
-#### Oracular Warning {data-scc="mcdm.heroes.v1/feature.censor.level-4/oracular-warning"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can share the vague dreams of the future granted to you by the gods with allies who finished the [respite](../rule/resource/respite.md) with you. These premonitions help you and your allies stay alive, granting each of you [temporary Stamina](../rule/health/temporary-stamina.md) equal to 10 + your level that lasts until you finish another [respite](../rule/resource/respite.md).
-
-#### Seance {data-scc="mcdm.heroes.v1/feature.censor.level-4/seance"}
-
-You can commune with a network of spirits. As a [respite](../rule/resource/respite.md) activity, you speak the name of a creature who died and isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can speak another name or choose another [respite](../rule/resource/respite.md) activity.
-
-#### Saint's Epiphany {data-scc="mcdm.heroes.v1/feature.censor.level-4/saints-epiphany"}
-
-At the start of a [respite](../rule/resource/respite.md), you can inspire yourself or another creature taking the same [respite](../rule/resource/respite.md) with divine knowledge. If the target makes a [project roll](../rule/downtime/project-roll.md) during this [respite](../rule/resource/respite.md), they can add 1d10 plus your [Presence](../rule/character/presence.md) score to the roll.
-
-#### Windwalk {data-scc="mcdm.heroes.v1/feature.censor.level-4/windwalk"}
-
-While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
-
-#### Wode Road {data-scc="mcdm.heroes.v1/feature.censor.level-4/wode-road"}
-
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your [Presence](../rule/character/presence.md) score. Whenever you touch any tree in your network, you can use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your [distance](../rule/combat/distance.md) from it, including across different worlds (no action required).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">4th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a domain feature from your domain, as shown on the 4th-Level <a href="./">Censor</a> Domain Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">4th-Level Censor Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/censor/level-4/improved-hands-of-the-maker/">Improved Hands of the Maker</a></td></tr><tr><td>Death</td><td><a href="../../feature/censor/level-4/seance/">Seance</a></td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-4/oracular-warning/">Oracular Warning</a></td></tr><tr><td>Knowledge</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Epiphany</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-4/blessing-of-life/">Blessing of Life</a></td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a></td></tr><tr><td>Nature</td><td><a href="../../feature/censor/level-4/wode-road/">Wode Road</a></td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-4/impervious-touch/">Impervious Touch</a></td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-4/windwalk/">Windwalk</a></td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-4/light-of-revelation/">Light of Revelation</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-4/blessing-of-secrets/">Blessing of Secrets</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-4/improved-sanctified-weapon/">Improved Sanctified Weapon</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Life</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/character/presence/">Presence</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Secrets</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of Secrets</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You project an illusory <a href="../../rule/combat/aura/">aura</a> that makes you and allies harder to notice.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to <a href="../../skill/intrigue/hide/">hide</a> or <a href="../../skill/intrigue/sneak/">sneak</a>. The <a href="../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Impervious Touch</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can touch an object with a <a href="../../rule/character/size/">size</a> equal to your <a href="../../rule/character/presence/">Presence</a> score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your <a href="../../rule/character/presence/">Presence</a> score, and you can end the spell on any object at any time (no action required).</p>
+<p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a <a href="../../rule/character/size/">size</a> larger than your <a href="../../rule/character/presence/">Presence</a> score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your <a href="../../rule/character/presence/">Presence</a> score simultaneously.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Improved Hands of the Maker</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you use your <a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../rule/character/size/">size</a> 2 or smaller.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The weapon improved by your <a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Invocation of the Heart</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a main action, you forge a bond of love and friendship with one willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any <a href="../../rule/test/test/">test</a> they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Light of Revelation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect <a href="../../rule/general/supernatural/">supernatural</a> illusions.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Oracular Warning</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can share the vague dreams of the future granted to you by the gods with allies who finished the <a href="../../rule/resource/respite/">respite</a> with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Seance</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can commune with a network of spirits. As a <a href="../../rule/resource/respite/">respite</a> activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another <a href="../../rule/resource/respite/">respite</a> activity.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a <a href="../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../rule/downtime/project-roll/">project roll</a> during this <a href="../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../rule/character/presence/">Presence</a> score to the roll.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Windwalk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you can <a href="../../movement/fly/">fly</a>. If you can already <a href="../../movement/fly/">fly</a>, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> while <a href="../../movement/fly/">flying</a> instead.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wode Road</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your <a href="../../rule/character/presence/">Presence</a> score. Whenever you touch any tree in your network, you can use a main action to <a href="../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your <a href="../../rule/combat/distance/">distance</a> from it, including across different worlds (no action required).</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 5th-Level Features
 
@@ -795,93 +1552,183 @@ As a 5th-level [censor](censor.md), you gain the following features.
 
 ### 5th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-5/5th-level-order-feature"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants you a feature, as shown on the 5th-Level Order Features table.
-
-##### 5th-Level Order Features Table
-
-| Order                    | Feature       |
-|--------------------------|---------------|
-| Exorcist                 | [Evil Revealed](../feature/censor/level-5/evil-revealed.md) |
-| Oracle                   | [Prophecy](../feature/censor/level-5/prophecy.md)      |
-| Paragon                  | [Stand Fast](../feature/censor/level-5/stand-fast.md)!   |
-
-#### Evil Revealed {data-scc="mcdm.heroes.v1/feature.censor.level-5/evil-revealed"}
-
-Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature's disguise or illusion, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free [triggered action](../rule/combat/triggered-action.md).
-
-#### Prophecy {data-scc="mcdm.heroes.v1/feature.censor.level-5/prophecy"}
-
-You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more [Victories](../rule/resource/victories.md), you can make a number of 2d10 rolls equal to the number of [Victories](../rule/resource/victories.md) you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to replace the total on the dice with your first recorded roll.
-
-You discard each roll as it is used, and each time you earn [Victories](../rule/resource/victories.md), you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a [respite](../rule/resource/respite.md).
-
-#### Stand Fast! {data-scc="mcdm.heroes.v1/feature.censor.level-5/stand-fast"}
-
-Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your [turns](../rule/combat/turn.md), you can spend 1d6 [Stamina](../rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turn](../rule/combat/turn.md). Any ally who starts their [turn](../rule/combat/turn.md) within 5 squares of you can also spend [Stamina](../rule/health/stamina.md) to gain this benefit.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">5th-Level Order Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you a feature, as shown on the 5th-Level Order Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5th-Level Order Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../feature/censor/level-5/evil-revealed/">Evil Revealed</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-5/prophecy/">Prophecy</a></td></tr><tr><td>Paragon</td><td><a href="../../feature/censor/level-5/stand-fast/">Stand Fast</a>!</td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Evil Revealed</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prophecy</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more <a href="../../rule/resource/victories/">Victories</a>, you can make a number of 2d10 rolls equal to the number of <a href="../../rule/resource/victories/">Victories</a> you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a <a href="../../rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to replace the total on the dice with your first recorded roll.</p>
+<p>You discard each roll as it is used, and each time you earn <a href="../../rule/resource/victories/">Victories</a>, you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Stand Fast!</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your <a href="../../rule/combat/turn/">turns</a>, you can spend 1d6 <a href="../../rule/health/stamina/">Stamina</a> to end one effect on you that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../rule/combat/turn/">turn</a>. Any ally who starts their <a href="../../rule/combat/turn/">turn</a> within 5 squares of you can also spend <a href="../../rule/health/stamina/">Stamina</a> to gain this benefit.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 9 wrath to use.
-
-#### Gods Grant Thee Strength {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/gods-grant-thee-strength"}
-
-
-*You channel divine force for movement that cannot be stopped.*
-
-| **[Ranged](../rule/combat/ranged.md)** |         **Main action** |
-|------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |
-
-**Effect:** The target ends any [condition](../rule/combat/condition.md) or effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone target](../condition/prone.md) can stand up. The target then gains 2 [surges](../rule/resource/surge.md), can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md) while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) as a free [triggered action](../rule/combat/triggered-action.md).
-
-#### Orison of Victory {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory"}
-
-
-*You channel your god's will to overcome hardship and inflict pain.*
-
-| **Area**       |                          **Maneuver** |
-|----------------|--------------------------------------:|
-| **📏 1 [burst](../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** Each target gains 1 [surge](../rule/resource/surge.md).
-- **12-16:** Each target gains 2 [surges](../rule/resource/surge.md).
-- **17+:** Each target gains 3 [surges](../rule/resource/surge.md).
-
-**Effect:** A target can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone target](../condition/prone.md) can stand up.
-
-#### Righteous Judgment {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment"}
-
-
-*You amplify the power of your [judgment](../feature/ability/censor/level-1/judgment.md).*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**   |          **Main action** |
-|----------------------------|-------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             |      **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 10 + M damage
-- **12-16:** 14 + M damage
-- **17+:** 20 + M damage
-
-**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../rule/resource/surge.md).
-
-#### Shield of the Righteous {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous"}
-
-
-*You strike a foe and create a fleet of divine shields that protect your allies.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |          **Main action** |
-|---------------------------|-------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            |      **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 10 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md)
-- **12-16:** 14 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 15 [temporary Stamina](../rule/health/temporary-stamina.md)
-- **17+:** 20 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 20 [temporary Stamina](../rule/health/temporary-stamina.md)
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">9-Wrath Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 wrath to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Gods Grant Thee Strength</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel divine force for movement that cannot be stopped.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target ends any <a href="../../rule/combat/condition/">condition</a> or effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or a <a href="../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../rule/resource/surge/">surges</a>, can <a href="../../movement/shifting/">shift</a> up to their <a href="../../rule/character/speed/">speed</a> while ignoring <a href="../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Orison of Victory</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel your god&#39;s will to overcome hardship and inflict pain.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../rule/resource/surge/">surge</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../rule/resource/surge/">surges</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Each target gains 3 <a href="../../rule/resource/surge/">surges</a>.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or a <a href="../../condition/prone/">prone target</a> can stand up.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Righteous Judgment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You amplify the power of your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 <a href="../../rule/resource/surge/">surge</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Shield of the Righteous</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You strike a foe and create a fleet of divine shields that protect your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally <a href="../../rule/combat/adjacent/">adjacent</a> to you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally <a href="../../rule/combat/adjacent/">adjacent</a> to you gain 15 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; you and each ally <a href="../../rule/combat/adjacent/">adjacent</a> to you gain 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 6th-Level Features
 
@@ -889,116 +1736,234 @@ As a 6th-level [censor](censor.md), you gain the following features.
 
 ### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose one hero's weapon, including your own, to channel [supernatural](../rule/general/supernatural.md) power as an [implement](../rule/treasure/implement.md) of your god's wrath. The weapon becomes magic and gains the following benefits until your next [respite](../rule/resource/respite.md):
-
-- Strikes with the weapon deal extra holy damage equal to the wielder's highest [characteristic](../rule/character/characteristic.md) score.
-- Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../condition/frightened.md) and [weakened](../condition/weakened.md) (save ends).
-- Any minion targeted by a [strike](../rule/combat/strike.md) using the weapon dies. That minion's [Stamina](../rule/health/stamina.md) maximum is removed from the minion [Stamina](../rule/health/stamina.md) pool before any damage is applied to the rest of the squad.
-- The weapon's wielder can't be made [frightened](../condition/frightened.md).
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Implement of Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose one hero&#39;s weapon, including your own, to channel <a href="../../rule/general/supernatural/">supernatural</a> power as an <a href="../../rule/treasure/implement/">implement</a> of your god&#39;s wrath. The weapon becomes magic and gains the following benefits until your next <a href="../../rule/resource/respite/">respite</a>:</p>
+<ul><li>Strikes with the weapon deal extra holy damage equal to the wielder&#39;s highest <a href="../../rule/character/characteristic/">characteristic</a> score.</li><li>Any creature struck by the weapon who has holy weakness and has P &lt; STRONG is <a href="../../condition/frightened/">frightened</a> and <a href="../../condition/weakened/">weakened</a> (save ends).</li><li>Any minion targeted by a <a href="../../rule/combat/strike/">strike</a> using the weapon dies. That minion&#39;s <a href="../../rule/health/stamina/">Stamina</a> maximum is removed from the minion <a href="../../rule/health/stamina/">Stamina</a> pool before any damage is applied to the rest of the squad.</li><li>The weapon&#39;s wielder can&#39;t be made <a href="../../condition/frightened/">frightened</a>.</li></ul>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 6th-Level Exorcist Abilities
-
-Choose one of the following abilities.
-
-##### Begone! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/begone"}
-
-
-*You terrify your enemies into retreating, creating chaos in their ranks.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 4 psychic damage; [slide](../movement/forced-movement.md) 3
-- **12-16:** 6 psychic damage; [slide](../movement/forced-movement.md) 5
-- **17+:** 8 psychic damage; [slide](../movement/forced-movement.md) 7
-
-##### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
-
-
-*You reverse the effects from an evildoer.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |      **Free triggered** |
-|-------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target gains a [condition](../rule/combat/condition.md) or effect that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
-
-**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../rule/character/presence.md) score.
-
-#### 6th-Level Oracle Abilities
-
-Choose one of the following abilities.
-
-##### Burden of Evil {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil"}
-
-
-*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |         **Maneuver** |
-|---------------------------|---------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** [Slide](../movement/forced-movement.md) 3; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** [Slide](../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** [Slide](../movement/forced-movement.md) 7; I < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-##### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
-
-
-*You anticipate your foes' moves and deny them.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever any target takes a [triggered action](../rule/combat/triggered-action.md) or a free [triggered action](../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your [Presence](../rule/character/presence.md) score.
-
-#### 6th-Level Paragon Abilities
-
-Choose one of the following abilities.
-
-##### Congregation {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/congregation"}
-
-
-*You focus your allies' wrath on a chosen foe.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |   **Main action** |
-|---------------------------|------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 8 + M damage; as a free [triggered action](../rule/combat/triggered-action.md), one ally within 10 squares of the target can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) against the target
-- **12-16:** 12 + M damage; as a free [triggered action](../rule/combat/triggered-action.md), one ally within 10 squares of the target can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) that gains an [edge](../rule/dice/edge.md) against the target
-- **17+:** 16 + M damage; as a free [triggered action](../rule/combat/triggered-action.md), two allies within 10 squares of the target can each use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) that gains an [edge](../rule/dice/edge.md) against the target
-
-**Effect:** Each ally can [shift](../movement/shifting.md) up to 2 squares and gains 2 [surges](../rule/resource/surge.md) before making the [strike](../rule/combat/strike.md).
-
-##### Intercede {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/intercede"}
-
-
-*You take your ally's place.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** | **Free triggered** |
-|-------------------|-------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  |    **🎯 One ally** |
-
-**Trigger:** A creature makes a [strike](../rule/combat/strike.md) against the target.
-
-**Effect:** The target is unaffected by the [strike](../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../rule/combat/strike.md), and the target gains 3 [surges](../rule/resource/surge.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">6th-Level Order Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Exorcist Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Begone!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You terrify your enemies into retreating, creating chaos in their ranks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; <a href="../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; <a href="../../movement/forced-movement/">slide</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; <a href="../../movement/forced-movement/">slide</a> 7</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Pain of Your Own Making</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You reverse the effects from an evildoer.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../rule/combat/condition/">condition</a> or effect that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your <a href="../../rule/character/presence/">Presence</a> score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Oracle Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Burden of Evil</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You reveal a vision of your enemies&#39; fate that causes them to scramble as it staggers them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 3; I &lt; WEAK, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 5; I &lt; AVERAGE, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 7; I &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Peace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You anticipate your foes&#39; moves and deny them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, whenever any target takes a <a href="../../rule/combat/triggered-action/">triggered action</a> or a free <a href="../../rule/combat/triggered-action/">triggered action</a>, that action is negated and the target takes holy damage equal to your <a href="../../rule/character/presence/">Presence</a> score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Paragon Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Congregation</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You focus your allies&#39; wrath on a chosen foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, one ally within 10 squares of the target can use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> against the target</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, one ally within 10 squares of the target can use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../rule/dice/edge/">edge</a> against the target</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, two allies within 10 squares of the target can each use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../rule/dice/edge/">edge</a> against the target</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally can <a href="../../movement/shifting/">shift</a> up to 2 squares and gains 2 <a href="../../rule/resource/surge/">surges</a> before making the <a href="../../rule/combat/strike/">strike</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Intercede</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You take your ally&#39;s place.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature makes a <a href="../../rule/combat/strike/">strike</a> against the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is unaffected by the <a href="../../rule/combat/strike/">strike</a> and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the <a href="../../rule/combat/strike/">strike</a>, and the target gains 3 <a href="../../rule/resource/surge/">surges</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 7th-Level Features
 
@@ -1006,116 +1971,258 @@ As a 7th-level [censor](censor.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-7/characteristic-increase"}
 
-Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
+</div>
+</section>
 
 ### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-7/7th-level-domain-feature"}
 
-You gain a domain feature from your domain, as shown on the 7th-Level [Censor](censor.md) Domain Features table.
-
-##### 7th-Level Censor Domain Features Table
-
-| Domain     | Feature                      |
-|------------|------------------------------|
-| Creation   | [Divine Quartermaster](../feature/censor/level-7/divine-quartermaster.md)         |
-| Death      | [Word of Death Deferred](../feature/censor/level-7/word-of-death-deferred.md)       |
-| Fate       | [Word of Fate Denied](../feature/censor/level-7/word-of-fate-denied.md)          |
-| Knowledge  | Gods' Library                |
-| Life       | [Font of Grace](../feature/censor/level-7/font-of-grace.md)                |
-| Love       | [Covenant of the Heart](../feature/censor/level-7/covenant-of-the-heart.md)        |
-| Nature     | Nature's Bounty              |
-| Protection | [Blessing of Iron](../feature/censor/level-7/blessing-of-iron.md)             |
-| Storm      | [Ride the Lightning](../feature/censor/level-7/ride-the-lightning.md)           |
-| Sun        | [Light of the Burning Sun](../feature/censor/level-7/light-of-the-burning-sun.md)     |
-| Trickery   | [Trinity of Trickery](../feature/ability/censor/level-7/trinity-of-trickery.md)          |
-| War        | [Your Triumphs Are Remembered](../feature/censor/level-7/your-triumphs-are-remembered.md) |
-
-#### Blessing of Iron {data-scc="mcdm.heroes.v1/feature.censor.level-7/blessing-of-iron"}
-
-The gods send divine favor to you and your allies. While you are not [dying](../rule/health/dying.md), enemies take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you or any ally within 3 squares of you.
-
-#### Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-7/covenant-of-the-heart"}
-
-You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../feature/censor/level-4/invocation-of-the-heart.md) feature. Additionally, you have the following ability.
-
-##### Guided to Your Side {data-scc="mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side"}
-
-
-*You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |           **Main action** |
-|-------------------|--------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self and each ally** |
-
-**Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
-
-#### Divine Quartermaster {data-scc="mcdm.heroes.v1/feature.censor.level-7/divine-quartermaster"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another [respite](../rule/resource/respite.md) or it is consumed.
-
-#### Font of Grace {data-scc="mcdm.heroes.v1/feature.censor.level-7/font-of-grace"}
-
-Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same [turn](../rule/combat/turn.md). If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
-
-#### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
-
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/index.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/index.md) before you gained this feature.
-
-#### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.censor.level-7/light-of-the-burning-sun"}
-
-Sun infuses your body. Whenever you use an ability to deal [rolled damage](../rule/damage/rolled-damage.md) to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
-
-#### Nature's Bounty {data-scc="mcdm.heroes.v1/feature.censor.level-7/natures-bounty"}
-
-When you finish a [respite](../rule/resource/respite.md), you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
-
-- Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../rule/damage/damage-immunity.md) each time.
-- Each creature gains 20 [temporary Stamina](../rule/health/temporary-stamina.md).
-- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
-- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
-- Each creature gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to influence other creatures.
-
-Each benefit lasts until the creature who gains it finishes another [respite](../rule/resource/respite.md).
-
-#### Ride the Lightning {data-scc="mcdm.heroes.v1/feature.censor.level-7/ride-the-lightning"}
-
-Lightning and thunder infuse your body. Whenever you use an ability to deal [rolled damage](../rule/damage/rolled-damage.md) to another creature, the ability deals extra lightning damage equal to your [Presence](../rule/character/presence.md) score. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Presence](../rule/character/presence.md) score. While you are under the effect of your [Windwalk](../feature/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Might](../rule/character/might.md) score. If [Windwalk](../feature/censor/level-4/windwalk.md) already grants you a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), this [bonus](../rule/dice/bonuses-and-penalties.md) adds to that.
-
-#### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.censor.level-7/trinity-of-trickery"}
-
-You have the following ability.
-
-##### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.ability.censor.level-7/trinity-of-trickery"}
-
-
-*Hey! I'm over here. No, here, numbskull.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|-------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../rule/combat/turn.md), the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
-
-#### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-death-deferred"}
-
-You can stop death from taking your allies. When an ally within [distance](../rule/combat/distance.md) of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability dies and you are not [dying](../rule/health/dying.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to instead have that ally fall unconscious until they regain [Stamina](../rule/health/stamina.md).
-
-Additionally, your abilities deal an extra 5 damage to [winded](../rule/health/winded.md) creatures.
-
-#### Word of Fate Denied {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-fate-denied"}
-
-When an ally within 10 squares takes damage that would leave them [dying](../rule/health/dying.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
-
-#### Your Triumphs Are Remembered {data-scc="mcdm.heroes.v1/feature.censor.level-7/your-triumphs-are-remembered"}
-
-The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a [respite](../rule/resource/respite.md), you and any other heroes who rested with you regain 1 [Victory](../rule/resource/victories.md) after your [Victories](../rule/resource/victories.md) are converted to [XP](../rule/resource/experience.md). This [Victory](../rule/resource/victories.md) isn't converted into [XP](../rule/resource/experience.md) at the end of a subsequent [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">7th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a domain feature from your domain, as shown on the 7th-Level <a href="./">Censor</a> Domain Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">7th-Level Censor Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/censor/level-7/divine-quartermaster/">Divine Quartermaster</a></td></tr><tr><td>Death</td><td><a href="../../feature/censor/level-7/word-of-death-deferred/">Word of Death Deferred</a></td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-7/word-of-fate-denied/">Word of Fate Denied</a></td></tr><tr><td>Knowledge</td><td>Gods&#39; Library</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-7/font-of-grace/">Font of Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-7/covenant-of-the-heart/">Covenant of the Heart</a></td></tr><tr><td>Nature</td><td>Nature&#39;s Bounty</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-7/blessing-of-iron/">Blessing of Iron</a></td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-7/ride-the-lightning/">Ride the Lightning</a></td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-7/light-of-the-burning-sun/">Light of the Burning Sun</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-7/trinity-of-trickery/">Trinity of Trickery</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-7/your-triumphs-are-remembered/">Your Triumphs Are Remembered</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Iron</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods send divine favor to you and your allies. While you are not <a href="../../rule/health/dying/">dying</a>, enemies take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against you or any ally within 3 squares of you.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Covenant of the Heart</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can maintain bonds with up to three willing creatures using your <a href="../../feature/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. Additionally, you have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Guided to Your Side</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You concentrate on a friend and <a href="../../movement/teleport/">teleport</a> to them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your <a href="../../feature/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. You don&#39;t need <a href="../../rule/combat/line-of-effect/">line of effect</a> to the bonded creature but you must be on the same world.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Divine Quartermaster</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another <a href="../../rule/resource/respite/">respite</a> or it is consumed.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Font of Grace</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you use your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same <a href="../../rule/combat/turn/">turn</a>. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Gods&#39; Library</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and <a href="../../rule/downtime/research-project/">research projects</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to <a href="../../rule/downtime/project-roll/">project rolls</a> you make for crafting and <a href="../../rule/downtime/research-project/">research projects</a>. You also have any skills in the <a href="../../skill/lore/">lore skill group</a> you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the <a href="../../skill/lore/">lore skill group</a> before you gained this feature.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Light of the Burning Sun</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Sun infuses your body. Whenever you use an ability to deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
+<p>Each benefit lasts until the creature who gains it finishes another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ride the Lightning</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Lightning and thunder infuse your body. Whenever you use an ability to deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to another creature, the ability deals extra lightning damage equal to your <a href="../../rule/character/presence/">Presence</a> score. Additionally, if you use an ability that force moves a creature, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/presence/">Presence</a> score. While you are under the effect of your <a href="../../feature/censor/level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> equal to your <a href="../../rule/character/might/">Might</a> score. If <a href="../../feature/censor/level-4/windwalk/">Windwalk</a> already grants you a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, this <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> adds to that.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Trinity of Trickery</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Trinity of Trickery</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Hey! I&#39;m over here. No, here, numbskull.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their <a href="../../rule/combat/turn/">turns</a>, the target can move each duplicate up to their <a href="../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Word of Death Deferred</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can stop death from taking your allies. When an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to instead have that ally fall unconscious until they regain <a href="../../rule/health/stamina/">Stamina</a>.</p>
+<p>Additionally, your abilities deal an extra 5 damage to <a href="../../rule/health/winded/">winded</a> creatures.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Word of Fate Denied</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When an ally within 10 squares takes damage that would leave them <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../rule/resource/victories/">Victory</a> after your <a href="../../rule/resource/victories/">Victories</a> are converted to <a href="../../rule/resource/experience/">XP</a>. This <a href="../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath"}
 
-When you gain wrath at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 3 wrath instead of 2.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Focused Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you gain wrath at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 3 wrath instead of 2.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ## 8th-Level Features
 
@@ -1123,103 +2230,210 @@ As an 8th-level [censor](censor.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-8/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### 8th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-8/8th-level-order-feature"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants you a feature, as shown on the 8th-Level Order Features table.
-
-##### 8th-Level Order Features Table
-
-| Order                    | Feature             |
-|--------------------------|---------------------|
-| Exorcist                 | [Demonologist](../feature/censor/level-8/demonologist.md)        |
-| Oracle                   | [Their Past Revealed](../feature/censor/level-8/their-past-revealed.md) |
-| Paragon                  | Vow                 |
-
-#### Demonologist {data-scc="mcdm.heroes.v1/feature.censor.level-8/demonologist"}
-
-The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your [Renown](../rule/resource/renown.md) as 2 higher than usual when dealing with demons, [devils](../ancestry/devil.md), and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against them and can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free [triggered action](../rule/combat/triggered-action.md) before an encounter begins.
-
-#### Their Past Revealed {data-scc="mcdm.heroes.v1/feature.censor.level-8/their-past-revealed"}
-
-Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium [Presence](../rule/character/presence.md) [test](../rule/test/test.md) to see visions from their past. On a success, you see a clear view of any subject related to the creature's past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 [Stamina](../rule/health/stamina.md).
-
-#### Vow {data-scc="mcdm.heroes.v1/feature.censor.level-8/vow"}
-
-Your words take on the power of your deity, with all the authority that entails. If you convince a creature to take an oath, they can't break it for 7 days. If you take an oath, you can't break it for 7 days.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">8th-Level Order Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you a feature, as shown on the 8th-Level Order Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">8th-Level Order Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../feature/censor/level-8/demonologist/">Demonologist</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-8/their-past-revealed/">Their Past Revealed</a></td></tr><tr><td>Paragon</td><td>Vow</td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Demonologist</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your <a href="../../rule/resource/renown/">Renown</a> as 2 higher than usual when dealing with demons, <a href="../../ancestry/devil/">devils</a>, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> made against them and can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a> before an encounter begins.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Their Past Revealed</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 <a href="../../rule/health/stamina/">Stamina</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Vow</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your words take on the power of your deity, with all the authority that entails. If you convince a creature to take an oath, they can&#39;t break it for 7 days. If you take an oath, you can&#39;t break it for 7 days.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 11-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-8/11-wrath-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 11 wrath to use.
-
-#### Excommunication {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/excommunication"}
-
-
-*You curse your foe to become a bane to their allies.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 9 + M damage; I < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 18 + M damage; I < STRONG, [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** At the end of each of your [turns](../rule/combat/turn.md), a target [weakened](../condition/weakened.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../condition/weakened.md) this way can't be targeted by their allies' abilities.
-
-#### Hand of the Gods {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods"}
-
-
-*You use your foe as a tool against your enemies.*
-
-| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 10 + M damage
-- **12-16:** 15 + M damage
-- **17+:** 21 + M damage
-
-**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../rule/combat/flanking.md).
-
-#### Pillar of Holy Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire"}
-
-
-*Your enemy's guilt fuels a holy flame that burns your foes.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 9 + M damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** 13 + M damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** 18 + M damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-**Effect:** At the end of each of your [turns](../rule/combat/turn.md), a target [dazed](../condition/dazed.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them.
-
-#### Your Allies Turn on You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you"}
-
-
-*You [turn](../rule/combat/turn.md) your enemies' ire to the target.*
-
-| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           |           **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + P damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 9 + P damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 12 + P damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
-
-**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their [turn](../rule/combat/turn.md) within 5 squares of them must use a [free maneuver](../rule/combat/free-maneuver.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../feature/common/main-actions/free-strike.md) against a different creature must make the [free strike](../feature/common/main-actions/free-strike.md) against the target instead.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">11-Wrath Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 wrath to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Excommunication</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You curse your foe to become a bane to their allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage; I &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage; I &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + M damage; I &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../rule/combat/turn/">turns</a>, a target <a href="../../condition/weakened/">weakened</a> this way deals holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them. Additionally, a target <a href="../../condition/weakened/">weakened</a> this way can&#39;t be targeted by their allies&#39; abilities.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Hand of the Gods</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You use your foe as a tool against your enemies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of <a href="../../rule/combat/flanking/">flanking</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Pillar of Holy Fire</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your enemy&#39;s guilt fuels a holy flame that burns your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage; I &lt; WEAK, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage; I &lt; AVERAGE, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + M damage; I &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../rule/combat/turn/">turns</a>, a target <a href="../../condition/dazed/">dazed</a> this way deals holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Your Allies Turn on You!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You <a href="../../rule/combat/turn/">turn</a> your enemies&#39; ire to the target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; I &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; I &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; I &lt; STRONG, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../condition/slowed/">slowed</a> this way, each of their allies who starts their <a href="../../rule/combat/turn/">turn</a> within 5 squares of them must use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../feature/common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../feature/common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 9th-Level Features
 
@@ -1227,115 +2441,226 @@ As a 9th-level [censor](censor.md), you gain the following features.
 
 ### Improved Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-9/improved-implement-of-wrath"}
 
-The weapon you target with your [Implement of Wrath](../feature/censor/level-6/implement-of-wrath.md) feature gains the following additional benefits:
-
-- The weapon's wielder and each ally [adjacent](../rule/combat/adjacent.md) to them gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
-- At the end of each of the weapon wielder's [turns](../rule/combat/turn.md), each ally [adjacent](../rule/combat/adjacent.md) to the wielder makes a [saving throw](../rule/general/saving-throw.md) against each effect on them that is ended by a [saving throw](../rule/general/saving-throw.md).
-- The weapon's wielder has corruption immunity 10.
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Improved Implement of Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>The weapon you target with your <a href="../../feature/censor/level-6/implement-of-wrath/">Implement of Wrath</a> feature gains the following additional benefits:</p>
+<ul><li>The weapon&#39;s wielder and each ally <a href="../../rule/combat/adjacent/">adjacent</a> to them gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</li><li>At the end of each of the weapon wielder&#39;s <a href="../../rule/combat/turn/">turns</a>, each ally <a href="../../rule/combat/adjacent/">adjacent</a> to the wielder makes a <a href="../../rule/general/saving-throw/">saving throw</a> against each effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a>.</li><li>The weapon&#39;s wielder has corruption immunity 10.</li></ul>
+</div>
+</section>
 
 ### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
 
-Your [censor order](../feature/censor/level-1/censor-order.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 9th-Level Exorcist Abilities
-
-Choose one of the following abilities.
-
-##### Banish {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/banish"}
-
-
-*You sever the target's tenuous connection to the world.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 5 + M damage; P < WEAK, the target is banished (save ends)
-- **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
-- **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
-
-**Effect:** This ability gains an [edge](../rule/dice/edge.md) against demons, [devils](../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make [saving throws](../rule/general/saving-throw.md), and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../rule/health/stamina.md) while banished, they are lost to the timescape.
-
-##### Terror Manifest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest"}
-
-
-*"I know what you fear."*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 7 + P psychic damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 13 + P psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-**Effect:** While [frightened](../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../condition/frightened.md) this way is not a leader or solo creature and is [winded](../rule/health/winded.md), they are reduced to 0 [Stamina](../rule/health/stamina.md).
-
-#### 9th-Level Oracle Abilities
-
-Choose one of the following abilities.
-
-##### Blessing and a Curse {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse"}
-
-
-*The gods bless and damn in equal measure.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |       **Triggered** |
-|--------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One creature** |
-
-**Trigger:** The target makes a [power roll](../rule/dice/power-roll.md).
-
-**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../rule/dice/power-roll.md).
-
-##### Fulfill Your Destiny {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny"}
-
-
-*You have looked at various futures, and only this one works.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |   **Triggered** |
-|--------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One ally** |
-
-**Trigger:** You or another hero ends their [turn](../rule/combat/turn.md).
-
-**Effect:** The target takes their [turn](../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../rule/combat/condition.md) and negative effects on themself. During their [turn](../rule/combat/turn.md), the target has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md).
-
-#### 9th-Level Paragon Abilities
-
-Choose one of the following abilities.
-
-##### Apostate {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/apostate"}
-
-
-*You channel holy energy to seal an enemy's fate.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
-
-- **≤11:** 13 + M holy damage
-- **12-16:** 19 + M holy damage
-- **17+:** 26 + M holy damage
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the target has [damage weakness](../rule/damage/damage-weakness.md) 10.
-
-##### Edict of Unyielding Resolve {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve"}
-
-
-*You and your allies are clad in shimmering armor.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target who starts their [turn](../rule/combat/turn.md) in the area gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">9th-Level Order Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Exorcist Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Banish</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You sever the target&#39;s tenuous connection to the world.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; P &lt; WEAK, the target is banished (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; P &lt; AVERAGE, the target is banished (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; P &lt; STRONG, the target is banished (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../rule/dice/edge/">edge</a> against demons, <a href="../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double <a href="../../rule/dice/edge/">edge</a>. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make <a href="../../rule/general/saving-throw/">saving throws</a>, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Terror Manifest</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;I know what you fear.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + P psychic damage; P &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P psychic damage; P &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + P psychic damage; P &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is <a href="../../rule/health/winded/">winded</a>, they take an extra 25 psychic damage. If a target <a href="../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is <a href="../../rule/health/winded/">winded</a>, they are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Oracle Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Blessing and a Curse</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods bless and damn in equal measure.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target makes a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their <a href="../../rule/dice/power-roll/">power roll</a> (your choice). You can then choose another target within <a href="../../rule/combat/distance/">distance</a>, who obtains the opposite outcome on their next <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Fulfill Your Destiny</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You have looked at various futures, and only this one works.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>You or another hero ends their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes their <a href="../../rule/combat/turn/">turn</a> after the triggering hero, and immediately removes all <a href="../../rule/combat/condition/">conditions</a> and negative effects on themself. During their <a href="../../rule/combat/turn/">turn</a>, the target has a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Paragon Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Apostate</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel holy energy to seal an enemy&#39;s fate.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">19 + M holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">26 + M holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, the target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> 10.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Edict of Unyielding Resolve</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your allies are clad in shimmering armor.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area gains 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 10th-Level Features
 
@@ -1343,32 +2668,100 @@ As a 10th-level [censor](censor.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-10/characteristic-increase"}
 
-Your [Might](../rule/character/might.md) and [Presence](../rule/character/presence.md) scores each increase to 5.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 5.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk"}
 
-You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ### Templar {data-scc="mcdm.heroes.v1/feature.censor.level-10/templar"}
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to use a [conduit](conduit.md) domain effect (see [Domain Piety and Effects](../feature/conduit/level-1/domain-piety-and-effects.md) in the [Conduit](conduit.md) section) associated with your chosen domain, or a domain you access with [virtue](../feature/censor/level-10/virtue.md) (see below). If the effect calls for the use of your [Intuition](../rule/character/intuition.md) score, you use your [Presence](../rule/character/presence.md) score instead. If the effect uses your [conduit](conduit.md) level, use your [censor](censor.md) level instead.
-
-Additionally, whenever you take a [respite](../rule/resource/respite.md), you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your [respite](../rule/resource/respite.md), you and your allies can appear at any location in the timescape where someone worships your deity.
-
-While you rest in their presence, your god might also give you priority targets to enact justice upon. You and your allies each have a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against such targets. If you attempt to open a portal to your deity again before you have defeated your priority targets, you suffer your god's wrath, as determined by the Director.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Templar</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You are the ultimate representation of your god&#39;s justice in the timescape. Whenever you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use a <a href="../conduit/">conduit</a> domain effect (see <a href="../../feature/conduit/level-1/domain-piety-and-effects/">Domain Piety and Effects</a> in the <a href="../conduit/">Conduit</a> section) associated with your chosen domain, or a domain you access with <a href="../../feature/censor/level-10/virtue/">virtue</a> (see below). If the effect calls for the use of your <a href="../../rule/character/intuition/">Intuition</a> score, you use your <a href="../../rule/character/presence/">Presence</a> score instead. If the effect uses your <a href="../conduit/">conduit</a> level, use your <a href="./">censor</a> level instead.</p>
+<p>Additionally, whenever you take a <a href="../../rule/resource/respite/">respite</a>, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your <a href="../../rule/resource/respite/">respite</a>, you and your allies can appear at any location in the timescape where someone worships your deity.</p>
+<p>While you rest in their presence, your god might also give you priority targets to enact justice upon. You and your allies each have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> made against such targets. If you attempt to open a portal to your deity again before you have defeated your priority targets, you suffer your god&#39;s wrath, as determined by the Director.</p>
+</div>
+</section>
 
 ### Virtue {data-scc="mcdm.heroes.v1/feature.censor.level-10/virtue"}
 
-You have an epic resource called [virtue](../feature/censor/level-10/virtue.md). Each time you finish a [respite](../rule/resource/respite.md), you gain [virtue](../feature/censor/level-10/virtue.md) equal to the [XP](../rule/resource/experience.md) you gain. You can spend [virtue](../feature/censor/level-10/virtue.md) on your abilities as if it were wrath.
-
-Additionally, you can spend 3 [virtue](../feature/censor/level-10/virtue.md) to access one of your deity's domains that you usually don't have access to. When you do, you can use that domain's features until you finish another [respite](../rule/resource/respite.md).
-
-[Virtue](../feature/censor/level-10/virtue.md) remains until you spend it.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Virtue</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have an epic resource called <a href="../../feature/censor/level-10/virtue/">virtue</a>. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain <a href="../../feature/censor/level-10/virtue/">virtue</a> equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../../feature/censor/level-10/virtue/">virtue</a> on your abilities as if it were wrath.</p>
+<p>Additionally, you can spend 3 <a href="../../feature/censor/level-10/virtue/">virtue</a> to access one of your deity&#39;s domains that you usually don&#39;t have access to. When you do, you can use that domain&#39;s features until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+<p><a href="../../feature/censor/level-10/virtue/">Virtue</a> remains until you spend it.</p>
+</div>
+</section>
 
 ### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods"}
 
-When you gain wrath at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 4 wrath instead of 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<h3 class="sc-trait__name">Wrath of the Gods</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you gain wrath at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 4 wrath instead of 3.</p>
+</div>
+</section>

@@ -64,484 +64,896 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 
 ### Troubadour Class Act {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-class-act"}
 
-Panache, melody, and depiction. Some [troubadours](troubadour.md) have it all, but everyone starts somewhere. Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) from the following options, each of which grants you a skill. (*Quick Build:* Virtuoso.)
-
-- **Auteur:** You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the [Brag](../skill/interpersonal/brag.md) skill.
-- **Duelist:** Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the [Gymnastics](../skill/exploration/gymnastics.md) skill.
-- **Virtuoso:** You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the [Music](../skill/interpersonal/music.md) skill and can play an instrument.
-
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) is your [subclass](../rule/general/subclass.md), and your choice of class act determines many of the features you'll gain as you gain new levels.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Troubadour Class Act</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Panache, melody, and depiction. Some <a href="./">troubadours</a> have it all, but everyone starts somewhere. Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Virtuoso.)</p>
+<ul><li><b>Auteur:</b> You seek drama from story and recount, using your magic to manipulate the sequence of events unfolding before you. You have the <a href="../../skill/interpersonal/brag/">Brag</a> skill.</li><li><b>Duelist:</b> Drama infuses your every movement done in tandem with another. You perform dances of death, putting trust in your opponent to return your passion in kind. You have the <a href="../../skill/exploration/gymnastics/">Gymnastics</a> skill.</li><li><b>Virtuoso:</b> You find drama in music and song, weaving magic between vibrations and filling the audience with your pathos. You have the <a href="../../skill/interpersonal/music/">Music</a> skill and can play an instrument.</li></ul>
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> is your <a href="../../rule/general/subclass/">subclass</a>, and your choice of class act determines many of the features you&#39;ll gain as you gain new levels.</p>
+</div>
+</section>
 
 ### Drama {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/drama"}
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a [Heroic Resource](../rule/resource/heroic-resource.md) called drama.
-
-#### Drama in Combat
-
-At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain drama equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 drama.
-
-Additionally, you gain drama when certain events occur during a combat encounter:
-
-- The first time three or more heroes use an ability on the same [turn](../rule/combat/turn.md), you gain 2 drama.
-- The first time any hero is made [winded](../rule/health/winded.md) during the encounter, you gain 2 drama.
-- Whenever a creature within your [line of effect](../rule/combat/line-of-effect.md) rolls a [natural 19 or 20](../rule/dice/natural-19-20.md), you gain 3 drama.
-- When you or another hero dies, you gain 10 drama.
-
-When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 [Stamina](../rule/health/stamina.md) and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
-
-You lose any remaining drama at the end of the encounter.
-
-#### Drama Outside of Combat
-
-Though you can't gain drama outside of combat, you can use your [heroic abilities](../rule/general/heroic-ability.md) and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../rule/resource/victories.md) or finish a [respite](../rule/resource/respite.md).
-
-When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as [Artful Flourish](../feature/ability/troubadour/level-1/artful-flourish.md), you can use it as if you had spent an amount of drama equal to your [Victories](../rule/resource/victories.md).
-
-> **The Auteur [Troubadour](troubadour.md)**
->
-> Abilities like [Guest Star](../feature/ability/troubadour/level-2/guest-star.md), [Missed Cue](../feature/troubadour/level-3/missed-cue.md), and [Twist at the End](../feature/ability/troubadour/level-2/twist-at-the-end.md) allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
->
-> This is because, uniquely among all the [subclasses](../rule/general/subclass.md) in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
->
-> When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don't agree on exactly what took place. How people *remember* it is what's important!
->
-> This is pretty weird, but also very fun. If it's too weird for you or your table, you could always interpret those abilities as a kind of magic. A school of conjuring that really does change the battlefield, which the auteur merely *flavors* as rewriting the story.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Drama</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called drama.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Drama in Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain drama equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 drama.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you gain drama when certain events occur during a combat encounter:</p>
+<ul><li>The first time three or more heroes use an ability on the same <a href="../../rule/combat/turn/">turn</a>, you gain 2 drama.</li><li>The first time any hero is made <a href="../../rule/health/winded/">winded</a> during the encounter, you gain 2 drama.</li><li>Whenever a creature within your <a href="../../rule/combat/line-of-effect/">line of effect</a> rolls a <a href="../../rule/dice/natural-19-20/">natural 19 or 20</a>, you gain 3 drama.</li><li>When you or another hero dies, you gain 10 drama.</li></ul>
+<p>When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 <a href="../../rule/health/stamina/">Stamina</a> and 0 drama (no action required). If you are still dead after the encounter in which you died, you can&#39;t gain drama during future encounters.</p>
+<p>You lose any remaining drama at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Drama Outside of Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Though you can&#39;t gain drama outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as <a href="../../feature/ability/troubadour/level-1/artful-flourish/">Artful Flourish</a>, you can use it as if you had spent an amount of drama equal to your <a href="../../rule/resource/victories/">Victories</a>.</p>
+<p>&gt; <b>The Auteur <a href="./">Troubadour</a></b> &gt; &gt; Abilities like <a href="../../feature/ability/troubadour/level-2/guest-star/">Guest Star</a>, <a href="../../feature/troubadour/level-3/missed-cue/">Missed Cue</a>, and <a href="../../feature/ability/troubadour/level-2/twist-at-the-end/">Twist at the End</a> allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they&#39;re narratively different from shooting rays of fire or swinging a sword. &gt; &gt; This is because, uniquely among all the <a href="../../rule/general/subclass/">subclasses</a> in <em>Draw Steel</em>, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern. &gt; &gt; When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What <em>actually</em> happened is a matter of some debate. Even the people who were there don&#39;t agree on exactly what took place. How people <em>remember</em> it is what&#39;s important! &gt; &gt; This is pretty weird, but also very fun. If it&#39;s too weird for you or your table, you could always interpret those abilities as a kind of magic. A school of conjuring that really does change the battlefield, which the auteur merely <em>flavors</em> as rewriting the story.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Kit {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/kit"}
 
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Swashbuckler](../kit/swashbuckler.md).)
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Kit</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../kit/swashbuckler/">Swashbuckler</a>.)</p>
+</div>
+</section>
 
 ### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner"}
 
-Whenever you obtain a success on a [test](../rule/test/test.md) to interact with an [NPC](../rule/general/npc.md) using a skill from the [interpersonal group](../skill/interpersonal/index.md), you can form a bond with that [NPC](../rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../rule/general/npc.md)'s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
-
-You can have a number of bonds active equal to your level. When you form a bond with a new [NPC](../rule/general/npc.md) that would exceed the limit, you must choose which of your active bonds to lose.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Scene Partner</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you obtain a success on a <a href="../../rule/test/test/">test</a> to interact with an <a href="../../rule/general/npc/">NPC</a> using a skill from the <a href="../../skill/interpersonal/">interpersonal group</a>, you can form a bond with that <a href="../../rule/general/npc/">NPC</a>. When you enter into a negotiation with a bonded <a href="../../rule/general/npc/">NPC</a>, their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded <a href="../../rule/general/npc/">NPC</a>&#39;s interest by 1, you instead increase their interest by 2 (to a maximum of 5).</p>
+<p>You can have a number of bonds active equal to your level. When you form a bond with a new <a href="../../rule/general/npc/">NPC</a> that would exceed the limit, you must choose which of your active bonds to lose.</p>
+</div>
+</section>
 
 ### Routines {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/routines"}
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each [combat round](../rule/combat/combat-round.md), as long as you are not [dazed](../condition/dazed.md), dead, or [surprised](../rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
-
-You start off with the [Choreography](../feature/ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../feature/ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
-
-#### Choreography {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/choreography"}
-
-
-*Taps, kicks, steps. It's all "[choreography](../feature/ability/troubadour/level-1/choreography.md)."*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of their [turn](../rule/combat/turn.md).
-
-#### Revitalizing Limerick {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/revitalizing-limerick"}
-
-
-*There once was a man from [Capital](../rule/world/capital.md)...*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** At the end of each of your [turns](../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Routines</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each <a href="../../rule/combat/combat-round/">combat round</a>, as long as you are not <a href="../../condition/dazed/">dazed</a>, dead, or <a href="../../rule/combat/surprised/">surprised</a>, you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.</p>
+<p>You start off with the <a href="../../feature/ability/troubadour/level-1/choreography/">Choreography</a> and <a href="../../feature/ability/troubadour/level-1/revitalizing-limerick/">Revitalizing Limerick</a> performance abilities. Your choice of class act grants you additional performances.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Choreography</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Taps, kicks, steps. It&#39;s all &#34;<a href="../../feature/ability/troubadour/level-1/choreography/">choreography</a>.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area gains a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Revitalizing Limerick</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">There once was a man from <a href="../../rule/world/capital/">Capital</a>...</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../rule/combat/turn/">turns</a> while this performance is active, you can choose up to a number of targets equal to your <a href="../../rule/character/presence/">Presence</a> score. Each chosen target can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants you two features, as shown on the 1st-Level Class Act Features table.
-
-##### 1st-Level Class Act Features Table
-
-| Class Act  | Features                           |
-|------------|------------------------------------|
-| Auteur     | Blocking, [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md)       |
-| Duelist    | [Acrobatics](../feature/ability/troubadour/level-1/acrobatics.md), [Star Power](../feature/ability/troubadour/level-1/star-power.md)             |
-| Virtuoso   | [Power Chord](../feature/ability/troubadour/level-1/power-chord.md), [Virtuoso Performances](../feature/troubadour/level-1/virtuoso-performances.md) |
-
-#### Acrobatics {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/acrobatics"}
-
-You have the following performance ability, which is usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### Acrobatics {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics"}
-
-
-*Folks love a good tumble.*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../rule/combat/turn.md).
-
-#### Blocking {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/blocking"}
-
-You have the following performance ability, which is usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### Blocking {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/blocking"}
-
-
-*No, no, no, you lose the audience that way. Try it like this...*
-
-| **Area, Magic, Performance** |                    **No action** |
-|------------------------------|---------------------------------:|
-| **📏 2 [aura](../rule/combat/aura.md)**                | **🎯 Each creature in the area** |
-
-**Effect:** At the end of each of your [turns](../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
-
-#### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
-
-You have the following ability.
-
-##### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue"}
-
-
-*It doesn't need to make sense. Just say it with emotion.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
-|-------------------|---------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special** |
-
-**Effect:** Choose one of the following effects:
-
-- You orate a rousing tale of [victory](../rule/resource/victories.md). One ally within [distance](../rule/combat/distance.md) gains an [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make before the start of your next [turn](../rule/combat/turn.md).
-- You weave a tale of high-stakes heroics. One ally within [distance](../rule/combat/distance.md) gains 1 [surge](../rule/resource/surge.md).
-- You insult a foe where they're most vulnerable. One enemy within [distance](../rule/combat/distance.md) takes a [bane](../rule/dice/bane.md) on the next [power roll](../rule/dice/power-roll.md) they make before the end of their next [turn](../rule/combat/turn.md).
-
-**Spend 1 Drama:** You can choose two targets for the chosen effect.
-
-#### Power Chord {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/power-chord"}
-
-You have the following ability.
-
-##### Power Chord {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord"}
-
-
-*Your instrument rings true and your music blows everyone away.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 2 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** [Push](../movement/forced-movement.md) 1
-- **12-16:** [Push](../movement/forced-movement.md) 2
-- **17+:** [Push](../movement/forced-movement.md) 3
-
-#### Star Power {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/star-power"}
-
-You have the following ability.
-
-##### Star Power {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/star-power"}
-
-
-*Your years of practicing fencing and dancing pay off on the battlefield.*
-
-| **-**       | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of your [turn](../rule/combat/turn.md). Additionally, the next [power roll](../rule/dice/power-roll.md) you make this [turn](../rule/combat/turn.md) can't have an outcome lower than tier 2.
-
-**Spend 1 Drama:** You gain a +4 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) instead.
-
-#### Virtuoso Performances {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/virtuoso-performances"}
-
-You have the following performance abilities, which are usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### "Thunder Mother" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/thunder-mother"}
-
-
-*All for thunder motherrr! ♪ Run and hide for coverrr!♪*
-
-| **Magic, Performance, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |       **No action** |
-|----------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
-
-**Effect:** At the end of each [combat round](../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../rule/dice/power-roll.md) against the target that ignores [cover](../rule/combat/cover.md). You can't target the same creature twice with this effect.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** Lightning damage equal to your level
-- **12-16:** Lightning damage equal to 5 + your level
-- **17+:** Lightning damage equal to 10 + your level
-
-##### "Ballad of the Beast" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/ballad-of-the-beast"}
-
-
-*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains 1 [surge](../rule/resource/surge.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">1st-Level Class Act Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants you two features, as shown on the 1st-Level Class Act Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">1st-Level Class Act Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Class Act</th><th>Features</th></tr></thead><tbody><tr><td>Auteur</td><td>Blocking, <a href="../../feature/ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a></td></tr><tr><td>Duelist</td><td><a href="../../feature/ability/troubadour/level-1/acrobatics/">Acrobatics</a>, <a href="../../feature/ability/troubadour/level-1/star-power/">Star Power</a></td></tr><tr><td>Virtuoso</td><td><a href="../../feature/ability/troubadour/level-1/power-chord/">Power Chord</a>, <a href="../../feature/troubadour/level-1/virtuoso-performances/">Virtuoso Performances</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Acrobatics</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance ability, which is usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Acrobatics</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Folks love a good tumble.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area can automatically obtain a tier 3 outcome on one <a href="../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blocking</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance ability, which is usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Blocking</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">No, no, no, you lose the audience that way. Try it like this...</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../rule/combat/turn/">turns</a> while this performance is active, you can choose up to a number of targets equal to your <a href="../../rule/character/presence/">Presence</a> score and <a href="../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../rule/health/dying/">dying</a>, or result in them suffering a <a href="../../rule/combat/condition/">condition</a> or other negative effect.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Dramatic Monologue</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Dramatic Monologue</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">It doesn&#39;t need to make sense. Just say it with emotion.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of <a href="../../rule/resource/victories/">victory</a>. One ally within <a href="../../rule/combat/distance/">distance</a> gains an <a href="../../rule/dice/edge/">edge</a> on the next <a href="../../rule/dice/power-roll/">power roll</a> they make before the start of your next <a href="../../rule/combat/turn/">turn</a>.</li><li>You weave a tale of high-stakes heroics. One ally within <a href="../../rule/combat/distance/">distance</a> gains 1 <a href="../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within <a href="../../rule/combat/distance/">distance</a> takes a <a href="../../rule/dice/bane/">bane</a> on the next <a href="../../rule/dice/power-roll/">power roll</a> they make before the end of their next <a href="../../rule/combat/turn/">turn</a>.</li></ul></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Power Chord</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Power Chord</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your instrument rings true and your music blows everyone away.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Push</a> 3</span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Star Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Star Power</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your years of practicing fencing and dancing pay off on the battlefield.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of your <a href="../../rule/combat/turn/">turn</a>. Additionally, the next <a href="../../rule/dice/power-roll/">power roll</a> you make this <a href="../../rule/combat/turn/">turn</a> can&#39;t have an outcome lower than tier 2.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> instead.</span></div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Virtuoso Performances</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance abilities, which are usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Thunder Mother</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">All for thunder motherrr! ♪ Run and hide for coverrr!♪</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Lightning damage equal to your level</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Lightning damage equal to 5 + your level</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Lightning damage equal to 10 + your level</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each <a href="../../rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Ballad of the Beast</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area gains 1 <a href="../../rule/resource/surge/">surge</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants you a [triggered action](../rule/combat/triggered-action.md), as shown on the Class Act [Triggered Actions](../rule/combat/triggered-action.md) table.
-
-##### Class Act Triggered Action Table
-
-| Class Act | [Triggered Action](../rule/combat/triggered-action.md)       |
-|-----------|------------------------|
-| Auteur    | [Turnabout Is Fair Play](../feature/ability/troubadour/level-1/turnabout-is-fair-play.md) |
-| Duelist   | [Riposte](../feature/ability/troubadour/level-1/riposte.md)                |
-| Virtuoso  | [Harmonize](../feature/ability/troubadour/level-1/harmonize.md)              |
-
-##### Harmonize {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize"}
-
-
-*Give the chorus a little punch.*
-
-| **[Ranged](../rule/combat/ranged.md)**      |   **Triggered** |
-|-----------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 5** | **🎯 One ally** |
-
-**Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../rule/resource/heroic-resource.md).
-
-**Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
-
-**Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a [Heroic Resource](../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.
-
-##### Riposte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte"}
-
-
-*"I'd have brought treats had I known I'd be fighting a dog."*
-
-| **[Melee](../rule/combat/melee.md)**      |           **Triggered** |
-|----------------|------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 Self or one ally** |
-
-**Trigger:** The target takes damage from a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md).
-
-**Effect:** The target makes a [free strike](../feature/common/main-actions/free-strike.md) against the creature who made the triggering strike.
-
-##### Turnabout Is Fair Play {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play"}
-
-
-*All's fair in love and whatever.*
-
-| **[Ranged](../rule/combat/ranged.md)**       |       **Triggered** |
-|------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
-
-**Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md) that has an [edge](../rule/dice/edge.md), a double [edge](../rule/dice/edge.md), a [bane](../rule/dice/bane.md), or a double [bane](../rule/dice/bane.md).
-
-**Effect:** An [edge](../rule/dice/edge.md) on the triggering roll becomes a [bane](../rule/dice/bane.md), or a double [edge](../rule/dice/edge.md) becomes an [edge](../rule/dice/edge.md). A [bane](../rule/dice/bane.md) becomes an [edge](../rule/dice/edge.md), or a double [bane](../rule/dice/bane.md) becomes a [bane](../rule/dice/bane.md).
-
-**Spend 3 Drama:** An [edge](../rule/dice/edge.md) on the triggering roll becomes a double [bane](../rule/dice/bane.md), or a double [edge](../rule/dice/edge.md) is negated. A [bane](../rule/dice/bane.md) becomes a double [edge](../rule/dice/edge.md), or a double [bane](../rule/dice/bane.md) is negated.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Class Act Triggered Action</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants you a <a href="../../rule/combat/triggered-action/">triggered action</a>, as shown on the Class Act <a href="../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Class Act Triggered Action Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Class Act</th><th><a href="../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../feature/ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a></td></tr><tr><td>Duelist</td><td><a href="../../feature/ability/troubadour/level-1/riposte/">Riposte</a></td></tr><tr><td>Virtuoso</td><td><a href="../../feature/ability/troubadour/level-1/harmonize/">Harmonize</a></td></tr></tbody></table>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Harmonize</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Give the chorus a little punch.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target uses an ability that targets only one enemy and costs 3 or fewer of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Drama</span><span class="txt">You can trigger this ability when a target uses an ability that has a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 3 + each additional drama spent.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Riposte</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;I&#39;d have brought treats had I known I&#39;d be fighting a dog.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage from a <a href="../../rule/combat/melee/">melee</a> <a href="../../rule/combat/strike/">strike</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target makes a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against the creature who made the triggering strike.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Turnabout Is Fair Play</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">All&#39;s fair in love and whatever.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../rule/dice/ability-roll/">ability roll</a> that has an <a href="../../rule/dice/edge/">edge</a>, a double <a href="../../rule/dice/edge/">edge</a>, a <a href="../../rule/dice/bane/">bane</a>, or a double <a href="../../rule/dice/bane/">bane</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>An <a href="../../rule/dice/edge/">edge</a> on the triggering roll becomes a <a href="../../rule/dice/bane/">bane</a>, or a double <a href="../../rule/dice/edge/">edge</a> becomes an <a href="../../rule/dice/edge/">edge</a>. A <a href="../../rule/dice/bane/">bane</a> becomes an <a href="../../rule/dice/edge/">edge</a>, or a double <a href="../../rule/dice/bane/">bane</a> becomes a <a href="../../rule/dice/bane/">bane</a>.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 3 Drama</span><span class="txt">An <a href="../../rule/dice/edge/">edge</a> on the triggering roll becomes a double <a href="../../rule/dice/bane/">bane</a>, or a double <a href="../../rule/dice/edge/">edge</a> is negated. A <a href="../../rule/dice/bane/">bane</a> becomes a double <a href="../../rule/dice/edge/">edge</a>, or a double <a href="../../rule/dice/bane/">bane</a> is negated.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### Troubadour Abilities {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-abilities"}
 
-Your performance centers around maneuvering through the scene of battle, maintaining its momentum so that the story flows as dramatically as possible.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Troubadour Abilities</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your performance centers around maneuvering through the scene of battle, maintaining its momentum so that the story flows as dramatically as possible.</p>
+</div>
+</section>
 
 ### Signature Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/signature-ability"}
 
-Choose one [signature ability](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Witty Banter](../feature/ability/troubadour/level-1/witty-banter.md).)
-
-#### Artful Flourish {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish"}
-
-
-*And they said practicing fencing was a waste!*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
-|---------------------------|--------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 2 damage
-- **12-16:** 5 damage
-- **17+:** 7 damage
-
-**Effect:** You can [shift](../movement/shifting.md) up to 3 squares.
-
-**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
-
-#### Cutting Sarcasm {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm"}
-
-
-*There you are, radiating your usual charisma.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                  | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../condition/bleeding.md) (save ends)
-- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
-- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../condition/bleeding.md) (save ends)
-
-#### Instigator {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/instigator"}
-
-
-*I didn't do it! What?*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**             | **Main action** |
-|---------------------------------------|----------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**                        | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 3 + P damage
-- **12-16:** 6 + P damage
-- **17+:** 9 + P damage
-
-**Effect:** The target is [taunted](../condition/taunted.md) by you or a willing ally [adjacent](../rule/combat/adjacent.md) to you until the end of the target's next [turn](../rule/combat/turn.md).
-
-#### Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
-
-
-*A lyrical (and physical) jab insults an enemy and inspires an ally.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**       | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 4 + P psychic damage
-- **12-16:** 5 + P psychic damage
-- **17+:** 7 + P psychic damage
-
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
-
-**Spend 1 Drama:** The chosen ally can spend a [Recovery](../rule/health/recoveries.md).
-
-#### Heroic Abilities
-
-You master a range of [heroic abilities](../rule/general/heroic-ability.md), all of which cost drama to empower them.
-
-##### 3-Drama Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](../feature/ability/troubadour/level-1/harsh-critic.md).)
-
-##### Harsh Critic {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic"}
-
-
-*Just one bad review will ruin their day.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 7 + P sonic damage
-- **12-16:** 10 + P sonic damage
-- **17+:** 13 + P sonic damage
-
-**Effect:** The first time the target uses an ability before the start of your next [turn](../rule/combat/turn.md), any effects from the ability's [tier outcomes](../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../rule/dice/power-roll.md) work as usual.
-
-##### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
-
-
-*You produce an entrancing note that twists the senses in a spectacular fashion.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 2 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** [Slide](../movement/forced-movement.md) 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** [Slide](../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** [Slide](../movement/forced-movement.md) 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-**Spend 2+ Drama:** The size of the [burst](../rule/combat/burst.md) increases by 1 for every 2 drama spent.
-
-##### Quick Rewrite {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite"}
-
-
-*You write something unexpected into the scene that hinders your enemy.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**     |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 4 damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 5 damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 6 damage; P < STRONG, [restrained](../condition/restrained.md) (save ends)
-
-**Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
-
-##### Upstage {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage"}
-
-
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** | **Maneuver** |
-|---------------------------|-------------:|
-| **📏 Self; see below**    |  **🎯 Self** |
-
-**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). You make one [power roll](../rule/dice/power-roll.md) that targets each enemy you move [adjacent](../rule/combat/adjacent.md) to during this [shift](../movement/shifting.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md) or [Presence](../rule/character/presence.md):**
-
-- **≤11:** [Taunted](../condition/taunted.md) ([EoT](../rule/combat/end-of-turn.md)); A < WEAK[, prone](../condition/prone.md)
-- **12-16:** [Taunted](../condition/taunted.md) ([EoT](../rule/combat/end-of-turn.md)); A < AVERAGE[, prone](../condition/prone.md)
-- **17+:** [Taunted](../condition/taunted.md) ([EoT](../rule/combat/end-of-turn.md)); A < STRONG, [prone and](../condition/prone.md) can't stand ([EoT](../rule/combat/end-of-turn.md))
-
-##### 5-Drama Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](../feature/ability/troubadour/level-1/dramatic-reversal.md).)
-
-##### Dramatic Reversal {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal"}
-
-
-*Give the audience a surprise.*
-
-| **Area, Magic** |                       **Main action** |
-|-----------------|--------------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** The target can [shift](../movement/shifting.md) 1 square and make a [free strike](../feature/common/main-actions/free-strike.md).
-- **12-16:** The target can [shift](../movement/shifting.md) up to 2 squares and make a [free strike](../feature/common/main-actions/free-strike.md) that gains an [edge](../rule/dice/edge.md).
-- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a [free strike](../feature/common/main-actions/free-strike.md) that gains an [edge](../rule/dice/edge.md), then can spend a [Recovery](../rule/health/recoveries.md).
-
-##### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
-
-
-*O happy dagger, this is thy sheath!*
-
-| **Magic**   | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You [turn](../rule/combat/turn.md) invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and you ignore [difficult terrain](../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next [turn](../rule/combat/turn.md), or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
-
-##### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
-
-
-*You try a different take on events, justifying the new locations everyone ended up in.*
-
-| **Area, Magic** |                       **Main action** |
-|-----------------|--------------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. Any [teleport](../movement/teleport.md)ed target who was [slowed](../condition/slowed.md) is no longer [slowed](../condition/slowed.md).
-
-##### Method Acting {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting"}
-
-
-*They're so hurt by your performance, you start to believe it yourself.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 6 + A damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 14 + A damage; P < STRONG, [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** You can become [bleeding](../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="5">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Signature Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/troubadour/level-1/witty-banter/">Witty Banter</a>.)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Artful Flourish</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">And they said practicing fencing was a waste!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> up to 3 squares.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Cutting Sarcasm</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">There you are, radiating your usual charisma.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + P psychic damage; P &lt; WEAK, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P psychic damage; P &lt; AVERAGE, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + P psychic damage; P &lt; STRONG, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Instigator</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">I didn&#39;t do it! What?</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../condition/taunted/">taunted</a> by you or a willing ally <a href="../../rule/combat/adjacent/">adjacent</a> to you until the end of the target&#39;s next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Witty Banter</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A lyrical (and physical) jab insults an enemy and inspires an ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + P psychic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</span></div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heroic Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You master a range of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of which cost drama to empower them.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3-Drama Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 drama to use. (<em>Quick Build:</em> <a href="../../feature/ability/troubadour/level-1/harsh-critic/">Harsh Critic</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Harsh Critic</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Just one bad review will ruin their day.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + P sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + P sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next <a href="../../rule/combat/turn/">turn</a>, any effects from the ability&#39;s <a href="../../rule/dice/tier-outcome/">tier outcomes</a> other than damage are negated for all targets. Ability effects that always happen regardless of the <a href="../../rule/dice/power-roll/">power roll</a> work as usual.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Hypnotic Overtones</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You produce an entrancing note that twists the senses in a spectacular fashion.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 1; I &lt; WEAK, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 1; I &lt; AVERAGE, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 2; I &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">The size of the <a href="../../rule/combat/burst/">burst</a> increases by 1 for every 2 drama spent.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Quick Rewrite</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You write something unexpected into the scene that hinders your enemy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; P &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; P &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; P &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is <a href="../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Upstage</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">As you bob and weave through the crowd, you can&#39;t help but leave the audience wanting more.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a> or <a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../condition/taunted/">Taunted</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>); A &lt; WEAK<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../condition/taunted/">Taunted</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>); A &lt; AVERAGE<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../condition/taunted/">Taunted</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>); A &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>. You make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../movement/shifting/">shift</a>.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5-Drama Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 drama to use. (<em>Quick Build:</em> <a href="../../feature/ability/troubadour/level-1/dramatic-reversal/">Dramatic Reversal</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Dramatic Reversal</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Give the audience a surprise.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can <a href="../../movement/shifting/">shift</a> 1 square and make a <a href="../../feature/common/main-actions/free-strike/">free strike</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target can <a href="../../movement/shifting/">shift</a> up to 2 squares and make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> that gains an <a href="../../rule/dice/edge/">edge</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../movement/shifting/">shift</a> up to 3 squares and make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> that gains an <a href="../../rule/dice/edge/">edge</a>, then can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Fake Your Death</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">O happy dagger, this is thy sheath!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../rule/combat/turn/">turn</a> invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>. The illusion and your invisibility last until the end of your next <a href="../../rule/combat/turn/">turn</a>, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Flip the Script</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You try a different take on events, justifying the new locations everyone ended up in.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../movement/teleport/">teleport</a>ed target who was <a href="../../condition/slowed/">slowed</a> is no longer <a href="../../condition/slowed/">slowed</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Method Acting</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">They&#39;re so hurt by your performance, you start to believe it yourself.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can become <a href="../../condition/bleeding/">bleeding</a> (save ends) to deal an extra 5 corruption damage to the target.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 2nd-Level Features
 
@@ -549,131 +961,280 @@ As a 2nd-level [troubadour](troubadour.md), you gain the following features.
 
 ### Appeal to the Muses {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/appeal-to-the-muses"}
 
-You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's drama. However, irony is eager to hand your fortune to the villain to achieve the same end.
-
-Before you roll to gain drama at the start of your [turn](../rule/combat/turn.md), you can make your appeal (no action required). If you do, your roll gains the following additional effects:
-
-- If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
-- If the roll is a 2, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md), which you can keep or give to an ally within the [distance](../rule/combat/distance.md) of your active performance. The Director gains 1 Malice.
-- If the roll is a 3, you gain 2 of a [Heroic Resource](../rule/resource/heroic-resource.md), which you can distribute among yourself and any allies within the [distance](../rule/combat/distance.md) of your active performance.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Appeal to the Muses</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can give a rousing speech, invoke your inspirations, or lift your fellows&#39; spirits, appealing to the muses to heighten a battle&#39;s drama. However, irony is eager to hand your fortune to the villain to achieve the same end.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Before you roll to gain drama at the start of your <a href="../../rule/combat/turn/">turn</a>, you can make your appeal (no action required). If you do, your roll gains the following additional effects:</p>
+<ul><li>If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see <em>Draw Steel: Monsters</em>).</li><li>If the roll is a 2, you gain 1 <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>, which you can keep or give to an ally within the <a href="../../rule/combat/distance/">distance</a> of your active performance. The Director gains 1 Malice.</li><li>If the roll is a 3, you gain 2 of a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>, which you can distribute among yourself and any allies within the <a href="../../rule/combat/distance/">distance</a> of your active performance.</li></ul>
+</div>
+</section>
 
 ### Invocation {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/invocation"}
 
-You have a specific manner that helps define your presence on the battlefield. Choose one of the following features.
-
-#### Allow Me to Introduce Tonight's Players {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/allow-me-to-introduce-tonights-players"}
-
-Whenever you take the first [turn](../rule/combat/turn.md) in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md), and [ability rolls](../rule/dice/ability-roll.md) made against them have a double [bane](../rule/dice/bane.md) until the end of the [combat round](../rule/combat/combat-round.md). Additionally, any [surprised](../rule/combat/surprised.md) enemy is no longer [surprised](../rule/combat/surprised.md).
-
-#### Formal Introductions {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/formal-introductions"}
-
-As a [respite](../rule/resource/respite.md) activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
-
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per [combat round](../rule/combat/combat-round.md) during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../rule/resource/hero-token.md) (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These [hero tokens](../rule/resource/hero-token.md) disappear at the end of the encounter.
-
-#### My Reputation Precedes Me {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/my-reputation-precedes-me"}
-
-You can invoke your reputation at the start of a social interaction with one or more [NPCs](../rule/general/npc.md) who haven't met you before, automatically creating a bond with one of those [NPCs](../rule/general/npc.md) from that group as if using your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their [Renown](../rule/resource/renown.md) as 2 higher than usual for the purpose of entering into a negotiation with the bonded [NPC](../rule/general/npc.md).
-
-The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a [bane](../rule/dice/bane.md) on [tests](../rule/test/test.md) made to interact with creatures in the group using skills from the [interpersonal skill group](../skill/interpersonal/index.md). You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Invocation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have a specific manner that helps define your presence on the battlefield. Choose one of the following features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Allow Me to Introduce Tonight&#39;s Players</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you take the first <a href="../../rule/combat/turn/">turn</a> in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../movement/shifting/">shift</a> up to their <a href="../../rule/character/speed/">speed</a>, and <a href="../../rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../rule/dice/bane/">bane</a> until the end of the <a href="../../rule/combat/combat-round/">combat round</a>. Additionally, any <a href="../../rule/combat/surprised/">surprised</a> enemy is no longer <a href="../../rule/combat/surprised/">surprised</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Formal Introductions</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a <a href="../../rule/resource/respite/">respite</a> activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.</p>
+<p>The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per <a href="../../rule/combat/combat-round/">combat round</a> during encounters involving the target. The heroes start each such encounter with 2 additional <a href="../../rule/resource/hero-token/">hero tokens</a> (Chapter 1: <a href="../../../Read/heroes/the-basics/">The Basics</a>). These <a href="../../rule/resource/hero-token/">hero tokens</a> disappear at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">My Reputation Precedes Me</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can invoke your reputation at the start of a social interaction with one or more <a href="../../rule/general/npc/">NPCs</a> who haven&#39;t met you before, automatically creating a bond with one of those <a href="../../rule/general/npc/">NPCs</a> from that group as if using your <a href="../../feature/troubadour/level-1/scene-partner/">Scene Partner</a> feature (above). This bond counts against the limit on active bonds from your <a href="../../feature/troubadour/level-1/scene-partner/">Scene Partner</a> feature. While the bond is active, all heroes present treat their <a href="../../rule/resource/renown/">Renown</a> as 2 higher than usual for the purpose of entering into a negotiation with the bonded <a href="../../rule/general/npc/">NPC</a>.</p>
+<p>The Director can award the heroes 1 <a href="../../rule/resource/hero-token/">hero token</a> to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/test/test/">tests</a> made to interact with creatures in the group using skills from the <a href="../../skill/interpersonal/">interpersonal skill group</a>. You can still use your <a href="../../feature/troubadour/level-1/scene-partner/">Scene Partner</a> feature to find allies within the group.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
+</div>
+</section>
 
 ### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 2nd-Level Auteur Ability
-
-Choose one of the following abilities.
-
-##### Guest Star {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star"}
-
-
-*We offered them a percentage of the gross. So they're working for free!*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
-|-------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  |  **🎯 Special** |
-
-**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../rule/combat/distance.md). This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own [turn](../rule/combat/turn.md), and shares your [characteristics](../rule/character/characteristic.md). Their [Stamina](../rule/health/stamina.md) maximum is half yours. They have no abilities other than your [melee](../rule/combat/melee.md) and [ranged](../rule/combat/ranged.md) [free strikes](../feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
-
-##### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
-
-
-*You didn't see that coming, did you?!*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |       **Main action** |
-|-------------------|----------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One dead enemy** |
-
-**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their [turn](../rule/combat/turn.md) each [combat round](../rule/combat/combat-round.md). At the end of the encounter, the target turns to dust and is blown away.
-
-#### 2nd-Level Duelist Ability
-
-Choose one of the following abilities.
-
-##### Classic Chandelier Stunt {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/classic-chandelier-stunt"}
-
-
-*Audiences love this bit.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                  **Main action** |
-|---------------------------|---------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |
-
-**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement [adjacent](../rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../rule/character/characteristic.md) score.
-
-##### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
-
-
-*Wait, it's... Guard! [Turn](../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 7 + **A** damage
-- **12-16:** 11 + **A** damage
-- **17+:** 16 + **A** damage
-
-**Effect:** The target can make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against the target.
-
-#### 2nd-Level Virtuoso Ability
-
-Choose one of the following abilities.
-
-##### Encore {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/encore"}
-
-
-*Again! Again!*
-
-| **Magic, [Strike](../rule/combat/strike.md)** | **Main action** |
-|-------------------|----------------:|
-| **📏 Special**    |  **🎯 Special** |
-
-**Effect:** You use an ability that you have observed being used this [combat round](../rule/combat/combat-round.md). The ability must have the [Strike](../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../rule/combat/strike.md), you use your [Presence](../rule/character/presence.md) score for any [power rolls](../rule/dice/power-roll.md), and any damage you deal is sonic damage.
-
-##### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
-
-
-*Your fans don't seem to like the opening act...*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
-|-------------------------|----------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10** |  **🎯 Special** |
-
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your [turns](../rule/combat/turn.md), you can make one [power roll](../rule/dice/power-roll.md) that targets each enemy in the area.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 corruption damage; M < WEAK, [pull](../movement/forced-movement.md) 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, [pull](../movement/forced-movement.md) 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, [pull](../movement/forced-movement.md) 3 toward the center of the area
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">2nd-Level Class Act Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Auteur Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Guest Star</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">We offered them a percentage of the gross. So they&#39;re working for free!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../feature/ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within <a href="../../rule/combat/distance/">distance</a> uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within <a href="../../rule/combat/distance/">distance</a>. This <a href="../../feature/ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own <a href="../../rule/combat/turn/">turn</a>, and shares your <a href="../../rule/character/characteristic/">characteristics</a>. Their <a href="../../rule/health/stamina/">Stamina</a> maximum is half yours. They have no abilities other than your <a href="../../rule/combat/melee/">melee</a> and <a href="../../rule/combat/ranged/">ranged</a> <a href="../../feature/common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../feature/ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Twist at the End</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You didn&#39;t see that coming, did you?!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead enemy</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their <a href="../../rule/health/stamina/">Stamina</a> and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their <a href="../../rule/combat/turn/">turn</a> each <a href="../../rule/combat/combat-round/">combat round</a>. At the end of the encounter, the target turns to dust and is blown away.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Duelist Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Classic Chandelier Stunt</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Audiences love this bit.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one willing ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement <a href="../../rule/combat/adjacent/">adjacent</a> to the other target and on solid ground. Each target can then make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest <a href="../../rule/character/characteristic/">characteristic</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">En Garde!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Wait, it&#39;s... Guard! <a href="../../rule/combat/turn/">Turn</a>! Parry! Dodge! Spin! Thrust! Ha!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + <b>A</b> damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 + <b>A</b> damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + <b>A</b> damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a> against you. If they do, you can make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a> against the target.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Virtuoso Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Encore</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Again! Again!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You use an ability that you have observed being used this <a href="../../rule/combat/combat-round/">combat round</a>. The ability must have the <a href="../../rule/combat/strike/">Strike</a> keyword, cost 5 or fewer of a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>, and cost no Malice. When you make the <a href="../../rule/combat/strike/">strike</a>, you use your <a href="../../rule/character/presence/">Presence</a> score for any <a href="../../rule/dice/power-roll/">power rolls</a>, and any damage you deal is sonic damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Tough Crowd</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your fans don&#39;t seem to like the opening act...</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK, <a href="../../movement/forced-movement/">pull</a> 1 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 corruption damage; M &lt; AVERAGE, <a href="../../movement/forced-movement/">pull</a> 2 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, <a href="../../movement/forced-movement/">pull</a> 3 toward the center of the area</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../rule/combat/turn/">turns</a>, you can make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 3rd-Level Features
 
@@ -681,117 +1242,228 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 
 ### 3rd-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/3rd-level-class-act-feature"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants you a feature, as shown on the 3rd-Level Class Act Features table.
-
-##### 3rd-Level Class Act Features Table
-
-| Class Act  | Features     |
-|------------|--------------|
-| Auteur     | [Missed Cue](../feature/troubadour/level-3/missed-cue.md)   |
-| Duelist    | Foil         |
-| Virtuoso   | [Second Album](../feature/troubadour/level-3/second-album.md) |
-
-#### Foil {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/foil"}
-
-At the start of an encounter, choose one creature within your [line of effect](../rule/combat/line-of-effect.md). You have a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with that creature. The chosen creature also has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../rule/health/stamina.md), you can choose a new foil at the start of the next [combat round](../rule/combat/combat-round.md).
-
-#### Missed Cue {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/missed-cue"}
-
-If you aren't [surprised](../rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second [combat round](../rule/combat/combat-round.md). You must earn 3 [Victories](../rule/resource/victories.md) before you can use this feature again.
-
-#### Second Album {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/second-album"}
-
-You have the following performance abilities, which are usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### "Fire Up the Night" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/fire-up-the-night"}
-
-
-*Maybe you and I ♪ We can still bring the light!♪*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area doesn't take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against creatures with [concealment](../rule/combat/concealment.md). Once during their [turn](../rule/combat/turn.md), they can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
-
-##### "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
-
-
-*And toniiight we can truly say ♪ They will alllways find a way!♪*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) [dying](../rule/health/dying.md) while in the area gains an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their [turn](../rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">3rd-Level Class Act Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants you a feature, as shown on the 3rd-Level Class Act Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3rd-Level Class Act Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Class Act</th><th>Features</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../feature/troubadour/level-3/missed-cue/">Missed Cue</a></td></tr><tr><td>Duelist</td><td>Foil</td></tr><tr><td>Virtuoso</td><td><a href="../../feature/troubadour/level-3/second-album/">Second Album</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Foil</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of an encounter, choose one creature within your <a href="../../rule/combat/line-of-effect/">line of effect</a>. You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> made against or in competition with that creature. The chosen creature also has a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> made against or in competition with you. If the chosen creature is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>, you can choose a new foil at the start of the next <a href="../../rule/combat/combat-round/">combat round</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Missed Cue</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If you aren&#39;t <a href="../../rule/combat/surprised/">surprised</a> at the start of an encounter, you can choose one enemy within your <a href="../../rule/combat/line-of-effect/">line of effect</a> who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second <a href="../../rule/combat/combat-round/">combat round</a>. You must earn 3 <a href="../../rule/resource/victories/">Victories</a> before you can use this feature again.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Second Album</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance abilities, which are usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Fire Up the Night</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Maybe you and I ♪ We can still bring the light!♪</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against creatures with <a href="../../rule/combat/concealment/">concealment</a>. Once during their <a href="../../rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Never-Ending Hero</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">And toniiight we can truly say ♪ They will alllways find a way!♪</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> <a href="../../rule/health/dying/">dying</a> while in the area gains an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> and ignores the effects of <a href="../../condition/bleeding/">bleeding</a> until the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 7 drama to use.
-
-#### Extensive Rewrites {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites"}
-
-
-*No, this isn't right. That foe was over there!*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** [Slide](../movement/forced-movement.md) 3; P < WEAK, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
-- **12-16:** [Slide](../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
-- **17+:** [Slide](../movement/forced-movement.md) 7; P < STRONG, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
-
-**Effect:** Instead of [sliding](../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../movement/forced-movement.md) targets into other creatures or objects using this ability.
-
-#### Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
-
-
-*A spicy performance lights a fire under your allies' feet.*
-
-| **Area, Magic, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
-|--------------------------------|------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 fire damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 7 fire damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 10 fire damage; A < STRONG, [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** Each ally in the area can [shift](../movement/shifting.md) up to 2 squares.
-
-#### Star Solo {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo"}
-
-
-*Your performance travels and doesn't stop moving until your audience is completely rocked.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|------------------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + P damage
-- **12-16:** 8 + P damage; [push](../movement/forced-movement.md) 3
-- **17+:** 11 + P damage; [push](../movement/forced-movement.md) 5
-
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../rule/combat/combat-round.md) without spending drama.
-
-#### We Meet at Last {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/we-meet-at-last"}
-
-
-*You magically intertwine your fate with another creature—for better or worse.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |        **Maneuver** |
-|-------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature** |
-
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../rule/combat/distance.md), with the [distance](../rule/combat/distance.md) of this ability replacing those abilities' [distances](../rule/combat/distance.md). The target can't be [force moved](../movement/forced-movement.md) by an ability used beyond [distance](../rule/combat/distance.md) this way.
-
-Additionally, once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../rule/resource/surge.md) or forcing them to take a [bane](../rule/dice/bane.md) on the next [ability roll](../rule/dice/ability-roll.md) they make before the start of your next [turn](../rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">7-Drama Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 drama to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Extensive Rewrites</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">No, this isn&#39;t right. That foe was over there!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 3; P &lt; WEAK, this <a href="../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 5; P &lt; AVERAGE, this <a href="../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 7; P &lt; STRONG, this <a href="../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../rule/character/stability/">stability</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Instead of <a href="../../movement/forced-movement/">sliding</a> a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t <a href="../../movement/forced-movement/">slide</a> targets into other creatures or objects using this ability.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Infernal Gavotte</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A spicy performance lights a fire under your allies&#39; feet.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; A &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 fire damage; A &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 fire damage; A &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally in the area can <a href="../../movement/shifting/">shift</a> up to 2 squares.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Star Solo</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your performance travels and doesn&#39;t stop moving until your audience is completely rocked.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + P damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + P damage; <a href="../../movement/forced-movement/">push</a> 5</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 <a href="../../rule/combat/combat-round/">combat rounds</a> without spending drama.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">We Meet at Last</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You magically intertwine your fate with another creature—for better or worse.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond <a href="../../rule/combat/distance/">distance</a>, with the <a href="../../rule/combat/distance/">distance</a> of this ability replacing those abilities&#39; <a href="../../rule/combat/distance/">distances</a>. The target can&#39;t be <a href="../../movement/forced-movement/">force moved</a> by an ability used beyond <a href="../../rule/combat/distance/">distance</a> this way.</p><p>Additionally, once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to communicate a motivating or dispiriting message to the target, either granting them 2 <a href="../../rule/resource/surge/">surges</a> or forcing them to take a <a href="../../rule/dice/bane/">bane</a> on the next <a href="../../rule/dice/ability-roll/">ability roll</a> they make before the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 4th-Level Features
 
@@ -799,47 +1471,127 @@ As a 4th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/characteristic-increase"}
 
-Your [Agility](../rule/character/agility.md) and [Presence](../rule/character/presence.md) scores each increase to 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/agility/">Agility</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 3.</p>
+</div>
+</section>
 
 ### Melodrama {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/melodrama"}
 
-You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:
-
-- Whenever a creature rolls a natural 2 on a [power roll](../rule/dice/power-roll.md), you gain 2 drama.
-- The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 drama.
-- The first time a hero unwillingly falls 5 or more squares, you gain 2 drama.
-- The first time a hero deals damage with 3 [surges](../rule/resource/surge.md), you gain 2 drama.
-- Whenever a hero spends their last [Recovery](../rule/health/recoveries.md), you gain 2 drama.
-
-Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you drama, you gain 1 additional drama.
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Melodrama</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:</p>
+<ul><li>Whenever a creature rolls a natural 2 on a <a href="../../rule/dice/power-roll/">power roll</a>, you gain 2 drama.</li><li>The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 drama.</li><li>The first time a hero unwillingly falls 5 or more squares, you gain 2 drama.</li><li>The first time a hero deals damage with 3 <a href="../../rule/resource/surge/">surges</a>, you gain 2 drama.</li><li>Whenever a hero spends their last <a href="../../rule/health/recoveries/">Recovery</a>, you gain 2 drama.</li></ul>
+<p>Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you drama, you gain 1 additional drama.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/skill"}
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
+</div>
+</section>
 
 ### Zeitgeist {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/zeitgeist"}
 
-You always have your ear to the ground, your finger on the pulse. When you start or finish a [respite](../rule/resource/respite.md), choose one of the following effects.
-
-#### Foreshadowing {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/foreshadowing"}
-
-You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false.
-
-#### Hear Ye, Hear Ye! {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/hear-ye-hear-ye"}
-
-By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a [Presence](../rule/character/presence.md) [test](../rule/test/test.md):
-
-- **≤11:** Your information reaches no one.
-- **12-16:** Your information reaches the nearest populated area of town [size](../rule/character/size.md) or larger. You and each ally present when you make the [test](../rule/test/test.md) gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) in that area until one of you spends a [Recovery](../rule/health/recoveries.md).
-- **17+:** Your information reaches the nearest populated area of town [size](../rule/character/size.md) or larger, plus the next closest such population. You and allies present for your [test](../rule/test/test.md) gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made in those areas until you start your next [respite](../rule/resource/respite.md).
-
-#### Latest Goss {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/latest-goss"}
-
-You can ask the Director for three rumors regarding the area you're in or an area you plan on entering before your next [respite](../rule/resource/respite.md). One of the rumors can be false.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Zeitgeist</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You always have your ear to the ground, your finger on the pulse. When you start or finish a <a href="../../rule/resource/respite/">respite</a>, choose one of the following effects.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Foreshadowing</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Hear Ye, Hear Ye!</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a>:</p>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Your information reaches no one.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Your information reaches the nearest populated area of town <a href="../../rule/character/size/">size</a> or larger. You and each ally present when you make the <a href="../../rule/test/test/">test</a> gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> in that area until one of you spends a <a href="../../rule/health/recoveries/">Recovery</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Your information reaches the nearest populated area of town <a href="../../rule/character/size/">size</a> or larger, plus the next closest such population. You and allies present for your <a href="../../rule/test/test/">test</a> gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made in those areas until you start your next <a href="../../rule/resource/respite/">respite</a>.</span></div>
+</div>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Latest Goss</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next <a href="../../rule/resource/respite/">respite</a>. One of the rumors can be false.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 5th-Level Features
 
@@ -847,123 +1599,270 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 
 ### 5th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/5th-level-class-act-feature"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two features.
-
-#### Auteur Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/auteur-features"}
-
-Choose one of the following features.
-
-##### Fix It in Post
-
-Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to change one [condition](../rule/combat/condition.md) affecting a creature within [distance](../rule/combat/distance.md) of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following [conditions](../rule/combat/condition.md) on the target: [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md)[, prone](../condition/prone.md), [slowed](../condition/slowed.md), or [taunted](../condition/taunted.md). You change that [condition](../rule/combat/condition.md) to another of those [conditions](../rule/combat/condition.md), maintaining the duration and origin of the original [condition](../rule/combat/condition.md). A target who is no longer prone can stand up.
-
-##### Take Two!
-
-You have the following performance ability, which is usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### Take Two! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two"}
-
-
-*One more, and this time make it interesting.*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area can reroll the first [power roll](../rule/dice/power-roll.md) that [turn](../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll.
-
-#### Duelist Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/duelist-features"}
-
-Choose one of the following features.
-
-##### Verbal Duel
-
-Once on each of your [turns](../rule/combat/turn.md) while the target of your Foil feature is [adjacent](../rule/combat/adjacent.md) to you, you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../rule/character/presence.md) [test](../rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../feature/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
-
-##### We Can't Be Upstaged!
-
-You have the following performance ability, which is usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### We Can't Be Upstaged! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged"}
-
-
-*Swordplay so graceful it looks like you all practiced this.*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, a target who starts their [turn](../rule/combat/turn.md) in the area gains a [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) they can [shift](../movement/shifting.md) equal to your [Presence](../rule/character/presence.md) score until the end of their [turn](../rule/combat/turn.md).
-
-#### Virtuoso Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/virtuoso-features"}
-
-Choose one of the following features.
-
-##### Bolstering Banter
-
-Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../rule/health/recoveries.md) to gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to their [recovery value](../rule/health/recoveries.md).
-
-##### Medley
-
-You can maintain two performances at a time using your [Routines](../feature/troubadour/level-1/routines.md) feature.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">5th-Level Class Act Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Auteur Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of the following features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Fix It in Post</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to change one <a href="../../rule/combat/condition/">condition</a> affecting a creature within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following <a href="../../rule/combat/condition/">conditions</a> on the target: <a href="../../condition/bleeding/">bleeding</a>, <a href="../../condition/frightened/">frightened</a><a href="../../condition/prone/">, prone</a>, <a href="../../condition/slowed/">slowed</a>, or <a href="../../condition/taunted/">taunted</a>. You change that <a href="../../rule/combat/condition/">condition</a> to another of those <a href="../../rule/combat/condition/">conditions</a>, maintaining the duration and origin of the original <a href="../../rule/combat/condition/">condition</a>. A target who is no longer prone can stand up.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Take Two!</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance ability, which is usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Take Two!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">One more, and this time make it interesting.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area can reroll the first <a href="../../rule/dice/power-roll/">power roll</a> that <a href="../../rule/combat/turn/">turn</a> that obtains a tier 2 outcome. They must use the new roll.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Duelist Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of the following features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Verbal Duel</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Once on each of your <a href="../../rule/combat/turn/">turns</a> while the target of your Foil feature is <a href="../../rule/combat/adjacent/">adjacent</a> to you, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../feature/common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">We Can&#39;t Be Upstaged!</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance ability, which is usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">We Can&#39;t Be Upstaged!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Swordplay so graceful it looks like you all practiced this.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their <a href="../../rule/combat/turn/">turn</a> in the area gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../rule/combat/distance/">distance</a> they can <a href="../../movement/shifting/">shift</a> equal to your <a href="../../rule/character/presence/">Presence</a> score until the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Virtuoso Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of the following features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Bolstering Banter</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../rule/health/recoveries/">Recovery</a> to gain <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../rule/health/recoveries/">recovery value</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Medley</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can maintain two performances at a time using your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 9-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/9-drama-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 9 drama to use.
-
-#### Action Hero {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero"}
-
-
-*You wield your weapon at blistering [speed](../rule/character/speed.md), leaving everyone around you fighting for their lives.*
-
-| **Area, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
-|-------------------------|------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 10 damage
-- **12-16:** 14 damage
-- **17+:** 20 damage
-
-**Effect:** Unless you score a [critical hit](../rule/combat/critical-hit.md), this ability can't reduce a non-minion target below 1 [Stamina](../rule/health/stamina.md).
-
-#### Continuity Error {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error"}
-
-
-*Your subject is written into two places at once.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |               **Maneuver** |
-|-------------------|---------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One enemy or object** |
-
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../rule/health/stamina.md), is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their [turns](../rule/combat/turn.md). If either entity is reduced to 0 [Stamina](../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../rule/health/stamina.md).
-
-#### Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
-
-
-*You play a small ditty that plants you inside your target's heart.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |                  **Maneuver** |
-|-------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature or object** |
-
-**Effect:** The target gains 20 [temporary Stamina](../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../rule/combat/distance.md), you can choose to take the damage instead of the target.
-
-#### Patter Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song"}
-
-
-*Dazzle them with your fancy patter and they forget where they were.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
-|-------------------|---------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** One ally within [distance](../rule/combat/distance.md) can take their [turn](../rule/combat/turn.md) immediately after yours.
-- **12-16:** Two allies within [distance](../rule/combat/distance.md) can take their [turns](../rule/combat/turn.md) immediately after yours in any order.
-- **17+:** Three allies within [distance](../rule/combat/distance.md) can take their [turns](../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../rule/combat/turn.md) this [combat round](../rule/combat/combat-round.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">9-Drama Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 drama to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Action Hero</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You wield your weapon at blistering <a href="../../rule/character/speed/">speed</a>, leaving everyone around you fighting for their lives.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Unless you score a <a href="../../rule/combat/critical-hit/">critical hit</a>, this ability can&#39;t reduce a non-minion target below 1 <a href="../../rule/health/stamina/">Stamina</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Continuity Error</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your subject is written into two places at once.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within <a href="../../rule/combat/distance/">distance</a>. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s <a href="../../rule/health/stamina/">Stamina</a>, is <a href="../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their <a href="../../rule/combat/turn/">turns</a>. If either entity is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current <a href="../../rule/health/stamina/">Stamina</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Love Song</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You play a small ditty that plants you inside your target&#39;s heart.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within <a href="../../rule/combat/distance/">distance</a>, you can choose to take the damage instead of the target.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Patter Song</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Dazzle them with your fancy patter and they forget where they were.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">One ally within <a href="../../rule/combat/distance/">distance</a> can take their <a href="../../rule/combat/turn/">turn</a> immediately after yours.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Two allies within <a href="../../rule/combat/distance/">distance</a> can take their <a href="../../rule/combat/turn/">turns</a> immediately after yours in any order.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three allies within <a href="../../rule/combat/distance/">distance</a> can take their <a href="../../rule/combat/turn/">turns</a> immediately after yours in any order. One of those allies can have already taken a <a href="../../rule/combat/turn/">turn</a> this <a href="../../rule/combat/combat-round/">combat round</a>.</span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 6th-Level Features
 
@@ -971,118 +1870,247 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Spotlight {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/spotlight"}
 
-You have the following performance ability, which is usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-#### Spotlight {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/spotlight"}
-
-
-*The audience is watching, so you'd better give them a show.*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md). This [Heroic Resource](../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../rule/combat/turn.md) if they don't spend it.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Spotlight no action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Spotlight</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance ability, which is usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Spotlight</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The audience is watching, so you&#39;d better give them a show.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area gains 1 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>. This <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> disappears at the end of the target&#39;s <a href="../../rule/combat/turn/">turn</a> if they don&#39;t spend it.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 6th-Level Auteur Abilities
-
-Choose one of the following abilities.
-
-##### Here's How Your Story Ends {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends"}
-
-
-*You give away the ending of this battle, and it's not great for them.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 psychic damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 5 psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 7 psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-##### You're All My Understudies {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/youre-all-my-understudies"}
-
-
-*It's important for everyone to know each other's lines, just in case...*
-
-| **Area, Magic** |                 **Maneuver** |
-|-----------------|-----------------------------:|
-| **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
-
-**Effect:** Until the end of the encounter, each target gains the [speed](../rule/character/speed.md) [bonus](../rule/dice/bonuses-and-penalties.md), weapon [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md), disengage [bonus](../rule/dice/bonuses-and-penalties.md), and [stability](../rule/character/stability.md) [bonus](../rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit's [bonus](../rule/dice/bonuses-and-penalties.md)es.
-
-#### 6th-Level Duelist Abilities
-
-Choose one of the following abilities.
-
-##### Blood on the Stage {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage"}
-
-
-*It's love and blood or drama and blood. Either way, there's always blood.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 12 + A damage; M < WEAK, [bleeding](../condition/bleeding.md) (save ends)
-- **12-16:** 18 + A damage; M < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
-- **17+:** 24 + A damage; [bleeding](../condition/bleeding.md) ([EoT](../rule/combat/end-of-turn.md)), or if M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
-
-##### Fight Choreography {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/fight-choreography"}
-
-
-*You and your partner make a flashy show of derring-do, then get back to your corners.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then [slide](../movement/forced-movement.md) the target 5 squares, ignoring [stability](../rule/character/stability.md).
-
-#### 6th-Level Virtuoso Abilities
-
-Choose one of the following abilities.
-
-##### Feedback {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback"}
-
-
-*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*
-
-| **Area, Magic**               |               **Main action** |
-|-------------------------------|------------------------------:|
-| **📏 Three 3 [cubes](../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
-
-**Effect:** A [prone target](../condition/prone.md) ignores this ability.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 7 sonic damage; P < WEAK[, prone](../condition/prone.md)
-- **12-16:** 10 sonic damage; P < AVERAGE[, prone](../condition/prone.md)
-- **17+:** 13 sonic damage; P < STRONG[, prone](../condition/prone.md)
-
-##### Legendary Drum Fill {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/legendary-drum-fill"}
-
-
-*You start a drumroll that roars like thunder with every impact the heroes make.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target gains 1 [surge](../rule/resource/surge.md), then gains 1 [surge](../rule/resource/surge.md) at the start of each [combat round](../rule/combat/combat-round.md) until the end of the encounter.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">6th-Level Class Act Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Auteur Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Here&#39;s How Your Story Ends</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You give away the ending of this battle, and it&#39;s not great for them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic damage; P &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic damage; P &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic damage; P &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">You&#39;re All My Understudies</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">It&#39;s important for everyone to know each other&#39;s lines, just in case...</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../rule/character/speed/">speed</a> <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>, weapon <a href="../../rule/combat/distance/">distance</a> <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>, disengage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>, and <a href="../../rule/character/stability/">stability</a> <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> of your currently equipped kit in addition to their own kit&#39;s <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>es.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Duelist Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Blood on the Stage</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">It&#39;s love and blood or drama and blood. Either way, there&#39;s always blood.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + A damage; M &lt; WEAK, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A damage; M &lt; AVERAGE, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + A damage; <a href="../../condition/bleeding/">bleeding</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>), or if M &lt; STRONG, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fight Choreography</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your partner make a flashy show of derring-do, then get back to your corners.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and the target each make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../feature/common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../feature/common/main-actions/free-strike/">free strike</a> targets. You then <a href="../../movement/forced-movement/">slide</a> the target 5 squares, ignoring <a href="../../rule/character/stability/">stability</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Virtuoso Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Feedback</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 <a href="../../rule/combat/cube/">cubes</a> within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; P &lt; WEAK<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 sonic damage; P &lt; AVERAGE<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 sonic damage; P &lt; STRONG<a href="../../condition/prone/">, prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../condition/prone/">prone target</a> ignores this ability.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Legendary Drum Fill</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You start a drumroll that roars like thunder with every impact the heroes make.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../rule/resource/surge/">surge</a>, then gains 1 <a href="../../rule/resource/surge/">surge</a> at the start of each <a href="../../rule/combat/combat-round/">combat round</a> until the end of the encounter.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 7th-Level Features
 
@@ -1090,21 +2118,68 @@ As a 7th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/characteristic-increase"}
 
-Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
+</div>
+</section>
 
 ### Equal Billing {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/equal-billing"}
 
-You can use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to form a bond with one willing hero instead of an [NPC](../rule/general/npc.md) you interact with using a [test](../rule/test/test.md). If you bond with another hero, you lose your existing bond with a hero.
-
-Additionally, you and creatures you are bonded with gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md). Whenever you or a bonded creature succeeds on a [saving throw](../rule/general/saving-throw.md), you and each creature you are bonded with gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Equal Billing</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can use your <a href="../../feature/troubadour/level-1/scene-partner/">Scene Partner</a> feature to form a bond with one willing hero instead of an <a href="../../rule/general/npc/">NPC</a> you interact with using a <a href="../../rule/test/test/">test</a>. If you bond with another hero, you lose your existing bond with a hero.</p>
+<p>Additionally, you and creatures you are bonded with gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>. Whenever you or a bonded creature succeeds on a <a href="../../rule/general/saving-throw/">saving throw</a>, you and each creature you are bonded with gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your level.</p>
+</div>
+</section>
 
 ### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse"}
 
-At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">A Muse&#39;s Muse</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 drama instead of 1d3.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ## 8th-Level Features
 
@@ -1112,114 +2187,229 @@ As an 8th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### 8th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/8th-level-class-act-feature"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants you a feature, as shown on the 8th-Level Class Act Features table.
-
-##### 8th-Level Class Act Features Table
-
-| Class Act | Feature         |
-|-----------|-----------------|
-| Auteur    | [Deleted Scene](../feature/troubadour/level-8/deleted-scene.md)   |
-| Duelist   | Masterwork      |
-| Virtuoso  | [Crowd Favorites](../feature/troubadour/level-8/crowd-favorites.md) |
-
-#### Crowd Favorites {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/crowd-favorites"}
-
-You have the following performance abilities, which are usable with your [Routines](../feature/troubadour/level-1/routines.md) feature.
-
-##### Moonlight Sonata {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/moonlight-sonata"}
-
-
-*Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
-
-| **Area, Magic, Performance** |                **No action** |
-|------------------------------|-----------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Each ally in the area** |
-
-**Effect:** While this performance is active, each target who is dead can choose to continue taking [turns](../rule/combat/turn.md) after death. On each of their [turns](../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../rule/health/recoveries.md) or use [triggered actions](../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take [turns](../rule/combat/turn.md) this way turns to dust and blows away.
-
-##### Radical Fantasia {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia"}
-
-
-*𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪*
-
-| **Area, Magic, Performance** |                         **No action** |
-|------------------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
-
-**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area ignores [difficult terrain](../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../movement/forced-movement.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) until the end of their [turn](../rule/combat/turn.md). Additionally, once per [combat round](../rule/combat/combat-round.md), each target can use a [triggered action](../rule/combat/triggered-action.md) as a free [triggered action](../rule/combat/triggered-action.md).
-
-#### Deleted Scene {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/deleted-scene"}
-
-Whenever a creature within [distance](../rule/combat/distance.md) of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability makes a [power roll](../rule/dice/power-roll.md), you can spend 1 drama as a free [triggered action](../rule/combat/triggered-action.md) to use [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature.
-
-#### Masterwork {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/masterwork"}
-
-Choose one of your [signature abilities](../rule/combat/signature-ability.md) and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an [edge](../rule/dice/edge.md) and 1 [surge](../rule/resource/surge.md) that you can use only on this ability.
-
-Additionally, when your named [signature ability](../rule/combat/signature-ability.md) is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../feature/troubadour/level-4/zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">8th-Level Class Act Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants you a feature, as shown on the 8th-Level Class Act Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">8th-Level Class Act Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Class Act</th><th>Feature</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../feature/troubadour/level-8/deleted-scene/">Deleted Scene</a></td></tr><tr><td>Duelist</td><td>Masterwork</td></tr><tr><td>Virtuoso</td><td><a href="../../feature/troubadour/level-8/crowd-favorites/">Crowd Favorites</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Crowd Favorites</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following performance abilities, which are usable with your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Moonlight Sonata</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Music pours out of your heart, filling the area with the utmost delicacy and without damper.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking <a href="../../rule/combat/turn/">turns</a> after death. On each of their <a href="../../rule/combat/turn/">turns</a>, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../rule/health/recoveries/">Recoveries</a> or use <a href="../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take <a href="../../rule/combat/turn/">turns</a> this way turns to dust and blows away.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="none">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>No Action</div>
+<h3 class="sc-ability__name">Radical Fantasia</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area ignores <a href="../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../movement/forced-movement/">forced movement</a> gains a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> until the end of their <a href="../../rule/combat/turn/">turn</a>. Additionally, once per <a href="../../rule/combat/combat-round/">combat round</a>, each target can use a <a href="../../rule/combat/triggered-action/">triggered action</a> as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Deleted Scene</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever a creature within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a <a href="../../rule/dice/power-roll/">power roll</a>, you can spend 1 drama as a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use <a href="../../feature/ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Masterwork</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your <a href="../../rule/combat/signature-ability/">signature abilities</a> and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an <a href="../../rule/dice/edge/">edge</a> and 1 <a href="../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
+<p>Additionally, when your named <a href="../../rule/combat/signature-ability/">signature ability</a> is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../feature/troubadour/level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 11-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/11-drama-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 11 drama to use.
-
-#### Dramatic Reveal {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/dramatic-reveal"}
-
-
-*A little stage trickery, and where once stood a foe, now stands a friend!*
-
-| **Magic**   | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../rule/health/stamina.md) using an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to [teleport](../movement/teleport.md) an ally within [distance](../rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
-
-#### Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
-
-
-*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|-------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
-
-**Effect:** Until the end of the encounter, whenever the target takes damage while [winded](../rule/health/winded.md), they can use a free [triggered action](../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
-
-#### Saved in the Edit {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/saved-in-the-edit"}
-
-
-*You shout a word of power that allows you to rewrite reality to your whims.*
-
-| **Magic**   | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature or object, or enable a creature to spend a [Recovery](../rule/health/recoveries.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to give that creature or object one of the following effects until the start of your next [turn](../rule/combat/turn.md). If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../rule/health/recoveries.md) simultaneously, each target receives the same effect:
-
-- The target has [damage weakness](../rule/damage/damage-weakness.md) equal to your [Presence](../rule/character/presence.md) score against any magic, psionic, or weapon ability.
-- The target has [damage immunity](../rule/damage/damage-immunity.md) equal to your [Presence](../rule/character/presence.md) score.
-- The target has a [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md) and a [penalty](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Presence](../rule/character/presence.md) score.
-- The target has a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and a [penalty](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md) equal to your [Presence](../rule/character/presence.md) score.
-
-#### The Show Must Go On {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on"}
-
-
-*You shine a bright light on the players on the stage and compel them to finish the performance.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** | **Maneuver**                  |
-|-------------------------|-------------------------------|
-| **📏 5 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 6 damage; P < WEAK, the target can't willingly leave the area ([EoT](../rule/combat/end-of-turn.md))
-- **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
-- **17+:** 12 damage; the target can't willingly leave the area ([EoT](../rule/combat/end-of-turn.md)); if P < STRONG, they can't willingly leave the area (save ends)
-
-**Effect:** Each ally within [distance](../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../rule/test/test.md) they make before the start of your next [turn](../rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">11-Drama Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 drama to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Dramatic Reveal</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A little stage trickery, and where once stood a foe, now stands a friend!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 <a href="../../rule/health/stamina/">Stamina</a> using an ability, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to <a href="../../movement/teleport/">teleport</a> an ally within <a href="../../rule/combat/distance/">distance</a> of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../movement/teleport/">teleport</a>ed ally can then make a <a href="../../rule/combat/melee/">melee</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Power Ballad</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever the target takes damage while <a href="../../rule/health/winded/">winded</a>, they can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to deal half the damage they took to the source of the damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Saved in the Edit</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You shout a word of power that allows you to rewrite reality to your whims.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to a creature or object, or enable a creature to spend a <a href="../../rule/health/recoveries/">Recovery</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to give that creature or object one of the following effects until the start of your next <a href="../../rule/combat/turn/">turn</a>. If this ability is triggered by multiple targets taking damage or multiple creatures spending <a href="../../rule/health/recoveries/">Recoveries</a> simultaneously, each target receives the same effect:</p><ul><li>The target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> equal to your <a href="../../rule/character/presence/">Presence</a> score against any magic, psionic, or weapon ability.</li><li>The target has <a href="../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../rule/character/presence/">Presence</a> score.</li><li>The target has a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/stability/">stability</a> and a <a href="../../rule/dice/bonuses-and-penalties/">penalty</a> to <a href="../../rule/character/speed/">speed</a> equal to your <a href="../../rule/character/presence/">Presence</a> score.</li><li>The target has a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and a <a href="../../rule/dice/bonuses-and-penalties/">penalty</a> to <a href="../../rule/character/stability/">stability</a> equal to your <a href="../../rule/character/presence/">Presence</a> score.</li></ul></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">The Show Must Go On</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You shine a bright light on the players on the stage and compel them to finish the performance.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; P &lt; WEAK, the target can&#39;t willingly leave the area (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; P &lt; AVERAGE, the target can&#39;t willingly leave the area (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; the target can&#39;t willingly leave the area (<a href="../../rule/combat/end-of-turn/">EoT</a>); if P &lt; STRONG, they can&#39;t willingly leave the area (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally within <a href="../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next <a href="../../rule/test/test/">test</a> they make before the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 9th-Level Features
 
@@ -1227,121 +2417,234 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Roar of the Crowd {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/roar-of-the-crowd"}
 
-You are empowered by your audience, near and far. You can't be made [frightened](../condition/frightened.md), and if you [are prone](../condition/prone.md), you can stand up as a [free maneuver](../rule/combat/free-maneuver.md).
-
-Additionally, whenever you spend a [Recovery](../rule/health/recoveries.md), you can forgo regaining [Stamina](../rule/health/stamina.md) to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to 10 + the number of active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature + either your [Victories](../rule/resource/victories.md) or the number of players in your game (whichever is higher).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Roar of the Crowd</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You are empowered by your audience, near and far. You can&#39;t be made <a href="../../condition/frightened/">frightened</a>, and if you <a href="../../condition/prone/">are prone</a>, you can stand up as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>.</p>
+<p>Additionally, whenever you spend a <a href="../../rule/health/recoveries/">Recovery</a>, you can forgo regaining <a href="../../rule/health/stamina/">Stamina</a> to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + the number of active bonds from your <a href="../../feature/troubadour/level-1/scene-partner/">Scene Partner</a> feature + either your <a href="../../rule/resource/victories/">Victories</a> or the number of players in your game (whichever is higher).</p>
+</div>
+</section>
 
 ### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability"}
 
-Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 9th-Level Auteur Abilities
-
-Choose one of the following abilities.
-
-##### Epic {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/epic"}
-
-
-*Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md)**    |        **Maneuver** |
-|-----------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** The target takes a [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) (save ends).
-- **12-16:** The target has a double [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) (save ends).
-- **17+:** The target has a double [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) (save ends).
-
-**Effect:** Choose one ally within [distance](../rule/combat/distance.md). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../feature/common/main-actions/free-strike.md) against them after the ability is resolved.
-
-##### Rising Tension {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension"}
-
-
-*You narrate the tension of the scene and put all hope into your protagonist to [turn](../rule/combat/turn.md) things around.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** |    **Maneuver** |
-|-------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One ally** |
-
-**Effect:** The target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md), has a double [edge](../rule/dice/edge.md) on a [power roll](../rule/dice/power-roll.md) of their choice made during their next [turn](../rule/combat/turn.md), is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their [turn](../rule/combat/turn.md) after yours if they have not taken their [turn](../rule/combat/turn.md) already this round.
-
-#### 9th-Level Duelist Abilities
-
-Choose one of the following abilities.
-
-##### Expert Fencer {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer"}
-
-
-*If you can land the [strike](../rule/combat/strike.md), the crowd goes wild.*
-
-| **Charge, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 3**                    | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
-
-- **≤11:** 15 + A damage
-- **12-16:** 21 + A damage
-- **17+:** 28 + A damage; M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
-
-**Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum [distance](../rule/combat/distance.md). If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../rule/resource/surge.md) that you can use immediately.
-
-##### Renegotiated Contract {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract"}
-
-
-*No, no. You don't die until the sequel.*
-
-| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
-
-**Effect:** Add your current [Stamina](../rule/health/stamina.md) to your target's current [Stamina](../rule/health/stamina.md), then you have half that total [Stamina](../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../rule/health/stamina.md) this way than their [Stamina](../rule/health/stamina.md) maximum, the difference in [Stamina](../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../rule/health/stamina.md) than your maximum this way. You then make a [power roll](../rule/dice/power-roll.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turns](../rule/combat/turn.md).
-- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your [turns](../rule/combat/turn.md).
-- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your [turns](../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
-
-#### 9th-Level Virtuoso Abilities
-
-Choose one of the following abilities.
-
-##### Jam Session {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session"}
-
-
-*Your [jam session](../feature/ability/troubadour/level-9/jam-session.md) creates new genres that compel everyone to get up and move.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 8 sonic damage
-- **12-16:** 11 sonic damage
-- **17+:** 15 sonic damage
-
-**Effect:** Each creature within [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of their next [turn](../rule/combat/turn.md). While under this effect, each target must use their full movement during their [turn](../rule/combat/turn.md).
-
-##### Melt Their Faces {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces"}
-
-
-*The power of music rips through the reality around the target and blows them away.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 12 + P sonic damage; [push](../movement/forced-movement.md) 5
-- **12-16:** 16 + P sonic damage; [push](../movement/forced-movement.md) 10
-- **17+:** 22 + P sonic damage; [push](../movement/forced-movement.md) 15
-
-**Effect:** [Forced movement](../movement/forced-movement.md) from this ability ignores [stability](../rule/character/stability.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">9th-Level Class Act Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/troubadour/level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Auteur Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Epic</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your story tells a tale of the villain&#39;s waning power and how the heroes rose to the occasion to stop them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target has a double <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target has a double <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/power-roll/">power rolls</a> (save ends).</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose one ally within <a href="../../rule/combat/distance/">distance</a>. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Rising Tension</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You narrate the tension of the scene and put all hope into your protagonist to <a href="../../rule/combat/turn/">turn</a> things around.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double <a href="../../rule/dice/edge/">edge</a> on a <a href="../../rule/dice/power-roll/">power roll</a> of their choice made during their next <a href="../../rule/combat/turn/">turn</a>, is no longer <a href="../../condition/slowed/">slowed</a> or <a href="../../condition/weakened/">weakened</a> if they were before, and can immediately take their <a href="../../rule/combat/turn/">turn</a> after yours if they have not taken their <a href="../../rule/combat/turn/">turn</a> already this round.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Duelist Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Expert Fencer</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">If you can land the <a href="../../rule/combat/strike/">strike</a>, the crowd goes wild.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 3</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage; M &lt; STRONG, <a href="../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This ability can&#39;t obtain better than a tier 2 outcome unless the target is at maximum <a href="../../rule/combat/distance/">distance</a>. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 <a href="../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Renegotiated Contract</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">No, no. You don&#39;t die until the sequel.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You and the target can each end one effect on yourselves that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../rule/combat/turn/">turns</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You and the target can end any effects on yourselves that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../rule/combat/turn/">turns</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can choose any of the current effects on you and the target that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../rule/health/stamina/">Stamina</a> this way than their <a href="../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Virtuoso Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Jam Session</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your <a href="../../feature/ability/troubadour/level-9/jam-session/">jam session</a> creates new genres that compel everyone to get up and move.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each creature within <a href="../../rule/combat/distance/">distance</a> gains a +5 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of their next <a href="../../rule/combat/turn/">turn</a>. While under this effect, each target must use their full movement during their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Melt Their Faces</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The power of music rips through the reality around the target and blows them away.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + P sonic damage; <a href="../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + P sonic damage; <a href="../../movement/forced-movement/">push</a> 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + P sonic damage; <a href="../../movement/forced-movement/">push</a> 15</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p><a href="../../movement/forced-movement/">Forced movement</a> from this ability ignores <a href="../../rule/character/stability/">stability</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 10th-Level Features
 
@@ -1349,28 +2652,98 @@ As a 10th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Applause {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/applause"}
 
-You have an epic resource called [applause](../feature/troubadour/level-10/applause.md). Each time you finish a [respite](../rule/resource/respite.md), you gain [applause](../feature/troubadour/level-10/applause.md) equal to the [XP](../rule/resource/experience.md) you gain. You can spend [applause](../feature/troubadour/level-10/applause.md) on your abilities as if it were drama.
-
-Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a [test](../rule/test/test.md), you can spend 1 [applause](../feature/troubadour/level-10/applause.md) to improve the outcome by 1 tier.
-
-[Applause](../feature/troubadour/level-10/applause.md) remains until you spend it.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Applause</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have an epic resource called <a href="../../feature/troubadour/level-10/applause/">applause</a>. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain <a href="../../feature/troubadour/level-10/applause/">applause</a> equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../../feature/troubadour/level-10/applause/">applause</a> on your abilities as if it were drama.</p>
+<p>Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a <a href="../../rule/test/test/">test</a>, you can spend 1 <a href="../../feature/troubadour/level-10/applause/">applause</a> to improve the outcome by 1 tier.</p>
+<p><a href="../../feature/troubadour/level-10/applause/">Applause</a> remains until you spend it.</p>
+</div>
+</section>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/characteristic-increase"}
 
-Your [Agility](../rule/character/agility.md) and [Presence](../rule/character/presence.md) scores each increase to 5.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/agility/">Agility</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 5.</p>
+</div>
+</section>
 
 ### Dramaturgy {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/dramaturgy"}
 
-You gain 1 additional [drama](../feature/troubadour/level-1/drama.md) or other [Heroic Resource](../rule/resource/heroic-resource.md) whenever you use your [Appeal to the Muses](../feature/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a [distance](../rule/combat/distance.md), but can affect any target on the encounter map within your [line of effect](../rule/combat/line-of-effect.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Dramaturgy</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain 1 additional <a href="../../feature/troubadour/level-1/drama/">drama</a> or other <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> whenever you use your <a href="../../feature/troubadour/level-2/appeal-to-the-muses/">Appeal to the Muses</a> feature. Additionally, your performances no longer have a <a href="../../rule/combat/distance/">distance</a>, but can affect any target on the encounter map within your <a href="../../rule/combat/line-of-effect/">line of effect</a>.</p>
+</div>
+</section>
 
 ### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/greatest-of-all-time"}
 
-Whenever you obtain a success on a [test](../rule/test/test.md), each [NPC](../rule/general/npc.md) within your [line of effect](../rule/combat/line-of-effect.md) has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an [edge](../rule/dice/edge.md) on their next [test](../rule/test/test.md). These effects last until you start your next [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Greatest of All Time</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you obtain a success on a <a href="../../rule/test/test/">test</a>, each <a href="../../rule/general/npc/">NPC</a> within your <a href="../../rule/combat/line-of-effect/">line of effect</a> has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an <a href="../../rule/dice/edge/">edge</a> on their next <a href="../../rule/test/test/">test</a>. These effects last until you start your next <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>

@@ -16,14 +16,34 @@ type: feature-group
 
 ## Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
 
-### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-3/suck-it-up"}
-
-Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../../../condition/grabbed.md) by the ball.
-
-### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-6/taffy-pull"}
-
-While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.
-
-### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.gummy-ball.level-10/runaway-expansion"}
-
-While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball's size increases by 1 (to a maximum of 5). The ball's size can't increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Gummy Ball Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Suck It Up</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../../../../condition/grabbed/">grabbed</a> by the ball.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Taffy Pull</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Runaway Expansion</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball&#39;s size increases by 1 (to a maximum of 5). The ball&#39;s size can&#39;t increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.</div>
+</article>
+</div>
+</div>
+</article>
+</div>

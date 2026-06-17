@@ -16,14 +16,34 @@ type: feature-group
 
 ## Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
 
-### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig"}
-
-While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.
-
-### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush"}
-
-While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../../../movement/shifting.md) instead of move when using the Charge action or the Gore maneuver.
-
-### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage"}
-
-Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Boar Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Greased Pig</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Wild Rush</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">While the boar is rampaging, you can use their Gore maneuver, and you and the boar can <a href="../../../../movement/shifting/">shift</a> instead of move when using the Charge action or the Gore maneuver.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Immortal Rage</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.</div>
+</article>
+</div>
+</div>
+</article>
+</div>

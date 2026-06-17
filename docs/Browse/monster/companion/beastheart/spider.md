@@ -16,14 +16,34 @@ type: feature-group
 
 ## Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
 
-### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-3/dripping-fangs"}
-
-Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
-
-### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-6/web-slinger"}
-
-Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../../movement/fly.md) in a straight line to any space within 5 squares of that object.
-
-### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.beastheart.spider.level-10/life-drinker"}
-
-Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Spider Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="3">
+<div class="fb__adv-head">Level 3 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dripping Fangs</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="6">
+<div class="fb__adv-head">Level 6 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Web Slinger</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../../../movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Life Drinker</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div>
+</article>
+</div>
+</div>
+</article>
+</div>

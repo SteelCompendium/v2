@@ -32,16 +32,31 @@ You wear no armor and wield a bow.
 
 ### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
 
-*Your ammunition explodes with magical energy.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
-|-----------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 15**                  | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
-
-- **≤11:** 5 + A, R, I, or P fire damage
-- **12-16:** 7 + A, R, I, or P fire damage
-- **17+:** 10 + A, R, I, or P fire damage
-
-**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../rule/character/characteristic.md) score used for this ability's [power roll](../rule/dice/power-roll.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Arcane Archer (Exploding Arrow)</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your ammunition explodes with magical energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 15</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a>, <a href="../../rule/character/reason/">Reason</a>, <a href="../../rule/character/intuition/">Intuition</a>, or <a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A, R, I, or P fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A, R, I, or P fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + A, R, I, or P fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One creature or object of your choice within 2 squares of the target takes fire damage equal to the <a href="../../rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>

@@ -65,600 +65,1189 @@ As a [conduit](conduit.md), you gain the following features.
 
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains"}
 
-Choose a god or [saint](../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
-
-After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../rule/general/subclass.md), and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../god/adun.md) for deity, and Life and Protection as domains.)
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Deity and Domains</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose a god or <a href="../../rule/world/saint/">saint</a> who your character reveres from Chapter 14: <a href="../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
+<p>After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your <a href="../../rule/general/subclass/">subclass</a>, and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (<em>Quick Build:</em> <a href="../../god/adun/">Adûn</a> for deity, and Life and Protection as domains.)</p>
+</div>
+</section>
 
 ### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety"}
 
-Your deity grants you a [Heroic Resource](../rule/resource/heroic-resource.md) called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
-
-#### Piety in Combat
-
-At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain piety equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 piety.
-
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your [turn](../rule/combat/turn.md), you can pray (no action required). If you do, your roll gains the following additional effects:
-
-- If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
-- If the roll is a 2, you gain 1 additional piety.
-- If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).
-
-You lose any remaining piety at the end of the encounter.
-
-#### Piety Outside of Combat
-
-Though you can't gain piety outside of combat, you can use your [heroic abilities](../rule/general/heroic-ability.md) and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../rule/resource/victories.md) or finish a [respite](../rule/resource/respite.md).
-
-When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your [Victories](../rule/resource/victories.md).
-
-#### Domain Piety and Effects {data-scc="mcdm.heroes.v1/feature.conduit.level-1/domain-piety-and-effects"}
-
-Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
-
-Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain's prayer effect take effect immediately.
-
-##### Creation Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.
-- **Prayer Effect:** You summon the forces of creation and create a wall of stone within 10 squares whose [size](../rule/character/size.md) is 5 + your [Intuition](../rule/character/intuition.md) score. The wall lasts until the end of the encounter.
-
-##### Death Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares who isn't a minion is reduced to 0 [Stamina](../rule/health/stamina.md), or the first time in an encounter that a solo creature within 10 squares becomes [winded](../rule/health/winded.md).
-- **Prayer Effect:** You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your [Intuition](../rule/character/intuition.md) score.
-
-##### Fate Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a [power roll](../rule/dice/power-roll.md), or an enemy within 10 squares obtains a tier 1 outcome on a [power roll](../rule/dice/power-roll.md).
-- **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next [power roll](../rule/dice/power-roll.md) made before the end of the encounter.
-
-##### Knowledge Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that the Director spends Malice (see *Draw Steel: Monsters*).
-- **Prayer Effect:** Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 [surge](../rule/resource/surge.md).
-
-##### Life Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or can stand up if they [are prone](../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to two times your [Intuition](../rule/character/intuition.md) score.
-
-##### Love Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../feature/common/maneuvers/aid-attack.md) maneuver or an ability that targets an ally.
-- **Prayer Effect:** Each ally within 10 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to two times your [Intuition](../rule/character/intuition.md) score.
-
-##### Nature Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../rule/character/intuition.md) score. You can [slide](../movement/forced-movement.md) each creature up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. The vines then fade away.
-
-##### Protection Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains [temporary Stamina](../rule/health/temporary-stamina.md), or uses a [triggered action](../feature/conduit/level-1/triggered-action.md) to reduce incoming damage or to impose a [bane](../rule/dice/bane.md) or double [bane](../rule/dice/bane.md) on an enemy's [power roll](../rule/dice/power-roll.md).
-- **Prayer Effect:** One ally within 10 squares gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to four times your [Intuition](../rule/character/intuition.md) score.
-
-##### Storm Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares is [force moved](../movement/forced-movement.md).
-- **Prayer Effect:** Each enemy in a 3 [cube](../rule/combat/cube.md) within 10 squares takes lightning damage equal to twice your [Intuition](../rule/character/intuition.md) score.
-
-##### Sun Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.
-- **Prayer Effect:** One enemy within 10 squares takes fire damage equal to three times your [Intuition](../rule/character/intuition.md) score.
-
-##### Trickery Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/intrigue/hide.md) maneuver.
-- **Prayer Effect:** You [slide](../movement/forced-movement.md) one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
-
-##### War Domain Piety and Effect
-
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single [turn](../rule/combat/turn.md).
-- **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 [surges](../rule/resource/surge.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Piety</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your deity grants you a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called piety, letting you heal and empower your allies, and unleash holy power upon your foes.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Piety in Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain piety equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 piety.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your <a href="../../rule/combat/turn/">turn</a>, you can pray (no action required). If you do, your roll gains the following additional effects:</p>
+<ul><li>If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can&#39;t be reduced in any way.</li><li>If the roll is a 2, you gain 1 additional piety.</li><li>If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).</li></ul>
+<p>You lose any remaining piety at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Piety Outside of Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Though you can&#39;t gain piety outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as <a href="../../feature/ability/conduit/level-1/healing-grace/">Healing Grace</a>, you can use it as if you had spent an amount of piety equal to your <a href="../../rule/resource/victories/">Victories</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Domain Piety and Effects</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.</p>
+<p>Additionally, whenever you activate a domain effect by praying for piety, you can choose one of your domains and have that domain&#39;s prayer effect take effect immediately.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Creation Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares uses an area ability.</li><li><b>Prayer Effect:</b> You summon the forces of creation and create a wall of stone within 10 squares whose <a href="../../rule/character/size/">size</a> is 5 + your <a href="../../rule/character/intuition/">Intuition</a> score. The wall lasts until the end of the encounter.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Death Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares who isn&#39;t a minion is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a>, or the first time in an encounter that a solo creature within 10 squares becomes <a href="../../rule/health/winded/">winded</a>.</li><li><b>Prayer Effect:</b> You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Fate Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a <a href="../../rule/dice/power-roll/">power roll</a>, or an enemy within 10 squares obtains a tier 1 outcome on a <a href="../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next <a href="../../rule/dice/power-roll/">power roll</a> made before the end of the encounter.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Knowledge Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that the Director spends Malice (see <em>Draw Steel: Monsters</em>).</li><li><b>Prayer Effect:</b> Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 <a href="../../rule/resource/surge/">surge</a>.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Life Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or can stand up if they <a href="../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Love Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the <a href="../../feature/common/maneuvers/aid-attack/">Aid Attack</a> maneuver or an ability that targets an ally.</li><li><b>Prayer Effect:</b> Each ally within 10 squares of you gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Nature Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.</li><li><b>Prayer Effect:</b> Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your <a href="../../rule/character/intuition/">Intuition</a> score. You can <a href="../../movement/forced-movement/">slide</a> each creature up to a number of squares equal to your <a href="../../rule/character/intuition/">Intuition</a> score. The vines then fade away.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Protection Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to reduce incoming damage or to impose a <a href="../../rule/dice/bane/">bane</a> or double <a href="../../rule/dice/bane/">bane</a> on an enemy&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Storm Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../movement/forced-movement/">force moved</a>.</li><li><b>Prayer Effect:</b> Each enemy in a 3 <a href="../../rule/combat/cube/">cube</a> within 10 squares takes lightning damage equal to twice your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Sun Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares takes fire or holy damage.</li><li><b>Prayer Effect:</b> One enemy within 10 squares takes fire damage equal to three times your <a href="../../rule/character/intuition/">Intuition</a> score.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Trickery Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the <a href="../../feature/common/maneuvers/aid-attack/">Aid Attack</a> or <a href="../../skill/intrigue/hide/">Hide</a> maneuver.</li><li><b>Prayer Effect:</b> You <a href="../../movement/forced-movement/">slide</a> one creature within 10 squares of you up to a number of squares equal to 5 + your <a href="./">conduit</a> level.</li></ul>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">War Domain Piety and Effect</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single <a href="../../rule/combat/turn/">turn</a>.</li><li><b>Prayer Effect:</b> Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 <a href="../../rule/resource/surge/">surges</a>.</li></ul>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/exploration/heal.md) skill from the Life domain.)
-
-##### 1st-Level Conduit Domain Features Table
-
-| Domain     | Feature                       | Skill Group   |
-|------------|-------------------------------|---------------|
-| Creation   | [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md)            | Crafting      |
-| Death      | [Grave Speech](../feature/ability/censor/level-1/grave-speech.md)                  | Lore          |
-| Fate       | [Oracular Visions](../feature/censor/level-1/oracular-visions.md)              | Lore          |
-| Knowledge  | [Blessing of Comprehension](../feature/censor/level-1/blessing-of-comprehension.md)     | Lore          |
-| Life       | [Revitalizing Ritual](../feature/censor/level-1/revitalizing-ritual.md)           | Exploration   |
-| Love       | [Blessing of Compassion](../feature/censor/level-1/blessing-of-compassion.md)        | Interpersonal |
-| Nature     | [Faithful Friend](../feature/ability/censor/level-1/faithful-friend.md)               | Exploration   |
-| Protection | [Protective Circle](../feature/censor/level-1/protective-circle.md)             | Exploration   |
-| Storm      | [Blessing of Fortunate Weather](../feature/censor/level-1/blessing-of-fortunate-weather.md) | Exploration   |
-| Sun        | [Inner Light](../feature/censor/level-1/inner-light.md)                   | Lore          |
-| Trickery   | [Inspired Deception](../feature/censor/level-1/inspired-deception.md)            | Intrigue      |
-| War        | [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md)             | Exploration   |
-
-#### Blessing of Compassion {data-scc="mcdm.heroes.v1/feature.conduit.level-1/blessing-of-compassion"}
-
-You exude a magic presence that can soothe those willing to socially engage with you. You gain an [edge](../rule/dice/edge.md) on any [test](../rule/test/test.md) made to assist another creature with a [test](../rule/test/test.md).
-
-Additionally, when you are present at the start of a negotiation, one [NPC](../rule/general/npc.md) of your choice has their patience increased by 1 (to a maximum of 5), and the first [test](../rule/test/test.md) made to influence them gains an [edge](../rule/dice/edge.md).
-
-#### Blessing of Comprehension {data-scc="mcdm.heroes.v1/feature.conduit.level-1/blessing-of-comprehension"}
-
-You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the [project source](../rule/downtime/project-source.md) for any research or [crafting project](../rule/downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)).
-
-#### Blessing of Fortunate Weather {data-scc="mcdm.heroes.v1/feature.conduit.level-1/blessing-of-fortunate-weather"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can decide the weather conditions within 100 squares. Until you finish another [respite](../rule/resource/respite.md), the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
-
-**Clear:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Search or Navigate skills.
-
-**Foggy:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the Hide skill. **Overcast:** You and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Endurance](../skill/exploration/endurance.md) skill.
-
-**Precipitation:** When the ground is muddy or snowy, you and your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Track](../skill/intrigue/track.md) skill.
-
-If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
-
-#### Faithful Friend {data-scc="mcdm.heroes.v1/feature.conduit.level-1/faithful-friend"}
-
-You have the following ability.
-
-##### Faithful Friend {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/faithful-friend"}
-
-
-*An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
-
-| **Magic**   |  **Main action** |
-|-------------|-----------------:|
-| **📏 Self** |      **🎯 Self** |
-
-**Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has [speed](../rule/character/speed.md) 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
-
-#### Grave Speech {data-scc="mcdm.heroes.v1/feature.conduit.level-1/grave-speech"}
-
-You have the following ability.
-
-##### Grave Speech {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/grave-speech"}
-
-
-*You commune with the lingering soul of the recently dead.*
-
-| **Magic**      |            **Maneuver**  |
-|----------------|-------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 One dead creature** |
-
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
-
-#### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.conduit.level-1/hands-of-the-maker"}
-
-You have the following ability.
-
-##### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/hands-of-the-maker"}
-
-
-*You craft objects with the power of your mind.*
-
-| **Magic**                |  **Maneuver** |
-|--------------------------|--------------:|
-| **📏 Self**              |   **🎯 Self** |
-
-**Effect:** You create a mundane object of [size](../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Intuition](../rule/character/intuition.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
-
-#### Inner Light {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inner-light"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
-
-#### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
-
-The gods favor your thievery with magic. Whenever you make a [test](../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../skill/intrigue/index.md), you can use [Intuition](../rule/character/intuition.md) on the [test](../rule/test/test.md) instead of another [characteristic](../rule/character/characteristic.md).
-
-#### Oracular Visions {data-scc="mcdm.heroes.v1/feature.conduit.level-1/oracular-visions"}
-
-Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more [Victories](../rule/resource/victories.md), you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a [test](../rule/test/test.md), you can spend 1 fate point to tap into a vision of the outcome, granting that creature an [edge](../rule/dice/edge.md) on the [test](../rule/test/test.md). You lose any remaining fate points when you finish a [respite](../rule/resource/respite.md).
-
-#### Protective Circle {data-scc="mcdm.heroes.v1/feature.conduit.level-1/protective-circle"}
-
-You can spend 10 uninterrupted minutes to create a [protective circle](../feature/censor/level-1/protective-circle.md) on the ground large enough to hold one [size](../rule/character/size.md) 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../feature/censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
-
-#### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.conduit.level-1/revitalizing-ritual"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../rule/dice/bonuses-and-penalties.md) to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
-
-#### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctified-weapon"}
-
-As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">1st-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level <a href="./">Conduit</a> Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (<em>Quick Build:</em> <a href="../../feature/censor/level-1/revitalizing-ritual/">Revitalizing Ritual</a> and the <a href="../../skill/exploration/heal/">Heal</a> skill from the Life domain.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">1st-Level Conduit Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th><th>Skill Group</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a></td><td>Crafting</td></tr><tr><td>Death</td><td><a href="../../feature/ability/censor/level-1/grave-speech/">Grave Speech</a></td><td>Lore</td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-1/oracular-visions/">Oracular Visions</a></td><td>Lore</td></tr><tr><td>Knowledge</td><td><a href="../../feature/censor/level-1/blessing-of-comprehension/">Blessing of Comprehension</a></td><td>Lore</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-1/revitalizing-ritual/">Revitalizing Ritual</a></td><td>Exploration</td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-1/blessing-of-compassion/">Blessing of Compassion</a></td><td>Interpersonal</td></tr><tr><td>Nature</td><td><a href="../../feature/ability/censor/level-1/faithful-friend/">Faithful Friend</a></td><td>Exploration</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-1/protective-circle/">Protective Circle</a></td><td>Exploration</td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-1/blessing-of-fortunate-weather/">Blessing of Fortunate Weather</a></td><td>Exploration</td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-1/inner-light/">Inner Light</a></td><td>Lore</td></tr><tr><td>Trickery</td><td><a href="../../feature/censor/level-1/inspired-deception/">Inspired Deception</a></td><td>Intrigue</td></tr><tr><td>War</td><td><a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a></td><td>Exploration</td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Compassion</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../rule/dice/edge/">edge</a> on any <a href="../../rule/test/test/">test</a> made to assist another creature with a <a href="../../rule/test/test/">test</a>.</p>
+<p>Additionally, when you are present at the start of a negotiation, one <a href="../../rule/general/npc/">NPC</a> of your choice has their patience increased by 1 (to a maximum of 5), and the first <a href="../../rule/test/test/">test</a> made to influence them gains an <a href="../../rule/dice/edge/">edge</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Comprehension</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the <a href="../../rule/downtime/project-source/">project source</a> for any research or <a href="../../rule/downtime/crafting-project/">crafting project</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can decide the weather conditions within 100 squares. Until you finish another <a href="../../rule/resource/respite/">respite</a>, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p>
+<p><b>Clear:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the Search or Navigate skills.</p>
+<p><b>Foggy:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the Hide skill. <b>Overcast:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/exploration/endurance/">Endurance</a> skill.</p>
+<p><b>Precipitation:</b> When the ground is muddy or snowy, you and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/intrigue/track/">Track</a> skill.</p>
+<p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Faithful Friend</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Faithful Friend</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has <a href="../../rule/character/speed/">speed</a> 5 and can <a href="../../movement/fly/">fly</a>, but can&#39;t physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Grave Speech</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Grave Speech</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make <a href="../../rule/test/test/">tests</a> to influence them and convince them to speak with you. The trauma of <a href="../../rule/health/dying/">dying</a> can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Hands of the Maker</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Hands of the Maker</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You craft objects with the power of your mind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create a mundane object of <a href="../../rule/character/size/">size</a> 1S or smaller. You can maintain a number of objects created this way equal to your <a href="../../rule/character/intuition/">Intuition</a> score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Inner Light</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../feature/ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Inspired Deception</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods favor your thievery with magic. Whenever you make a <a href="../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../skill/intrigue/">intrigue skill group</a>, you can use <a href="../../rule/character/intuition/">Intuition</a> on the <a href="../../rule/test/test/">test</a> instead of another <a href="../../rule/character/characteristic/">characteristic</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Oracular Visions</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more <a href="../../rule/resource/victories/">Victories</a>, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a <a href="../../rule/test/test/">test</a>, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an <a href="../../rule/dice/edge/">edge</a> on the <a href="../../rule/test/test/">test</a>. You lose any remaining fate points when you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Protective Circle</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can spend 10 uninterrupted minutes to create a <a href="../../feature/censor/level-1/protective-circle/">protective circle</a> on the ground large enough to hold one <a href="../../rule/character/size/">size</a> 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../../feature/censor/level-1/protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Revitalizing Ritual</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. The chosen character gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to their <a href="../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Sanctified Weapon</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a <a href="../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace"}
 
-You have the following ability, which you can use once on your [turn](../rule/combat/turn.md).
-
-#### Healing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace"}
-
-
-*Your divine energy restores the righteous.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**          |            **Maneuver** |
-|----------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 Self or one ally** |
-
-**Effect:** The target can spend a [Recovery](../rule/health/recoveries.md).
-
-**Spend 1+ Piety:** For each piety spent, choose one of the following [enhancements](../rule/treasure/enhancement.md):
-
-- You can target one additional ally within [distance](../rule/combat/distance.md).
-- You can end one effect on a target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
-- A [prone target](../condition/prone.md) can stand up.
-- A target can spend 1 additional [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Healing Grace maneuver">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Healing Grace</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which you can use once on your <a href="../../rule/combat/turn/">turn</a>.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Healing Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your divine energy restores the righteous.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><ul><li>You can target one additional ally within <a href="../../rule/combat/distance/">distance</a>.</li><li>You can end one effect on a target that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>.</li><li>A <a href="../../condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional <a href="../../rule/health/recoveries/">Recovery</a>.</li></ul></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../rule/treasure/enhancement/">enhancements</a>:</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath"}
 
-You have the following ability, which can be used as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
-
-#### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
-
-
-*You unleash a blast of holy light upon your foe.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 + I damage
-- **12-16:** 4 + I damage
-- **17+:** 6 + I damage
-
-**Effect:** You can have this ability deal holy damage.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Ray of Wrath main action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Ray of Wrath</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a <a href="../../rule/combat/ranged/">ranged</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a>.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ray of Wrath</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You unleash a blast of holy light upon your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + I damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can have this ability deal holy damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### Triggered Action {data-scc="mcdm.heroes.v1/feature.conduit.level-1/triggered-action"}
 
-Choose one of the following [triggered actions](../rule/combat/triggered-action.md). (*Quick Build:* [Word of Guidance](../feature/ability/conduit/level-1/word-of-guidance.md).)
-
-#### Word of Guidance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance"}
-
-
-*You invigorate an attacking ally with divine energy.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**      |        **Triggered** |
-|------------------------|---------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**       |      **🎯 One ally** |
-
-**Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md) for a damage-dealing ability.
-
-**Effect:** The [power roll](../rule/dice/power-roll.md) gains an [edge](../rule/dice/edge.md).
-
-**Spend 1 Piety:** The [power roll](../rule/dice/power-roll.md) has a double [edge](../rule/dice/edge.md).
-
-#### Word of Judgment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment"}
-
-
-*Your holy word saps an attacking enemy's strength.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |     **Triggered** |
-|--------------------|------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   |   **🎯 One ally** |
-
-**Trigger:** The target would take damage from an ability that uses a [power roll](../rule/dice/power-roll.md).
-
-**Effect:** The [power roll](../rule/dice/power-roll.md) takes a [bane](../rule/dice/bane.md) against the target.
-
-**Spend 1 Piety:** The [power roll](../rule/dice/power-roll.md) has a double [bane](../rule/dice/bane.md) against the target.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Triggered Action</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following <a href="../../rule/combat/triggered-action/">triggered actions</a>. (<em>Quick Build:</em> <a href="../../feature/ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Word of Guidance</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You invigorate an attacking ally with divine energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../rule/dice/ability-roll/">ability roll</a> for a damage-dealing ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/dice/power-roll/">power roll</a> gains an <a href="../../rule/dice/edge/">edge</a>.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../rule/dice/power-roll/">power roll</a> has a double <a href="../../rule/dice/edge/">edge</a>.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Word of Judgment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your holy word saps an attacking enemy&#39;s strength.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target would take damage from an ability that uses a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/dice/power-roll/">power roll</a> takes a <a href="../../rule/dice/bane/">bane</a> against the target.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../rule/dice/power-roll/">power roll</a> has a double <a href="../../rule/dice/bane/">bane</a> against the target.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 ### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer"}
 
-Your god answers a prayer with [enhancements](../rule/treasure/enhancement.md) to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../feature/conduit/level-1/conduit-ward.md) below) by praying to your god as a [respite](../rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](../feature/conduit/level-1/prayer-of-distance.md).)
-
-#### Prayer of Destruction {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-destruction"}
-
-Your god infuses wrath within your being. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with magic abilities.
-
-#### Prayer of Distance {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-distance"}
-
-Your god blesses you with the ability to stretch your divine magic farther. You have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) magic abilities.
-
-#### Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-soldiers-skill"}
-
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
-
-If you have a kit, you can't take this blessing.
-
-#### Prayer of Speed {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-speed"}
-
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
-
-#### Prayer of Steel {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-steel"}
-
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and this [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Prayer</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god answers a prayer with <a href="../../rule/treasure/enhancement/">enhancements</a> to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see <a href="../../feature/conduit/level-1/conduit-ward/">Conduit Ward</a> below) by praying to your god as a <a href="../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../feature/conduit/level-1/prayer-of-distance/">Prayer of Distance</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prayer of Destruction</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god infuses wrath within your being. You gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prayer of Distance</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../rule/combat/distance/">distance</a> of your <a href="../../rule/combat/ranged/">ranged</a> magic abilities.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prayer of Soldier&#39;s Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/health/stamina/">Stamina</a>, and that <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> with weapon abilities, including <a href="../../feature/common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
+<p>If you have a kit, you can&#39;t take this blessing.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prayer of Speed</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and to the <a href="../../rule/combat/distance/">distance</a> you can <a href="../../movement/shifting/">shift</a> when you take the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Prayer of Steel</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/health/stamina/">Stamina</a>, and this <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/stability/">stability</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward"}
 
-Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a [respite](../rule/resource/respite.md) activity. (*Quick Build:* [Bastion Ward](../feature/conduit/level-1/bastion-ward.md).)
-
-#### Bastion Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/bastion-ward"}
-
-Your god grants you a holy countenance that protects you at all times. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
-
-#### Quickness Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/quickness-ward"}
-
-The gods imbue a divine swiftness within you. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can [shift](../movement/shifting.md) up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score after the damage is dealt.
-
-#### Sanctuary Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctuary-ward"}
-
-In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next [turn](../rule/combat/turn.md).
-
-#### Spirit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/spirit-ward"}
-
-Invisible spirits surround you if you are harmed. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, they take corruption damage equal to your [Intuition](../rule/character/intuition.md) score.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Conduit Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a <a href="../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../feature/conduit/level-1/bastion-ward/">Bastion Ward</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Bastion Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Quickness Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods imbue a divine swiftness within you. Whenever an <a href="../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can <a href="../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../rule/character/intuition/">Intuition</a> score after the damage is dealt.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Sanctuary Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a <a href="../../rule/combat/strike/">strike</a> until you harm them or one of their allies, or until the end of their next <a href="../../rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Spirit Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Invisible spirits surround you if you are harmed. Whenever an <a href="../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, they take corruption damage equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
 
-Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.
-
-#### Signature Abilities
-
-Choose two [signature abilities](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Blessed Light](../feature/ability/conduit/level-1/blessed-light.md), [Staggering Curse](../feature/ability/conduit/level-1/staggering-curse.md).)
-
-##### Blessed Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light"}
-
-
-*Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I holy damage
-- **12-16:** 5 + I holy damage
-- **17+:** 8 + I holy damage
-
-**Effect:** One ally within [distance](../rule/combat/distance.md) gains a number of [surges](../rule/resource/surge.md) equal to the [tier outcome](../rule/dice/tier-outcome.md) of your [power roll](../rule/dice/power-roll.md).
-
-##### Drain {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/drain"}
-
-
-*You drain the energy from your target to revitalize yourself or an ally.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|--------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 + I corruption damage
-- **12-16:** 5 + I corruption damage
-- **17+:** 7 + I corruption damage
-
-**Effect:** You or one ally within [distance](../rule/combat/distance.md) can spend a [Recovery](../rule/health/recoveries.md).
-
-##### Holy Lash {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash"}
-
-
-*A tendril of divine energy shoots forth to draw in your foe.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I holy damage; vertical [pull](../movement/forced-movement.md) 2
-- **12-16:** 5 + I holy damage; vertical [pull](../movement/forced-movement.md) 3
-- **17+:** 8 + I holy damage; vertical [pull](../movement/forced-movement.md) 4
-
-##### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
-
-
-*A rain of holy light scours your enemies and repositions your allies.*
-
-| **Area, Magic**  |               **Main action** |
-|------------------|------------------------------:|
-| **📏 2 [burst](../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 holy damage
-- **12-16:** 3 holy damage
-- **17+:** 5 holy damage
-
-**Effect:** You can [teleport](../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
-
-##### Sacrificial Offer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sacrificial-offer"}
-
-
-*Divine magic tears at your foe and defends a nearby friend.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 + I corruption damage
-- **12-16:** 4 + I corruption damage
-- **17+:** 6 + I corruption damage
-
-**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can impose a [bane](../rule/dice/bane.md) on one [power roll](../rule/dice/power-roll.md) made against them before the end of their next [turn](../rule/combat/turn.md).
-
-##### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
-
-
-*A blast of judgment disorients your foe.*
-
-| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I holy damage; [slide](../movement/forced-movement.md) 1
-- **12-16:** 5 + I holy damage; [slide](../movement/forced-movement.md) 2
-- **17+:** 8 + I holy damage; [slide](../movement/forced-movement.md) 3
-
-##### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
-
-
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../rule/combat/melee.md).*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I holy damage
-- **12-16:** 6 + I holy damage
-- **17+:** 9 + I holy damage
-
-**Effect:** You or one ally within [distance](../rule/combat/distance.md) gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Intuition](../rule/character/intuition.md) score.
-
-##### Wither {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/wither"}
-
-
-*A bolt of holy energy saps the life from a foe.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I corruption damage; P < WEAK, the target takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md)
-- **12-16:** 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md)
-- **17+:** 8 + I corruption damage; P < STRONG, the target takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md)
-
-#### Heroic Abilities
-
-You make use of a number of [heroic abilities](../rule/general/heroic-ability.md), all of which channel piety to empower them.
-
-##### 3-Piety Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../feature/ability/conduit/level-1/violence-will-not-aid-thee.md).)
-
-##### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
-
-
-*You ask your [saint](../rule/world/saint.md) for thunder and your prayer is answered.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
-|-------------------------|------------------------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 sonic damage; [push](../movement/forced-movement.md) 1
-- **12-16:** 3 sonic damage; [push](../movement/forced-movement.md) 2
-- **17+:** 5 sonic damage; [push](../movement/forced-movement.md) 3
-
-**Effect:** You can [push](../movement/forced-movement.md) each willing ally in the area the same [distance](../rule/combat/distance.md), ignoring [stability](../rule/character/stability.md).
-
-##### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
-
-
-*A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
-|--------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   |  **🎯 Special** |
-
-**Effect:** You summon a spirit of [size](../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../rule/combat/distance.md). The spirit lasts until the end of your next [turn](../rule/combat/turn.md). You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes holy damage equal to your [Intuition](../rule/character/intuition.md) score.
-
-##### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
-
-
-*Your divine [fury](fury.md) is a hammer that crashes down upon the unrighteous.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I holy damage; A < WEAK[, prone](../condition/prone.md)
-- **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../condition/prone.md)
-- **17+:** 9 + I holy damage; A < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
-
-##### Violence Will Not Aid Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/violence-will-not-aid-thee"}
-
-
-*After some holy lightning, your enemy will think twice about their next attack.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I lightning damage
-- **12-16:** 6 + I lightning damage
-- **17+:** 9 + I lightning damage
-
-**Effect:** The first time on a [turn](../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
-
-##### 5-Piety Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../feature/ability/conduit/level-1/curse-of-terror.md).)
-
-##### Corruption's Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse"}
-
-
-*Cursed by you, your enemy takes more damage from your allies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I corruption damage; M < WEAK, [damage weakness](../rule/damage/damage-weakness.md) 5 (save ends)
-- **12-16:** 6 + I corruption damage; M < AVERAGE, [damage weakness](../rule/damage/damage-weakness.md) 5 (save ends)
-- **17+:** 9 + I corruption damage; M < STRONG, [damage weakness](../rule/damage/damage-weakness.md) 5 (save ends)
-
-##### Curse of Terror {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror"}
-
-
-*Fear of divine judgment overwhelms your foe.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |                      **Main action** |
-|----------------------------|-------------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           |                  **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 6 + I holy damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 13 + I holy damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-##### Faith Is Our Armor {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor"}
-
-
-*The heroes' armor glows with golden light, granting divine protection.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**        |       **Maneuver** |
-|--------------------------|-------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Four allies** |
-
-**Effect:** You can target yourself instead of one ally with this ability.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** The target gains 5 [temporary Stamina](../rule/health/temporary-stamina.md).
-- **12-16:** The target gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
-- **17+:** The target gains 15 [temporary Stamina](../rule/health/temporary-stamina.md).
-
-##### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
-
-
-*You inspire your allies with tales of your [saint](../rule/world/saint.md)'s great deeds.*
-
-| **Area, Magic** |              **Main action** |
-|-----------------|-----------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
-
-**Effect:** Each target can spend a [Recovery](../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or to stand up if [prone](../condition/prone.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Conduit Abilities</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose two <a href="../../rule/combat/signature-ability/">signature abilities</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/conduit/level-1/blessed-light/">Blessed Light</a>, <a href="../../feature/ability/conduit/level-1/staggering-curse/">Staggering Curse</a>.)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Blessed Light</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One ally within <a href="../../rule/combat/distance/">distance</a> gains a number of <a href="../../rule/resource/surge/">surges</a> equal to the <a href="../../rule/dice/tier-outcome/">tier outcome</a> of your <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Drain</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You drain the energy from your target to revitalize yourself or an ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + I corruption damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You or one ally within <a href="../../rule/combat/distance/">distance</a> can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Holy Lash</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A tendril of divine energy shoots forth to draw in your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage; vertical <a href="../../movement/forced-movement/">pull</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I holy damage; vertical <a href="../../movement/forced-movement/">pull</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I holy damage; vertical <a href="../../movement/forced-movement/">pull</a> 4</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Lightfall</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A rain of holy light scours your enemies and repositions your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../movement/teleport/">teleport</a> yourself and each ally in the area to unoccupied spaces in the area.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sacrificial Offer</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Divine magic tears at your foe and defends a nearby friend.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + I corruption damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose yourself or one ally within <a href="../../rule/combat/distance/">distance</a>. That character can impose a <a href="../../rule/dice/bane/">bane</a> on one <a href="../../rule/dice/power-roll/">power roll</a> made against them before the end of their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Staggering Curse</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A blast of judgment disorients your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Warrior&#39;s Prayer</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your quickly uttered prayer lends aggressive divine energy to a friend engaged in <a href="../../rule/combat/melee/">melee</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You or one ally within <a href="../../rule/combat/distance/">distance</a> gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Wither</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">A bolt of holy energy saps the life from a foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I corruption damage; P &lt; WEAK, the target takes a <a href="../../rule/dice/bane/">bane</a> on their next <a href="../../rule/dice/power-roll/">power roll</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I corruption damage; P &lt; AVERAGE, the target takes a <a href="../../rule/dice/bane/">bane</a> on their next <a href="../../rule/dice/power-roll/">power roll</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I corruption damage; P &lt; STRONG, the target takes a <a href="../../rule/dice/bane/">bane</a> on their next <a href="../../rule/dice/power-roll/">power roll</a></span></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heroic Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You make use of a number of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of which channel piety to empower them.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3-Piety Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 piety to use. (<em>Quick Build:</em> <a href="../../feature/ability/conduit/level-1/violence-will-not-aid-thee/">Violence Will Not Aid Thee</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Call the Thunder Down</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You ask your <a href="../../rule/world/saint/">saint</a> for thunder and your prayer is answered.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 sonic damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 sonic damage; <a href="../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 sonic damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../movement/forced-movement/">push</a> each willing ally in the area the same <a href="../../rule/combat/distance/">distance</a>, ignoring <a href="../../rule/character/stability/">stability</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Font of Wrath</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You summon a spirit of <a href="../../rule/character/size/">size</a> 2 who can&#39;t be harmed, and who appears in an unoccupied space within <a href="../../rule/combat/distance/">distance</a>. The spirit lasts until the end of your next <a href="../../rule/combat/turn/">turn</a>. You and your allies can move through the spirit&#39;s space, but enemies can&#39;t. Any enemy who moves within 2 squares of the spirit for the first time in a <a href="../../rule/combat/combat-round/">combat round</a> or starts their turn there takes holy damage equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Judgment&#39;s Hammer</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your divine <a href="../fury/">fury</a> is a hammer that crashes down upon the unrighteous.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage; A &lt; WEAK<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I holy damage; A &lt; AVERAGE<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I holy damage; A &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Violence Will Not Aid Thee</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">After some holy lightning, your enemy will think twice about their next attack.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I lightning damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I lightning damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I lightning damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time on a <a href="../../rule/combat/turn/">turn</a> that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5-Piety Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 piety to use. (<em>Quick Build:</em> <a href="../../feature/ability/conduit/level-1/curse-of-terror/">Curse of Terror</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Corruption&#39;s Curse</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Cursed by you, your enemy takes more damage from your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I corruption damage; M &lt; WEAK, <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I corruption damage; M &lt; AVERAGE, <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I corruption damage; M &lt; STRONG, <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Curse of Terror</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Fear of divine judgment overwhelms your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + I holy damage; I &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + I holy damage; I &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + I holy damage; I &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Faith Is Our Armor</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The heroes&#39; armor glows with golden light, granting divine protection.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Sermon of Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You inspire your allies with tales of your <a href="../../rule/world/saint/">saint</a>&#39;s great deeds.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can spend a <a href="../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or to stand up if <a href="../../condition/prone/">prone</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 2nd-Level Features
 
@@ -666,189 +1255,339 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 
 ### The Lists of Heaven {data-scc="mcdm.heroes.v1/feature.conduit.level-2/the-lists-of-heaven"}
 
-Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a [Recovery](../rule/health/recoveries.md), you can also spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">The Lists of Heaven</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a <a href="../../rule/health/recoveries/">Recovery</a>, you can also spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk"}
 
-You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
+</div>
+</section>
 
 ### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature"}
 
-You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">2nd-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn&#39;t take at that level (see 1st-Level Domain Feature).</p>
+</div>
+</section>
 
 ### 2nd-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-ability"}
 
-Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-ability.md) from that domain, as shown on the 2nd-Level [Conduit](conduit.md) Domain Abilities table.
-
-##### 2nd-Level Conduit Domain Abilities Table
-
-| Domain     | Ability                      |
-|------------|------------------------------|
-| Creation   | [Statue of Power](../feature/ability/conduit/level-2/statue-of-power.md)              |
-| Death      | Reap                         |
-| Fate       | [Blessing of Fate and Destiny](../feature/ability/conduit/level-2/blessing-of-fate-and-destiny.md) |
-| Knowledge  | [The Gods Command You Obey](../feature/ability/conduit/level-2/the-gods-command-you-obey.md)    |
-| Life       | [Wellspring of Grace](../feature/ability/conduit/level-2/wellspring-of-grace.md)          |
-| Love       | [Our Hearts Your Strength](../feature/ability/conduit/level-2/our-hearts-your-strength.md)     |
-| Nature     | [Nature Judges Thee](../feature/ability/conduit/level-2/nature-judges-thee.md)           |
-| Protection | [Sacred Bond](../feature/ability/conduit/level-2/sacred-bond.md)                  |
-| Storm      | [Saint](../rule/world/saint.md)'s Tempest              |
-| Sun        | [Morning Light](../feature/ability/conduit/level-2/morning-light.md)                |
-| Trickery   | [Divine Comedy](../feature/ability/conduit/level-2/divine-comedy.md)                |
-| War        | [Blessing of Insight](../feature/ability/conduit/level-2/blessing-of-insight.md)          |
-
-##### Blessing of Fate and Destiny {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny"}
-
-
-*Your enemies suffer their fate; your allies embrace their destiny!*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |        **Main action** |
-|--------------------|-----------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Three creatures** |
-
-**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../rule/health/dying.md):
-
-- Whenever a target makes a [power roll](../rule/dice/power-roll.md), they can roll three dice and choose which two rolls to use.
-- Whenever a target makes a [power roll](../rule/dice/power-roll.md), they must roll three dice and use the lowest two rolls.
-
-##### Blessing of Insight {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight"}
-
-
-*The gods grant insight revealing where best to strike your enemies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |              **Maneuver** |
-|--------------------|--------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
-
-##### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
-
-
-*You and your allies swap places to confound your foes.*
-
-| **Area, Magic**  |                          **Maneuver** |
-|------------------|--------------------------------------:|
-| **📏 5 [burst](../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
-
-##### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
-
-
-*You speak with the voice of your [saint](../rule/world/saint.md), commanding your enemies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../feature/common/main-actions/free-strike.md) against a target you choose
-- **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
-- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](../rule/character/speed.md) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
-
-##### Morning Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light"}
-
-
-*Light shines at your command, burning your foes and blessing your allies.*
-
-| **Area, Magic**  |               **Main action** |
-|------------------|------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 4 fire damage
-- **12-16:** 6 fire damage
-- **17+:** 10 fire damage
-
-**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../rule/character/intuition.md) score with their next strike made before the end of their next [turn](../rule/combat/turn.md).
-
-##### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
-
-
-*Mystical thorned vines appear at your bidding and bind your foes.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
-- **12-16:** 3 damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
-- **17+:** 7 damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
-
-##### Our Hearts Your Strength {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength"}
-
-
-*An ally gains strength from their friends.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |             **Maneuver** |
-|--------------------|-------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
-
-**Effect:** Until the end of the encounter or until the target is [dying](../rule/health/dying.md), at the start of each of the target's [turns](../rule/combat/turn.md), they gain a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and a [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This [bonus](../rule/dice/bonuses-and-penalties.md) lasts until the start of their next [turn](../rule/combat/turn.md).
-
-##### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
-
-
-*The gods reward those who smite their foes.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |     **Maneuver** |
-|--------------------|-----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Each ally** |
-
-**Effect:** Until the start of your next [turn](../rule/combat/turn.md), each time a target kills an enemy, they regain [Stamina](../rule/health/stamina.md) equal to 5 + your [Intuition](../rule/character/intuition.md) score.
-
-##### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
-
-
-*You forge a divine connection between two creatures.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |             **Maneuver** |
-|--------------------|-------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
-
-**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a [Recovery](../rule/health/recoveries.md), the other target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to spend a [Recovery](../rule/health/recoveries.md).
-
-##### Saint's Tempest {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest"}
-
-
-*A raging storm appears, striking your foes with lightning and throwing them around with wind.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 lightning damage; vertical [slide](../movement/forced-movement.md) 1
-- **12-16:** 5 lightning damage; vertical [slide](../movement/forced-movement.md) 2
-- **17+:** 7 lightning damage; vertical [slide](../movement/forced-movement.md) 3
-
-##### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
-
-
-*A marble statue of your deity rises from the earth.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |   **Maneuver** |
-|--------------------|---------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Special** |
-
-**Effect:** A [size](../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../rule/resource/surge.md) at the start of each of your [turns](../rule/combat/turn.md). Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
-
-##### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
-
-
-*A holy light is emitted from your body, healing your allies.*
-
-| **Area, Magic**  |              **Main action** |
-|------------------|-----------------------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**    | **🎯 Each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target starts their [turn](../rule/combat/turn.md) in the area, they can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">2nd-Level Domain Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a <a href="../../rule/general/heroic-ability/">heroic ability</a> from that domain, as shown on the 2nd-Level <a href="./">Conduit</a> Domain Abilities table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Conduit Domain Abilities Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Ability</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/ability/conduit/level-2/statue-of-power/">Statue of Power</a></td></tr><tr><td>Death</td><td>Reap</td></tr><tr><td>Fate</td><td><a href="../../feature/ability/conduit/level-2/blessing-of-fate-and-destiny/">Blessing of Fate and Destiny</a></td></tr><tr><td>Knowledge</td><td><a href="../../feature/ability/conduit/level-2/the-gods-command-you-obey/">The Gods Command You Obey</a></td></tr><tr><td>Life</td><td><a href="../../feature/ability/conduit/level-2/wellspring-of-grace/">Wellspring of Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/ability/conduit/level-2/our-hearts-your-strength/">Our Hearts Your Strength</a></td></tr><tr><td>Nature</td><td><a href="../../feature/ability/conduit/level-2/nature-judges-thee/">Nature Judges Thee</a></td></tr><tr><td>Protection</td><td><a href="../../feature/ability/conduit/level-2/sacred-bond/">Sacred Bond</a></td></tr><tr><td>Storm</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Tempest</td></tr><tr><td>Sun</td><td><a href="../../feature/ability/conduit/level-2/morning-light/">Morning Light</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/conduit/level-2/divine-comedy/">Divine Comedy</a></td></tr><tr><td>War</td><td><a href="../../feature/ability/conduit/level-2/blessing-of-insight/">Blessing of Insight</a></td></tr></tbody></table>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Blessing of Fate and Destiny</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your enemies suffer their fate; your allies embrace their destiny!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>:</p><ul><li>Whenever a target makes a <a href="../../rule/dice/power-roll/">power roll</a>, they can roll three dice and choose which two rolls to use.</li><li>Whenever a target makes a <a href="../../rule/dice/power-roll/">power roll</a>, they must roll three dice and use the lowest two rolls.</li></ul></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of Insight</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods grant insight revealing where best to strike your enemies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../rule/combat/turn/">turns</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Divine Comedy</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You and your allies swap places to confound your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Gods Command You Obey</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You speak with the voice of your <a href="../../rule/world/saint/">saint</a>, commanding your enemies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + I holy damage; P &lt; WEAK, before taking damage, the target makes a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against a target you choose</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + I holy damage; P &lt; AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + I holy damage; P &lt; STRONG, before taking damage, the target shifts up to their <a href="../../rule/character/speed/">speed</a> to a location you choose, uses an ability of your choice, and you choose any targets for that ability</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Morning Light</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Light shines at your command, burning your foes and blessing your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Nature Judges Thee</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Mystical thorned vines appear at your bidding and bind your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; A &lt; WEAK, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage; A &lt; AVERAGE, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; A &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Our Hearts Your Strength</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">An ally gains strength from their friends.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s <a href="../../rule/combat/turn/">turns</a>, they gain a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> equal to the number of allies within 10 squares of them. This <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> lasts until the start of their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Reap</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods reward those who smite their foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../rule/combat/turn/">turn</a>, each time a target kills an enemy, they regain <a href="../../rule/health/stamina/">Stamina</a> equal to 5 + your <a href="../../rule/character/intuition/">Intuition</a> score.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Sacred Bond</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You forge a divine connection between two creatures.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a <a href="../../rule/health/recoveries/">Recovery</a>, the other target can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Saint&#39;s Tempest</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A raging storm appears, striking your foes with lightning and throwing them around with wind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 lightning damage; vertical <a href="../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 lightning damage; vertical <a href="../../movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 lightning damage; vertical <a href="../../movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Statue of Power</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A marble statue of your deity rises from the earth.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../rule/character/size/">size</a> 2 statue rises out of the ground in an unoccupied space within <a href="../../rule/combat/distance/">distance</a> and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 <a href="../../rule/resource/surge/">surge</a> at the start of each of your <a href="../../rule/combat/turn/">turns</a>. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Wellspring of Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A holy light is emitted from your body, healing your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, whenever a target starts their <a href="../../rule/combat/turn/">turn</a> in the area, they can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 3rd-Level Features
 
@@ -856,75 +1595,142 @@ As a 3rd-level [conduit](conduit.md), you gain the following features.
 
 ### Minor Miracle {data-scc="mcdm.heroes.v1/feature.conduit.level-3/minor-miracle"}
 
-As a [respite](../rule/resource/respite.md) activity, you can perform a religious ritual and beseech the gods to restore a dead creature to life. You must have at least half the creature's remains, and they must have died within the last 24 hours from an effect that isn't age related. The creature's soul must be willing to return to life for the ritual to work. If they are not willing, you instinctively understand that as you start the [respite](../rule/resource/respite.md) activity and can cease it immediately.
-
-A creature with a willing soul returns to life at the end of the [respite](../rule/resource/respite.md) with full [Stamina](../rule/health/stamina.md) and half their [Recoveries](../rule/health/recoveries.md). You regain only half your [Recoveries](../rule/health/recoveries.md) at the end of the [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Minor Miracle</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a <a href="../../rule/resource/respite/">respite</a> activity, you can perform a religious ritual and beseech the gods to restore a dead creature to life. You must have at least half the creature&#39;s remains, and they must have died within the last 24 hours from an effect that isn&#39;t age related. The creature&#39;s soul must be willing to return to life for the ritual to work. If they are not willing, you instinctively understand that as you start the <a href="../../rule/resource/respite/">respite</a> activity and can cease it immediately.</p>
+<p>A creature with a willing soul returns to life at the end of the <a href="../../rule/resource/respite/">respite</a> with full <a href="../../rule/health/stamina/">Stamina</a> and half their <a href="../../rule/health/recoveries/">Recoveries</a>. You regain only half your <a href="../../rule/health/recoveries/">Recoveries</a> at the end of the <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
 
 ### 7-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-3/7-piety-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 7 piety to use.
-
-#### Fear of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods"}
-
-
-*Your divine magic makes a creature appear as what your enemies fear most.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 5 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 6 psychic damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 9 psychic damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 13 psychic damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-**Effect:** Each target is [frightened](../condition/frightened.md) of you or a creature you choose within [distance](../rule/combat/distance.md).
-
-#### Saint's Raiment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment"}
-
-
-*An ally becomes the wearer of an empowered golden cloak.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**         |    **Maneuver** |
-|---------------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One ally** |
-
-**Effect:** The target gains 20 [temporary Stamina](../rule/health/temporary-stamina.md) and 3 [surges](../rule/resource/surge.md).
-
-#### Soul Siphon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon"}
-
-
-*A beam of energy connects a foe to a friend, draining life from one to heal the other.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |  **Main action** |
-|---------------------------|-----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One enemy** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 7 + I corruption damage
-- **12-16:** 10 + I corruption damage
-- **17+:** 15 + I corruption damage
-
-**Effect:** One ally within [distance](../rule/combat/distance.md) can spend any number of [Recoveries](../rule/health/recoveries.md).
-
-#### Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
-
-
-*Your [saint](../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*
-
-| **Area, Magic**  |               **Main action** |
-|------------------|------------------------------:|
-| **📏 5 [burst](../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 holy damage
-- **12-16:** 5 holy damage
-- **17+:** 7 holy damage
-
-**Effect:** Each ally in the area can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">7-Piety Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 piety to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fear of the Gods</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your divine magic makes a creature appear as what your enemies fear most.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 psychic damage; I &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 psychic damage; I &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 psychic damage; I &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../condition/frightened/">frightened</a> of you or a creature you choose within <a href="../../rule/combat/distance/">distance</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Saint&#39;s Raiment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">An ally becomes the wearer of an empowered golden cloak.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> and 3 <a href="../../rule/resource/surge/">surges</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Soul Siphon</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A beam of energy connects a foe to a friend, draining life from one to heal the other.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + I corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 + I corruption damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One ally within <a href="../../rule/combat/distance/">distance</a> can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Words of Wrath and Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your <a href="../../rule/world/saint/">saint</a> grants your enemies a vision of pain and fills your allies with healing energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally in the area can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 4th-Level Features
 
@@ -932,101 +1738,236 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 
 ### Blessed Domain {data-scc="mcdm.heroes.v1/feature.conduit.level-4/blessed-domain"}
 
-Whenever you gain piety from a domain effect, you gain 1 additional piety.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Blessed Domain</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you gain piety from a domain effect, you gain 1 additional piety.</p>
+</div>
+</section>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-4/characteristic-increase"}
 
-Your [Intuition](../rule/character/intuition.md) score increases to 3. Additionally, you can increase one of your [characteristic](../rule/character/characteristic.md) scores by 1, to a maximum of 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/intuition/">Intuition</a> score increases to 3. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 3.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-4/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-4/skill"}
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
+</div>
+</section>
 
 ### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-4/4th-level-domain-feature"}
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](conduit.md) Domain Features table.
-
-##### 4th-Level Conduit Domain Features Table
-
-| Domain     | Feature                     |
-|------------|-----------------------------|
-| Creation   | Improved [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) |
-| Death      | Seance                      |
-| Fate       | [Oracular Warning](../feature/censor/level-4/oracular-warning.md)            |
-| Knowledge  | [Saint](../rule/world/saint.md)'s Epiphany            |
-| Life       | [Blessing of Life](../feature/censor/level-4/blessing-of-life.md)            |
-| Love       | Invocation of the Heart     |
-| Nature     | [Wode Road](../feature/censor/level-4/wode-road.md)                   |
-| Protection | [Impervious Touch](../feature/censor/level-4/impervious-touch.md)            |
-| Storm      | Windwalk                    |
-| Sun        | [Light of Revelation](../feature/censor/level-4/light-of-revelation.md)         |
-| Trickery   | [Blessing of Secrets](../feature/ability/censor/level-4/blessing-of-secrets.md)         |
-| War        | [Improved Sanctified Weapon](../feature/censor/level-4/improved-sanctified-weapon.md)  |
-
-##### Blessing of Life
-
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within [distance](../rule/combat/distance.md) of your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability regains [Stamina](../rule/health/stamina.md), they regain additional [Stamina](../rule/health/stamina.md) equal to your [Intuition](../rule/character/intuition.md) score.
-
-##### Blessing of Secrets
-
-You have the following ability.
-
-##### Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-4/blessing-of-secrets"}
-
-
-*You project an illusory [aura](../rule/combat/aura.md) that makes you and allies harder to notice.*
-
-| **Area, Magic** |                         **Maneuver**  |
-|-----------------|--------------------------------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each creature in the area has a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to [hide](../skill/intrigue/hide.md) or [sneak](../skill/intrigue/sneak.md). The [aura](../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-
-##### Impervious Touch
-
-As a maneuver, you can touch an object with a [size](../rule/character/size.md) equal to your [Intuition](../rule/character/intuition.md) score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your [Intuition](../rule/character/intuition.md) score, and you can end the spell on any object at any time (no action required).
-
-Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director's approval) that is of a [size](../rule/character/size.md) larger than your [Intuition](../rule/character/intuition.md) score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your [Intuition](../rule/character/intuition.md) score simultaneously.
-
-##### Improved Hands of the Maker
-
-When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is [size](../rule/character/size.md) 2 or smaller.
-
-##### Improved Sanctified Weapon
-
-The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
-
-##### Invocation of the Heart
-
-As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any [distance](../rule/combat/distance.md), including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any [test](../rule/test/test.md) they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).
-
-##### Light of Revelation
-
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../rule/general/supernatural.md) illusions.
-
-##### Oracular Warning
-
-Each time you finish a [respite](../rule/resource/respite.md), you can share the vague dreams of the future granted to you by the gods with allies who finished the [respite](../rule/resource/respite.md) with you. These premonitions help you and your allies stay alive, granting each of you [temporary Stamina](../rule/health/temporary-stamina.md) equal to 10 + your level that lasts until you finish a [respite](../rule/resource/respite.md).
-
-##### Seance
-
-You can commune with a network of spirits. As a [respite](../rule/resource/respite.md) activity, you speak the name of a creature who died and isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can speak another name or choose another [respite](../rule/resource/respite.md) activity.
-
-##### Saint's Epiphany
-
-At the start of a [respite](../rule/resource/respite.md), you can inspire yourself or another creature taking the same [respite](../rule/resource/respite.md) with divine knowledge. If the target makes a [project roll](../rule/downtime/project-roll.md) during this [respite](../rule/resource/respite.md), they can add 1d10 plus your [Intuition](../rule/character/intuition.md) score to the roll.
-
-##### Windwalk
-
-While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
-
-##### Wode Road
-
-As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your [Intuition](../rule/character/intuition.md) score. Whenever you touch any tree in your network, you can use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your [distance](../rule/combat/distance.md) from it, including across different worlds (no action required).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="14">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">4th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level <a href="./">Conduit</a> Domain Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">4th-Level Conduit Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td>Improved <a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a></td></tr><tr><td>Death</td><td>Seance</td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-4/oracular-warning/">Oracular Warning</a></td></tr><tr><td>Knowledge</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Epiphany</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-4/blessing-of-life/">Blessing of Life</a></td></tr><tr><td>Love</td><td>Invocation of the Heart</td></tr><tr><td>Nature</td><td><a href="../../feature/censor/level-4/wode-road/">Wode Road</a></td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-4/impervious-touch/">Impervious Touch</a></td></tr><tr><td>Storm</td><td>Windwalk</td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-4/light-of-revelation/">Light of Revelation</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-4/blessing-of-secrets/">Blessing of Secrets</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-4/improved-sanctified-weapon/">Improved Sanctified Weapon</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Life</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/conduit/level-1/healing-grace/">Healing Grace</a> ability regains <a href="../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Secrets</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of Secrets</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You project an illusory <a href="../../rule/combat/aura/">aura</a> that makes you and allies harder to notice.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to <a href="../../skill/intrigue/hide/">hide</a> or <a href="../../skill/intrigue/sneak/">sneak</a>. The <a href="../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Impervious Touch</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can touch an object with a <a href="../../rule/character/size/">size</a> equal to your <a href="../../rule/character/intuition/">Intuition</a> score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your <a href="../../rule/character/intuition/">Intuition</a> score, and you can end the spell on any object at any time (no action required).</p>
+<p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a <a href="../../rule/character/size/">size</a> larger than your <a href="../../rule/character/intuition/">Intuition</a> score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your <a href="../../rule/character/intuition/">Intuition</a> score simultaneously.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Improved Hands of the Maker</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>When you use your <a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../rule/character/size/">size</a> 2 or smaller.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>The weapon improved by your <a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Invocation of the Heart</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any <a href="../../rule/test/test/">test</a> they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Light of Revelation</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect <a href="../../rule/general/supernatural/">supernatural</a> illusions.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Oracular Warning</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can share the vague dreams of the future granted to you by the gods with allies who finished the <a href="../../rule/resource/respite/">respite</a> with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Seance</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can commune with a network of spirits. As a <a href="../../rule/resource/respite/">respite</a> activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another <a href="../../rule/resource/respite/">respite</a> activity.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a <a href="../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../rule/downtime/project-roll/">project roll</a> during this <a href="../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../rule/character/intuition/">Intuition</a> score to the roll.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Windwalk</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>While you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you can <a href="../../movement/fly/">fly</a>. If you can already <a href="../../movement/fly/">fly</a>, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> while <a href="../../movement/fly/">flying</a> instead.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Wode Road</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your <a href="../../rule/character/intuition/">Intuition</a> score. Whenever you touch any tree in your network, you can use a main action to <a href="../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your <a href="../../rule/combat/distance/">distance</a> from it, including across different worlds (no action required).</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 5th-Level Features
 
@@ -1034,65 +1975,129 @@ As a 5th-level [conduit](conduit.md), you gain the following features.
 
 ### 5th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-5/5th-level-domain-feature"}
 
-You gain the 4th-level domain feature for the domain whose feature you didn't select at that level (see 4th-Level Domain Feature).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">5th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain the 4th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 4th-Level Domain Feature).</p>
+</div>
+</section>
 
 ### 9-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-5/9-piety-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 9 piety to use.
-
-#### Beacon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace"}
-
-
-*You ignite a foe with holy radiance, rewarding allies who attack them.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 8 + I holy damage
-- **12-16:** 13 + I holy damage
-- **17+:** 17 + I holy damage
-
-**Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to move this effect to another creature within [distance](../rule/combat/distance.md).
-
-#### Penance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/penance"}
-
-
-*"If you won't kneel, the gods will make you."*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 4 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 4 corruption damage; I < WEAK, [prone and](../condition/prone.md) can't stand (save ends)
-- **12-16:** 7 corruption damage; I < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
-- **17+:** 11 corruption damage; I < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
-
-#### Sanctuary {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/sanctuary"}
-
-
-*You send yourself or an ally to a divine manifold to instantaneously regain health.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |            **Maneuver** |
-|--------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
-
-**Effect:** The target is removed from the encounter map until the start of their next [turn](../rule/combat/turn.md) and can spend any number of [Recoveries](../rule/health/recoveries.md). At the start of their [turn](../rule/combat/turn.md), the target reappears in the space they left or the nearest unoccupied space of their choice.
-
-#### Vessel of Retribution {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"}
-
-
-*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Maneuver**            |
-|--------------------|-------------------------|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
-
-**Effect:** The first time the target is [dying](../rule/health/dying.md) or [winded](../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">9-Piety Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 piety to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Beacon of Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You ignite a foe with holy radiance, rewarding allies who attack them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I holy damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + I holy damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a <a href="../../rule/health/recoveries/">Recovery</a>. If the target is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> before the end of the encounter, you can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to move this effect to another creature within <a href="../../rule/combat/distance/">distance</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Penance</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;If you won&#39;t kneel, the gods will make you.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; I &lt; WEAK, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 corruption damage; I &lt; AVERAGE, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 corruption damage; I &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Sanctuary</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You send yourself or an ally to a divine manifold to instantaneously regain health.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next <a href="../../rule/combat/turn/">turn</a> and can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>. At the start of their <a href="../../rule/combat/turn/">turn</a>, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Vessel of Retribution</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target is <a href="../../rule/health/dying/">dying</a> or <a href="../../rule/health/winded/">winded</a> before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 6th-Level Features
 
@@ -1100,203 +2105,347 @@ As a 6th-level [conduit](conduit.md), you gain the following features.
 
 ### Burgeoning Saint {data-scc="mcdm.heroes.v1/feature.conduit.level-6/burgeoning-saint"}
 
-You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:
-
-- You gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with other creatures.
-- Whenever you deal damage to an enemy, you can spend a [Recovery](../rule/health/recoveries.md).
-- You have corruption immunity 10 or holy immunity 10 (your choice).
-- Your clothing and equipment changes in a way that reflects your status as your deity's chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Burgeoning Saint</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:</p>
+<ul><li>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made to interact with other creatures.</li><li>Whenever you deal damage to an enemy, you can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</li><li>You have corruption immunity 10 or holy immunity 10 (your choice).</li><li>Your clothing and equipment changes in a way that reflects your status as your deity&#39;s chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.</li></ul>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk"}
 
-You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability"}
 
-Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-ability.md) from that domain, as shown on the 6th-Level [Conduit](conduit.md) Domain Abilities table.
-
-##### 6th-Level Conduit Domain Abilities Table
-
-| Domain     | Ability                    |
-|------------|----------------------------|
-| Creation   | Gods' Machine              |
-| Death      | [Aura of Souls](../feature/ability/conduit/level-6/aura-of-souls.md)              |
-| Fate       | [Your Story Ends Here](../feature/ability/conduit/level-6/your-story-ends-here.md)       |
-| Knowledge  | [Invocation of Undoing](../feature/ability/conduit/level-6/invocation-of-undoing.md)      |
-| Life       | [Revitalizing Grace](../feature/ability/conduit/level-6/revitalizing-grace.md)         |
-| Love       | [Lauded by God](../feature/ability/conduit/level-6/lauded-by-god.md)              |
-| Nature     | [Spirit Stampede](../feature/ability/conduit/level-6/spirit-stampede.md)            |
-| Protection | [Cuirass of the Gods](../feature/ability/conduit/level-6/cuirass-of-the-gods.md)        |
-| Storm      | [Lightning Lord](../feature/ability/conduit/level-6/lightning-lord.md)             |
-| Sun        | [Blessing of the Midday Sun](../feature/ability/conduit/level-6/blessing-of-the-midday-sun.md) |
-| Trickery   | [Invocation of Mystery](../feature/ability/conduit/level-6/invocation-of-mystery.md)      |
-| War        | [Blade of the Heavens](../feature/ability/conduit/level-6/blade-of-the-heavens.md)       |
-
-##### Aura of Souls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/aura-of-souls"}
-
-
-*A whirlwind of souls of the dead flies around you at your command.*
-
-| **Area, Magic**  |                     **Maneuver** |
-|------------------|---------------------------------:|
-| **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can [slide](../movement/forced-movement.md) each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
-
-##### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
-
-
-*A greatsword streams down from the sky, threatening to pin your foe.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 5**            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 8 + I damage; A < WEAK, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
-- **17+:** 16 + I damage; A < STRONG, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
-
-##### Blessing of the Midday Sun {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blessing-of-the-midday-sun"}
-
-
-*Your body emits a heat that bakes your enemies and inspires your allies.*
-
-| **Area, Magic**  |                              **Maneuver** |
-|------------------|------------------------------------------:|
-| **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each enemy in the area takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
-
-##### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
-
-
-*Your allies are covered in spiritual armor.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |           **Maneuver** | 
-|--------------------------|-----------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Three creatures** |
-
-**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../rule/damage/damage-immunity.md) 5 until the start of your next [turn](../rule/combat/turn.md).
-
-##### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
-
-
-*You conjure a whirring tank made of blades and metal.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
-|-------------------|-----------------|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special**  |
-
-**Effect:** You conjure a [size](../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../rule/combat/distance.md). The machine has 50 [Stamina](../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../rule/health/stamina.md) drops to 0, or if you are [dying](../rule/health/dying.md). When the machine first appears, make the following [power roll](../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../rule/combat/adjacent.md) to it.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 damage
-- **12-16:** 5 damage
-- **17+:** 8 damage
-
-Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../rule/character/intuition.md) score then repeat the [power roll](../rule/dice/power-roll.md).
-
-##### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
-
-
-*"Now you see us..."*
-
-| **Area, Magic**  |                          **Maneuver** |
-|------------------|--------------------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target is invisible until the start of your next [turn](../rule/combat/turn.md).
-
-##### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
-
-
-*You utter a secret word of destruction known only to deities.*
-
-| **Area, Magic**  |               **Main action** |
-|------------------|------------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 sonic damage; [push](../movement/forced-movement.md) 3
-- **12-16:** 6 sonic damage; [push](../movement/forced-movement.md) 5
-- **17+:** 9 sonic damage; [push](../movement/forced-movement.md) 7
-
-**Special:** You can choose to have this ability deal damage to and [push](../movement/forced-movement.md) objects, and to deal damage to buildings.
-
-##### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
-
-
-*You beseech the gods to give your allies what they need to win the day, and the gods answer.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |      **Maneuver** |
-|--------------------|------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Two allies** |
-
-**Effect:** Each target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md).
-
-##### Lightning Lord {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lightning-lord"}
-
-
-*Lightning [bursts](../rule/combat/burst.md) forth from your body in several directions.*
-
-| **Area, Magic**                    |               **Main action** |
-|------------------------------------|------------------------------:|
-| **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 6 lightning damage; [push](../movement/forced-movement.md) 1
-- **12-16:** 9 lightning damage; [push](../movement/forced-movement.md) 2
-- **17+:** 13 lightning damage; [push](../movement/forced-movement.md) 3
-
-**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../movement/forced-movement.md) into other targets in the same line.
-
-##### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
-
-
-*With a gesture, you restore your health and that of your allies.*
-
-| **Area, Magic**  |                       **Main action** |
-|------------------|--------------------------------------:|
-| **📏 4 [burst](../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can spend any number of [Recoveries](../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or they can stand up if [prone](../condition/prone.md).
-
-##### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
-
-
-*Animal spirits run through the battlefield, trampling your foes.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**     |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 5 damage; M < WEAK, [prone and](../condition/prone.md) can't stand (save ends)
-- **12-16:** 8 damage; M < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
-- **17+:** 11 damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
-
-##### Your Story Ends Here {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/your-story-ends-here"}
-
-
-*You bend the fate of a foe, willing them to die.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 9 + I corruption damage; R < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 14 + I corruption damage; R < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 19 + I corruption damage; R < STRONG, [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** If this damage kills the target, you and each ally within [distance](../rule/combat/distance.md) can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">6th-Level Domain Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a <a href="../../rule/general/heroic-ability/">heroic ability</a> from that domain, as shown on the 6th-Level <a href="./">Conduit</a> Domain Abilities table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Conduit Domain Abilities Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Ability</th></tr></thead><tbody><tr><td>Creation</td><td>Gods&#39; Machine</td></tr><tr><td>Death</td><td><a href="../../feature/ability/conduit/level-6/aura-of-souls/">Aura of Souls</a></td></tr><tr><td>Fate</td><td><a href="../../feature/ability/conduit/level-6/your-story-ends-here/">Your Story Ends Here</a></td></tr><tr><td>Knowledge</td><td><a href="../../feature/ability/conduit/level-6/invocation-of-undoing/">Invocation of Undoing</a></td></tr><tr><td>Life</td><td><a href="../../feature/ability/conduit/level-6/revitalizing-grace/">Revitalizing Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/ability/conduit/level-6/lauded-by-god/">Lauded by God</a></td></tr><tr><td>Nature</td><td><a href="../../feature/ability/conduit/level-6/spirit-stampede/">Spirit Stampede</a></td></tr><tr><td>Protection</td><td><a href="../../feature/ability/conduit/level-6/cuirass-of-the-gods/">Cuirass of the Gods</a></td></tr><tr><td>Storm</td><td><a href="../../feature/ability/conduit/level-6/lightning-lord/">Lightning Lord</a></td></tr><tr><td>Sun</td><td><a href="../../feature/ability/conduit/level-6/blessing-of-the-midday-sun/">Blessing of the Midday Sun</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/conduit/level-6/invocation-of-mystery/">Invocation of Mystery</a></td></tr><tr><td>War</td><td><a href="../../feature/ability/conduit/level-6/blade-of-the-heavens/">Blade of the Heavens</a></td></tr></tbody></table>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Aura of Souls</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A whirlwind of souls of the dead flies around you at your command.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, at the end of each of your <a href="../../rule/combat/turn/">turns</a>, you can <a href="../../movement/forced-movement/">slide</a> each creature in the area up to a number of squares equal to your <a href="../../rule/character/intuition/">Intuition</a> score. This <a href="../../movement/forced-movement/">forced movement</a> ignores <a href="../../rule/character/stability/">stability</a> for your allies.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Blade of the Heavens</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A greatsword streams down from the sky, threatening to pin your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + I damage; A &lt; WEAK, <a href="../../condition/prone/">prone and</a> <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + I damage; A &lt; AVERAGE, <a href="../../condition/prone/">prone and</a> <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + I damage; A &lt; STRONG, <a href="../../condition/prone/">prone and</a> <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of the Midday Sun</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your body emits a heat that bakes your enemies and inspires your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each creature in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each enemy in the area takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/power-roll/">power rolls</a>, and you and each ally in the area gain 1 <a href="../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../rule/combat/turn/">turns</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Cuirass of the Gods</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your allies are covered in spiritual armor.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has <a href="../../rule/damage/damage-immunity/">damage immunity</a> 5 until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Gods&#39; Machine</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You conjure a whirring tank made of blades and metal.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../rule/combat/distance/">distance</a>. The machine has 50 <a href="../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to it.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Once on each subsequent <a href="../../rule/combat/turn/">turn</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to move the machine a number of squares up to your <a href="../../rule/character/intuition/">Intuition</a> score then repeat the <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Invocation of Mystery</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;Now you see us...&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target is invisible until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Invocation of Undoing</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You utter a secret word of destruction known only to deities.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; <a href="../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; <a href="../../movement/forced-movement/">push</a> 7</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and <a href="../../movement/forced-movement/">push</a> objects, and to deal damage to buildings.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Lauded by God</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You beseech the gods to give your allies what they need to win the day, and the gods answer.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two allies</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target gains 3 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Lightning Lord</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Lightning <a href="../../rule/combat/burst/">bursts</a> forth from your body in several directions.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 10 x 1 lines within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 lightning damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 lightning damage; <a href="../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 lightning damage; <a href="../../movement/forced-movement/">push</a> 3</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The targets are <a href="../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be <a href="../../movement/forced-movement/">pushed</a> into other targets in the same line.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Revitalizing Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">With a gesture, you restore your health and that of your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>. Additionally, each target can end one effect on themself that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>, or they can stand up if <a href="../../condition/prone/">prone</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Spirit Stampede</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Animal spirits run through the battlefield, trampling your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 x 2 line within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; M &lt; WEAK, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; AVERAGE, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Your Story Ends Here</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You bend the fate of a foe, willing them to die.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I corruption damage; R &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + I corruption damage; R &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 + I corruption damage; R &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If this damage kills the target, you and each ally within <a href="../../rule/combat/distance/">distance</a> can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 7th-Level Features
 
@@ -1304,116 +2453,258 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-7/characteristic-increase"}
 
-Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
+</div>
+</section>
 
 ### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward"}
 
-When you roll for piety at the start of your [turn](../rule/combat/turn.md) in combat, you gain 1d3 + 1 piety.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Faithful&#39;s Reward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you roll for piety at the start of your <a href="../../rule/combat/turn/">turn</a> in combat, you gain 1d3 + 1 piety.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-7/7th-level-domain-feature"}
 
-Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](conduit.md) Domain Features table.
-
-##### 7th-Level Conduit Domain Features Table
-
-| Domain     | Feature                      |
-|------------|------------------------------|
-| Creation   | [Divine Quartermaster](../feature/censor/level-7/divine-quartermaster.md)         |
-| Death      | [Word of Death Deferred](../feature/censor/level-7/word-of-death-deferred.md)       |
-| Fate       | [Word of Fate Denied](../feature/censor/level-7/word-of-fate-denied.md)          |
-| Knowledge  | Gods' Library                |
-| Life       | [Font of Grace](../feature/censor/level-7/font-of-grace.md)                |
-| Love       | [Covenant of the Heart](../feature/censor/level-7/covenant-of-the-heart.md)        |
-| Nature     | Nature's Bounty              |
-| Protection | [Blessing of Iron](../feature/censor/level-7/blessing-of-iron.md)             |
-| Storm      | [Thunderstruck](../feature/conduit/level-7/thunderstruck.md)                |
-| Sun        | [Light of the Burning Sun](../feature/censor/level-7/light-of-the-burning-sun.md)     |
-| Trickery   | [Trinity of Trickery](../feature/ability/censor/level-7/trinity-of-trickery.md)          |
-| War        | [Your Triumphs Are Remembered](../feature/censor/level-7/your-triumphs-are-remembered.md) |
-
-#### Blessing of Iron {data-scc="mcdm.heroes.v1/feature.conduit.level-7/blessing-of-iron"}
-
-The gods send divine favor to you and your allies. While you are not [dying](../rule/health/dying.md), enemies take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you or any ally within 3 squares of you.
-
-#### Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.conduit.level-7/covenant-of-the-heart"}
-
-You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
-
-##### Guided to Your Side {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/guided-to-your-side"}
-
-
-*You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |           **Main action** |
-|--------------------|--------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
-
-**Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
-
-#### Divine Quartermaster {data-scc="mcdm.heroes.v1/feature.conduit.level-7/divine-quartermaster"}
-
-Each time you finish a [respite](../rule/resource/respite.md), you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another [respite](../rule/resource/respite.md) or it is consumed.
-
-#### Font of Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-7/font-of-grace"}
-
-Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../rule/combat/turn.md). If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../feature/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
-
-#### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
-
-You can gain access to information you need through prayer, so that you no longer require research materials for crafting and [research projects](../rule/downtime/research-project.md) (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to [project rolls](../rule/downtime/project-roll.md) you make for crafting and [research projects](../rule/downtime/research-project.md). You also have any skills in the [lore skill group](../skill/lore/index.md) you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the [lore skill group](../skill/lore/index.md) before you gained this feature.
-
-#### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.conduit.level-7/light-of-the-burning-sun"}
-
-Sun infuses your body. Whenever you use an ability to deal [rolled damage](../rule/damage/rolled-damage.md) to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
-
-#### Nature's Bounty {data-scc="mcdm.heroes.v1/feature.conduit.level-7/natures-bounty"}
-
-When you finish a [respite](../rule/resource/respite.md), you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
-
-- Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../rule/damage/damage-immunity.md) each time.
-- Each creature gains 20 [temporary Stamina](../rule/health/temporary-stamina.md).
-- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
-- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
-- Each creature gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to influence other creatures.
-
-Each benefit lasts until the creature who gains it finishes another [respite](../rule/resource/respite.md).
-
-#### Thunderstruck {data-scc="mcdm.heroes.v1/feature.conduit.level-7/thunderstruck"}
-
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../rule/character/intuition.md) score.
-
-#### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.conduit.level-7/trinity-of-trickery"}
-
-You have the following ability.
-
-##### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery"}
-
-
-*Hey! I'm over here. No, here, numbskull.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |            **Maneuver** |
-|--------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
-
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../rule/combat/turn.md), the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
-
-#### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-death-deferred"}
-
-You can stop death from taking your allies. When an ally within [distance](../rule/combat/distance.md) of your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability dies and you are not [dying](../rule/health/dying.md), you can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to instead have that ally fall unconscious until they regain [Stamina](../rule/health/stamina.md).
-
-Additionally, your abilities deal an extra 5 damage to [winded](../rule/health/winded.md) creatures.
-
-#### Word of Fate Denied {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-fate-denied"}
-
-When an ally within 10 squares takes damage that would leave them [dying](../rule/health/dying.md), you can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
-
-#### Your Triumphs Are Remembered {data-scc="mcdm.heroes.v1/feature.conduit.level-7/your-triumphs-are-remembered"}
-
-The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a [respite](../rule/resource/respite.md), you and any other heroes who rested with you regain 1 [Victory](../rule/resource/victories.md) after your [Victories](../rule/resource/victories.md) are converted to [XP](../rule/resource/experience.md). This [Victory](../rule/resource/victories.md) isn't converted into [XP](../rule/resource/experience.md) at the end of a subsequent [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">7th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level <a href="./">Conduit</a> Domain Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">7th-Level Conduit Domain Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/censor/level-7/divine-quartermaster/">Divine Quartermaster</a></td></tr><tr><td>Death</td><td><a href="../../feature/censor/level-7/word-of-death-deferred/">Word of Death Deferred</a></td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-7/word-of-fate-denied/">Word of Fate Denied</a></td></tr><tr><td>Knowledge</td><td>Gods&#39; Library</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-7/font-of-grace/">Font of Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-7/covenant-of-the-heart/">Covenant of the Heart</a></td></tr><tr><td>Nature</td><td>Nature&#39;s Bounty</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-7/blessing-of-iron/">Blessing of Iron</a></td></tr><tr><td>Storm</td><td><a href="../../feature/conduit/level-7/thunderstruck/">Thunderstruck</a></td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-7/light-of-the-burning-sun/">Light of the Burning Sun</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-7/trinity-of-trickery/">Trinity of Trickery</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-7/your-triumphs-are-remembered/">Your Triumphs Are Remembered</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Blessing of Iron</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods send divine favor to you and your allies. While you are not <a href="../../rule/health/dying/">dying</a>, enemies take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against you or any ally within 3 squares of you.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Covenant of the Heart</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Guided to Your Side</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You concentrate on a friend and <a href="../../movement/teleport/">teleport</a> to them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need <a href="../../rule/combat/line-of-effect/">line of effect</a> to the bonded creature but you must be on the same world.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Divine Quartermaster</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another <a href="../../rule/resource/respite/">respite</a> or it is consumed.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Font of Grace</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you use your <a href="../../feature/ability/conduit/level-1/healing-grace/">Healing Grace</a> ability, you gain 1 piety that can be spent only on that ability during the same <a href="../../rule/combat/turn/">turn</a>. If you don&#39;t use this piety, it is lost. Additionally, you can use your <a href="../../feature/conduit/level-3/minor-miracle/">Minor Miracle</a> feature to return a creature to life even if you don&#39;t have their remains.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Gods&#39; Library</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and <a href="../../rule/downtime/research-project/">research projects</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to <a href="../../rule/downtime/project-roll/">project rolls</a> you make for crafting and <a href="../../rule/downtime/research-project/">research projects</a>. You also have any skills in the <a href="../../skill/lore/">lore skill group</a> you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the <a href="../../skill/lore/">lore skill group</a> before you gained this feature.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Light of the Burning Sun</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Sun infuses your body. Whenever you use an ability to deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
+<p>Each benefit lasts until the creature who gains it finishes another <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Thunderstruck</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 <a href="../../rule/resource/surge/">surge</a>. Additionally, if you use an ability that force moves a creature, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Trinity of Trickery</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Trinity of Trickery</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Hey! I&#39;m over here. No, here, numbskull.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their <a href="../../rule/combat/turn/">turns</a>, the target can move each duplicate up to their <a href="../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Word of Death Deferred</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can stop death from taking your allies. When an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/conduit/level-1/healing-grace/">Healing Grace</a> ability dies and you are not <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to instead have that ally fall unconscious until they regain <a href="../../rule/health/stamina/">Stamina</a>.</p>
+<p>Additionally, your abilities deal an extra 5 damage to <a href="../../rule/health/winded/">winded</a> creatures.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Word of Fate Denied</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When an ally within 10 squares takes damage that would leave them <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../feature/conduit/level-1/triggered-action/">triggered action</a> to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../rule/resource/victories/">Victory</a> after your <a href="../../rule/resource/victories/">Victories</a> are converted to <a href="../../rule/resource/experience/">XP</a>. This <a href="../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 8th-Level Features
 
@@ -1421,65 +2712,141 @@ As an 8th-level [conduit](conduit.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-8/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### 8th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-8/8th-level-domain-feature"}
 
-You gain the 7th-level domain feature for the domain whose feature you didn't select at that level (see 7th-Level Domain Feature).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">8th-Level Domain Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain the 7th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 7th-Level Domain Feature).</p>
+</div>
+</section>
 
 ### 11-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-8/11-piety-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 11 piety to use.
-
-#### Arise! {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/arise"}
-
-
-*Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |         **Main action** |
-|--------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
-
-**Effect:** The target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md), and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their [turns](../rule/combat/turn.md) until the end of the encounter or until they are [dying](../rule/health/dying.md), the target gains 3 [surges](../rule/resource/surge.md).
-
-#### Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
-
-
-*A protective [aura](../rule/combat/aura.md) defends your allies from harm.*
-
-| **Area, Magic**   |                          **Maneuver** |
-|-------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter, any [ability roll](../rule/dice/ability-roll.md) made against a target takes a [bane](../rule/dice/bane.md) and each target has [damage immunity](../rule/damage/damage-immunity.md) 5.
-
-#### Blessing of the Blade {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade"}
-
-
-*"The power of the gods is within you, friends. Allow me to unleash it."*
-
-| **Area, Magic**   |                          **Maneuver** |
-|-------------------|--------------------------------------:|
-| **📏 5 [aura](../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
-
-**Effect:** At the end of each of your [turns](../rule/combat/turn.md) until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 3 [surges](../rule/resource/surge.md).
-
-#### Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
-
-
-*You conjure an angel who moves a foe and heals your allies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 9 + I holy damage; [slide](../movement/forced-movement.md) 3
-- **12-16:** 13 + I holy damage; [slide](../movement/forced-movement.md) 4
-- **17+:** 18 + I holy damage; [slide](../movement/forced-movement.md) 6
-
-**Effect:** Each ally the target comes [adjacent](../rule/combat/adjacent.md) to during the [forced movement](../movement/forced-movement.md) can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">11-Piety Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 piety to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Arise!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../rule/combat/turn/">turn</a>, and can stand up if they <a href="../../condition/prone/">are prone</a>. Additionally, at the start of each of their <a href="../../rule/combat/turn/">turns</a> until the end of the encounter or until they are <a href="../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../rule/resource/surge/">surges</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of Steel</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A protective <a href="../../rule/combat/aura/">aura</a> defends your allies from harm.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, any <a href="../../rule/dice/ability-roll/">ability roll</a> made against a target takes a <a href="../../rule/dice/bane/">bane</a> and each target has <a href="../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of the Blade</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">&#34;The power of the gods is within you, friends. Allow me to unleash it.&#34;</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../rule/combat/turn/">turns</a> until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each target gains 3 <a href="../../rule/resource/surge/">surges</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Drag the Unworthy</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You conjure an angel who moves a foe and heals your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I holy damage; <a href="../../movement/forced-movement/">slide</a> 6</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes <a href="../../rule/combat/adjacent/">adjacent</a> to during the <a href="../../movement/forced-movement/">forced movement</a> can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 9th-Level Features
 
@@ -1487,204 +2854,346 @@ As a 9th-level [conduit](conduit.md), you gain the following features.
 
 ### Faith's Sword {data-scc="mcdm.heroes.v1/feature.conduit.level-9/faiths-sword"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose a willing hero ally who finished the [respite](../rule/resource/respite.md) with you. That ally gains the benefits of your [Burgeoning Saint](../feature/conduit/level-6/burgeoning-saint.md) feature until you finish another [respite](../rule/resource/respite.md). Additionally, you can spend piety as a [free maneuver](../rule/combat/free-maneuver.md) to give the hero 1 of their [Heroic Resource](../rule/resource/heroic-resource.md) for every 2 piety spent.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Faith&#39;s Sword</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a willing hero ally who finished the <a href="../../rule/resource/respite/">respite</a> with you. That ally gains the benefits of your <a href="../../feature/conduit/level-6/burgeoning-saint/">Burgeoning Saint</a> feature until you finish another <a href="../../rule/resource/respite/">respite</a>. Additionally, you can spend piety as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to give the hero 1 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> for every 2 piety spent.</p>
+</div>
+</section>
 
 ### Ordained {data-scc="mcdm.heroes.v1/feature.conduit.level-9/ordained"}
 
-Your god elevates the power flowing through you. Your [characteristic](../rule/character/characteristic.md) scores are treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md). Additionally, while you have 5 or more [Victories](../rule/resource/victories.md), you speak with the voice of your deity. You have a double [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to influence other creatures.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Ordained</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your god elevates the power flowing through you. Your <a href="../../rule/character/characteristic/">characteristic</a> scores are treated as 1 higher for the purpose of resisting <a href="../../rule/character/potency/">potencies</a>. Additionally, while you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you speak with the voice of your deity. You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made to influence other creatures.</p>
+</div>
+</section>
 
 ### 9th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-9/9th-level-domain-ability"}
 
-Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-ability.md) from that domain, as shown on the 9th-Level [Conduit](conduit.md) Domain Abilities table.
-
-##### 9th-Level Conduit Domain Abilities Table
-
-| Domain     | Ability                  |
-|------------|--------------------------|
-| Creation   | [Divine Dragon](../feature/ability/conduit/level-9/divine-dragon.md)            |
-| Death      | [Word of Final Redemption](../feature/ability/conduit/level-9/word-of-final-redemption.md) |
-| Fate       | [Bend Fate](../feature/ability/conduit/level-9/bend-fate.md)                |
-| Knowledge  | [Word of Weakening](../feature/ability/conduit/level-9/word-of-weakening.md)        |
-| Life       | [Radiance of Grace](../feature/ability/conduit/level-9/radiance-of-grace.md)        |
-| Love       | [Alacrity of the Heart](../feature/ability/conduit/level-9/alacrity-of-the-heart.md)    |
-| Nature     | [Thorn Cage](../feature/ability/conduit/level-9/thorn-cage.md)               |
-| Protection | [Blessing of the Fortress](../feature/ability/conduit/level-9/blessing-of-the-fortress.md) |
-| Storm      | [Godstorm](../feature/ability/conduit/level-9/godstorm.md)                 |
-| Sun        | [Solar Flare](../feature/ability/conduit/level-9/solar-flare.md)              |
-| Trickery   | [Night Falls](../feature/ability/conduit/level-9/night-falls.md)              |
-| War        | [Righteous Phalanx](../feature/ability/conduit/level-9/righteous-phalanx.md)        |
-
-##### Alacrity of the Heart {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart"}
-
-
-*You speak inspiring words to a friend and spur them to incredible feats.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |    **Maneuver** |
-|--------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One ally** |
-
-**Effect:** The target has an additional main action they can use on their next [turn](../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md).
-
-##### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
-
-
-*The gods know you must prevail, and they bless your fate.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |         **Main action** |
-|--------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each of the target's [power rolls](../rule/dice/power-roll.md) has its outcome improved by one tier.
-
-##### Blessing of the Fortress {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/blessing-of-the-fortress"}
-
-
-*A magic circle extends out from you, barring foes from getting close.*
-
-| **Area, Magic**        | **Maneuver** |
-|------------------------|-------------:|
-| **📏 Self; see below** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), no enemy can approach within 5 squares of you by moving or by being [force moved](../movement/forced-movement.md) by any enemy. Targets can be [force moved](../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
-
-##### Divine Dragon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon"}
-
-
-*From nothing but divine will, you create a powerful ally.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
-|--------------------|----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   |  **🎯 Special** |
-
-**Effect:** You conjure a [size](../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../rule/combat/distance.md). The dragon has [speed](../rule/character/speed.md) 6 and can [fly](../movement/fly.md), [stability](../rule/character/stability.md) 4, 100 [Stamina](../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../rule/health/stamina.md) drops to 0, or if you are [dying](../rule/health/dying.md).
-
-On subsequent [turns](../rule/combat/turn.md), you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../rule/dice/power-roll.md) targeting each enemy in the area.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 5 fire damage
-- **12-16:** 9 fire damage
-- **17+:** 12 fire damage
-
-Additionally, you can use a maneuver to move the dragon up to their [speed](../rule/character/speed.md), or to make a [melee](../rule/combat/melee.md) weapon [strike](../rule/combat/strike.md) with their claw against an [adjacent](../rule/combat/adjacent.md) creature or object. The dragon can also make this [strike](../rule/combat/strike.md) as a [free strike](../feature/common/main-actions/free-strike.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 3 + I damage
-- **12-16:** 5 + I damage
-- **17+:** 8 + I damage
-
-##### Godstorm {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm"}
-
-
-*You summon a divine storm that remains under your control.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
-|-------------------------|------------------------------:|
-| **📏 5 [cube](../rule/combat/cube.md) within 5**  | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 2 lightning damage, 2 sonic damage
-- **12-16:** 3 lightning damage, 3 sonic damage
-- **17+:** 5 lightning damage, 5 sonic damage
-
-**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../rule/health/dying.md). At the start of each of your [turns](../rule/combat/turn.md), you can move the storm up to 5 squares (no action required). On subsequent [turns](../rule/combat/turn.md) while the storm is active, you can use a maneuver to make its [power roll](../rule/dice/power-roll.md).
-
-##### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
-
-
-*You summon darkness that thwarts only your foes.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |  **Main action** |
-|-------------------------|-----------------:|
-| **📏 5 [cube](../rule/combat/cube.md) within 10** |   **🎯 Special** |
-
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
-
-##### Radiance of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/radiance-of-grace"}
-
-
-*Intense light is emitted from your body, healing your allies.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |    **Main action** |
-|--------------------|-------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Four allies** |
-
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md), and can stand up if they [are prone](../condition/prone.md).
-
-##### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
-
-
-*A wall of spinning swords and knives appears where you wish.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
-|--------------------------|----------------:|
-| **📏 15 wall within 10** |  **🎯 Special** |
-
-**Effect:** The wall lasts until the end of the encounter or until you are [dying](../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes 15 damage.
-
-##### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
-
-
-*You call down a sphere of fire that burns your foes to ash.*
-
-| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
-|-------------------------|------------------------------:|
-| **📏 5 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 9 fire damage
-- **12-16:** 14 fire damage
-- **17+:** 19 fire damage
-
-##### Thorn Cage {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage"}
-
-
-*Vines [burst](../rule/combat/burst.md) forth from the ground and bind your foe, slowly closing around them.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
-|----------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 10 + I damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
-- **12-16:** 15 + I damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
-- **17+:** 21 + I damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
-
-**Effect:** While [restrained](../condition/restrained.md) this way, the target takes 10 damage at the start of each of your [turns](../rule/combat/turn.md).
-
-##### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
-
-
-*Your death will fuel our [victory](../rule/resource/victories.md).*
-
-| **Magic, [Ranged](../rule/combat/ranged.md)**  |  **Free triggered** |
-|--------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One creature** |
-
-**Trigger:** The target dies.
-
-**Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a [Heroic Resource](../rule/resource/heroic-resource.md) or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target's allies and enemies, and you decide who the ability targets.
-
-##### Word of Weakening {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-weakening"}
-
-
-*You utter a divine word that makes a foe brittle.*
-
-| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
-
-- **≤11:** 10 + I corruption damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 15 + I corruption damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 21 + I corruption damage; A < STRONG, [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** While [weakened](../condition/weakened.md) this way, the target has [damage weakness](../rule/damage/damage-weakness.md) 10.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">9th-Level Domain Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of your domains. You gain a <a href="../../rule/general/heroic-ability/">heroic ability</a> from that domain, as shown on the 9th-Level <a href="./">Conduit</a> Domain Abilities table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Conduit Domain Abilities Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Domain</th><th>Ability</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/ability/conduit/level-9/divine-dragon/">Divine Dragon</a></td></tr><tr><td>Death</td><td><a href="../../feature/ability/conduit/level-9/word-of-final-redemption/">Word of Final Redemption</a></td></tr><tr><td>Fate</td><td><a href="../../feature/ability/conduit/level-9/bend-fate/">Bend Fate</a></td></tr><tr><td>Knowledge</td><td><a href="../../feature/ability/conduit/level-9/word-of-weakening/">Word of Weakening</a></td></tr><tr><td>Life</td><td><a href="../../feature/ability/conduit/level-9/radiance-of-grace/">Radiance of Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/ability/conduit/level-9/alacrity-of-the-heart/">Alacrity of the Heart</a></td></tr><tr><td>Nature</td><td><a href="../../feature/ability/conduit/level-9/thorn-cage/">Thorn Cage</a></td></tr><tr><td>Protection</td><td><a href="../../feature/ability/conduit/level-9/blessing-of-the-fortress/">Blessing of the Fortress</a></td></tr><tr><td>Storm</td><td><a href="../../feature/ability/conduit/level-9/godstorm/">Godstorm</a></td></tr><tr><td>Sun</td><td><a href="../../feature/ability/conduit/level-9/solar-flare/">Solar Flare</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/conduit/level-9/night-falls/">Night Falls</a></td></tr><tr><td>War</td><td><a href="../../feature/ability/conduit/level-9/righteous-phalanx/">Righteous Phalanx</a></td></tr></tbody></table>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Alacrity of the Heart</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You speak inspiring words to a friend and spur them to incredible feats.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next <a href="../../rule/combat/turn/">turn</a>, and gains 3 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Bend Fate</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The gods know you must prevail, and they bless your fate.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, each of the target&#39;s <a href="../../rule/dice/power-roll/">power rolls</a> has its outcome improved by one tier.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Blessing of the Fortress</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A magic circle extends out from you, barring foes from getting close.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, no enemy can approach within 5 squares of you by moving or by being <a href="../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Divine Dragon</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">From nothing but divine will, you create a powerful ally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../rule/combat/distance/">distance</a>. The dragon has <a href="../../rule/character/speed/">speed</a> 6 and can <a href="../../movement/fly/">fly</a>, <a href="../../rule/character/stability/">stability</a> 4, 100 <a href="../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../rule/health/dying/">dying</a>.</p><p>On subsequent <a href="../../rule/combat/turn/">turns</a>, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../rule/character/speed/">speed</a>, or to make a <a href="../../rule/combat/melee/">melee</a> weapon <a href="../../rule/combat/strike/">strike</a> with their claw against an <a href="../../rule/combat/adjacent/">adjacent</a> creature or object. The dragon can also make this <a href="../../rule/combat/strike/">strike</a> as a <a href="../../feature/common/main-actions/free-strike/">free strike</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Godstorm</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You summon a divine storm that remains under your control.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/cube/">cube</a> within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 lightning damage, 2 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 lightning damage, 3 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 lightning damage, 5 sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a>, you can move the storm up to 5 squares (no action required). On subsequent <a href="../../rule/combat/turn/">turns</a> while the storm is active, you can use a maneuver to make its <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Night Falls</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You summon darkness that thwarts only your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Radiance of Grace</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Intense light is emitted from your body, healing your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../rule/combat/turn/">turn</a>, and can stand up if they <a href="../../condition/prone/">are prone</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Righteous Phalanx</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A wall of spinning swords and knives appears where you wish.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">15 wall within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are <a href="../../rule/health/dying/">dying</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a <a href="../../rule/combat/combat-round/">combat round</a> or starts their turn there takes 15 damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Solar Flare</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You call down a sphere of fire that burns your foes to ash.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 fire damage</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Thorn Cage</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Vines <a href="../../rule/combat/burst/">burst</a> forth from the ground and bind your foe, slowly closing around them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I damage; A &lt; WEAK, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I damage; A &lt; AVERAGE, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I damage; A &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../condition/restrained/">restrained</a> this way, the target takes 10 damage at the start of each of your <a href="../../rule/combat/turn/">turns</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Word of Final Redemption</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your death will fuel our <a href="../../rule/resource/victories/">victory</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target dies.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Word of Weakening</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You utter a divine word that makes a foe brittle.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I corruption damage; A &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I corruption damage; A &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I corruption damage; A &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../condition/weakened/">weakened</a> this way, the target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> 10.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 10th-Level Features
 
@@ -1692,30 +3201,99 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 
 ### Avatar {data-scc="mcdm.heroes.v1/feature.conduit.level-10/avatar"}
 
-You are now an [avatar](../feature/conduit/level-10/avatar.md) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a [respite](../rule/resource/respite.md) activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../feature/conduit/level-1/domain-piety-and-effects.md)) without needing to pray.
-
-Additionally, whenever you take a [respite](../rule/resource/respite.md), you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your [respite](../rule/resource/respite.md), you and your allies can appear at any location in the timescape where someone worships your deity.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Avatar</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You are now an <a href="../../feature/conduit/level-10/avatar/">avatar</a> of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a <a href="../../rule/resource/respite/">respite</a> activity. You can also use a maneuver to activate one of your domain effects (see <a href="../../feature/conduit/level-1/domain-piety-and-effects/">Domain Piety and Effects</a>) without needing to pray.</p>
+<p>Additionally, whenever you take a <a href="../../rule/resource/respite/">respite</a>, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your <a href="../../rule/resource/respite/">respite</a>, you and your allies can appear at any location in the timescape where someone worships your deity.</p>
+</div>
+</section>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-10/characteristic-increase"}
 
-Your [Intuition](../rule/character/intuition.md) score increases to 5. Additionally, you can increase one of your [characteristic](../rule/character/characteristic.md) scores by 1, to a maximum of 5.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/intuition/">Intuition</a> score increases to 5. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 5.</p>
+</div>
+</section>
 
 ### Divine Power {data-scc="mcdm.heroes.v1/feature.conduit.level-10/divine-power"}
 
-You have an epic resource called [divine power](../feature/conduit/level-10/divine-power.md). Each time you finish a [respite](../rule/resource/respite.md), you gain [divine power](../feature/conduit/level-10/divine-power.md) equal to the [XP](../rule/resource/experience.md) you gain. You can spend [divine power](../feature/conduit/level-10/divine-power.md) on your abilities as if it were piety.
-
-Additionally, you can spend [divine power](../feature/conduit/level-10/divine-power.md) as if it were piety to use any [conduit](conduit.md) abilities you don't have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](conduit.md) ability you don't have that usually costs no piety, you must spend 1 [divine power](../feature/conduit/level-10/divine-power.md) to use it.
-
-[Divine power](../feature/conduit/level-10/divine-power.md) remains until you spend it.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Divine Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have an epic resource called <a href="../../feature/conduit/level-10/divine-power/">divine power</a>. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain <a href="../../feature/conduit/level-10/divine-power/">divine power</a> equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../../feature/conduit/level-10/divine-power/">divine power</a> on your abilities as if it were piety.</p>
+<p>Additionally, you can spend <a href="../../feature/conduit/level-10/divine-power/">divine power</a> as if it were piety to use any <a href="./">conduit</a> abilities you don&#39;t have, as the gods answer your prayers with temporary and unique gifts. If you use a <a href="./">conduit</a> ability you don&#39;t have that usually costs no piety, you must spend 1 <a href="../../feature/conduit/level-10/divine-power/">divine power</a> to use it.</p>
+<p><a href="../../feature/conduit/level-10/divine-power/">Divine power</a> remains until you spend it.</p>
+</div>
+</section>
 
 ### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious"}
 
-When you roll for piety at the start of your [turn](../rule/combat/turn.md) in combat and you pray, you gain 1 additional piety.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Most Pious</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>When you roll for piety at the start of your <a href="../../rule/combat/turn/">turn</a> in combat and you pray, you gain 1 additional piety.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk"}
 
-You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>

@@ -64,510 +64,1016 @@ As a 1st-level [talent](talent.md), you gain the following features.
 
 ### Talent Tradition {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-tradition"}
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent tradition](../feature/talent/level-1/talent-tradition.md)s:
-
-- **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
-- **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
-- **Cryokinesis** abilities allow you to manifest and manipulate absolute cold to enemies and the environment alike.
-- **Metamorphosis** abilities allow you to strengthen and manipulate your body and the bodies of others to perform preternatural exploits.
-- **Pyrokinesis** abilities allow you to create and manipulate fire by interacting with the potential energy found in all things.
-- **Resopathy** abilities allow you to manipulate matter and space to create, alter, or displace your environment and the creatures and objects in it.
-- **Telekinesis** abilities allow you to physically manipulate creatures and objects.
-- **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
-
-You choose a [talent tradition](../feature/talent/level-1/talent-tradition.md) from the following options: chronopathy, telekinesis, or telepathy. Your [talent tradition](../feature/talent/level-1/talent-tradition.md) is your [subclass](../rule/general/subclass.md), and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent tradition](../feature/talent/level-1/talent-tradition.md)s will be featured in future products.) (*Quick Build:* Telekinesis.)
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Talent Tradition</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Psionic abilities are grouped into categories according to their effects, with each category comprising one of many <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a>s:</p>
+<ul><li><b>Animapathy</b> abilities allow you to manipulate, meld, and exchange the souls of living things.</li><li><b>Chronopathy</b> abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.</li><li><b>Cryokinesis</b> abilities allow you to manifest and manipulate absolute cold to enemies and the environment alike.</li><li><b>Metamorphosis</b> abilities allow you to strengthen and manipulate your body and the bodies of others to perform preternatural exploits.</li><li><b>Pyrokinesis</b> abilities allow you to create and manipulate fire by interacting with the potential energy found in all things.</li><li><b>Resopathy</b> abilities allow you to manipulate matter and space to create, alter, or displace your environment and the creatures and objects in it.</li><li><b>Telekinesis</b> abilities allow you to physically manipulate creatures and objects.</li><li><b>Telepathy</b> abilities allow you to communicate with, read, and influence the minds of other creatures.</li></ul>
+<p>You choose a <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> from the following options: chronopathy, telekinesis, or telepathy. Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> is your <a href="../../rule/general/subclass/">subclass</a>, and your choice of tradition determines many of the features you&#39;ll gain as you gain new levels. (Other <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a>s will be featured in future products.) (<em>Quick Build:</em> Telekinesis.)</p>
+</div>
+</section>
 
 ### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.talent.level-1/clarity-and-strain"}
 
-The focus and precision of your thoughts grant you a [Heroic Resource](../rule/resource/heroic-resource.md) called clarity that empowers your psionic abilities.
-
-#### Clarity in Combat
-
-At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain clarity equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 clarity.
-
-Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 1 clarity.
-
-You can spend clarity you don't have, pushing that [Heroic Resource](../rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your [Reason](../rule/character/reason.md) score. At the end of each of your [turns](../rule/combat/turn.md), you take 1 damage for each negative point of clarity.
-
-Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
-
-You lose any remaining clarity or reset any negative clarity at the end of the encounter.
-
-#### Clarity Outside of Combat
-
-Though you can't gain clarity outside of combat, you can use your [heroic abilities](../rule/general/heroic-ability.md) and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../rule/resource/victories.md) or finish a [respite](../rule/resource/respite.md).
-
-Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don't incur it for other reasons.
-
-When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), you can use it as if you had spent an amount of clarity equal to your [Victories](../rule/resource/victories.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Clarity and Strain</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The focus and precision of your thoughts grant you a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called clarity that empowers your psionic abilities.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Clarity in Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain clarity equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 clarity.</p>
+<p>Additionally, the first time each <a href="../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../movement/forced-movement/">force moved</a>, you gain 1 clarity.</p>
+<p>You can spend clarity you don&#39;t have, pushing that <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> into negative numbers to a maximum negative value equal to 1 + your <a href="../../rule/character/reason/">Reason</a> score. At the end of each of your <a href="../../rule/combat/turn/">turns</a>, you take 1 damage for each negative point of clarity.</p>
+<p>Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.</p>
+<p>You lose any remaining clarity or reset any negative clarity at the end of the encounter.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Clarity Outside of Combat</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Though you can&#39;t gain clarity outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
+<p>Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don&#39;t incur it for other reasons.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as <a href="../../feature/ability/talent/level-1/minor-telekinesis/">Minor Telekinesis</a>, you can use it as if you had spent an amount of clarity equal to your <a href="../../rule/resource/victories/">Victories</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike"}
 
-You have the following ability, which can be used as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
-
-#### Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
-
-
-*A telepathic bolt instantly zaps a creature's brain.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |
-|--------------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                           | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 + R psychic damage
-- **12-16:** 4 + R psychic damage
-- **17+:** 6 + R psychic damage
-
-**Strained:** The target takes an extra 2 psychic damage. You also take 2 psychic damage that can't be reduced in any way.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Mind Spike main action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Mind Spike</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a <a href="../../rule/combat/ranged/">ranged</a> <a href="../../feature/common/main-actions/free-strike/">free strike</a>.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Mind Spike</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A telepathic bolt instantly zaps a creature&#39;s brain.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R psychic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 2 psychic damage. You also take 2 psychic damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/psionic-augmentation"}
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../feature/talent/level-1/talent-ward.md) below) by undergoing a psionic meditation as a [respite](../rule/resource/respite.md) activity. (*Quick Build:*  [Force Augmentation](../feature/null/level-1/force-augmentation.md).)
-
-#### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
-
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
-
-If you have a kit, you can't take this augmentation.
-
-#### Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
-
-You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and this [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
-
-#### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
-
-Your [ranged](../rule/combat/ranged.md) psionic abilities gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [distance](../rule/combat/distance.md).
-
-#### Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
-
-Your damage-dealing psionic abilities gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md).
-
-#### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
-
-You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Psionic Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see <a href="../../feature/talent/level-1/talent-ward/">Talent Ward</a> below) by undergoing a psionic meditation as a <a href="../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../feature/null/level-1/force-augmentation/">Force Augmentation</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Battle Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/health/stamina/">Stamina</a>, and that <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> with weapon abilities, including <a href="../../feature/common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
+<p>If you have a kit, you can&#39;t take this augmentation.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Density Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a +6 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/health/stamina/">Stamina</a>, and this <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/stability/">stability</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Distance Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/combat/ranged/">ranged</a> psionic abilities gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/combat/distance/">distance</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Force Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your damage-dealing psionic abilities gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Speed Augmentation</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and to the <a href="../../rule/combat/distance/">distance</a> you can <a href="../../movement/shifting/">shift</a> when you take the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward"}
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../feature/null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a [respite](../rule/resource/respite.md) activity. (*Quick Build:* [Repulsive Ward](../feature/talent/level-1/repulsive-ward.md).)
-
-#### Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
-
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../rule/character/speed.md) is reduced by an amount equal to your [Reason](../rule/character/reason.md) score and they can't use [triggered actions](../rule/combat/triggered-action.md) until the end of their next [turn](../rule/combat/turn.md).
-
-#### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
-
-You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to [push](../movement/forced-movement.md) them up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
-
-#### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
-
-Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../rule/damage/damage-immunity.md) equal to your [Reason](../rule/character/reason.md) score until the end of your next [turn](../rule/combat/turn.md).
-
-#### Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
-
-Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Talent Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and <a href="../../feature/null/level-1/psionic-augmentation/">psionic augmentation</a> (see above) by undergoing a psionic meditation as a <a href="../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../feature/talent/level-1/repulsive-ward/">Repulsive Ward</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Entropy Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their <a href="../../rule/character/speed/">speed</a> is reduced by an amount equal to your <a href="../../rule/character/reason/">Reason</a> score and they can&#39;t use <a href="../../rule/combat/triggered-action/">triggered actions</a> until the end of their next <a href="../../rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Repulsive Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an <a href="../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to <a href="../../movement/forced-movement/">push</a> them up to a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Steel Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../rule/character/reason/">Reason</a> score until the end of your next <a href="../../rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Vanishing Ward</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next <a href="../../rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech"}
 
-You know the Mindspeech language (see Languages in [Orden](../rule/world/orden.md) in Chapter 4: [Background](../../Read/heroes/background.md)). Additionally, you can telepathically communicate with any creatures within [distance](../rule/combat/distance.md) of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Telepathic Speech</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You know the Mindspeech language (see Languages in <a href="../../rule/world/orden/">Orden</a> in Chapter 4: <a href="../../../Read/heroes/background/">Background</a>). Additionally, you can telepathically communicate with any creatures within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/talent/level-1/mind-spike/">Mind Spike</a> ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.</p>
+</div>
+</section>
 
 ### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-1/1st-level-tradition-features"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 1st-Level Tradition Features table.
-
-##### 1st-Level Tradition Features Table
-
-| Tradition   | Features                         |
-|-------------|----------------------------------|
-| Chronopathy | [Accelerate](../feature/ability/talent/level-1/accelerate.md), Again                |
-| Telekinesis | [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), [Repel](../feature/ability/talent/level-1/repel.md)         |
-| Telepathy   | [Feedback Loop](../feature/ability/talent/level-1/feedback-loop.md), [Remote Assistance](../feature/ability/talent/level-1/remote-assistance.md) |
-
-#### Accelerate {data-scc="mcdm.heroes.v1/feature.talent.level-1/accelerate"}
-
-You have the following ability.
-
-##### Accelerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/accelerate"}
-
-
-*To your ally, it seems as though the world has slowed down.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |                **Maneuver** |
-|---------------------|----------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
-
-**Effect:** The target shifts up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
-
-**Spend 2 Clarity:** The target can use a maneuver.
-
-#### Again {data-scc="mcdm.heroes.v1/feature.talent.level-1/again"}
-
-You have the following ability.
-
-##### Again {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/again"}
-
-
-*You step back a split second to see if things play out a little differently.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |               **Triggered** |
-|---------------------|----------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
-
-**Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md).
-
-**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../rule/dice/power-roll.md) and use the new roll.
-
-#### Feedback Loop {data-scc="mcdm.heroes.v1/feature.talent.level-1/feedback-loop"}
-
-You have the following ability.
-
-##### Feedback Loop {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop"}
-
-
-*Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |       **Triggered** |
-|---------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One creature** |
-
-**Trigger:** The target deals damage to an ally.
-
-**Effect:** The target takes psychic damage equal to half the triggering damage.
-
-#### Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.talent.level-1/minor-telekinesis"}
-
-You have the following ability.
-
-##### Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/minor-telekinesis"}
-
-
-*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |                                 **Maneuver** |
-|---------------------|---------------------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../rule/character/size.md) 1 creature or object** |
-
-**Effect:** You [slide](../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
-
-**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
-
-**Spend 3 Clarity:** You can vertical [slide](../movement/forced-movement.md) the target.
-
-#### Remote Assistance {data-scc="mcdm.heroes.v1/feature.talent.level-1/remote-assistance"}
-
-You have the following ability.
-
-##### Remote Assistance {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance"}
-
-
-*An ally gains the benefit of your intellect.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |                  **Maneuver** |
-|---------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |
-
-
-**Effect:** The next [ability roll](../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../rule/combat/turn.md) gains an [edge](../rule/dice/edge.md).
-
-**Spend 1 Clarity:** You target one additional creature or object.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">1st-Level Tradition Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants you two features, as shown on the 1st-Level Tradition Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">1st-Level Tradition Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../../feature/ability/talent/level-1/accelerate/">Accelerate</a>, Again</td></tr><tr><td>Telekinesis</td><td><a href="../../feature/ability/talent/level-1/minor-telekinesis/">Minor Telekinesis</a>, <a href="../../feature/ability/talent/level-1/repel/">Repel</a></td></tr><tr><td>Telepathy</td><td><a href="../../feature/ability/talent/level-1/feedback-loop/">Feedback Loop</a>, <a href="../../feature/ability/talent/level-1/remote-assistance/">Remote Assistance</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Accelerate</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Accelerate</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">To your ally, it seems as though the world has slowed down.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2 Clarity</span><span class="txt">The target can use a maneuver.</span></div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Again</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Again</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You step back a split second to see if things play out a little differently.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../rule/dice/ability-roll/">ability roll</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the <a href="../../rule/dice/power-roll/">power roll</a> and use the new roll.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Feedback Loop</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Feedback Loop</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes psychic damage equal to half the triggering damage.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Minor Telekinesis</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Minor Telekinesis</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one <a href="../../rule/character/size/">size</a> 1 creature or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/forced-movement/">slide</a> the target up to a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Clarity</span><span class="txt">The size of the creature or object you can target increases by 1 for every 2 clarity spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 3 Clarity</span><span class="txt">You can vertical <a href="../../movement/forced-movement/">slide</a> the target.</span></div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Remote Assistance</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Remote Assistance</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">An ally gains the benefit of your intellect.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The next <a href="../../rule/dice/ability-roll/">ability roll</a> an ally makes against the target before the start of your next <a href="../../rule/combat/turn/">turn</a> gains an <a href="../../rule/dice/edge/">edge</a>.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Clarity</span><span class="txt">You target one additional creature or object.</span></div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Repel {data-scc="mcdm.heroes.v1/feature.talent.level-1/repel"}
 
-You have the following ability.
-
-#### Repel {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/repel"}
-
-
-*They aren't going anywhere, but you might!*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |           **Triggered** |
-|---------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
-
-**Trigger:** The target takes damage or is [force moved](../movement/forced-movement.md).
-
-**Effect:** The target takes half the triggering damage, or the [distance](../rule/combat/distance.md) of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can [push](../movement/forced-movement.md) the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your [Reason](../rule/character/reason.md) score.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Repel triggered action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Repel</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Repel</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">They aren&#39;t going anywhere, but you might!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage or is <a href="../../movement/forced-movement/">force moved</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the triggering damage, or the <a href="../../rule/combat/distance/">distance</a> of the triggering <a href="../../movement/forced-movement/">forced movement</a> is reduced by a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score. If the target took damage and was force moved, you choose the effect. If the <a href="../../movement/forced-movement/">forced movement</a> is reduced to 0 squares, the target can <a href="../../movement/forced-movement/">push</a> the source of the <a href="../../movement/forced-movement/">forced movement</a> a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](../feature/talent/level-1/talent-tradition.md)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
-
-#### Signature Abilities
-
-Choose two [signature abilities](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [Incinerate](../feature/ability/talent/level-1/incinerate.md), [Kinetic Grip](../feature/ability/talent/level-1/kinetic-grip.md).)
-
-##### Entropic Bolt {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt"}
-
-
-*You advance an enemy's age for a moment.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
-|------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 5 + P corruption damage; P < STRONG, [slowed](../condition/slowed.md) (save ends)
-
-**Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
-
-**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the [power roll](../rule/dice/power-roll.md).
-
-##### Hoarfrost {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost"}
-
-
-*You blast a foe with a pulse of cold energy.*
-
-| **Cryokinesis, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |     **Main action** |
-|----------------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 + R cold damage; M < WEAK, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
-- **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
-- **17+:** 6 + R cold damage; M < STRONG, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
-
-**Strained:** You are [slowed](../condition/slowed.md) until the end of your next [turn](../rule/combat/turn.md). Additionally, a target [slowed](../condition/slowed.md) by this ability is [restrained](../condition/restrained.md) instead.
-
-##### Incinerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/incinerate"}
-
-
-*The air erupts into a column of smokeless flame.*
-
-| **Area, Fire, Psionic, Pyrokinesis, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
-|----------------------------------------------|------------------------------:|
-| **📏 3 [cube](../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 fire damage
-- **12-16:** 4 fire damage
-- **17+:** 6 fire damage
-
-**Effect:** A column of fire remains in the area until the start of your next [turn](../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
-
-**Strained:** The size of the [cube](../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your [turn](../rule/combat/turn.md).
-
-##### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
-
-
-*You lift and hurl your foe away from you.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** [Slide](../movement/forced-movement.md) 2 + R
-- **12-16:** [Slide](../movement/forced-movement.md) 4 + R
-- **17+:** [Slide](../movement/forced-movement.md) 6 + R; [prone](../condition/prone.md)
-
-**Strained:** You must vertical [push](../movement/forced-movement.md) the target instead of [sliding](../movement/forced-movement.md) them.
-
-##### Kinetic Pulse {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse"}
-
-
-*The force of your mind hurls enemies backward.*
-
-| **Area, Psionic, Telepathy** |               **Main action** |
-|------------------------------|------------------------------:|
-| **📏 1 [burst](../rule/combat/burst.md)**               | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 psychic damage
-- **12-16:** 5 psychic damage; [push](../movement/forced-movement.md) 1
-- **17+:** 7 psychic damage; [push](../movement/forced-movement.md) 2
-
-**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 2, and you are [bleeding](../condition/bleeding.md) until the start of your next [turn](../rule/combat/turn.md).
-
-##### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
-
-
-*You picture an object in your mind and give it form—directly above your opponent's head.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), Resopathy, [Strike](../rule/combat/strike.md)** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 3 + R damage
-- **12-16:** 5 + R damage
-- **17+:** 8 + R damage
-
-**Effect:** A worthless [size](../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
-
-**Strained:** The object explodes after the damage is dealt, and each creature [adjacent](../rule/combat/adjacent.md) to the target takes damage equal to your [Reason](../rule/character/reason.md) score. You also take damage equal to your [Reason](../rule/character/reason.md) score that can't be reduced in any way.
-
-##### Optic Blast {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"}
-
-
-*Your eyes emit rays of powerful enervating force.*
-
-| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
-|------------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                               | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 + R damage; M < WEAK[, prone](../condition/prone.md)
-- **12-16:** 4 + R damage; M < AVERAGE[, prone](../condition/prone.md)
-- **17+:** 6 + R damage; M < STRONG[, prone](../condition/prone.md)
-
-**Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
-
-**Strained:** You gain 1 [surge](../rule/resource/surge.md) that you can use immediately, and you take damage equal to your [Reason](../rule/character/reason.md) score that can't be reduced in any way.
-
-##### Spirit Sword {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword"}
-
-
-*You form a blade of mind energy and stab your target, invigorating yourself.*
-
-| **Animapathy, [Melee](../rule/combat/melee.md), Psionic, [Strike](../rule/combat/strike.md)** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 2**                         | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 3 + P damage
-- **12-16:** 6 + P damage
-- **17+:** 9 + P damage
-
-**Effect:** You gain 1 [surge](../rule/resource/surge.md).
-
-**Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
-
-#### Heroic Abilities
-
-You know a range of [heroic abilities](../rule/general/heroic-ability.md), all of which cost clarity to fuel them.
-
-##### 3-Clarity Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../feature/ability/talent/level-1/choke.md).)
-
-##### Awe {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/awe"}
-
-
-*You project psionic energy out to a creature and take on a new visage in their mind.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
-
-**Effect:** If you target an ally, they gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to three times your [Presence](../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md). If you target an enemy, you make a [power roll](../rule/dice/power-roll.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 3 + P psychic damage; I < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** 9 + P psychic damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-##### Choke {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/choke"}
-
-
-*You crush a foe in a telekinetic grip.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telekinesis** |     **Main action** |
-|----------------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 3 + R damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 5 + R damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 8 + R damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
-
-**Effect:** You can vertical [pull](../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../condition/restrained.md) by this ability, this [forced movement](../movement/forced-movement.md) ignores their [stability](../rule/character/stability.md).
-
-##### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
-
-
-*You give a target a glimpse into the future so that they're ready for what comes next.*
-
-| **Chronopathy, [Melee](../rule/combat/melee.md), Psionic** |         **Main action** |
-|---------------------------------|------------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |
-
-**Effect:** [Ability rolls](../rule/dice/ability-roll.md) made against the target take a [bane](../rule/dice/bane.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../rule/combat/triggered-action.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the source of the damage.
-
-##### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
-
-
-*Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
-
-| **Psionic, Pyrokinesis, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
-|------------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature** |
-
-**Effect:** Choose the [damage type](../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 3 + R damage; R < WEAK, the target has weakness 5 (save ends)
-- **12-16:** 6 + R damage; R < AVERAGE, the target has weakness 5 (save ends)
-- **17+:** 9 + R damage; R < STRONG, the target has weakness equal to 5 + your [Reason](../rule/character/reason.md) score (save ends)
-
-##### 5-Clarity Ability
-
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../feature/ability/talent/level-1/inertia-soak.md).)
-
-##### Flashback {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/flashback"}
-
-
-*The target is thrown several seconds back through time and gets to do it all again.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|----------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
-
-**Effect:** The target uses an ability with a base [Heroic Resource](../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
-
-**Strained:** You take 1d6 damage and are [slowed](../condition/slowed.md) (save ends).
-
-##### Inertia Soak {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak"}
-
-
-*Your psionic energy surrounds the target and pushes everything else away from them.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |            **Maneuver** |
-|----------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
-
-**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../movement/forced-movement.md) one [adjacent](../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score. When [pushing](../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../rule/character/stability.md). A creature can only be force moved this way once a [turn](../rule/combat/turn.md).
-
-**Strained:** You are [weakened](../condition/weakened.md) (save ends). While you are [weakened](../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md).
-
-##### Iron {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/iron"}
-
-
-*The target's skin turns to hard, dark metal, impenetrable and dense.*
-
-| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|------------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
-
-**Effect:** The target's [stability](../rule/character/stability.md) increases by an amount equal to your [Reason](../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../rule/health/temporary-stamina.md) and 2 [surges](../rule/resource/surge.md). This [stability](../rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../rule/health/temporary-stamina.md) from this ability.
-
-**Strained:** You can't use maneuvers (save ends).
-
-##### Perfect Clarity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/perfect-clarity"}
-
-
-*You clear the mind of nothing but the goal.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), Telepathy** |            **Maneuver** |
-|--------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |
-
-**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target gains a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), and they have a double [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
-
-**Strained:** You take 1d6 damage, and you can't use [triggered actions](../rule/combat/triggered-action.md) (save ends).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Talent Abilities</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a>s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose two <a href="../../rule/combat/signature-ability/">signature abilities</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../feature/ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Entropic Bolt</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You advance an enemy&#39;s age for a moment.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + P corruption damage; P &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + P corruption damage; P &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + P corruption damage; P &lt; STRONG, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Hoarfrost</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You blast a foe with a pulse of cold energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Cryokinesis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R cold damage; M &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R cold damage; M &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R cold damage; M &lt; STRONG, <a href="../../condition/slowed/">slowed</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../condition/slowed/">slowed</a> until the end of your next <a href="../../rule/combat/turn/">turn</a>. Additionally, a target <a href="../../condition/slowed/">slowed</a> by this ability is <a href="../../condition/restrained/">restrained</a> instead.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Incinerate</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The air erupts into a column of smokeless flame.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A column of fire remains in the area until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each enemy who enters the area for the first time in a <a href="../../rule/combat/combat-round/">combat round</a> or starts their turn there takes 2 fire damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../rule/combat/cube/">cube</a> increases by 2, but the fire disappears at the end of your <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Kinetic Grip</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You lift and hurl your foe away from you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 2 + R</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 4 + R</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 6 + R; <a href="../../condition/prone/">prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You must vertical <a href="../../movement/forced-movement/">push</a> the target instead of <a href="../../movement/forced-movement/">sliding</a> them.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Kinetic Pulse</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">The force of your mind hurls enemies backward.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic damage; <a href="../../movement/forced-movement/">push</a> 2</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../rule/combat/burst/">burst</a> increases by 2, and you are <a href="../../condition/bleeding/">bleeding</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Materialize</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You picture an object in your mind and give it form—directly above your opponent&#39;s head.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Resopathy</span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + R damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A worthless <a href="../../rule/character/size/">size</a> 1M object drops onto the target to deal the damage, then rolls into an <a href="../../rule/combat/adjacent/">adjacent</a> unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The object explodes after the damage is dealt, and each creature <a href="../../rule/combat/adjacent/">adjacent</a> to the target takes damage equal to your <a href="../../rule/character/reason/">Reason</a> score. You also take damage equal to your <a href="../../rule/character/reason/">Reason</a> score that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Optic Blast</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">Your eyes emit rays of powerful enervating force.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; M &lt; WEAK<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R damage; M &lt; AVERAGE<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R damage; M &lt; STRONG<a href="../../condition/prone/">, prone</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../rule/resource/surge/">surge</a> that you can use immediately, and you take damage equal to your <a href="../../rule/character/reason/">Reason</a> score that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Spirit Sword</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You form a blade of mind energy and stab your target, invigorating yourself.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../rule/resource/surge/">surge</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 3 damage. You also take 3 damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heroic Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You know a range of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of which cost clarity to fuel them.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">3-Clarity Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 clarity to use. (<em>Quick Build:</em> <a href="../../feature/ability/talent/level-1/choke/">Choke</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Awe</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You project psionic energy out to a creature and take on a new visage in their mind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P psychic damage; I &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P psychic damage; I &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P psychic damage; I &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>. If you target an enemy, you make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Choke</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You crush a foe in a telekinetic grip.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage; M &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R damage; M &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + R damage; M &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can vertical <a href="../../movement/forced-movement/">pull</a> the target up to 2 squares. If the target is made <a href="../../condition/restrained/">restrained</a> by this ability, this <a href="../../movement/forced-movement/">forced movement</a> ignores their <a href="../../rule/character/stability/">stability</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Precognition</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You give a target a glimpse into the future so that they&#39;re ready for what comes next.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p><a href="../../rule/dice/ability-roll/">Ability rolls</a> made against the target take a <a href="../../rule/dice/bane/">bane</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target takes damage while under this effect, they can use a <a href="../../rule/combat/triggered-action/">triggered action</a> to make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Smolder</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Smoke flows from your enemy like tears as their skin begins to blacken and flake.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage; R &lt; WEAK, the target has weakness 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + R damage; R &lt; AVERAGE, the target has weakness 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + R damage; R &lt; STRONG, the target has weakness equal to 5 + your <a href="../../rule/character/reason/">Reason</a> score (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose the <a href="../../rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
+</div>
+</article>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5-Clarity Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 clarity to use. (<em>Quick Build:</em> <a href="../../feature/ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p>
+</div>
+</section>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Flashback</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The target is thrown several seconds back through time and gets to do it all again.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses an ability with a base <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 7 or lower that they&#39;ve previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../condition/slowed/">slowed</a> (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Inertia Soak</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your psionic energy surrounds the target and pushes everything else away from them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target ignores <a href="../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../movement/forced-movement/">forced movement</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target enters a square while under this effect, they can <a href="../../movement/forced-movement/">push</a> one <a href="../../rule/combat/adjacent/">adjacent</a> creature up to a number of squares equal to your <a href="../../rule/character/reason/">Reason</a> score. When <a href="../../movement/forced-movement/">pushing</a> an ally, the target can ignore that ally&#39;s <a href="../../rule/character/stability/">stability</a>. A creature can only be force moved this way once a <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../condition/weakened/">weakened</a> (save ends). While you are <a href="../../condition/weakened/">weakened</a> this way, whenever you are force moved, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a +5 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Iron</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The target&#39;s skin turns to hard, dark metal, impenetrable and dense.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target&#39;s <a href="../../rule/character/stability/">stability</a> increases by an amount equal to your <a href="../../rule/character/reason/">Reason</a> score, and they gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../rule/resource/surge/">surges</a>. This <a href="../../rule/character/stability/">stability</a> increase lasts until the target no longer has <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Perfect Clarity</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You clear the mind of nothing but the goal.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../rule/combat/turn/">turn</a>, the target gains a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, and they have a double <a href="../../rule/dice/edge/">edge</a> on the next <a href="../../rule/dice/power-roll/">power roll</a> they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage, and you can&#39;t use <a href="../../rule/combat/triggered-action/">triggered actions</a> (save ends).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 2nd-Level Features
 
@@ -575,155 +1081,314 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
+</div>
+</section>
 
 ### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
-
-##### 2nd-Level Tradition Features Table
-
-| Tradition                    | Features        |
-|------------------------------|-----------------|
-| Chronopathy                  | [Ease the Hours](../feature/talent/level-2/ease-the-hours.md)  |
-| Telekinesis                  | [Ease Their Fall](../feature/talent/level-2/ease-their-fall.md) |
-| Telepathy                    | [Ease the Mind](../feature/talent/level-2/ease-the-mind.md)   |
-
-#### Ease the Hours {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-the-hours"}
-
-You can increase the number of rounds in a [montage test](../rule/test/montage-test.md) by 1 if the [test](../rule/test/test.md) would end before the heroes hit the success limit.
-
-#### Ease the Mind {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-the-mind"}
-
-You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any [NPC](../rule/general/npc.md) who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).
-
-#### Ease Their Fall {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-their-fall"}
-
-Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free [triggered action](../rule/combat/triggered-action.md) to reduce the falling damage by an amount equal to 2 + your [Reason](../rule/character/reason.md) score.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">2nd-Level Tradition Feature</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants you a feature, as shown on the 2nd-Level Tradition Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Tradition Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../../feature/talent/level-2/ease-the-hours/">Ease the Hours</a></td></tr><tr><td>Telekinesis</td><td><a href="../../feature/talent/level-2/ease-their-fall/">Ease Their Fall</a></td></tr><tr><td>Telepathy</td><td><a href="../../feature/talent/level-2/ease-the-mind/">Ease the Mind</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ease the Hours</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can increase the number of rounds in a <a href="../../rule/test/montage-test/">montage test</a> by 1 if the <a href="../../rule/test/test/">test</a> would end before the heroes hit the success limit.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ease the Mind</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any <a href="../../rule/general/npc/">NPC</a> who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Ease Their Fall</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to reduce the falling damage by an amount equal to 2 + your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-ability"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 2nd-Level Chronopathy Ability
-
-Choose one of the following abilities.
-
-##### Applied Chronometrics {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics"}
-
-
-*Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
-|----------------------------------|---------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Special** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** You target two creatures, one of which can be you.
-- **12-16:** You target three creatures, one of which can be you.
-- **17+:** You target four creatures, one of which can be you.
-
-**Effect:** Until the start of your next [turn](../rule/combat/turn.md), each target gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), they can't be made [dazed](../condition/dazed.md), and they can use an additional maneuver on their [turn](../rule/combat/turn.md). If a target is already [dazed](../condition/dazed.md), that [condition](../rule/combat/condition.md) ends for them.
-
-**Strained:** Your [speed](../rule/character/speed.md) is halved until the end of the encounter.
-
-##### Slow {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/slow"}
-
-
-*Perhaps they wonder why everyone else is moving so quickly?*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |                      **Maneuver** |
-|----------------------------------|----------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Three creatures or objects** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** The target's [speed](../rule/character/speed.md) is halved (save ends), or if P < WEAK, the target is [slowed](../condition/slowed.md) (save ends).
-- **12-16:** The target is [slowed](../condition/slowed.md) (save ends), or if P < AVERAGE, the target's [speed](../rule/character/speed.md) is 0 (save ends).
-- **17+:** The target is [slowed](../condition/slowed.md) (save ends), or if P < STRONG, the target's [speed](../rule/character/speed.md) is 0 (save ends).
-
-**Effect:** A target can't use [triggered actions](../rule/combat/triggered-action.md) while their [speed](../rule/character/speed.md) is reduced this way.
-
-**Strained:** The [potency](../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each [combat round](../rule/combat/combat-round.md) while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
-
-#### 2nd-Level Telekinesis Ability
-
-Choose one of the following abilities.
-
-##### Gravitic Burst {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst"}
-
-
-*Everyone get away from me!*
-
-| **Area, Psionic, Telekinesis** |               **Main action** |
-|--------------------------------|------------------------------:|
-| **📏 1 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 3 damage; vertical [push](../movement/forced-movement.md) 2
-- **12-16:** 6 damage; vertical [push](../movement/forced-movement.md) 4
-- **17+:** 9 damage; vertical [push](../movement/forced-movement.md) 6
-
-**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 1, and you are [weakened](../condition/weakened.md) until the end of your [turn](../rule/combat/turn.md).
-
-##### Levity and Gravity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity"}
-
-
-*You raise the target slightly into the air, then smother them against the ground.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telekinesis** |               **Main action** |
-|------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 6 + R damage; M < WEAK[, prone](../condition/prone.md)
-- **12-16:** 10 + R damage; M < AVERAGE[, prone](../condition/prone.md)
-- **17+:** 14 + R damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
-
-**Strained:** You take half the damage the target takes.
-
-#### 2nd-Level Telepathy Ability
-
-Choose one of the following abilities.
-
-##### Overwhelm {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm"}
-
-
-*You overload their senses, turning all their subconscious thoughts into conscious ones.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 6 + R psychic damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 14 + R psychic damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-**Strained:** You start crying, and you can't use [triggered actions](../rule/combat/triggered-action.md) or make [free strikes](../feature/common/main-actions/free-strike.md) until the end of the target's next [turn](../rule/combat/turn.md).
-
-##### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
-
-
-*You control an enemy's nervous system. How pleasant for them.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), Telepathy** |  **Main action** |
-|--------------------------------|-----------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**               | **🎯 One enemy** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** The target makes a [free strike](../feature/common/main-actions/free-strike.md) against one enemy of your choice.
-- **12-16:** The target shifts up to their [speed](../rule/character/speed.md) and uses their [signature ability](../rule/combat/signature-ability.md) against any enemies of your choice.
-- **17+:** The target moves up to their [speed](../rule/character/speed.md) and uses their [signature ability](../rule/combat/signature-ability.md) against any enemies of your choice.
-
-**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../rule/combat/opportunity-attack.md).
-
-**Strained:** You take 1d6 damage and are [weakened](../condition/weakened.md) until the end of your [turn](../rule/combat/turn.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">2nd-Level Tradition Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Chronopathy Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Applied Chronometrics</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Time slows down around you. Your heartbeat is the only gauge of the extra moments you&#39;ve gained.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You target two creatures, one of which can be you.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You target three creatures, one of which can be you.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You target four creatures, one of which can be you.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../rule/combat/turn/">turn</a>, each target gains a +5 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, they can&#39;t be made <a href="../../condition/dazed/">dazed</a>, and they can use an additional maneuver on their <a href="../../rule/combat/turn/">turn</a>. If a target is already <a href="../../condition/dazed/">dazed</a>, that <a href="../../rule/combat/condition/">condition</a> ends for them.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../rule/character/speed/">speed</a> is halved until the end of the encounter.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Slow</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Perhaps they wonder why everyone else is moving so quickly?</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target&#39;s <a href="../../rule/character/speed/">speed</a> is halved (save ends), or if P &lt; WEAK, the target is <a href="../../condition/slowed/">slowed</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target is <a href="../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s <a href="../../rule/character/speed/">speed</a> is 0 (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../condition/slowed/">slowed</a> (save ends), or if P &lt; STRONG, the target&#39;s <a href="../../rule/character/speed/">speed</a> is 0 (save ends).</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A target can&#39;t use <a href="../../rule/combat/triggered-action/">triggered actions</a> while their <a href="../../rule/character/speed/">speed</a> is reduced this way.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/character/potency/">potency</a> of this ability increases by 1 and you take 1d6 damage. At the start of each <a href="../../rule/combat/combat-round/">combat round</a> while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Telekinesis Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Gravitic Burst</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Everyone get away from me!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical <a href="../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; vertical <a href="../../movement/forced-movement/">push</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; vertical <a href="../../movement/forced-movement/">push</a> 6</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../rule/combat/burst/">burst</a> increases by 1, and you are <a href="../../condition/weakened/">weakened</a> until the end of your <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Levity and Gravity</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You raise the target slightly into the air, then smother them against the ground.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + R damage; M &lt; WEAK<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + R damage; M &lt; AVERAGE<a href="../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + R damage; M &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take half the damage the target takes.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">2nd-Level Telepathy Ability</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Overwhelm</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You overload their senses, turning all their subconscious thoughts into conscious ones.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + R psychic damage; I &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + R psychic damage; I &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + R psychic damage; I &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use <a href="../../rule/combat/triggered-action/">triggered actions</a> or make <a href="../../feature/common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Synaptic Override</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You control an enemy&#39;s nervous system. How pleasant for them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target shifts up to their <a href="../../rule/character/speed/">speed</a> and uses their <a href="../../rule/combat/signature-ability/">signature ability</a> against any enemies of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target moves up to their <a href="../../rule/character/speed/">speed</a> and uses their <a href="../../rule/combat/signature-ability/">signature ability</a> against any enemies of your choice.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You control the target&#39;s movement. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them <a href="../../rule/health/dying/">dying</a>, or result in them suffering a <a href="../../rule/combat/condition/">condition</a> or other negative effect. However, you can move them to provoke <a href="../../rule/combat/opportunity-attack/">opportunity attacks</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../condition/weakened/">weakened</a> until the end of your <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 3rd-Level Features
 
@@ -731,83 +1396,157 @@ As a 3rd-level [talent](talent.md), you gain the following features.
 
 ### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan"}
 
-You can extend your psionic senses beyond their usual range. Once on each of your [turns](../rule/combat/turn.md), you can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)). Additionally, once you establish [line of effect](../rule/combat/line-of-effect.md) to a thinking creature within [distance](../rule/combat/distance.md) of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have [line of effect](../rule/combat/line-of-effect.md) to that creature until they move beyond that [distance](../rule/combat/distance.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Scan</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can extend your psionic senses beyond their usual range. Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can search for hidden creatures as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish <a href="../../rule/combat/line-of-effect/">line of effect</a> to a thinking creature within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have <a href="../../rule/combat/line-of-effect/">line of effect</a> to that creature until they move beyond that <a href="../../rule/combat/distance/">distance</a>.</p>
+</div>
+</section>
 
 ### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 7 clarity to use.
-
-#### Fling Through Time {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time"}
-
-
-*You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
-|----------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 3 + P corruption damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../condition/weakened.md) (save ends)
-- **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../condition/weakened.md) (save ends)
-
-**Effect:** A target who is flung through time is removed from the encounter map until the end of their next [turn](../rule/combat/turn.md), reappearing in their original space or the nearest unoccupied space.
-
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../ancestry/human.md)). If you obtain a tier 3 outcome on the [power roll](../rule/dice/power-roll.md), you gain 2 clarity.
-
-#### Force Orbs {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs"}
-
-
-*Spheres of solid psionic energy float around you.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telekinesis** | **Main action** |
-|------------------------------------------|----------------:|
-| **📏 Self; see below**                   |     **🎯 Self** |
-
-**Effect:** You create three [size](../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
-
-Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md), losing the orb after the [strike](../rule/combat/strike.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 damage
-- **12-16:** 3 damage
-- **17+:** 5 damage
-
-**Strained:** You create five orbs, and you are [weakened](../condition/weakened.md) while you have any orbs active.
-
-#### Reflector Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/reflector-field"}
-
-
-*A protective field reverses the momentum of incoming attacks.*
-
-| **Area, Psionic, Telepathy** | **Main action** |
-|------------------------------|----------------:|
-| **📏 3 [aura](../rule/combat/aura.md)**                |  **🎯 Special** |
-
-**Effect:** The [aura](../rule/combat/aura.md) lasts until the start of your next [turn](../rule/combat/turn.md). Whenever an enemy targets an ally in the area with a [ranged](../rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
-
-**Strained:** The size of the [aura](../rule/combat/aura.md) increases by 1. Whenever your [aura](../rule/combat/aura.md) reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.
-
-#### Soul Burn {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn"}
-
-
-*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
-
-| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |     **Main action** |
-|---------------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 6 + P damage; P < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** 10 + P damage; P < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** 14 + P damage; P < STRONG, [dazed](../condition/dazed.md) (save ends)
-
-**Effect:** The target takes a [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) until the end of the encounter.
-
-**Strained:** The [potency](../rule/character/potency.md) of this ability increases by 1. You take 2d6 damage and gain 3 [surges](../rule/resource/surge.md) that you can use immediately.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">7-Clarity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 clarity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fling Through Time</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A target who is flung through time is removed from the encounter map until the end of their next <a href="../../rule/combat/turn/">turn</a>, reappearing in their original space or the nearest unoccupied space.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>, you gain 2 clarity.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Force Orbs</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Spheres of solid psionic energy float around you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../rule/combat/ranged/">ranged</a> <a href="../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../rule/combat/strike/">strike</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You create five orbs, and you are <a href="../../condition/weakened/">weakened</a> while you have any orbs active.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Reflector Field</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">A protective field reverses the momentum of incoming attacks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/aura/">aura</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/combat/aura/">aura</a> lasts until the start of your next <a href="../../rule/combat/turn/">turn</a>. Whenever an enemy targets an ally in the area with a <a href="../../rule/combat/ranged/">ranged</a> ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../rule/combat/aura/">aura</a> increases by 1. Whenever your <a href="../../rule/combat/aura/">aura</a> reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Soul Burn</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + P damage; P &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> until the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/character/potency/">potency</a> of this ability increases by 1. You take 2d6 damage and gain 3 <a href="../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 4th-Level Features
 
@@ -815,33 +1554,102 @@ As a 4th-level [talent](talent.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-4/characteristic-increase"}
 
-Your [Reason](../rule/character/reason.md) and [Presence](../rule/character/presence.md) scores each increase to 3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/reason/">Reason</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 3.</p>
+</div>
+</section>
 
 ### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with [size](../rule/character/size.md) 1T. Your mind automatically has [concealment](../rule/combat/concealment.md), and can freely move through solid matter. If you end your [turn](../rule/combat/turn.md) inside solid matter, you are forced out into the space where you entered it.
-
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your [Stamina](../rule/health/stamina.md). Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a [free maneuver](../rule/combat/free-maneuver.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Mind Projection</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious <a href="../../condition/prone/">and prone</a>, and your mind is a separate entity with <a href="../../rule/character/size/">size</a> 1T. Your mind automatically has <a href="../../rule/combat/concealment/">concealment</a>, and can freely move through solid matter. If you end your <a href="../../rule/combat/turn/">turn</a> inside solid matter, you are forced out into the space where you entered it.</p>
+<p>Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your <a href="../../rule/health/stamina/">Stamina</a>. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>.</p>
+</div>
+</section>
 
 ### Mind Recovery {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-recovery"}
 
-Whenever you spend a [Recovery](../rule/health/recoveries.md) to regain [Stamina](../rule/health/stamina.md) while strained, you can forgo the [Stamina](../rule/health/stamina.md) and gain 3 clarity instead.
-
-Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Mind Recovery</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you spend a <a href="../../rule/health/recoveries/">Recovery</a> to regain <a href="../../rule/health/stamina/">Stamina</a> while strained, you can forgo the <a href="../../rule/health/stamina/">Stamina</a> and gain 3 clarity instead.</p>
+<p>Additionally, the first time each <a href="../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../movement/forced-movement/">force moved</a>, you gain 2 clarity instead of 1.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-4/skill"}
 
-You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
+</div>
+</section>
 
 ### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field"}
 
-You can [fly](../movement/fly.md). While [flying](../movement/fly.md), your [stability](../rule/character/stability.md) is reduced to 0 and can't be increased. If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
-
-If you are strained while [flying](../movement/fly.md) and are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Suspensor Field</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">4</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can <a href="../../movement/fly/">fly</a>. While <a href="../../movement/fly/">flying</a>, your <a href="../../rule/character/stability/">stability</a> is reduced to 0 and can&#39;t be increased. If you can already <a href="../../movement/fly/">fly</a>, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> while <a href="../../movement/fly/">flying</a> instead.</p>
+<p>If you are strained while <a href="../../movement/fly/">flying</a> and are force moved, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
+</div>
+</section>
 
 ## 5th-Level Features
 
@@ -849,113 +1657,235 @@ As a 5th-level [talent](talent.md), you gain the following features.
 
 ### 5th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-5/5th-level-tradition-features"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 5th-Level Tradition Features table.
-
-##### 5th-Level Tradition Features Table
-
-| Tradition   | Features                              |
-|-------------|---------------------------------------|
-| Chronopathy | [Distortion Temporal](../feature/talent/level-5/distortion-temporal.md), [Speed of Thought](../feature/talent/level-5/speed-of-thought.md) |
-| Telekinesis | [Kinetic Amplifier](../feature/talent/level-5/kinetic-amplifier.md), [Triangulate](../feature/talent/level-5/triangulate.md)        |
-| Telepathy   | [Compulsion](../feature/talent/level-5/compulsion.md), [Remote Amplification](../feature/talent/level-5/remote-amplification.md)      |
-
-#### Compulsion {data-scc="mcdm.heroes.v1/feature.talent.level-5/compulsion"}
-
-Whenever you obtain a success on a [test](../rule/test/test.md) using a skill from the [interpersonal skill group](../skill/interpersonal/index.md) while interacting with an [NPC](../rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature. The [NPC](../rule/general/npc.md) must answer the question truthfully to the best of their ability.
-
-#### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
-
-While you are not [dying](../rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../rule/combat/aura.md). That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there, they gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the [turn](../rule/combat/turn.md).
-
-#### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
-
-Whenever you force move a creature, you can spend up to 2 [surges](../rule/resource/surge.md). For each [surge](../rule/resource/surge.md) spent, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score.
-
-#### Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
-
-The [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
-
-#### Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
-
-Once per [combat round](../rule/combat/combat-round.md) while you are not [dying](../rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../rule/combat/triggered-action.md) to [turn](../rule/combat/turn.md) it into a free [triggered action](../rule/combat/triggered-action.md).
-
-#### Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
-
-Whenever an ally uses a [ranged](../rule/combat/ranged.md) ability while you are within the ability's [distance](../rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">5th-Level Tradition Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants you two features, as shown on the 5th-Level Tradition Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">5th-Level Tradition Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../../feature/talent/level-5/distortion-temporal/">Distortion Temporal</a>, <a href="../../feature/talent/level-5/speed-of-thought/">Speed of Thought</a></td></tr><tr><td>Telekinesis</td><td><a href="../../feature/talent/level-5/kinetic-amplifier/">Kinetic Amplifier</a>, <a href="../../feature/talent/level-5/triangulate/">Triangulate</a></td></tr><tr><td>Telepathy</td><td><a href="../../feature/talent/level-5/compulsion/">Compulsion</a>, <a href="../../feature/talent/level-5/remote-amplification/">Remote Amplification</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Compulsion</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you obtain a success on a <a href="../../rule/test/test/">test</a> using a skill from the <a href="../../skill/interpersonal/">interpersonal skill group</a> while interacting with an <a href="../../rule/general/npc/">NPC</a>, you can ask them a question using your <a href="../../feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature. The <a href="../../rule/general/npc/">NPC</a> must answer the question truthfully to the best of their ability.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Distortion Temporal</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While you are not <a href="../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 <a href="../../rule/combat/aura/">aura</a>. That area is <a href="../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a <a href="../../rule/combat/combat-round/">combat round</a> or starts their turn there, they gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of the <a href="../../rule/combat/turn/">turn</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Kinetic Amplifier</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you force move a creature, you can spend up to 2 <a href="../../rule/resource/surge/">surges</a>. For each <a href="../../rule/resource/surge/">surge</a> spent, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Remote Amplification</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The <a href="../../rule/combat/distance/">distance</a> of your <a href="../../rule/combat/ranged/">ranged</a> psionic abilities increases by 5. Additionally, the range of your <a href="../../feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Speed of Thought</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Once per <a href="../../rule/combat/combat-round/">combat round</a> while you are not <a href="../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a <a href="../../rule/combat/triggered-action/">triggered action</a> to <a href="../../rule/combat/turn/">turn</a> it into a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Triangulate</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever an ally uses a <a href="../../rule/combat/ranged/">ranged</a> ability while you are within the ability&#39;s <a href="../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free <a href="../../rule/combat/triggered-action/">triggered action</a> to allow them to use the ability as if they were in your space.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 9 clarity to use.
-
-#### Exothermic Shield {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/exothermic-shield"}
-
-
-*You encase the target in psionic flame and allow them to flicker without fear of burning out.*
-
-| **Pyrokinesis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|----------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
-
-**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target has cold immunity 10 and fire immunity 10, and their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score. Additionally, whenever an enemy uses a [melee](../rule/combat/melee.md) ability against the target while they are under this effect, the enemy takes 5 fire damage.
-
-**Strained:** The target gains 2 [surges](../rule/resource/surge.md). You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
-
-#### Hypersonic {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic"}
-
-
-*You move fast enough to [turn](../rule/combat/turn.md) around and watch your foes feel the aftermath.*
-
-| **Area, Charge, Psionic, Telekinesis** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
-
-**Effect:** You [teleport](../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../rule/dice/power-roll.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 12 sonic damage
-- **12-16:** 18 sonic damage
-- **17+:** 24 sonic damage
-
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../condition/slowed.md) until the end of your [turn](../rule/combat/turn.md) and each target is [slowed](../condition/slowed.md) until the end of their [turn](../rule/combat/turn.md).
-
-#### Mind Snare {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare"}
-
-
-*You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 10 + R psychic damage; R < WEAK, [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 14 + R psychic damage; R < AVERAGE, [slowed](../condition/slowed.md) (save ends)
-- **17+:** 20 + R psychic damage; R < STRONG, [slowed](../condition/slowed.md) (save ends)
-
-**Effect:** While [slowed](../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
-
-**Strained:** While [slowed](../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made against the target while they are [slowed](../condition/slowed.md) this way.
-
-#### Soulbound {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/soulbound"}
-
-
-*You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
-
-| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |    **Main action** |
-|-----------------------------------------|-------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                        | **🎯 Two enemies** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 8 damage; A < WEAK, the target is stitched to the other target (save ends)
-- **12-16:** 13 damage; A < AVERAGE, the target is stitched to the other target (save ends)
-- **17+:** 17 damage; A < STRONG, the target is stitched to the other target (save ends)
-
-**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) while not [adjacent](../rule/combat/adjacent.md) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
-
-**Strained:** You target yourself and three enemies instead.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">9-Clarity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 clarity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Exothermic Shield</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You encase the target in psionic flame and allow them to flicker without fear of burning out.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../rule/combat/turn/">turn</a>, the target has cold immunity 10 and fire immunity 10, and their <a href="../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../rule/character/reason/">Reason</a> score. Additionally, whenever an enemy uses a <a href="../../rule/combat/melee/">melee</a> ability against the target while they are under this effect, the enemy takes 5 fire damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../rule/resource/surge/">surges</a>. You are <a href="../../condition/weakened/">weakened</a> and <a href="../../condition/slowed/">slowed</a> (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Hypersonic</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You move fast enough to <a href="../../rule/combat/turn/">turn</a> around and watch your foes feel the aftermath.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 sonic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../condition/slowed/">slowed</a> until the end of your <a href="../../rule/combat/turn/">turn</a> and each target is <a href="../../condition/slowed/">slowed</a> until the end of their <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Mind Snare</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You latch onto your prey&#39;s brain and don&#39;t let go, like a song they can&#39;t get out of their head.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + R psychic damage; R &lt; WEAK, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + R psychic damage; R &lt; AVERAGE, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + R psychic damage; R &lt; STRONG, <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../condition/slowed/">slowed</a> this way, the target takes 3 psychic damage for each square they willingly leave.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>While <a href="../../condition/slowed/">slowed</a> this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> made against the target while they are <a href="../../condition/slowed/">slowed</a> this way.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Soulbound</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; A &lt; WEAK, the target is stitched to the other target (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; A &lt; AVERAGE, the target is stitched to the other target (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 damage; A &lt; STRONG, the target is stitched to the other target (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/power-roll/">power rolls</a> while not <a href="../../rule/combat/adjacent/">adjacent</a> to a creature they&#39;re stitched to. Whenever a stitched target takes damage that wasn&#39;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You target yourself and three enemies instead.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 6th-Level Features
 
@@ -963,167 +1893,352 @@ As a 6th-level [talent](talent.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/null/level-7/psi-boost.md)'s effects only last until the end of the [turn](../rule/combat/turn.md) which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
-
-#### Dynamic Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/dynamic-power"}
-
-If the ability force moves a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score.
-
-#### Expanded Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/expanded-power"}
-
-If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.
-
-#### Extended Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/extended-power"}
-
-If the ability is [ranged](../rule/combat/ranged.md), the [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score. If the ability is [melee](../rule/combat/melee.md), the [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
-
-#### Heightened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/heightened-power"}
-
-If the ability deals [rolled damage](../rule/damage/rolled-damage.md), it deals extra damage equal to your [Reason](../rule/character/reason.md) score.
-
-#### Magnified Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/magnified-power"}
-
-If the ability has a [potency](../rule/character/potency.md), you increase that [potency](../rule/character/potency.md) by an amount equal to your [Reason](../rule/character/reason.md) score.
-
-#### Shared Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/shared-power"}
-
-If the ability targets individual creatures or objects, you target one additional creature or object within [distance](../rule/combat/distance.md).
-
-#### Sharpened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/sharpened-power"}
-
-If the ability has any [power roll](../rule/dice/power-roll.md), that roll gains an [edge](../rule/dice/edge.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="7">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Psi Boost</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a <a href="../../feature/null/level-7/psi-boost/">psi boost</a> to it and enhance its effects. A <a href="../../feature/null/level-7/psi-boost/">psi boost</a>&#39;s effects only last until the end of the <a href="../../rule/combat/turn/">turn</a> which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Dynamic Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability force moves a target, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Expanded Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Extended Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability is <a href="../../rule/combat/ranged/">ranged</a>, the <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/reason/">Reason</a> score. If the ability is <a href="../../rule/combat/melee/">melee</a>, the <a href="../../rule/combat/distance/">distance</a> gains a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Heightened Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability deals <a href="../../rule/damage/rolled-damage/">rolled damage</a>, it deals extra damage equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Magnified Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability has a <a href="../../rule/character/potency/">potency</a>, you increase that <a href="../../rule/character/potency/">potency</a> by an amount equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Shared Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability targets individual creatures or objects, you target one additional creature or object within <a href="../../rule/combat/distance/">distance</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Sharpened Power</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>If the ability has any <a href="../../rule/dice/power-roll/">power roll</a>, that roll gains an <a href="../../rule/dice/edge/">edge</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 6th-Level Chronopathy Abilities
-
-Choose one of the following abilities.
-
-##### Fate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/fate"}
-
-
-*Your foe gets a glimpse of how it will end for them.*
-
-| **Chronopathy, Psionic, [Melee](../rule/combat/melee.md)** |  **Main action** |
-|---------------------------------|-----------------:|
-| **📏 [Melee](../rule/combat/melee.md) 2**                  | **🎯 One enemy** |
-
-**Effect:** The target has [damage weakness](../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../condition/prone.md).
-
-**Strained:** This ability gains the [Strike](../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../rule/dice/power-roll.md), then are [weakened](../condition/weakened.md) (save ends).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 8 + P psychic damage
-- **12-16:** 13 + P psychic damage
-- **17+:** 17 + P psychic damage
-
-##### Stasis Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/stasis-field"}
-
-
-*Keep everything as it was. Ignore everything that will be.*
-
-| **Area, Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |                             **Main action** |
-|----------------------------------------|--------------------------------------------:|
-| **📏 4 [cube](../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
-
-**Effect:** The area is frozen in time until the start of your next [turn](../rule/combat/turn.md). Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../rule/health/stamina.md) remain undestroyed.
-
-Make a [power roll](../rule/dice/power-roll.md) that targets each enemy in the area.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** P < WEAK, the target is [slowed](../condition/slowed.md) until the effect ends
-- **12-16:** P < AVERAGE, the target's [speed](../rule/character/speed.md) is 0 until the effect ends
-- **17+:** P < STRONG, the target is [restrained](../condition/restrained.md) until the effect ends
-
-**Strained:** Any creature or object [force moved](../movement/forced-movement.md) in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../condition/restrained.md) in the area can be [force moved](../movement/forced-movement.md). You are [restrained](../condition/restrained.md) until the effect ends.
-
-#### 6th-Level Telekinesis Abilities
-
-Choose one of the following abilities.
-
-##### Gravitic Well {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well"}
-
-
-*You bend gravity into a fine point and pull your foes toward it.*
-
-| **Area, Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |                             **Main action** |
-|----------------------------------------|--------------------------------------------:|
-| **📏 4 [cube](../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 6 damage; vertical [pull](../movement/forced-movement.md) 5 toward the center of the area
-- **12-16:** 9 damage; vertical [pull](../movement/forced-movement.md) 7 toward the center of the area
-- **17+:** 13 damage; vertical [pull](../movement/forced-movement.md) 10 toward the center of the area
-
-**Effect:** Targets closest to the center of the area are [pulled](../movement/forced-movement.md) first.
-
-**Strained:** The size of the area increases by 2. You also target yourself and each ally within [distance](../rule/combat/distance.md).
-
-##### Greater Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip"}
-
-
-*You raise the target into the air without breaking a sweat.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |
-|----------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** [Slide](../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../movement/forced-movement.md) is vertical
-- **12-16:** [Slide](../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../movement/forced-movement.md) is vertical
-- **17+:** [Slide](../movement/forced-movement.md) 12 + R; [prone](../condition/prone.md); M < STRONG, the [forced movement](../movement/forced-movement.md) is vertical
-
-**Strained:** The [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md). You take 2d6 damage and are [weakened](../condition/weakened.md) (save ends).
-
-#### 6th-Level Telepathy Abilities
-
-Choose one of the following abilities.
-
-##### Synaptic Conditioning {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-conditioning"}
-
-
-*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
-
-| **Psionic, [Melee](../rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |
-|-------------------------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 2**                            | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 10 psychic damage; the target takes a [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
-- **12-16:** 14 psychic damage; the target has a double [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
-- **17+:** 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)
-
-**Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.
-
-##### Synaptic Dissipation {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation"}
-
-
-*You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |   **Maneuver** |
-|----------------------------------------|---------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 Special** |
-
-**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../rule/combat/turn.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** Two creatures
-- **12-16:** Three creatures
-- **17+:** Five creatures
-
-**Strained:** The effect ends early if you take damage from an enemy's ability.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">6th-Level Tradition Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Chronopathy Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fate</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your foe gets a glimpse of how it will end for them.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + P psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + P psychic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../condition/prone/">knocked prone</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../rule/dice/power-roll/">power roll</a>, then are <a href="../../condition/weakened/">weakened</a> (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Stasis Field</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Keep everything as it was. Ignore everything that will be.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK, the target is <a href="../../condition/slowed/">slowed</a> until the effect ends</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; AVERAGE, the target&#39;s <a href="../../rule/character/speed/">speed</a> is 0 until the effect ends</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG, the target is <a href="../../condition/restrained/">restrained</a> until the effect ends</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Any creature or object <a href="../../movement/forced-movement/">force moved</a> in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects <a href="../../condition/restrained/">restrained</a> in the area can be <a href="../../movement/forced-movement/">force moved</a>. You are <a href="../../condition/restrained/">restrained</a> until the effect ends.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Telekinesis Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Gravitic Well</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You bend gravity into a fine point and pull your foes toward it.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical <a href="../../movement/forced-movement/">pull</a> 5 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical <a href="../../movement/forced-movement/">pull</a> 7 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical <a href="../../movement/forced-movement/">pull</a> 10 toward the center of the area</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Targets closest to the center of the area are <a href="../../movement/forced-movement/">pulled</a> first.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within <a href="../../rule/combat/distance/">distance</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Greater Kinetic Grip</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You raise the target into the air without breaking a sweat.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 4 + R; M &lt; WEAK, the <a href="../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 8 + R; M &lt; AVERAGE, the <a href="../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../movement/forced-movement/">Slide</a> 12 + R; <a href="../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../movement/forced-movement/">forced movement</a> ignores <a href="../../rule/character/stability/">stability</a>. You take 2d6 damage and are <a href="../../condition/weakened/">weakened</a> (save ends).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">6th-Level Telepathy Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Synaptic Conditioning</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">It&#39;s a subtle mindset shift. It&#39;s not that they&#39;re your enemy—you just don&#39;t like them!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; the target takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 psychic damage; the target has a double <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Synaptic Dissipation</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Two creatures</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Three creatures</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Five creatures</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The effect ends early if you take damage from an enemy&#39;s ability.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 7th-Level Features
 
@@ -1131,23 +2246,83 @@ As a 7th-level [talent](talent.md), you gain the following features.
 
 ### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../skill/interpersonal/index.md) and [lore](../skill/lore/index.md) skill groups. These replacements last until the end of your next [respite](../rule/resource/respite.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Ancestral Memory</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a number of skills you have up to your <a href="../../rule/character/reason/">Reason</a> score and replace them with an equal number of skills from the <a href="../../skill/interpersonal/">interpersonal</a> and <a href="../../skill/lore/">lore</a> skill groups. These replacements last until the end of your next <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
 
 ### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
 
-Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within [distance](../rule/combat/distance.md) of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability to take the same damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Cascading Strain</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/talent/level-1/mind-spike/">Mind Spike</a> ability to take the same damage.</p>
+</div>
+</section>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-7/characteristic-increase"}
 
-Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
+</div>
+</section>
 
 ### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind"}
 
-At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 1 clarity instead of 1d3.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Lucid Mind</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 clarity instead of 1d3.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ## 8th-Level Features
 
@@ -1155,143 +2330,306 @@ As an 8th-level [talent](talent.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-8/perk"}
 
-You gain one perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one perk of your choice.</p>
+</div>
+</section>
 
 ### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-8/8th-level-tradition-features"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 8th-Level Tradition Features table.
-
-##### 8th-Level Tradition Features Table
-
-| Tradition   | Features                          |
-|-------------|-----------------------------------|
-| Chronopathy | [Doubling the Hours](../feature/talent/level-8/doubling-the-hours.md), [Stasis Shield](../feature/ability/talent/level-8/stasis-shield.md) |
-| Telekinesis | [Levitation Field](../feature/ability/talent/level-8/levitation-field.md), [Low Gravity](../feature/talent/level-8/low-gravity.md)     |
-| Telepathy   | [Mindlink](../feature/talent/level-8/mindlink.md), [Universal Connection](../feature/talent/level-8/universal-connection.md)    |
-
-#### Doubling the Hours {data-scc="mcdm.heroes.v1/feature.talent.level-8/doubling-the-hours"}
-
-While you have 5 or more [Victories](../rule/resource/victories.md), you can undertake an additional [respite](../rule/resource/respite.md) activity during a [respite](../rule/resource/respite.md).
-
-#### Levitation Field {data-scc="mcdm.heroes.v1/feature.talent.level-8/levitation-field"}
-
-You have the following ability.
-
-##### Levitation Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/levitation-field"}
-
-
-*You manipulate the air around your allies so they can move as freely through the sky as you can.*
-
-| **Area, Psionic** |                 **Maneuver** |
-|-------------------|-----------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**    | **🎯 Each ally in the area** |
-
-**Effect:** Each target can [fly](../movement/fly.md) until the start of your next [turn](../rule/combat/turn.md), and can immediately [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md). You can also [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). While [flying](../movement/fly.md), a target's [stability](../rule/character/stability.md) is reduced to 0 and can't be increased.
-
-**Spend 5 Clarity:** The effects last for 1 hour instead.
-
-#### Low Gravity {data-scc="mcdm.heroes.v1/feature.talent.level-8/low-gravity"}
-
-Your mind can carry your body through tough times. You ignore [difficult terrain](../movement/difficult-terrain.md) and don't need to spend additional movement [while prone](../condition/prone.md).
-
-#### Mindlink {data-scc="mcdm.heroes.v1/feature.talent.level-8/mindlink"}
-
-During a [respite](../rule/resource/respite.md), you can choose a number of creatures up to your [Reason](../rule/character/reason.md) score who you have communicated with using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more [Recoveries](../rule/health/recoveries.md), each other linked creature can spend a [Recovery](../rule/health/recoveries.md).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">8th-Level Tradition Features</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants you two features, as shown on the 8th-Level Tradition Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">8th-Level Tradition Features Table</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../../feature/talent/level-8/doubling-the-hours/">Doubling the Hours</a>, <a href="../../feature/ability/talent/level-8/stasis-shield/">Stasis Shield</a></td></tr><tr><td>Telekinesis</td><td><a href="../../feature/ability/talent/level-8/levitation-field/">Levitation Field</a>, <a href="../../feature/talent/level-8/low-gravity/">Low Gravity</a></td></tr><tr><td>Telepathy</td><td><a href="../../feature/talent/level-8/mindlink/">Mindlink</a>, <a href="../../feature/talent/level-8/universal-connection/">Universal Connection</a></td></tr></tbody></table>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Doubling the Hours</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you can undertake an additional <a href="../../rule/resource/respite/">respite</a> activity during a <a href="../../rule/resource/respite/">respite</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Levitation Field</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Levitation Field</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You manipulate the air around your allies so they can move as freely through the sky as you can.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../movement/fly/">fly</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>, and can immediately <a href="../../movement/shifting/">shift</a> up to their <a href="../../rule/character/speed/">speed</a>. You can also <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>. While <a href="../../movement/fly/">flying</a>, a target&#39;s <a href="../../rule/character/stability/">stability</a> is reduced to 0 and can&#39;t be increased.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 5 Clarity</span><span class="txt">The effects last for 1 hour instead.</span></div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Low Gravity</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind can carry your body through tough times. You ignore <a href="../../movement/difficult-terrain/">difficult terrain</a> and don&#39;t need to spend additional movement <a href="../../condition/prone/">while prone</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Mindlink</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>During a <a href="../../rule/resource/respite/">respite</a>, you can choose a number of creatures up to your <a href="../../rule/character/reason/">Reason</a> score who you have communicated with using your <a href="../../feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more <a href="../../rule/health/recoveries/">Recoveries</a>, each other linked creature can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ### Stasis Shield {data-scc="mcdm.heroes.v1/feature.talent.level-8/stasis-shield"}
 
-You have the following ability.
-
-#### Stasis Shield {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield"}
-
-
-*You freeze time just long enough to bring the victim to safety!*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md)** |                          **Triggered** |
-|---------------------|---------------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |
-
-**Trigger:** The target takes damage.
-
-**Effect:** The target is [teleport](../movement/teleport.md)ed to an unoccupied space [adjacent](../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
-
-**Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Stasis Shield triggered action">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Stasis Shield</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Stasis Shield</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You freeze time just long enough to bring the victim to safety!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self, or one creature or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../movement/teleport/">teleport</a>ed to an unoccupied space <a href="../../rule/combat/adjacent/">adjacent</a> to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t target yourself, and you take the damage and any additional effects instead of the target.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection"}
 
-The range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Universal Connection</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The range of your <a href="../../feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p>
+</div>
+</section>
 
 ### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
 
-Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 11 clarity to use.
-
-#### Doubt {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/doubt"}
-
-
-*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
-
-| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
-|---------------------------------------------|------------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                            | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 10 + P damage; P < WEAK, [weakened](../condition/weakened.md) (save ends)
-- **12-16:** 14 + P damage; P < AVERAGE, [weakened](../condition/weakened.md) (save ends)
-- **17+:** 20 + P damage; P < STRONG, [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends)
-
-**Effect:** This ability gains an [edge](../rule/dice/edge.md) against a target with a soul (see *Draw Steel: Monsters*). After you make the [power roll](../rule/dice/power-roll.md), you or one ally within [distance](../rule/combat/distance.md) have a double [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) you make before the end of the encounter.
-
-**Strained:** You feel dispirited until you finish a [respite](../rule/resource/respite.md). If you obtain a tier 3 outcome on the [power roll](../rule/dice/power-roll.md), you and the target each have [damage weakness](../rule/damage/damage-weakness.md) 5 (save ends).
-
-#### Mindwipe {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe"}
-
-
-*You attempt to make them forget all their training.*
-
-| **[Melee](../rule/combat/melee.md), Psionic, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
-|---------------------------------------|--------------------:|
-| **📏 [Melee](../rule/combat/melee.md) 2**                        | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 12 + R damage; R < WEAK, the target takes a [bane](../rule/dice/bane.md) on their next [power roll](../rule/dice/power-roll.md)
-- **12-16:** 17 + R damage; R < AVERAGE, the target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) (save ends)
-- **17+:** 23 + R damage; R < STRONG, the target has a double [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) (save ends)
-
-**Effect:** The target can't communicate with anyone until the end of the encounter.
-
-**Strained:** You take 3d6 damage.
-
-#### Rejuvenate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate"}
-
-
-*You reshape the flow of time in the target's body to return it to an earlier state.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|----------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
-
-**Effect:** Choose two of the following effects:
-
-- The target can spend any number of [Recoveries](../rule/health/recoveries.md).
-- The target gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md).
-- The target gains 2 [surges](../rule/resource/surge.md), and gains a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the encounter.
-
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
-
-#### Steel {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/steel"}
-
-
-*The target's skin becomes covered in tough metal.*
-
-| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
-|------------------------------------|------------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
-
-**Effect:** The target has [damage immunity](../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md).
-
-**Strained:** You can't use maneuvers (save ends).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">11-Clarity Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 clarity to use.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Doubt</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You tug at the strings of the foe&#39;s anima and unravel them, allowing someone else to take advantage of their drive.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + P damage; P &lt; WEAK, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + P damage; P &lt; AVERAGE, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + P damage; P &lt; STRONG, <a href="../../condition/weakened/">weakened</a> and <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../rule/dice/edge/">edge</a> against a target with a soul (see *Draw Steel: Monsters*). After you make the <a href="../../rule/dice/power-roll/">power roll</a>, you or one ally within <a href="../../rule/combat/distance/">distance</a> have a double <a href="../../rule/dice/edge/">edge</a> on the next <a href="../../rule/dice/power-roll/">power roll</a> you make before the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You feel dispirited until you finish a <a href="../../rule/resource/respite/">respite</a>. If you obtain a tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>, you and the target each have <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Mindwipe</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You attempt to make them forget all their training.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + R damage; R &lt; WEAK, the target takes a <a href="../../rule/dice/bane/">bane</a> on their next <a href="../../rule/dice/power-roll/">power roll</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + R damage; R &lt; AVERAGE, the target takes a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/power-roll/">power rolls</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 + R damage; R &lt; STRONG, the target has a double <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/dice/power-roll/">power rolls</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can&#39;t communicate with anyone until the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You take 3d6 damage.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Rejuvenate</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You reshape the flow of time in the target&#39;s body to return it to an earlier state.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../rule/combat/turn/">turn</a>.</li><li>The target gains 2 <a href="../../rule/resource/surge/">surges</a>, and gains a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 <a href="../../ancestry/human/">human</a> years, to the minimum of an 18-year-old). Additionally, you are <a href="../../condition/weakened/">weakened</a> and <a href="../../condition/slowed/">slowed</a> (save ends).</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Steel</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The target&#39;s skin becomes covered in tough metal.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../condition/slowed/">slowed</a> or <a href="../../condition/weakened/">weakened</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target force moves a creature or object while under this effect, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a +5 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
 
 ## 9th-Level Features
 
@@ -1299,135 +2637,254 @@ As a 9th-level [talent](talent.md), you gain the following features.
 
 ### Fortress of Perfect Thought {data-scc="mcdm.heroes.v1/feature.talent.level-9/fortress-of-perfect-thought"}
 
-Your mind is an impenetrable palace that shields you from danger. You gain the following effects:
-
-- You can breathe even when there is no breathable air.
-- You have psychic immunity 10.
-- Creatures can't read your thoughts unless you allow them to.
-- Your [Reason](../rule/character/reason.md) and [Intuition](../rule/character/intuition.md) are treated as 2 higher for the purpose of resisting the [potency](../rule/character/potency.md) of abilities.
-- You can't be made [taunted](../condition/taunted.md) or [frightened](../condition/frightened.md).
+<section class="sc-trait sc-trait--crest" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Fortress of Perfect Thought</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Your mind is an impenetrable palace that shields you from danger. You gain the following effects:</p>
+<ul><li>You can breathe even when there is no breathable air.</li><li>You have psychic immunity 10.</li><li>Creatures can&#39;t read your thoughts unless you allow them to.</li><li>Your <a href="../../rule/character/reason/">Reason</a> and <a href="../../rule/character/intuition/">Intuition</a> are treated as 2 higher for the purpose of resisting the <a href="../../rule/character/potency/">potency</a> of abilities.</li><li>You can&#39;t be made <a href="../../condition/taunted/">taunted</a> or <a href="../../condition/frightened/">frightened</a>.</li></ul>
+</div>
+</section>
 
 ### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-9/9th-level-tradition-ability"}
 
-Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
-
-#### 9th-Level Chronopathy Abilities
-
-Choose one of the following abilities.
-
-##### Acceleration Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field"}
-
-
-*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
-
-| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |
-
-**Effect:** Each target can use any main action available to them as a free [triggered action](../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../rule/combat/turn.md).
-
-**Strained:** Make a [power roll](../rule/dice/power-roll.md) that targets you and each enemy within [distance](../rule/combat/distance.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
-
-- **≤11:** 4 corruption damage; [slowed](../condition/slowed.md) (save ends)
-- **12-16:** 6 corruption damage; [slowed](../condition/slowed.md) (save ends)
-- **17+:** 10 corruption damage; [slowed](../condition/slowed.md) (save ends)
-
-##### Borrow From the Future {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future"}
-
-
-*You lean on future heroism to assist you in the now.*
-
-| **Area, Chronopathy, Psionic** |                 **Maneuver** |
-|--------------------------------|-----------------------------:|
-| **📏 2 [burst](../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |
-
-**Effect:** The targets share 6 of their [Heroic Resource](../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next [combat round](../rule/combat/combat-round.md).
-
-#### 9th-Level Telekinesis Abilities
-
-Choose one of the following abilities.
-
-##### Fulcrum {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum"}
-
-
-*You precisely manipulate the creatures around you.*
-
-| **Area, Psionic, Telekinesis** |                          **Main action** |
-|--------------------------------|-----------------------------------------:|
-| **📏 Special**                 | **🎯 Each enemy and object in the area** |
-
-**Effect:** Make a [power roll](../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../movement/forced-movement.md) 6 squares. You can target only objects of [size](../rule/character/size.md) 1L or smaller.
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 2 [burst](../rule/combat/burst.md)
-- **12-16:** 3 [burst](../rule/combat/burst.md)
-- **17+:** 4 [burst](../rule/combat/burst.md)
-
-**Strained:** You can choose to reduce the size of the [burst](../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../rule/combat/burst.md)) to give the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) a +2 [bonus](../rule/dice/bonuses-and-penalties.md). You take half the total damage all targets take from [forced movement](../movement/forced-movement.md).
-
-##### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
-
-
-*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
-
-| **Area, Psionic, Telekinesis** |                          **Main action** |
-|--------------------------------|-----------------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy and object in the area** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 6 damage; [push](../movement/forced-movement.md) 7
-- **12-16:** 9 damage; [push](../movement/forced-movement.md) 10
-- **17+:** 13 damage; [push](../movement/forced-movement.md) 15
-
-**Effect:** On a [critical hit](../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.
-
-**Strained:** You are [weakened](../condition/weakened.md) (save ends). If you scored a [critical hit](../rule/combat/critical-hit.md) with this ability, you die.
-
-#### 9th-Level Telepathy Abilities
-
-Choose one of the following abilities.
-
-##### Resonant Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike"}
-
-
-*You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
-| ------------------------------------|--------------------:|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** 15 + R psychic damage
-- **12-16:** 24 + R psychic damage
-- **17+:** 28 + R psychic damage
-
-**Effect:** This ability ignores [cover](../rule/combat/cover.md) and [concealment](../rule/combat/concealment.md).
-
-**Strained:** The [ability roll](../rule/dice/ability-roll.md) scores a [critical hit](../rule/combat/critical-hit.md) on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
-
-##### Synaptic Terror {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror"}
-
-
-*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*
-
-| **Area, Psionic, Telepathy** |                        **Main action** |
-|------------------------------|---------------------------------------:|
-| **📏 3 [burst](../rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |
-
-**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../rule/dice/power-roll.md) until the start of your next [turn](../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../rule/dice/power-roll.md).
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
-
-- **≤11:** R < WEAK, [frightened](../condition/frightened.md) (save ends)
-- **12-16:** R < AVERAGE, [frightened](../condition/frightened.md) (save ends)
-- **17+:** R < STRONG, [frightened](../condition/frightened.md) (save ends)
-
-**Strained:** You can't use this ability if doing so would cause you to have negative clarity.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">9th-Level Tradition Ability</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../feature/talent/level-1/talent-tradition/">talent tradition</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Chronopathy Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Acceleration Field</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 corruption damage; <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../rule/combat/distance/">distance</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Borrow From the Future</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You lean on future heroism to assist you in the now.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next <a href="../../rule/combat/combat-round/">combat round</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Telekinesis Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Fulcrum</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You precisely manipulate the creatures around you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 <a href="../../rule/combat/burst/">burst</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 <a href="../../rule/combat/burst/">burst</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 <a href="../../rule/combat/burst/">burst</a></span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../rule/character/size/">size</a> 1L or smaller.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../rule/combat/burst/">burst</a>) to give the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>. You take half the total damage all targets take from <a href="../../movement/forced-movement/">forced movement</a>.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Gravitic Nova</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; <a href="../../movement/forced-movement/">push</a> 7</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; <a href="../../movement/forced-movement/">push</a> 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; <a href="../../movement/forced-movement/">push</a> 15</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>On a <a href="../../rule/combat/critical-hit/">critical hit</a>, the size of the area increases by 3, and this ability deals an extra 10 damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../condition/weakened/">weakened</a> (save ends). If you scored a <a href="../../rule/combat/critical-hit/">critical hit</a> with this ability, you die.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">9th-Level Telepathy Abilities</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Resonant Mind Spike</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You fire a telepathic bolt empowered by every consciousness within reach directly into your foe&#39;s mind.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">24 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + R psychic damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This ability ignores <a href="../../rule/combat/cover/">cover</a> and <a href="../../rule/combat/concealment/">concealment</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The <a href="../../rule/dice/ability-roll/">ability roll</a> scores a <a href="../../rule/combat/critical-hit/">critical hit</a> on a natural 17 or higher. You take half the damage the target takes, and you can&#39;t reduce this damage in any way.</p></div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Synaptic Terror</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">R &lt; WEAK, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">R &lt; AVERAGE, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t use this ability if doing so would cause you to have negative clarity.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 ## 10th-Level Features
 
@@ -1435,34 +2892,115 @@ As a 10th-level [talent](talent.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-10/characteristic-increase"}
 
-Your [Reason](../rule/character/reason.md) and [Presence](../rule/character/presence.md) scores each increase to 5.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Characteristic Increase</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../rule/character/reason/">Reason</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 5.</p>
+</div>
+</section>
 
 ### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind"}
 
-The first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 3 clarity instead of 2.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Clear Mind</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../movement/forced-movement/">force moved</a>, you gain 3 clarity instead of 2.</p>
+</div>
+</section>
 
 ### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory"}
 
-You have a +10 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) abilities. Additionally, you don't need [line of effect](../rule/combat/line-of-effect.md) to a target of a [ranged](../rule/combat/ranged.md) ability if the target is a creature capable of thought who you have previously had [line of effect](../rule/combat/line-of-effect.md) to.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Omnisensory</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have a +10 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../rule/combat/distance/">distance</a> of your <a href="../../rule/combat/ranged/">ranged</a> abilities. Additionally, you don&#39;t need <a href="../../rule/combat/line-of-effect/">line of effect</a> to a target of a <a href="../../rule/combat/ranged/">ranged</a> ability if the target is a creature capable of thought who you have previously had <a href="../../rule/combat/line-of-effect/">line of effect</a> to.</p>
+</div>
+</section>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk"}
 
-You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Perk</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
+</div>
+</section>
 
 ### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion"}
 
-At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
-
-Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Psion</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.</p>
+<p>Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&#39;s strained effect even if you&#39;re not strained.</p>
+</div>
+</section>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-10/skill"}
 
-You gain one skill of your choice.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Skill</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You gain one skill of your choice.</p>
+</div>
+</section>
 
 ### Vision {data-scc="mcdm.heroes.v1/feature.talent.level-10/vision"}
 
-You have an epic resource called vision. Each time you finish a [respite](../rule/resource/respite.md), you gain vision equal to the [XP](../rule/resource/experience.md) you gain. You can spend vision on your abilities as if it were clarity.
-
-Additionally, you can spend vision to use one additional psionic ability on your [turn](../rule/combat/turn.md), provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
-
-Vision remains until you spend it.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<h3 class="sc-trait__name">Vision</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You have an epic resource called vision. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain vision equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend vision on your abilities as if it were clarity.</p>
+<p>Additionally, you can spend vision to use one additional psionic ability on your <a href="../../rule/combat/turn/">turn</a>, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.</p>
+<p>Vision remains until you spend it.</p>
+</div>
+</section>

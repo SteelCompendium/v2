@@ -108,74 +108,169 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ## Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
 
-[Time raider](time-raider.md) heroes have access to the following traits.
-
-### Signature Trait: Psychic Scar {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psychic-scar"}
-
-Your mind is a formidable layer of defense. You have psychic immunity equal to your level.
-
-### Purchased Time Raider Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../feature/ability/time-raider/psionic-bolt.md).)
-
-#### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
-
-As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have [line of effect](../rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver.
-
-#### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
-
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to impose a [bane](../rule/dice/bane.md) on the [power roll](../rule/dice/power-roll.md).
-
-#### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
-
-Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Climb](../skill/exploration/climb.md), [Gymnastics](../skill/exploration/gymnastics.md), or [Swim](../skill/exploration/swim.md) skills when you can use all your arms in the attempt.
-
-#### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
-
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an [adjacent](../rule/combat/adjacent.md) creature, you can target one additional [adjacent](../rule/combat/adjacent.md) creature, using the same [power roll](../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
-
-#### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
-
-Choose one [signature ability](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will.
-
-##### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
-
-*You slam an invisible force down upon the target.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  | Main action                   |
-|------------------------------|-------------------------------|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; [push](../movement/forced-movement.md) 1
-- **17+:** 7 + R, I, or P damage; [push](../movement/forced-movement.md) 2; M < STRONG, [prone](../condition/prone.md)
-
-##### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
-
-*You shoot forth a purple beam of psychic force that moves your target.*
-
-| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  | Main action                   |
-|------------------------------|-------------------------------|
-| **📏 [Ranged](../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |
-
-**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
-
-- **≤11:** 2 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 1
-- **12-16:** 5 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 2
-- **17+:** 7 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 3
-
-##### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
-
-*You fill yourself or an ally with a burst of [speed](../rule/character/speed.md).*
-
-| **Psionic, [Melee](../rule/combat/melee.md)** | Maneuver               |
-|-------------------|------------------------|
-| **📏 [Melee](../rule/combat/melee.md) 1**    | **🎯 Self or one ally** |
-
-**Effect:** The target gains a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next [turn](../rule/combat/turn.md).
-
-#### Unstoppable Mind
-
-Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../condition/dazed.md).
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Time Raider Trait</div>
+<h3 class="sc-trait__name">Time Raider Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="./">Time raider</a> heroes have access to the following traits.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Signature Trait: Psychic Scar</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Purchased Time Raider Traits</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Beyondsight, Psionic Gift with <a href="../../feature/ability/time-raider/psionic-bolt/">Psionic Bolt</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beyondsight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have <a href="../../rule/combat/line-of-effect/">line of effect</a> to any creature or object in that area. You can restore your usual vision as a maneuver.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Foresight</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../rule/combat/strike/">strike</a>, you can use a <a href="../../rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../rule/dice/bane/">bane</a> on the <a href="../../rule/dice/power-roll/">power roll</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Four-Armed Athletics</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your unique physiology enhances your movement. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/exploration/climb/">Climb</a>, <a href="../../skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../feature/common/maneuvers/grab/">Grab</a> or <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../condition/grabbed/">grabbed</a> at a time.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Psionic Gift</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Concussive Slam</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You slam an invisible force down upon the target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a>, <a href="../../rule/character/intuition/">Intuition</a>, or <a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P damage;</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; <a href="../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; <a href="../../movement/forced-movement/">push</a> 2; M &lt; STRONG, <a href="../../condition/prone/">prone</a></span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Psionic Bolt</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You shoot forth a purple beam of psychic force that moves your target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a>, <a href="../../rule/character/intuition/">Intuition</a>, or <a href="../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P psychic damage; <a href="../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P psychic damage; <a href="../../movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P psychic damage; <a href="../../movement/forced-movement/">slide</a> 3</span></div>
+</div>
+</div>
+</article>
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Minor Acceleration</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You fill yourself or an ally with a burst of <a href="../../rule/character/speed/">speed</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> equal to your <a href="../../rule/character/reason/">Reason</a>, <a href="../../rule/character/intuition/">Intuition</a>, or <a href="../../rule/character/presence/">Presence</a> score (your choice) until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Unstoppable Mind</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../condition/dazed/">dazed</a>.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
+</section>
