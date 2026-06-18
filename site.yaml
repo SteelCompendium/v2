@@ -71,7 +71,7 @@ sections:
       - treasure/
       - skill/
       - rule/
-      - god/
+      - religion/
       - project/
       # Beastheart companion stat blocks (feature-group/companion/*) — each has
       # its own scc code + permalink stub; referenced from the beastheart class.
