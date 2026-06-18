@@ -139,7 +139,6 @@ extra_javascript:
   - javascripts/ability-cards-core.js
   - javascripts/ability-cards.js
   - javascripts/steel-ability-cards.js
-  - javascripts/steel-statblock.js
   - javascripts/statblock-preview.js
   - javascripts/steel-traits.js
   - javascripts/steel-feature-browser.js

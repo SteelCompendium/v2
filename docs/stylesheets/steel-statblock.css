@@ -57,9 +57,11 @@
 .sb-wrap {
   --pad: 1.2rem;
   /* --sticky-top: real px from the viewport top where the sticky mini-header
-     parks — steel-statblock.js measures Material's header + tabs bottom and
-     keeps this in sync (the bar height varies with fonts and the tabs row
-     disappears below 76.25em). The fallback is 2×2.4rem at the 125% base. */
+     parks (≈ Material's header + tabs bottom = 2×2.4rem at the 125% base). It
+     also insets the head's scroll-timeline so the reveal fires at the chrome
+     line (see the STICKY section). A constant now — the bar height varies with
+     fonts and the tabs row disappears below 76.25em, so tune on deploy if the
+     parked bar overlaps the tabs or floats with a gap. */
   --sticky-top: 96px;
   --sb-plate-solid: #1e2327;            /* solid mid-tone of the plate, for diamond halos */
   position: relative; max-width: 47rem; margin: 1.7rem auto;
@@ -362,20 +364,23 @@
 .sb__band { margin-top: .65rem; border: 1px solid var(--fx-metal-line); border-radius: 10px; overflow: hidden; }
 .sb__band--villain { background: color-mix(in srgb, #e0584b 6%, transparent); }
 .sb__band--malice  { background: color-mix(in srgb, #9aa2a8 8%, transparent); }
-.sb__band-head {
+.sb__band-head {                                    /* the <details> <summary> */
   display: flex; align-items: center; gap: .65rem; width: 100%; padding: .6rem .8rem; cursor: pointer;
   border: none; text-align: left; font: inherit; color: var(--sc-steel-lighter);
   background: linear-gradient(180deg, rgba(255,255,255,.05), transparent);
+  list-style: none;                                 /* drop the native disclosure marker */
 }
+.sb__band-head::-webkit-details-marker { display: none; }
+.sb__band-head::marker { content: ""; }
 .sb__band-crest { width: 2.1rem; height: 2.4rem; }
 .sb__band--villain .sb__band-glyph { color: #e0584b; }
 .sb__band--malice  .sb__band-glyph { color: #9aa2a8; }
 .sb__band-glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1rem; line-height: 1; -webkit-font-smoothing: antialiased; }
 .sb__band-title { flex: 1; font-family: var(--md-large-header-font); text-transform: uppercase; letter-spacing: .02em; font-size: 1.25rem; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
 .sb__band-chev { color: var(--fx-metal); transition: transform .2s ease; font-size: 1rem; }
-.sb__band[data-open="false"] .sb__band-chev { transform: rotate(-90deg); }
+.sb__band:not([open]) .sb__band-chev { transform: rotate(-90deg); }
 .sb__band-body { padding: .25rem .65rem .7rem; display: flex; flex-direction: column; gap: .55rem; }
-.sb__band[data-open="false"] .sb__band-body { display: none; }
+/* a closed <details> hides .sb__band-body natively — no display rule needed */
 .sb__band-intro { font-family: var(--md-small-header-font); font-style: italic; color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.5; margin: .4rem .2rem .15rem; text-wrap: pretty; }
 .sb__band-source { font-variant: small-caps; font-style: normal; letter-spacing: .05em; color: var(--fx-metal); font-size: .82rem; }
 /* flat-mode features inside a band get the same separators.
@@ -431,10 +436,40 @@ body[data-aug-links="off"] .sb-term { color: inherit; cursor: text; pointer-even
   backdrop-filter: blur(4px);
   transition: max-height .2s ease, opacity .2s ease, padding .2s ease;
 }
-/* max-height is just the reveal-animation cap; it must clear the tallest open
-   state (row1 + wrapped secondary-stats row2), or overflow:hidden clips row2. */
-.sb-wrap.is-stuck .sb__sticky { max-height: 12rem; opacity: 1; pointer-events: auto; padding-top: .55rem; padding-bottom: .55rem; border-bottom-color: var(--role); }
 body[data-aug-sticky="off"] .sb__sticky { display: none; }
+
+/* Scroll-driven reveal — replaces steel-statblock.js (retired). The condensed
+   header fades in as the full .sb__head tucks up under Material's fixed chrome,
+   then rides along via position:sticky until the whole card scrolls past (sticky
+   containment carries it off — no explicit "card gone" rule needed). The head's
+   view-timeline is inset by the chrome height so "exit" is measured at the chrome
+   line, not the raw viewport top.
+   Guarded by @supports: where scroll-driven animations are unsupported (older
+   Safari/Firefox) the mini-header simply stays hidden and the full header
+   remains — a safe degradation.
+   NOTE: --sticky-top is now a CSS constant (no JS measuring Material's live
+   chrome), so the park offset + reveal point can drift with font size and across
+   the <76.25em tabs breakpoint; tune --sticky-top / animation-range on deploy.
+   max-height (12rem) is the reveal cap; it must clear the tallest open state
+   (row1 + wrapped secondary-stats row2) or overflow:hidden clips row2. */
+@supports (animation-timeline: view()) {
+  .sb-wrap { timeline-scope: --sb-head-tl; }
+  .sb-wrap .sb__head {
+    view-timeline: --sb-head-tl block;
+    view-timeline-inset: calc(var(--sticky-top) / var(--sc-card-scale, 1)) auto;
+  }
+  .sb__sticky {
+    animation: sb-sticky-reveal linear both;
+    animation-timeline: --sb-head-tl;
+    animation-range: exit 75% exit 100%;
+  }
+  @keyframes sb-sticky-reveal {
+    to {
+      max-height: 12rem; opacity: 1; pointer-events: auto;
+      padding-top: .55rem; padding-bottom: .55rem; border-bottom-color: var(--role);
+    }
+  }
+}
 .sb__sticky-row1 { display: flex; align-items: center; gap: .6rem 1rem; flex-wrap: wrap; }
 .sb__sticky-id { display: flex; align-items: baseline; gap: .55rem; }
 .sb__sticky-name { font-family: var(--md-large-header-font); text-transform: uppercase; font-size: 1.28rem; color: var(--sc-steel-lighter); }
@@ -505,7 +540,8 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 @media print {
   .md-typeset.sb { box-shadow: none; border: 1px solid #999; break-inside: avoid; }
   .sb__sticky { display: none !important; }
-  .sb__band[data-open="false"] .sb__band-body { display: flex !important; }
+  /* bands render open by default; best-effort expand any a reader collapsed */
+  .sb__band:not([open]) .sb__band-body { display: flex !important; }
   .sb__stat, .sb__chars, .sb__field, .sb__feat, .sb__feat .sc-ability__pr, .sb__feat .sc-ability__section { background: none !important; }
 }
 

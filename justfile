@@ -30,13 +30,7 @@ update push="true":
     go run ./cmd/steel-etl site --config "$v2_dir/site.yaml"
     cd "$v2_dir"
 
-    # 4. Transform index pages into grid layouts (presentation concern)
-    if [ -d "docs/Browse" ] && [ -f "scripts/transform_indexes.py" ]; then
-        echo >&2 "[INFO] Transforming index pages..."
-        python3 scripts/transform_indexes.py docs/Browse
-    fi
-
-    # 5. Commit and push if requested
+    # 4. Commit and push if requested
     if [ "{{push}}" == "true" ]; then
         echo >&2 "[INFO] Committing and pushing updates..."
         git add docs/*
