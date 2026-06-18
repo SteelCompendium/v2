@@ -173,12 +173,13 @@
    clickable card" — a card-wrapping <a> would make those inner links invalid
    <a>-in-<a> that browsers split apart. */
 .md-typeset .sc-card__link { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
-.md-typeset .sc-card__line a, .md-typeset .sc-card__body a, .md-typeset .sc-card__intro a {
+.md-typeset .sc-card__line a, .md-typeset .sc-card__body a, .md-typeset .sc-card__intro a,
+.md-typeset .sc-card__stat .v a {
   position: relative; z-index: 1;
   color: var(--md-typeset-a-color); text-decoration: none;
 }
 .md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover,
-.md-typeset .sc-card__intro a:hover { text-decoration: underline; }
+.md-typeset .sc-card__intro a:hover, .md-typeset .sc-card__stat .v a:hover { text-decoration: underline; }
 
 .sc-card__head { display: flex; align-items: center; gap: .7rem; }
 .sc-card__type { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .08em;
