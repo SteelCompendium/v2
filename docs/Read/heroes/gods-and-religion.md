@@ -23,9 +23,9 @@ Each god has many [saints](../../Browse/rule/world/saint.md), some obscure. They
 
 No one knows.
 
-As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon [Adûn](../../Browse/god/adun.md) for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank [Adûn](../../Browse/god/adun.md) or any of his [saints](../../Browse/rule/world/saint.md). They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
+As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon [Adûn](../../Browse/religion/god/adun.md) for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank [Adûn](../../Browse/religion/god/adun.md) or any of his [saints](../../Browse/rule/world/saint.md). They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
 
-If questioned about this-"Why did you call upon one god, but thank the [saint](../../Browse/rule/world/saint.md) of a completely different god?"-they would first be [surprised](../../Browse/rule/combat/surprised.md) by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "[Adûn](../../Browse/god/adun.md) told Viras, who told her [saint](../../Browse/rule/world/saint.md), Elspeth, to send a cooling breeze," but they would assume
+If questioned about this-"Why did you call upon one god, but thank the [saint](../../Browse/rule/world/saint.md) of a completely different god?"-they would first be [surprised](../../Browse/rule/combat/surprised.md) by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "[Adûn](../../Browse/religion/god/adun.md) told Viras, who told her [saint](../../Browse/rule/world/saint.md), Elspeth, to send a cooling breeze," but they would assume
 
 something like that happened and not worry overmuch about the details. They called out, they received aid—that's what's important.
 
@@ -35,7 +35,7 @@ If no aid is forthcoming folks assume this is because the gods and [saints](../.
 
 Most religions in [Orden](../../Browse/rule/world/orden.md) organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
 
-Because the gods are forbidden from acting directly upon the world, churches and temples in [Orden](../../Browse/rule/world/orden.md) are consecrated to saints, or heroes. There are no temples to Ord or churches of [Cavall](../../Browse/god/cavall.md). Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../Browse/ancestry/human.md) in [Vasloria](../../Browse/rule/world/vasloria.md) might call out to [Cavall](../../Browse/god/cavall.md) for aid in times of need but they know that, should [Cavall](../../Browse/god/cavall.md) choose to help, it will be by sending one of his saints.
+Because the gods are forbidden from acting directly upon the world, churches and temples in [Orden](../../Browse/rule/world/orden.md) are consecrated to saints, or heroes. There are no temples to Ord or churches of [Cavall](../../Browse/religion/god/cavall.md). Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../Browse/ancestry/human.md) in [Vasloria](../../Browse/rule/world/vasloria.md) might call out to [Cavall](../../Browse/religion/god/cavall.md) for aid in times of need but they know that, should [Cavall](../../Browse/religion/god/cavall.md) choose to help, it will be by sending one of his saints.
 
 The most popular saints and heroes can have several churches meaning distinct organizations—devoted to them, each with their own rituals. In Corwell, there is the Church of Saint Llewellyn the Valiant, but there is also the smaller Church of Saint Llewellyn the Charitable with only a few temples.
 
@@ -117,15 +117,15 @@ The Deities and Domains table and the [Saints](../../Browse/rule/world/saint.md)
 
 | Deity                   | Domains                                       |
 |-------------------------|-----------------------------------------------|
-| [Adûn](../../Browse/god/adun.md)                    | Creation, Life, Love, Protection              |
-| [Cavall](../../Browse/god/cavall.md)                  | Life, Love, Protection, War                   |
+| [Adûn](../../Browse/religion/god/adun.md)                    | Creation, Life, Love, Protection              |
+| [Cavall](../../Browse/religion/god/cavall.md)                  | Life, Love, Protection, War                   |
 | Cyrvis                  | Death, Fate, Knowledge, Trickery              |
 | Kul                     | Knowledge, Life, Sun, Trickery, War           |
-| [Nebular](../../Browse/god/nebular.md) the Star Mother | Creation, Life, Love, Sun                     |
+| [Nebular](../../Browse/religion/god/nebular.md) the Star Mother | Creation, Life, Love, Sun                     |
 | Nikros                  | Death, Fate, Storm, War                       |
 | Ord                     | Creation, Knowledge, Protection, Sun, War     |
 | OV the Wave Pilot       | Fate, Knowledge, Storm, Sun                   |
-| [Salorna](../../Browse/god/salorna.md)                 | Life, Nature, Storm, Sun                      |
+| [Salorna](../../Browse/religion/god/salorna.md)                 | Life, Nature, Storm, Sun                      |
 | Val                     | Creation, Knowledge, Life, Nature, Protection |
 
 ###### Saints and Domains Table
@@ -154,14 +154,14 @@ The Deities and Domains table and the [Saints](../../Browse/rule/world/saint.md)
 | A Sea of Suns                       | Creation, Life                |
 | Stakros the Engineer                | Creation, Knowledge           |
 | The Taste of Morning                | Creation, Knowledge           |
-| [Thellasko](../../Browse/god/thellasko.md) the Great Designer        | Knowledge, War                |
+| [Thellasko](../../Browse/religion/saint/thellasko.md) the Great Designer        | Knowledge, War                |
 | Thyll Hylacae                       | Life, Nature                  |
 | Uryal the Subtle                    | Knowledge, Trickery           |
 | Valak-koth the Seeker               | Knowledge, Sun                |
 | Yllin Dyrvis                        | Knowledge, Nature             |
 | Zarok the Law-Giver                 | Protection, War               |
 
-### Val {data-scc="mcdm.heroes.v1/god/val"}
+### Val {data-scc="mcdm.heroes.v1/religion.god/val"}
 
 **Domains:** Creation, Knowledge, Life, Nature, Protection
 
@@ -175,7 +175,7 @@ The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadi
 
 The [high elf](../../Browse/ancestry/high-elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../../Browse/ancestry/wode-elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
-##### A Sea of Suns
+##### A Sea of Suns {data-scc="mcdm.heroes.v1/religion.saint/a-sea-of-suns"}
 
 **Domains:** Creation, Life
 
@@ -187,7 +187,7 @@ The Composer discovered, or invented, the power of music to manipulate reality. 
 
 _1. If this story wasn't invented by the [dwarves](../../Browse/ancestry/dwarf.md) or [humans](../../Browse/ancestry/human.md), it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."_
 
-##### The Taste of Morning
+##### The Taste of Morning {data-scc="mcdm.heroes.v1/religion.saint/the-taste-of-morning"}
 
 **Domains:** Creation, Knowledge
 
@@ -197,7 +197,7 @@ Credited with building the first library, most scholars consider this a real, hi
 
 He canonized the idea that knowledge, truth, was a kind of beauty. The Library of Morning was a temple to thought, wisdom, scholarship. It contained plays, poems, histories, treatises on the nature of reality. The knowledge held within was incalculable. Legends say it held codices written by the elder dragons, though modern scholars suspect this is a literary conceit, as there is no evidence the elder dragons bothered with writing.
 
-##### Ripples of Honey on a Shore of Gold
+##### Ripples of Honey on a Shore of Gold {data-scc="mcdm.heroes.v1/religion.saint/ripples-of-honey-on-a-shore-of-gold"}
 
 **Domains:** Life, Protection
 
@@ -205,7 +205,7 @@ Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was 
 
 In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would banish the concept of war from [Orden](../../Browse/rule/world/orden.md). Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
 
-##### Yllin Dyrvis
+##### Yllin Dyrvis {data-scc="mcdm.heroes.v1/religion.saint/yllin-dyrvis"}
 
 **Domains:** Knowledge, Nature
 
@@ -213,7 +213,7 @@ Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnes
 
 To this day, many ages of the world later, the [wode elves](../../Browse/ancestry/wode-elf.md) consider themselves the stewards of the speaking creatures, and those creatures rely upon the [wode elves](../../Browse/ancestry/wode-elf.md) for protection.
 
-##### Thyll Hylacae
+##### Thyll Hylacae {data-scc="mcdm.heroes.v1/religion.saint/thyll-hylacae"}
 
 **Domains:** Life, Nature
 
@@ -221,7 +221,7 @@ Thyll Hylacae, the Forestal, Apothachron, also known as the Sacrifice. Thyll spo
 
 Though she was mighty in warlore, she could not be everywhere. In the end, she sacrificed herself for the trees, the ritual she performed uplifted a small population of trees, creating the derwic—the thinking speaking tree-peoples few of whom remain in [Orden](../../Browse/rule/world/orden.md).
 
-##### Illwyv li Orchiax
+##### Illwyv li Orchiax {data-scc="mcdm.heroes.v1/religion.saint/illwyv-li-orchiax"}
 
 **Domains:** Nature, Protection
 
@@ -229,7 +229,7 @@ Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When [hu
 
 Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the [humans](../../Browse/ancestry/human.md) who would kill the wode.
 
-### Ord {data-scc="mcdm.heroes.v1/god/ord"}
+### Ord {data-scc="mcdm.heroes.v1/religion.god/ord"}
 
 **Domains:** Creation, Knowledge, Protection, Sun, War
 
@@ -241,7 +241,7 @@ Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fai
 
 The following heroes are venerated by many [dwarves](../../Browse/ancestry/dwarf.md) and others who follow Ord.
 
-##### Zarok the Law-Giver
+##### Zarok the Law-Giver {data-scc="mcdm.heroes.v1/religion.saint/zarok-the-law-giver"}
 
 **Domains:** Protection, War
 
@@ -257,7 +257,7 @@ Zarok teaches that all people should be equal under the law. His is the principl
 
 Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in [Capital](../../Browse/rule/world/capital.md) wishes to write an amicus brief without revealing their identity, they sign it "Z."
 
-##### Valak-koth the Seeker
+##### Valak-koth the Seeker {data-scc="mcdm.heroes.v1/religion.saint/valak-koth-the-seeker"}
 
 **Domains:** Knowledge, Sun
 
@@ -267,7 +267,7 @@ She would run, heedless of danger, into the dark caves below and wherever she po
 
 Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone [dwarf](../../Browse/ancestry/dwarf.md) city of Kas Koriar.
 
-##### Stakros the Engineer
+##### Stakros the Engineer {data-scc="mcdm.heroes.v1/religion.saint/stakros-the-engineer"}
 
 **Domains:** Creation, Knowledge
 
@@ -279,7 +279,7 @@ After the war, Stakros turned his [talents](../../Browse/class/talent.md) to pea
 
 Stakros teaches the value of knowledge for knowledge's sake, and the power of the mind to overcome any obstacle. He also teaches that knowledge is power, and in unready hands can only be dangerous.
 
-### Kul {data-scc="mcdm.heroes.v1/god/kul"}
+### Kul {data-scc="mcdm.heroes.v1/religion.god/kul"}
 
 **Domains:** Knowledge, Life, Sun, Trickery, War
 
@@ -295,7 +295,7 @@ Uniquely among the Elder Creator Gods, Kul does not desire worship finds it dist
 
 The following heroes are venerated by many [orcs](../../Browse/ancestry/orc.md) and others who follow Kul.
 
-##### Khorvath Who Slew a Thousand
+##### Khorvath Who Slew a Thousand {data-scc="mcdm.heroes.v1/religion.saint/khorvath-who-slew-a-thousand"}
 
 **Domains:** Sun, War
 
@@ -343,7 +343,7 @@ Khorvath Who Slew a Thousand would probably prefer to be remembered as she was i
 
 Voyrik gave his warleader's torque to her son, who grew to lead the Lightning first as warleader, then chieftain. He was a good ruler for the Lightning.
 
-##### Grole the One-Handed
+##### Grole the One-Handed {data-scc="mcdm.heroes.v1/religion.saint/grole-the-one-handed"}
 
 **Domains:** Life, War
 
@@ -355,7 +355,7 @@ Grole teaches the extraordinary deeds common people can accomplish if they cast 
 
 Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary [victories](../../Browse/rule/resource/victories.md) are possible. [Censors](../../Browse/class/censor.md) of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
 
-##### Khravila Who Ran Forty Leagues
+##### Khravila Who Ran Forty Leagues {data-scc="mcdm.heroes.v1/religion.saint/khravila-who-ran-forty-leagues"}
 
 **Domains:** Knowledge, Trickery
 
@@ -383,7 +383,7 @@ The [hakaan](../../Browse/ancestry/hakaan.md) know they are descended from stone
 
 [Hakaan](../../Browse/ancestry/hakaan.md) [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) venerate [hakaan](../../Browse/ancestry/hakaan.md) heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary [hakaan](../../Browse/ancestry/hakaan.md) heroes, and their own ancestors who watch from above.
 
-##### Mahsiti the Weaver
+##### Mahsiti the Weaver {data-scc="mcdm.heroes.v1/religion.saint/mahsiti-the-weaver"}
 
 **Domains:** Creation, Knowledge, Trickery
 
@@ -399,7 +399,7 @@ When the enemy army arrived, they found the clan's villages empty, and did not n
 
 Mahsiti teaches that art and science, creativity and knowledge, are the same thing. Those who follow her teachings believe that the act of creating, of bringing a new idea or work of art into being, is the act of participating in the same process the gods used to create the world.
 
-##### Prexaspes the Stargazer
+##### Prexaspes the Stargazer {data-scc="mcdm.heroes.v1/religion.saint/prexaspes-the-stargazer"}
 
 **Domains:** Nature, Protection, Sun
 
@@ -417,7 +417,7 @@ Though he died in the act, Prexaspes saved his people becoming a hero of all [ha
 
 Prexaspes teaches that nature is a moral good and is worth defending, and that the sun is the source of power for all life on [Orden](../../Browse/rule/world/orden.md).
 
-##### Atossa the Shepherd
+##### Atossa the Shepherd {data-scc="mcdm.heroes.v1/religion.saint/atossa-the-shepherd"}
 
 **Domains:** Fate, Protection, Trickery
 
@@ -445,7 +445,7 @@ That night, there was a new constellation in the sky.
 
 Atossa teaches that it is not for the shepherd to judge the flock—only to protect and care for them. Even though they might be foolish, or cowardly. "Let the gods judge," Atossa said. "We have sheep to worry after."
 
-### Devil Gods
+### Devil Gods {data-scc="mcdm.heroes.v1/religion.god/lords-of-hell"}
 
 [Devil](../../Browse/ancestry/devil.md) heroes in [Orden](../../Browse/rule/world/orden.md) usually serve the gods and [saints](../../Browse/rule/world/saint.md) of the culture in which they were raised. Few [devils](../../Browse/ancestry/devil.md) in [Orden](../../Browse/rule/world/orden.md) are from the Seven Cities, most are descended from [devils](../../Browse/ancestry/devil.md) who were stranded on [Orden](../../Browse/rule/world/orden.md) hundreds or thousands of years ago. [Devils](../../Browse/ancestry/devil.md) who are from the Seven Cities have their own unique pantheon.
 
@@ -457,7 +457,7 @@ Like the other gods of the timescape, the Lords of Hell are too busy to attend t
 
 Like [Orden](../../Browse/rule/world/orden.md), there are dozens of [saints](../../Browse/rule/world/saint.md) in Hell, some obscure. These three are some of the most popular and the most likely [saints](../../Browse/rule/world/saint.md) for a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to follow.
 
-#### Thellasko the Great Designer {data-scc="mcdm.heroes.v1/god/thellasko"}
+#### Thellasko the Great Designer {data-scc="mcdm.heroes.v1/religion.saint/thellasko"}
 
 **Domains:** Knowledge, War
 
@@ -479,7 +479,7 @@ Thellasko was granted sainthood on his deathbed after a generation of successful
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
-##### Uryal the Subtle
+##### Uryal the Subtle {data-scc="mcdm.heroes.v1/religion.saint/uryal-the-subtle"}
 
 **Domains:** Knowledge, Trickery
 
@@ -503,7 +503,7 @@ be used to achieve one's ends. Uryal teaches the virtue of flexibility of charac
 
 Uryal is the [Saint](../../Browse/rule/world/saint.md) of Hell's diplomatic corps. His *unofficial* motto, falsely attributed to him but oft-repeated: "*Do unto the other guy as he would do unto you. But do it to him first.*"
 
-##### Kuryalka the False Principle
+##### Kuryalka the False Principle {data-scc="mcdm.heroes.v1/religion.saint/kuryalka-the-false-principle"}
 
 **Domains:** Death, Trickery
 
@@ -525,13 +525,13 @@ Kuryalka features in many folktales in Hell, including "Of the Childe Whomst Kep
 
 Like all the Innumerable Younger Gods, the gods of [Vasloria](../../Browse/rule/world/vasloria.md) embody the attitudes of the people who live in that region. This includes the [humans](../../Browse/ancestry/human.md), [polder](../../Browse/ancestry/polder.md), and draconians of [Vasloria](../../Browse/rule/world/vasloria.md).
 
-[Vasloria](../../Browse/rule/world/vasloria.md) is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. [Adûn](../../Browse/god/adun.md), for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in [Vasloria](../../Browse/rule/world/vasloria.md), especially Aendrim where [Adûn](../../Browse/god/adun.md)'s faith is most popular, believe this to one extent or another.
+[Vasloria](../../Browse/rule/world/vasloria.md) is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. [Adûn](../../Browse/religion/god/adun.md), for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in [Vasloria](../../Browse/rule/world/vasloria.md), especially Aendrim where [Adûn](../../Browse/religion/god/adun.md)'s faith is most popular, believe this to one extent or another.
 
 Some of them take it more seriously than others though. People in the most distant villages tend to believe it more literally, while people in the cities are perfectly aware than one may work and work and be a villain. And this is true of most of the beliefs presented in this chapter. Some people take it very seriously; some not so much.
 
-Like all peoples of [Orden](../../Browse/rule/world/orden.md), the people of [Vasloria](../../Browse/rule/world/vasloria.md) are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of [Cavall](../../Browse/god/cavall.md) who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../../Browse/class/conduit.md) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of [Vasloria](../../Browse/rule/world/vasloria.md) aren't that big a deal here, but these gods certainly are!" The peoples of each region of [Orden](../../Browse/rule/world/orden.md) prefer their own gods because they understand them best, not because they think they are "more powerful."
+Like all peoples of [Orden](../../Browse/rule/world/orden.md), the people of [Vasloria](../../Browse/rule/world/vasloria.md) are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of [Cavall](../../Browse/religion/god/cavall.md) who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../../Browse/class/conduit.md) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of [Vasloria](../../Browse/rule/world/vasloria.md) aren't that big a deal here, but these gods certainly are!" The peoples of each region of [Orden](../../Browse/rule/world/orden.md) prefer their own gods because they understand them best, not because they think they are "more powerful."
 
-#### Adûn {data-scc="mcdm.heroes.v1/god/adun"}
+#### Adûn {data-scc="mcdm.heroes.v1/religion.god/adun"}
 
 **Domains:** Creation, Life, Love, Protection
 
@@ -541,11 +541,11 @@ Vaslorians in remote villages still use the ancient test of strength to determin
 
 A priest following Adûn expresses their faith through labor. They build things. Many priests are also masons or carpenters. Joining the church for them did not mean abandoning their former trade. It intensified it.
 
-A knight following Adûn spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adûn's brother [Cavall](../../Browse/god/cavall.md) who seeks to right wrongs.
+A knight following Adûn spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adûn's brother [Cavall](../../Browse/religion/god/cavall.md) who seeks to right wrongs.
 
-Adûn and [Cavall](../../Browse/god/cavall.md) are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
+Adûn and [Cavall](../../Browse/religion/god/cavall.md) are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
 
-##### Gaed the Confessor
+##### Gaed the Confessor {data-scc="mcdm.heroes.v1/religion.saint/gaed-the-confessor"}
 
 **Domains:** Love, Protection
 
@@ -563,7 +563,7 @@ It was Gaed, son of Malgen, son of Germoc, who entered the tavern—it was Saint
 
 Gaed teaches the virtue of being true to one's principles even—especially—when doing so is the most difficult thing in the world. The title "confessor" is granted to those who persisted in their faith in public, even when doing so was dangerous or deadly.
 
-##### Gryffyn the Stout
+##### Gryffyn the Stout {data-scc="mcdm.heroes.v1/religion.saint/gryffyn-the-stout"}
 
 **Domains:** Creation, Life
 
@@ -587,7 +587,7 @@ Fleeing across the bridge, the refugees found the body of Gryffyn, author of thi
 
 Saint Gryffyn the Stout teaches that despair is the enemy of action. That unyielding endurance is the cure for impossible odds. That more than sword and spell, hard work is the savior of the people.
 
-#### Cavall {data-scc="mcdm.heroes.v1/god/cavall"}
+#### Cavall {data-scc="mcdm.heroes.v1/religion.god/cavall"}
 
 **Domains:** Life, Love, Protection, War
 
@@ -597,9 +597,9 @@ A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a
 
 [Censors](../../Browse/class/censor.md) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
 
-Brother to [Adûn](../../Browse/god/adun.md) and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
+Brother to [Adûn](../../Browse/religion/god/adun.md) and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
-##### Llewellyn the Valiant
+##### Llewellyn the Valiant {data-scc="mcdm.heroes.v1/religion.saint/llewellyn-the-valiant"}
 
 **Domains:** Life, Protection
 
@@ -643,7 +643,7 @@ Llewellyn and Silverheart had rid the people of their cursed, hateful duke.
 
 Saint Llewellyn is Cavall's greatest [saint](../../Browse/rule/world/saint.md). He teaches that the greatest loyalty is to the well-being of the people, and that it is the responsibility of the strong to protect the weak. That the only proper use of power is in pursuit of justice.
 
-##### Gwenllian the Fell-Handed
+##### Gwenllian the Fell-Handed {data-scc="mcdm.heroes.v1/religion.saint/gwenllian-the-fell-handed"}
 
 **Domains:** Protection, War
 
@@ -683,7 +683,7 @@ Twelve days after they rode out, Zür returned with Lady Gwenllian's body on her
 
 Gwenllian is the [saint](../../Browse/rule/world/saint.md) of those who stand watch, of all those who must carry a burden ceaselessly. Gwenllian teaches that vigilance is its own reward.
 
-#### Salorna {data-scc="mcdm.heroes.v1/god/salorna"}
+#### Salorna {data-scc="mcdm.heroes.v1/religion.god/salorna"}
 
 **Domains:** Life, Nature, Storm, Sun
 
@@ -701,7 +701,7 @@ Some of Salorna's priests are [conduits](../../Browse/class/conduit.md); some ar
 
 Salorna has few [censors](../../Browse/class/censor.md), but not none! Favoring light armor and [ranged](../../Browse/rule/combat/ranged.md) weapons, her [censors](../../Browse/class/censor.md) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 
-##### Draighen the Warden
+##### Draighen the Warden {data-scc="mcdm.heroes.v1/religion.saint/draighen-the-warden"}
 
 **Domains:** Nature, Sun
 
@@ -721,7 +721,7 @@ The elves were properly chastised and realized their shame. Though the derwic di
 
 Draighen teaches solutions can always be found if people are willing to talk. That even the darkest forest is not a thing to be threatened by if you carry wisdom and an open heart with you. That the proper reaction to unknown territory is curiosity.
 
-##### Eriarwen the Wroth
+##### Eriarwen the Wroth {data-scc="mcdm.heroes.v1/religion.saint/eriarwen-the-wroth"}
 
 **Domains:** Nature, Storm
 
@@ -767,13 +767,13 @@ Eriarwen teaches that nature holds the power to destroy—that Mother Nature is 
 
 Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-villains! This section presents one archetypal [saint](../../Browse/rule/world/saint.md) from each of [Vasloria](../../Browse/rule/world/vasloria.md)'s evil gods; the brothers Nikros and Cyrvis for those players who wish to play such heroes.
 
-##### Nikros the Tyrant
+##### Nikros the Tyrant {data-scc="mcdm.heroes.v1/religion.god/nikros"}
 
 **Domains:** Death, Fate, Storm, War
 
 Nikros is strength. He is dominance. His is the right of the strong to rule over the weak. He is the Tyrant.
 
-Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, [followers](../../Browse/rule/general/follower.md) of Nikros are often mistaken for [followers](../../Browse/rule/general/follower.md) of [Adûn](../../Browse/god/adun.md)—a mask they are happy to wear. Both teach that strength is good. But for [Adûn](../../Browse/god/adun.md) strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. [Might](../../Browse/rule/character/might.md) is right.
+Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, [followers](../../Browse/rule/general/follower.md) of Nikros are often mistaken for [followers](../../Browse/rule/general/follower.md) of [Adûn](../../Browse/religion/god/adun.md)—a mask they are happy to wear. Both teach that strength is good. But for [Adûn](../../Browse/religion/god/adun.md) strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. [Might](../../Browse/rule/character/might.md) is right.
 
 Many is the baron or duke who attained power through sheer strength and ruthlessness, seeing their people as mere resources to be spent. Many of these rulers only come to Nikros after achieving power, their ears poisoned by a priest of the Tyrant.
 
@@ -783,7 +783,7 @@ Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate [followers](.
 
 Nikros's [censors](../../Browse/class/censor.md) take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
 
-##### Pentalion the Paladin
+##### Pentalion the Paladin {data-scc="mcdm.heroes.v1/religion.saint/pentalion-the-paladin"}
 
 **Domains:** Death, War
 
@@ -799,7 +799,7 @@ Savior to all, Pentalion was made a [saint](../../Browse/rule/world/saint.md) of
 
 Saint Pentalion teaches that one should bide their time and build their power before striking. That treachery in service to growing your own power is no vice.
 
-##### Cyrvis
+##### Cyrvis {data-scc="mcdm.heroes.v1/religion.god/cyrvis"}
 
 **Domains:** Death, Fate, Knowledge, Trickery
 
@@ -811,7 +811,7 @@ It is dangerous to worship Cyrvis in public, but those who gain power through hi
 
 His churches are often underground—in dungeons, cellars. His priests worship in secret, plotting against those with power, or those who are merely popular. To be liked and loved is reason enough for a [follower](../../Browse/rule/general/follower.md) of Cyrvis to hate you.
 
-##### Eseld of the Eye
+##### Eseld of the Eye {data-scc="mcdm.heroes.v1/religion.saint/eseld-of-the-eye"}
 
 **Domains:** Knowledge, Trickery
 
@@ -833,7 +833,7 @@ Eseld teaches that spite is a virtue. Only fools follow rules, and sorcery is a 
 
 ### Space Gods of the Timescape
 
-The nature and origin of the gods of the timescape is not well understood. Unlike the gods of [Orden](../../Browse/rule/world/orden.md), the Space Gods are corporeal beings, usually of immense—even planetary—[size](../../Browse/rule/character/size.md). Some are humanoid, others, like [Nebular](../../Browse/god/nebular.md) the Star Mother and XXAXX, decidedly not so.
+The nature and origin of the gods of the timescape is not well understood. Unlike the gods of [Orden](../../Browse/rule/world/orden.md), the Space Gods are corporeal beings, usually of immense—even planetary—[size](../../Browse/rule/character/size.md). Some are humanoid, others, like [Nebular](../../Browse/religion/god/nebular.md) the Star Mother and XXAXX, decidedly not so.
 
 They have godlike power—greater it seems than the Innumerable Younger Gods. But there is no evidence that they can create whole realities like the Elder Gods. They are not, as far as sages can make out, the authors of the worlds or people of the timescape. They may represent the last survivors of previous realities, High Science experiments run amok, or ascended beings from ancient civilizations who outlasted the fall of their people.
 
@@ -859,7 +859,7 @@ But most citizens of the timescape do not carry the gods with them in their dail
 
 The closest analog to worship in [Orden](../../Browse/rule/world/orden.md) to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and [saint](../../Browse/rule/world/saint.md) and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from [Orden](../../Browse/rule/world/orden.md) arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
 
-#### Nebular the Star Mother {data-scc="mcdm.heroes.v1/god/nebular"}
+#### Nebular the Star Mother {data-scc="mcdm.heroes.v1/religion.god/nebular"}
 
 **Domains:** Creation, Life, Love, Sun
 
@@ -869,7 +869,7 @@ She is a stellar nursery leaving a trail of infant stars in her wake. Hers is th
 
 She is the goddess of creation and for some of her [followers](../../Browse/rule/general/follower.md), life itself, as her children's energies feed all life on all worlds. Her priests teach that life is the opposite of entropy, and the natural byproduct of her solar incubator.
 
-##### The Calling of Lady Magnetar
+##### The Calling of Lady Magnetar {data-scc="mcdm.heroes.v1/religion.saint/lady-magnetar"}
 
 **Domains:** Life, Sun
 
@@ -907,7 +907,7 @@ The [memonek](../../Browse/ancestry/memonek.md) officers and soldiers of UNISOL 
 
 Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in the cause of light and life and order. She is invoked whenever a great sacrifice must be made. "Lady Magnetar, let my sacrifice not be in vain."
 
-#### OV the Wave Pilot {data-scc="mcdm.heroes.v1/god/ov"}
+#### OV the Wave Pilot {data-scc="mcdm.heroes.v1/religion.god/ov"}
 
 **Domains:** Fate, Knowledge, Storm, Sun
 
@@ -919,7 +919,7 @@ OV is the god of navigators and those who seek safe passage through treacherous 
 
 When a [time raider](../../Browse/ancestry/time-raider.md) swears, "OV [guide](../../Browse/rule/downtime/guide.md) me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
-##### The Calling of Cho'kassa the Time Rider
+##### The Calling of Cho'kassa the Time Rider {data-scc="mcdm.heroes.v1/religion.saint/chokassa-the-time-rider"}
 
 **Domains:** Storm, Sun
 
