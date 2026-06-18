@@ -218,6 +218,22 @@
 .sc-card__line b { font-family: var(--md-small-header-font); color: var(--fx-metal); font-variant: small-caps;
   letter-spacing: .06em; font-weight: 400; margin-right: .3rem; }
 .sc-card__line .hl { color: var(--fx-metal-bright); }
+
+/* Label↔value ledger (dynamic-terrain cards): rule-separated rows, field-name
+   label on the left, value on the right. Handles the mix of compact codes
+   ("1S") and descriptive phrases ("4 per 10 x 10 patch", a linked Size) that a
+   fixed stat grid crushed. Rows wrap gracefully; values keep a real <a>. */
+.sc-card__ledger { margin-top: .8rem; border-top: 1px solid var(--fx-metal-faint); }
+.sc-card__lrow { display: flex; align-items: baseline; justify-content: space-between; gap: .8rem;
+  padding: .38rem .1rem; border-bottom: 1px solid var(--fx-metal-faint); }
+.sc-card__lrow .k { flex: none; font-family: var(--md-small-header-font); font-variant: small-caps;
+  letter-spacing: .06em; font-size: .76rem; color: var(--fx-metal); }
+.sc-card__lrow .v { text-align: right; font-size: .85rem; line-height: 1.35;
+  color: var(--md-default-fg-color--light); text-wrap: pretty; }
+.md-typeset .sc-card__lrow .v a { position: relative; z-index: 1;
+  color: var(--md-typeset-a-color); text-decoration: none; }
+.md-typeset .sc-card__lrow .v a:hover { text-decoration: underline; }
+
 .sc-card__tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .6rem; }
 .sc-tag { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em; font-size: .74rem;
   color: var(--md-default-fg-color--light); border: 1px solid var(--fx-metal-faint); border-radius: 5px; padding: .08rem .5rem; }
