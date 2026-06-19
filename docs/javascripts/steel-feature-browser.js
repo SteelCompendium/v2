@@ -147,7 +147,8 @@
       { key: "klass",    label: "Source",  values: srcValues, dot: function (v) { return srcColor(klassSrc[v]); } },
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },
-      { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") }
+      { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") },
+      { key: "feature_source", label: "Track", values: uniqueSorted(null, items, "feature_source"), display: cap }
     ].filter(function (f) { return f.values.length > 1; });
 
     var state = { q: "", sort: "name", sel: {} };
