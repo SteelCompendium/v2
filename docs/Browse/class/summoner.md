@@ -1082,7 +1082,7 @@ Choose two of the following minions. You can use Call Forth to summon the listed
 </div>
 </section>
 
-## 2nd-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-2/2nd-level-features"}
+## 2nd-Level Features
 
 As a 2nd-level [summoner](summoner.md), you gain the following features.
 
@@ -1418,23 +1418,17 @@ Choose one of the following minions.
 
 <div class="sb-wrap" data-role="harrier" data-creature="phase-ghoul"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Phase Ghoul</span><span class="sb__sticky-role" data-role="harrier">Minion Harrier</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>5 | 5 | 5</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>3</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+3</b><i>A</i></span><span class="c"><b>-2</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Teleport</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Corruption R, Poison R</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="harrier"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Summoner Minion · Undead</div><h2 class="sb__name">Phase Ghoul</h2></div><div class="sb__class"><div class="sb__role" data-role="harrier">Minion Harrier</div><div class="sb__ev sb__cost">5 essence for three minions</div></div></div></header><div class="sb__flavor">Phase ghouls are bilocated undead caught between two different manifolds, rapidly flickering between them. They almost appear transparent save for their long, bright blue tongues that appears to lag behind their movements by a full second.</div><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">5 | 5 | 5</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Corruption R, Poison R</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Teleport</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+3</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-2</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Leaping Strike</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The ghoul <a class="sb-term" href="../../movement/teleport/">teleports</a> 5 squares before making a melee <a class="sb-term" href="../../feature/common/main-actions/free-strike/">free strike</a>. The target is M &lt; AVERAGE knocked <a class="sb-term" href="../../condition/prone/">prone</a>. If the target is in the air, the <a class="sb-term" href="../../rule/character/potency/">potency</a> increases by 1.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Nerveless</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The ghoul takes no <a class="sb-term" href="../../rule/damage/damage/">damage</a> from <a class="sb-term" href="../../rule/health/falling/">falling</a> and always lands on their feet.</p></article></div></article></div>
 
-## 3rd-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-3/3rd-level-features"}
+## 3rd-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+As a 3rd-level [summoner](summoner.md), you gain the following features.
+
+### Summoner's Kit {data-scc="mcdm.summoner.v1/feature.summoner.level-3/summoners-kit"}
+
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">3rd-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 3rd-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Summoner&#39;s Kit</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1491,9 +1485,14 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### 7-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-3/7-essence-ability"}
+
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">7-Essence Ability</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1596,27 +1595,18 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-</div>
-</div>
-</section>
 
-## 4th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-4/4th-level-features"}
+## 4th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
+As a 4th-level [summoner](summoner.md), you gain the following features.
+
+### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-4/characteristic-increase"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">4th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 4th-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Characteristic Increase</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1625,9 +1615,14 @@ Choose one of the following minions.
 <p>Your <a href="../../rule/character/reason/">Reason</a> score becomes 3. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum score of 3.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-4/minion-improvement"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Minion Improvement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1650,9 +1645,14 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Essence Salvage {data-scc="mcdm.summoner.v1/feature.summoner.level-4/essence-salvage"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Essence Salvage</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1661,9 +1661,14 @@ Choose one of the following minions.
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that any <a href="../../feature/summoner/level-1/minions/">minion</a> unwillingly dies within your Summoner&#39;s Range, you gain 2 <a href="../../feature/summoner/level-1/essence/">essence</a> instead of 1.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Minion Chain {data-scc="mcdm.summoner.v1/feature.summoner.level-4/minion-chain"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Minion Chain</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1674,9 +1679,14 @@ Choose one of the following minions.
 <p>The chain lasts until the start of your next <a href="../../rule/combat/turn/">turn</a> or until the chain is no longer steady. The chain can also end when a <a href="../../feature/summoner/level-1/minions/">minion</a> in the chain is destroyed or when you command your <a href="../../feature/summoner/level-1/minions/">minions</a> to let go as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>. All <a href="../../rule/character/size/">size</a> 1 <a href="../../feature/summoner/level-1/minions/">minions</a> count as one square when determining the chain&#39;s length.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-4/perk"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Perk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1685,9 +1695,14 @@ Choose one of the following minions.
 <p>You gain any one <a href="../../feature/summoner/level-4/perk/">perk</a> of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-4/skill"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Skill</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1696,25 +1711,10 @@ Choose one of the following minions.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
-</div>
-</div>
-</section>
 
-## 5th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-5/5th-level-features"}
+## 5th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">5th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 5th-level <a href="./">summoner</a>, you gain the following features.</p>
-</div>
-</section>
+As a 5th-level [summoner](summoner.md), you gain the following features.
 
 ## 5th-Level Circle Feature {data-scc="mcdm.summoner.v1/feature.summoner.level-5/5th-level-circle-feature"}
 
@@ -1930,23 +1930,17 @@ Choose one of the following minions.
 
 <div class="sb-wrap" data-role="defender" data-creature="zombie-titan"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Zombie Titan</span><span class="sb__sticky-role" data-role="defender">Minion Defender</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>4</b>Size</span><span class="m"><b>4</b>Speed</span><span class="m"><b>40</b>Stamina</span><span class="m"><b>—</b>Stability</span><span class="m"><b>7</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+4</b><i>M</i></span><span class="c"><b>-3</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+3</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Corruption R, poison R</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="defender"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Summoner Minion · Undead</div><h2 class="sb__name">Zombie Titan</h2></div><div class="sb__class"><div class="sb__role" data-role="defender">Minion Defender</div><div class="sb__ev sb__cost">7 essence for one minion</div></div></div></header><div class="sb__flavor">Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard's entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.</div><div class="sb__defenses"><div class="sb__stat"><span class="v">4</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">4</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">40</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">—</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Corruption R, poison R</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+4</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">-3</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+3</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Big Stomp</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The titan's melee <a class="sb-term" href="../../feature/common/main-actions/free-strike/">free strikes</a> M &lt; STRONG knock the target <a class="sb-term" href="../../condition/prone/">prone</a>.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Overwhelming Size</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The titan can move through enemies at normal speed. If the titan ends their <a class="sb-term" href="../../rule/combat/turn/">turn</a> in a <a class="sb-term" href="../../condition/prone/">prone</a> <a class="sb-term" href="../../rule/character/size/">size</a> 2 or smaller creature's space, the creature can't stand.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Flesh to Mountains</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">When the titan is reduced to 0 <a class="sb-term" href="../../rule/health/stamina/">Stamina</a>, their space becomes <a class="sb-term" href="../../movement/difficult-terrain/">difficult terrain</a>. If a creature was <a class="sb-term" href="../../condition/prone/">prone</a> underneath the titan when the titan is killed, they take 10 <a class="sb-term" href="../../rule/damage/damage/">damage</a> and are <a class="sb-term" href="../../condition/restrained/">restrained</a> (save ends).</p></article></div></article></div>
 
-## 6th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-6/6th-level-features"}
+## 6th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+As a 6th-level [summoner](summoner.md), you gain the following features.
+
+### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-6/perk"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">6th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 6th-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Perk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -1955,9 +1949,14 @@ Choose one of the following minions.
 <p>You gain an <a href="../../skill/interpersonal/">interpersonal</a>, <a href="../../skill/lore/">lore</a>, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Return to the Source {data-scc="mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Return to the Source</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -1980,9 +1979,14 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Minion Machinations {data-scc="mcdm.summoner.v1/feature.summoner.level-6/minion-machinations"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Minion Machinations</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -1992,9 +1996,14 @@ Choose one of the following minions.
 <p>You can summon and recruit an artisan <a href="../../rule/general/follower/">follower</a> and a sage <a href="../../rule/general/follower/">follower</a> that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle&#39;s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers&#39; stats.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Kit Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-6/kit-improvement"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Kit Improvement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -2004,9 +2013,14 @@ Choose one of the following minions.
 <p>Additionally, whenever you reduce an enemy to 0 <a href="../../rule/health/stamina/">Stamina</a> with your <a href="../../feature/ability/summoner/level-1/summoner-strike/">Summoner Strike</a> ability, you can use <a href="../../feature/ability/summoner/level-1/call-forth/">Call Forth</a> as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>. Minions summoned this way are unable to act during this <a href="../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### 9-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-6/9-essence-ability"}
+
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">9-Essence Ability</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -2117,27 +2131,18 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-</div>
-</div>
-</section>
 
-## 7th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-7/7th-level-features"}
+## 7th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+As a 7th-level [summoner](summoner.md), you gain the following features.
+
+### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-7/characteristic-increase"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">7th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 7th-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Characteristic Increase</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2146,9 +2151,14 @@ Choose one of the following minions.
 <p>All of your <a href="../../rule/character/characteristic/">characteristics</a> increase by 1, to a maximum score of 4.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-7/minion-improvement"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Minion Improvement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2171,9 +2181,14 @@ Choose one of the following minions.
 </div>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Font of Creation {data-scc="mcdm.summoner.v1/feature.summoner.level-7/font-of-creation"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Font of Creation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2182,9 +2197,14 @@ Choose one of the following minions.
 <p>When you gain essence at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 3 essence instead of 2.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Their Life for Mine {data-scc="mcdm.summoner.v1/feature.summoner.level-7/their-life-for-mine"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Their Life for Mine</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2194,9 +2214,14 @@ Choose one of the following minions.
 <p>You can&#39;t use this feature again until you gain a new level, or until you spend 3 eidos to use it (see <a href="../../feature/summoner/level-10/eidos/">Eidos</a>).</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-7/skill"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Skill</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2205,11 +2230,8 @@ Choose one of the following minions.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
-</div>
-</div>
-</section>
 
-## 8th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-8/8th-level-features"}
+## 8th-Level Features
 
 As an 8th-level [summoner](summoner.md), you gain the following features.
 
@@ -2393,23 +2415,17 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 
 <div class="sb-wrap" data-role="leader" data-creature="avatar-of-death"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Avatar of Death</span><span class="sb__sticky-role" data-role="leader">Champion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>SPECIAL</b>Stamina</span><span class="m"><b>3</b>Stability</span><span class="m"><b>9</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+5</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>+5</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>With Captain</b>—</span><span class="sm"><b>Immunity</b>Corruption 5, poison 5</span><span class="sm"><b>Weakness</b>—</span></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Summoner Champion · Undead</div><h2 class="sb__name">Avatar of Death</h2></div><div class="sb__class"><div class="sb__role" data-role="leader">Champion</div><div class="sb__ev sb__cost">9 essence for one champion</div></div></div></header><div class="sb__flavor">Stamina: Your maximum Stamina</div><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">SPECIAL</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">3</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">9</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Corruption 5, poison 5</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">With Captain</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+5</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+5</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="sb__feat-name sc-ability__name">Culling Scythe</h3></div><div class="sb__feat-corner"><div class="sc-ability__cost">Signature</div></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Main action</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 2</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Two creatures or objects</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + 5</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 corruption <a class="sb-term" href="../../rule/damage/damage/">damage</a>; M &lt; WEAK <a class="sb-term" href="../../condition/bleeding/">bleeding</a> (<a class="sb-term" href="../../rule/general/saving-throw/">save ends</a>)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 corruption <a class="sb-term" href="../../rule/damage/damage/">damage</a>; M &lt; AVERAGE <a class="sb-term" href="../../condition/bleeding/">bleeding</a> (<a class="sb-term" href="../../rule/general/saving-throw/">save ends</a>)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption <a class="sb-term" href="../../rule/damage/damage/">damage</a>; M &lt; STRONG <a class="sb-term" href="../../condition/bleeding/">bleeding</a> (<a class="sb-term" href="../../rule/general/saving-throw/">save ends</a>)</span></div></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target is a creature that isn't a leader or a solo and they are still <a class="sb-term" href="../../condition/bleeding/">bleeding</a> at the end of the encounter, they instantly die.</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Revelation Strike</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The Avatar's melee <a class="sb-term" href="../../feature/common/main-actions/free-strike/">free strikes</a> P &lt; WEAK instantly reduce a <a class="sb-term" href="../../rule/health/winded/">winded</a> non-leader or solo creature to 0 <a class="sb-term" href="../../rule/health/stamina/">Stamina</a>, including targets <a class="sb-term" href="../../rule/health/winded/">winded</a> by the <a class="sb-term" href="../../rule/combat/strike/">strike</a>.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Champion's Ire</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">If the Avatar only targets one creature or object with a <a class="sb-term" href="../../rule/combat/strike/">strike</a>, they deal additional <a class="sb-term" href="../../rule/damage/damage/">damage</a> to the target equal to your <a class="sb-term" href="../../rule/character/reason/">Reason</a>.</p></article><article class="sc-ability sb__feat" data-action="triggered" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">)</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">)</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span><a class="sb-term" href="../../rule/combat/triggered-action/">Free triggered action</a></div><h3 class="sb__feat-name sc-ability__name">Dust and Rot</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v"><a class="sb-term" href="../../rule/combat/triggered-action/">Free triggered action</a></span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">1 burst</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each enemy in the burst</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The Avatar takes <a class="sb-term" href="../../rule/damage/damage/">damage</a>.</p></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>M &lt; AVERAGE <a class="sb-term" href="../../condition/weakened/">weakened</a> (<a class="sb-term" href="../../rule/combat/end-of-turn/">EoT</a>).</p></div></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Drifting Spirit</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The Avatar is unaffected by <a class="sb-term" href="../../movement/difficult-terrain/">difficult terrain</a> and <a class="sb-term" href="../../rule/damage/damage/">damage</a> from <a class="sb-term" href="../../movement/forced-movement/">forced movement</a>.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Size Increase</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The Avatar is now size 3.</p></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">l</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>1 Eidos</div><h3 class="sb__feat-name sc-ability__name">Gravemaker</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">1 Eidos</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">5 × 3 line within 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each enemy and object in the line</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>9 holy <a class="sb-term" href="../../rule/damage/damage/">damage</a>. Each target is vertically <a class="sb-term" href="../../movement/forced-movement/">pulled</a> a number of squares equal to their <a class="sb-term" href="../../rule/character/size/">size</a> straight down, ignoring <a class="sb-term" href="../../rule/character/stability/">stability</a>. If the target would be <a class="sb-term" href="../../movement/forced-movement/">force moved</a> into the ground, they are buried beneath the ground instead.</p></div></div><p class="sb__feat-trailing"><b>Champion Action</b></p></article></div></article></div>
 
-## 9th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-9/9th-level-features"}
+## 9th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+As a 9th-level [summoner](summoner.md), you gain the following features.
+
+### Kit Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-9/kit-improvement"}
+
+<section class="sc-trait sc-trait--crest" data-action="trait">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">9th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 9th-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Kit Improvement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
@@ -2419,9 +2435,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <ul><li>The <a href="../../rule/character/potency/">potency</a> of your <a href="../../feature/ability/summoner/level-1/summoner-strike/">Summoner Strike</a> ability increases to R &lt; STRONG.</li><li>You can choose one additional ward from your <a href="../../feature/summoner/level-3/summoners-kit/">Summoner&#39;s Kit</a>.</li><li>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to dissuade or scare enemy minions or lackeys.</li><li>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</li></ul>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Steward of Two Worlds {data-scc="mcdm.summoner.v1/feature.summoner.level-9/steward-of-two-worlds"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Steward of Two Worlds</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
@@ -2430,9 +2451,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their <a href="../../rule/negotiation/patience/">patience</a> increased by 2.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### 11-Essence Ability {data-scc="mcdm.summoner.v1/feature.summoner.level-9/11-essence-ability"}
+
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">11-Essence Ability</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
@@ -2531,27 +2557,18 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 </div>
 </div>
 </section>
-</div>
-</div>
-</section>
 
-## 10th-Level Features {data-scc="mcdm.summoner.v1/feature.summoner.level-10/10th-level-features"}
+## 10th-Level Features
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+As a 10th-level [summoner](summoner.md), you gain the following features.
+
+### Characteristic Increase {data-scc="mcdm.summoner.v1/feature.summoner.level-10/characteristic-increase"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">10th-Level Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a 10th-level <a href="./">summoner</a>, you gain the following features.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
 <h3 class="sc-trait__name">Characteristic Increase</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2560,9 +2577,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>Your <a href="../../rule/character/reason/">Reason</a> score becomes 5. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum score of 5.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Minion Improvement {data-scc="mcdm.summoner.v1/feature.summoner.level-10/minion-improvement"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Minion Improvement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2584,9 +2606,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 </div>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Eidos {data-scc="mcdm.summoner.v1/feature.summoner.level-10/eidos"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Eidos</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2597,9 +2624,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>Eidos remains until you spend it.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### No Matter the Cost {data-scc="mcdm.summoner.v1/feature.summoner.level-10/no-matter-the-cost"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">No Matter the Cost</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2608,9 +2640,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>Whenever you sacrifice minions, you now reduce the cost of a <a href="../../rule/general/heroic-ability/">heroic ability</a> or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Among Our Ranks {data-scc="mcdm.summoner.v1/feature.summoner.level-10/among-our-ranks"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Among Our Ranks</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2619,9 +2656,14 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>As a <a href="../../rule/resource/respite/">respite</a> activity, you summon a willing and not-<a href="../../condition/restrained/">restrained</a> <a href="../../rule/general/npc/">NPC</a> or player ally to join your party, regardless of <a href="../../rule/combat/distance/">distance</a> or manifold. The target stays until the start of your next <a href="../../rule/resource/respite/">respite</a> or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can&#39;t have more than one character summoned in this way.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Perk {data-scc="mcdm.summoner.v1/feature.summoner.level-10/perk"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Perk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2630,17 +2672,19 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <p>You gain an <a href="../../skill/intrigue/">intrigue</a>, <a href="../../skill/interpersonal/">interpersonal</a>, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
-<section class="sc-trait" data-action="trait">
+
+### Skill {data-scc="mcdm.summoner.v1/feature.summoner.level-10/skill"}
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
 <h3 class="sc-trait__name">Skill</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
-</div>
-</section>
-</div>
 </div>
 </section>
