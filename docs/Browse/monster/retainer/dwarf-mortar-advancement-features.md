@@ -1,0 +1,108 @@
+---
+printing: "1.01"
+printing_book: "Draw Steel: Monsters"
+features:
+    - cost: Encounter
+      distance: Special; see below
+      icon: "\U0001F533"
+      keywords:
+        - Area
+        - Ranged
+        - Weapon
+      level: 4
+      name: Signal Shell
+      power_roll:
+        formula: + highest characteristic
+        tiers:
+            high: 11 fire damage
+            low: 5 fire damage
+            mid: 8 fire damage
+      sections:
+        - label: Effect
+          text: The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can't [hide](../../feature/common/maneuvers/hide.md) or turn invisible and can't benefit from concealment or cover. At the start of the mortar's next turn, the shell explodes to deal damage to enemies in the area.
+      target: Each enemy in the area
+      usage: Main action
+    - cost: Encounter
+      distance: 3 cube within 15
+      icon: "\U0001F533"
+      keywords:
+        - Area
+        - Ranged
+        - Weapon
+      level: 10
+      name: Pacifier Shell
+      power_roll:
+        formula: + highest characteristic
+        tiers:
+            high: 16 damage; I < STRONG [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends) and [prone](../../condition/prone.md)
+            low: 8 damage; I < WEAK [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends
+            mid: 12 damage; I < AVERAGE [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
+      target: Each enemy in the area
+      usage: Main action
+    - cost: Encounter
+      distance: 10 x 1 line within 1
+      icon: "\U0001F533"
+      keywords:
+        - Area
+        - Weapon
+      level: 7
+      name: Screaming Shell
+      power_roll:
+        formula: + highest characteristic
+        tiers:
+            high: 13 damage; P < STRONG [frightened](../../condition/frightened.md)
+            low: 6 damage; P < WEAK [frightened](../../condition/frightened.md)
+            mid: 9 damage; P < AVERAGE [frightened](../../condition/frightened.md)
+      sections:
+        - label: Effect
+          text: Until the start of the mortar's next turn, [strikes](../../rule/combat/strike.md) made against the mortar or any ally [adjacent](../../rule/combat/adjacent.md) to them take a bane.
+      target: Each enemy in the area
+      usage: Main action
+name: Dwarf Mortar Advancement Features
+scc: mcdm.monsters.v1/monster.retainer.advancement-features/dwarf-mortar
+type: featureblock
+---
+
+# Dwarf Mortar Advancement Features
+
+---
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Dwarf Mortar Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="4">
+<div class="fb__adv-head">Level 4 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Signal Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special; see below</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can&#39;t <a href="../../../feature/common/maneuvers/hide/">hide</a> or turn invisible and can&#39;t benefit from concealment or cover. At the start of the mortar&#39;s next turn, the shell explodes to deal damage to enemies in the area.</p></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="10">
+<div class="fb__adv-head">Level 10 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Pacifier Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 15</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; I &lt; WEAK <a href="../../../condition/dazed/">dazed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 damage; I &lt; AVERAGE <a href="../../../condition/dazed/">dazed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 damage; I &lt; STRONG <a href="../../../condition/dazed/">dazed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends) and <a href="../../../condition/prone/">prone</a></span></div></div></div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="7">
+<div class="fb__adv-head">Level 7 Advancement</div>
+<article class="sc-ability fb__feat" data-action="main">
+<div class="fb__feat-head"><span class="fb__feat-icon">🔳</span><div class="fb__feat-titles"><div class="fb__feat-eyebrow"><span class="sc-ability__dia"></span>Main action</div><h3 class="fb__feat-name sc-ability__name">Screaming Shell</h3></div><div class="fb__feat-corner"><div class="sc-ability__cost">Encounter</div></div></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 x 1 line within 1</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; P &lt; WEAK <a href="../../../condition/frightened/">frightened</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; P &lt; AVERAGE <a href="../../../condition/frightened/">frightened</a></span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; P &lt; STRONG <a href="../../../condition/frightened/">frightened</a></span></div></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Until the start of the mortar&#39;s next turn, <a href="../../../rule/combat/strike/">strikes</a> made against the mortar or any ally <a href="../../../rule/combat/adjacent/">adjacent</a> to them take a bane.</p></div></div>
+</article>
+</div>
+</div>
+</article>
+</div>
