@@ -46,3 +46,35 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+## Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
+
+<div class="fb-wrap" data-role="feature">
+<article class="fb md-typeset">
+<header class="fb__head">
+<div class="fb__eyebrow">Features</div>
+<h2 class="fb__name">Glade Pond Advancement Features</h2>
+</header>
+<div class="fb__feats">
+<div class="fb__band--adv" data-level="5">
+<div class="fb__adv-head">Level 5 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Garden of Jest</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">You can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> the first time in a <a href="../../../../rule/combat/combat-round/">round</a> a creature gains or starts their <a href="../../../../rule/combat/turn/">turn</a> with a <a href="../../../../rule/combat/condition/">condition</a> while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the pond. Alternatively, you can choose to enable an ally who also has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the boil to spend a <a href="../../../../rule/health/recoveries/">Recovery</a> instead.</div>
+</article>
+</div>
+<div class="fb__band--adv" data-level="9">
+<div class="fb__adv-head">Level 9 Advancement</div>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Size Increase</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">The pond is now size 3.</div>
+</article>
+<article class="sc-ability fb__feat" data-action="passive">
+<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Folly Field</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-body">Each non-fey enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the pond has a -1 penalty to <a href="../../../../rule/general/saving-throw/">saving throws</a> and resisting <a href="../../../../rule/character/potency/">potencies</a> until the start of their next <a href="../../../../rule/combat/turn/">turn</a>.</div>
+</article>
+</div>
+</div>
+</article>
+</div>

@@ -1139,6 +1139,9 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 </article>
 </div>
 
+
+## The Boil Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil"}
+
 ##### The Boil Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil"}
 
 <div class="fb-wrap" data-role="feature">
@@ -1198,6 +1201,9 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 </div>
 </article>
 </div>
+
+
+## Primordial Crystal Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal"}
 
 ##### Primordial Crystal Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal"}
 
@@ -1259,6 +1265,9 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 </article>
 </div>
 
+
+## Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
+
 ##### Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
 
 <div class="fb-wrap" data-role="feature">
@@ -1318,6 +1327,9 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 </div>
 </article>
 </div>
+
+
+## Barrow Gates Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates"}
 
 ##### Barrow Gates Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates"}
 
