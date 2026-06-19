@@ -4,6 +4,7 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: 10 × 1 line within 1
+feature_source: summoner
 flavor: You rapidly summon and sacrifice minions in order to power a devastating blast of magic.
 keywords:
     - Area

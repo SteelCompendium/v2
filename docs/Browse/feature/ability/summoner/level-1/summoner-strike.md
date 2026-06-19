@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: Melee 1 or Ranged 5
 effect: R [damage](../../../../rule/damage/damage.md). If the target has R < WEAK, they are [slowed](../../../../condition/slowed.md) (save ends).
+feature_source: summoner
 flavor: A sudden burst of energy erupts from your implement and shocks your foes' nerves.
 keywords:
     - Magic

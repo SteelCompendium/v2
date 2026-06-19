@@ -4,6 +4,7 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Melee 1 or Summoner's Range
+feature_source: summoner
 flavor: Your minions watch as your implement crackles with power, ready to slam unbelievable force into your foe.
 keywords:
     - Magic

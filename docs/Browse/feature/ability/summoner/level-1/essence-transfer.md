@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: Melee 1
 effect: You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.
+feature_source: summoner
 flavor: You pierce your foe and repurpose some of that 'fiber of their being' they weren't using.
 keywords:
     - Magic

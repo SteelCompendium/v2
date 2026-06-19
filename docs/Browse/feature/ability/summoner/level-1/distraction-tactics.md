@@ -5,6 +5,7 @@ action_type: Free maneuver
 class: summoner
 distance: Self
 effect: 'Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each [minion](../../../summoner/level-1/minions.md) under your control during the encounter is the target of the following effect:'
+feature_source: summoner
 flavor: Your minions do the work to draw the heat away from your allies.
 keywords:
     - Magic

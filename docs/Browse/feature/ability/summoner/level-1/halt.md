@@ -5,6 +5,7 @@ action_type: Triggered
 class: summoner
 distance: Summoner's Range
 effect: You summon a signature minion in an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to the target. If the target is [force moved](../../../../movement/forced-movement.md) into the minion, you can choose to make the target take no [damage](../../../../rule/damage/damage.md) from the collision.
+feature_source: summoner
 flavor: You order a minion to get in the way.
 keywords:
     - —

@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: Summoner's Range
 effect: 'You summon one or more minions from your [portfolio](../../../summoner/level-1/portfolio.md) into unoccupied spaces within distance. Choose one of the following options:'
+feature_source: summoner
 flavor: My power is yours, and yours, mine. I summon thee.
 keywords:
     - Magic

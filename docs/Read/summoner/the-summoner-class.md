@@ -73,7 +73,7 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Summoner Circle</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -381,7 +381,7 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">1st-Level Circle Features</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -1739,7 +1739,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Channel</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1757,7 +1757,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Dread March</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1773,7 +1773,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Flash Powder</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1790,7 +1790,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Nature Watch</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1806,7 +1806,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Pixie Lift</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1823,7 +1823,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Shaping</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1839,7 +1839,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Split</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1855,7 +1855,7 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Soul Flense</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1960,7 +1960,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Return to the Source</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
@@ -2261,7 +2261,7 @@ As an 8th-level [summoner](../../Browse/class/summoner.md), you gain the followi
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">8th-Level Circle Feature</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

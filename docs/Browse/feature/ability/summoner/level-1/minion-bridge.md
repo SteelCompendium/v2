@@ -5,6 +5,7 @@ action_type: Maneuver
 class: summoner
 distance: Melee 1
 effect: You [shift](../../../../movement/shifting.md) into a square adjacent to the target, including vertically.
+feature_source: summoner
 flavor: Your minions do everything in their power to form a safe path for you to cross.
 keywords:
     - Magic

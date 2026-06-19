@@ -2,6 +2,7 @@
 printing: "1.0"
 printing_book: "The Summoner"
 class: summoner
+feature_source: summoner
 level: "9"
 name: Kit Improvement
 scc: mcdm.summoner.v1/feature.summoner.level-9/kit-improvement

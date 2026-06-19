@@ -2,6 +2,7 @@
 printing: "1.0"
 printing_book: "The Summoner"
 class: summoner
+feature_source: circle
 level: "6"
 name: Return to the Source
 scc: mcdm.summoner.v1/feature.summoner.level-6/return-to-the-source
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
 <h3 class="sc-trait__name">Return to the Source</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>

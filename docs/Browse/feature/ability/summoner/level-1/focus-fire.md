@@ -5,6 +5,7 @@ action_type: Triggered
 class: summoner
 distance: Summoner's Range
 effect: The target gains a [surge](../../../../rule/resource/surge.md) for each of your minions [adjacent](../../../../rule/combat/adjacent.md) to them (up to a maximum of 3 surges), which they can use on the triggering damage.
+feature_source: summoner
 flavor: You ensure the enemy can't escape the incoming attack.
 keywords:
     - —

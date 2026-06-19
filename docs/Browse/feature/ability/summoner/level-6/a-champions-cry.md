@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: 3 burst
 effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+feature_source: summoner
 flavor: Your champion unleashes a bellow that shakes you to your core.
 keywords:
     - Area

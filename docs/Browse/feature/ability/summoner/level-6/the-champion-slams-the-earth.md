@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: 4 cube within 1
 effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+feature_source: summoner
 flavor: Your champion lays their fury upon those unfortunate enough to be in their wake.
 keywords:
     - Area

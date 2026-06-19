@@ -5,6 +5,7 @@ action_type: Main action
 class: summoner
 distance: Melee 3
 effect: This [strike](../../../../rule/combat/strike.md) deals an additional 2 [damage](../../../../rule/damage/damage.md) for each ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+feature_source: summoner
 flavor: You draw your strength from the army you surround yourself with and summon a hot blade of energy and fervor.
 keywords:
     - Magic

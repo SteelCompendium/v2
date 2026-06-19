@@ -2,6 +2,7 @@
 printing: "1.0"
 printing_book: "The Summoner"
 class: summoner
+feature_source: circle
 level: "1"
 name: Portfolio
 scc: mcdm.summoner.v1/feature.summoner.level-1/portfolio
