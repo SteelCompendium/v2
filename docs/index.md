@@ -11,6 +11,8 @@ affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 
 Welcome to the Steel Compendium! This site includes the full Draw Steel Rules and Monsters book organized for different reading styles.
 
+> **This is the current Steel Compendium.** It replaces the original [legacy Compendium site](https://steelcompendium.io/compendium), which is **no longer maintained**.
+
 ## How to Use This Site
 
 Use the **tabs** at the top to choose how you want to explore the rules:
@@ -47,41 +49,55 @@ Use the **tabs** at the top to choose how you want to explore the rules:
 
 ## Data Formats
 
-Don't bother scraping the site! I have already parsed the data, serialized it to JSON, YAML, and Markdown, and made it
-available on GitHub.
+Don't bother scraping the site! The data is already parsed and serialized to Markdown, JSON,
+and YAML, and published on GitHub.
 
 <div class="grid cards" markdown>
 
--   ### :material-database:{ .sc-crest } Unified
+-   ### :material-database:{ .sc-crest } New data repos
 
     ---
 
-    Data aggregated from all the other repos (Adventures, Bestiary, and Rules).
+    **:material-alert: Work in progress.** These are the new, SCC-coded data repos. They are
+    **not yet production-ready** -- the structure may change and they may contain errors.
+
+    - [data-rules](https://github.com/SteelCompendium/data-rules) -- Heroes book
+    - [data-bestiary](https://github.com/SteelCompendium/data-bestiary) -- Monsters book
+    - [data-unified](https://github.com/SteelCompendium/data-unified) -- everything, aggregated
+
+    Each repo provides Markdown, Markdown for the Draw Steel Elements plugin, SCC-linked
+    Markdown, JSON, and YAML variants under its `en/` directory.
+
+-   ### :material-folder-clock:{ .sc-crest } Legacy data repos
+
+    ---
+
+    **Deprecated.** These older repos are still available, but are being replaced by the new
+    repos to the left.
+
+    *Unified (everything):*
 
     - [data-md](https://github.com/SteelCompendium/data-md) -- Markdown
     - [data-md-dse](https://github.com/SteelCompendium/data-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
 
--   ### :material-sword-cross:{ .sc-crest } Rules
-
-    ---
-
-    Rules data from the Heroes book.
+    *Rules (Heroes book):*
 
     - [data-rules-md](https://github.com/SteelCompendium/data-rules-md) -- Markdown
     - [data-rules-md-dse](https://github.com/SteelCompendium/data-rules-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
     - [data-rules-yaml](https://github.com/SteelCompendium/data-rules-yaml) -- YAML
     - [data-rules-json](https://github.com/SteelCompendium/data-rules-json) -- JSON
+    - [data-rules-xml](https://github.com/SteelCompendium/data-rules-xml) -- XML
 
--   ### :material-paw:{ .sc-crest } Bestiary
-
-    ---
-
-    Rules data from the Monsters book.
+    *Bestiary (Monsters book):*
 
     - [data-bestiary-md](https://github.com/SteelCompendium/data-bestiary-md) -- Markdown
     - [data-bestiary-md-dse](https://github.com/SteelCompendium/data-bestiary-md-dse) -- Markdown for the Draw Steel Elements Obsidian Plugin
     - [data-bestiary-yaml](https://github.com/SteelCompendium/data-bestiary-yaml) -- YAML
     - [data-bestiary-json](https://github.com/SteelCompendium/data-bestiary-json) -- JSON
+
+    *Adventures* (not yet populated with data):
+
+    - [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md) -- Markdown
 
 </div>
 
