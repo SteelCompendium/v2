@@ -10,8 +10,7 @@ affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 ---
 
 Welcome to the Steel Compendium! This site includes the full Draw Steel Rules and Monsters book organized for different reading styles.
-
-> **This is the current Steel Compendium.** It replaces the original [legacy Compendium site](https://steelcompendium.io/compendium), which is **no longer maintained**.
+**This is the current Steel Compendium.** It replaces the original [legacy Compendium site](https://steelcompendium.io/compendium), which is **no longer maintained**.
 
 ## How to Use This Site
 
@@ -39,7 +38,7 @@ Use the **tabs** at the top to choose how you want to explore the rules:
 
     ---
 
-    Monsters and creatures of Draw Steel, with full statblocks and encounter-building details.
+    Monsters and creatures of Draw Steel. Explore statblocks and featureblocks in a convenient search-and-filter view.
 
     [:octicons-arrow-right-24: Open the Bestiary](Bestiary/index.md)
 
