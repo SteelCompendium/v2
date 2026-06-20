@@ -149,3 +149,5 @@ extra_javascript:
   - javascripts/scc-headerlinks.js
   - javascripts/scc-card-copy-core.js
   - javascripts/scc-card-copy.js
+  - javascripts/nav-drawer-keep-core.js
+  - javascripts/nav-drawer-keep.js
