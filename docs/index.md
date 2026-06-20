@@ -104,12 +104,5 @@ Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLS
 
 ## Thanks!
 
-Special thanks to all those that helped finding bugs and errors!
+Special thanks to the many, many individuals that helped find bugs and errors!  Please tell me what's broken; I can't manually verify each page.
 
-- Youngy
-- pfstrack
-- bnb4444
-- ectoseamus
-- Cal
-- kenpoh01
-- and many more!
