@@ -127,7 +127,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     The gods of the setting — Cavall, Kul, Ord, Salorna, Val, and the rest of the pantheon
 
-    [:octicons-arrow-right-24: View Gods](god/index.md)
+    [:octicons-arrow-right-24: View Gods](religion/index.md)
 
 -   ### :material-hammer-wrench:{ .sc-crest } Downtime Projects
 
