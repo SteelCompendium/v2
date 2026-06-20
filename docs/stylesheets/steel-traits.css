@@ -126,9 +126,10 @@
   width: 6px; height: 6px; transform: translateY(-50%) rotate(45deg);
   background: var(--fx-metal); }
 
-/* optional engraved drop cap on the opening paragraph (modifier) */
+/* optional engraved drop cap on the opening paragraph (modifier).
+   Suppressed globally by the "Hide drop caps" setting (data-no-dropcap on <html>). */
 .sc-trait--lead .sc-trait__body > p:first-of-type { overflow: hidden; }
-.sc-trait--lead .sc-trait__body > p:first-of-type::first-letter {
+:root:not([data-no-dropcap]) .sc-trait--lead .sc-trait__body > p:first-of-type::first-letter {
   font-family: var(--md-large-header-font); font-size: 3.15em; line-height: .72;
   float: left; margin: .06em .12em 0 0; padding-top: .04em;
   color: var(--fx-metal-bright); text-shadow: var(--fx-emboss);
