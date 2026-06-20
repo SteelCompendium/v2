@@ -53,26 +53,37 @@ and YAML, and published on GitHub.
 
 <div class="grid cards" markdown>
 
--   ### :material-database:{ .sc-crest } New data repos
+-   ### :material-database:{ .sc-crest } Data repo
 
     ---
 
-    **:material-alert: Work in progress.** These are the new, SCC-coded data repos. They are
-    **not yet production-ready** -- the structure may change and they may contain errors.
+    **:material-alert: Work in progress.** This SCC-coded data is **not yet production-ready** --
+    the structure may change and it may contain errors.
 
-    - [data-rules](https://github.com/SteelCompendium/data-rules) -- Heroes book
-    - [data-bestiary](https://github.com/SteelCompendium/data-bestiary) -- Monsters book
-    - [data-unified](https://github.com/SteelCompendium/data-unified) -- everything, aggregated
+    - [data-unified](https://github.com/SteelCompendium/data-unified) -- the consolidated data
+      repo: every book, in every format.
 
-    Each repo provides Markdown, Markdown for the Draw Steel Elements plugin, SCC-linked
-    Markdown, JSON, and YAML variants under its `en/` directory.
+    **Browse** -- `en/unified/<format>/` -- all content aggregated by type.
+
+    **Read** -- `en/books/<book>/<format>/` -- book-faithful, source-ordered (`heroes`,
+    `monsters`, `beastheart`, `summoner`).
+
+    Formats: Markdown, SCC-linked Markdown, Markdown for the Draw Steel Elements plugin, JSON,
+    and YAML (plus annotation-stripped `clean` Markdown). Languages live under the top-level
+    locale folder (`en/`, …).
 
 -   ### :material-folder-clock:{ .sc-crest } Legacy data repos
 
     ---
 
-    **Deprecated.** These older repos are still available, but are being replaced by the new
-    repos to the left.
+    **Deprecated.** These older repos are still available, but are superseded by the
+    consolidated [data-unified](https://github.com/SteelCompendium/data-unified) repo to the
+    left.
+
+    *Per-book (now folded into `data-unified`):*
+
+    - [data-rules](https://github.com/SteelCompendium/data-rules) -- Heroes book → `en/books/heroes/`
+    - [data-bestiary](https://github.com/SteelCompendium/data-bestiary) -- Monsters book → `en/books/monsters/`
 
     *Unified (everything):*
 
