@@ -104,6 +104,11 @@
   function applyCompact(on) {
     document.documentElement.setAttribute("data-compact", on ? "true" : "false");
   }
+  function applyDropcap(off) {
+    // absent attribute ≡ drop caps shown; only stamp the explicit "hide" state
+    if (off) document.documentElement.setAttribute("data-no-dropcap", "true");
+    else document.documentElement.removeAttribute("data-no-dropcap");
+  }
   function applySiteTheme(name) {
     if (!name || name === "steel") document.documentElement.removeAttribute("data-sc-theme");
     else document.documentElement.setAttribute("data-sc-theme", name);
@@ -159,6 +164,7 @@
     applyContentScale(prefs.contentScale);
     applyCardScale(prefs.cardScale);
     applyCompact(!!prefs.compact);
+    applyDropcap(!!prefs.noDropcap);
     applySiteTheme(prefs.siteTheme);
     applyCardStyle(prefs.cardStyle);
     applyStatblocks(prefs);
@@ -253,6 +259,12 @@
             '<label class="sc-set__toggle">' +
               '<input id="set-compact" type="checkbox">' +
               '<span>Compact mode &mdash; tighter spacing for dense display</span>' +
+            '</label>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-no-dropcap" type="checkbox">' +
+              '<span>Hide drop caps &mdash; remove the large engraved first letter on lead trait cards</span>' +
             '</label>' +
           '</div>' +
           // NOTE: "Ability card style" (data-card-style: modern) is hidden until the
@@ -568,6 +580,16 @@
       persist();
     });
 
+    // Hide drop caps
+    var noDropcap = drawer.querySelector("#set-no-dropcap");
+    noDropcap.checked = !!prefs.noDropcap;
+    noDropcap.addEventListener("change", function () {
+      if (noDropcap.checked) prefs.noDropcap = true;
+      else delete prefs.noDropcap;
+      applyDropcap(noDropcap.checked);
+      persist();
+    });
+
     // Card style (control currently hidden — guard in case markup is absent).
     // Reloads on change to re-render cards in the chosen style.
     var card = drawer.querySelector("#set-card-style");
@@ -632,6 +654,7 @@
       cardScale.value = String(C.CARD_DEFAULT);
       cardScaleVal.textContent = "100%";
       compact.checked = false;
+      noDropcap.checked = false;
       if (card) card.value = "classic";
       syncWidthUI(C.widthToControls(undefined));
       syncSb();
