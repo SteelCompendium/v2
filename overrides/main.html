@@ -79,6 +79,7 @@
             if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
             if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
             if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.noDropcap) document.documentElement.setAttribute("data-no-dropcap", "true");
             if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
             if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
             // Statblock layout preferences (data-sb-*) must always be set — an absent
