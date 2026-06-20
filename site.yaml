@@ -4,12 +4,12 @@
 # SCC registry (for per-book printing provenance stamps)
 registry: ../steel-etl/classification.json
 
-# Source: steel-etl md-linked output (multiple books merged by type)
+# Source: steel-etl md-linked output (per-book Read trees in the consolidated repo)
 source_dirs:
-  - ../data/data-rules/en/md-linked
-  - ../data/data-beastheart/en/md-linked
-  - ../data/data-summoner/en/md-linked
-  - ../data/data-bestiary/en/md-linked
+  - ../data/data-unified/en/books/heroes/md-linked
+  - ../data/data-unified/en/books/beastheart/md-linked
+  - ../data/data-unified/en/books/summoner/md-linked
+  - ../data/data-unified/en/books/monsters/md-linked
 
 # MkDocs docs directory
 docs_dir: ./docs
