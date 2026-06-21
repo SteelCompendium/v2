@@ -1,10 +1,14 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a medium weapon.
 flavor: If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
+melee_damage_bonus: +2/+2/+2
 name: Swashbuckler
 scc: mcdm.heroes.v1/kit/swashbuckler
+speed_bonus: "+3"
+stamina_bonus: +3 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

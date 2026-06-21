@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Ether-Fueled Vessel
 project_goal: "450"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.implement/ether-fueled-vessel
 treasure_type: implement
 type: treasure

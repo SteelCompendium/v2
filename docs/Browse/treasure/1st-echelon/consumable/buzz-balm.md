@@ -9,6 +9,7 @@ keywords:
     - Oil
 name: Buzz Balm
 project_goal: "45"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/buzz-balm
 treasure_type: consumable
 type: treasure

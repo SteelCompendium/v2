@@ -9,6 +9,7 @@ keywords:
     - Ring
 name: Nullfield Resonator Ring
 project_goal: "450"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.3rd-echelon.trinket/nullfield-resonator-ring
 treasure_type: trinket
 type: treasure

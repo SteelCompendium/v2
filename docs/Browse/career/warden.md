@@ -5,6 +5,7 @@ flavor: You protected a wild region from those who sought to harm it, such as po
 language: One language
 name: Warden
 perk: One exploration perk (*Quick Build:* [Camouflage Hunter](../perk/camouflage-hunter.md).)
+project_points: "120"
 scc: mcdm.heroes.v1/career/warden
 skills:
     - Nature (from the [lore skill group](../skill/lore/index.md)), plus one skill from the [exploration group](../skill/exploration/index.md) and one skill from the [intrigue group](../skill/intrigue/index.md) (*Quick Build:*  [Nature](../skill/lore/nature.md), Navigate, Track.)

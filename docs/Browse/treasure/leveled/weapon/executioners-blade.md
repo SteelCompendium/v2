@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Executioner's Blade
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade
 treasure_type: weapon
 type: treasure

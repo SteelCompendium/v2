@@ -9,6 +9,7 @@ keywords:
     - Psionic
 name: Mediator's Charm
 project_goal: "300"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.2nd-echelon.trinket/mediators-charm
 treasure_type: trinket
 type: treasure

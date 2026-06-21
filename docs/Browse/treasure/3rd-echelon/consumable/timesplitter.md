@@ -8,6 +8,7 @@ keywords:
     - Psionic
 name: Timesplitter
 project_goal: "180"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter
 treasure_type: consumable
 type: treasure

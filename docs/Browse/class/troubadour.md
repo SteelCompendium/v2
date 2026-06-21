@@ -1,12 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+average_potency: '[Presence](../rule/character/presence.md) − 1'
 flavor: The whole world's a stage, and everyone on it, an actor. No one knows this better than the troubadour. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 name: Troubadour
 scc: mcdm.heroes.v1/class/troubadour
 skills:
     - 'You gain the [Read Person](../skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the [interpersonal skill group](../skill/interpersonal/index.md) and one skill from the [intrigue](../skill/intrigue/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/interpersonal/read-person.md), Rumors.)'
+strong_potency: '[Presence](../rule/character/presence.md)'
 type: class
+weak_potency: '[Presence](../rule/character/presence.md) − 2'
 ---
 
 # Troubadour

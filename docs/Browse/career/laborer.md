@@ -5,6 +5,7 @@ flavor: You worked as a farmer, builder, clothes washer, forester, miner, or som
 language: One language
 name: Laborer
 perk: One exploration perk (*Quick Build:* Brawny.)
+project_points: "120"
 scc: mcdm.heroes.v1/career/laborer
 skills:
     - The [Endurance](../skill/exploration/endurance.md) skill (from the [exploration skill group](../skill/exploration/index.md)), plus two skills from either the [crafting group](../skill/crafting/index.md) or the [exploration group](../skill/exploration/index.md) (*Quick Build:* [Blacksmithing](../skill/crafting/blacksmithing.md), [Endurance](../skill/exploration/endurance.md), [Lift](../skill/exploration/lift.md).)

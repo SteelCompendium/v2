@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Displacer
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.weapon/displacer
 treasure_type: weapon
 type: treasure

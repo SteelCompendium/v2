@@ -9,6 +9,7 @@ keywords:
     - Potion
 name: Bottled Paradox
 project_goal: "180"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/bottled-paradox
 treasure_type: consumable
 type: treasure

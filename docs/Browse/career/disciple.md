@@ -4,6 +4,7 @@ printing_book: "Draw Steel: Heroes"
 flavor: You worked in a church, temple, or other religious institution as part of the clergy.
 name: Disciple
 perk: One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
+project_points: "240"
 scc: mcdm.heroes.v1/career/disciple
 skills:
     - The [Religion](../skill/lore/religion.md) skill (from the [lore skill group](../skill/lore/index.md)), plus two more skills from the [lore group](../skill/lore/index.md) (*Quick Build:* [Culture](../skill/lore/culture.md), [Magic](../skill/lore/magic.md), [Religion](../skill/lore/religion.md).)

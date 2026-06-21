@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: Snapdragon
 project_goal: 45 (yields 1d6 + 1 snapdragons)
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/snapdragon
 treasure_type: consumable
 type: treasure

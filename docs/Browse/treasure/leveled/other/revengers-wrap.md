@@ -7,6 +7,7 @@ keywords:
     - Magic
 name: Revenger's Wrap
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.other/revengers-wrap
 treasure_type: other
 type: treasure

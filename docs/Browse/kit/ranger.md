@@ -1,10 +1,16 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+disengage_bonus: "+1"
 equipment_text: You wear medium armor and wield a bow and a medium weapon.
 flavor: The Ranger kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+melee_damage_bonus: +1/+1/+1
 name: Ranger
+ranged_damage_bonus: +1/+1/+1
+ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/ranger
+speed_bonus: "+1"
+stamina_bonus: +6 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

@@ -1,12 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+average_potency: '[Might](../rule/character/might.md) − 1'
 flavor: You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
     - 'You gain the [Nature](../skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the [exploration](../skill/exploration/index.md) or [intrigue](../skill/intrigue/index.md) skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
+strong_potency: '[Might](../rule/character/might.md)'
 type: class
+weak_potency: '[Might](../rule/character/might.md) − 2'
 ---
 
 # Fury

@@ -8,6 +8,7 @@ keywords:
     - Psionic
 name: Pocket Homunculus
 project_goal: "45"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/pocket-homunculus
 treasure_type: consumable
 type: treasure

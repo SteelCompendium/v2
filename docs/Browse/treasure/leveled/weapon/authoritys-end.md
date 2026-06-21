@@ -7,6 +7,7 @@ keywords:
     - Whip
 name: Authority's End
 project_goal: "450"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end
 treasure_type: weapon
 type: treasure

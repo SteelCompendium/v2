@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Bloody Hand Wraps
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md), [Agility](../../../rule/character/agility.md), or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps
 treasure_type: other
 type: treasure

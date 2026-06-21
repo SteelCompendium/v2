@@ -8,6 +8,7 @@ keywords:
     - Psionic
 name: Breath of Creation
 project_goal: "360"
+project_roll_characteristic: '[Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.4th-echelon.consumable/breath-of-creation
 treasure_type: consumable
 type: treasure

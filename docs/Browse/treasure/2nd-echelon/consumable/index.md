@@ -10,8 +10,9 @@
     <div class="sc-card__name">Breath of Dawn</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A glass flask contains a whirl of gentle sunlight.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -21,8 +22,9 @@
     <div class="sc-card__name">Bull Shot</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Tiny chips of white bone float within this dark potion, which carries the scent of beef broth.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -32,8 +34,9 @@
     <div class="sc-card__name">Chocolate of Immovability</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This decadent-looking treat feels strangely heavy in the hand.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -43,8 +46,9 @@
     <div class="sc-card__name">Concealment Potion</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This dark, viscous liquid tastes like burnt leaves.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -54,8 +58,9 @@
     <div class="sc-card__name">Float Powder</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A glass vial holds translucent flakes that twinkle in the light.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="90 (yields 1d3 vials)">90*</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -65,8 +70,9 @@
     <div class="sc-card__name">Purified Jelly</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This clear, pasty substance has a bitter aroma.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="90 (yields 1d3 doses)">90*</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -76,8 +82,9 @@
     <div class="sc-card__name">Scroll of Resurrection</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Scroll</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This scroll is marked by sigils of power, death, and life.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -87,8 +94,9 @@
     <div class="sc-card__name">Telemagnet</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -98,8 +106,9 @@
     <div class="sc-card__name">Vial of Ethereal Attack</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Clear liquid seems to constantly churn within an obsidian vial, even when at rest.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 </div>

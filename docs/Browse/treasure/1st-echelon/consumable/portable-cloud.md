@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: Portable Cloud
 project_goal: 30 or 45 (see below)
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/portable-cloud
 treasure_type: consumable
 type: treasure

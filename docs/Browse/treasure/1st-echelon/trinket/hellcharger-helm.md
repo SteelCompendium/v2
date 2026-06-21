@@ -9,6 +9,7 @@ keywords:
     - Magic
 name: Hellcharger Helm
 project_goal: "150"
+project_roll_characteristic: '[Might](../../../rule/character/might.md) or [Reason](../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm
 treasure_type: trinket
 type: treasure

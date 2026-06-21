@@ -3,8 +3,12 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 equipment_text: You wear heavy armor and wield a light weapon.
 flavor: The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+melee_damage_bonus: +1/+1/+1
 name: Warrior Priest
 scc: mcdm.heroes.v1/kit/warrior-priest
+speed_bonus: "+1"
+stability_bonus: "+1"
+stamina_bonus: +9 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

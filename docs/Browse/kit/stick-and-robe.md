@@ -1,10 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a polearm.
 flavor: Armed with a simple reach weapon, often a quarterstaff, a character using the Stick and Robe kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+melee_damage_bonus: +1/+1/+1
+melee_distance_bonus: "+1"
 name: Stick and Robe
 scc: mcdm.heroes.v1/kit/stick-and-robe
+speed_bonus: "+2"
+stamina_bonus: +3 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

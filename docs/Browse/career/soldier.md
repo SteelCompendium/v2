@@ -5,6 +5,7 @@ flavor: In your formative years, you fought tirelessly in skirmishes and campaig
 language: Two languages
 name: Soldier
 perk: One exploration perk (*Quick Build:* Teamwork.)
+renown: "+1"
 scc: mcdm.heroes.v1/career/soldier
 skills:
     - One skill from the [exploration skill group](../skill/exploration/index.md) and one skill from the [intrigue group](../skill/intrigue/index.md) (*Quick Build:* [Alertness](../skill/intrigue/alertness.md), [Endurance](../skill/exploration/endurance.md).)

@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: Personal Effigy
 project_goal: "120"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/personal-effigy
 treasure_type: consumable
 type: treasure

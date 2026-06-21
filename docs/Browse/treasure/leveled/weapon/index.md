@@ -10,8 +10,9 @@
     <div class="sc-card__name">Authority&#39;s End</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span><span class="sc-tag">Whip</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This long, sinuous chain is composed entirely of broken links held together by unseen power.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -21,8 +22,9 @@
     <div class="sc-card__name">Blade of Quintessence</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Weapon</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This crystal blade houses a stormy vortex of fire, ice, and lightning.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -32,8 +34,9 @@
     <div class="sc-card__name">Blade of the Luxurious Fop</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Weapon</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -43,8 +46,9 @@
     <div class="sc-card__name">Displacer</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Medium Weapon</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -54,8 +58,9 @@
     <div class="sc-card__name">Executioner&#39;s Blade</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Weapon</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This blade exudes a faint hum that grows louder as its quarry weakens.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -91,8 +96,9 @@
     <div class="sc-card__name">Icemaker Maul</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Weapon</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -102,8 +108,9 @@
     <div class="sc-card__name">Knife of Nine</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Weapon</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This ivory dagger features nine faintly glowing indentations along the blade.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -113,8 +120,9 @@
     <div class="sc-card__name">Lance of the Sundered Star</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Polearm</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This needlelike lance is cast of shimmering metal and induces a yearning for the skies in those who handle it.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -136,8 +144,9 @@
     <div class="sc-card__name">Molten Constrictor</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Net</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This flexible black-iron net burns with the heat of a volcano.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -147,8 +156,9 @@
     <div class="sc-card__name">Onerous Bow</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Bow</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -172,8 +182,9 @@
     <div class="sc-card__name">Steeltongue</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Whip</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This sinuous whip reflects all light off its plated steel surfaces.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -183,8 +194,9 @@
     <div class="sc-card__name">Third Eye Seeker</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Bow</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">The shifting patterns on this bow&#39;s crystalline grip resemble dozens of blinking eyes.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -194,8 +206,9 @@
     <div class="sc-card__name">Thunderhead Bident</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Weapon</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -205,8 +218,9 @@
     <div class="sc-card__name">Wetwork</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Polearm</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">When first held, this naginata whispers the names of its past victims.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 </div>

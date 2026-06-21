@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Third Eye Seeker
 project_goal: "450"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker
 treasure_type: weapon
 type: treasure

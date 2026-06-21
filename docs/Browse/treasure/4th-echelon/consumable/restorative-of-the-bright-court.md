@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: Restorative of the Bright Court
 project_goal: "360"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.4th-echelon.consumable/restorative-of-the-bright-court
 treasure_type: consumable
 type: treasure

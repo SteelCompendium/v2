@@ -1,10 +1,16 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+disengage_bonus: "+1"
 equipment_text: You wear light armor and wield one or two light weapons.
 flavor: Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+melee_damage_bonus: +1/+1/+1
 name: Cloak and Dagger
+ranged_damage_bonus: +1/+1/+1
+ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/cloak-and-dagger
+speed_bonus: "+2"
+stamina_bonus: +3 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

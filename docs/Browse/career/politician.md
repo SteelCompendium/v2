@@ -5,10 +5,12 @@ flavor: You worked as a leader within a formal, bureaucratic organization or gov
 language: One language
 name: Politician
 perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
+renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
     - Two skills from the [interpersonal skill group](../skill/interpersonal/index.md) (*Quick Build:* [Lead](../skill/interpersonal/lead.md), [Lie](../skill/interpersonal/lie.md).)
 type: career
+wealth: "+1"
 ---
 
 # Politician

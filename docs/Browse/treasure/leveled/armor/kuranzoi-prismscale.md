@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Kuran'zoi Prismscale
 project_goal: "450"
+project_roll_characteristic: '[Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale
 treasure_type: armor
 type: treasure

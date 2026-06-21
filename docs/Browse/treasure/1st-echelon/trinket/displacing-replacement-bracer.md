@@ -9,6 +9,7 @@ keywords:
     - Psionic
 name: Displacing Replacement Bracer
 project_goal: "150"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer
 treasure_type: trinket
 type: treasure

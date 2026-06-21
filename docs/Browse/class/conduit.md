@@ -1,12 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+average_potency: '[Intuition](../rule/character/intuition.md) - 1'
 flavor: The power of the gods flows through you! As a vessel for divine power, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 name: Conduit
 scc: mcdm.heroes.v1/class/conduit
 skills:
     - 'Choose any two skills from the [interpersonal](../skill/interpersonal/index.md) or [lore](../skill/lore/index.md) skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Read Person](../skill/interpersonal/read-person.md), Religion.)'
+strong_potency: '[Intuition](../rule/character/intuition.md)'
 type: class
+weak_potency: '[Intuition](../rule/character/intuition.md) - 2'
 ---
 
 # Conduit

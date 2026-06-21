@@ -1,12 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+average_potency: '[Intuition](../rule/character/intuition.md) − 1'
 flavor: The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
     - 'You gain the [Psionics](../skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
+strong_potency: '[Intuition](../rule/character/intuition.md)'
 type: class
+weak_potency: '[Intuition](../rule/character/intuition.md) − 2'
 ---
 
 # Null

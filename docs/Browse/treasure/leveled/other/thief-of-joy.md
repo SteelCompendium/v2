@@ -7,6 +7,7 @@ keywords:
     - Psionic
 name: Thief of Joy
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.leveled.other/thief-of-joy
 treasure_type: other
 type: treasure

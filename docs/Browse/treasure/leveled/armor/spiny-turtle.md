@@ -7,6 +7,7 @@ keywords:
     - Magic
 name: Spiny Turtle
 project_goal: "450"
+project_roll_characteristic: '[Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.armor/spiny-turtle
 treasure_type: armor
 type: treasure

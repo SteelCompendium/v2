@@ -9,6 +9,7 @@ keywords:
     - Potion
 name: Elixir of Saint Elspeth
 project_goal: "360"
+project_roll_characteristic: '[Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/treasure.4th-echelon.consumable/elixir-of-saint-elspeth
 treasure_type: consumable
 type: treasure

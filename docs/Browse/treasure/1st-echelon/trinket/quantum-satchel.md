@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: Quantum Satchel
 project_goal: "150"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/quantum-satchel
 treasure_type: trinket
 type: treasure

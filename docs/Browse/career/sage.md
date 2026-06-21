@@ -5,6 +5,7 @@ flavor: From an early age, you dedicated yourself to learning, whether you share
 language: One language
 name: Sage
 perk: One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
+project_points: "240"
 scc: mcdm.heroes.v1/career/sage
 skills:
     - Two skills from the [lore skill group](../skill/lore/index.md) (*Quick Build:* [History](../skill/lore/history.md), [Magic](../skill/lore/magic.md).)

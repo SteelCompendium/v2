@@ -1,10 +1,15 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+disengage_bonus: "+1"
 equipment_text: You wear light armor and wield several ensnaring weapons and a polearm.
 flavor: The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+melee_damage_bonus: +2/+2/+2
+melee_distance_bonus: "+1"
 name: Retiarius
 scc: mcdm.heroes.v1/kit/retiarius
+speed_bonus: "+1"
+stamina_bonus: +3 per [echelon](../rule/general/echelon.md)
 type: kit
 ---
 

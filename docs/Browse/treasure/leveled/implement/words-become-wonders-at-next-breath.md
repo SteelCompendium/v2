@@ -7,6 +7,7 @@ keywords:
     - Magic
 name: Words Become Wonders at Next Breath
 project_goal: "450"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath
 treasure_type: implement
 type: treasure

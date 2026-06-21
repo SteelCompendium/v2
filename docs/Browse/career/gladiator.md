@@ -5,6 +5,7 @@ flavor: In the past, you entertained the masses with flashy displays of violence
 language: One language
 name: Gladiator
 perk: One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
+renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
     - Two skills from the [exploration skill group](../skill/exploration/index.md) (*Quick Build:*  [Gymnastics](../skill/exploration/gymnastics.md), [Jump](../skill/exploration/jump.md).)

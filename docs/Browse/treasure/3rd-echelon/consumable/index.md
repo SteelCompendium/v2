@@ -10,8 +10,9 @@
     <div class="sc-card__name">Anamorphic Larva</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A cloudy glass vial holds a writhing monstrous grub.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -21,8 +22,9 @@
     <div class="sc-card__name">Bottled Paradox</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -32,8 +34,9 @@
     <div class="sc-card__name">G&#39;Allios Visiting Card</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A card bearing the Eighth City Advocacy Services crest smells faintly of smoke and spices.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -43,8 +46,9 @@
     <div class="sc-card__name">Personal Effigy</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This tiny humanoid effigy appears unnervingly lifelike and is always warm to the touch.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -54,8 +58,9 @@
     <div class="sc-card__name">Stygian Liquor</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This muddy brown whiskey tastes of peat and death.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -65,8 +70,9 @@
     <div class="sc-card__name">Timesplitter</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This spiked crystal makes a beautiful ringing sound when first touched.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -76,8 +82,9 @@
     <div class="sc-card__name">Ward Token</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This smoothly polished quartz stone feels strangely warm to the touch.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 <div class="sc-card sc-fil">
@@ -87,8 +94,9 @@
     <div class="sc-card__name">Wellness Tonic</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This thick purple liquid has a bitter scent that lingers.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
 </div>
 </div>

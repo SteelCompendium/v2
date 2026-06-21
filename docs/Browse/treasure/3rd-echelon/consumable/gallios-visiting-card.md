@@ -8,6 +8,7 @@ keywords:
     - Magic
 name: G'Allios Visiting Card
 project_goal: "180"
+project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/gallios-visiting-card
 treasure_type: consumable
 type: treasure

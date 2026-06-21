@@ -7,6 +7,7 @@ keywords:
     - Magic
 name: Lightning Treads
 project_goal: "450"
+project_roll_characteristic: '[Agility](../../../rule/character/agility.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/treasure.leveled.other/lightning-treads
 treasure_type: other
 type: treasure
