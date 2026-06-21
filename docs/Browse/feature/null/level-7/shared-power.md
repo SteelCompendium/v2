@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 class: "null"
+cost: 5 Discipline
 level: "7"
 name: Shared Power
 scc: mcdm.heroes.v1/feature.null.level-7/shared-power
@@ -19,7 +20,7 @@ type: feature
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature</div>
 <h3 class="sc-trait__name">Shared Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">5</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability targets individual creatures or objects, you target one additional creature or object within <a href="../../../../rule/combat/distance/">distance</a>.</p>

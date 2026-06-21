@@ -414,6 +414,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Barbed Tail</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../Browse/rule/combat/strike/">strike</a> equal to your highest <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score.</p>
@@ -424,6 +425,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Beast Legs</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your powerful legs make you faster. You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
@@ -434,6 +436,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glowing Eyes</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
@@ -444,6 +447,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Hellsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> made against creatures with <a href="../../../Browse/rule/combat/concealment/">concealment</a>.</p>
@@ -454,6 +458,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Impressive Horns</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your cherished horns are larger than the average <a href="../../../Browse/ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -464,6 +469,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Prehensile Tail</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>
@@ -474,6 +480,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Wings</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
@@ -609,6 +616,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Draconian Guard</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature takes damage from a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../Browse/rule/combat/strike/">strike</a> by an amount equal to your level.</p>
@@ -619,6 +627,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Draconian Pride</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
@@ -655,6 +664,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Dragon Breath</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
@@ -695,6 +705,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Prismatic Scales</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Select one <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
@@ -705,6 +716,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Remember Your Oath</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can recite the following oath. Until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
@@ -716,6 +728,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Wings</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
@@ -873,6 +886,7 @@ John was grinning madly at Embers. She held up three fingers.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Great Fortitude</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
@@ -883,6 +897,7 @@ John was grinning madly at Embers. She held up three fingers.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Grounded</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
@@ -893,6 +908,7 @@ John was grinning madly at Embers. She held up three fingers.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Spark Off Your Skin</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your stone skin affords you potent protection. You have a +6 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/health/stamina/">Stamina</a>, and that <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels.</p>
@@ -903,6 +919,7 @@ John was grinning madly at Embers. She held up three fingers.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stand Tough</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
@@ -913,6 +930,7 @@ John was grinning madly at Embers. She held up three fingers.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stone Singer</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can&#39;t destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.</p>
@@ -1046,6 +1064,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Forest Walk</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You can <a href="../../../Browse/movement/shifting/">shift</a> into and while within <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p>
@@ -1056,6 +1075,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Quick and Brutal</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you score a <a href="../../../Browse/rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
@@ -1066,6 +1086,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Otherworldly Grace</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -1076,6 +1097,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Revisit Memory</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
@@ -1086,6 +1108,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Swift</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
@@ -1096,6 +1119,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">The Wode Defends</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
@@ -1243,6 +1267,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glamor of Terror</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../Browse/condition/frightened/">frightened</a> of you until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
@@ -1253,6 +1278,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Graceful Retreat</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action.</p>
@@ -1263,6 +1289,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">High Senses</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your senses are especially keen and perceptive. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to notice threats.</p>
@@ -1273,6 +1300,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Otherworldly Grace</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -1283,6 +1311,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Revisit Memory</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
@@ -1293,6 +1322,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unstoppable Mind</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>
@@ -1440,6 +1470,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">All Is a Feather</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You are exceptionally strong. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
@@ -1450,6 +1481,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Doomsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on <a href="../../../Browse/rule/test/test/">tests</a> and <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a>, and you don&#39;t die no matter how low your <a href="../../../Browse/rule/health/stamina/">Stamina</a> falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</p>
@@ -1462,6 +1494,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Forceful</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you <a href="../../../Browse/movement/forced-movement/">force move</a> a creature or object, the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> gains a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a>.</p>
@@ -1472,6 +1505,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Great Fortitude</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
@@ -1482,6 +1516,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stand Tough</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
@@ -1573,6 +1608,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Can&#39;t Take Hold</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to the natural world allows you to resist certain <a href="../../../Browse/rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../Browse/movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> by 1.</p>
@@ -1583,6 +1619,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Determination</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../Browse/condition/frightened/">frightened</a>, <a href="../../../Browse/condition/slowed/">slowed</a>, or <a href="../../../Browse/condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../Browse/rule/combat/condition/">conditions</a>.</p>
@@ -1593,6 +1630,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Perseverance</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Giving up is for other people. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made using the <a href="../../../Browse/skill/exploration/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../Browse/condition/slowed/">slowed</a>, your <a href="../../../Browse/rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
@@ -1603,6 +1641,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Resist the Unnatural</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
@@ -1613,6 +1652,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Staying Power</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../Browse/ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> by 2.</p>
@@ -1762,6 +1802,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">I Am Law</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</p>
@@ -1772,6 +1813,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Keeper of Order</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature makes a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to remove an <a href="../../../Browse/rule/dice/edge/">edge</a> or a <a href="../../../Browse/rule/dice/bane/">bane</a> on the roll, to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/edge/">edge</a> into an <a href="../../../Browse/rule/dice/edge/">edge</a>, or to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/bane/">bane</a> into a <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
@@ -1782,6 +1824,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Lightning Nimbleness</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You can push your body to move at incredible <a href="../../../Browse/rule/character/speed/">speeds</a>. Your <a href="../../../Browse/rule/character/speed/">speed</a> is 7.</p>
@@ -1792,6 +1835,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
@@ -1802,6 +1846,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Systematic Mind</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
@@ -1812,6 +1857,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unphased</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../Browse/rule/combat/surprised/">surprised</a>.</p>
@@ -1822,6 +1868,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Useful Emotion</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Velloparatha—the worldsickness—might hinder you, but you know how to <a href="../../../Browse/rule/combat/turn/">turn</a> your pain into something your enemies feel. At the start of any combat, you gain 1 <a href="../../../Browse/rule/resource/surge/">surge</a>.</p>
@@ -1995,6 +2042,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bloodfire Rush</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>The magic coursing through your veins makes you run faster in the heat of battle. The first time in any <a href="../../../Browse/rule/combat/combat-round/">combat round</a> that you take damage, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> until the end of the round.</p>
@@ -2005,6 +2053,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glowing Recovery</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> as you like.</p>
@@ -2015,6 +2064,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Grounded</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>The magic in your blood makes it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
@@ -2025,6 +2075,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
@@ -2035,6 +2086,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Passionate Artisan</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>, whether you have those skills or not. Whenever you make a <a href="../../../Browse/rule/downtime/project-roll/">project roll</a> for a <a href="../../../Browse/rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>
@@ -2224,95 +2276,29 @@ You have the following ability.
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless, Graceful Retreat.)
 
-##### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity"}
+##### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Corruption Immunity</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Your innate <a href="../../../Browse/class/shadow/">shadow</a> magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p>
-</div>
-</section>
+Your innate [shadow](../../Browse/class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
-##### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless"}
+##### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless" data-cost="2 Points"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Fearless</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Courage is all you know. You can&#39;t be made <a href="../../../Browse/condition/frightened/">frightened</a>.</p>
-</div>
-</section>
+Courage is all you know. You can't be made [frightened](../../Browse/condition/frightened.md).
 
-##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
+##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Graceful Retreat</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Your small <a href="../../../Browse/rule/character/size/">size</a> makes it easier for you to slip away from the fray. You gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action.</p>
-</div>
-</section>
+Your small [size](../../Browse/rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
-##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
+##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep" data-cost="2 Points"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Nimblestep</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>A light step serves you well when <a href="../../../Browse/rule/character/speed/">speed</a> is of the essence. You ignore the effects of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> and can move at full <a href="../../../Browse/rule/character/speed/">speed</a> while sneaking.</p>
-</div>
-</section>
+A light step serves you well when [speed](../../Browse/rule/character/speed.md) is of the essence. You ignore the effects of [difficult terrain](../../Browse/movement/difficult-terrain.md) and can move at full [speed](../../Browse/rule/character/speed.md) while sneaking.
 
-##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
+##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Polder Geist</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Evading others&#39; notice gives you freedom to move. At the start of each of your <a href="../../../Browse/rule/combat/turn/">turns</a> during combat, if no enemy has <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to you or if you are hidden from or have <a href="../../../Browse/rule/combat/concealment/">concealment</a> from any enemy with <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to you, you gain a +3 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> until the end of your <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
-</div>
-</section>
+Evading others' notice gives you freedom to move. At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, if no enemy has [line of effect](../../Browse/rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../../Browse/rule/combat/concealment.md) from any enemy with [line of effect](../../Browse/rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of your [turn](../../Browse/rule/combat/turn.md).
 
-##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
+##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Reactive Tumble</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../Browse/movement/forced-movement/">force moved</a>, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to <a href="../../../Browse/movement/shifting/">shift</a> 1 square after the <a href="../../../Browse/movement/forced-movement/">forced movement</a> is resolved.</p>
-</div>
-</section>
+Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../../Browse/movement/forced-movement.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) 1 square after the [forced movement](../../Browse/movement/forced-movement.md) is resolved.
 
 ## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant"}
 
@@ -2426,6 +2412,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bloodless</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../Browse/condition/bleeding/">bleeding</a> even while <a href="../../../Browse/rule/health/dying/">dying</a>.</p>
@@ -2436,6 +2423,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Previous Life: 1 Point</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.</p>
@@ -2446,6 +2434,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Previous Life: 2 Points</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 2 ancestry points from your previous ancestry.</p>
@@ -2456,6 +2445,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Undead Influence</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../Browse/rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, and <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> made to interact with undead creatures.</p>
@@ -2466,6 +2456,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Vengeance Mark</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature&#39;s body, and whether the sigil is visible to only you or to all creatures.</p>
@@ -2643,6 +2634,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Beyondsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to any creature or object in that area. You can restore your usual vision as a maneuver.</p>
@@ -2653,6 +2645,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Foresight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../Browse/rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../../Browse/rule/dice/bane/">bane</a> on the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p>
@@ -2663,6 +2656,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Four-Armed Athletics</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your unique physiology enhances your movement. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> that use the <a href="../../../Browse/skill/exploration/climb/">Climb</a>, <a href="../../../Browse/skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../../Browse/skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
@@ -2673,6 +2667,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/grab/">Grab</a> or <a href="../../../Browse/feature/common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../../Browse/condition/grabbed/">grabbed</a> at a time.</p>
@@ -2683,6 +2678,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Psionic Gift</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
@@ -2763,6 +2759,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unstoppable Mind</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>

@@ -46,6 +46,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Barbed Tail</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../../rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../../rule/combat/strike/">strike</a> equal to your highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p>
@@ -56,6 +57,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Beast Legs</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your powerful legs make you faster. You have <a href="../../../../rule/character/speed/">speed</a> 6.</p>
@@ -66,6 +68,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glowing Eyes</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
@@ -76,6 +79,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Hellsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
@@ -86,6 +90,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Impressive Horns</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -96,6 +101,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Prehensile Tail</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>
@@ -106,6 +112,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Wings</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../../rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5.</p>

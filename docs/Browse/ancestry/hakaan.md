@@ -145,6 +145,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">All Is a Feather</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You are exceptionally strong. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
@@ -155,6 +156,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Doomsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on <a href="../../rule/test/test/">tests</a> and <a href="../../rule/dice/ability-roll/">ability rolls</a>, and you don&#39;t die no matter how low your <a href="../../rule/health/stamina/">Stamina</a> falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</p>
@@ -167,6 +169,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Forceful</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you <a href="../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
@@ -177,6 +180,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Great Fortitude</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../condition/weakened/">weakened</a>.</p>
@@ -187,6 +191,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stand Tough</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../rule/character/potency/">potencies</a>, and you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/might/">Might</a> <a href="../../rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>

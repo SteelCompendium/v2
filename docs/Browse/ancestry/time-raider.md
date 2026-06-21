@@ -143,6 +143,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Beyondsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have <a href="../../rule/combat/line-of-effect/">line of effect</a> to any creature or object in that area. You can restore your usual vision as a maneuver.</p>
@@ -153,6 +154,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Foresight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../rule/combat/strike/">strike</a>, you can use a <a href="../../rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../rule/dice/bane/">bane</a> on the <a href="../../rule/dice/power-roll/">power roll</a>.</p>
@@ -163,6 +165,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Four-Armed Athletics</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your unique physiology enhances your movement. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/exploration/climb/">Climb</a>, <a href="../../skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
@@ -173,6 +176,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../feature/common/maneuvers/grab/">Grab</a> or <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../condition/grabbed/">grabbed</a> at a time.</p>
@@ -183,6 +187,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Psionic Gift</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
@@ -263,6 +268,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unstoppable Mind</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../condition/dazed/">dazed</a>.</p>

@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: hakaan
+cost: 2 Points
 name: Doomsight
 scc: mcdm.heroes.v1/feature.trait.hakaan/doomsight
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Hakaan Trait</div>
 <h3 class="sc-trait__name">Doomsight</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on <a href="../../../../rule/test/test/">tests</a> and <a href="../../../../rule/dice/ability-roll/">ability rolls</a>, and you don&#39;t die no matter how low your <a href="../../../../rule/health/stamina/">Stamina</a> falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</p>

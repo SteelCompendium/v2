@@ -131,6 +131,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Forest Walk</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You can <a href="../../movement/shifting/">shift</a> into and while within <a href="../../movement/difficult-terrain/">difficult terrain</a>.</p>
@@ -141,6 +142,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Quick and Brutal</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you score a <a href="../../rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
@@ -151,6 +153,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Otherworldly Grace</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -161,6 +164,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Revisit Memory</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to recall lore.</p>
@@ -171,6 +175,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Swift</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You have <a href="../../rule/character/speed/">speed</a> 6.</p>
@@ -181,6 +186,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">The Wode Defends</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../rule/combat/signature-ability/">signature ability</a>. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>

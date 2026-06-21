@@ -370,7 +370,7 @@ This section presents a number of default animal stat blocks with basic features
 
 Mobility traits cover a wide range of the options that keep animals moving.
 
-###### Burrowing
+###### Burrowing {data-cost="2 Points"}
 
 The animal can [burrow](../../Browse/movement/burrow.md).
 
@@ -378,13 +378,13 @@ The animal can [burrow](../../Browse/movement/burrow.md).
 
 **Typically Used By:** Ants, groundhogs, mohlers.
 
-###### Climbing
+###### Climbing {data-cost="1 Point"}
 
 The animal can automatically climb at full speed while moving.
 
 **Typically Used By:** Jaguars, monkeys.
 
-###### Flight
+###### Flight {data-cost="2 Points"}
 
 The animal can [fly](../../Browse/movement/fly.md), and their stability decreases by 2 (to a minimum of 0).
 
@@ -392,25 +392,25 @@ The animal can [fly](../../Browse/movement/fly.md), and their stability decrease
 
 **Typically Used By:** Bees, birds.
 
-###### Leaping
+###### Leaping {data-cost="2 Points"}
 
 On their turn, the animal can high jump or long jump up to half their speed. This jump can allow the animal to move more squares than their speed.
 
 **Typically Used By:** Frogs, rabbits.
 
-###### Slinking
+###### Slinking {data-cost="1 Point"}
 
 The animal can use a move action to [shift](../../Browse/movement/shifting.md) up to 3 squares, even while [prone](../../Browse/condition/prone.md).
 
 **Typically Used By:** Snakes, vermin.
 
-###### Swiftness
+###### Swiftness {data-cost="1 Point"}
 
 The animal has a +2 bonus to speed, and they ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). (This trait can be selected twice.)
 
 **Typically Used By:** Tigers, wolves.
 
-###### Swimming
+###### Swimming {data-cost="1 Point"}
 
 The animal can automatically swim at full speed while moving.
 
@@ -420,61 +420,61 @@ The animal can automatically swim at full speed while moving.
 
 Defensive traits help animals stay out of danger—or to set ambushes for unwary prey.
 
-###### Camouflage
+###### Camouflage {data-cost="1 Point"}
 
 The animal can attempt to hide even while observed. While no enemy has [line of effect](../../Browse/rule/combat/line-of-effect.md) to the animal, they can automatically hide at the end of their turn.
 
 **Typically Used By:** Chameleons, foxes, tigers.
 
-###### Fearsome
+###### Fearsome {data-cost="2 Points"}
 
 As a maneuver, the animal makes an imposing display. Each enemy within 2 squares of the animal who has I < 1 must [shift](../../Browse/movement/shifting.md) 3 squares in a straight line away from the animal.
 
 **Typically Used By:** Aardvarks, lions, peacocks.
 
-###### Pack
+###### Pack {data-cost="1 Point"}
 
 While adjacent to an ally, the animal can't be [flanked](../../Browse/rule/combat/flanking.md) or be made [frightened](../../Browse/condition/frightened.md).
 
 **Typically Used By:** Hyenas, sheep, wolves.
 
-###### Plated
+###### Plated {data-cost="1 Point"}
 
 The animal has a +2 bonus to stability, and melee strikes against them take a [bane](../../Browse/rule/dice/bane.md).
 
 **Typically Used By:** Beetles, crabs, turtles.
 
-###### Spiny
+###### Spiny {data-cost="1 Point"}
 
 Whenever an adjacent enemy grabs the animal or uses a melee ability against them, that enemy takes 3 damage.
 
 **Typically Used By:** Porcupines, urchins.
 
-###### Stench
+###### Stench {data-cost="2 Points"}
 
 At the start of the animal's turn, each enemy adjacent to the animal who has M < 1 must shift 1 square away from the animal.
 
 **Typically Used By:** Oxen, skunks, wolverines.
 
-###### Thick Hide
+###### Thick Hide {data-cost="1 Point"}
 
 The animal starts any combat encounter with 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). (This trait can be selected twice.)
 
 **Typically Used By:** Bears, elephants, rhinoceroses.
 
-###### Unrelenting
+###### Unrelenting {data-cost="2 Points"}
 
 Once per combat, when the animal is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they can choose to either remain alive with 1 [Stamina](../../Browse/rule/health/stamina.md) or immediately move up to their speed and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) before dying.
 
 **Typically Used By:** Bears, boars.
 
-###### Wiggly
+###### Wiggly {data-cost="1 Point"}
 
 The animal ignores [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) and gains an [edge](../../Browse/rule/dice/edge.md) on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver.
 
 **Typically Used By:** Eels, lizards, rats.
 
-###### Withdraw
+###### Withdraw {data-cost="2 Points"}
 
 Whenever the animal takes damage, they can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to halve that damage and all other damage they take until the start of their next turn.
 
@@ -484,19 +484,19 @@ Whenever the animal takes damage, they can use a [triggered action](../../Browse
 
 When animals hunt or face off against threats, they bring a wide range of offensive traits to bear.
 
-###### Charger
+###### Charger {data-cost="1 Point"}
 
 The animal's [signature ability](../../Browse/rule/combat/signature-ability.md) has the Charge keyword, and they gain an [edge](../../Browse/rule/dice/edge.md) on that ability if it is used as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action.
 
 **Typically Used By:** Boars, rhinoceroses, swordfish.
 
-###### Frenzy
+###### Frenzy {data-cost="1 Point"}
 
 The animal gains an [edge](../../Browse/rule/dice/edge.md) on strikes against creatures who are [bleeding](../../Browse/condition/bleeding.md) or [winded](../../Browse/rule/health/winded.md).
 
 **Typically Used By:** Blood bats, piranhas, sharks.
 
-###### Grappler
+###### Grappler {data-cost="1 Point"}
 
 If the target of the animal's [signature ability](../../Browse/rule/combat/signature-ability.md) has A < 1, they are [grabbed](../../Browse/condition/grabbed.md) by the animal.
 
@@ -504,31 +504,31 @@ If the target of the animal's [signature ability](../../Browse/rule/combat/signa
 
 **Typically Used By:** Apes, octopuses, snakes.
 
-###### Hunter
+###### Hunter {data-cost="1 Point"}
 
 The animal ignores concealment.
 
 **Typically Used By:** Eagles, rats, wolves.
 
-###### Multilimb
+###### Multilimb {data-cost="2 Points"}
 
 The animal can target one additional creature or object whenever they make a [free strike](../../Browse/feature/common/main-actions/free-strike.md), use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver, or use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver. (This trait can be selected twice.)
 
 **Typically Used By:** Monkeys, octopuses, quadrakangas.
 
-###### Pouncer
+###### Pouncer {data-cost="1 Point"}
 
 As a maneuver, the animal jumps up to 3 squares. If they land on an enemy their size or smaller, that enemy is knocked [prone](../../Browse/condition/prone.md) and the animal can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
 
 **Typically Used By:** Foxes, wild cats.
 
-###### Power
+###### Power {data-cost="1 Point"}
 
 Whenever the animal [force moves](../../Browse/movement/forced-movement.md) a target, they have a +2 bonus to the forced movement distance.
 
 **Typically Used By:** Bears, bulls, lions.
 
-###### Projectile
+###### Projectile {data-cost="2 Points"}
 
 The animal's signature ability gains the Ranged keyword and adds Ranged 10 to its distance.
 
@@ -536,7 +536,7 @@ The animal's signature ability gains the Ranged keyword and adds Ranged 10 to it
 
 **Typically Used By:** Archer fish, snakes.
 
-###### Reach
+###### Reach {data-cost="1 Point"}
 
 The animal's signature ability gains a +2 bonus to distance. (This trait can be selected twice.)
 
@@ -544,13 +544,13 @@ The animal's signature ability gains a +2 bonus to distance. (This trait can be 
 
 **Typically Used By:** Frogs, giraffes, pistol shrimp.
 
-###### Venom
+###### Venom {data-cost="1 Point"}
 
 The animal's [signature ability](../../Browse/rule/combat/signature-ability.md) deals an extra 2 poison damage, and if the target has M < 1, they are [weakened](../../Browse/condition/weakened.md) (save ends).
 
 **Typically Used By:** Platypuses, snakes, wasps.
 
-###### Web
+###### Web {data-cost="2 Points"}
 
 The animal gains the following ability.
 
@@ -574,43 +574,43 @@ The animal gains the following ability.
 
 Animals who channel magic or psionic power can show off a range of unusual supernatural traits.
 
-###### Death Fumes
+###### Death Fumes {data-cost="10 Points"}
 
 Whenever the animal takes damage, each creature adjacent to the animal who has M < 1 takes damage equal to half the creature's current Stamina.
 
 **Typically Used By:** Death snails.
 
-###### Elemental
+###### Elemental {data-cost="2 Points"}
 
 The animal has an affinity for one of the following damage types: acid, cold, corruption, fire, lightning, poison. The animal has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 3 to the chosen damage type, and their strikes deal the chosen damage type instead of their original damage type.
 
 **Typically Used By:** Fire salamanders, ice bats.
 
-###### Gelatinous
+###### Gelatinous {data-cost="2 Points"}
 
 The animal can move through spaces as if they were size 1T. Whenever the animal takes damage, they can use a triggered action to separate into two animals. Each new animal has the same statistics as the original but has half the original's current Stamina.
 
 **Typically Used By:** Earthworms, thunderjellies.
 
-###### Hypnosis
+###### Hypnosis {data-cost="2 Points"}
 
 As a maneuver, the animal targets one enemy within 5 squares with their gaze, movements, or vocalizations. If the enemy has R < 1, they are [dazed](../../Browse/condition/dazed.md) (save ends).
 
 **Typically Used By:** Angler fish, snakes, tigers.
 
-###### Imposer
+###### Imposer {data-cost="2 Points"}
 
 The animal's size increases by 1 (to a minimum of size 2), and they gain a +2 bonus to stability. Additionally, the animal gains a +3 damage bonus to strikes.
 
 **Typically Used By:** Dire animals, terror lizards.
 
-###### Pass Through
+###### Pass Through {data-cost="2 Points"}
 
 The animal can move through solid matter, and strikes made against them take a [bane](../../Browse/rule/dice/bane.md). If the animal ends their turn inside solid matter, they are shunted out into the space from which they entered it.
 
 **Typically Used By:** Barn owls, tiger wraiths.
 
-###### Translation
+###### Translation {data-cost="2 Points"}
 
 The animal can [teleport](../../Browse/movement/teleport.md).
 

@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: polder
+cost: 1 Point
 name: Reactive Tumble
 scc: mcdm.heroes.v1/feature.trait.polder/reactive-tumble
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
 <h3 class="sc-trait__name">Reactive Tumble</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/shifting/">shift</a> 1 square after the <a href="../../../../movement/forced-movement/">forced movement</a> is resolved.</p>

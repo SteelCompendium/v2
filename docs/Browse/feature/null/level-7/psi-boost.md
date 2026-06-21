@@ -29,7 +29,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Dynamic Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">1</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Expanded Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">3</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.</p>
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Extended Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">1</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability is <a href="../../../../rule/combat/ranged/">ranged</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. If the ability is <a href="../../../../rule/combat/melee/">melee</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Heightened Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">1</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability deals <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>, it deals extra damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
@@ -73,7 +73,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Magnified Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">5</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability has a <a href="../../../../rule/character/potency/">potency</a>, you increase that <a href="../../../../rule/character/potency/">potency</a> by an amount equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Shared Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">5</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability targets individual creatures or objects, you target one additional creature or object within <a href="../../../../rule/combat/distance/">distance</a>.</p>
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Sharpened Power</h3>
 </div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
+<div class="sc-trait__tag"><span class="num">1</span> Discipline</div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability has any <a href="../../../../rule/dice/power-roll/">power roll</a>, that roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>

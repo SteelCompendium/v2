@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
+cost: 2 Points
 name: The Wode Defends
 scc: mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
 <h3 class="sc-trait__name">The Wode Defends</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../../rule/combat/signature-ability/">signature ability</a>. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>

@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
+cost: 1 Point
 name: Quick and Brutal
 scc: mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
 <h3 class="sc-trait__name">Quick and Brutal</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you score a <a href="../../../../rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>

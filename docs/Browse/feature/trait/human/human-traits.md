@@ -46,6 +46,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Can&#39;t Take Hold</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to the natural world allows you to resist certain <a href="../../../../rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
@@ -56,6 +57,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Determination</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../../rule/combat/condition/">conditions</a>.</p>
@@ -66,6 +68,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Perseverance</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/exploration/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your <a href="../../../../rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
@@ -76,6 +79,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Resist the Unnatural</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
@@ -86,6 +90,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Staying Power</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../../ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> by 2.</p>

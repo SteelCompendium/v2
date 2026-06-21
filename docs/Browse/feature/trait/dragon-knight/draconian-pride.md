@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: dragon-knight
+cost: 2 Points
 name: Draconian Pride
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dragon Knight Trait</div>
 <h3 class="sc-trait__name">Draconian Pride</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../../rule/combat/signature-ability/">signature ability</a>.</p>

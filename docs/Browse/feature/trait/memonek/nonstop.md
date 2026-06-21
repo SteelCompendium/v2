@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: memonek
+cost: 2 Points
 name: Nonstop
 scc: mcdm.heroes.v1/feature.trait.memonek/nonstop
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Memonek Trait</div>
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p>

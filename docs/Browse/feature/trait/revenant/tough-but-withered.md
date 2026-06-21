@@ -38,6 +38,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bloodless</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>.</p>
@@ -48,6 +49,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Previous Life: 1 Point</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.</p>
@@ -58,6 +60,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Previous Life: 2 Points</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 2 ancestry points from your previous ancestry.</p>
@@ -68,6 +71,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Undead Influence</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../../rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
@@ -78,6 +82,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Vengeance Mark</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature&#39;s body, and whether the sigil is visible to only you or to all creatures.</p>

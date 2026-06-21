@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: dragon-knight
+cost: 1 Point
 name: Remember Your Oath
 scc: mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dragon Knight Trait</div>
 <h3 class="sc-trait__name">Remember Your Oath</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can recite the following oath. Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
