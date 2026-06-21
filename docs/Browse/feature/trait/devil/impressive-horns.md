@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: devil
-cost: 2 Points
 name: Impressive Horns
 scc: mcdm.heroes.v1/feature.trait.devil/impressive-horns
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
 <h3 class="sc-trait__name">Impressive Horns</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>

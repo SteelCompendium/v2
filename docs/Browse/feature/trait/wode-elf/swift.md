@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
-cost: 1 Point
 name: Swift
 scc: mcdm.heroes.v1/feature.trait.wode-elf/swift
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
 <h3 class="sc-trait__name">Swift</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You have <a href="../../../../rule/character/speed/">speed</a> 6.</p>

@@ -46,7 +46,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glamor of Terror</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/frightened/">frightened</a> of you until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p>
@@ -57,7 +56,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Graceful Retreat</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
@@ -68,7 +66,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">High Senses</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice threats.</p>
@@ -79,7 +76,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Otherworldly Grace</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
@@ -90,7 +86,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Revisit Memory</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to recall lore.</p>
@@ -101,7 +96,6 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unstoppable Mind</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../../condition/dazed/">dazed</a>.</p>

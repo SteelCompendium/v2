@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 class: talent
-cost: 5 Clarity
 level: "6"
 name: Magnified Power
 scc: mcdm.heroes.v1/feature.talent.level-6/magnified-power
@@ -20,7 +19,7 @@ type: feature
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
 <h3 class="sc-trait__name">Magnified Power</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">5</span> Clarity</div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability has a <a href="../../../../rule/character/potency/">potency</a>, you increase that <a href="../../../../rule/character/potency/">potency</a> by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>

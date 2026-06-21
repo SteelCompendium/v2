@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: polder
-cost: 1 Point
 name: Graceful Retreat
 scc: mcdm.heroes.v1/feature.trait.polder/graceful-retreat
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
 <h3 class="sc-trait__name">Graceful Retreat</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your small <a href="../../../../rule/character/size/">size</a> makes it easier for you to slip away from the fray. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>

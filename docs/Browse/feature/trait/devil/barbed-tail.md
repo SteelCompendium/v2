@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: devil
-cost: 1 Point
 name: Barbed Tail
 scc: mcdm.heroes.v1/feature.trait.devil/barbed-tail
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
 <h3 class="sc-trait__name">Barbed Tail</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../../rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../../rule/combat/strike/">strike</a> equal to your highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p>

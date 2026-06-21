@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: hakaan
-cost: 2 Points
 name: Great Fortitude
 scc: mcdm.heroes.v1/feature.trait.hakaan/great-fortitude
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Hakaan Trait</div>
 <h3 class="sc-trait__name">Great Fortitude</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../../condition/weakened/">weakened</a>.</p>

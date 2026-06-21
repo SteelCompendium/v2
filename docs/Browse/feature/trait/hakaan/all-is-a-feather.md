@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: hakaan
-cost: 1 Point
 name: All Is a Feather
 scc: mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Hakaan Trait</div>
 <h3 class="sc-trait__name">All Is a Feather</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You are exceptionally strong. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to lift and haul heavy objects.</p>

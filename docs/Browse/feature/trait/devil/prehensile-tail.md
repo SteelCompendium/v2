@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: devil
-cost: 2 Points
 name: Prehensile Tail
 scc: mcdm.heroes.v1/feature.trait.devil/prehensile-tail
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
 <h3 class="sc-trait__name">Prehensile Tail</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>

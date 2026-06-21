@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: high-elf
-cost: 1 Point
 name: High Senses
 scc: mcdm.heroes.v1/feature.trait.high-elf/high-senses
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>High Elf Trait</div>
 <h3 class="sc-trait__name">High Senses</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice threats.</p>

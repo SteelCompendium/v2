@@ -171,7 +171,6 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bloodfire Rush</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>The magic coursing through your veins makes you run faster in the heat of battle. The first time in any <a href="../../rule/combat/combat-round/">combat round</a> that you take damage, you gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of the round.</p>
@@ -182,7 +181,6 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Glowing Recovery</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../rule/health/recoveries/">Recoveries</a> as you like.</p>
@@ -193,7 +191,6 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Grounded</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>The magic in your blood makes it difficult for others to move you. You have a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/stability/">stability</a>.</p>
@@ -204,7 +201,6 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../condition/slowed/">slowed</a>.</p>
@@ -215,7 +211,6 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Passionate Artisan</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the <a href="../../skill/crafting/">crafting skill group</a>, whether you have those skills or not. Whenever you make a <a href="../../rule/downtime/project-roll/">project roll</a> for a <a href="../../rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>

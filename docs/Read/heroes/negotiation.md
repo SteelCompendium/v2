@@ -237,10 +237,6 @@ If a hero wants to halt hostilities to negotiate with the other side, they can u
 
 An [NPC](../../Browse/rule/general/npc.md)'s starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible [NPC](../../Browse/rule/general/npc.md) might have lower [patience](../../Browse/rule/negotiation/patience.md), while a hostile [NPC](../../Browse/rule/general/npc.md) with a greater-than-expected stake in the negotiation topic might have a higher-than-typical [interest](../../Browse/rule/negotiation/interest.md).
 
-### Uncovering Motivations
-
-If a hero wishes to figure out an [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md), they can begin by simply asking, "What do you want out of this deal?" In response, the
-
 ###### Negotiation Starting Attitudes Table
 
 | Attitude   | Description                                                                                              | [Interest](../../Browse/rule/negotiation/interest.md) | [Patience](../../Browse/rule/negotiation/patience.md) |
@@ -252,7 +248,9 @@ If a hero wishes to figure out an [NPC](../../Browse/rule/general/npc.md)'s [mot
 | Friendly   | The heroes seem like the [NPC](../../Browse/rule/general/npc.md)'s people. The [NPC](../../Browse/rule/general/npc.md) is willing to give them the benefit of the doubt.         | 3        | 4        |
 | Trusting   | The [NPC](../../Browse/rule/general/npc.md) has reason to take the heroes at their word and will help if the characters don't screw this up. | 3        | 5        |
 
-[NPC](../../Browse/rule/general/npc.md) can willingly hint at or reveal one of their [motivations](../../Browse/rule/negotiation/motivation.md), usually by asking for something. For instance, a monarch [NPC](../../Browse/rule/general/npc.md) with the [greed](../../Browse/negotiation/greed.md) [motivation](../../Browse/rule/negotiation/motivation.md) and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the [NPC](../../Browse/rule/general/npc.md) might offer up similar suggestions without the heroes asking, provided the [NPC](../../Browse/rule/general/npc.md) already has an [interest](../../Browse/rule/negotiation/interest.md) of 3 or higher.
+### Uncovering Motivations
+
+If a hero wishes to figure out an [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md), they can begin by simply asking, "What do you want out of this deal?" In response, the [NPC](../../Browse/rule/general/npc.md) can willingly hint at or reveal one of their [motivations](../../Browse/rule/negotiation/motivation.md), usually by asking for something. For instance, a monarch [NPC](../../Browse/rule/general/npc.md) with the [greed](../../Browse/negotiation/greed.md) [motivation](../../Browse/rule/negotiation/motivation.md) and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the [NPC](../../Browse/rule/general/npc.md) might offer up similar suggestions without the heroes asking, provided the [NPC](../../Browse/rule/general/npc.md) already has an [interest](../../Browse/rule/negotiation/interest.md) of 3 or higher.
 
 If an [NPC](../../Browse/rule/general/npc.md) isn't as forthcoming, or if the heroes want to learn one of the [NPC](../../Browse/rule/general/npc.md)'s [pitfalls](../../Browse/rule/negotiation/pitfall.md), a hero can make a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) while interacting with the [NPC](../../Browse/rule/general/npc.md) during the negotiation, based on the tactics used to draw out the [NPC](../../Browse/rule/general/npc.md). The [test](../../Browse/rule/test/test.md) has the following outcomes:
 

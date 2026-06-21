@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: revenant
-cost: 1 Point
 name: Undead Influence
 scc: mcdm.heroes.v1/feature.trait.revenant/undead-influence
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Revenant Trait</div>
 <h3 class="sc-trait__name">Undead Influence</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../../rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>

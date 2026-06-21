@@ -25,7 +25,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Armed and Dangerous</div></div></div>
   <div class="sc-card__flavor">I&#39;m not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can't use kits, and you defeat five non-minion enemies using weapon abilities that don't have the Magic or Psionic keyword.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can&#39;t use kits, and you defeat five non-minion enemies using weapon abilities that don&#39;t have the Magic or Psionic keyword.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="awakened/" aria-label="Awakened"></a>
@@ -41,7 +41,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Back From the Grave</div></div></div>
   <div class="sc-card__flavor">Hi! Remember me?</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You die at the hands of your greatest foe, that foe still lives, and you aren't a <a href="../ancestry/revenant/">revenant</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You die at the hands of your greatest foe, that foe still lives, and you aren&#39;t a [revenant](../ancestry/revenant.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="battleaxe-diplomat/" aria-label="Battleaxe Diplomat"></a>
@@ -89,7 +89,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">City Rat</div></div></div>
   <div class="sc-card__flavor">Stay out all night, visit the dives. Get in a fight, run from the cops. That&#39;s the real city.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have spent at least five <a href="../rule/resource/respite/">respites</a> in a metropolis.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have spent at least five [respites](../rule/resource/respite.md) in a metropolis.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="corsair/" aria-label="Corsair"></a>
@@ -97,7 +97,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Corsair</div></div></div>
   <div class="sc-card__flavor">Haul down your flag or we&#39;ll burn you to the waterline!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="ship-captain/">Ship Captain</a> title, and you sink or capture a ship of equal or greater <a href="../rule/character/size/">size</a> than your own.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater [size](../rule/character/size.md) than your own.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="delegator/" aria-label="Delegator"></a>
@@ -105,7 +105,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Delegator</div></div></div>
   <div class="sc-card__flavor">They&#39;re all yours, buddy.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a <a href="../class/summoner/">summoner</a>, and you strike a deal with your <a href="../feature/summoner/level-1/portfolio/">portfolio's</a> champion.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a [summoner](../class/summoner.md), and you strike a deal with your [portfolio&#39;s](../feature/summoner/level-1/portfolio.md) champion.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="demigod/" aria-label="Demigod"></a>
@@ -113,7 +113,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Demigod</div></div></div>
   <div class="sc-card__flavor">The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="godsworn/">Godsworn</a> title, and hundreds of worshipful mortals complete a divine ritual in your name.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Godsworn](godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="demon-slayer/" aria-label="Demon Slayer"></a>
@@ -129,7 +129,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Diabolist</div></div></div>
   <div class="sc-card__flavor">If you can&#39;t beat &#39;em, join &#39;em.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with the <a href="../ancestry/devil/">Devil</a> keyword, such as an archdevil, or you make a deal with a <a href="../ancestry/devil/">devil</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with the [Devil](../ancestry/devil.md) keyword, such as an archdevil, or you make a deal with a [devil](../ancestry/devil.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="doomed/" aria-label="Doomed"></a>
@@ -137,7 +137,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Doomed</div></div></div>
   <div class="sc-card__flavor">I don&#39;t know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You aren't a <a href="../ancestry/hakaan/">hakaan</a> but have witnessed the death of a <a href="../ancestry/hakaan/">hakaan</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You aren&#39;t a [hakaan](../ancestry/hakaan.md) but have witnessed the death of a [hakaan](../ancestry/hakaan.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="dragon-blooded/" aria-label="Dragon Blooded"></a>
@@ -153,7 +153,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Dwarven Legionnaire</div></div></div>
   <div class="sc-card__flavor">I have learned much. It might be your courage that inspires others. Watch your opponent&#39;s shield as well as their sword. And above all, stand fast, and do not yield.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You fight alongside three or more <a href="../ancestry/dwarf/">dwarves</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You fight alongside three or more [dwarves](../ancestry/dwarf.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="elemental-dabbler/" aria-label="Elemental Dabbler"></a>
@@ -185,7 +185,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Faction Officer</div></div></div>
   <div class="sc-card__flavor">If you want or need something, talk to me. I have a certain... influence in these parts.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="faction-member/">Faction Member</a> title, and you greatly advance the faction's goals.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Faction Member](faction-member.md) title, and you greatly advance the faction&#39;s goals.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="fey-friend/" aria-label="Fey Friend"></a>
@@ -193,7 +193,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Fey Friend</div></div></div>
   <div class="sc-card__flavor">Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You eat and drink with an elf <a href="monarch/">monarch</a> or archfey.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You eat and drink with an elf [monarch](monarch.md) or archfey.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="fleet-admiral/" aria-label="Fleet Admiral"></a>
@@ -201,7 +201,14 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Fleet Admiral</div></div></div>
   <div class="sc-card__flavor">All hail the Pirate Queen!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="corsair/">Corsair</a> title, and you lead a fleet of at least three ships.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Corsair](corsair.md) title, and you lead a fleet of at least three ships.</span></div>
+</div>
+<div class="sc-card sc-fil">
+  <a class="sc-card__link" href="follower-types/" aria-label="Follower Types"></a>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
+    <div><div class="sc-card__type">Title</div>
+    <div class="sc-card__name">Follower Types</div></div></div>
+  <div class="sc-card__flavor">When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="forsaken/" aria-label="Forsaken"></a>
@@ -225,7 +232,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Godsworn</div></div></div>
   <div class="sc-card__flavor">He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You do a favor for an agent of a god or <a href="../rule/world/saint/">saint</a>, or promise to do so.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You do a favor for an agent of a god or [saint](../rule/world/saint.md), or promise to do so.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="heist-hero/" aria-label="Heist Hero"></a>
@@ -233,7 +240,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Heist Hero</div></div></div>
   <div class="sc-card__flavor">Everybody know their assignments? All right, let&#39;s go.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="troupe-leading-player/">Troupe Leading Player</a> title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Troupe Leading Player](troupe-leading-player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="high-summoner-of-the-circle/" aria-label="High Summoner of the Circle"></a>
@@ -241,7 +248,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">High Summoner of the Circle</div></div></div>
   <div class="sc-card__flavor">As I was taught, so I pass on to you.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a <a href="../class/summoner/">summoner</a>, and you teach someone how to call forth two or more minions from your <a href="../feature/summoner/level-1/portfolio/">portfolio</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You are a [summoner](../class/summoner.md), and you teach someone how to call forth two or more minions from your [portfolio](../feature/summoner/level-1/portfolio.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="knight/" aria-label="Knight"></a>
@@ -249,7 +256,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Knight</div></div></div>
   <div class="sc-card__flavor">Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">A <a href="noble/">noble</a> or <a href="monarch/">monarch</a> grants you knighthood or a similar rank.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">A [noble](noble.md) or [monarch](monarch.md) grants you knighthood or a similar rank.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="local-hero/" aria-label="Local Hero"></a>
@@ -265,7 +272,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Maestro</div></div></div>
   <div class="sc-card__flavor">When I saw the bloodstained manuscript under Fellwander&#39;s arm, I knew his quest for the Opera was over—and with it, his chance for redemption.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You visit the realms of gods, <a href="../ancestry/devil/">devils</a>, or other immortal beings and hear a note of the Music of Creation.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You visit the realms of gods, [devils](../ancestry/devil.md), or other immortal beings and hear a note of the Music of Creation.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mage-hunter/" aria-label="Mage Hunter"></a>
@@ -281,7 +288,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Marshal</div></div></div>
   <div class="sc-card__flavor">I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You join an organization that hunts criminals, such as the Far Mariners (see <a href="../rule/world/orden/">Orden</a> and the Timescape in Chapter 1: <a href="../../Read/heroes/the-basics/">The Basics</a>), or you are deputized to act for the local authorities.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You join an organization that hunts criminals, such as the Far Mariners (see [Orden](../rule/world/orden.md) and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="master-crafter/" aria-label="Master Crafter"></a>
@@ -289,7 +296,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Master Crafter</div></div></div>
   <div class="sc-card__flavor">The sword Vanartha has been remade, mightier now than on the day it was forged.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete a downtime project to imbue armor, an <a href="../rule/treasure/implement/">implement</a>, or a weapon with a 9th-level <a href="../rule/treasure/enhancement/">enhancement</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete a downtime project to imbue armor, an [implement](../rule/treasure/implement.md), or a weapon with a 9th-level [enhancement](../rule/treasure/enhancement.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="master-librarian/" aria-label="Master Librarian"></a>
@@ -297,7 +304,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Master Librarian</div></div></div>
   <div class="sc-card__flavor">You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="ancient-loremaster/">Ancient Loremaster</a> title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Ancient Loremaster](ancient-loremaster.md) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="monarch/" aria-label="Monarch"></a>
@@ -305,7 +312,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Monarch</div></div></div>
   <div class="sc-card__flavor">The tyrant is dead! Long live the new king!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You or a member of your party becomes the <a href="monarch/">monarch</a> of a nation.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You or a member of your party becomes the [monarch](monarch.md) of a nation.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="monster-bane/" aria-label="Monster Bane"></a>
@@ -313,7 +320,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Monster Bane</div></div></div>
   <div class="sc-card__flavor">You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn&#39;t see the size of the mouse!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with a <a href="../rule/character/reason/">Reason</a> score of −2 or lower, such as an arixx.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with a [Reason](../rule/character/reason.md) score of −2 or lower, such as an arixx.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="noble/" aria-label="Noble"></a>
@@ -321,7 +328,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Noble</div></div></div>
   <div class="sc-card__flavor">Technically, I&#39;m called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">A <a href="monarch/">monarch</a> or important <a href="noble/">noble</a> grants you a <a href="noble/">noble</a> rank.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">A [monarch](monarch.md) or important [noble](noble.md) grants you a [noble](noble.md) rank.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="owed-a-favor/" aria-label="Owed a Favor"></a>
@@ -361,7 +368,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Ratcatcher</div></div></div>
   <div class="sc-card__flavor">I like fighting these little guys. Means I don&#39;t have to waste money on a helmet.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature who is <a href="../rule/character/size/">size</a> 1S or smaller, such as a goblin <a href="monarch/">monarch</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature who is [size](../rule/character/size.md) 1S or smaller, such as a goblin [monarch](monarch.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="reborn/" aria-label="Reborn"></a>
@@ -377,7 +384,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Ringleader</div></div></div>
   <div class="sc-card__flavor">Don&#39;t worry. I&#39;ve got a guy.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete three downtime projects during the same <a href="../rule/resource/respite/">respite</a> with the help of <a href="../rule/general/follower/">followers</a> or minions.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete three downtime projects during the same [respite](../rule/resource/respite.md) with the help of [followers](../rule/general/follower.md) or minions.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="safeguarded/" aria-label="Safeguarded"></a>
@@ -385,7 +392,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Safeguarded</div></div></div>
   <div class="sc-card__flavor">They risk their lives for me because I risk my life for theirs. This fight belongs to all of us!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You earn a noble rank or earn the favor of a knight's guild.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You earn a noble rank or earn the favor of a knight&#39;s guild.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="saved-for-a-worse-fate/" aria-label="Saved for a Worse Fate"></a>
@@ -401,7 +408,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Scarred</div></div></div>
   <div class="sc-card__flavor">Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">An enemy leader or solo creature reduces you to 0 <a href="../rule/health/stamina/">Stamina</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">An enemy leader or solo creature reduces you to 0 [Stamina](../rule/health/stamina.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ship-captain/" aria-label="Ship Captain"></a>
@@ -417,7 +424,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Siege Breaker</div></div></div>
   <div class="sc-card__flavor">Best way to deal with a castle siege? Be on the outside.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="battlefield-commander/">Battlefield Commander</a> title, and you lead the defense of a settlement or fortification.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Battlefield Commander](battlefield-commander.md) title, and you lead the defense of a settlement or fortification.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="sigilwright/" aria-label="Sigilwright"></a>
@@ -448,7 +455,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Summoner Successor</div></div></div>
   <div class="sc-card__flavor">When their leader fell, they started listening to me for some reason.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can't use the <a href="../feature/ability/summoner/level-1/call-forth/">Call Forth</a> ability, and you defeat a leader or solo creature with a Summon or Call Forth ability, such as a <a href="../ancestry/high-elf/">high elf</a> ordinator.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You can&#39;t use the [Call Forth](../feature/ability/summoner/level-1/call-forth.md) ability, and you defeat a leader or solo creature with a Summon or Call Forth ability, such as a [high elf](../ancestry/high-elf.md) ordinator.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="sworn-hunter/" aria-label="Sworn Hunter"></a>
@@ -456,7 +463,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Sworn Hunter</div></div></div>
   <div class="sc-card__flavor">I will follow you to the ends of the earth—just so I can kick you off the edge.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="marshal/">Marshal</a> title, and you take down an entire criminal organization.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Marshal](marshal.md) title, and you take down an entire criminal organization.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="teacher/" aria-label="Teacher"></a>
@@ -472,7 +479,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Theoretical Warrior</div></div></div>
   <div class="sc-card__flavor">I&#39;ve read about this tactic in books—it looks fairly straightforward.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="master-librarian/">Master Librarian</a> title, and you complete a Learn From a Master project with a project goal of 1,000.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Master Librarian](master-librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="tireless/" aria-label="Tireless"></a>
@@ -480,7 +487,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Tireless</div></div></div>
   <div class="sc-card__flavor">To reach Giant&#39;s Foot by dawn, we&#39;ll have to run every step of the way. Let&#39;s get moving.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="unstoppable/">Unstoppable</a> title, and you make or assist on a <a href="../rule/test/test/">test</a> as part of a <a href="../rule/test/montage-test/">montage test</a> that obtains a full success.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Unstoppable](unstoppable.md) title, and you make or assist on a [test](../rule/test/test.md) as part of a [montage test](../rule/test/montage-test.md) that obtains a full success.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="troupe-leading-player/" aria-label="Troupe Leading Player"></a>
@@ -496,7 +503,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Unchained</div></div></div>
   <div class="sc-card__flavor">I&#39;ll never get away with it? My dear, I already have.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the <a href="heist-hero/">Heist Hero</a> title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Heist Hero](heist-hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="undead-slain/" aria-label="Undead Slain"></a>
@@ -512,7 +519,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Unstoppable</div></div></div>
   <div class="sc-card__flavor">I seen the goblin king run &#39;im through with a spear. Then I seen &#39;im pull &#39;imself back up, spear still in &#39;im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king&#39;s corpse.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a foe while at or below 0 <a href="../rule/health/stamina/">Stamina</a>.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a foe while at or below 0 [Stamina](../rule/health/stamina.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="wanted-dead-or-alive/" aria-label="Wanted Dead or Alive"></a>

@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 class: "null"
-cost: 1 Discipline
 level: "7"
 name: Extended Power
 scc: mcdm.heroes.v1/feature.null.level-7/extended-power
@@ -20,7 +19,7 @@ type: feature
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature</div>
 <h3 class="sc-trait__name">Extended Power</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">1</span> Discipline</div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
 <p>If the ability is <a href="../../../../rule/combat/ranged/">ranged</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. If the ability is <a href="../../../../rule/combat/melee/">melee</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>

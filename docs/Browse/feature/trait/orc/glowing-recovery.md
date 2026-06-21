@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: orc
-cost: 2 Points
 name: Glowing Recovery
 scc: mcdm.heroes.v1/feature.trait.orc/glowing-recovery
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Orc Trait</div>
 <h3 class="sc-trait__name">Glowing Recovery</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../../rule/health/recoveries/">Recoveries</a> as you like.</p>

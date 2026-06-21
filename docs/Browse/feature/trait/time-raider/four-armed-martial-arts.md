@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: time-raider
-cost: 2 Points
 name: Four-Armed Martial Arts
 scc: mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Time Raider Trait</div>
 <h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../../common/maneuvers/grab/">Grab</a> or <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../../../rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../../../rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../../../condition/grabbed/">grabbed</a> at a time.</p>

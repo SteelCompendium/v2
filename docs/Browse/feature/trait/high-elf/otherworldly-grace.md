@@ -2,7 +2,6 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: high-elf
-cost: 2 Points
 name: Otherworldly Grace
 scc: mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace
 type: trait
@@ -19,7 +18,6 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>High Elf Trait</div>
 <h3 class="sc-trait__name">Otherworldly Grace</h3>
 </div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
