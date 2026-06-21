@@ -3003,7 +3003,7 @@ You can recruit followers up to the maximum your [Renown](../../Browse/rule/reso
 
 Many [followers](../../Browse/rule/general/follower.md) stay at a [stronghold](../../Browse/title/stronghold.md), which is a home base you designate and can change. Your [stronghold](../../Browse/title/stronghold.md) is typically a location shared by your fellow heroes. It could be a few rooms at an inn in a sleepy village, an old castle you claimed after clearing it of monsters, or a fleet of sailing ships.
 
-#### Follower Types {data-scc="mcdm.heroes.v1/title/follower-types"}
+#### Follower Types {data-scc="mcdm.heroes.v1/rule.general/follower-types"}
 
 When you attract a new [follower](../../Browse/rule/general/follower.md), you decide on their name and ancestry, and choose what role they play in their service to you.
 

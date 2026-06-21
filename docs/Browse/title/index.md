@@ -204,13 +204,6 @@
   <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Corsair](corsair.md) title, and you lead a fleet of at least three ships.</span></div>
 </div>
 <div class="sc-card sc-fil">
-  <a class="sc-card__link" href="follower-types/" aria-label="Follower Types"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
-    <div><div class="sc-card__type">Title</div>
-    <div class="sc-card__name">Follower Types</div></div></div>
-  <div class="sc-card__flavor">When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.</div>
-</div>
-<div class="sc-card sc-fil">
   <a class="sc-card__link" href="forsaken/" aria-label="Forsaken"></a>
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5M19 19C19 19.6 18.6 20 18 20H6C5.4 20 5 19.6 5 19V18H19V19Z"/></svg></span></span>
     <div><div class="sc-card__type">Title</div>
