@@ -16,7 +16,7 @@ organization: Minion
 presence: -1
 reason: -1
 role: Harrier
-scc: mcdm.summoner.v1/retainer.summoner.statblock/razor
+scc: mcdm.summoner.v1/monster.retainer.statblock/razor
 size: 1M
 speed: 6
 stability: 0

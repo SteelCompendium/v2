@@ -16,7 +16,7 @@ organization: Minion
 presence: -1
 reason: 0
 role: Ambusher
-scc: mcdm.summoner.v1/retainer.summoner.statblock/violent
+scc: mcdm.summoner.v1/monster.retainer.statblock/violent
 size: 1M
 speed: 7
 stability: 1

@@ -17,7 +17,7 @@ organization: Retainer
 presence: 0
 reason: 2
 role: Controller
-scc: mcdm.summoner.v1/retainer.summoner.statblock/devil-detective
+scc: mcdm.summoner.v1/monster.retainer.statblock/devil-detective
 size: 1M
 speed: 5
 stability: 0

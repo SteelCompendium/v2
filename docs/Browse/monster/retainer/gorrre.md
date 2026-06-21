@@ -16,7 +16,7 @@ organization: Minion
 presence: 0
 reason: 0
 role: Brute
-scc: mcdm.summoner.v1/retainer.summoner.statblock/gorrre
+scc: mcdm.summoner.v1/monster.retainer.statblock/gorrre
 size: "2"
 speed: 5
 stability: 2
