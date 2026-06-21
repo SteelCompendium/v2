@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: memonek
+cost: 2 Points
 name: Lightning Nimbleness
 scc: mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Memonek Trait</div>
 <h3 class="sc-trait__name">Lightning Nimbleness</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You can push your body to move at incredible <a href="../../../../rule/character/speed/">speeds</a>. Your <a href="../../../../rule/character/speed/">speed</a> is 7.</p>

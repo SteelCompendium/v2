@@ -187,92 +187,26 @@ You have the following ability.
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless, Graceful Retreat.)
 
-#### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity"}
+#### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Corruption Immunity</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Your innate <a href="../../class/shadow/">shadow</a> magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p>
-</div>
-</section>
+Your innate [shadow](../class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
-#### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless"}
+#### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless" data-cost="2 Points"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Fearless</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Courage is all you know. You can&#39;t be made <a href="../../condition/frightened/">frightened</a>.</p>
-</div>
-</section>
+Courage is all you know. You can't be made [frightened](../condition/frightened.md).
 
-#### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
+#### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Graceful Retreat</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Your small <a href="../../rule/character/size/">size</a> makes it easier for you to slip away from the fray. You gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action.</p>
-</div>
-</section>
+Your small [size](../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
-#### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
+#### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep" data-cost="2 Points"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Nimblestep</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>A light step serves you well when <a href="../../rule/character/speed/">speed</a> is of the essence. You ignore the effects of <a href="../../movement/difficult-terrain/">difficult terrain</a> and can move at full <a href="../../rule/character/speed/">speed</a> while sneaking.</p>
-</div>
-</section>
+A light step serves you well when [speed](../rule/character/speed.md) is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full [speed](../rule/character/speed.md) while sneaking.
 
-#### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
+#### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Polder Geist</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Evading others&#39; notice gives you freedom to move. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, if no enemy has <a href="../../rule/combat/line-of-effect/">line of effect</a> to you or if you are hidden from or have <a href="../../rule/combat/concealment/">concealment</a> from any enemy with <a href="../../rule/combat/line-of-effect/">line of effect</a> to you, you gain a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> until the end of your <a href="../../rule/combat/turn/">turn</a>.</p>
-</div>
-</section>
+Evading others' notice gives you freedom to move. At the start of each of your [turns](../rule/combat/turn.md) during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of your [turn](../rule/combat/turn.md).
 
-#### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
+#### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble" data-cost="1 Point"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Reactive Tumble</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../movement/forced-movement/">force moved</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to <a href="../../movement/shifting/">shift</a> 1 square after the <a href="../../movement/forced-movement/">forced movement</a> is resolved.</p>
-</div>
-</section>
+Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.

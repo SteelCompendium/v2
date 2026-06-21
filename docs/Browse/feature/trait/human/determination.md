@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: human
+cost: 2 Points
 name: Determination
 scc: mcdm.heroes.v1/feature.trait.human/determination
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Human Trait</div>
 <h3 class="sc-trait__name">Determination</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../../rule/combat/condition/">conditions</a>.</p>

@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: dwarf
+cost: 1 Point
 name: Stand Tough
 scc: mcdm.heroes.v1/feature.trait.dwarf/stand-tough
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dwarf Trait</div>
 <h3 class="sc-trait__name">Stand Tough</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../../rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../../rule/character/potency/">potencies</a>, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>

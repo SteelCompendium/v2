@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: dwarf
+cost: 1 Point
 name: Grounded
 scc: mcdm.heroes.v1/feature.trait.dwarf/grounded
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dwarf Trait</div>
 <h3 class="sc-trait__name">Grounded</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a>.</p>

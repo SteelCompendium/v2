@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: wode-elf
+cost: 1 Point
 name: Revisit Memory
 scc: mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
 <h3 class="sc-trait__name">Revisit Memory</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to recall lore.</p>

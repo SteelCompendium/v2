@@ -2,6 +2,7 @@
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 ancestry: orc
+cost: 2 Points
 name: Nonstop
 scc: mcdm.heroes.v1/feature.trait.orc/nonstop
 type: trait
@@ -18,6 +19,7 @@ type: trait
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Orc Trait</div>
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p>

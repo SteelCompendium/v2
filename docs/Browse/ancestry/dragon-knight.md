@@ -133,6 +133,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Draconian Guard</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Whenever you or an <a href="../../rule/combat/adjacent/">adjacent</a> creature takes damage from a <a href="../../rule/combat/strike/">strike</a>, you can use a <a href="../../rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
@@ -143,6 +144,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Draconian Pride</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../rule/combat/signature-ability/">signature ability</a>.</p>
@@ -179,6 +181,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Dragon Breath</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../rule/combat/signature-ability/">signature ability</a>.</p>
@@ -219,6 +222,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Prismatic Scales</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Select one <a href="../../rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
@@ -229,6 +233,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Remember Your Oath</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can recite the following oath. Until the start of your next <a href="../../rule/combat/turn/">turn</a>, whenever you make a <a href="../../rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
@@ -240,6 +245,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Wings</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5.</p>

@@ -147,6 +147,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">I Am Law</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</p>
@@ -157,6 +158,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Keeper of Order</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an <a href="../../rule/combat/adjacent/">adjacent</a> creature makes a <a href="../../rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to remove an <a href="../../rule/dice/edge/">edge</a> or a <a href="../../rule/dice/bane/">bane</a> on the roll, to <a href="../../rule/combat/turn/">turn</a> a double <a href="../../rule/dice/edge/">edge</a> into an <a href="../../rule/dice/edge/">edge</a>, or to <a href="../../rule/combat/turn/">turn</a> a double <a href="../../rule/dice/bane/">bane</a> into a <a href="../../rule/dice/bane/">bane</a>.</p>
@@ -167,6 +169,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Lightning Nimbleness</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>You can push your body to move at incredible <a href="../../rule/character/speed/">speeds</a>. Your <a href="../../rule/character/speed/">speed</a> is 7.</p>
@@ -177,6 +180,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Nonstop</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../condition/slowed/">slowed</a>.</p>
@@ -187,6 +191,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Systematic Mind</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
@@ -197,6 +202,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Unphased</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../rule/combat/surprised/">surprised</a>.</p>
@@ -207,6 +213,7 @@ John offered his hand. Revile shook it and then held it.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Useful Emotion</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Velloparatha—the worldsickness—might hinder you, but you know how to <a href="../../rule/combat/turn/">turn</a> your pain into something your enemies feel. At the start of any combat, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</p>

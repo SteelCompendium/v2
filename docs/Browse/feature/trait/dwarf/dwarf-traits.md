@@ -50,6 +50,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Great Fortitude</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../../condition/weakened/">weakened</a>.</p>
@@ -60,6 +61,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Grounded</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a>.</p>
@@ -70,6 +72,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Spark Off Your Skin</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">2</span> Points</div>
 </header>
 <div class="sc-trait__body">
 <p>Your stone skin affords you potent protection. You have a +6 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and that <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels.</p>
@@ -80,6 +83,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stand Tough</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../../rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../../rule/character/potency/">potencies</a>, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
@@ -90,6 +94,7 @@ type: trait
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Stone Singer</h3>
 </div>
+<div class="sc-trait__tag"><span class="num">1</span> Point</div>
 </header>
 <div class="sc-trait__body">
 <p>You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can&#39;t destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.</p>
