@@ -575,7 +575,9 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    ════════════════════════════════════════════════════════════ */
 .md-typeset .sb-cards {
   display: grid; gap: 1rem; margin: 1rem 0; padding: 0;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  /* Wider min so preview cards get more horizontal room: ~2 columns on a laptop
+     (was 20rem → 3 cols), still 1 on phones and 3 on wide monitors. */
+  grid-template-columns: repeat(auto-fill, minmax(28rem, 1fr));
   align-items: start; list-style: none;
 }
 
