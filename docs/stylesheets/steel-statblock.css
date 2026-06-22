@@ -463,7 +463,18 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    max-height (12rem) is the reveal cap; it must clear the tallest open state
    (row1 + wrapped secondary-stats row2) or overflow:hidden clips row2. */
 @supports (animation-timeline: view()) {
-  .sb-wrap { timeline-scope: --sb-head-tl; }
+  /* Kill scroll anchoring inside the plate, or the reveal flickers/jitters.
+     The mini-header is position:sticky and sits IN FLOW before the article, so
+     growing its height (the reveal) shoves the article — and .sb__head, this
+     animation's own view-timeline subject — down by ~12rem. That growth happens
+     above the viewport, so the browser's scroll anchoring silently nudges
+     scrollTop to compensate; the nudged scrollTop changes the timeline progress,
+     which changes the reveal, which re-triggers anchoring → a bistable loop that
+     toggles the bar collapsed↔open every frame (worst on short cards like
+     summoner minions, where you park right in the unstable zone). Opting the
+     subtree out of anchoring breaks the loop. Harmless where unsupported
+     (WebKit has no scroll anchoring, so it never flickered). */
+  .sb-wrap { timeline-scope: --sb-head-tl; overflow-anchor: none; }
   .sb-wrap .sb__head {
     view-timeline: --sb-head-tl block;
     view-timeline-inset: calc(var(--sticky-top) / var(--sc-card-scale, 1)) auto;
