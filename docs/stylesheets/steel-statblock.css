@@ -628,6 +628,10 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   font-family: var(--md-small-header-font); font-variant: small-caps;
   letter-spacing: .06em; font-size: .64rem; color: var(--md-default-fg-color--light);
 }
+/* The chip occupies the same top-right corner as the role line (.sb__class is
+   right-aligned, role first). When a chip is present, drop the role/cost column
+   below it so "Summoner" sits as an eyebrow above the role instead of over it. */
+.sb-prev__body:has(.sb-prev__src) .sb__class { padding-top: .9rem; }
 
 /* header — tighter than the full card; collapses on the x-axis as-is */
 .sb-prev .sb__head { padding: .5rem var(--pad) .5rem; margin-bottom: .65rem; }
