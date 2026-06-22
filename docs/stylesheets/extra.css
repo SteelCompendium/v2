@@ -408,61 +408,68 @@ th:empty {
    Compact Mode
    ============================ */
 
-/* Activated by data-compact="true" on <html> via preferences.js */
-[data-compact="true"] .md-typeset {
+/* Activated by data-compact="true" on <html> via preferences.js.
+   Scoped to .md-content (page content) on purpose: Material reuses the
+   `.md-typeset` class on the search-result dropdown
+   (`.md-search-result__article.md-typeset`, whose title is a bare <h1>) and on
+   preview tooltips. Without the .md-content scope these em-based heading rules
+   tie Material's own `.md-search-result .md-typeset h1` on specificity, win on
+   source order, and blow up search titles ~3x. Keep every Compact Mode rule
+   under .md-content — see tests/compact-mode-scope.test.js. */
+[data-compact="true"] .md-content .md-typeset {
     font-size: calc(0.85rem * var(--sc-content-scale));
     line-height: 1.5;
 }
 
-[data-compact="true"] .md-typeset h1 {
+[data-compact="true"] .md-content .md-typeset h1 {
     font-size: 3em;
     margin: 0 0 0.15em;
 }
 
-[data-compact="true"] .md-typeset h2 {
+[data-compact="true"] .md-content .md-typeset h2 {
     font-size: 2em;
 }
 
-[data-compact="true"] .md-typeset h3 {
+[data-compact="true"] .md-content .md-typeset h3 {
     font-size: 1.75em;
 }
 
-[data-compact="true"] .md-typeset h4 {
+[data-compact="true"] .md-content .md-typeset h4 {
     font-size: 1.5em;
 }
 
-[data-compact="true"] .md-typeset h5 {
+[data-compact="true"] .md-content .md-typeset h5 {
     font-size: 1.25em;
 }
 
-[data-compact="true"] .md-typeset h6 {
+[data-compact="true"] .md-content .md-typeset h6 {
     font-size: 1.1em;
 }
 
-[data-compact="true"] .md-typeset blockquote {
+[data-compact="true"] .md-content .md-typeset blockquote {
     padding: 0.4em 0.6em;
     margin: 0.3em 0;
 }
 
-[data-compact="true"] .md-typeset p {
+[data-compact="true"] .md-content .md-typeset p {
     margin: 0.3em 0;
 }
 
-[data-compact="true"] .md-typeset li {
+[data-compact="true"] .md-content .md-typeset li {
     margin-bottom: 0.1em;
 }
 
-[data-compact="true"] .md-typeset table td,
-[data-compact="true"] .md-typeset table th {
+[data-compact="true"] .md-content .md-typeset table td,
+[data-compact="true"] .md-content .md-typeset table th {
     padding: 0.25em 0.5em;
 }
 
-[data-compact="true"] .power-roll-tiers {
+[data-compact="true"] .md-content .power-roll-tiers {
     gap: 0.1em;
     margin: 0.15em 0 0.3em;
 }
 
-[data-compact="true"] .power-roll-badge {
+[data-compact="true"] .md-content .power-roll-badge {
     font-size: 1.2em;
 }
 
