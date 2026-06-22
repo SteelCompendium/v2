@@ -14,6 +14,7 @@ level: "9"
 name: Divine Dragon
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon
+subclass: creation
 target: Special
 tier1: 5 fire damage
 tier2: 9 fire damage

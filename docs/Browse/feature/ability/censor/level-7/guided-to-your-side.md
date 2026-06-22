@@ -12,6 +12,7 @@ keywords:
 level: "7"
 name: Guided to Your Side
 scc: mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side
+subclass: love
 target: Self and each ally
 type: ability
 ---

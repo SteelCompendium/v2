@@ -15,6 +15,7 @@ level: "9"
 name: Banish
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/banish
+subclass: exorcist
 target: One creature
 tier1: 5 + M damage; P < WEAK, the target is banished (save ends)
 tier2: 8 + M damage; P < AVERAGE, the target is banished (save ends)

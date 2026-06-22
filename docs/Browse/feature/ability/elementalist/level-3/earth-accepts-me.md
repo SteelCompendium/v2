@@ -12,6 +12,7 @@ keywords:
 level: "3"
 name: Earth Accepts Me
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/earth-accepts-me
+subclass: earth
 target: Self
 type: ability
 ---

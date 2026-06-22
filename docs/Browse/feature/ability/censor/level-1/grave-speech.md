@@ -11,6 +11,7 @@ keywords:
 level: "1"
 name: Grave Speech
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/grave-speech
+subclass: death
 target: One dead creature
 type: ability
 ---

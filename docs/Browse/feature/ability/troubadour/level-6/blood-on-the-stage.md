@@ -14,6 +14,7 @@ level: "6"
 name: Blood on the Stage
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage
+subclass: duelist
 target: One creature or object
 tier1: 12 + A damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
 tier2: 18 + A damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)

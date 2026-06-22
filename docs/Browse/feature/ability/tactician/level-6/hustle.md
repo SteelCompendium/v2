@@ -12,6 +12,7 @@ keywords:
 level: "6"
 name: Hustle!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/hustle
+subclass: mastermind
 target: Self and each ally in the area
 type: ability
 ---

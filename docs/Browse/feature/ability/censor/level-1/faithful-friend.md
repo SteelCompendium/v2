@@ -11,6 +11,7 @@ keywords:
 level: "1"
 name: Faithful Friend
 scc: mcdm.heroes.v1/feature.ability.censor.level-1/faithful-friend
+subclass: nature
 target: Self
 type: ability
 ---

@@ -13,6 +13,7 @@ keywords:
 level: "2"
 name: Prescient Grace
 scc: mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace
+subclass: oracle
 subtype: triggered
 target: Self or one ally
 trigger: An enemy within 10 squares starts their [turn](../../../../rule/combat/turn.md).

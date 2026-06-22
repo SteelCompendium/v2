@@ -2494,7 +2494,7 @@ As an 8th-level [talent](talent.md), you gain the following features.
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Universal Connection</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

@@ -13,6 +13,7 @@ level: "1"
 name: Remote Assistance
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance
 spend: '1 Clarity: You target one additional creature or object.'
+subclass: telepathy
 target: One creature or object
 type: ability
 ---

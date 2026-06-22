@@ -14,6 +14,7 @@ level: "2"
 name: Morning Light
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light
+subclass: sun
 target: Each enemy in the area
 tier1: 4 fire damage
 tier2: 6 fire damage

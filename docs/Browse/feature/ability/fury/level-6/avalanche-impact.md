@@ -13,6 +13,7 @@ level: "6"
 name: Avalanche Impact
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact
+subclass: berserker
 target: Self
 tier1: 4 damage; [push](../../../../movement/forced-movement.md) 1
 tier2: 7 damage; [push](../../../../movement/forced-movement.md) 2

@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Blur
 scc: mcdm.heroes.v1/feature.ability.null.level-2/blur
+subclass: chronokinetic
 target: Self
 type: ability
 ---

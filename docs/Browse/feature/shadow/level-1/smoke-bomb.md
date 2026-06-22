@@ -5,6 +5,7 @@ class: shadow
 level: "1"
 name: Smoke Bomb
 scc: mcdm.heroes.v1/feature.shadow.level-1/smoke-bomb
+subclass: caustic-alchemy
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Smoke Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

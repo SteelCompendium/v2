@@ -15,6 +15,7 @@ level: "2"
 name: Applied Chronometrics
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics
+subclass: chronopathy
 target: Special
 tier1: You target two creatures, one of which can be you.
 tier2: You target three creatures, one of which can be you.

@@ -5,6 +5,7 @@ class: conduit
 level: "1"
 name: Faithful Friend
 scc: mcdm.heroes.v1/feature.conduit.level-1/faithful-friend
+subclass: nature
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Faithful Friend</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

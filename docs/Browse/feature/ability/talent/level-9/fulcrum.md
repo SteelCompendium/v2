@@ -15,6 +15,7 @@ level: "9"
 name: Fulcrum
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum
+subclass: telekinesis
 target: Each enemy and object in the area
 tier1: 2 [burst](../../../../rule/combat/burst.md)
 tier2: 3 [burst](../../../../rule/combat/burst.md)

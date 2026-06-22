@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Squad! On Me!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/squad-on-me
+subclass: vanguard
 target: Self and each ally in the area
 type: ability
 ---

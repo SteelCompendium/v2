@@ -14,6 +14,7 @@ keywords:
 level: "9"
 name: Borrow From the Future
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future
+subclass: chronopathy
 target: Each ally in the area
 type: ability
 ---

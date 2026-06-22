@@ -5,6 +5,7 @@ class: fury
 level: "8"
 name: Strongest There Is
 scc: mcdm.heroes.v1/feature.fury.level-8/strongest-there-is
+subclass: berserker
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Strongest There Is</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

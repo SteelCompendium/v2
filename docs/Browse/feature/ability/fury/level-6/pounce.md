@@ -16,6 +16,7 @@ level: "6"
 name: Pounce
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/pounce
+subclass: stormwight
 target: One creature
 tier1: 8 damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
 tier2: 13 damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)

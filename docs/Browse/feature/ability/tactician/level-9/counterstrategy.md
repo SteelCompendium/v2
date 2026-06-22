@@ -12,6 +12,7 @@ keywords:
 level: "9"
 name: Counterstrategy
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy
+subclass: mastermind
 target: Self
 type: ability
 ---

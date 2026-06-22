@@ -11,6 +11,7 @@ keywords:
 level: "1"
 name: Riposte
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte
+subclass: duelist
 subtype: triggered
 target: Self or one ally
 trigger: The target takes damage from a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md).

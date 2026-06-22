@@ -12,6 +12,7 @@ keywords:
 level: "9"
 name: Squad! Hit and Run!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run
+subclass: insurgent
 target: Self and two allies
 type: ability
 ---

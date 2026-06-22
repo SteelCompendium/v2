@@ -13,6 +13,7 @@ level: "2"
 name: Sticky Bomb
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/sticky-bomb
+subclass: caustic-alchemy
 target: One creature
 tier1: 4 + A fire damage
 tier2: 7 + A fire damage

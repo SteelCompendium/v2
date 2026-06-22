@@ -12,6 +12,7 @@ keywords:
 level: "6"
 name: Battle Plan
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan
+subclass: mastermind
 target: Three creatures
 type: ability
 ---

@@ -13,6 +13,7 @@ keywords:
 level: "1"
 name: Acrobatics
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics
+subclass: duelist
 target: Self and each ally in the area
 type: ability
 ---

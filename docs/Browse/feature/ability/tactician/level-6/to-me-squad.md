@@ -16,6 +16,7 @@ level: "6"
 name: To Me Squad!
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/to-me-squad
+subclass: vanguard
 target: One creature
 tier1: 6 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free [triggered action](../../../../rule/combat/triggered-action.md), and can use a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
 tier2: 9 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free [triggered action](../../../../rule/combat/triggered-action.md), and can use a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge

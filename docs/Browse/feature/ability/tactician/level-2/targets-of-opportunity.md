@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Targets of Opportunity
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity
+subclass: mastermind
 target: Two creatures
 type: ability
 ---

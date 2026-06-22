@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: I Am You
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you
+subclass: harlequin-mask
 target: One creature
 type: ability
 ---

@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Aura of Souls
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/aura-of-souls
+subclass: death
 target: Each creature in the area
 type: ability
 ---

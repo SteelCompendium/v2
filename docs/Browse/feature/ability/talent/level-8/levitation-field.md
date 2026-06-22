@@ -13,6 +13,7 @@ level: "8"
 name: Levitation Field
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/levitation-field
 spend: '5 Clarity: The effects last for 1 hour instead.'
+subclass: telekinesis
 target: Each ally in the area
 type: ability
 ---

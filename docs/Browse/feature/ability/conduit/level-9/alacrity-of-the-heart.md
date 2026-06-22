@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Alacrity of the Heart
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart
+subclass: love
 target: One ally
 type: ability
 ---

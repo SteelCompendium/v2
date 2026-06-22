@@ -13,6 +13,7 @@ keywords:
 level: "2"
 name: Blessing of Insight
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight
+subclass: war
 target: Self and each ally
 type: ability
 ---

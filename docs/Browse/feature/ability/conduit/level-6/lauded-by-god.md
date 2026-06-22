@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Lauded by God
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god
+subclass: love
 target: Two allies
 type: ability
 ---

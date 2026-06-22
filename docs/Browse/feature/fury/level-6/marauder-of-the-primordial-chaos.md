@@ -5,6 +5,7 @@ class: fury
 level: "6"
 name: Marauder of the Primordial Chaos
 scc: mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos
+subclass: stormwight
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Marauder of the Primordial Chaos</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>

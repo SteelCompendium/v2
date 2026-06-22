@@ -16,6 +16,7 @@ level: "6"
 name: Black Ash Eruption
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
+subclass: black-ash
 target: One creature
 tier1: 3 + A damage; vertical [push](../../../../movement/forced-movement.md) 5
 tier2: 6 + A damage; vertical [push](../../../../movement/forced-movement.md) 10

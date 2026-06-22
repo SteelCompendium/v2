@@ -1629,6 +1629,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Fix It in Post</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to change one <a href="../../rule/combat/condition/">condition</a> affecting a creature within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following <a href="../../rule/combat/condition/">conditions</a> on the target: <a href="../../condition/bleeding/">bleeding</a>, <a href="../../condition/frightened/">frightened</a><a href="../../condition/prone/">, prone</a>, <a href="../../condition/slowed/">slowed</a>, or <a href="../../condition/taunted/">taunted</a>. You change that <a href="../../rule/combat/condition/">condition</a> to another of those <a href="../../rule/combat/condition/">conditions</a>, maintaining the duration and origin of the original <a href="../../rule/combat/condition/">condition</a>. A target who is no longer prone can stand up.</p>
@@ -1682,6 +1683,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Verbal Duel</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>Once on each of your <a href="../../rule/combat/turn/">turns</a> while the target of your Foil feature is <a href="../../rule/combat/adjacent/">adjacent</a> to you, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../feature/common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
@@ -1735,6 +1737,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bolstering Banter</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../rule/health/recoveries/">Recovery</a> to gain <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../rule/health/recoveries/">recovery value</a>.</p>
@@ -1745,6 +1748,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Medley</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>You can maintain two performances at a time using your <a href="../../feature/troubadour/level-1/routines/">Routines</a> feature.</p>

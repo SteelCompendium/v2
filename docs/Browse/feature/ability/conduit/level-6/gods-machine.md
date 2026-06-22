@@ -14,6 +14,7 @@ level: "6"
 name: Gods' Machine
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine
+subclass: creation
 target: Special
 tier1: 3 damage
 tier2: 5 damage

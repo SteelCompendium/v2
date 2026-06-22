@@ -13,6 +13,7 @@ level: "9"
 name: Chain Reaction
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction
+subclass: caustic-alchemy
 target: One creature or object
 tier1: 7 damage
 tier2: 10 damage

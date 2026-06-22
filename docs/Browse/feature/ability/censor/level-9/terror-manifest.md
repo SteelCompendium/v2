@@ -15,6 +15,7 @@ level: "9"
 name: Terror Manifest
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest
+subclass: exorcist
 target: One creature
 tier1: 7 + P psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 tier2: 10 + P psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

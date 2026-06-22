@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Too Slow
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/too-slow
+subclass: black-ash
 subtype: triggered
 target: Self
 trigger: You use your [In All This Confusion](../level-1/in-all-this-confusion.md) ability.

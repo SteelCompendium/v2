@@ -5,6 +5,7 @@ class: censor
 level: "2"
 name: Stalwart Icon
 scc: mcdm.heroes.v1/feature.censor.level-2/stalwart-icon
+subclass: paragon
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stalwart Icon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>

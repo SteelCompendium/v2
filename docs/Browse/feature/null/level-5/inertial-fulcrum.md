@@ -5,6 +5,7 @@ class: "null"
 level: "5"
 name: Inertial Fulcrum
 scc: mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum
+subclass: metakinetic
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Metakinetic</div>
 <h3 class="sc-trait__name">Inertial Fulcrum</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

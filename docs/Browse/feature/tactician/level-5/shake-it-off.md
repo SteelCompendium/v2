@@ -5,6 +5,7 @@ class: tactician
 level: "5"
 name: Shake It Off
 scc: mcdm.heroes.v1/feature.tactician.level-5/shake-it-off
+subclass: vanguard
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shake It Off</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

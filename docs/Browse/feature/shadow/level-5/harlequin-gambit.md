@@ -5,6 +5,7 @@ class: shadow
 level: "5"
 name: Harlequin Gambit
 scc: mcdm.heroes.v1/feature.shadow.level-5/harlequin-gambit
+subclass: harlequin-mask
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Harlequin Gambit</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

@@ -12,6 +12,7 @@ keywords:
 level: "6"
 name: Cinderstorm
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm
+subclass: black-ash
 target: Self and each ally in the area
 type: ability
 ---

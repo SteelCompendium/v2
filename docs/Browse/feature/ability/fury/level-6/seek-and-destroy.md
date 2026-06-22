@@ -15,6 +15,7 @@ level: "6"
 name: Seek and Destroy
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy
+subclass: reaver
 target: One creature
 tier1: 4 + M damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 tier2: 6 + M damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

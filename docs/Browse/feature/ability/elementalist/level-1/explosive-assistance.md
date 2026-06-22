@@ -14,6 +14,7 @@ level: "1"
 name: Explosive Assistance
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance
 spend: '1 Essence: The [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
+subclass: fire
 subtype: triggered
 target: Self or one ally
 trigger: The target [force move](../../../../movement/forced-movement.md)s a creature or object.

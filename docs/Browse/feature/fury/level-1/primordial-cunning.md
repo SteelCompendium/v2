@@ -5,6 +5,7 @@ class: fury
 level: "1"
 name: Primordial Cunning
 scc: mcdm.heroes.v1/feature.fury.level-1/primordial-cunning
+subclass: reaver
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Primordial Cunning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

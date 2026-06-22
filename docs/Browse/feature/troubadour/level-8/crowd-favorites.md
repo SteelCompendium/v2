@@ -5,6 +5,7 @@ class: troubadour
 level: "8"
 name: Crowd Favorites
 scc: mcdm.heroes.v1/feature.troubadour.level-8/crowd-favorites
+subclass: virtuoso
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Crowd Favorites</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

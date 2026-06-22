@@ -12,6 +12,7 @@ keywords:
 level: "1"
 name: Repel
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/repel
+subclass: telekinesis
 subtype: triggered
 target: Self or one ally
 trigger: The target takes damage or is [force moved](../../../../movement/forced-movement.md).

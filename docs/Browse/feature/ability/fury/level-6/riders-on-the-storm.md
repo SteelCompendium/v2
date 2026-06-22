@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Riders on the Storm
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm
+subclass: stormwight
 target: Each creature in the area
 type: ability
 ---

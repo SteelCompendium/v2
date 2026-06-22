@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Heat Sink
 scc: mcdm.heroes.v1/feature.ability.null.level-2/heat-sink
+subclass: cryokinetic
 target: Self
 type: ability
 ---

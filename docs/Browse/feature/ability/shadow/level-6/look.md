@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Look!
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/look
+subclass: harlequin-mask
 target: Each enemy in the area
 type: ability
 ---

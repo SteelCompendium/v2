@@ -12,6 +12,7 @@ keywords:
 level: "1"
 name: Feedback Loop
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop
+subclass: telepathy
 subtype: triggered
 target: One creature
 trigger: The target deals damage to an ally.

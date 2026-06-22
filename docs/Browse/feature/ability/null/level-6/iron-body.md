@@ -12,6 +12,7 @@ keywords:
 level: "6"
 name: Iron Body
 scc: mcdm.heroes.v1/feature.ability.null.level-6/iron-body
+subclass: metakinetic
 target: Self
 type: ability
 ---

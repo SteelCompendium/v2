@@ -14,6 +14,7 @@ keywords:
 level: "9"
 name: Righteous Phalanx
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx
+subclass: war
 target: Special
 type: ability
 ---

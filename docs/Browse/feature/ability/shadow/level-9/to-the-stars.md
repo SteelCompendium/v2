@@ -15,6 +15,7 @@ level: "9"
 name: To the Stars
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars
+subclass: caustic-alchemy
 target: One creature or object
 tier1: 4 + A fire damage; vertical [push](../../../../movement/forced-movement.md) 8
 tier2: 7 + A fire damage; vertical [push](../../../../movement/forced-movement.md) 10

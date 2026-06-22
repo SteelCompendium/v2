@@ -5,6 +5,7 @@ class: elementalist
 level: "5"
 name: The Mountain Does Not Move
 scc: mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move
+subclass: earth
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">The Mountain Does Not Move</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

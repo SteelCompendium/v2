@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Word of Final Redemption
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption
+subclass: death
 subtype: triggered
 target: One creature
 trigger: The target dies.

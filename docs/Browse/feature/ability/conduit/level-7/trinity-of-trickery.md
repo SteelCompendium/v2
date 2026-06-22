@@ -13,6 +13,7 @@ keywords:
 level: "7"
 name: Trinity of Trickery
 scc: mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery
+subclass: trickery
 target: Self or one ally
 type: ability
 ---

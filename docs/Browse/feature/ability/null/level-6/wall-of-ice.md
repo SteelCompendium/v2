@@ -14,6 +14,7 @@ keywords:
 level: "6"
 name: Wall of Ice
 scc: mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice
+subclass: cryokinetic
 target: Special
 type: ability
 ---

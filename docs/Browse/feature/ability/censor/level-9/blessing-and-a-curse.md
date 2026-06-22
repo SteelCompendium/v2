@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Blessing and a Curse
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse
+subclass: oracle
 subtype: triggered
 target: One creature
 trigger: The target makes a [power roll](../../../../rule/dice/power-roll.md).

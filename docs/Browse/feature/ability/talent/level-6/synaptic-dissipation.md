@@ -16,6 +16,7 @@ level: "6"
 name: Synaptic Dissipation
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation
+subclass: telepathy
 target: Special
 tier1: Two creatures
 tier2: Three creatures

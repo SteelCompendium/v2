@@ -13,6 +13,7 @@ keywords:
 level: "2"
 name: Divine Comedy
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy
+subclass: trickery
 target: Self and each ally in the area
 type: ability
 ---

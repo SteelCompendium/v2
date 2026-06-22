@@ -13,6 +13,7 @@ level: "1"
 name: Dramatic Monologue
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue
 spend: '1 Drama: You can choose two targets for the chosen effect.'
+subclass: auteur
 target: Special
 type: ability
 ---

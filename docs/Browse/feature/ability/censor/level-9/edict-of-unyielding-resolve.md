@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Edict of Unyielding Resolve
 scc: mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve
+subclass: paragon
 target: Self and each ally in the area
 type: ability
 ---

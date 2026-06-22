@@ -5,6 +5,7 @@ class: conduit
 level: "1"
 name: Blessing of Comprehension
 scc: mcdm.heroes.v1/feature.conduit.level-1/blessing-of-comprehension
+subclass: knowledge
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

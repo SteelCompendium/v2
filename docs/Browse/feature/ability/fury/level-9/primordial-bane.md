@@ -16,6 +16,7 @@ level: "9"
 name: Primordial Bane
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane
+subclass: reaver
 target: One creature
 tier1: 11 + M damage
 tier2: 16 + M damage

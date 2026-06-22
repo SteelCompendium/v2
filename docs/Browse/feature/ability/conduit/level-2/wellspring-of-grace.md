@@ -13,6 +13,7 @@ keywords:
 level: "2"
 name: Wellspring of Grace
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace
+subclass: life
 target: Each ally in the area
 type: ability
 ---

@@ -14,6 +14,7 @@ level: "1"
 name: Subtle Relocation
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation
 spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
+subclass: void
 subtype: triggered
 target: Self or one ally
 trigger: The target starts their [turn](../../../../rule/combat/turn.md), moves, or is [force moved](../../../../movement/forced-movement.md).

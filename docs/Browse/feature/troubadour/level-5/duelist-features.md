@@ -29,6 +29,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Verbal Duel</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a> while the target of your Foil feature is <a href="../../../../rule/combat/adjacent/">adjacent</a> to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>

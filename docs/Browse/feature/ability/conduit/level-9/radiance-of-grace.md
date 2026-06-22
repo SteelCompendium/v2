@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Radiance of Grace
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/radiance-of-grace
+subclass: life
 target: Four allies
 type: ability
 ---

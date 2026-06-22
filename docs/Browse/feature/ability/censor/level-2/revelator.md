@@ -13,6 +13,7 @@ keywords:
 level: "2"
 name: Revelator
 scc: mcdm.heroes.v1/feature.ability.censor.level-2/revelator
+subclass: exorcist
 target: Each enemy in the area
 type: ability
 ---

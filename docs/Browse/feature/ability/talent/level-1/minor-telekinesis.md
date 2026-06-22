@@ -13,6 +13,7 @@ level: "1"
 name: Minor Telekinesis
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/minor-telekinesis
 spend: '2+ Clarity: The size of the creature or object you can target increases by 1 for every 2 clarity spent.'
+subclass: telekinesis
 target: Self or one [size](../../../../rule/character/size.md) 1 creature or object
 type: ability
 ---

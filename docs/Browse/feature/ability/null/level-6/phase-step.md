@@ -15,6 +15,7 @@ level: "6"
 name: Phase Step
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-6/phase-step
+subclass: chronokinetic
 target: Self
 tier1: 6 damage; M < WEAK, [dazed](../../../../condition/dazed.md)
 tier2: 8 damage; M < AVERAGE, [dazed](../../../../condition/dazed.md)

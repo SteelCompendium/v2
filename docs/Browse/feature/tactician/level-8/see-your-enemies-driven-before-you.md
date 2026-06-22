@@ -5,6 +5,7 @@ class: tactician
 level: "8"
 name: See Your Enemies Driven Before You
 scc: mcdm.heroes.v1/feature.tactician.level-8/see-your-enemies-driven-before-you
+subclass: vanguard
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">See Your Enemies Driven Before You</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

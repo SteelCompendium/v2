@@ -13,6 +13,7 @@ keywords:
 level: "9"
 name: Blessing of the Fortress
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/blessing-of-the-fortress
+subclass: protection
 target: Self
 type: ability
 ---

@@ -15,6 +15,7 @@ level: "9"
 name: Cacophony of Cinders
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders
+subclass: black-ash
 target: Self
 tier1: An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
 tier2: An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.

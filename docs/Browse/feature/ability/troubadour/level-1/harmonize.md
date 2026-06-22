@@ -13,6 +13,7 @@ level: "1"
 name: Harmonize
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize
 spend: '1+ Drama: You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.'
+subclass: virtuoso
 subtype: triggered
 target: One ally
 trigger: The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).

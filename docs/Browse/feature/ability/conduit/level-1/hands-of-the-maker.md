@@ -11,6 +11,7 @@ keywords:
 level: "1"
 name: Hands of the Maker
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/hands-of-the-maker
+subclass: creation
 target: Self
 type: ability
 ---

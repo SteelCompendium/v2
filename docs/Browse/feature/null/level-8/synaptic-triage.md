@@ -5,6 +5,7 @@ class: "null"
 level: "8"
 name: Synaptic Triage
 scc: mcdm.heroes.v1/feature.null.level-8/synaptic-triage
+subclass: cryokinetic
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Cryokinetic</div>
 <h3 class="sc-trait__name">Synaptic Triage</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

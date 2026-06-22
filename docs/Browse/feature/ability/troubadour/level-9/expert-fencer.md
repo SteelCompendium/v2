@@ -16,6 +16,7 @@ level: "9"
 name: Expert Fencer
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer
+subclass: duelist
 target: One creature or object
 tier1: 15 + A damage
 tier2: 21 + A damage

@@ -5,6 +5,7 @@ class: troubadour
 level: "3"
 name: Missed Cue
 scc: mcdm.heroes.v1/feature.troubadour.level-3/missed-cue
+subclass: auteur
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Missed Cue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>

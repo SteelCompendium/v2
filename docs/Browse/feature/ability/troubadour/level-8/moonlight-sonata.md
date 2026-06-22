@@ -13,6 +13,7 @@ keywords:
 level: "8"
 name: Moonlight Sonata
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/moonlight-sonata
+subclass: virtuoso
 target: Each ally in the area
 type: ability
 ---

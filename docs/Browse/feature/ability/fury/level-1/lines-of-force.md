@@ -13,6 +13,7 @@ level: "1"
 name: Lines of Force
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/lines-of-force
 spend: '1 Ferocity: The [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to twice your [Might](../../../../rule/character/might.md) score instead.'
+subclass: berserker
 subtype: triggered
 target: Self or one creature
 trigger: The target would be [force moved](../../../../movement/forced-movement.md).

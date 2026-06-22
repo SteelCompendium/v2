@@ -5,6 +5,7 @@ class: censor
 level: "4"
 name: Saint's Epiphany
 scc: mcdm.heroes.v1/feature.censor.level-4/saints-epiphany
+subclass: knowledge
 type: feature
 ---
 
@@ -16,7 +17,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>

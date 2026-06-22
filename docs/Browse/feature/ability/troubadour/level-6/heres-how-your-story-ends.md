@@ -13,6 +13,7 @@ level: "6"
 name: Here's How Your Story Ends
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends
+subclass: auteur
 target: Each enemy in the area
 tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
 tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)

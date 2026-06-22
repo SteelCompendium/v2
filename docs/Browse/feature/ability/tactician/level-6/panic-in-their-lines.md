@@ -16,6 +16,7 @@ level: "6"
 name: Panic in Their Lines
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
+subclass: insurgent
 target: Two creatures
 tier1: 6 + M damage; [slide](../../../../movement/forced-movement.md) 1
 tier2: 9 + M damage; [slide](../../../../movement/forced-movement.md) 3

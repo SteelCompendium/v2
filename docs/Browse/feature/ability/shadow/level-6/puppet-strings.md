@@ -16,6 +16,7 @@ level: "6"
 name: Puppet Strings
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings
+subclass: harlequin-mask
 target: Two enemies
 tier1: 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../../../common/main-actions/free-strike.md).
 tier2: 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.

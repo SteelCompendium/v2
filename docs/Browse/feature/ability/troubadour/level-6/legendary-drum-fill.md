@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Legendary Drum Fill
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-6/legendary-drum-fill
+subclass: virtuoso
 target: Self and each ally in the area
 type: ability
 ---

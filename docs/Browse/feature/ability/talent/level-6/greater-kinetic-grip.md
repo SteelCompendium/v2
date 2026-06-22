@@ -15,6 +15,7 @@ level: "6"
 name: Greater Kinetic Grip
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
+subclass: telekinesis
 target: One creature or object
 tier1: '[Slide](../../../../movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical'
 tier2: '[Slide](../../../../movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical'

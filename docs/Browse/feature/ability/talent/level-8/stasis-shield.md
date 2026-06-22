@@ -13,6 +13,7 @@ keywords:
 level: "8"
 name: Stasis Shield
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield
+subclass: chronopathy
 subtype: triggered
 target: Self, or one creature or object
 trigger: The target takes damage.

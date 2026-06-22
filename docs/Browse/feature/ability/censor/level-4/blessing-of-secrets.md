@@ -12,6 +12,7 @@ keywords:
 level: "4"
 name: Blessing of Secrets
 scc: mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets
+subclass: trickery
 target: Self and each ally in the area
 type: ability
 ---

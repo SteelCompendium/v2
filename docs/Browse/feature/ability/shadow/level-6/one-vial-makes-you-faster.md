@@ -13,6 +13,7 @@ level: "6"
 name: One Vial Makes You Faster
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster
+subclass: caustic-alchemy
 target: Three creatures
 tier1: The creature's [speed](../../../../rule/character/speed.md) is increased by 2 until the end of the encounter.
 tier2: The creature can [fly](../../../../movement/fly.md) until the end of the encounter.

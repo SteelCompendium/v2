@@ -12,6 +12,7 @@ keywords:
 level: "9"
 name: Time Loop
 scc: mcdm.heroes.v1/feature.ability.null.level-9/time-loop
+subclass: chronokinetic
 subtype: triggered
 target: Self
 trigger: Another creature on the encounter map ends their [turn](../../../../rule/combat/turn.md).

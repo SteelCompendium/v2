@@ -1528,7 +1528,7 @@ As a 6th-level [fury](fury.md), you gain the following features.
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Marauder of the Primordial Chaos</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">6</span></div>

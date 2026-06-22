@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: So Gullible
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible
+subclass: harlequin-mask
 subtype: triggered
 target: Self
 trigger: Another creature targets you with a [strike](../../../../rule/combat/strike.md).

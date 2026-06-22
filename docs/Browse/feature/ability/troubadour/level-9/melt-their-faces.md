@@ -16,6 +16,7 @@ level: "9"
 name: Melt Their Faces
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces
+subclass: virtuoso
 target: One creature or object
 tier1: 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5
 tier2: 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10

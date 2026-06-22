@@ -12,6 +12,7 @@ keywords:
 level: "2"
 name: Fog of War
 scc: mcdm.heroes.v1/feature.ability.tactician.level-2/fog-of-war
+subclass: insurgent
 target: Two creatures
 type: ability
 ---

@@ -13,6 +13,7 @@ keywords:
 level: "6"
 name: Revitalizing Grace
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace
+subclass: life
 target: Self and each ally in the area
 type: ability
 ---

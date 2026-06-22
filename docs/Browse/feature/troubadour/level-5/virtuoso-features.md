@@ -29,6 +29,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Bolstering Banter</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
@@ -39,6 +40,7 @@ type: feature
 <div class="sc-trait__titles">
 <h3 class="sc-trait__name">Medley</h3>
 </div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
 <p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p>
