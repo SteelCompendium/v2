@@ -432,13 +432,32 @@ body[data-aug-links="off"] .sb-term { color: inherit; cursor: text; pointer-even
 /* ════════════════════════════════════════════════════════════
    STICKY mini-header (augmentation)
    ════════════════════════════════════════════════════════════ */
+/* The mini-header is split in two:
+     .sb__sticky        — a ZERO-HEIGHT position:sticky ANCHOR (reserves no flow).
+     .sb__sticky-inner  — the visible bar, position:absolute INSIDE the anchor.
+   This split is mandatory, not cosmetic. The reveal grows the bar's height, and
+   the bar sits (in DOM + flow) before the <article> that holds .sb__head — which
+   is this animation's own view-timeline subject. If the bar reserved flow space,
+   growing it would shove .sb__head down, which changes the timeline progress,
+   which changes the reveal, which moves .sb__head again → a bistable feedback
+   loop that flickers the bar every frame (the long-standing summoner-minion
+   jitter). Blink merely *masked* it with scroll anchoring (badly — hence the
+   flicker); WebKit has no scroll anchoring so it flickered hardest; Firefox
+   doesn't do scroll-driven animations at all so the bar never appeared. Making
+   the bar position:absolute removes it from flow entirely, so its reveal never
+   touches .sb__head's geometry and there is nothing to feed back — fixed in every
+   engine, no overflow-anchor hack needed. */
 .sb__sticky {
   /* The card-size slider zooms .sb-wrap (extra.css: zoom: --sc-card-scale), and
-     this sticky lives inside it — so `top` is resolved in the zoomed space and
+     this anchor lives inside it — so `top` is resolved in the zoomed space and
      paints at top×scale real px. Divide by the scale so the real offset stays
      the measured --sticky-top (see .sb-wrap) and clears Material's fixed
      header/tabs at any card size. */
   position: sticky; top: calc(var(--sticky-top) / var(--sc-card-scale, 1)); z-index: 5;
+  height: 0; margin: 0;
+}
+.sb__sticky-inner {
+  position: absolute; left: 0; right: 0; top: 0;
   margin: 0; padding: 0 var(--pad);
   max-height: 0; opacity: 0; overflow: hidden; pointer-events: none;
   border-bottom: 1px solid transparent;
@@ -450,36 +469,25 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* Scroll-driven reveal — replaces steel-statblock.js (retired). The condensed
    header fades in as the full .sb__head tucks up under Material's fixed chrome,
-   then rides along via position:sticky until the whole card scrolls past (sticky
-   containment carries it off — no explicit "card gone" rule needed). The head's
-   view-timeline is inset by the chrome height so "exit" is measured at the chrome
-   line, not the raw viewport top.
-   Guarded by @supports: where scroll-driven animations are unsupported (older
-   Safari/Firefox) the mini-header simply stays hidden and the full header
-   remains — a safe degradation.
+   then rides along via the anchor's position:sticky until the whole card scrolls
+   past (sticky containment carries it off — no explicit "card gone" rule needed).
+   The head's view-timeline is inset by the chrome height so "exit" is measured at
+   the chrome line, not the raw viewport top.
+   Guarded by @supports: where scroll-driven animations are unsupported (Firefox,
+   older Safari) the mini-header simply stays hidden and the full header remains —
+   a safe degradation.
    NOTE: --sticky-top is now a CSS constant (no JS measuring Material's live
    chrome), so the park offset + reveal point can drift with font size and across
    the <76.25em tabs breakpoint; tune --sticky-top / animation-range on deploy.
    max-height (12rem) is the reveal cap; it must clear the tallest open state
    (row1 + wrapped secondary-stats row2) or overflow:hidden clips row2. */
 @supports (animation-timeline: view()) {
-  /* Kill scroll anchoring inside the plate, or the reveal flickers/jitters.
-     The mini-header is position:sticky and sits IN FLOW before the article, so
-     growing its height (the reveal) shoves the article — and .sb__head, this
-     animation's own view-timeline subject — down by ~12rem. That growth happens
-     above the viewport, so the browser's scroll anchoring silently nudges
-     scrollTop to compensate; the nudged scrollTop changes the timeline progress,
-     which changes the reveal, which re-triggers anchoring → a bistable loop that
-     toggles the bar collapsed↔open every frame (worst on short cards like
-     summoner minions, where you park right in the unstable zone). Opting the
-     subtree out of anchoring breaks the loop. Harmless where unsupported
-     (WebKit has no scroll anchoring, so it never flickered). */
-  .sb-wrap { timeline-scope: --sb-head-tl; overflow-anchor: none; }
+  .sb-wrap { timeline-scope: --sb-head-tl; }
   .sb-wrap .sb__head {
     view-timeline: --sb-head-tl block;
     view-timeline-inset: calc(var(--sticky-top) / var(--sc-card-scale, 1)) auto;
   }
-  .sb__sticky {
+  .sb__sticky-inner {
     animation: sb-sticky-reveal linear both;
     animation-timeline: --sb-head-tl;
     animation-range: exit 75% exit 100%;
