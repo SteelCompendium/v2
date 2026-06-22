@@ -641,13 +641,21 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 .sb-prev .sb__stat .v { font-size: 1.1rem; }
 .sb-prev .sb__stat .l { font-size: .62rem; }
 
-/* secondary stats — FIXED ledger layout */
+/* secondary stats — FIXED ledger layout. NOTE: this must RE-DECLARE everything the
+   global [data-sb-meta="grid"|"gridc"] rules inject, not just rely on losing the
+   cascade. Those rules are `[data-sb-meta=…] .sb__meta .sb__field` — attr + 2
+   classes == (0,3,0), the SAME specificity as `.sb-prev .sb__meta .sb__field`. The
+   tie goes to this (later) rule, but only for the properties it also sets; anything
+   it omits leaks through. So the preview ledger must explicitly reset the box frame
+   (border/radius/background), min-height, and especially flex-direction — grid's
+   `column` / gridc's `column-reverse` is what made the values "float left". */
 .sb-prev .sb__meta { grid-template-columns: 1fr 1fr; gap: 0 1.2rem; padding: 0 var(--pad) .5rem; }
 .sb-prev .sb__meta .sb__field {
-  display: flex; align-items: baseline; justify-content: space-between; gap: .5rem;
-  padding: .26rem .05rem; border-bottom: 1px solid var(--fx-metal-faint);
+  display: flex; flex-direction: row; align-items: baseline; justify-content: space-between; gap: .5rem;
+  padding: .26rem .05rem; min-height: 0;
+  border: 0; border-bottom: 1px solid var(--fx-metal-faint); border-radius: 0; background: none;
 }
-.sb-prev .sb__meta .sb__field-v { text-align: right; font-size: .82rem; }
+.sb-prev .sb__meta .sb__field-v { text-align: right; font-size: .82rem; font-weight: 400; color: var(--md-default-fg-color); }
 
 /* characteristics — FIXED one-line, boxed first letter */
 .sb-prev .sb__chars { margin: 0 var(--pad) .4rem; padding: .4rem .3rem; gap: .3rem; }
