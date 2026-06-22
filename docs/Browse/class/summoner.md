@@ -180,7 +180,13 @@ As a [summoner](summoner.md), you gain the following features.
 </header>
 <div class="sc-trait__body">
 <p>Though you can&#39;t gain essence outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can&#39;t use that same ability or effect outside of combat again until you gain at least 1 <a href="../../rule/resource/victories/">Victory</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
-<p>&gt; <b>More Wielders of Quintessence</b> &gt; &gt; Essence is the &#34;stuff of creation.&#34; Just as the elementalist uses essence to conjure fire, lightning, or warp space and time, the summoner uses essence to manifest skeletons, conjure pixies, and call forth demons from the Abyssal Waste. &gt; &gt; There may be more magicians in the future that also rely on essence for their magic.</p>
+<aside class="sc-callout" data-action="callout">
+<div class="sc-callout__title"><span class="sc-callout__dia"></span>More Wielders of Quintessence</div>
+<div class="sc-callout__body">
+<p>Essence is the &#34;stuff of creation.&#34; Just as the elementalist uses essence to conjure fire, lightning, or warp space and time, the summoner uses essence to manifest skeletons, conjure pixies, and call forth demons from the Abyssal Waste.</p>
+<p>There may be more magicians in the future that also rely on essence for their magic.</p>
+</div>
+</aside>
 </div>
 </section>
 </div>
