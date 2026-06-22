@@ -85,6 +85,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Earth: Acolyte of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -96,6 +97,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Fire: Acolyte of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -107,6 +109,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Green: Acolyte of the Green</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -118,6 +121,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Void: Acolyte of the Mystery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -302,6 +306,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">A Beyonding of Vision</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -336,6 +341,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">It Is the Soul Which Hears</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -1220,6 +1226,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Disciple of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1231,6 +1238,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Disciple of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1456,6 +1464,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">A Conversation With Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1467,6 +1476,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Distance Is Only Memory</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1478,6 +1488,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Earth Accepts Me</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1511,6 +1522,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Remember Growth and Sun and Rain</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1742,6 +1754,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Burning Grounds</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1753,6 +1766,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Flowering Bed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1764,6 +1778,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Quaking Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1775,6 +1790,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Veiling Bed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1850,6 +1866,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Hide of Tenfold Shields</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1862,6 +1879,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">The Mountain Does Not Move</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1874,6 +1892,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Pierce the Veil of Substance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1886,6 +1905,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Smoldering Step</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2304,6 +2324,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Black Hole Star</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2316,6 +2337,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Chimeric Manifestation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2329,6 +2351,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">The Flame Primordial</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2722,6 +2745,7 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Master of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2734,6 +2758,7 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Master of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2746,6 +2771,7 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Master of Green</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -2759,6 +2785,7 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Master of Void</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>

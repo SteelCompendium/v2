@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Bounder</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Stormborn</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Unfettered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

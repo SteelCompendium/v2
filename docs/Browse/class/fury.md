@@ -191,6 +191,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Beast Shape</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -213,6 +214,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Primordial Cunning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -225,6 +227,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Primordial Strength</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -237,6 +240,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Relentless Hunter</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -794,6 +798,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Inescapable Wrath</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -805,6 +810,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Tooth and Claw</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -816,6 +822,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Unstoppable Force</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1069,6 +1076,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Immovable Object</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1081,6 +1089,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Nature&#39;s Knight</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1093,6 +1102,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">See Through Their Tricks</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1350,6 +1360,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Bounder</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1361,6 +1372,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Stormborn</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1372,6 +1384,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Unfettered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1522,22 +1535,11 @@ As a 5th-level [fury](fury.md), you gain the following features.
 
 As a 6th-level [fury](fury.md), you gain the following features.
 
-### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos"}
+### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos" data-subclass="stormwight"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Marauder of the Primordial Chaos</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.</p>
-<p>Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your <a href="../../rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../rule/resource/renown/">Renown</a> provided by the Nature&#39;s Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P &lt; AVERAGE, they are <a href="../../condition/frightened/">frightened</a> of you (save ends).</p>
-</div>
-</section>
+As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
+
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your [Renown](../rule/resource/renown.md) as 1 higher than usual. This stacks with the increase to your effective [Renown](../rule/resource/renown.md) provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
 
 ### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
 
@@ -1922,6 +1924,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Menagerie</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1933,6 +1936,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">A Step Ahead</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1944,6 +1948,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Strongest There Is</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

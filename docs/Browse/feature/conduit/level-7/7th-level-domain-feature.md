@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Protection</div>
 <h3 class="sc-trait__name">Blessing of Iron</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Love</div>
 <h3 class="sc-trait__name">Covenant of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -81,6 +83,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Creation</div>
 <h3 class="sc-trait__name">Divine Quartermaster</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -92,6 +95,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Life</div>
 <h3 class="sc-trait__name">Font of Grace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -103,6 +107,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Gods&#39; Library</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -114,6 +119,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Sun</div>
 <h3 class="sc-trait__name">Light of the Burning Sun</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -125,6 +131,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -138,6 +145,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Storm</div>
 <h3 class="sc-trait__name">Thunderstruck</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -149,6 +157,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Trickery</div>
 <h3 class="sc-trait__name">Trinity of Trickery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -182,6 +191,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Death</div>
 <h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -194,6 +204,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
 <h3 class="sc-trait__name">Word of Fate Denied</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -205,6 +216,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · War</div>
 <h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>

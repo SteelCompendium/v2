@@ -763,6 +763,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Blessing of Compassion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -775,6 +776,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -786,6 +788,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -802,6 +805,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Faithful Friend</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -901,6 +905,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Inner Light</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -912,6 +917,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
 <h3 class="sc-trait__name">Inspired Deception</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -923,6 +929,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Visions</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -934,6 +941,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Protective Circle</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -945,6 +953,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Revitalizing Ritual</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -956,6 +965,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -1401,6 +1411,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">It Was Foretold</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1412,6 +1423,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Judge of Character</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1423,6 +1435,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Lead by Example</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1434,6 +1447,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1445,6 +1459,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">A Sense for Truth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1456,6 +1471,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stalwart Icon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1875,6 +1891,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Blessing of Life</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1919,6 +1936,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Impervious Touch</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1931,6 +1949,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
 <h3 class="sc-trait__name">Improved Hands of the Maker</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1942,6 +1961,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1953,6 +1973,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Invocation of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1964,6 +1985,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Light of Revelation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1975,6 +1997,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Warning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1986,6 +2009,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
 <h3 class="sc-trait__name">Seance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1997,6 +2021,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -2008,6 +2033,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Windwalk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -2019,6 +2045,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Wode Road</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -2062,6 +2089,7 @@ As a 5th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Evil Revealed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2073,6 +2101,7 @@ As a 5th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Prophecy</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2085,6 +2114,7 @@ As a 5th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stand Fast!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2497,6 +2527,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Blessing of Iron</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2508,6 +2539,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Covenant of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2541,6 +2573,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
 <h3 class="sc-trait__name">Divine Quartermaster</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2552,6 +2585,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Font of Grace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2563,6 +2597,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Gods&#39; Library</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2574,6 +2609,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Light of the Burning Sun</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2585,6 +2621,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2598,6 +2635,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Ride the Lightning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2609,6 +2647,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
 <h3 class="sc-trait__name">Trinity of Trickery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2642,6 +2681,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
 <h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2654,6 +2694,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Word of Fate Denied</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2665,6 +2706,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2756,6 +2798,7 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Demonologist</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2767,6 +2810,7 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Their Past Revealed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2778,6 +2822,7 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Vow</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -3523,6 +3568,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Love</div>
 <h3 class="sc-trait__name">Blessing of Compassion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3535,6 +3581,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3546,6 +3593,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Storm</div>
 <h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3561,6 +3609,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Faithful Friend</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3594,6 +3643,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Death</div>
 <h3 class="sc-trait__name">Grave Speech</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3627,6 +3677,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Creation</div>
 <h3 class="sc-trait__name">Hands of the Maker</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3660,6 +3711,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Sun</div>
 <h3 class="sc-trait__name">Inner Light</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3671,6 +3723,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Trickery</div>
 <h3 class="sc-trait__name">Inspired Deception</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3682,6 +3735,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Visions</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3693,6 +3747,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Protection</div>
 <h3 class="sc-trait__name">Protective Circle</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3704,6 +3759,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Life</div>
 <h3 class="sc-trait__name">Revitalizing Ritual</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -3715,6 +3771,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · War</div>
 <h3 class="sc-trait__name">Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -5766,6 +5823,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Protection</div>
 <h3 class="sc-trait__name">Blessing of Iron</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5777,6 +5835,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Love</div>
 <h3 class="sc-trait__name">Covenant of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5810,6 +5869,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Creation</div>
 <h3 class="sc-trait__name">Divine Quartermaster</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5821,6 +5881,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Life</div>
 <h3 class="sc-trait__name">Font of Grace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5832,6 +5893,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Gods&#39; Library</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5843,6 +5905,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Sun</div>
 <h3 class="sc-trait__name">Light of the Burning Sun</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5854,6 +5917,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5867,6 +5931,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Storm</div>
 <h3 class="sc-trait__name">Thunderstruck</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5878,6 +5943,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Trickery</div>
 <h3 class="sc-trait__name">Trinity of Trickery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5911,6 +5977,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Death</div>
 <h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5923,6 +5990,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
 <h3 class="sc-trait__name">Word of Fate Denied</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -5934,6 +6002,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · War</div>
 <h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -6609,6 +6678,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Earth: Acolyte of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -6620,6 +6690,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Fire: Acolyte of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -6631,6 +6702,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Green: Acolyte of the Green</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -6642,6 +6714,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Void: Acolyte of the Mystery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -6826,6 +6899,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">A Beyonding of Vision</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -6860,6 +6934,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">It Is the Soul Which Hears</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -7744,6 +7819,7 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Disciple of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -7755,6 +7831,7 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Disciple of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -7980,6 +8057,7 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">A Conversation With Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -7991,6 +8069,7 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Distance Is Only Memory</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -8002,6 +8081,7 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Earth Accepts Me</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -8035,6 +8115,7 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Remember Growth and Sun and Rain</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -8266,6 +8347,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Burning Grounds</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -8277,6 +8359,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Flowering Bed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -8288,6 +8371,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Quaking Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -8299,6 +8383,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Veiling Bed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -8374,6 +8459,7 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Hide of Tenfold Shields</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -8386,6 +8472,7 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">The Mountain Does Not Move</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -8398,6 +8485,7 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Pierce the Veil of Substance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -8410,6 +8498,7 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Smoldering Step</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -8828,6 +8917,7 @@ As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Black Hole Star</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -8840,6 +8930,7 @@ As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Chimeric Manifestation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -8853,6 +8944,7 @@ As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">The Flame Primordial</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -9246,6 +9338,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Master of Earth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -9258,6 +9351,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">Master of Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -9270,6 +9364,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Master of Green</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -9283,6 +9378,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Master of Void</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
@@ -9505,6 +9601,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Beast Shape</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -9527,6 +9624,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Primordial Cunning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -9539,6 +9637,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Primordial Strength</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -9551,6 +9650,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Relentless Hunter</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -10108,6 +10208,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Inescapable Wrath</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -10119,6 +10220,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Tooth and Claw</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -10130,6 +10232,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Unstoppable Force</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -10383,6 +10486,7 @@ As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Immovable Object</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -10395,6 +10499,7 @@ As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Nature&#39;s Knight</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -10407,6 +10512,7 @@ As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">See Through Their Tricks</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -10664,6 +10770,7 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Bounder</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -10675,6 +10782,7 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Stormborn</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -10686,6 +10794,7 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Unfettered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -10836,22 +10945,11 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 
 As a 6th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos"}
+#### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos" data-subclass="stormwight"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Marauder of the Primordial Chaos</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.</p>
-<p>Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your <a href="../../../Browse/rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../../Browse/rule/resource/renown/">Renown</a> provided by the Nature&#39;s Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P &lt; AVERAGE, they are <a href="../../../Browse/condition/frightened/">frightened</a> of you (save ends).</p>
-</div>
-</section>
+As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
+
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your [Renown](../../Browse/rule/resource/renown.md) as 1 higher than usual. This stacks with the increase to your effective [Renown](../../Browse/rule/resource/renown.md) provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/condition/frightened.md) of you (save ends).
 
 #### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
 
@@ -11236,6 +11334,7 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Menagerie</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -11247,6 +11346,7 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">A Step Ahead</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -11258,6 +11358,7 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Strongest There Is</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -13299,6 +13400,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Cryokinetic</div>
 <h3 class="sc-trait__name">Entropic Adaptability</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -13310,6 +13412,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Metakinetic</div>
 <h3 class="sc-trait__name">Inertial Sink</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -13322,6 +13425,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Chronokinetic</div>
 <h3 class="sc-trait__name">Rapid Processing</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -13794,53 +13898,17 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 </div>
 </section>
 
-#### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness"}
+#### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness" data-subclass="cryokinetic"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Cryokinetic</div>
-<h3 class="sc-trait__name">Chilling Readiness</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of <a href="../../../Browse/rule/resource/surge/">surges</a> equal to your <a href="../../../Browse/rule/resource/victories/">Victories</a>.</p>
-</div>
-</section>
+You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of [surges](../../Browse/rule/resource/surge.md) equal to your [Victories](../../Browse/rule/resource/victories.md).
 
-#### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum"}
+#### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum" data-subclass="metakinetic"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Metakinetic</div>
-<h3 class="sc-trait__name">Inertial Fulcrum</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>Whenever you use an ability to reduce damage dealt to you or to reduce the <a href="../../../Browse/rule/combat/distance/">distance</a> of <a href="../../../Browse/movement/forced-movement/">forced movement</a> imposed upon you, you can deal damage to one enemy in the area of your <a href="../../../Browse/feature/null/level-1/null-field/">Null Field</a> ability equal to your <a href="../../../Browse/rule/character/intuition/">Intuition</a> score.</p>
-</div>
-</section>
+Whenever you use an ability to reduce damage dealt to you or to reduce the [distance](../../Browse/rule/combat/distance.md) of [forced movement](../../Browse/movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
-#### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action"}
+#### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action" data-subclass="chronokinetic"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Chronokinetic</div>
-<h3 class="sc-trait__name">Instant Action</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>If you&#39;re not <a href="../../../Browse/rule/combat/surprised/">surprised</a> at the start of your first <a href="../../../Browse/rule/combat/turn/">turn</a> in combat, you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../../Browse/rule/resource/surge/">surges</a>. If you are <a href="../../../Browse/rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../../Browse/rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
-</div>
-</section>
+If you're not [surprised](../../Browse/rule/combat/surprised.md) at the start of your first [turn](../../Browse/rule/combat/turn.md) in combat, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and gain 2 [surges](../../Browse/rule/resource/surge.md). If you are [surprised](../../Browse/rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../Browse/rule/combat/surprised.md) and gain the benefits of this feature.
 
 #### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
@@ -14420,6 +14488,7 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Metakinetic</div>
 <h3 class="sc-trait__name">Inertial Dampener</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -14431,6 +14500,7 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Chronokinetic</div>
 <h3 class="sc-trait__name">Shared Momentum</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -14442,6 +14512,7 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Cryokinetic</div>
 <h3 class="sc-trait__name">Synaptic Triage</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -15175,6 +15246,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Smoke Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -15770,6 +15842,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Burning Ash</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -15781,6 +15854,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Friend!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -15793,6 +15867,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Trained Assassin</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -16329,6 +16404,7 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Harlequin Gambit</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -16341,6 +16417,7 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Trail of Cinders</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -16353,6 +16430,7 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Volatile Reagents</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -16854,6 +16932,7 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Cinder Step</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -16865,6 +16944,7 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Parkour</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -16876,6 +16956,7 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Time Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -17517,6 +17598,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Commanding Presence</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -17528,6 +17610,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Covert Operations</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -17540,6 +17623,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Studied Commander</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -18077,6 +18161,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Goaded</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -18088,6 +18173,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Infiltration Tactics</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -18099,6 +18185,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Melee Superiority</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -18555,6 +18642,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Anticipation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -18566,6 +18654,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Distracted</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -18577,6 +18666,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">I Predicted That</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -18588,6 +18678,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Leave No Trace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -18599,6 +18690,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shake It Off</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -18610,6 +18702,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Tactical Offensive</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -19069,6 +19162,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Asymmetric Warfare</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -19080,6 +19174,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Grand Strategy</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -19091,6 +19186,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shock and Awe</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -19150,6 +19246,7 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Bait and Ambush</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -19162,6 +19259,7 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Pincer Movement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -19174,6 +19272,7 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">See Your Enemies Driven Before You</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -20737,6 +20836,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Ease the Hours</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -20748,6 +20848,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Ease the Mind</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -20759,6 +20860,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Ease Their Fall</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -21297,6 +21399,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Compulsion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21308,6 +21411,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Distortion Temporal</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21319,6 +21423,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Kinetic Amplifier</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21330,6 +21435,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Remote Amplification</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21341,6 +21447,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Speed of Thought</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21352,6 +21459,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Triangulate</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -21986,6 +22094,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Doubling the Hours</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -22031,6 +22140,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Low Gravity</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -22042,6 +22152,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Mindlink</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -22100,21 +22211,9 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 </div>
 </section>
 
-#### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection"}
+#### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection" data-subclass="telepathy"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
-<h3 class="sc-trait__name">Universal Connection</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>The range of your <a href="../../../Browse/feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p>
-</div>
-</section>
+The range of your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
 
 #### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
 
@@ -22852,6 +22951,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Acrobatics</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -22885,6 +22985,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Blocking</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -22918,6 +23019,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Dramatic Monologue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -22952,6 +23054,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Power Chord</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -22989,6 +23092,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Star Power</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -23023,6 +23127,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Virtuoso Performances</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -23876,6 +23981,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Foil</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -23887,6 +23993,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Missed Cue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -23898,6 +24005,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Second Album</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -24233,6 +24341,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Fix It in Post</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -24287,6 +24396,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Verbal Duel</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -24341,6 +24451,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Bolstering Banter</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -24352,6 +24463,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Medley</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -24841,6 +24953,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Crowd Favorites</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -24894,6 +25007,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Deleted Scene</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -24905,6 +25019,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Masterwork</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

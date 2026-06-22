@@ -256,6 +256,7 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Smoke Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -851,6 +852,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Burning Ash</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -862,6 +864,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Friend!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -874,6 +877,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Trained Assassin</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1410,6 +1414,7 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Harlequin Gambit</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1422,6 +1427,7 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Trail of Cinders</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1434,6 +1440,7 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Volatile Reagents</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1935,6 +1942,7 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Cinder Step</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1946,6 +1954,7 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Parkour</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1957,6 +1966,7 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Time Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

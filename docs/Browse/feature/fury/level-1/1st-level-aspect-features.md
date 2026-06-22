@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Beast Shape</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -59,6 +60,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
 <h3 class="sc-trait__name">Primordial Cunning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -71,6 +73,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
 <h3 class="sc-trait__name">Primordial Strength</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -83,6 +86,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
 <h3 class="sc-trait__name">Relentless Hunter</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

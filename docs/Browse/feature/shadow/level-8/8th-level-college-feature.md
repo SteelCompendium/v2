@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Black Ash</div>
 <h3 class="sc-trait__name">Cinder Step</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
 <h3 class="sc-trait__name">Parkour</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Caustic Alchemy</div>
 <h3 class="sc-trait__name">Time Bomb</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

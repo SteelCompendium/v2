@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Blessing of Life</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -81,6 +82,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Impervious Touch</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -93,6 +95,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
 <h3 class="sc-trait__name">Improved Hands of the Maker</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -104,6 +107,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -115,6 +119,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Invocation of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -126,6 +131,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Light of Revelation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -137,6 +143,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Warning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -148,6 +155,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
 <h3 class="sc-trait__name">Seance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -159,6 +167,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -170,6 +179,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Windwalk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -181,6 +191,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Wode Road</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>

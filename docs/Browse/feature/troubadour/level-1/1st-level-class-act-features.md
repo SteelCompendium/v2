@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Acrobatics</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -70,6 +71,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Blocking</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -103,6 +105,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Dramatic Monologue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -137,6 +140,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Power Chord</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -174,6 +178,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Star Power</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -208,6 +213,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Virtuoso Performances</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

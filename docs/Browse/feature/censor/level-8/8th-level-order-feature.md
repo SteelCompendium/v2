@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Demonologist</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Their Past Revealed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Vow</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

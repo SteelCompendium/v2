@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Compulsion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Distortion Temporal</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Kinetic Amplifier</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -70,6 +73,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Remote Amplification</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -81,6 +85,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Speed of Thought</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -92,6 +97,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Triangulate</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

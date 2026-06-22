@@ -152,6 +152,7 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Commanding Presence</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -163,6 +164,7 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Covert Operations</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -175,6 +177,7 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Studied Commander</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -712,6 +715,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Goaded</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -723,6 +727,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Infiltration Tactics</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -734,6 +739,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Melee Superiority</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1190,6 +1196,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Anticipation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1201,6 +1208,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Distracted</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1212,6 +1220,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">I Predicted That</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1223,6 +1232,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Leave No Trace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1234,6 +1244,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shake It Off</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1245,6 +1256,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Tactical Offensive</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1704,6 +1716,7 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Asymmetric Warfare</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -1715,6 +1728,7 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Grand Strategy</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -1726,6 +1740,7 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shock and Awe</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -1785,6 +1800,7 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Bait and Ambush</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1797,6 +1813,7 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Pincer Movement</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -1809,6 +1826,7 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">See Your Enemies Driven Before You</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

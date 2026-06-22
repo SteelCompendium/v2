@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Metakinetic</div>
 <h3 class="sc-trait__name">Inertial Dampener</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Chronokinetic</div>
 <h3 class="sc-trait__name">Shared Momentum</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature · Cryokinetic</div>
 <h3 class="sc-trait__name">Synaptic Triage</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

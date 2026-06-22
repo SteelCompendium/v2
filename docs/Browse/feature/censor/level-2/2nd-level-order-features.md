@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">It Was Foretold</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Judge of Character</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Lead by Example</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -70,6 +73,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -81,6 +85,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">A Sense for Truth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -92,6 +97,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stalwart Icon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>

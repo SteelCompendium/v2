@@ -1125,6 +1125,7 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Ease the Hours</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1136,6 +1137,7 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Ease the Mind</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1147,6 +1149,7 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Ease Their Fall</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1685,6 +1688,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Compulsion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1696,6 +1700,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Distortion Temporal</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1707,6 +1712,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Kinetic Amplifier</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1718,6 +1724,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Remote Amplification</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1729,6 +1736,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Speed of Thought</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1740,6 +1748,7 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Triangulate</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2374,6 +2383,7 @@ As an 8th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Chronopathy</div>
 <h3 class="sc-trait__name">Doubling the Hours</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2419,6 +2429,7 @@ As an 8th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telekinesis</div>
 <h3 class="sc-trait__name">Low Gravity</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2430,6 +2441,7 @@ As an 8th-level [talent](talent.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
 <h3 class="sc-trait__name">Mindlink</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2488,21 +2500,9 @@ As an 8th-level [talent](talent.md), you gain the following features.
 </div>
 </section>
 
-### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection"}
+### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection" data-subclass="telepathy"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature · Telepathy</div>
-<h3 class="sc-trait__name">Universal Connection</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>The range of your <a href="../../feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p>
-</div>
-</section>
+The range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
 
 ### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
 

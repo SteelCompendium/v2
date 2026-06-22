@@ -281,6 +281,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Blessing of Compassion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -293,6 +294,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -304,6 +306,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -320,6 +323,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Faithful Friend</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -419,6 +423,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Inner Light</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -430,6 +435,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
 <h3 class="sc-trait__name">Inspired Deception</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -441,6 +447,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Visions</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -452,6 +459,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Protective Circle</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -463,6 +471,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Revitalizing Ritual</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -474,6 +483,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -919,6 +929,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">It Was Foretold</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -930,6 +941,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Judge of Character</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -941,6 +953,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Lead by Example</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -952,6 +965,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -963,6 +977,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">A Sense for Truth</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -974,6 +989,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stalwart Icon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
@@ -1393,6 +1409,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Blessing of Life</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1437,6 +1454,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Impervious Touch</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1449,6 +1467,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
 <h3 class="sc-trait__name">Improved Hands of the Maker</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1460,6 +1479,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1471,6 +1491,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Invocation of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1482,6 +1503,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Light of Revelation</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1493,6 +1515,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Warning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1504,6 +1527,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
 <h3 class="sc-trait__name">Seance</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1515,6 +1539,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1526,6 +1551,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Windwalk</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1537,6 +1563,7 @@ As a 4th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Wode Road</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
@@ -1580,6 +1607,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Evil Revealed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1591,6 +1619,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Prophecy</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1603,6 +1632,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Stand Fast!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2015,6 +2045,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
 <h3 class="sc-trait__name">Blessing of Iron</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2026,6 +2057,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
 <h3 class="sc-trait__name">Covenant of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2059,6 +2091,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
 <h3 class="sc-trait__name">Divine Quartermaster</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2070,6 +2103,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
 <h3 class="sc-trait__name">Font of Grace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2081,6 +2115,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
 <h3 class="sc-trait__name">Gods&#39; Library</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2092,6 +2127,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
 <h3 class="sc-trait__name">Light of the Burning Sun</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2103,6 +2139,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
 <h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2116,6 +2153,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
 <h3 class="sc-trait__name">Ride the Lightning</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2127,6 +2165,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
 <h3 class="sc-trait__name">Trinity of Trickery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2160,6 +2199,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
 <h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2172,6 +2212,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
 <h3 class="sc-trait__name">Word of Fate Denied</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2183,6 +2224,7 @@ As a 7th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
 <h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2274,6 +2316,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
 <h3 class="sc-trait__name">Demonologist</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2285,6 +2328,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
 <h3 class="sc-trait__name">Their Past Revealed</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2296,6 +2340,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
 <h3 class="sc-trait__name">Vow</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

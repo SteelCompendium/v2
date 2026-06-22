@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Insurgent</div>
 <h3 class="sc-trait__name">Asymmetric Warfare</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Mastermind</div>
 <h3 class="sc-trait__name">Grand Strategy</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature · Vanguard</div>
 <h3 class="sc-trait__name">Shock and Awe</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>

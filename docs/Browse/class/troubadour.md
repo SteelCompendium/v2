@@ -246,6 +246,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Acrobatics</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -279,6 +280,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Blocking</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -312,6 +314,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Dramatic Monologue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -346,6 +349,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Power Chord</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -383,6 +387,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Star Power</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -417,6 +422,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Virtuoso Performances</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -1270,6 +1276,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Foil</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1281,6 +1288,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Missed Cue</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1292,6 +1300,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Second Album</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -1627,6 +1636,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Fix It in Post</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1681,6 +1691,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Verbal Duel</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1735,6 +1746,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Bolstering Banter</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -1746,6 +1758,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Medley</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
@@ -2235,6 +2248,7 @@ As an 8th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Virtuoso</div>
 <h3 class="sc-trait__name">Crowd Favorites</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2288,6 +2302,7 @@ As an 8th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Auteur</div>
 <h3 class="sc-trait__name">Deleted Scene</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
@@ -2299,6 +2314,7 @@ As an 8th-level [troubadour](troubadour.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature · Duelist</div>
 <h3 class="sc-trait__name">Masterwork</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

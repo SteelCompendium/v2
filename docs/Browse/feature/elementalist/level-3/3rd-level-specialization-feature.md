@@ -37,6 +37,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Fire</div>
 <h3 class="sc-trait__name">A Conversation With Fire</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -48,6 +49,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Void</div>
 <h3 class="sc-trait__name">Distance Is Only Memory</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -59,6 +61,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Earth</div>
 <h3 class="sc-trait__name">Earth Accepts Me</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
@@ -92,6 +95,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
 <h3 class="sc-trait__name">Remember Growth and Sun and Rain</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">3</span></div>

@@ -286,6 +286,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Love</div>
 <h3 class="sc-trait__name">Blessing of Compassion</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -298,6 +299,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -309,6 +311,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Storm</div>
 <h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -324,6 +327,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Faithful Friend</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -357,6 +361,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Death</div>
 <h3 class="sc-trait__name">Grave Speech</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -390,6 +395,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Creation</div>
 <h3 class="sc-trait__name">Hands of the Maker</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -423,6 +429,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Sun</div>
 <h3 class="sc-trait__name">Inner Light</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -434,6 +441,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Trickery</div>
 <h3 class="sc-trait__name">Inspired Deception</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -445,6 +453,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
 <h3 class="sc-trait__name">Oracular Visions</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -456,6 +465,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Protection</div>
 <h3 class="sc-trait__name">Protective Circle</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -467,6 +477,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Life</div>
 <h3 class="sc-trait__name">Revitalizing Ritual</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -478,6 +489,7 @@ As a [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · War</div>
 <h3 class="sc-trait__name">Sanctified Weapon</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -2529,6 +2541,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Protection</div>
 <h3 class="sc-trait__name">Blessing of Iron</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2540,6 +2553,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Love</div>
 <h3 class="sc-trait__name">Covenant of the Heart</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2573,6 +2587,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Creation</div>
 <h3 class="sc-trait__name">Divine Quartermaster</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2584,6 +2599,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Life</div>
 <h3 class="sc-trait__name">Font of Grace</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2595,6 +2611,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Knowledge</div>
 <h3 class="sc-trait__name">Gods&#39; Library</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2606,6 +2623,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Sun</div>
 <h3 class="sc-trait__name">Light of the Burning Sun</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2617,6 +2635,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Nature</div>
 <h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2630,6 +2649,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Storm</div>
 <h3 class="sc-trait__name">Thunderstruck</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2641,6 +2661,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Trickery</div>
 <h3 class="sc-trait__name">Trinity of Trickery</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2674,6 +2695,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Death</div>
 <h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2686,6 +2708,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
 <h3 class="sc-trait__name">Word of Fate Denied</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
@@ -2697,6 +2720,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · War</div>
 <h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
