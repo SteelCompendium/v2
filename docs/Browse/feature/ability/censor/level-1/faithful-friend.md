@@ -24,7 +24,7 @@ type: ability
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
 <div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action · Nature</div>
 <h3 class="sc-ability__name">Faithful Friend</h3>
 </div>
 <div class="sc-ability__corner"></div>

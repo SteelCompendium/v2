@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
 <div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action · Exorcist</div>
 <h3 class="sc-ability__name">Begone!</h3>
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Wrath</div></div>

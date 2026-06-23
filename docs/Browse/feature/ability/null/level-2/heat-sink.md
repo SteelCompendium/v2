@@ -25,7 +25,7 @@ type: ability
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
 <div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver · Cryokinetic</div>
 <h3 class="sc-ability__name">Heat Sink</h3>
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Discipline</div></div>

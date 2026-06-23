@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
 <div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action · Reaver</div>
 <h3 class="sc-ability__name">Death Strike</h3>
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Ferocity</div></div>
