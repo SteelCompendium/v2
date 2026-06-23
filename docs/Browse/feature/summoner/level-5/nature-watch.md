@@ -6,6 +6,7 @@ feature_source: circle
 level: "5"
 name: Nature Watch
 scc: mcdm.summoner.v1/feature.summoner.level-5/nature-watch
+subclass: storms
 type: feature
 ---
 
@@ -17,7 +18,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Storms</div>
 <h3 class="sc-trait__name">Nature Watch</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">5</span></div>

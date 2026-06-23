@@ -6,6 +6,7 @@ feature_source: summoner
 level: "8"
 name: Control the Elements
 scc: mcdm.summoner.v1/feature.summoner.level-8/control-the-elements
+subclass: storms
 type: feature
 ---
 
@@ -17,7 +18,7 @@ type: feature
 <header class="sc-trait__head">
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature · Storms</div>
 <h3 class="sc-trait__name">Control the Elements</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">8</span></div>

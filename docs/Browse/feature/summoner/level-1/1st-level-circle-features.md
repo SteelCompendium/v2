@@ -38,6 +38,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Graves</div>
 <h3 class="sc-trait__name">Dead Men Tell All Tales</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -50,6 +51,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Blight</div>
 <h3 class="sc-trait__name">Death Snap</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -61,6 +63,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Storms</div>
 <h3 class="sc-trait__name">Elemental Affinity</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -72,6 +75,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Spring</div>
 <h3 class="sc-trait__name">Fairy Whispers</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -91,6 +95,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Storms</div>
 <h3 class="sc-trait__name">Heart of Nature</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -102,6 +107,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Spring</div>
 <h3 class="sc-trait__name">Pixie Dust</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -114,6 +120,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Graves</div>
 <h3 class="sc-trait__name">Rise!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -126,6 +133,7 @@ type: feature
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Blight</div>
 <h3 class="sc-trait__name">Soulsense</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

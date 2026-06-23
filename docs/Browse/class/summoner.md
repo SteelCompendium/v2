@@ -404,6 +404,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Graves</div>
 <h3 class="sc-trait__name">Dead Men Tell All Tales</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -416,6 +417,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Blight</div>
 <h3 class="sc-trait__name">Death Snap</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -427,6 +429,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Storms</div>
 <h3 class="sc-trait__name">Elemental Affinity</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -438,6 +441,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Spring</div>
 <h3 class="sc-trait__name">Fairy Whispers</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -457,6 +461,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Storms</div>
 <h3 class="sc-trait__name">Heart of Nature</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -468,6 +473,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Spring</div>
 <h3 class="sc-trait__name">Pixie Dust</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -480,6 +486,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Graves</div>
 <h3 class="sc-trait__name">Rise!</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -492,6 +499,7 @@ As a [summoner](summoner.md), you gain the following features.
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Blight</div>
 <h3 class="sc-trait__name">Soulsense</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
@@ -1735,138 +1743,50 @@ Your circle grants you a feature as shown on the 5th-Level Summoner Circle Featu
 | Spring | Flash Powder, Pixie Lift |
 | Storms | Nature Watch, Split |
 
-### Channel {data-scc="mcdm.summoner.v1/feature.summoner.level-5/channel"}
+### Channel {data-scc="mcdm.summoner.v1/feature.summoner.level-5/channel" data-subclass="graves"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Channel</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive.</p>
-<p>You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you&#39;ve hosted them for at least 1 hour, you must make a medium <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a>. On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can&#39;t get above a tier 2 result on <a href="../../rule/dice/power-roll/">power rolls</a> until you exorcise the haunt either by completing the <a href="../../project/find-a-cure/">Find a Cure</a> downtime project in Draw Steel: Heroes or taking a <a href="../../rule/resource/respite/">respite</a> with an exorcist.</p>
-<p>After you stop channeling their spirit, you can&#39;t use this feature to channel the same creature again.</p>
-</div>
-</section>
+You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive.
 
-### Dread March {data-scc="mcdm.summoner.v1/feature.summoner.level-5/dread-march"}
+You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium [Presence](../rule/character/presence.md) [test](../rule/test/test.md). On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on [power rolls](../rule/dice/power-roll.md) until you exorcise the haunt either by completing the [Find a Cure](../project/find-a-cure.md) downtime project in Draw Steel: Heroes or taking a [respite](../rule/resource/respite.md) with an exorcist.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Dread March</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You and your undead <a href="../../feature/summoner/level-1/minions/">minions</a> don&#39;t spend additional <a href="../../rule/character/speed/">speed</a> to move through <a href="../../movement/difficult-terrain/">difficult terrain</a>. If one or more of your undead <a href="../../feature/summoner/level-1/minions/">minions</a> would die while using their move action, they can choose to not die until the end of your <a href="../../rule/combat/turn/">turn</a>.</p>
-</div>
-</section>
+After you stop channeling their spirit, you can't use this feature to channel the same creature again.
 
-### Flash Powder {data-scc="mcdm.summoner.v1/feature.summoner.level-5/flash-powder"}
+### Dread March {data-scc="mcdm.summoner.v1/feature.summoner.level-5/dread-march" data-subclass="graves"}
 
-<section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Flash Powder</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each ally that gains <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> from your <a href="../../feature/summoner/level-1/pixie-dust/">Pixie Dust</a> feature also gains one of the following effects until the end of their next <a href="../../rule/combat/turn/">turn</a> (or for 10 minutes if used outside of combat):</p>
-<ul><li><b>Flight:</b> Their <a href="../../rule/character/speed/">speed</a> gains the <a href="../../movement/fly/">Fly</a> keyword.</li><li><b>Vanish:</b> They become invisible.</li><li><b>Water Weird:</b> As a <a href="../../rule/combat/free-maneuver/">free maneuver</a> once per <a href="../../rule/combat/turn/">turn</a>, they can <a href="../../movement/teleport/">teleport</a> to a body of water within 5 squares of them.</li><li><b>Panacea:</b> They can end one <a href="../../rule/combat/condition/">condition</a> affecting them or stand up.</li></ul>
-</div>
-</section>
+You and your undead [minions](../feature/summoner/level-1/minions.md) don't spend additional [speed](../rule/character/speed.md) to move through [difficult terrain](../movement/difficult-terrain.md). If one or more of your undead [minions](../feature/summoner/level-1/minions.md) would die while using their move action, they can choose to not die until the end of your [turn](../rule/combat/turn.md).
 
-### Nature Watch {data-scc="mcdm.summoner.v1/feature.summoner.level-5/nature-watch"}
+### Flash Powder {data-scc="mcdm.summoner.v1/feature.summoner.level-5/flash-powder" data-subclass="spring"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Nature Watch</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You can spend 1 uninterrupted minute each day to perform a ritual and summon a special elemental mote called a beacon to patrol the area. This mote telepathically communicates any hostile creatures, hazards, or traps within 20 squares of them to you no matter how far away you are. You know the number of nearby hazards and which direction they&#39;re in relative to where the beacon is, but not their exact position. You can have a number of beacons active equal to your level.</p>
-</div>
-</section>
+Each ally that gains [temporary Stamina](../rule/health/temporary-stamina.md) from your [Pixie Dust](../feature/summoner/level-1/pixie-dust.md) feature also gains one of the following effects until the end of their next [turn](../rule/combat/turn.md) (or for 10 minutes if used outside of combat):
 
-### Pixie Lift {data-scc="mcdm.summoner.v1/feature.summoner.level-5/pixie-lift"}
+- **Flight:** Their [speed](../rule/character/speed.md) gains the [Fly](../movement/fly.md) keyword.
+- **Vanish:** They become invisible.
+- **Water Weird:** As a [free maneuver](../rule/combat/free-maneuver.md) once per [turn](../rule/combat/turn.md), they can [teleport](../movement/teleport.md) to a body of water within 5 squares of them.
+- **Panacea:** They can end one [condition](../rule/combat/condition.md) affecting them or stand up.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Pixie Lift</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>Your <a href="../../rule/character/speed/">speed</a> gains the <a href="../../movement/fly/">Fly</a> and <a href="../../movement/hover/">Hover</a> keywords. You lose the <a href="../../movement/hover/">Hover</a> keyword from this feature while you are <a href="../../condition/dazed/">dazed</a>, <a href="../../rule/health/dying/">dying</a>, or you fly more than 1 square above the surface of the ground.</p>
-<p>If your <a href="../../rule/character/speed/">speed</a> previously had the <a href="../../movement/fly/">Fly</a> keyword, you can now <a href="../../movement/fly/">fly</a> while sneaking an additional number of squares equal to your <a href="../../rule/character/reason/">Reason</a>.</p>
-</div>
-</section>
+### Nature Watch {data-scc="mcdm.summoner.v1/feature.summoner.level-5/nature-watch" data-subclass="storms"}
 
-### Shaping {data-scc="mcdm.summoner.v1/feature.summoner.level-5/shaping"}
+You can spend 1 uninterrupted minute each day to perform a ritual and summon a special elemental mote called a beacon to patrol the area. This mote telepathically communicates any hostile creatures, hazards, or traps within 20 squares of them to you no matter how far away you are. You know the number of nearby hazards and which direction they're in relative to where the beacon is, but not their exact position. You can have a number of beacons active equal to your level.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Shaping</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You can spend 1 uninterrupted minute to perform a ritual that causes one of your <a href="../../feature/summoner/level-1/minions/">minions</a> to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of <a href="../../feature/summoner/level-1/minions/">minions</a> disguised at the same time equal to your <a href="../../rule/character/reason/">Reason</a> score.</p>
-</div>
-</section>
+### Pixie Lift {data-scc="mcdm.summoner.v1/feature.summoner.level-5/pixie-lift" data-subclass="spring"}
 
-### Split {data-scc="mcdm.summoner.v1/feature.summoner.level-5/split"}
+Your [speed](../rule/character/speed.md) gains the [Fly](../movement/fly.md) and [Hover](../movement/hover.md) keywords. You lose the [Hover](../movement/hover.md) keyword from this feature while you are [dazed](../condition/dazed.md), [dying](../rule/health/dying.md), or you fly more than 1 square above the surface of the ground.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Split</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>Once during your <a href="../../rule/combat/turn/">turn</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to deal <a href="../../rule/damage/damage/">damage</a> to one of your elemental <a href="../../feature/summoner/level-1/minions/">minions</a> equal to half their maximum <a href="../../rule/health/stamina/">Stamina</a> in order to create one additional copy of that <a href="../../feature/summoner/level-1/minions/">minion</a> in an <a href="../../rule/combat/adjacent/">adjacent</a> unoccupied space and add them to their squad, even if you&#39;re at your minion maximum. You can&#39;t use this feature if it would kill one or more of the <a href="../../feature/summoner/level-1/minions/">minions</a> in the squad.</p>
-</div>
-</section>
+If your [speed](../rule/character/speed.md) previously had the [Fly](../movement/fly.md) keyword, you can now [fly](../movement/fly.md) while sneaking an additional number of squares equal to your [Reason](../rule/character/reason.md).
 
-### Soul Flense {data-scc="mcdm.summoner.v1/feature.summoner.level-5/soul-flense"}
+### Shaping {data-scc="mcdm.summoner.v1/feature.summoner.level-5/shaping" data-subclass="blight"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Soul Flense</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
-<div class="sc-trait__body">
-<p>As a maneuver, you can command one or more of your demon <a href="../../feature/summoner/level-1/minions/">minions</a> to each deal <a href="../../rule/damage/damage/">damage</a> equal to their <a href="../../feature/common/main-actions/free-strike/">free strike</a> value to an <a href="../../rule/combat/adjacent/">adjacent</a> ally. This <a href="../../rule/damage/damage/">damage</a> can&#39;t be reduced. The ally then ends a <a href="../../rule/combat/condition/">condition</a> affecting them and confers it to the demon that attacked them.</p>
-<p>Additionally, whenever one of your demon <a href="../../feature/summoner/level-1/minions/">minions</a> Death Snaps, their target is P &lt; WEAK affected by a <a href="../../rule/combat/condition/">condition</a> the <a href="../../feature/summoner/level-1/minions/">minion</a> was suffering from. The <a href="../../rule/character/potency/">potency</a> increases by 1 on each subsequent Death Snap the target takes <a href="../../rule/damage/damage/">damage</a> from in the same <a href="../../rule/combat/turn/">turn</a> (maximum +2).</p>
-</div>
-</section>
+You can spend 1 uninterrupted minute to perform a ritual that causes one of your [minions](../feature/summoner/level-1/minions.md) to fold their shape and disguise themself to look like a duplicate of you, including speaking basic Caelian, allowing them to (potentially) freely move through civilization while completing their tasks. You can have a number of [minions](../feature/summoner/level-1/minions.md) disguised at the same time equal to your [Reason](../rule/character/reason.md) score.
+
+### Split {data-scc="mcdm.summoner.v1/feature.summoner.level-5/split" data-subclass="storms"}
+
+Once during your [turn](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to deal [damage](../rule/damage/damage.md) to one of your elemental [minions](../feature/summoner/level-1/minions.md) equal to half their maximum [Stamina](../rule/health/stamina.md) in order to create one additional copy of that [minion](../feature/summoner/level-1/minions.md) in an [adjacent](../rule/combat/adjacent.md) unoccupied space and add them to their squad, even if you're at your minion maximum. You can't use this feature if it would kill one or more of the [minions](../feature/summoner/level-1/minions.md) in the squad.
+
+### Soul Flense {data-scc="mcdm.summoner.v1/feature.summoner.level-5/soul-flense" data-subclass="blight"}
+
+As a maneuver, you can command one or more of your demon [minions](../feature/summoner/level-1/minions.md) to each deal [damage](../rule/damage/damage.md) equal to their [free strike](../feature/common/main-actions/free-strike.md) value to an [adjacent](../rule/combat/adjacent.md) ally. This [damage](../rule/damage/damage.md) can't be reduced. The ally then ends a [condition](../rule/combat/condition.md) affecting them and confers it to the demon that attacked them.
+
+Additionally, whenever one of your demon [minions](../feature/summoner/level-1/minions.md) Death Snaps, their target is P < WEAK affected by a [condition](../rule/combat/condition.md) the [minion](../feature/summoner/level-1/minions.md) was suffering from. The [potency](../rule/character/potency.md) increases by 1 on each subsequent Death Snap the target takes [damage](../rule/damage/damage.md) from in the same [turn](../rule/combat/turn.md) (maximum +2).
 
 ### New Portfolio Minion {data-scc="mcdm.summoner.v1/feature.summoner.level-5/new-portfolio-minion"}
 
@@ -2285,84 +2205,35 @@ As an 8th-level [summoner](summoner.md), you gain the following features.
 </div>
 </section>
 
-### Abyssal Evolution {data-scc="mcdm.summoner.v1/feature.summoner.level-8/abyssal-evolution"}
+### Abyssal Evolution {data-scc="mcdm.summoner.v1/feature.summoner.level-8/abyssal-evolution" data-subclass="blight"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">Abyssal Evolution</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>At the start of each of your <a href="../../rule/combat/turn/">turns</a>, you can transform up to two of your demon minions within your Summoner&#39;s Range. A demon can transform into a different demon minion within your Summoner&#39;s Range, maintaining their current <a href="../../rule/health/stamina/">Stamina</a>. Starting from <a href="../../rule/combat/combat-round/">round</a> 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon&#39;s space.</p>
-<p>The minions must be reassigned to a new squad if their new name differs from the other squad members.</p>
-</div>
-</section>
+At the start of each of your [turns](../rule/combat/turn.md), you can transform up to two of your demon minions within your Summoner's Range. A demon can transform into a different demon minion within your Summoner's Range, maintaining their current [Stamina](../rule/health/stamina.md). Starting from [round](../rule/combat/combat-round.md) 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon's space.
 
-### Celestial Grace {data-scc="mcdm.summoner.v1/feature.summoner.level-8/celestial-grace"}
+The minions must be reassigned to a new squad if their new name differs from the other squad members.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">Celestial Grace</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>Your number of <a href="../../rule/health/recoveries/">Recoveries</a> further increases by 2.</p>
-<p>Additionally, the area affected by your <a href="../../feature/summoner/level-1/pixie-dust/">Pixie Dust</a> feature and any of your fey minions&#39; traits that affect <a href="../../rule/combat/adjacent/">adjacent</a> creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>
-</div>
-</section>
+### Celestial Grace {data-scc="mcdm.summoner.v1/feature.summoner.level-8/celestial-grace" data-subclass="spring"}
 
-### Control the Elements {data-scc="mcdm.summoner.v1/feature.summoner.level-8/control-the-elements"}
+Your number of [Recoveries](../rule/health/recoveries.md) further increases by 2.
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">Control the Elements</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>Whenever you use Call Forth, you can spend essence to change the size of one elemental minion you summon as shown on the following table.</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Control the Elements</h3>
-</div>
-</header>
-<div class="sc-trait__body">
-<table><thead><tr><th>Essence Cost</th><th>Size Change</th></tr></thead><tbody><tr><td>1</td><td>The minion becomes size 2.</td></tr><tr><td>3</td><td>The minion becomes size 3.</td></tr><tr><td>5</td><td>The minion becomes size 4.</td></tr></tbody></table>
-</div>
-</section>
-</div>
-</div>
-</section>
+Additionally, the area affected by your [Pixie Dust](../feature/summoner/level-1/pixie-dust.md) feature and any of your fey minions' traits that affect [adjacent](../rule/combat/adjacent.md) creatures and/or the area within 1 or more squares of them increase that distance by 1 square.
 
-### Kill the Pain {data-scc="mcdm.summoner.v1/feature.summoner.level-8/kill-the-pain"}
+### Control the Elements {data-scc="mcdm.summoner.v1/feature.summoner.level-8/control-the-elements" data-subclass="storms"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">Kill the Pain</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
-<div class="sc-trait__body">
-<p>You aren&#39;t affected by excess <a href="../../rule/damage/damage/">damage</a> after all minions in a squad are dead.</p>
-<p>Additionally, you and each of your undead minions ignore <a href="../../rule/damage/damage/">damage</a> rolled as a d3 or a d6 and <a href="../../rule/damage/damage/">damage</a> from environmental effects while you are not <a href="../../rule/health/winded/">winded</a>.</p>
-</div>
-</section>
+Whenever you use Call Forth, you can spend essence to change the size of one elemental minion you summon as shown on the following table.
+
+##### Control the Elements
+
+| Essence Cost | Size Change |
+|--------------|-------------|
+| 1 | The minion becomes size 2. |
+| 3 | The minion becomes size 3. |
+| 5 | The minion becomes size 4. |
+
+### Kill the Pain {data-scc="mcdm.summoner.v1/feature.summoner.level-8/kill-the-pain" data-subclass="graves"}
+
+You aren't affected by excess [damage](../rule/damage/damage.md) after all minions in a squad are dead.
+
+Additionally, you and each of your undead minions ignore [damage](../rule/damage/damage.md) rolled as a d3 or a d6 and [damage](../rule/damage/damage.md) from environmental effects while you are not [winded](../rule/health/winded.md).
 
 ### Portfolio Champion {data-scc="mcdm.summoner.v1/feature.summoner.level-8/portfolio-champion"}
 
