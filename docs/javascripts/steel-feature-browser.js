@@ -98,11 +98,14 @@
     if (it.distance) foot.push(metaCell("distance", md(it.distance), true));
     if (it.targets) foot.push(metaCell("targets", it.targets));
     var footHTML = foot.length ? '<div class="sc-prev__foot">' + foot.join("") + "</div>" : "";
+    // Subclass rides the action eyebrow ("Maneuver · Black Ash"), matching the
+    // trait card — abilities otherwise never surface their subclass.
+    var eyebrow = esc(a.label) + (it.subclass ? " · " + esc(it.subclass) : "");
     return '<a class="sc-prev sc-prev--ability sc-fil" data-action="' + esc(act) + '" href="' + esc(it.href || "#") + '">' +
       '<div class="sc-prev__head">' +
         '<span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">' + esc(a.glyph) + '</span></span>' +
         '<div class="sc-prev__titles">' +
-          '<div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>' + esc(a.label) + '</div>' +
+          '<div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>' + eyebrow + '</div>' +
           '<h3 class="sc-prev__name">' + esc(it.name) + '</h3></div>' + tag + '</div>' +
       (it.flavor ? '<div class="sc-prev__flavor">' + esc(it.flavor) + '</div>' : "") +
       kw + footHTML + '</a>';
