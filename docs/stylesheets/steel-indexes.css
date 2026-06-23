@@ -273,6 +273,19 @@
 .sc-chip__dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: .3rem;
   vertical-align: middle; background: currentColor; opacity: .85; }
 
+/* merged Source facet: each class on its own line with its subclasses nested
+   after it; childless sources (subclass-less classes, ancestries, kits) flow in
+   a final plain row separated by a hairline. */
+.sc-browse__facet--src .sc-srcgroups { display: flex; flex-direction: column; gap: .45rem; }
+.sc-srcgroup { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .45rem; }
+.sc-srcgroup--plain { margin-top: .2rem; padding-top: .5rem; border-top: 1px solid var(--fx-metal-faint); }
+.sc-subchips { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem;
+  padding-left: .5rem; margin-left: .25rem; border-left: 1px solid var(--fx-metal-faint); }
+/* subclass chips read as subordinate to their class chip: smaller, no dot. */
+.sc-chip--sub { font-size: .76rem; padding: .08rem .5rem; color: var(--md-default-fg-color--lighter); }
+.sc-chip--sub.is-on { color: #06232a; }
+[data-md-color-scheme="default"] .sc-chip--sub.is-on { color: #f3f8f8; }
+
 /* result header + grid + empty state */
 .sc-browse__head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .5rem;
   margin: 1rem 0 0; padding-top: .8rem; border-top: 1px solid var(--fx-metal-faint); }
