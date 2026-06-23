@@ -1,0 +1,78 @@
+/* steel-cardhead.css — the shared 6-slot card header (.sc-head).
+   Two columns (left "stack" / right "rail"), three lanes (eyebrow/primary/deck).
+   Every entity card composes this; per-card sheets add only color/spine specifics.
+   Tokens come from palette.css + steel-redesign.css (load order: after
+   steel-settings.css, before steel-ability-cards.css). */
+
+.sc-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+.sc-head__stack { display: flex; align-items: start; gap: .9rem; min-width: 0; }
+.sc-head__col--left { display: flex; flex-direction: column; min-width: 0; }
+.sc-head__rail { display: flex; flex-direction: column; align-items: flex-end; text-align: right; flex: 0 0 auto; }
+
+/* lanes share emphasis on both sides. eyebrow = small context (small-caps),
+   primary = the headline, deck = quiet detail. */
+.sc-head__slot { margin: 0; min-width: 0; }
+
+/* --line: a text line. The eyebrow carries the ◆ marker via ::before. */
+.sc-head__slot--line { font-family: var(--md-small-header-font); }
+.sc-head__left-eyebrow.sc-head__slot--line,
+.sc-head__right-eyebrow.sc-head__slot--line {
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .07em;
+  font-size: .9rem; color: var(--md-default-fg-color--light); display: flex; align-items: center; gap: .5rem;
+}
+.sc-head__left-eyebrow.sc-head__slot--line::before {
+  content: ""; width: .5rem; height: .5rem; transform: rotate(45deg);
+  background: var(--fx-metal); flex: 0 0 auto;
+}
+.sc-head__left-deck.sc-head__slot--line,
+.sc-head__right-deck.sc-head__slot--line {
+  font-variant: small-caps; letter-spacing: .05em; font-size: .82rem; color: var(--md-default-fg-color--light);
+}
+
+/* the name (left-primary) and the right mini-title: the two "title" slots. */
+.md-typeset .sc-head__left-primary {
+  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 1.5rem; line-height: 1.04; color: var(--md-default-fg-color);
+}
+.sc-head__slot--mini {
+  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 1.35rem; line-height: 1.04; color: var(--role, var(--md-default-fg-color));
+}
+
+/* --chip: a compact pill. */
+.sc-head__slot--chip {
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .04em; font-size: .82rem; color: var(--md-default-fg-color--light);
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
+  padding: .05rem .4rem; margin-top: .12rem;
+}
+
+/* Mobile: wrap busy slots to a second line; never truncate. */
+@media (max-width: 30em) {
+  .sc-head__left-deck.sc-head__slot--line,
+  .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
+}
+
+/* Flat-list Feature Style hook: sub-feature heads inline name · cost · usage.
+   Card-tier heads are unaffected (they don't set these data-attrs on .sc-head). */
+[data-sb-featstyle="flat"] .sb__feat .sc-head,
+[data-fb-featstyle="flat"] .fb__feat .sc-head {
+  display: inline; gap: 0;
+}
+[data-sb-featstyle="flat"] .sb__feat .sc-head__stack,
+[data-sb-featstyle="flat"] .sb__feat .sc-head__rail,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__stack,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__rail { display: inline; }
+[data-sb-featstyle="flat"] .sb__feat .sc-head__col--left,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__col--left { display: inline; }
+[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini,
+[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip {
+  display: inline; border: 0; padding: 0; font-size: inherit; color: var(--md-default-fg-color--light);
+  text-transform: none; font-variant: normal;
+}
+[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini::before,
+[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip::before,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini::before,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip::before { content: " · "; }
