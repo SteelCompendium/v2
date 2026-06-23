@@ -24,6 +24,9 @@
 (function () {
   "use strict";
 
+  // Pure source/subclass model + matching, loaded before this script in mkdocs.yml.
+  var Core = (typeof window !== "undefined" && window.SCFeatureBrowserCore) || null;
+
   // action type → crest glyph (DrawSteelGlyphs) + eyebrow label. PLACEHOLDER
   // glyphs, same set as steel-ability-cards.js — swap in one place when the
   // official action glyphs arrive.
@@ -134,17 +137,13 @@
     var items;
     try { items = JSON.parse(island.textContent); } catch (e) { return; }
 
-    // Source facet: the "class" values are actually classes, ancestries, kits…
-    // Map each to its source so chips can be colour-coded and grouped.
-    var klassSrc = {};
-    items.forEach(function (it) { if (it.klass) klassSrc[it.klass] = it.source || "other"; });
-    var srcValues = uniqueSorted(null, items, "klass").sort(function (a, b) {
-      return (SRC_RANK[klassSrc[a]] || 9) - (SRC_RANK[klassSrc[b]] || 9) || a.localeCompare(b);
-    });
+    // Source facet: one merged OR-group rendered by sourceFacetHTML — class chips
+    // with nested class-scoped subclass chips, then plain childless sources. The
+    // klass/subclass dimensions are kept out of the generic `facets` array.
+    var srcModel = Core.buildSourceModel(items);
 
     var facets = [
       { key: "kind",     label: "Type",    values: ["feature", "ability", "trait"], display: cap },
-      { key: "klass",    label: "Source",  values: srcValues, dot: function (v) { return srcColor(klassSrc[v]); } },
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },
       { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") },
@@ -153,6 +152,8 @@
 
     var state = { q: "", sort: "name", sel: {} };
     facets.forEach(function (f) { state.sel[f.key] = {}; });
+    state.sel.klass = {};
+    state.sel.subclass = {};
 
     root.innerHTML =
       '<div class="sc-browse">' +
@@ -167,7 +168,15 @@
               '<option value="class">Class</option>' +
             '</select></div>' +
         '</div>' +
-        '<div class="sc-browse__facets">' + facets.map(facetRow).join("") + '</div>' +
+        '<div class="sc-browse__facets">' +
+          (function () {
+            var rows = facets.map(facetRow);
+            var kindIdx = -1;
+            facets.forEach(function (f, i) { if (f.key === "kind") kindIdx = i; });
+            rows.splice(kindIdx + 1, 0, sourceFacetHTML(srcModel)); // kindIdx -1 → splice at 0
+            return rows.join("");
+          })() +
+        '</div>' +
         '<div class="sc-browse__head">' +
           '<span class="sc-browse__count"></span>' +
           '<button class="sc-browse__clear" hidden>Clear filters</button>' +
@@ -186,6 +195,7 @@
     elClear.addEventListener("click", function () {
       state.q = ""; elSearch.value = "";
       facets.forEach(function (f) { state.sel[f.key] = {}; });
+      state.sel.klass = {}; state.sel.subclass = {};
       root.querySelectorAll(".sc-chip.is-on").forEach(function (c) { c.classList.remove("is-on"); c.setAttribute("aria-pressed", "false"); });
       render();
     });
@@ -204,6 +214,7 @@
         if (hay.indexOf(state.q) === -1) return false;
       }
       for (var k in state.sel) {
+        if (k === "klass" || k === "subclass") continue; // handled as one OR-group below
         var picks = Object.keys(state.sel[k]);
         if (!picks.length) continue;
         var v = it[k];
@@ -212,6 +223,7 @@
           : state.sel[k][String(v)];
         if (!has) return false;
       }
+      if (!Core.matchesSource(it, state.sel.klass, state.sel.subclass)) return false;
       return true;
     }
 
@@ -226,7 +238,10 @@
 
     function render() {
       var list = items.filter(matches).sort(sortFn);
-      var any = facets.some(function (f) { return Object.keys(state.sel[f.key]).length; }) || state.q;
+      var any = state.q
+        || Object.keys(state.sel.klass).length
+        || Object.keys(state.sel.subclass).length
+        || facets.some(function (f) { return Object.keys(state.sel[f.key]).length; });
       elClear.hidden = !any;
       elCount.innerHTML = "<b>" + list.length + "</b> of " + items.length + " features";
       elResults.innerHTML = list.length
@@ -242,8 +257,8 @@
     return { main: "var(--sc-act-main)", maneuver: "var(--sc-act-maneuver)", triggered: "var(--sc-act-triggered)",
       move: "var(--sc-act-move)", none: "var(--sc-act-none)", trait: "var(--sc-act-trait)" }[v] || "var(--fx-metal)";
   }
-  // source → chip-dot colour + grouping rank for the Source facet.
-  var SRC_RANK = { class: 0, ancestry: 1, kit: 2, other: 3 };
+  // source → chip-dot colour for the Source facet (grouping/ranking lives in
+  // SCFeatureBrowserCore.buildSourceModel).
   function srcColor(s) {
     return { class: "var(--sc-src-class)", ancestry: "var(--sc-src-ancestry)", kit: "var(--sc-src-kit)",
       other: "var(--sc-src-other)" }[s] || "var(--fx-metal)";
@@ -257,6 +272,29 @@
     }).join("");
     return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' +
       '<div class="sc-browse__chips">' + chips + '</div></div>';
+  }
+  // merged Source facet: a class chip (filters klass) leading its class-scoped
+  // subclass chips (filter the composite klass+subclass), then a plain row of
+  // childless sources (ancestries / kits / subclass-less classes).
+  function sourceChip(klass, color) {
+    var dot = color ? '<span class="sc-chip__dot" style="color:' + color + '"></span>' : "";
+    return '<button type="button" class="sc-chip sc-chip--class" aria-pressed="false" ' +
+      'data-facet="klass" data-value="' + esc(klass) + '">' + dot + esc(klass) + '</button>';
+  }
+  function subChip(klass, sub) {
+    return '<button type="button" class="sc-chip sc-chip--sub" aria-pressed="false" ' +
+      'data-facet="subclass" data-value="' + esc(Core.subKey(klass, sub)) + '">' + esc(sub) + '</button>';
+  }
+  function sourceFacetHTML(model) {
+    var groups = model.classes.map(function (c) {
+      var subs = c.subclasses.map(function (s) { return subChip(c.klass, s); }).join("");
+      return '<div class="sc-srcgroup">' + sourceChip(c.klass, srcColor("class")) +
+        '<span class="sc-subchips">' + subs + '</span></div>';
+    });
+    var plain = model.plain.map(function (p) { return sourceChip(p.klass, srcColor(p.source)); }).join("");
+    if (plain) groups.push('<div class="sc-srcgroup sc-srcgroup--plain">' + plain + '</div>');
+    return '<div class="sc-browse__facet sc-browse__facet--src"><span class="lbl">Source</span>' +
+      '<div class="sc-srcgroups">' + groups.join("") + '</div></div>';
   }
   function searchSvg() {
     return '<svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>';

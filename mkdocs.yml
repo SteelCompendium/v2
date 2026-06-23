@@ -141,6 +141,7 @@ extra_javascript:
   - javascripts/steel-ability-cards.js
   - javascripts/statblock-preview.js
   - javascripts/steel-traits.js
+  - javascripts/steel-feature-browser-core.js
   - javascripts/steel-feature-browser.js
   - javascripts/steel-bestiary-browser.js
   - javascripts/browse-enhancements.js
