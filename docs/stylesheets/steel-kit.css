@@ -27,23 +27,13 @@
   box-shadow: var(--fx-bevel), 0 5px 14px rgba(0,0,0,.09);
 }
 
-/* ── HEADER band: backpack crest · "<Kind> Kit" eyebrow · name ── */
+/* ── HEADER ──
+   The header itself is the shared 6-slot .sc-head (steel-cardhead.css); we only
+   re-attach the kit plate's head chrome via the Class="sc-kit__head" hook: a full-
+   bleed separator band between the head and the plate body. */
 .sc-kit__head {
-  display: flex; align-items: center; gap: .85rem;
   margin: 0 -1.2rem .9rem; padding: 1rem 1.2rem 1.05rem;
   border-bottom: 1px solid var(--fx-metal-faint);
-}
-.sc-kit__crest { flex: 0 0 auto; }
-.sc-kit__titles { min-width: 0; }
-.sc-kit__eyebrow {
-  font-family: var(--md-small-header-font); font-variant: small-caps;
-  text-transform: uppercase; letter-spacing: .08em; font-size: .82rem;
-  color: var(--md-accent-fg-color); margin-bottom: .1rem;
-}
-.md-typeset .sc-kit__name {
-  margin: 0; font-family: var(--md-large-header-font); text-transform: uppercase;
-  font-size: 2rem; line-height: 1; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
 }
 
 /* ── FLAVOR ── */
