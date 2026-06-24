@@ -5,6 +5,7 @@ class: talent
 level: "1"
 name: Feedback Loop
 scc: mcdm.heroes.v1/feature.talent.level-1/feedback-loop
+subclass: telepathy
 type: feature
 ---
 
@@ -14,7 +15,7 @@ type: feature
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Feedback Loop triggered action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feedback Loop</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feedback Loop</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Telepathy</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">

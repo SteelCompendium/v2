@@ -5,6 +5,7 @@ class: censor
 level: "1"
 name: Hands of the Maker
 scc: mcdm.heroes.v1/feature.censor.level-1/hands-of-the-maker
+subclass: creation
 type: feature
 ---
 
@@ -14,7 +15,7 @@ type: feature
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hands of the Maker maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hands of the Maker</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hands of the Maker</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Creation</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
