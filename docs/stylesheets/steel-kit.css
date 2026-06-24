@@ -82,10 +82,17 @@
 
 /* ── SIGNATURE ABILITY fusion ──
    embedItemCards leaves: </section>, the (redundant) marker heading, then the
-   spliced .sc-ability card. Hide the marker heading and butt the card flush to
-   the plate's open bottom so the two read as one continuous card. */
+   spliced .sc-ability card. Hide the marker heading and fuse the card flush to
+   the plate's open bottom so the two read as ONE continuous forged card: the
+   plate drops its bottom border/shadow/padding, the card drops its top
+   border/radius and butts directly beneath. */
+.md-typeset .sc-kit:has(+ h3[data-scc]) {
+  border-bottom: 0; padding-bottom: .25rem;
+  border-radius: .65rem .65rem 0 0;
+  box-shadow: var(--fx-bevel), 0 1px 0 0 rgba(0,0,0,.0);
+}
 .md-typeset .sc-kit + h3[data-scc] { display: none; }
 .md-typeset .sc-kit + h3[data-scc] + .sc-ability {
   max-width: 47rem; margin: 0 auto 1.7rem;
-  border-top-left-radius: 0; border-top-right-radius: 0;
+  border-top: 0; border-top-left-radius: 0; border-top-right-radius: 0;
 }
