@@ -8,6 +8,15 @@ on:
 permissions:
   contents: write
 
+# Serialize deploys: gh-deploy force-pushes gh-pages, so two runs racing (e.g. a
+# code change + its `chore: update v2 site content` pair from `just deploy-v2`)
+# would each force-push and the last to finish wins — which can be the *earlier*
+# build, publishing stale HTML. Queue rather than cancel so a superseding run can't
+# skip the final deploy (cancelling could drop the newest content). See FOLLOWUPS #22.
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
