@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature</div>
-<h3 class="sc-trait__name">Shadow College</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow College</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p><a href="../../../../class/shadow/">Shadow</a> colleges are secret institutions that <a href="../../../../rule/combat/turn/">turn</a> ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that <a href="../../../../rule/test/test/">tests</a> the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master <a href="../../../../class/shadow/">shadows</a> who teach stealth, magic, and assassination to their students are often less than gentle in their approach.</p>
 <p>You graduated from a <a href="../shadow-college/">shadow college</a> chosen from the following options, each of which grants you a skill. (<em>Quick Build:</em> College of Black Ash.)</p>

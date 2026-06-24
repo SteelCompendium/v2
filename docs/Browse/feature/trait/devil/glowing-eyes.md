@@ -13,14 +13,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
-<h3 class="sc-trait__name">Glowing Eyes</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glowing Eyes</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Devil</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
 </div>

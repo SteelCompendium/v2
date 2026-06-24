@@ -68,14 +68,8 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Primordial Aspect {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-aspect"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Aspect</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Aspect</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Berserker.)</p>
 <ul><li><b>Berserker:</b> You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the <a href="../../skill/exploration/lift/">Lift</a> skill.</li><li><b>Reaver:</b> You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the <a href="../../skill/intrigue/hide/">Hide</a> skill.</li><li><b>Stormwight:</b> You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the <a href="../../skill/intrigue/track/">Track</a> skill.</li></ul>
@@ -86,24 +80,14 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Within the heat of battle, your determination and anger grow, fueling a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called ferocity.</p>
 <p>&gt; <b>Where&#39;s My Maneuver?</b> &gt; &gt; Since most other classes get a bespoke maneuver, you might find yourself asking, &#34;Where&#39;s the special maneuver for the <a href="./">fury</a>?&#34; The answer is that the class doesn&#39;t need its own maneuver, because most of the time, the fantasy of the <a href="./">fury</a> has them using the <a href="../../feature/common/maneuvers/grab/">Grab</a> or <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuvers in combat. They&#39;re really good at those maneuvers too, so it doesn&#39;t make sense to give you another option that you&#39;ll rarely or never use.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Ferocity in Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity in Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain ferocity equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 ferocity.</p>
 <p>Additionally, the first time each <a href="../../rule/combat/combat-round/">combat round</a> that you take damage, you gain 1 ferocity. The first time you become <a href="../../rule/health/winded/">winded</a> or are <a href="../../rule/health/dying/">dying</a> in an encounter, you gain 1d3 ferocity.</p>
@@ -111,11 +95,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Ferocity Outside of Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity Outside of Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Though you can&#39;t gain ferocity outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
 <p>When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as <a href="../../feature/ability/fury/level-1/to-the-uttermost-end/">To the Uttermost End</a>, you can use it as if you had spent an amount of ferocity equal to your <a href="../../rule/resource/victories/">Victories</a>.</p>
@@ -128,34 +108,20 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/growing-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your <a href="../../rule/combat/turn/">turn</a>, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your <a href="../../rule/combat/turn/">turn</a>.</p>
 <p>Some <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> tables in this section.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Berserker Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Berserker Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>Whenever you use the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/might/">Might</a> score.</td></tr><tr><td>4</td><td>The first time you <a href="../../movement/forced-movement/">push</a> a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/might/">Might</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>8 (4th level)</td><td>The first time you <a href="../../movement/forced-movement/">push</a> a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a>.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/might/">Might</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, whenever you make a <a href="../../rule/dice/power-roll/">power roll</a> that imposes <a href="../../movement/forced-movement/">forced movement</a> on a target, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/might/">Might</a> score.</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Reaver Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Reaver Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>Whenever you use the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</td></tr><tr><td>4</td><td>The first time you <a href="../../movement/forced-movement/">slide</a> a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>8 (4th level)</td><td>The first time you <a href="../../movement/forced-movement/">slide</a> a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a>.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, whenever you make a <a href="../../rule/dice/power-roll/">power roll</a> that imposes <a href="../../movement/forced-movement/">forced movement</a> on a target, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</td></tr></tbody></table>
 </div>
@@ -167,84 +133,45 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.fury.level-1/1st-level-aspect-features"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">1st-Level Aspect Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Aspect Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you two features, as shown on the 1st-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">1st-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td>Kit, <a href="../../feature/fury/level-1/primordial-strength/">Primordial Strength</a></td></tr><tr><td>Reaver</td><td>Kit, <a href="../../feature/fury/level-1/primordial-cunning/">Primordial Cunning</a></td></tr><tr><td>Stormwight</td><td><a href="../../feature/fury/level-1/beast-shape/">Beast Shape</a>, <a href="../../feature/fury/level-1/relentless-hunter/">Relentless Hunter</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Beast Shape</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beast Shape</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can use and gain the benefits of a stormwight kit (see <a href="../../feature/fury/stormwight-kits/kit-features/">Stormwight Kits</a>). Your stormwight kit grants you a number of benefits, including benefits tied to your <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Kit</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../kit/panther/">Panther</a>.)</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">Primordial Cunning</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Cunning</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You are never <a href="../../rule/combat/surprised/">surprised</a>. Additionally, whenever you would <a href="../../movement/forced-movement/">push</a> a target with <a href="../../movement/forced-movement/">forced movement</a>, you can <a href="../../movement/forced-movement/">slide</a> them instead.</p>
 <p>As your ferocity grows, you gain benefits as noted on the Reaver <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Primordial Strength</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Strength</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Whenever you damage an object with a weapon <a href="../../rule/combat/strike/">strike</a>, the <a href="../../rule/combat/strike/">strike</a> deals extra damage equal to your <a href="../../rule/character/might/">Might</a> score. Additionally, whenever you <a href="../../movement/forced-movement/">push</a> another creature into an object, the creature takes extra damage equal to your <a href="../../rule/character/might/">Might</a> score.</p>
 <p>As your ferocity grows, you gain benefits as noted on the Berserker <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Relentless Hunter</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Relentless Hunter</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made using the <a href="../../skill/intrigue/track/">Track</a> skill.</p>
 </div>
@@ -256,36 +183,19 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Aspect Triggered Action</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you a <a href="../../rule/combat/triggered-action/">triggered action</a>, as shown on the Aspect <a href="../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Aspect Triggered Actions Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Triggered Actions Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th><a href="../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../feature/ability/fury/level-1/lines-of-force/">Lines of Force</a></td></tr><tr><td>Reaver</td><td><a href="../../feature/ability/fury/level-1/unearthly-reflexes/">Unearthly Reflexes</a></td></tr><tr><td>Stormwight</td><td><a href="../../feature/ability/fury/level-1/furious-change/">Furious Change</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Furious Change</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Furious Change</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">In your anger, you revert to a more bestial form.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
@@ -303,14 +213,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not <a href="../../rule/health/dying/">dying</a>, you can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Lines of Force</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lines of Force</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You redirect the energy of motion.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span></div>
 <div class="sc-ability__rail">
@@ -328,14 +231,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to twice your <a href="../../rule/character/might/">Might</a> score instead.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Unearthly Reflexes</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unearthly Reflexes</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You are as elusive as a hummingbird.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
@@ -359,14 +255,8 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Mighty Leaps {data-scc="mcdm.heroes.v1/feature.fury.level-1/mighty-leaps"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Mighty Leaps</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mighty Leaps</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can&#39;t obtain lower than a tier 2 outcome on any <a href="../../rule/character/might/">Might</a> <a href="../../rule/test/test/">test</a> made to jump (see Movement Types in Chapter 10: <a href="../../../Read/heroes/combat/">Combat</a>).</p>
 </div>
@@ -375,35 +265,18 @@ As a 1st-level [fury](fury.md), you gain the following features.
 ### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Fury Abilities</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fury Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/fury/level-1/to-the-death/">To the Death</a>!)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Brutal Slam</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Brutal Slam</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The heavy impact of your weapon attacks drives your foes ever back.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -420,14 +293,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Hit and Run</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hit and Run</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Staying in constant motion helps you slip out of reach after a brutal assault.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -448,14 +314,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Impaled!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Impaled!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You skewer your enemy like a boar upon a spit.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -472,14 +331,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">To the Death!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">To the Death!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your reckless assault leaves you tactically vulnerable.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -503,33 +355,18 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Heroic Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heroic Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You fight with an array of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of which cost ferocity to fuel them.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">3-Ferocity Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3-Ferocity Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 ferocity to use. (<em>Quick Build:</em> Back!)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Back!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Back!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You hew about you with your mighty weapon, hurling enemies backward.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -546,14 +383,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Out of the Way!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Out of the Way!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your enemies will clear your path—whether they want to or not.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -574,14 +404,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Tide of Death</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tide of Death</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Teach them the folly of lining up for you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -606,14 +429,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Your Entrails Are Your Extrails!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Your Entrails Are Your Extrails!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Hard for them to fight when they&#39;re busy holding in their giblets.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -634,24 +450,13 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5-Ferocity Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5-Ferocity Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 ferocity to use. (<em>Quick Build:</em> <a href="../../feature/ability/fury/level-1/blood-for-blood/">Blood for Blood</a>!)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Blood for Blood!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blood for Blood!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">See how well they fight after you&#39;ve bled them dry.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -672,14 +477,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Make Peace With Your God!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Make Peace With Your God!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Anger is your energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
@@ -692,14 +490,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Thunder Roar</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Thunder Roar</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You unleash a howl that hurls your enemies back.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -720,14 +511,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">To the Uttermost End</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">To the Uttermost End</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You gut your life force to ensure a foe&#39;s demise.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -758,14 +542,8 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-2/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
@@ -774,59 +552,31 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 ### 2nd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">2nd-Level Aspect Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Aspect Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 2nd-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../feature/fury/level-2/unstoppable-force/">Unstoppable Force</a></td></tr><tr><td>Reaver</td><td><a href="../../feature/fury/level-2/inescapable-wrath/">Inescapable Wrath</a></td></tr><tr><td>Stormwight</td><td><a href="../../feature/fury/level-2/tooth-and-claw/">Tooth and Claw</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">Inescapable Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inescapable Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You have a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> equal to your <a href="../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Tooth and Claw</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tooth and Claw</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>At the end of each of your <a href="../../rule/combat/turn/">turns</a>, each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to you takes damage equal to your <a href="../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Unstoppable Force</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unstoppable Force</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Whenever you use the <a href="../../feature/common/main-actions/charge/">Charge</a> main action, you can use a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/signature-ability/">signature ability</a> or a <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/general/heroic-ability/">heroic ability</a> instead of a <a href="../../feature/common/main-actions/free-strike/">free strike</a>. Additionally, you can jump as part of your charge.</p>
 </div>
@@ -838,35 +588,18 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 ### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">2nd-Level Aspect Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Berserker Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Berserker Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Special Delivery</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Special Delivery</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You ready?</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -879,14 +612,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Wrecking Ball</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrecking Ball</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">It&#39;s easier to destroy than to create. Much easier, in fact!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -910,23 +636,12 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Reaver Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Reaver Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Death... Death!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death... Death!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your unbridled rage strikes terror in their hearts.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -943,14 +658,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Phalanx-Breaker</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Phalanx-Breaker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Organizing your forces like feckless creatures of Law. Pitiful.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -974,23 +682,12 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Stormwight Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Stormwight Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Apex Predator</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Apex Predator</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">I will hunt you down.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1011,14 +708,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Visceral Roar</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Visceral Roar</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The sound of the storm within you staggers your opponents.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1052,61 +742,33 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 ### 3rd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-3/3rd-level-aspect-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">3rd-Level Aspect Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3rd-Level Aspect Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 3rd-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">3rd-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3rd-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../feature/fury/level-3/immovable-object/">Immovable Object</a></td></tr><tr><td>Reaver</td><td><a href="../../feature/fury/level-3/see-through-their-tricks/">See Through Their Tricks</a></td></tr><tr><td>Stormwight</td><td>Nature&#39;s Knight</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Immovable Object</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Immovable Object</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>You add your level to your effective <a href="../../rule/character/size/">size</a> for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by <a href="../../movement/forced-movement/">forced movement</a>, and so forth. This has no effect on whether you can be <a href="../../condition/grabbed/">grabbed</a>.</p>
 <p>Additionally, you have a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/stability/">stability</a> equal to your <a href="../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Nature&#39;s Knight</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Nature&#39;s Knight</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.</p>
 <p>When you are in a negotiation with an animal or elemental, you treat your <a href="../../rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../rule/resource/renown/">Renown</a> in a negotiation with an animal of your type while in <a href="../../complication/animal-form/">animal form</a> (see <a href="../../feature/fury/stormwight-kits/kit-features/">Stormwight Kits</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">See Through Their Tricks</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">See Through Their Tricks</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to gamble!</p>
 </div>
@@ -1118,26 +780,13 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 ### 7-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-3/7-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">7-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Demon Unleashed</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Demon Unleashed</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Foes tremble at the sight of you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1150,14 +799,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Face the Storm!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Face the Storm!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Shocked in the face of your naked brutality, your enemy&#39;s instincts take over.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1170,14 +812,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Steelbreaker</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Steelbreaker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">See how useless their weapons are!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1190,14 +825,7 @@ As a 3rd-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">You Are Already Dead</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">You Are Already Dead</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Slash. Walk away.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1220,14 +848,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-4/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/agility/">Agility</a> scores each increase to 3.</p>
 </div>
@@ -1236,14 +858,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Damaging Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-4/damaging-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Damaging Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Damaging Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>The first time you take damage each <a href="../../rule/combat/combat-round/">combat round</a>, you gain 2 ferocity instead of 1.</p>
 </div>
@@ -1252,14 +868,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-4/growing-ferocity-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> feature provides additional benefits when you have 8 or more ferocity.</p>
 </div>
@@ -1268,14 +878,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-4/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -1284,14 +888,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Primordial Attunement {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-attunement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Attunement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Attunement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>As your ferocity manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has <a href="../../rule/damage/damage-immunity/">damage immunity</a> or <a href="../../rule/damage/damage-weakness/">damage weakness</a> to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific <a href="../../rule/damage/damage-type/">damage type</a>. Additionally, you automatically sense any source of one of those <a href="../../rule/damage/damage-type/">damage types</a> within 10 squares, such as a fire or a source of elemental power.</p>
 </div>
@@ -1300,14 +898,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Primordial Strike {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-strike"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Strike</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Strike</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 <a href="../../rule/resource/surge/">surge</a> that must be used for that <a href="../../rule/combat/strike/">strike</a>. The extra damage dealt by the <a href="../../rule/resource/surge/">surge</a> can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).</p>
 </div>
@@ -1316,14 +908,8 @@ As a 4th-level [fury](fury.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-4/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
@@ -1336,59 +922,31 @@ As a 5th-level [fury](fury.md), you gain the following features.
 ### 5th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-5/5th-level-aspect-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">5th-Level Aspect Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Aspect Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 5th-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5th-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../feature/fury/level-5/bounder/">Bounder</a></td></tr><tr><td>Reaver</td><td><a href="../../feature/fury/level-5/unfettered/">Unfettered</a></td></tr><tr><td>Stormwight</td><td><a href="../../feature/fury/level-5/stormborn/">Stormborn</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Bounder</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bounder</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your jump <a href="../../rule/combat/distance/">distance</a> and height double (see Movement Types in Chapter 10: <a href="../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump <a href="../../rule/combat/distance/">distance</a> for the purpose of determining damage and whether you <a href="../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../condition/prone/">are not prone</a> after falling and landing on another creature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Stormborn</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stormborn</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as <a href="../../rule/dice/bane/">banes</a> or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level <a href="../conduit/">conduit</a> (see 1st-Level Domain Feature in the <a href="../conduit/">Conduit</a> section).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">Unfettered</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unfettered</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>At the start of your <a href="../../rule/combat/turn/">turn</a>, you can end any <a href="../../condition/restrained/">restrained</a> <a href="../../rule/combat/condition/">condition</a> on you. Additionally, you have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to escape being confined or imprisoned.</p>
 </div>
@@ -1400,26 +958,13 @@ As a 5th-level [fury](fury.md), you gain the following features.
 ### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">9-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Debilitating Strike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Debilitating Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You need just one blow to sabotage your target.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1440,14 +985,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">My Turn!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">My Turn!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You quickly strike back at a foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1472,14 +1010,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Rebounding Storm</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rebounding Storm</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You knock around enemies like playthings.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1500,14 +1031,7 @@ As a 5th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">To Stone!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">To Stone!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel the Primordial Chaos into blows that petrify your foe... literally.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1544,14 +1068,8 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 ### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Portal</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Portal</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to <a href="../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to <a href="../../movement/teleport/">teleport</a> back again. You can maintain a number of portals equal to your <a href="../../rule/character/might/">Might</a> score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your <a href="../../rule/combat/distance/">distance</a> from it, including across different worlds (no action required).</p>
 <p>(Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)</p>
@@ -1561,14 +1079,8 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 ### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-6/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one crafting, exploration, or intrigue perk of your choice.</p>
 </div>
@@ -1577,35 +1089,18 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 ### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">6th-Level Aspect Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Berserker Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Berserker Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Avalanche Impact</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Avalanche Impact</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You leap and crash down, causing a shockwave that devastates foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1626,14 +1121,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Force of Storms</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Force of Storms</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1657,23 +1145,12 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Reaver Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Reaver Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Death Strike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Once you taste your foe&#39;s blood, you become more efficient and <a href="../../rule/combat/turn/">turn</a> every killing blow into an opportunity.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1690,14 +1167,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Seek and Destroy</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Seek and Destroy</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You break through the enemy lines to make an example.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1725,23 +1195,12 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Stormwight Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Stormwight Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Pounce</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pounce</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You strike at the target like the ultimate predator you are.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1762,14 +1221,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Riders on the Storm</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Riders on the Storm</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You focus your connection to the Primordial Chaos into a seething storm.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1799,14 +1251,8 @@ As a 7th-level [fury](fury.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-7/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
@@ -1815,14 +1261,8 @@ As a 7th-level [fury](fury.md), you gain the following features.
 ### Elemental Form {data-scc="mcdm.heroes.v1/feature.fury.level-7/elemental-form"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Elemental Form</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Form</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your ferocity, elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.</p>
 <p>Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your <a href="../../rule/character/might/">Might</a> score. If you are a stormwight, you have immunity to the <a href="../../rule/damage/damage-type/">damage type</a> of your <a href="../../feature/fury/stormwight-kits/primordial-storm/">Primordial Storm</a> feature equal to twice your <a href="../../rule/character/might/">Might</a> score.</p>
@@ -1832,14 +1272,8 @@ As a 7th-level [fury](fury.md), you gain the following features.
 ### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-7/greater-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Greater Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Greater Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>When you gain ferocity at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 ferocity instead of 1d3.</p>
 </div>
@@ -1848,14 +1282,8 @@ As a 7th-level [fury](fury.md), you gain the following features.
 ### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-7/growing-ferocity-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> feature provides additional benefits when you have 10 or more ferocity.</p>
 </div>
@@ -1864,14 +1292,8 @@ As a 7th-level [fury](fury.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-7/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -1884,14 +1306,8 @@ As an 8th-level [fury](fury.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-8/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -1900,59 +1316,31 @@ As an 8th-level [fury](fury.md), you gain the following features.
 ### 8th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-8/8th-level-aspect-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">8th-Level Aspect Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Aspect Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 8th-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">8th-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../feature/fury/level-8/strongest-there-is/">Strongest There Is</a></td></tr><tr><td>Reaver</td><td><a href="../../feature/fury/level-8/a-step-ahead/">A Step Ahead</a></td></tr><tr><td>Stormwight</td><td><a href="../../feature/fury/level-8/menagerie/">Menagerie</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Menagerie</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Menagerie</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You can use all <a href="../../feature/fury/stormwight-kits/kit-features/">stormwight kits</a>. During a <a href="../../rule/resource/respite/">respite</a>, you can choose to swap your stormwight kit and still take another <a href="../../rule/resource/respite/">respite</a> activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a <a href="../../rule/test/test/">test</a> to track another creature, you can roll three dice and choose which two to use.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">A Step Ahead</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Step Ahead</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You move with legendary grace. Whenever you make an <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action, the <a href="../../rule/combat/distance/">distance</a> you can <a href="../../movement/shifting/">shift</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Strongest There Is</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Strongest There Is</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your strength is unmatched. Whenever you make a <a href="../../rule/character/might/">Might</a> <a href="../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/might/">Might</a> score.</p>
 </div>
@@ -1964,26 +1352,13 @@ As an 8th-level [fury](fury.md), you gain the following features.
 ### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">11-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Elemental Ferocity</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Ferocity</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your primordial energy makes for instant retribution.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1996,14 +1371,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Overkill</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Overkill</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You strike so no damage is wasted.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2024,14 +1392,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Primordial Rage</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Rage</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your ferocity manifests into <a href="../../feature/fury/level-10/primordial-power/">primordial power</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2044,14 +1405,7 @@ As an 8th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Relentless Death</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Relentless Death</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You won&#39;t escape your fate.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2082,14 +1436,8 @@ As a 9th-level [fury](fury.md), you gain the following features.
 ### Harbinger of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-9/harbinger-of-the-primordial-chaos"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Harbinger of the Primordial Chaos</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Harbinger of the Primordial Chaos</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>You can create a temporary source of elemental power as a <a href="../../rule/resource/respite/">respite</a> activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your <a href="../../feature/fury/level-6/primordial-portal/">Primordial Portal</a> feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.</p>
 </div>
@@ -2098,35 +1446,18 @@ As a 9th-level [fury](fury.md), you gain the following features.
 ### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">9th-Level Aspect Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Berserker Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Berserker Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Death Comes for You All!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death Comes for You All!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You use your weapon to create a destructive shockwave.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2147,14 +1478,7 @@ As a 9th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Primordial Vortex</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Vortex</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel the power of the Primordial Chaos to pull foes to you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2178,23 +1502,12 @@ As a 9th-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Reaver Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Reaver Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Primordial Bane</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Bane</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You attune the target to be weaker to a specific element.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2215,14 +1528,7 @@ As a 9th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Shower of Blood</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shower of Blood</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You shock your foes with the brutality of your <a href="../../rule/combat/strike/">strike</a>, resetting the balance of combat.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2246,23 +1552,12 @@ As a 9th-level [fury](fury.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Stormwight Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Stormwight Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Death Rattle</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death Rattle</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2279,14 +1574,7 @@ As a 9th-level [fury](fury.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Deluge</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deluge</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You summon your <a href="../../feature/fury/stormwight-kits/primordial-storm/">primordial storm</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2320,14 +1608,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Chaos Incarnate {data-scc="mcdm.heroes.v1/feature.fury.level-10/chaos-incarnate"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Chaos Incarnate</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chaos Incarnate</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your <a href="../../rule/character/might/">Might</a> score. If you are a stormwight, your <a href="../../rule/damage/damage-immunity/">damage immunity</a> from your <a href="../../feature/fury/stormwight-kits/primordial-storm/">Primordial Storm</a> feature (see <a href="../../feature/fury/stormwight-kits/kit-features/">Stormwight Kits</a>) increases to three times your <a href="../../rule/character/might/">Might</a> score.</p>
 <p>When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P &lt; STRONG, they are <a href="../../condition/frightened/">frightened</a> of you (save ends).</p>
@@ -2338,14 +1620,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-10/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/agility/">Agility</a> scores each increase to 5.</p>
 </div>
@@ -2354,14 +1630,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-10/growing-ferocity-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> feature provides additional benefits when you have 12 or more ferocity.</p>
 </div>
@@ -2370,14 +1640,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-10/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one crafting, exploration, or intrigue perk of your choice.</p>
 </div>
@@ -2386,14 +1650,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Primordial Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>The first time you take damage each <a href="../../rule/combat/combat-round/">combat round</a>, you gain 3 ferocity instead of 2.</p>
 </div>
@@ -2402,14 +1660,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Primordial Power {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-power"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Power</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Power</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You have an epic resource called <a href="../../feature/fury/level-10/primordial-power/">primordial power</a>. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain <a href="../../feature/fury/level-10/primordial-power/">primordial power</a> equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../../feature/fury/level-10/primordial-power/">primordial power</a> on your abilities as if it were ferocity.</p>
 <p>Additionally, you can spend any amount of <a href="../../feature/fury/level-10/primordial-power/">primordial power</a> as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>, ending one effect on you for each <a href="../../feature/fury/level-10/primordial-power/">primordial power</a> spent.</p>
@@ -2421,14 +1673,8 @@ As a 10th-level [fury](fury.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-10/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -2441,44 +1687,24 @@ The stormwight [primordial aspect](../feature/fury/level-1/primordial-aspect.md)
 ### Kit Features {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Kit Features</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>All stormwight kits have the following features in common.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Aspect Benefits and Animal Form</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Benefits and Animal Form</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/fury/level-1/primordial-aspect/">primordial aspect</a> benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Aspect of the Wild</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect of the Wild</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Aspect of the Wild</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect of the Wild</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You assume the form of the animal who channels your ferocity.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2495,51 +1721,31 @@ The stormwight [primordial aspect](../feature/fury/level-1/primordial-aspect.md)
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Primordial Storm</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Storm</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Each stormwight kit is associated with a <a href="../../feature/fury/stormwight-kits/primordial-storm/">primordial storm</a>, which channels a specific <a href="../../rule/damage/damage-type/">damage type</a> used by some of your abilities.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Equipment</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Equipment</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You wear no armor and wield only your unarmed <a href="../../rule/combat/strike/">strikes</a>—which become devastating natural weapons as your ferocity grows.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Kit Bonuses</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Bonuses</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>These <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>es apply in your true form, your <a href="../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for information on <a href="../../feature/fury/boren/kit-bonuses/">kit bonuses</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You gain a new <a href="../../rule/combat/signature-ability/">signature ability</a> from your kit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Each stormwight kit grants a set of benefits for your <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
 </div>
@@ -2555,13 +1761,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Aspect Benefits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Benefits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Whenever you use <a href="../../movement/forced-movement/">forced movement</a> to <a href="../../movement/forced-movement/">push</a> a creature, you can <a href="../../movement/forced-movement/">pull</a> that creature instead. Whenever you <a href="../../movement/forced-movement/">pull</a> a creature <a href="../../rule/combat/adjacent/">adjacent</a> to you and that creature has M &lt; AVERAGE, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../condition/grabbed/">grabbed</a> by you.</p>
 </div>
@@ -2570,13 +1771,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Animal Form: Bear</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Animal Form: Bear</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your bear form, your <a href="../../rule/character/size/">size</a> is 2 and you gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/combat/distance/">distance</a> with <a href="../../rule/combat/melee/">melee</a> weapon abilities.</p>
 </div>
@@ -2585,13 +1781,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/hybrid-form-bear"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Hybrid Form: Bear</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hybrid Form: Bear</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your hybrid form, your <a href="../../rule/character/size/">size</a> is 2 and you gain a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/combat/distance/">distance</a> with <a href="../../rule/combat/melee/">melee</a> weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
@@ -2600,13 +1791,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.fury.boren/primordial-storm-blizzard"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Storm: Blizzard</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Storm: Blizzard</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your primordial <a href="../../rule/damage/damage-type/">damage type</a> is cold.</p>
 </div>
@@ -2615,13 +1801,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Kit Bonuses</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Bonuses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <ul><li><b><a href="../../rule/health/stamina/">Stamina</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +9 per <a href="../../rule/general/echelon/">echelon</a></li><li><b><a href="../../rule/character/stability/">Stability</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2</li><li><b><a href="../../rule/combat/melee/">Melee</a> Damage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +0/+0/+4</li></ul>
 </div>
@@ -2632,14 +1813,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 ##### Bear Claws {data-scc="mcdm.heroes.v1/feature.ability.boren/bear-claws"}
 
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Boren (Bear Claws)</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boren (Bear Claws)</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Attacks with your sharp and deadly claws grab the weak.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2659,22 +1833,13 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.boren/growing-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As your ferocity grows, you gain benefits as noted on the <a href="../../kit/boren/">Boren</a> <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Boren Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boren Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>You can have up to two creatures <a href="../../condition/grabbed/">grabbed</a> at a time. Additionally, whenever you make a <a href="../../rule/combat/strike/">strike</a> against a creature you have <a href="../../condition/grabbed/">grabbed</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>4</td><td>The first time you grab a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on the <a href="../../feature/common/maneuvers/grab/">Grab</a> and <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuvers.</td></tr><tr><td>8 (4th level)</td><td>The first time you grab a creature on a <a href="../../rule/combat/turn/">turn</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a> instead of 1.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on the <a href="../../feature/common/maneuvers/grab/">Grab</a> and <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuvers.</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, whenever you have a creature <a href="../../condition/grabbed/">grabbed</a>, any <a href="../../rule/dice/ability-roll/">ability roll</a> made against that creature gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to its <a href="../../rule/character/potency/">potency</a> equal to your <a href="../../rule/character/might/">Might</a> score.</td></tr></tbody></table>
 </div>
@@ -2690,13 +1855,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.corven/aspect-benefits"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Aspect Benefits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Benefits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to hide and sneak. Additionally, whenever you fall, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use your <a href="../../feature/ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a> ability.</p>
 </div>
@@ -2705,13 +1865,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/animal-form-crow"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Animal Form: Crow</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Animal Form: Crow</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your crow form, your <a href="../../rule/character/size/">size</a> is 1T and you can <a href="../../movement/fly/">fly</a>. You can use the <a href="../../feature/common/maneuvers/hide/">Hide</a> maneuver as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>, and you can use your allies as <a href="../../rule/combat/cover/">cover</a> when you hide. You can&#39;t use any abilities while in this form except for <a href="../../feature/ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a>.</p>
 </div>
@@ -2720,13 +1875,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/hybrid-form-crow"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Hybrid Form: Crow</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hybrid Form: Crow</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your hybrid form, your <a href="../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can <a href="../../movement/fly/">fly</a>.</p>
 </div>
@@ -2735,13 +1885,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Primordial Storm: Anabatic Wind {data-scc="mcdm.heroes.v1/feature.fury.corven/primordial-storm-anabatic-wind"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Storm: Anabatic Wind</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Storm: Anabatic Wind</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your primordial <a href="../../rule/damage/damage-type/">damage type</a> is fire.</p>
 </div>
@@ -2750,13 +1895,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Kit Bonuses</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Bonuses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <ul><li><b><a href="../../rule/health/stamina/">Stamina</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3 per <a href="../../rule/general/echelon/">echelon</a></li><li><b><a href="../../rule/character/speed/">Speed</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3</li><li><b><a href="../../rule/combat/melee/">Melee</a> Damage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2/+2/+2</li><li><b>Disengage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +1</li></ul>
 </div>
@@ -2767,14 +1907,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 ##### Wing Buffet {data-scc="mcdm.heroes.v1/feature.ability.corven/wing-buffet"}
 
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Corven (Wing Buffet)</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Corven (Wing Buffet)</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Foes who try to close in around you do so at their peril.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2798,22 +1931,13 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.corven/growing-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As your ferocity grows, you gain benefits as noted on the <a href="../../kit/corven/">Corven</a> <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Corven Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Corven Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>Whenever you use the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action, the <a href="../../rule/combat/distance/">distance</a> you can <a href="../../movement/shifting/">shift</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</td></tr><tr><td>4</td><td>The first time you <a href="../../movement/shifting/">shift</a> on a <a href="../../rule/combat/turn/">turn</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a>, the <a href="../../feature/common/maneuvers/escape-grab/">Escape Grab</a> maneuver, and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>8 (4th level)</td><td>The first time you <a href="../../movement/shifting/">shift</a> on a <a href="../../rule/combat/turn/">turn</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a> instead of 1.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a>, the <a href="../../feature/common/maneuvers/escape-grab/">Escape Grab</a> maneuver, and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, the <a href="../../rule/character/potency/">potency</a> of any effects targeting you is reduced by 2 for you.</td></tr></tbody></table>
 </div>
@@ -2829,13 +1953,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.raden/aspect-benefits"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Aspect Benefits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Benefits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to hide and sneak. Additionally, you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
@@ -2844,13 +1963,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/animal-form-rat"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Animal Form: Rat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Animal Form: Rat</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your rat form, your <a href="../../rule/character/size/">size</a> is 1T and you can automatically climb at full <a href="../../rule/character/speed/">speed</a> while moving. You can use the <a href="../../feature/common/maneuvers/hide/">Hide</a> maneuver as a <a href="../../rule/combat/free-maneuver/">free maneuver</a>, you can use your allies as <a href="../../rule/combat/cover/">cover</a> when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to climb other creatures. You can&#39;t use any abilities while in this form except for <a href="../../feature/ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a>.</p>
 </div>
@@ -2859,13 +1973,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/hybrid-form-rat"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Hybrid Form: Rat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hybrid Form: Rat</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your hybrid form, your <a href="../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can automatically climb at full <a href="../../rule/character/speed/">speed</a> while moving.</p>
 </div>
@@ -2874,13 +1983,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.fury.raden/primordial-storm-rat-flood"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Storm: Rat Flood</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Storm: Rat Flood</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your primordial <a href="../../rule/damage/damage-type/">damage type</a> is corruption.</p>
 </div>
@@ -2889,13 +1993,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Kit Bonuses</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Bonuses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <ul><li><b><a href="../../rule/health/stamina/">Stamina</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3 per <a href="../../rule/general/echelon/">echelon</a></li><li><b><a href="../../rule/character/speed/">Speed</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3</li><li><b><a href="../../rule/combat/melee/">Melee</a> Damage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2/+2/+2</li><li><b>Disengage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +1</li></ul>
 </div>
@@ -2906,14 +2005,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 ##### Driving Pounce {data-scc="mcdm.heroes.v1/feature.ability.raden/driving-pounce"}
 
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Raden (Driving Pounce)</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Raden (Driving Pounce)</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your enemies try in vain to fall back from your pouncing attack.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2937,22 +2029,13 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.raden/growing-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As your ferocity grows, you gain benefits as noted on the <a href="../../kit/raden/">Raden</a> <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Raden Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Raden Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>Whenever you use the <a href="../../feature/common/move-actions/disengage/">Disengage</a> move action, the <a href="../../rule/combat/distance/">distance</a> you can <a href="../../movement/shifting/">shift</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</td></tr><tr><td>4</td><td>The first time you <a href="../../movement/shifting/">shift</a> on a <a href="../../rule/combat/turn/">turn</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a>, the <a href="../../feature/common/maneuvers/escape-grab/">Escape Grab</a> maneuver, and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>8 (4th level)</td><td>The first time you <a href="../../movement/shifting/">shift</a> on a <a href="../../rule/combat/turn/">turn</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a> instead of 1.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a>, the <a href="../../feature/common/maneuvers/escape-grab/">Escape Grab</a> maneuver, and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, the <a href="../../rule/character/potency/">potency</a> of any effects targeting you is reduced by 2 for you.</td></tr></tbody></table>
 </div>
@@ -2968,13 +2051,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.vuken/aspect-benefits"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Aspect Benefits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aspect Benefits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Whenever you use the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver, you can then use the <a href="../../feature/common/maneuvers/aid-attack/">Aid Attack</a> maneuver as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
@@ -2983,13 +2061,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Animal Form: Wolf</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Animal Form: Wolf</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your wolf form, your <a href="../../rule/character/size/">size</a> is 1L, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, and you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
@@ -2998,13 +2071,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Hybrid Form: Wolf</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hybrid Form: Wolf</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While you are in your hybrid form, your <a href="../../rule/character/size/">size</a> is 1L, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, and you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
@@ -3013,13 +2081,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Primordial Storm: Lightning Storm</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Storm: Lightning Storm</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your primordial <a href="../../rule/damage/damage-type/">damage type</a> is lightning.</p>
 </div>
@@ -3028,13 +2091,8 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Kit Bonuses</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit Bonuses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <ul><li><b><a href="../../rule/health/stamina/">Stamina</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +9 per <a href="../../rule/general/echelon/">echelon</a></li><li><b><a href="../../rule/character/speed/">Speed</a> <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2</li><li><b><a href="../../rule/combat/melee/">Melee</a> Damage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2/+2/+2</li><li><b>Disengage <a href="../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +1</li></ul>
 </div>
@@ -3045,14 +2103,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 ##### Unbalancing Attack {data-scc="mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack"}
 
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Vuken (Unbalancing Attack)</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Vuken (Unbalancing Attack)</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A wild assault forces your foe onto their back.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -3072,22 +2123,13 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.vuken/growing-ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Growing Ferocity</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Growing Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As your ferocity grows, you gain benefits as noted on the <a href="../../kit/vuken/">Vuken</a> <a href="../../feature/fury/boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Vuken Growing Ferocity Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Vuken Growing Ferocity Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Ferocity</th><th>Benefit</th></tr></thead><tbody><tr><td>2</td><td>Whenever you use the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver, you can target one additional creature.</td></tr><tr><td>4</td><td>The first time on a <a href="../../rule/combat/turn/">turn</a> that you <a href="../../movement/forced-movement/">push</a> a creature or knock a <a href="../../condition/prone/">creature prone</a>, you gain 1 <a href="../../rule/resource/surge/">surge</a>.</td></tr><tr><td>6</td><td>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>8 (4th level)</td><td>The first time on a <a href="../../rule/combat/turn/">turn</a> that you <a href="../../movement/forced-movement/">push</a> a creature or knock a <a href="../../condition/prone/">creature prone</a>, you gain 2 <a href="../../rule/resource/surge/">surges</a>.</td></tr><tr><td>10 (7th level)</td><td>You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/agility/">Agility</a> <a href="../../rule/test/test/">tests</a> and the <a href="../../feature/common/maneuvers/knockback/">Knockback</a> maneuver.</td></tr><tr><td>12 (10th level)</td><td>Whenever you use a <a href="../../rule/general/heroic-ability/">heroic ability</a>, you gain 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, whenever you make a <a href="../../rule/dice/power-roll/">power roll</a> that imposes <a href="../../movement/forced-movement/">forced movement</a> on a target, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/agility/">Agility</a> score.</td></tr></tbody></table>
 </div>

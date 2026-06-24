@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature</div>
-<h3 class="sc-trait__name">Summoner Circle</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner Circle</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner Circle</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You&#39;ve learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct <a href="../portfolio/">portfolio</a> of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (<em>Quick Build:</em> Circle of Graves.)</p>
 <p><b>Circle of Blight:</b> You are a demonologist who calls forth demons from the Abyssal Waste. Your <a href="../portfolio/">portfolio</a> includes shapechanging demons that grow in hunger and power over time. You can communicate with creatures that have the Abyssal keyword even if you don&#39;t share a language.</p>

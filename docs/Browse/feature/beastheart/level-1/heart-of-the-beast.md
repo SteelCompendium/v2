@@ -13,27 +13,14 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Heart of the Beast</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of the Beast</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You and your companion share a primordial bond so intense your hearts literally beat as one. If your partner is lost, you can split your heart in two and summon them back to your side.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Both you and your companion can use the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Heart of the Beast</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of the Beast</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">&#34;Better look away—this might not be pretty.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -49,14 +36,7 @@ type: feature
 <div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Feral Strike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feral Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>

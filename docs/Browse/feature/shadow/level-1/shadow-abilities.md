@@ -13,35 +13,18 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature</div>
-<h3 class="sc-trait__name">Shadow Abilities</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You specialize in dealing damage, then getting out of harm&#39;s way before the inevitable counterattack. You know a number of unique martial abilities that define your presence on the battlefield.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/teamwork-has-its-place/">Teamwork Has Its Place</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Gasping in Pain</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gasping in Pain</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your precise strikes let your allies take advantage of a target&#39;s agony.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -62,14 +45,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">I Work Better Alone</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Work Better Alone</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">&#34;It&#39;s better, just you and me. Isn&#39;t it?&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -90,14 +66,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Teamwork Has Its Place</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Teamwork Has Its Place</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You attack an enemy as an ally exposes their weakness.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -118,14 +87,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">You Were Watching the Wrong One</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">You Were Watching the Wrong One</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">They can&#39;t watch both of you at once.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -149,33 +111,18 @@ type: feature
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Heroic Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heroic Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A range of <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> define your combat prowess, all of which make use of your insight.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">3-Insight Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3-Insight Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 insight to use. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/get-in-get-out/">Get In Get Out</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Disorienting Strike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Disorienting Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your attack leaves them reeling, allowing you to follow up.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -196,14 +143,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Eviscerate</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Eviscerate</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You leave your foe bleeding out after a devastating attack.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -220,14 +160,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Get In Get Out</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Get In Get Out</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Move unexpectedly, strike fast, and be gone!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -248,14 +181,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Two Throats at Once</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Two Throats at Once</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A bargain.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -275,23 +201,12 @@ type: feature
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5-Insight Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5-Insight Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 insight to use. (Quick Build: <a href="../../../ability/shadow/level-1/coup-de-grace/">Coup de Grace</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Coup de Grace</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Coup de Grace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your blade might be the last thing they see.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -308,14 +223,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">One Hundred Throats</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">One Hundred Throats</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">As you move across the battlefield, every foe within reach feels your wrath.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -336,14 +244,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Setup</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Setup</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your friends will thank you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -360,14 +261,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Shadowstrike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadowstrike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">They have no idea what the college taught you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">

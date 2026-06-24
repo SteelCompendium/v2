@@ -13,59 +13,31 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">8th-Level Aspect Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Aspect Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 8th-Level Aspect Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">8th-Level Aspect Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Aspect Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../strongest-there-is/">Strongest There Is</a></td></tr><tr><td>Reaver</td><td><a href="../a-step-ahead/">A Step Ahead</a></td></tr><tr><td>Stormwight</td><td><a href="../menagerie/">Menagerie</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Stormwight</div>
-<h3 class="sc-trait__name">Menagerie</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Menagerie</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You can use all <a href="../../stormwight-kits/kit-features/">stormwight kits</a>. During a <a href="../../../../rule/resource/respite/">respite</a>, you can choose to swap your stormwight kit and still take another <a href="../../../../rule/resource/respite/">respite</a> activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a <a href="../../../../rule/test/test/">test</a> to track another creature, you can roll three dice and choose which two to use.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Reaver</div>
-<h3 class="sc-trait__name">A Step Ahead</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Step Ahead</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Reaver</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You move with legendary grace. Whenever you make an <a href="../../../../rule/character/agility/">Agility</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature · Berserker</div>
-<h3 class="sc-trait__name">Strongest There Is</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Strongest There Is</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Berserker</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your strength is unmatched. Whenever you make a <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>

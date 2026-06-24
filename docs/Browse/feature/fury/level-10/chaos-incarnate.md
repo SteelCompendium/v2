@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Feature</div>
-<h3 class="sc-trait__name">Chaos Incarnate</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chaos Incarnate</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score. If you are a stormwight, your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> from your <a href="../../stormwight-kits/primordial-storm/">Primordial Storm</a> feature (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>) increases to three times your <a href="../../../../rule/character/might/">Might</a> score.</p>
 <p>When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P &lt; STRONG, they are <a href="../../../../condition/frightened/">frightened</a> of you (save ends).</p>

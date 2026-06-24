@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature</div>
-<h3 class="sc-trait__name">Grand Wyrding</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grand Wyrding</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>You have mastered the magic of shaping a wyrd, and can use your <a href="../../level-6/wyrding/">Wyrding</a> feature as a main action.</p>
 <p>Additionally, when you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, choose one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.</p>

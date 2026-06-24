@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent Feature</div>
-<h3 class="sc-trait__name">Psion</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Psion</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.</p>
 <p>Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&#39;s strained effect even if you&#39;re not strained.</p>

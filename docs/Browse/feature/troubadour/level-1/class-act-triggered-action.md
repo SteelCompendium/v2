@@ -13,36 +13,19 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
-<h3 class="sc-trait__name">Class Act Triggered Action</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Class Act Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a <a href="../../../../rule/combat/triggered-action/">triggered action</a>, as shown on the Class Act <a href="../../../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Class Act Triggered Action Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Class Act Triggered Action Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Class Act</th><th><a href="../../../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../../ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a></td></tr><tr><td>Duelist</td><td><a href="../../../ability/troubadour/level-1/riposte/">Riposte</a></td></tr><tr><td>Virtuoso</td><td><a href="../../../ability/troubadour/level-1/harmonize/">Harmonize</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Harmonize</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Harmonize</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Give the chorus a little punch.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -60,14 +43,7 @@ type: feature
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Drama</span><span class="txt">You can trigger this ability when a target uses an ability that has a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 3 + each additional drama spent.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Riposte</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Riposte</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">&#34;I&#39;d have brought treats had I known I&#39;d be fighting a dog.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span></div>
 <div class="sc-ability__rail">
@@ -84,14 +60,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Turnabout Is Fair Play</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Turnabout Is Fair Play</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">All&#39;s fair in love and whatever.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">

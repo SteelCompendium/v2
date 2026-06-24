@@ -12,13 +12,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Memonek Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Lightweight</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Lightweight</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Memonek</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your <a href="../../../../rule/character/size/">size</a> as one <a href="../../../../rule/character/size/">size</a> smaller than it is.</p>
 </div>

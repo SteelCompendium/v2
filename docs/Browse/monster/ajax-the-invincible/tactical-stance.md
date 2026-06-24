@@ -24,22 +24,19 @@ type: featureblock
 
 <div class="fb-wrap" data-role="feature" data-kind="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Tactical Stance</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactical Stance</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__flavor">At the start of each round, Ajax chooses a new stance from one of the following options and gains its benefits:</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Insurgent</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Insurgent</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Ajax automatically treats his initial power roll as a 17. He can still roll to determine if he scores a critical hit.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Mastermind</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mastermind</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Before he uses an ability, Ajax can either <a href="../../../movement/shifting/">shift</a> up to 2 squares, or can cause one creature within line of effect to <a href="../../../movement/forced-movement/">slide</a> up to 2 squares, ignoring stability.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><span class="fb__feat-icon">⭐️</span><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Vanguard</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Vanguard</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Ajax has <a href="../../../rule/damage/damage-immunity/">damage immunity</a> 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double <a href="../../../rule/dice/bane/">bane</a> on the roll.</div>
 </article>
 </div>

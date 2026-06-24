@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
-<h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Saint&#39;s Vigilance</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Exorcist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>

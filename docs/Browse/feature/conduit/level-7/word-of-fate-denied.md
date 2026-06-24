@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature · Fate</div>
-<h3 class="sc-trait__name">Word of Fate Denied</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Word of Fate Denied</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit · Fate</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>When an ally within 10 squares takes damage that would leave them <a href="../../../../rule/health/dying/">dying</a>, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
 </div>

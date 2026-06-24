@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Feature · Harlequin Mask</div>
-<h3 class="sc-trait__name">Friend!</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Friend!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow · Harlequin Mask</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within <a href="../../../../rule/combat/distance/">distance</a> of the effect, you can choose to be a target of the effect as well.</p>
 <p>Additionally, when you use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability, you can take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as part of that ability.</p>

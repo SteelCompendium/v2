@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit Feature</div>
-<h3 class="sc-trait__name">Deity and Domains</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deity and Domains</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Choose a god or <a href="../../../../rule/world/saint/">saint</a> who your character reveres from Chapter 14: <a href="../../../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
 <p>After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your <a href="../../../../rule/general/subclass/">subclass</a>, and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (<em>Quick Build:</em> <a href="../../../../religion/god/adun/">Adûn</a> for deity, and Life and Protection as domains.)</p>

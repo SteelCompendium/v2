@@ -380,108 +380,60 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 ### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Devil Trait</div>
-<h3 class="sc-trait__name">Devil Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Devil Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Devil</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/devil/">Devil</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Silver Tongue</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Silver Tongue</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the <a href="../../../Browse/skill/interpersonal/">interpersonal skill group</a> (see Skills in Chapter 9: <a href="../tests/">Tests</a>), and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> when attempting to discover an <a href="../../../Browse/rule/general/npc/">NPC</a>&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../negotiation/">Negotiation</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Devil Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Devil Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Beast Legs, Impressive Horns.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Barbed Tail</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barbed Tail</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../Browse/rule/combat/strike/">strike</a> equal to your highest <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Beast Legs</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beast Legs</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your powerful legs make you faster. You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Glowing Eyes</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glowing Eyes</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Hellsight</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hellsight</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> made against creatures with <a href="../../../Browse/rule/combat/concealment/">concealment</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Impressive Horns</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Impressive Horns</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your cherished horns are larger than the average <a href="../../../Browse/ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Prehensile Tail</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Prehensile Tail</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Wings</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wings</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
 </div>
@@ -582,65 +534,35 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 ### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dragon Knight Trait</div>
-<h3 class="sc-trait__name">Dragon Knight Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dragon Knight Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dragon Knight</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/dragon-knight/">Dragon knight</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Wyrmplate</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Wyrmplate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your hardened scales grant you <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../Browse/rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> type when you finish a <a href="../../../Browse/rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Dragon Knight Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Dragon Knight Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> <a href="../../../Browse/feature/ability/dragon-knight/dragon-breath/">Dragon Breath</a>, Prismatic Scales.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Draconian Guard</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Draconian Guard</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Whenever you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature takes damage from a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../Browse/rule/combat/strike/">strike</a> by an amount equal to your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Draconian Pride</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Draconian Pride</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Draconian Pride</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Draconian Pride</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You let loose a mighty roar to shake your foes&#39; spirits.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -660,24 +582,12 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Dragon Breath</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dragon Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Dragon Breath</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dragon Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A furious exhalation of energy washes over your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -701,35 +611,20 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Prismatic Scales</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Prismatic Scales</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Select one <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Remember Your Oath</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Remember Your Oath</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can recite the following oath. Until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
 <p class="sc-trait__flavor">Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Wings</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wings</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../Browse/movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../Browse/rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../Browse/movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5.</p>
 </div>
@@ -848,22 +743,13 @@ John was grinning madly at Embers. She held up three fingers.
 ### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dwarf Trait</div>
-<h3 class="sc-trait__name">Dwarf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dwarf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dwarf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/dwarf/">Dwarf</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Runic Carving</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Runic Carving</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:</p>
 <p><b>Detection:</b> Pick a specific type of creature (such as goblins or <a href="../../../Browse/ancestry/human/">humans</a>) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to the creature or object. You can change the type of creature or object as a maneuver.</p>
@@ -873,65 +759,36 @@ John was grinning madly at Embers. She held up three fingers.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Dwarf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Dwarf Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Grounded, Spark Off Your Skin.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Great Fortitude</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Great Fortitude</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Grounded</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grounded</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Spark Off Your Skin</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spark Off Your Skin</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your stone skin affords you potent protection. You have a +6 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/health/stamina/">Stamina</a>, and that <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Stand Tough</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stand Tough</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Stone Singer</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stone Singer</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can&#39;t destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.</p>
 </div>
@@ -1030,109 +887,59 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 ### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf Trait</div>
-<h3 class="sc-trait__name">Wode Elf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wode Elf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Wode Elf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/wode-elf/">Wode elf</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Wode Elf Glamor</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Wode Elf Glamor</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You can magically alter your appearance to better blend in with your surroundings. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to hide and sneak, and <a href="../../../Browse/rule/test/test/">tests</a> made to search for you while you are hidden take a <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Wode Elf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Wode Elf Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Swift, Otherworldly Grace.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Forest Walk</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Forest Walk</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You can <a href="../../../Browse/movement/shifting/">shift</a> into and while within <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Quick and Brutal</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Quick and Brutal</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Whenever you score a <a href="../../../Browse/rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Otherworldly Grace</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Otherworldly Grace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Revisit Memory</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revisit Memory</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Swift</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Swift</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You have <a href="../../../Browse/rule/character/speed/">speed</a> 6.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">The Wode Defends</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Wode Defends</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">The Wode Defends</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Wode Defends</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Thorny vines erupt from every surface and attempt to bind your foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -1233,97 +1040,54 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 ### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>High Elf Trait</div>
-<h3 class="sc-trait__name">High Elf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">High Elf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">High Elf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/high-elf/">High elf</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: High Elf Glamor</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: High Elf Glamor</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> using the <a href="../../../Browse/skill/interpersonal/flirt/">Flirt</a> or <a href="../../../Browse/skill/interpersonal/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased High Elf Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased High Elf Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> High Senses, Otherworldly Grace.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Glamor of Terror</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glamor of Terror</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../Browse/condition/frightened/">frightened</a> of you until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Graceful Retreat</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Graceful Retreat</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">High Senses</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">High Senses</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your senses are especially keen and perceptive. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to notice threats.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Otherworldly Grace</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Otherworldly Grace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Revisit Memory</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revisit Memory</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Unstoppable Mind</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unstoppable Mind</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>
 </div>
@@ -1436,53 +1200,30 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 ### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Hakaan Trait</div>
-<h3 class="sc-trait__name">Hakaan Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hakaan Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Hakaan</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/hakaan/">Hakaan</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Big!</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Big!</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your stature reflects your giant forebears. Your <a href="../../../Browse/rule/character/size/">size</a> is 1L.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Hakaan Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Hakaan Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Doomsight, Forceful.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">All Is a Feather</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">All Is a Feather</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You are exceptionally strong. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Doomsight</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Doomsight</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on <a href="../../../Browse/rule/test/test/">tests</a> and <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a>, and you don&#39;t die no matter how low your <a href="../../../Browse/rule/health/stamina/">Stamina</a> falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</p>
 <p>If you don&#39;t predetermine your death encounter, you can choose to become doomed while you are <a href="../../../Browse/rule/health/dying/">dying</a> with the Director&#39;s approval (no action required). Doing so should be reserved for encounters in which you are <a href="../../../Browse/rule/health/dying/">dying</a> as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you&#39;re playing a one-shot and have nothing to lose, Hacaarl.</p>
@@ -1490,34 +1231,19 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Forceful</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Forceful</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Whenever you <a href="../../../Browse/movement/forced-movement/">force move</a> a creature or object, the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> gains a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Great Fortitude</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Great Fortitude</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../Browse/condition/weakened/">weakened</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Stand Tough</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stand Tough</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your body is made to withstand the blows of your enemies. Your <a href="../../../Browse/rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting <a href="../../../Browse/rule/character/potency/">potencies</a>, and you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
 </div>
@@ -1574,86 +1300,48 @@ Some of your names, I will see written in future textbooks. But some of your nam
 ### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Human Trait</div>
-<h3 class="sc-trait__name">Human Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Human Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Human</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/human/">Human</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Detect the Supernatural</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Detect the Supernatural</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can open your awareness to detect <a href="../../../Browse/rule/general/supernatural/">supernatural</a> creatures and phenomena. Until the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, you know the location of any <a href="../../../Browse/rule/general/supernatural/">supernatural</a> object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Human Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Human Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Perseverance, Staying Power.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Can&#39;t Take Hold</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Can&#39;t Take Hold</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your connection to the natural world allows you to resist certain <a href="../../../Browse/rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../Browse/movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../Browse/movement/forced-movement/">forced movement</a> <a href="../../../Browse/rule/combat/distance/">distance</a> by 1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Determination</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Determination</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../Browse/condition/frightened/">frightened</a>, <a href="../../../Browse/condition/slowed/">slowed</a>, or <a href="../../../Browse/condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../Browse/rule/combat/condition/">conditions</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Perseverance</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perseverance</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Giving up is for other people. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made using the <a href="../../../Browse/skill/exploration/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../Browse/condition/slowed/">slowed</a>, your <a href="../../../Browse/rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Resist the Unnatural</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Resist the Unnatural</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Staying Power</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Staying Power</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../Browse/ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> by 2.</p>
 </div>
@@ -1758,118 +1446,66 @@ John offered his hand. Revile shook it and then held it.
 ### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Memonek Trait</div>
-<h3 class="sc-trait__name">Memonek Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Memonek Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Memonek</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/memonek/">Memonek</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Fall Lightly</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Fall Lightly</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your silicone body is low in density. Whenever you fall, you reduce the <a href="../../../Browse/rule/combat/distance/">distance</a> of the fall by 2 squares.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Lightweight</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Lightweight</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your <a href="../../../Browse/rule/character/size/">size</a> as one <a href="../../../Browse/rule/character/size/">size</a> smaller than it is.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Memonek Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Memonek Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 4 ancestry points to spend on the following traits. (<em>Quick Build:</em> Lightning Nimbleness, Nonstop.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">I Am Law</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Am Law</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Keeper of Order</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Keeper of Order</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature makes a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to remove an <a href="../../../Browse/rule/dice/edge/">edge</a> or a <a href="../../../Browse/rule/dice/bane/">bane</a> on the roll, to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/edge/">edge</a> into an <a href="../../../Browse/rule/dice/edge/">edge</a>, or to <a href="../../../Browse/rule/combat/turn/">turn</a> a double <a href="../../../Browse/rule/dice/bane/">bane</a> into a <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Lightning Nimbleness</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightning Nimbleness</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>You can push your body to move at incredible <a href="../../../Browse/rule/character/speed/">speeds</a>. Your <a href="../../../Browse/rule/character/speed/">speed</a> is 7.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Nonstop</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Nonstop</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Systematic Mind</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Systematic Mind</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Unphased</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unphased</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../Browse/rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Useful Emotion</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Useful Emotion</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Velloparatha—the worldsickness—might hinder you, but you know how to <a href="../../../Browse/rule/combat/turn/">turn</a> your pain into something your enemies feel. At the start of any combat, you gain 1 <a href="../../../Browse/rule/resource/surge/">surge</a>.</p>
 </div>
@@ -2008,86 +1644,48 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 ### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Orc Trait</div>
-<h3 class="sc-trait__name">Orc Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Orc Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Orc</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/orc/">Orc</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Relentless</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Relentless</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Whenever a creature deals damage to you that leaves you <a href="../../../Browse/rule/health/dying/">dying</a>, you can make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> by your <a href="../../../Browse/rule/combat/strike/">strike</a>, you can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Orc Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Orc Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Glowing <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, Grounded.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Bloodfire Rush</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bloodfire Rush</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>The magic coursing through your veins makes you run faster in the heat of battle. The first time in any <a href="../../../Browse/rule/combat/combat-round/">combat round</a> that you take damage, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/speed/">speed</a> until the end of the round.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Glowing Recovery</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glowing Recovery</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> as you like.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Grounded</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grounded</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>The magic in your blood makes it difficult for others to move you. You have a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Nonstop</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Nonstop</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../Browse/condition/slowed/">slowed</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Passionate Artisan</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Passionate Artisan</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>, whether you have those skills or not. Whenever you make a <a href="../../../Browse/rule/downtime/project-roll/">project roll</a> for a <a href="../../../Browse/rule/downtime/crafting-project/">crafting project</a> that uses these skills, you gain a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the roll.</p>
 </div>
@@ -2218,13 +1816,8 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 ### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Polder Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Polder Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Polder</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/polder/">Polder</a> heroes have access to the following traits.</p>
 </div>
@@ -2237,14 +1830,7 @@ You have the following ability.
 ###### Shadowmeld {data-scc="mcdm.heroes.v1/feature.ability.polder/shadowmeld"}
 
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Shadowmeld</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadowmeld</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You become an actual shadow.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2260,13 +1846,8 @@ You have the following ability.
 #### Signature Trait: Small! {data-scc="mcdm.heroes.v1/feature.trait.polder/small"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Polder Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Small!</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Small!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Polder</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your diminutive stature lets you easily get out of—or into—trouble. Your <a href="../../../Browse/rule/character/size/">size</a> is 1S.</p>
 </div>
@@ -2367,111 +1948,62 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 ### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Revenant Trait</div>
-<h3 class="sc-trait__name">Revenant Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revenant Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Revenant</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/revenant/">Revenant</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Former Life</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Former Life</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Choose the ancestry you were before you died. Your <a href="../../../Browse/rule/character/size/">size</a> is that ancestry&#39;s <a href="../../../Browse/rule/character/size/">size</a> and your <a href="../../../Browse/rule/character/speed/">speed</a> is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Tough But Withered</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Tough But Withered</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can&#39;t suffocate, and you don&#39;t need to eat or drink to stay alive.</p>
 <p>Additionally, when your <a href="../../../Browse/rule/health/stamina/">Stamina</a> reaches the negative of your <a href="../../../Browse/rule/health/winded/">winded</a> value, you become inert instead of <a href="../../../Browse/rule/health/dying/">dying</a>. You fall <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or <a href="../../../Browse/rule/combat/triggered-action/">triggered actions</a>. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to your <a href="../../../Browse/rule/health/recoveries/">recovery value</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Revenant Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Revenant Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your <a href="../../../Browse/rule/character/size/">size</a> is 1S. (<em>Quick Build:</em> Bloodless, plus Undead Influence if <a href="../../../Browse/rule/character/size/">size</a> 1S.)</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Bloodless</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bloodless</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../Browse/condition/bleeding/">bleeding</a> even while <a href="../../../Browse/rule/health/dying/">dying</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Previous Life: 1 Point</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Previous Life: 1 Point</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Previous Life: 2 Points</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Previous Life: 2 Points</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>You select a purchased trait that costs 2 ancestry points from your previous ancestry.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Undead Influence</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Undead Influence</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../../Browse/rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, and <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> made to interact with undead creatures.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Vengeance Mark</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Vengeance Mark</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature&#39;s body, and whether the sigil is visible to only you or to all creatures.</p>
 <p>You always know the direction to the exact location of a creature who bears one of your sigils and is on the same world. You can have a number of active sigils equal to your level, and can remove a sigil from a creature at will (no action required). If you already have the maximum number of sigils activated and you place a new one, your oldest sigil disappears with no other effect.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you have the following <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Detonate Sigil</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Detonate Sigil</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A magic sigil you placed on a creature explodes with energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -2600,98 +2132,53 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 ### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Time Raider Trait</div>
-<h3 class="sc-trait__name">Time Raider Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Time Raider Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Time Raider</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../Browse/ancestry/time-raider/">Time raider</a> heroes have access to the following traits.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Trait: Psychic Scar</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Psychic Scar</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Purchased Time Raider Traits</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Time Raider Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Beyondsight, Psionic Gift with <a href="../../../Browse/feature/ability/time-raider/psionic-bolt/">Psionic Bolt</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Beyondsight</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beyondsight</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to any creature or object in that area. You can restore your usual vision as a maneuver.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Foresight</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Foresight</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../Browse/rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../../Browse/rule/combat/strike/">strike</a>, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../../Browse/rule/dice/bane/">bane</a> on the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Four-Armed Athletics</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Four-Armed Athletics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your unique physiology enhances your movement. You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> that use the <a href="../../../Browse/skill/exploration/climb/">Climb</a>, <a href="../../../Browse/skill/exploration/gymnastics/">Gymnastics</a>, or <a href="../../../Browse/skill/exploration/swim/">Swim</a> skills when you can use all your arms in the attempt.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Four-Armed Martial Arts</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Four-Armed Martial Arts</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../../Browse/feature/common/maneuvers/grab/">Grab</a> or <a href="../../../Browse/feature/common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../../Browse/condition/grabbed/">grabbed</a> at a time.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Psionic Gift</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Psionic Gift</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../Browse/rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Concussive Slam</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Concussive Slam</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You slam an invisible force down upon the target.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -2708,14 +2195,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Psionic Bolt</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Psionic Bolt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You shoot forth a purple beam of psychic force that moves your target.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -2732,14 +2212,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Minor Acceleration</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minor Acceleration</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You fill yourself or an ally with a burst of <a href="../../../Browse/rule/character/speed/">speed</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span></div>
 <div class="sc-ability__rail">
@@ -2755,12 +2228,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Unstoppable Mind</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">2</span> Points</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unstoppable Mind</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../Browse/condition/dazed/">dazed</a>.</p>
 </div>

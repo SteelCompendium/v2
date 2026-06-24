@@ -13,14 +13,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Human Trait</div>
-<h3 class="sc-trait__name">Can&#39;t Take Hold</h3>
-</div>
-<div class="sc-trait__tag"><span class="num">1</span> Point</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Can&#39;t Take Hold</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Human</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Point</div></div></header>
 <div class="sc-trait__body">
 <p>Your connection to the natural world allows you to resist certain <a href="../../../../rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
 </div>

@@ -12,13 +12,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Time Raider Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Psychic Scar</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Psychic Scar</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Time Raider</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</p>
 </div>

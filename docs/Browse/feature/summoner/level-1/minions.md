@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Feature</div>
-<h3 class="sc-trait__name">Minions</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minions</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>The creatures you control are called minions. You can summon and maintain up to a maximum of 8 minions. Your minions are considered allies at your level.</p>
 <p>You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can&#39;t contain more than eight minions, and all minions in the squad must have the same name.</p>
@@ -29,11 +23,7 @@ type: feature
 <p>You also have special minions at your disposal called signature minions, low-cost creatures that you&#39;ve become accustomed to summoning often. See <a href="../portfolio/">Portfolio</a> for more details about the types of minions you can summon.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Minions in Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minions in Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p><b>Start of Combat:</b> At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you can summon up to two of your signature minions at no cost into unoccupied spaces within your Summoner&#39;s Range (no action required).</p>
 <p><b>Start of <a href="../../../../rule/combat/turn/">Turn</a>:</b> At the start of each of your turns during combat, you can summon up to three of your signature minions at no cost into unoccupied spaces within your Summoner&#39;s Range (no action required).</p>
@@ -55,11 +45,7 @@ type: feature
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Minions Outside of Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minions Outside of Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>While outside of combat, you can have up to 4 minions summoned without spending <a href="../essence/">essence</a>. You can freely summon your signature minions this way. For other minions, while you have a number of <a href="../../../../rule/resource/victories/">Victories</a> equal to the minion&#39;s essence cost or more, you can summon up to the set number of minions listed on their stat block.</p>
 <p>Each of your minions can be given a simple task and a destination you&#39;ve previously visited and they&#39;ll fulfill it to the best of their ability. Example tasks include sending messages, scouting, and carrying supplies. Your minions aren&#39;t <a href="../../../../rule/general/follower/">followers</a> and can&#39;t make <a href="../../../../rule/downtime/project-roll/">project rolls</a> until you can summon specialists (see <a href="../../level-6/minion-machinations/">Minion Machinations</a>).</p>

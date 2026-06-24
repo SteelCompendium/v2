@@ -18,14 +18,8 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 ## Basics {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/basics"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Basics</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Basics</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p>
 <ul><li>2, -1, -1</li><li>1, 1, -1</li><li>1, 0, 0</li></ul>
@@ -38,11 +32,7 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 <p><b>Skills:</b> You gain the <a href="../../skill/interpersonal/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (<em>Quick Build:</em> <a href="../../skill/interpersonal/handle-animals/">Animal Handling</a>, <a href="../../skill/exploration/navigate/">Navigate</a>, <a href="../../skill/intrigue/track/">Track</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Beastheart Advancement Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beastheart Advancement Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Level</th><th>Features</th><th>Abilities</th><th>Wild Nature Abilities</th></tr></thead><tbody><tr><td>1st</td><td><a href="../../feature/beastheart/level-1/wild-nature/">Wild Nature</a>, <a href="../../feature/beastheart/level-1/companion/">Companion</a>, <a href="../../feature/beastheart/level-1/heart-of-the-beast/">Heart of the Beast</a>, <a href="../../feature/ability/beastheart/level-1/feral-strike/">Feral Strike</a>, <a href="../../feature/beastheart/level-1/ferocity/">Ferocity</a>, <a href="../../feature/beastheart/level-1/rampage/">Rampage</a>, <a href="../../feature/beastheart/level-1/wild-nature-maneuver/">Wild Nature Maneuver</a>, <a href="../../feature/beastheart/level-1/wild-nature-triggered-action/">Wild Nature Triggered Action</a>, <a href="../../feature/beastheart/level-1/kit/">Kit</a>, <a href="../../feature/beastheart/level-1/beastheart-abilities/">Beastheart Abilities</a></td><td>Signature, 3, 5</td><td>—</td></tr><tr><td>2nd</td><td><a href="../../feature/beastheart/level-2/perk/">Perk</a>, <a href="../../feature/beastheart/level-2/everyones-best-friend/">Everyone’s Best Friend</a>, <a href="../../feature/beastheart/level-2/2nd-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../feature/beastheart/level-2/2nd-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5</td><td>5</td></tr><tr><td>3rd</td><td><a href="../../feature/beastheart/level-3/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../feature/beastheart/level-3/7-ferocity-ability/">7-Ferocity Ability</a></td><td>Signature, 3, 5, 7</td><td>5</td></tr><tr><td>4th</td><td><a href="../../feature/beastheart/level-4/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/beastheart/level-4/perk/">Perk</a>, <a href="../../feature/beastheart/level-4/rampage-improvement/">Rampage Improvement</a>, <a href="../../feature/beastheart/level-4/skill/">Skill</a>, <a href="../../feature/beastheart/level-4/unleash-the-beast/">Unleash the Beast</a></td><td>Signature, 3, 5, 7</td><td>5</td></tr><tr><td>5th</td><td><a href="../../feature/beastheart/level-5/5th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../feature/beastheart/level-5/9-ferocity-ability/">9-Ferocity Ability</a></td><td>Signature, 3, 5, 7, 9</td><td>5</td></tr><tr><td>6th</td><td><a href="../../feature/beastheart/level-6/perk/">Perk</a>, <a href="../../feature/beastheart/level-6/become-the-beast/">Become the Beast</a>, <a href="../../feature/beastheart/level-6/6th-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5, 7, 9</td><td>5, 9</td></tr><tr><td>7th</td><td><a href="../../feature/beastheart/level-7/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/beastheart/level-7/feral-heart/">Feral Heart</a>, <a href="../../feature/beastheart/level-7/rampage-improvement/">Rampage Improvement</a>, <a href="../../feature/beastheart/level-7/skill/">Skill</a></td><td>Signature, 3, 5, 7, 9</td><td>5, 9</td></tr><tr><td>8th</td><td><a href="../../feature/beastheart/level-8/8th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../feature/beastheart/level-8/perk/">Perk</a>, <a href="../../feature/beastheart/level-8/11-ferocity-ability/">11-Ferocity Ability</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9</td></tr><tr><td>9th</td><td><a href="../../feature/beastheart/level-9/avatar-of-the-green/">Avatar of the Green</a>, <a href="../../feature/beastheart/level-9/9th-level-wild-nature-ability/">Wild Nature Ability</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9, 11</td></tr><tr><td>10th</td><td><a href="../../feature/beastheart/level-10/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/beastheart/level-10/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../feature/beastheart/level-10/final-evolution/">Final Evolution</a>, <a href="../../feature/beastheart/level-10/perk/">Perk</a>, <a href="../../feature/beastheart/level-10/ferox/">Ferox</a>, <a href="../../feature/beastheart/level-10/rampage-improvement/">Rampage Improvement</a>, <a href="../../feature/beastheart/level-10/skill/">Skill</a></td><td>Signature, 3, 5, 7, 9, 11</td><td>5, 9, 11</td></tr></tbody></table>
 </div>
@@ -64,14 +54,8 @@ As a 1st-level beastheart, you gain the following features.
 ## Wild Nature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Wild Nature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wild Nature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren&#39;t bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (<em>Quick Build:</em> Punisher.)</p>
 <p><b>Guardian:</b> You are the fearless defender of your pack—anyone who harms them must go through you. You have the <a href="../../skill/interpersonal/read-person/">Read Person</a> skill.</p>
@@ -85,24 +69,14 @@ As a 1st-level beastheart, you gain the following features.
 ## Companion {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Companion</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Companion</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You gain the companionship of a wild animal who travels with you. Your companion isn&#39;t your pet. Rather, they&#39;ve forged a mystical bond with you—one that allows you to share your companion&#39;s senses and primal instincts.</p>
 <p>Choose a companion from the following options. (<em>Quick Build:</em> Wolf.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Customizing Your Companion</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Customizing Your Companion</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the <a href="../../monster/companion/beastheart/condor/">condor</a> companion for an escaped Hawklord hawk, the <a href="../../monster/companion/beastheart/wolf/">wolf</a> for a dog or jackal, or even the <a href="../../monster/companion/beastheart/boar/">boar</a> for a particularly ornery stag or elk.</p>
 <p>With the Director&#39;s permission, you can also change the damage types of your companion&#39;s abilities to better match your vision. Perhaps instead of a <a href="../../monster/companion/beastheart/hellhound/">hellhound</a> you travel with a white wolf that deals cold damage instead of fire damage; maybe your <a href="../../monster/companion/beastheart/elemental-spark/">elemental spark</a> is an elemental ember that deals fire damage; or maybe your <a href="../../monster/companion/beastheart/panther/">panther</a> is a shadow whose <a href="../../feature/ability/companion/beastheart/panther/level-1/pounce/">Pounce</a> maneuver deals corruption or cold damage.</p>
@@ -116,35 +90,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Basilisk {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/basilisk"}
 
-<div class="sb-wrap" data-role="leader" data-creature="basilisk"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Basilisk</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Alertness](../skill/intrigue/alertness.md)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Basilisk</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Petrify</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see <a class="sb-term" href="../../feature/companion/beastheart/basilisk/level-1/stoned/">Stoned</a>).</p></div></div><p class="sb__feat-trailing">*Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a class="sb-term" href="../../condition/slowed/">slowed</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Stoned</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="basilisk"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Basilisk</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Alertness](../skill/intrigue/alertness.md)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Basilisk</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beast, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Petrify</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see <a class="sb-term" href="../../feature/companion/beastheart/basilisk/level-1/stoned/">Stoned</a>).</p></div></div><p class="sb__feat-trailing">*Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a class="sb-term" href="../../condition/slowed/">slowed</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stoned</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.</p></article></div></article></div>
 
 #### Basilisk Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/basilisk"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Basilisk Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Basilisk Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Foes Forever Frozen</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Foes Forever Frozen</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Rock Smasher</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rock Smasher</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Heart of Stone</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of Stone</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.</div>
 </article>
 </div>
@@ -154,35 +125,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Bear {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/bear"}
 
-<div class="sb-wrap" data-role="leader" data-creature="bear"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Bear</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Bear</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Backhand</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.</p></div></div><p class="sb__feat-trailing">*The bear casually swats the pesky foe into next week.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../movement/forced-movement/">force moved</a> up to a number of additional squares equal to the bear's Might score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Strong Like Bear</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You gain a +1 bonus to your stability.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="bear"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Bear</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bear</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Backhand</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.</p></div></div><p class="sb__feat-trailing">*The bear casually swats the pesky foe into next week.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../movement/forced-movement/">force moved</a> up to a number of additional squares equal to the bear's Might score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Strong Like Bear</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">You gain a +1 bonus to your stability.</p></article></div></article></div>
 
 #### Bear Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/bear"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Bear Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bear Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Foe Thresher</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Foe Thresher</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the bear targets a creature with a strike that doesn&#39;t impose <a href="../../movement/forced-movement/">forced movement</a> while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Ursine Form</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ursine Form</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the bear is rampaging, you have damage immunity 5 and your size increases to the bear&#39;s size (to a maximum of 2). If you don&#39;t have enough unoccupied space to grow, you grow as soon as there is sufficient space.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Twin Colossi</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Twin Colossi</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage.</div>
 </article>
 </div>
@@ -192,35 +160,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Boar {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/boar"}
 
-<div class="sb-wrap" data-role="leader" data-creature="boar"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Boar</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Search](../skill/intrigue/search.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Boar</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/search/">Search</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Gore</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.</p></div></div><p class="sb__feat-trailing">*With an enraged snort, the boar lunges forward to rip open foes with their tusks.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../condition/bleeding/">bleeding</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Spiteful Endurance</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of <a class="sb-term" href="../../condition/bleeding/">bleeding</a>.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="boar"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Boar</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Search](../skill/intrigue/search.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boar</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/search/">Search</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gore</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.</p></div></div><p class="sb__feat-trailing">*With an enraged snort, the boar lunges forward to rip open foes with their tusks.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a class="sb-term" href="../../condition/bleeding/">bleeding</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spiteful Endurance</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of <a class="sb-term" href="../../condition/bleeding/">bleeding</a>.</p></article></div></article></div>
 
 #### Boar Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/boar"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Boar Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boar Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Greased Pig</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Greased Pig</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Wild Rush</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wild Rush</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the boar is rampaging, you can use their Gore maneuver, and you and the boar can <a href="../../movement/shifting/">shift</a> instead of move when using the Charge action or the Gore maneuver.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Immortal Rage</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Immortal Rage</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.</div>
 </article>
 </div>
@@ -230,35 +195,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Condor {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/condor"}
 
-<div class="sb-wrap" data-role="leader" data-creature="condor"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Condor</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Alertness](../skill/intrigue/alertness.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Condor</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Flurry of Wings</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the condor's Might score. Additionally, enemies are <a class="sb-term" href="../../condition/weakened/">weakened</a> while adjacent to the condor until the end of your next turn.</p></div></div><p class="sb__feat-trailing">*I can't draw a bead on them with that infernal bird flapping in my face!*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be <a class="sb-term" href="../../condition/weakened/">weakened</a> by this ability is <a class="sb-term" href="../../condition/taunted/">taunted</a> instead.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Moving Target</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">While the condor is <a class="sb-term" href="../../movement/fly/">flying</a> and has a speed greater than 0, ranged strikes against them take a bane.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="condor"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Condor</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Alertness](../skill/intrigue/alertness.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Condor</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/alertness/">Alertness</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flurry of Wings</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the condor's Might score. Additionally, enemies are <a class="sb-term" href="../../condition/weakened/">weakened</a> while adjacent to the condor until the end of your next turn.</p></div></div><p class="sb__feat-trailing">*I can't draw a bead on them with that infernal bird flapping in my face!*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be <a class="sb-term" href="../../condition/weakened/">weakened</a> by this ability is <a class="sb-term" href="../../condition/taunted/">taunted</a> instead.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Moving Target</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">While the condor is <a class="sb-term" href="../../movement/fly/">flying</a> and has a speed greater than 0, ranged strikes against them take a bane.</p></article></div></article></div>
 
 #### Condor Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/condor"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Condor Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Condor Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dive Bomb</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dive Bomb</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they&#39;ve moved on their turn (to a maximum of 5).</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Borne Aloft</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Borne Aloft</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the condor is rampaging, you gain wings and can <a href="../../movement/fly/">fly</a>. While flying, you gain a +2 bonus to speed. If you are midair when the condor&#39;s rampage ends, you take no damage from the fall.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Flight of the Condor</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flight of the Condor</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the condor is rampaging, you and the condor gain a +5 bonus to speed.</div>
 </article>
 </div>
@@ -268,35 +230,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Deinonychus {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/deinonychus"}
 
-<div class="sb-wrap" data-role="leader" data-creature="deinonychus"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Deinonychus</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Deinonychus</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Terrible Claws</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the deinonychus's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/bleeding/">bleeding</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The deinonychus kicks their prey, then slashes them with wicked claws.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is <a class="sb-term" href="../../condition/bleeding/">bleeding</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Blood Frenzy</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the deinonychus deals damage to a <a class="sb-term" href="../../condition/bleeding/">bleeding</a> creature, they gain 1 surge.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="deinonychus"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Deinonychus</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deinonychus</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Terrible Claws</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the deinonychus's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/bleeding/">bleeding</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The deinonychus kicks their prey, then slashes them with wicked claws.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is <a class="sb-term" href="../../condition/bleeding/">bleeding</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blood Frenzy</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">Whenever the deinonychus deals damage to a <a class="sb-term" href="../../condition/bleeding/">bleeding</a> creature, they gain 1 surge.</p></article></div></article></div>
 
 #### Deinonychus Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/deinonychus"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Deinonychus Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deinonychus Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Tear You to Ribbons</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tear You to Ribbons</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the deinonychus makes a strike against a creature while rampaging, the target is <a href="../../condition/bleeding/">bleeding</a> until the end of their next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slake My Thirst in Blood</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Slake My Thirst in Blood</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever you use an ability that deals rolled damage to a <a href="../../condition/bleeding/">bleeding</a> creature while the deinonychus is rampaging, you gain 2 surges.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Reaping Scythe</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Reaping Scythe</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">The deinonychus&#39;s claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy&#39;s space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus&#39;s Might score.</div>
 </article>
 </div>
@@ -306,35 +265,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Drake {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/drake"}
 
-<div class="sb-wrap" data-role="leader" data-creature="drake"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Drake</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>Attuned damage type 3 (see [Elementally Attuned](../feature/companion/beastheart/drake/level-1/elementally-attuned.md))</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Dragon</div><h2 class="sb__name">Drake</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Attuned damage type 3 (see <a class="sb-term" href="../../feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>)</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Drake Breath</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">1 or 2 cube within 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each creature in the area</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage of the drake's attuned damage type (see <a class="sb-term" href="../../feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>) equal to the drake's Might score.</p></div></div><p class="sb__feat-trailing">*The drake exhales a blast of flesh-melting energy.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 or 2 Ferocity</span><span class="txt">This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Elementally Attuned</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Shared Scales</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You have immunity 3 to the drake's attuned damage type.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="drake"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Drake</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Fly</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>Attuned damage type 3 (see [Elementally Attuned](../feature/companion/beastheart/drake/level-1/elementally-attuned.md))</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Drake</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Companion, Dragon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Attuned damage type 3 (see <a class="sb-term" href="../../feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>)</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Fly</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Drake Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">1 or 2 cube within 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">Each creature in the area</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage of the drake's attuned damage type (see <a class="sb-term" href="../../feature/companion/beastheart/drake/level-1/elementally-attuned/">Elementally Attuned</a>) equal to the drake's Might score.</p></div></div><p class="sb__feat-trailing">*The drake exhales a blast of flesh-melting energy.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 or 2 Ferocity</span><span class="txt">This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elementally Attuned</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shared Scales</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">You have immunity 3 to the drake's attuned damage type.</p></article></div></article></div>
 
 #### Drake Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/drake"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Drake Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Drake Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Endless Breath</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Endless Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">The drake&#39;s Drake Breath maneuver deals an extra 2 damage.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">A Burning Inside Me</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Burning Inside Me</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the drake is rampaging, you gain draconic wings and can <a href="../../movement/fly/">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Elemental Avatar</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Avatar</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the drake is rampaging, you and the drake have immunity all to the drake&#39;s attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake&#39;s attuned damage type.</div>
 </article>
 </div>
@@ -344,35 +300,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Elemental Spark {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/elemental-spark"}
 
-<div class="sb-wrap" data-role="leader" data-creature="elemental-spark"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Elemental Spark</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Magic](../skill/lore/magic.md)</span><span class="sm"><b>Immunity</b>Lightning 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Elemental</div><h2 class="sb__name">Elemental Spark</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Lightning 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/lore/magic/">Magic</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Static Shock</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes lightning damage equal to 2 + the spark's Might score.</p></div></div><p class="sb__feat-trailing">*An arc of lightning crackles from the spark.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to melee 5.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Electric Surge</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="elemental-spark"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Elemental Spark</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Magic](../skill/lore/magic.md)</span><span class="sm"><b>Immunity</b>Lightning 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Spark</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Companion, Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Lightning 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/lore/magic/">Magic</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Static Shock</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes lightning damage equal to 2 + the spark's Might score.</p></div></div><p class="sb__feat-trailing">*An arc of lightning crackles from the spark.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to melee 5.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Electric Surge</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.</p></article></div></article></div>
 
 #### Elemental Spark Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/elemental-spark"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Elemental Spark Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Spark Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Electroshock</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Electroshock</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be <a href="../../condition/dazed/">dazed</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Conductive</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Conductive</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Lightning Speed</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightning Speed</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the spark is rampaging, you and the spark can <a href="../../movement/shifting/">shift</a> up to your speed as a free maneuver once on each of your turns.</div>
 </article>
 </div>
@@ -382,35 +335,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Gummy Ball {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/gummy-ball"}
 
-<div class="sb-wrap" data-role="leader" data-creature="gummy-ball"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Gummy Ball</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>Acid 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Ooze</div><h2 class="sb__name">Gummy Ball</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Acid 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Absorb</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes acid damage equal to 3 + the ball's Might score, and if they have A &lt; AVERAGE, the ball moves into the target's space. If the target completely fits within the ball's space, the target is <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the ball.</p></div></div><p class="sb__feat-trailing">*With a sickening squelch, the ball oozes around their hapless prey.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target <a class="sb-term" href="../../condition/grabbed/">grabbed</a> this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Gelatinous</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is <a class="sb-term" href="../../movement/difficult-terrain/">difficult terrain</a>.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="gummy-ball"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Gummy Ball</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>Acid 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gummy Ball</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Companion, Ooze</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Acid 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Absorb</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes acid damage equal to 3 + the ball's Might score, and if they have A &lt; AVERAGE, the ball moves into the target's space. If the target completely fits within the ball's space, the target is <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the ball.</p></div></div><p class="sb__feat-trailing">*With a sickening squelch, the ball oozes around their hapless prey.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target <a class="sb-term" href="../../condition/grabbed/">grabbed</a> this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gelatinous</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is <a class="sb-term" href="../../movement/difficult-terrain/">difficult terrain</a>.</p></article></div></article></div>
 
 #### Gummy Ball Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/gummy-ball"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Gummy Ball Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gummy Ball Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Suck It Up</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Suck It Up</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../../condition/grabbed/">grabbed</a> by the ball.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Taffy Pull</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Taffy Pull</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Runaway Expansion</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Runaway Expansion</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball&#39;s size increases by 1 (to a maximum of 5). The ball&#39;s size can&#39;t increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.</div>
 </article>
 </div>
@@ -420,35 +370,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Hellhound {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/hellhound"}
 
-<div class="sb-wrap" data-role="leader" data-creature="hellhound"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Hellhound</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>Fire 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Companion, Infernal</div><h2 class="sb__name">Hellhound</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Fire 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Fire Breath</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or Ranged 2</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes fire damage equal to 3 + the hellhound's Might score.</p></div></div><p class="sb__feat-trailing">*The hellhound exhales infernal flames.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Hellish Pact</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">You have fire immunity equal to the hellhound's fire immunity.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="hellhound"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Hellhound</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Intimidate](../skill/interpersonal/intimidate.md)</span><span class="sm"><b>Immunity</b>Fire 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hellhound</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Companion, Infernal</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Fire 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/interpersonal/intimidate/">Intimidate</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fire Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1 or Ranged 2</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes fire damage equal to 3 + the hellhound's Might score.</p></div></div><p class="sb__feat-trailing">*The hellhound exhales infernal flames.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hellish Pact</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">You have fire immunity equal to the hellhound's fire immunity.</p></article></div></article></div>
 
 #### Hellhound Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/hellhound"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Hellhound Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hellhound Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Infernal Apparition</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Infernal Apparition</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slavering Jaws</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Slavering Jaws</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Wreathed in Flames</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wreathed in Flames</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score.</div>
 </article>
 </div>
@@ -458,35 +405,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Lightbender {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/lightbender"}
 
-<div class="sb-wrap" data-role="leader" data-creature="lightbender"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Lightbender</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Hide](../skill/intrigue/hide.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Lightbender</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/hide/">Hide</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Sparking Tail Whip</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the lightbender's Might score, and if they have M &lt; AVERAGE, they are dazzled until the end of their next turn. A dazzled creature has line of effect only within 1 square.</p></div></div><p class="sb__feat-trailing">*The lightbender swings their tail, sending gouts of sparks in their foe's face.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A dazzled creature also takes a bane on strikes.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Avoidance</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="lightbender"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Lightbender</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1L</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>2</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+2</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Hide](../skill/intrigue/hide.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightbender</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beast, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1L</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">2</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/hide/">Hide</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+2</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sparking Tail Whip</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the lightbender's Might score, and if they have M &lt; AVERAGE, they are dazzled until the end of their next turn. A dazzled creature has line of effect only within 1 square.</p></div></div><p class="sb__feat-trailing">*The lightbender swings their tail, sending gouts of sparks in their foe's face.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A dazzled creature also takes a bane on strikes.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Avoidance</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.</p></article></div></article></div>
 
 #### Lightbender Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/lightbender"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Lightbender Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightbender Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Hit and Run</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hit and Run</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../movement/teleport/">teleport</a> up to 5 squares and use the <a href="../../skill/intrigue/hide/">Hide</a> maneuver.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Lightbearer</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightbearer</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Everywhere and Nowhere</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Everywhere and Nowhere</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the lightbender is rampaging, your grip on spatial reality is <a href="../../condition/weakened/">weakened</a>, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends.</div>
 </article>
 </div>
@@ -496,35 +440,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Panther {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/panther"}
 
-<div class="sb-wrap" data-role="leader" data-creature="panther"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Panther</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Panther</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Pounce</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the panther's Might score, and if they have M &lt; AVERAGE, they are knocked <a class="sb-term" href="../../condition/prone/">prone</a>.</p></div></div><p class="sb__feat-trailing">*The panther bunches up, then uncoils into a deadly leap.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked <a class="sb-term" href="../../condition/prone/">prone</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Mighty Spring</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the panther takes the Advance move action or the Charge action, they can <a class="sb-term" href="../../movement/jump/">jump</a> up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="panther"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Panther</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Panther</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pounce</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the panther's Might score, and if they have M &lt; AVERAGE, they are knocked <a class="sb-term" href="../../condition/prone/">prone</a>.</p></div></div><p class="sb__feat-trailing">*The panther bunches up, then uncoils into a deadly leap.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked <a class="sb-term" href="../../condition/prone/">prone</a>.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mighty Spring</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">Whenever the panther takes the Advance move action or the Charge action, they can <a class="sb-term" href="../../movement/jump/">jump</a> up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.</p></article></div></article></div>
 
 #### Panther Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/panther"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Panther Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Panther Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Cat and Mouse</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Cat and Mouse</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target <a href="../../condition/prone/">prone</a>.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Single Bound</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Single Bound</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the panther is rampaging, you can <a href="../../movement/jump/">jump</a> up to a number of squares equal to your speed as a free maneuver once on each of your turns.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Panther Spirit</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Panther Spirit</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are <a href="../../movement/difficult-terrain/">difficult terrain</a> for you both. A creature who ends their turn inside a solid object from moving this way is <a href="../../movement/teleport/">teleported</a> to the last unoccupied space they previously occupied.</div>
 </article>
 </div>
@@ -534,35 +475,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Spider {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/spider"}
 
-<div class="sb-wrap" data-role="leader" data-creature="spider"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Spider</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Spider</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Web Shot</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/restrained/">restrained</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The spider fires a ball of sticky silk.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/restrained/">restrained</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Come Into My Parlor</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">Whenever the spider makes a strike against a <a class="sb-term" href="../../condition/restrained/">restrained</a> creature, the spider deals extra poison damage equal to twice their Intuition score.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="spider"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Spider</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Climb</span><span class="sm"><b>Skills</b>[Sneak](../skill/intrigue/sneak.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spider</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Climb</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/sneak/">Sneak</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Web Shot</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Ranged 5</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/restrained/">restrained</a> until the end of their next turn.</p></div></div><p class="sb__feat-trailing">*The spider fires a ball of sticky silk.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/restrained/">restrained</a> (save ends).</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Come Into My Parlor</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">Whenever the spider makes a strike against a <a class="sb-term" href="../../condition/restrained/">restrained</a> creature, the spider deals extra poison damage equal to twice their Intuition score.</p></article></div></article></div>
 
 #### Spider Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/spider"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Spider Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spider Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dripping Fangs</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dripping Fangs</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Web Slinger</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Web Slinger</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Life Drinker</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Life Drinker</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div>
 </article>
 </div>
@@ -572,35 +510,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Sporeling {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/sporeling"}
 
-<div class="sb-wrap" data-role="leader" data-creature="sporeling"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Sporeling</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Beast, Companion</div><h2 class="sb__name">Sporeling</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Spore Puff</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes poison damage equal to 3 + the sporeling's Might score, and the sporeling is invisible to the target until the end of the sporeling's next turn or they deal damage to the target.</p></div></div><p class="sb__feat-trailing">*The sporeling breathes a cloud of disorienting fumes.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/dazed/">dazed</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Skulker</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="sporeling"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Sporeling</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>Poison 3</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sporeling</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beast, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">Poison 3</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spore Puff</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes poison damage equal to 3 + the sporeling's Might score, and the sporeling is invisible to the target until the end of the sporeling's next turn or they deal damage to the target.</p></div></div><p class="sb__feat-trailing">*The sporeling breathes a cloud of disorienting fumes.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/dazed/">dazed</a> until the end of their next turn.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skulker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.</p></article></div></article></div>
 
 #### Sporeling Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/sporeling"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Sporeling Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sporeling Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Slowing Spores</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Slowing Spores</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Plant Walk</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Plant Walk</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Once on each of your turns while the sporeling is rampaging, you can <a href="../../movement/teleport/">teleport</a> to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Trailing Mycelia</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Trailing Mycelia</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</div>
 </article>
 </div>
@@ -610,35 +545,32 @@ As a 1st-level beastheart, you gain the following features.
 
 ### Wolf {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.statblock/wolf"}
 
-<div class="sb-wrap" data-role="leader" data-creature="wolf"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Wolf</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sb__head"><div class="sb__head-row"><div class="sb__identity"><div class="sb__kw">Animal, Companion</div><h2 class="sb__name">Wolf</h2></div><div class="sb__class"><div class="sb__level">Level 1</div><div class="sb__role" data-role="leader">Companion</div></div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Maneuver</div><h3 class="sb__feat-name sc-ability__name">Clamping Jaws</h3></div><div class="sb__feat-corner"></div></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the wolf's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the wolf.</p></div></div><p class="sb__feat-trailing">*With an unnerving growl, the wolf sinks powerful teeth into their quarry.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the wolf.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sb__feat-titles"><div class="sb__feat-eyebrow"><span class="sc-ability__dia"></span>Trait</div><h3 class="sb__feat-name sc-ability__name">Retriever</h3></div><div class="sb__feat-corner"></div></div><p class="sb__feat-body">The wolf can move at full speed while they have a creature <a class="sb-term" href="../../condition/grabbed/">grabbed</a>, no matter the <a class="sb-term" href="../../condition/grabbed/">grabbed</a> creature's size.</p></article></div></article></div>
+<div class="sb-wrap" data-role="leader" data-creature="wolf"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Wolf</span><span class="sb__sticky-role" data-role="leader">Companion</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1M</b>Size</span><span class="m"><b>7</b>Speed</span><span class="m"><b>= yours</b>Stamina</span><span class="m"><b>1</b>Stability</span><span class="m"><b>1 + M</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+2</b><i>M</i></span><span class="c"><b>+2</b><i>A</i></span><span class="c"><b>-1</b><i>R</i></span><span class="c"><b>+2</b><i>I</i></span><span class="c"><b>+1</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Skills</b>[Track](../skill/intrigue/track.md)</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wolf</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Animal, Companion</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="leader">Companion</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1M</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">7</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">= yours</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1 + M</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Skills</span><span class="sb__field-v"><a class="sb-term" href="../../skill/intrigue/track/">Track</a></span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+2</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+2</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-1</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+2</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+1</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="maneuver" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">f</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">f</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Clamping Jaws</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Maneuver</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 1</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One enemy</span></div></div><div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the wolf's Might score, and if they have M &lt; AVERAGE, they are <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the wolf.</p></div></div><p class="sb__feat-trailing">*With an unnerving growl, the wolf sinks powerful teeth into their quarry.*</p><div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a class="sb-term" href="../../condition/grabbed/">grabbed</a> by the wolf.</span></div></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sb__feat-crest"><span class="sb__feat-glyph">*</span></span><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Retriever</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Trait</div></div></header></div><p class="sb__feat-body">The wolf can move at full speed while they have a creature <a class="sb-term" href="../../condition/grabbed/">grabbed</a>, no matter the <a class="sb-term" href="../../condition/grabbed/">grabbed</a> creature's size.</p></article></div></article></div>
 
 #### Wolf Advancement Features {data-scc="mcdm.beastheart.v1/monster.companion.beastheart.advancement-features/wolf"}
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="fb__head">
-<div class="fb__eyebrow">Features</div>
-<h2 class="fb__name">Wolf Advancement Features</h2>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wolf Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="3">
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">My, What Big Teeth You Have</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">My, What Big Teeth You Have</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Call of the Wild</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Call of the Wild</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can&#39;t be hidden or have concealment from you or the wolf.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><div class="fb__feat-titles"><h3 class="fb__feat-name sc-ability__name">Dire Wolf</h3></div><div class="fb__feat-corner"></div></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dire Wolf</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../../condition/frightened/">frightened</a> until the end of their next turn.</div>
 </article>
 </div>
@@ -649,14 +581,8 @@ As a 1st-level beastheart, you gain the following features.
 ## Companion Rules {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion-rules"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Companion Rules</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Companion Rules</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <ul><li><b>Companion Stamina and Recoveries.</b> Your companion&#39;s Stamina maximum equals your Stamina maximum. Your companion has no Recoveries. When an effect would allow your companion to spend a Recovery, your companion spends one of your Recoveries.</li><li><b>Companion Death.</b> A companion can become dying at 0 Stamina and die at negative half their Stamina, just like a hero.</li><li><b>Companion Actions.</b> Your companion is your ally, but they take their turn as a part of your turn. For the purpose of effects that end at the end of the companion&#39;s turn, or any other rules elements that depend on the start or end of creature&#39;s turn, the start and end of your turn is also the start and end of the companion&#39;s turn.</li><li>You and your companion each take your own move action. You can use one triggered action per round, which can be used by either you or your companion. Your main action and maneuver are split between you and your companion; if you take a main action, you can&#39;t take a maneuver but your companion can. If you take a maneuver, you can&#39;t take a main action but your companion can. Taking a main action doesn&#39;t prevent you or your companion from taking free maneuvers.</li><li>You and your companion share one turn during montage tests and similar scenes. Typically, you&#39;ll take this turn, but there may be circumstances when your companion does instead.</li><li><b>Ranged Free Strikes.</b> Your companion doesn&#39;t have a ranged free strike. <b>Shared Maneuvers.</b> When you or your companion use the Catch Breath, Escape Grab, Hide, or Stand Up maneuvers, your partner can use the same maneuver as a triggered free action.</li><li><b>Shared Abilities.</b> You and your companion share some abilities, but not all of them. If a beastheart ability has the Beastheart keyword, it can be used by only the beastheart. If it has the Companion keyword, it can be used by only the companion. If an ability can be used by either you or your companion, the word &#34;you&#34; in the ability&#39;s text refers to whoever uses the ability, while the word &#34;partner&#34; refers to whoever didn&#39;t use the ability. Within a companion&#39;s stat block, the word &#34;you&#34; always refers to the beastheart. In all cases, phrases like &#34;you both&#34; and &#34;you each&#34; refer to you and your companion.</li><li><b>Shared Senses.</b> While you are within 1 mile of each other, you and your companion can communicate telepathically as if you shared a language, although this communication uses vague images and feelings instead of words.</li><li><b>Shared Skills.</b> Your companion has any skill you have, and vice versa. No matter what skills they possess, your companion can&#39;t take any action their physiology wouldn&#39;t allow (for instance, a wolf can&#39;t pick locks).</li><li><b>Shared Space.</b> You and your companion can move freely through and stop in each other&#39;s spaces.</li></ul>
 <ul><li><b>Shared Perks, Titles, and Complications.</b> If you gain a benefit or drawback by earning a perk, a title, or a complication, your companion shares the benefit or drawback. Your companion can only be affected by benefits or drawbacks that logically affect an animal: for instance, an animal can&#39;t craft and therefore can&#39;t benefit from the Handy perk. If you&#39;re not sure what your companion can do, ask your Director.</li><li><b>Surges.</b> Surges you and your companion gain are added to a surge pool you both can spend from. When an effect would grant 1 or more surges to both you and your companion, you only gain the surges once.</li><li><b>Changing Your Companion.</b> As a respite activity, you can release your current companion, then gain a new companion of a different species or summon a companion you previously released.</li><li><b>One Hero.</b> You and your companion count as one hero for determining the difficulty of combats, montage tests, and other challenges.</li></ul>
@@ -666,14 +592,8 @@ As a 1st-level beastheart, you gain the following features.
 ## Adding and Subtracting Actions {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/adding-and-subtracting-actions"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Adding and Subtracting Actions</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Adding and Subtracting Actions</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent&#39;s Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.</p>
 <p>Similarly, the <a href="../../condition/dazed/">dazed</a> condition limits what a creature can do on their turn. Being <a href="../../condition/dazed/">dazed</a> works the same on you and your companion as it does on other creatures; whoever is <a href="../../condition/dazed/">dazed</a> can only do one thing on their turn (a move action, maneuver, or main action). You being <a href="../../condition/dazed/">dazed</a> has no effect on your companion, and vice versa.</p>
@@ -683,27 +603,14 @@ As a 1st-level beastheart, you gain the following features.
 ## Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/heart-of-the-beast"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Heart of the Beast</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of the Beast</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You and your companion share a primordial bond so intense your hearts literally beat as one. If your partner is lost, you can split your heart in two and summon them back to your side.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Both you and your companion can use the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Heart of the Beast</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of the Beast</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">&#34;Better look away—this might not be pretty.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -719,14 +626,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Feral Strike</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feral Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
@@ -758,23 +658,13 @@ As a 1st-level beastheart, you gain the following features.
 ## Ferocity {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/ferocity"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Ferocity</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You and your companion tap into a predator&#39;s bloodlust that grants you a Heroic Resource called ferocity.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Ferocity in Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity in Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.</p>
 <p>Additionally, the first time each combat round that a creature adjacent to your companion takes damage, you gain 2 ferocity.</p>
@@ -782,11 +672,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Ferocity Outside of Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferocity Outside of Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Though you can&#39;t gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you or your companion uses an ability or effect outside of combat that costs ferocity, that same ability or effect can&#39;t be used outside of combat again until you earn 1 or more Victories or finish a respite.</p>
 <p>When you or your companion uses an ability outside of combat that has a variable or unlimited ferocity cost, the ability can be used as if you had spent an amount of ferocity equal to your Victories.</p>
@@ -799,14 +685,8 @@ As a 1st-level beastheart, you gain the following features.
 ## Rampage {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/rampage"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Rampage</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rampage</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>While your ferocity sharpens your killer instinct, it can also drive your companion into a rampage, causing them to strike friends and foes alike in a blood-soaked battle frenzy. As their rampage builds, they become something more than a mortal companion, embodying a primordial spirit of destruction.</p>
 <p>Your companion has a resource called rampage. Whenever you or your companion spends ferocity, your companion gains rampage equal to the ferocity spent. Your companion loses their rampage and its effects at the end of an encounter.</p>
@@ -818,27 +698,14 @@ As a 1st-level beastheart, you gain the following features.
 ## Wild Nature Maneuver {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-maneuver"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Wild Nature Maneuver</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wild Nature Maneuver</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.</p>
 <table><thead><tr><th>Wild Nature</th><th>Maneuver</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../feature/ability/beastheart/level-1/living-arrow/">Living Arrow</a></td></tr><tr><td>Prowler</td><td><a href="../../feature/ability/beastheart/level-1/lightning-leap/">Lightning Leap</a></td></tr><tr><td>Punisher</td><td><a href="../../feature/ability/beastheart/level-1/avalanche-rush/">Avalanche Rush</a></td></tr><tr><td>Spark</td><td><a href="../../feature/ability/beastheart/level-1/jaws-of-the-storm/">Jaws of the Storm</a></td></tr></tbody></table>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Avalanche Rush</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Avalanche Rush</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You ride a cascade of ice over your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -852,14 +719,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are knocked <a href="../../condition/prone/">prone</a>.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Jaws of the Storm</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Jaws of the Storm</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your foes are torn by a tempest of primordial teeth and claws.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -873,14 +733,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The size of the cube increases by 1.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Lightning Leap</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lightning Leap</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You summon a lightning bolt and ride it into battle.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -894,14 +747,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your jump doesn&#39;t provoke opportunity attacks.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Living Arrow</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Living Arrow</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You point, and your companion appears.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -921,27 +767,14 @@ As a 1st-level beastheart, you gain the following features.
 ## Wild Nature Triggered Action {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-triggered-action"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Wild Nature Triggered Action</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wild Nature Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.</p>
 <table><thead><tr><th>Wild Nature</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../feature/ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a></td></tr><tr><td>Prowler</td><td><a href="../../feature/ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a></td></tr><tr><td>Punisher</td><td><a href="../../feature/ability/beastheart/level-1/thunderclap/">Thunderclap</a></td></tr><tr><td>Spark</td><td><a href="../../feature/ability/beastheart/level-1/pyre/">Pyre</a></td></tr></tbody></table>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Pyre</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pyre</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You burn to ash before your foes&#39; eyes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -959,14 +792,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you <a href="../../movement/teleport/">teleport</a> this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Shadow in the Mist</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow in the Mist</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">While everyone&#39;s eyes are drawn to your foe, you wreathe yourself in obscuring mist.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -984,14 +810,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore <a href="../../movement/difficult-terrain/">difficult terrain</a> during this movement.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">The Pack Defends</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Pack Defends</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You siphon away the pain and endure it yourself.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1009,14 +828,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Thunderclap</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Thunderclap</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">The force of your counterattack cracks the air.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1034,12 +846,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../movement/forced-movement/">forced movement</a> distance is doubled.</span></div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Kit</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can use and gain the benefits of a kit. See the &lt;u&gt;Kits&lt;/u&gt; chapter of Draw Steel: Heroes for more information.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You and your companion both gain the benefits of the kit, with the following exceptions:</p>
@@ -1047,41 +854,24 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Beasthearts and Magic Treasure</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beasthearts and Magic Treasure</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Consumables</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Consumables</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your companion can&#39;t use every consumable, but with your help, they can benefit from an edible or drinkable consumable, such as a Healing Potion. While using a kit, your companion can also benefit from a consumable that enhances a weapon, such as a Lachomp Tooth. When you use one of these kinds of consumables while you are adjacent to your companion, you can grant the benefit to your companion instead of yourself. You must take the action type required to use the consumable; no action is required of your companion.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Trinkets</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Trinkets</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Your companion can&#39;t use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn&#39;t require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.</p>
 <p>You companion doesn&#39;t need to wear their trinket around their neck: a <a href="../../monster/companion/beastheart/condor/">condor</a> might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Leveled Items</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Leveled Items</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Although your companion can&#39;t wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.</p>
 </div>
@@ -1096,35 +886,18 @@ As a 1st-level beastheart, you gain the following features.
 ## Beastheart Abilities {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/beastheart-abilities"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Beastheart Abilities</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Beastheart Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one signature ability from the following options. Signature abilities can be used at will. (<em>Quick Build:</em> Come On!)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Bodyswap</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bodyswap</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You and your ally morph into each other, magically switching places.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1145,14 +918,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Come On!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Come On!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You launch a flurry of attacks to cover your movement.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1173,14 +939,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Covering Fire</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Covering Fire</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Keep your head down, or I&#39;ll shoot it off!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1201,14 +960,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Stormrage</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stormrage</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Lances of primordial energy leap from you and your companion to sear, crush, or freeze your foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1232,32 +984,17 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Heroic Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heroic Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>From traveling and fighting alongside your companion, you have learned a number of heroic abilities.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">3-Ferocity Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3-Ferocity Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (<em>Quick Build:</em> Hungry Like the Wolf.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Bring the Thunder</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bring the Thunder</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1275,14 +1012,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Herd the Sheep</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Herd the Sheep</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1303,14 +1033,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Hungry Like the Wolf</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hungry Like the Wolf</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The enemy&#39;s blood flows like wine, invigorating your companion.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1327,14 +1050,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Pushover</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pushover</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You and your companion surround your foe in order to bring them down.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1358,23 +1074,12 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5-Ferocity Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5-Ferocity Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">All of You Versus All of Me</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">All of You Versus All of Me</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Let all of them come forward and shatter themselves against your might!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span></div>
 <div class="sc-ability__rail">
@@ -1388,14 +1093,7 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are <a href="../../condition/taunted/">taunted</a> by your companion. An enemy in both areas is <a href="../../condition/taunted/">taunted</a> only by you.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">I Feed On Your Pain!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Feed On Your Pain!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Invigorated by the smell of blood, you strike a savage blow.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1416,14 +1114,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Rain of Fire</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rain of Fire</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1444,14 +1135,7 @@ As a 1st-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">You Let Me Get Too Close</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">You Let Me Get Too Close</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The wilderness has no concept of fair play.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1488,14 +1172,8 @@ As a 2nd-level beastheart, you gain the following features.
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
@@ -1504,14 +1182,8 @@ As a 2nd-level beastheart, you gain the following features.
 #### Everyone's Best Friend {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/everyones-best-friend"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Everyone&#39;s Best Friend</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Everyone&#39;s Best Friend</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your companion may not be much of a talker, but they&#39;ve got a lifetime of experience surviving the dangers of the wild. They can offer aid in nearly any circumstance: helping exhausted travelers find their way, leading panicked villagers out of a burning building, or even providing a comforting nuzzle at just the right time. Once per round during a montage test, when you or another character makes a test, your companion can increase the tier outcome by one tier (to a maximum of tier 3).</p>
 </div>
@@ -1520,23 +1192,13 @@ As a 2nd-level beastheart, you gain the following features.
 #### 2nd-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">2nd-Level Wild Nature Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Wild Nature Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Wild Nature Features</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Wild Nature Features</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Wild Nature</th><th>Feature</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../feature/beastheart/level-2/watchdog/">Watchdog</a></td></tr><tr><td>Prowler</td><td><a href="../../feature/beastheart/level-2/supersniffer/">Supersniffer</a></td></tr><tr><td>Punisher</td><td><a href="../../feature/beastheart/level-2/this-ones-yours/">This One’s Yours</a></td></tr><tr><td>Spark</td><td><a href="../../feature/beastheart/level-2/stormheart/">Stormheart</a></td></tr></tbody></table>
 </div>
@@ -1574,36 +1236,19 @@ You and your companion can't be surprised.
 ## 2nd-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">2nd-Level Wild Nature Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Wild Nature Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants your choice of one of two heroic abilities.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Guardian Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Guardian Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Fetch!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fetch!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1627,14 +1272,7 @@ You and your companion can't be surprised.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Omnomnom</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Omnomnom</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">What do you have in your mouth? No! Bad boy!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1659,24 +1297,13 @@ You and your companion can't be surprised.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Prowler Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Prowler Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Jump Scare</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Jump Scare</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Surprised to see me?</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1701,14 +1328,7 @@ You and your companion can't be surprised.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">On You Like Your Shadow</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">On You Like Your Shadow</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion darts around their target, staying out of reach and using them as a shield.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1729,24 +1349,13 @@ You and your companion can't be surprised.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Punisher Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Punisher Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Foe Bowling</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Foe Bowling</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion sends one enemy tumbling into another, taking them both out.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1767,14 +1376,7 @@ You and your companion can't be surprised.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">One Roar and We&#39;re Back In the Fight</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">One Roar and We&#39;re Back In the Fight</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your companion builds up courage with a roar, growl, or aggressive display.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span></div>
 <div class="sc-ability__rail">
@@ -1787,24 +1389,13 @@ You and your companion can't be surprised.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Spark Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Spark Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Burning Lash</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Burning Lash</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A blazing tongue of energy entangles a foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1822,14 +1413,7 @@ You and your companion can't be surprised.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Howling Gale</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Howling Gale</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A blizzard or thunderstorm sends foes flying and lifts you like a feather.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1860,14 +1444,8 @@ As a 3rd-level beastheart, you gain the following features.
 #### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/companion-advancement-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Companion Advancement Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Companion Advancement Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>Your companion gains the level 3 advancement feature granted by their stat block.</p>
 </div>
@@ -1876,26 +1454,13 @@ As a 3rd-level beastheart, you gain the following features.
 ### 7-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/7-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">7-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Death and Violence</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death and Violence</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You leap from your foe&#39;s corpse.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -1920,14 +1485,7 @@ As a 3rd-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Head to Head</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Head to Head</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your bloody-forehead smash drives your companion into a frenzy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
 <div class="sc-ability__rail">
@@ -1948,14 +1506,7 @@ As a 3rd-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Jaws of Death</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Jaws of Death</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Spectral teeth clamp on a foe, chaining them to you and draining their life essence.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -1976,14 +1527,7 @@ As a 3rd-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Shieldbreaker</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shieldbreaker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You smash through their guard and shatter their armor, leaving them wide open.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2014,14 +1558,8 @@ As a 4th-level beastheart, you gain the following features.
 #### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your and your companion&#39;s Might and Intuition scores increase to 3.</p>
 </div>
@@ -2030,14 +1568,8 @@ As a 4th-level beastheart, you gain the following features.
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -2046,14 +1578,8 @@ As a 4th-level beastheart, you gain the following features.
 #### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/rampage-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Rampage Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rampage Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 16 or more rampage.</p>
 </div>
@@ -2062,14 +1588,8 @@ As a 4th-level beastheart, you gain the following features.
 #### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -2078,14 +1598,8 @@ As a 4th-level beastheart, you gain the following features.
 #### Unleash the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/unleash-the-beast"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Unleash the Beast</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unleash the Beast</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.</p>
 </div>
@@ -2098,14 +1612,8 @@ As a 5th-level beastheart, you gain the following features.
 #### 5th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/5th-level-wild-nature-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">5th-Level Wild Nature Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Wild Nature Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a feature, as shown on the 5th-Level Wild Nature Features table.</p>
 <table><thead><tr><th>♦ 5th-Level Wild Nature Features ♦</th><th></th></tr></thead><tbody><tr><td>Wild Nature</td><td>Feature</td></tr><tr><td>Guardian</td><td><a href="../../feature/beastheart/level-5/there-for-each-other/">There For Each Other</a></td></tr><tr><td>Prowler</td><td><a href="../../feature/beastheart/level-5/melt-away/">Melt Away</a></td></tr><tr><td>Punisher</td><td><a href="../../feature/beastheart/level-5/i-can-take-it/">I Can Take It</a></td></tr><tr><td>Spark</td><td><a href="../../feature/beastheart/level-5/wildfire-pyre/">Wildfire Pyre</a></td></tr></tbody></table>
@@ -2131,26 +1639,13 @@ When you or your companion deals damage with your [Pyre](../feature/ability/beas
 ### 9-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/9-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">9-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Deadshot</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deadshot</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel your companion&#39;s feral senses to take the perfect shot.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2171,14 +1666,7 @@ When you or your companion deals damage with your [Pyre](../feature/ability/beas
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Dogpile</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dogpile</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2199,14 +1687,7 @@ When you or your companion deals damage with your [Pyre](../feature/ability/beas
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">One, Two, Three, Heave</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">One, Two, Three, Heave</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Harnessing your companion&#39;s strength, you send your foe flying.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2227,14 +1708,7 @@ When you or your companion deals damage with your [Pyre](../feature/ability/beas
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Rip Them Apart!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rip Them Apart!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">In a gruesome display, you and your companion rip off a pinned enemy&#39;s limb or other body part and toss it away.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2265,14 +1739,8 @@ As a 6th-level beastheart, you gain the following features.
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
@@ -2281,14 +1749,8 @@ As a 6th-level beastheart, you gain the following features.
 #### Become the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/become-the-beast"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Become the Beast</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Become the Beast</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>Your companion&#39;s rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion&#39;s stat block.</p>
 </div>
@@ -2297,36 +1759,19 @@ As a 6th-level beastheart, you gain the following features.
 ## 6th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/6th-level-wild-nature-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">6th-Level Wild Nature Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Wild Nature Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants your choice of one of two heroic abilities.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Guardian Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Guardian Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Sic &#39;Em!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sic &#39;Em!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion rushes forward to protect you from a dangerous foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2344,14 +1789,7 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">Your companion can use this ability as a triggered action against an enemy who damages you.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Stare Down</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stare Down</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your companion locks eyes with an enemy, imposing their will upon the enemy and daring them to move a muscle.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
@@ -2372,24 +1810,13 @@ As a 6th-level beastheart, you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Prowler Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Prowler Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Soft Underbelly</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Soft Underbelly</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion ducks under your enemy&#39;s guard and rakes open their soft vitals, leaving them vulnerable.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2410,14 +1837,7 @@ As a 6th-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="move">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">o</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Move Action</div>
-<h3 class="sc-ability__name">Wraith Heart</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">o</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wraith Heart</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Move Action</div></div></header>
 <p class="sc-ability__flavor">You and your companion become soul-freezing wraiths.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2430,24 +1850,13 @@ As a 6th-level beastheart, you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Punisher Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Punisher Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Lead the Pack</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lead the Pack</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Roaring like wild beasts, your companion and your allies rush toward the foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span></div>
 <div class="sc-ability__rail">
@@ -2460,14 +1869,7 @@ As a 6th-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Rolling Thunder</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rolling Thunder</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The rumble of your companion&#39;s dash is a rolling thunderclap, their impact an earthquake.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
 <div class="sc-ability__rail">
@@ -2489,24 +1891,13 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Spark Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Spark Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Elements Unleashed</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elements Unleashed</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your companion&#39;s body becomes a bank of glowing coals, a web of arcing lightning, a cloud of rumbling thunder, or a flurry of dancing ice crystals.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2520,14 +1911,7 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You also transform.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Killing Frost</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Killing Frost</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Black frost freezes boots to the floor and creeps up trapped victims until they&#39;re completely encased in ice.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2558,14 +1942,8 @@ As a 7th-level beastheart, you gain the following features.
 #### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Each of your and your companion&#39;s characteristic scores increases by 1, to a maximum of 4.</p>
 </div>
@@ -2574,14 +1952,8 @@ As a 7th-level beastheart, you gain the following features.
 #### Feral Heart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/feral-heart"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Feral Heart</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feral Heart</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>At the start of each of your turns in combat, you gain 1d3 + 1 ferocity instead of 1d3.</p>
 </div>
@@ -2590,14 +1962,8 @@ As a 7th-level beastheart, you gain the following features.
 #### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/rampage-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Rampage Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rampage Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 20 or more rampage.</p>
 </div>
@@ -2606,14 +1972,8 @@ As a 7th-level beastheart, you gain the following features.
 #### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -2626,14 +1986,8 @@ As an 8th-level beastheart, you gain the following features.
 #### 8th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/8th-level-wild-nature-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">8th-Level Wild Nature Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Wild Nature Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.</p>
 <table><thead><tr><th>♦ 8th-Level Wild Nature Features ♦</th><th></th></tr></thead><tbody><tr><td>Wild Nature</td><td>Feature</td></tr><tr><td>Guardian</td><td><a href="../../feature/beastheart/level-8/reflexes-perfected/">Reflexes Perfected</a></td></tr><tr><td>Prowler</td><td><a href="../../feature/beastheart/level-8/born-to-run/">Born to Run</a></td></tr><tr><td>Punisher</td><td><a href="../../feature/beastheart/level-8/built-for-violence/">Built for Violence</a></td></tr><tr><td>Spark</td><td><a href="../../feature/beastheart/level-8/nature-will-not-harm-us/">Nature Will Not Harm Us</a></td></tr></tbody></table>
@@ -2659,14 +2013,8 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -2675,26 +2023,13 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 ### 11-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/11-ferocity-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">11-Ferocity Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Ferocity Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Life-Drinking Wound</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Life-Drinking Wound</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">As your attack strikes home, your enemy&#39;s escaping life force drifts to your allies in crimson threads.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2715,14 +2050,7 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">On the Razor&#39;s Edge</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">On the Razor&#39;s Edge</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2743,14 +2071,7 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Ride or Die</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ride or Die</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your enemies might be stronger than you, but that&#39;s why you&#39;re not alone.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span></div>
 <div class="sc-ability__rail">
@@ -2763,14 +2084,7 @@ Your and your companion's free strikes deal extra damage equal to your Intuition
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Turn the World To Ash</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Turn the World To Ash</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can&#39;t control.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2798,14 +2112,8 @@ As a 9th-level beastheart, you gain the following features.
 #### Avatar of the Green {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/avatar-of-the-green"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Avatar of the Green</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Avatar of the Green</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>Your companion has transcended beasthood. Although they&#39;re still your faithful friend, they&#39;re also a vessel for nature&#39;s wisdom and memories. Your companion&#39;s Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the <a href="../../skill/lore/nature/">Nature</a> skill and one other skill from the lore skill group.</p>
 </div>
@@ -2814,36 +2122,19 @@ As a 9th-level beastheart, you gain the following features.
 ## 9th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/9th-level-wild-nature-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="12">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">9th-Level Wild Nature Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Wild Nature Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>Your wild nature grants your choice of one of two heroic abilities.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Guardian Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Guardian Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Banshee Howl</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Banshee Howl</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion&#39;s howl, screech, roar, or psychic emanation presages death to those who hear it.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2865,14 +2156,7 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Relentless</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Relentless</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion launches at your foe, shielding allies with their body.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2893,24 +2177,13 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Prowler Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Prowler Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Behold the Face of Chaos</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Behold the Face of Chaos</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion appears next to their victim in the guise of a heart-stopping nightmare.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2931,14 +2204,7 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Let&#39;s Take This Outside</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Let&#39;s Take This Outside</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion drags your chosen foe into storms of the Primordial Plane.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2951,24 +2217,13 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Punisher Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Punisher Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Battle Frenzy</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Battle Frenzy</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion shatters the floodgates that keep their rampage dammed up, and it cascades into the unprepared minds of nearby creatures.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2993,14 +2248,7 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Juggernaut</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Juggernaut</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion plows through the front lines, tossing enemies—and allies—this way and that.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Companion</span></div>
 <div class="sc-ability__rail">
@@ -3021,24 +2269,13 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Spark Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Spark Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">For the Pack!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">For the Pack!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">They&#39;d tell stories in hushed tones of your companion&#39;s last stand—if any of them lived to tell the tale.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -3067,14 +2304,7 @@ As a 9th-level beastheart, you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Wild Hunt</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wild Hunt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your companion summons a ravening pack of spectral ancestors to devour your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -3105,14 +2335,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your and your companion&#39;s Might and Intuition scores increase to 5.</p>
 </div>
@@ -3121,14 +2345,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/companion-advancement-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Companion Advancement Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Companion Advancement Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your companion gains the level 10 advancement feature granted by their stat block.</p>
 </div>
@@ -3137,14 +2355,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Final Evolution {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/final-evolution"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Final Evolution</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Final Evolution</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1.</p>
 </div>
@@ -3153,14 +2365,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
@@ -3169,14 +2375,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Ferox {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/ferox"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Ferox</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ferox</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You have an epic resource called ferox. Each time you finish a respite, you gain ferox equal to the XP you gain. You can spend ferox on your abilities as if it were ferocity.</p>
 <p>Additionally, you can spend 1 ferox as a free maneuver to allow you and your companion to each to take a main action on your turn, instead of a main action and a maneuver. On that turn, the ferocity cost of your heroic abilities is reduced by 1.</p>
@@ -3187,14 +2387,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/rampage-improvement"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Rampage Improvement</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rampage Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/beastheart/level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 24 or more rampage.</p>
 </div>
@@ -3203,14 +2397,8 @@ As a 10th-level beastheart, you gain the following features.
 #### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>

@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Feature</div>
-<h3 class="sc-trait__name">Null Tradition</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Null Tradition</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a <a href="../null-tradition/">null tradition</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Chronokinetic and the <a href="../../../../skill/lore/monsters/">Monsters</a> skill.)</p>
 <ul><li><b>Chronokinetic:</b> Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the <a href="../../../../skill/lore/">lore group</a>.</li><li><b>Cryokinetic:</b> You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the <a href="../../../../skill/crafting/">crafting group</a>.</li><li><b>Metakinetic:</b> You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the <a href="../../../../skill/exploration/">exploration group</a>.</li></ul>

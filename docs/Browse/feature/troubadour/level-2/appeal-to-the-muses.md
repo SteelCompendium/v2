@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour Feature</div>
-<h3 class="sc-trait__name">Appeal to the Muses</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Appeal to the Muses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You can give a rousing speech, invoke your inspirations, or lift your fellows&#39; spirits, appealing to the muses to heighten a battle&#39;s drama. However, irony is eager to hand your fortune to the villain to achieve the same end.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Before you roll to gain drama at the start of your <a href="../../../../rule/combat/turn/">turn</a>, you can make your appeal (no action required). If you do, your roll gains the following additional effects:</p>

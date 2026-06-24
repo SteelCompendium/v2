@@ -12,13 +12,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Human Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Detect the Supernatural</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Detect the Supernatural</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Human</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can open your awareness to detect <a href="../../../../rule/general/supernatural/">supernatural</a> creatures and phenomena. Until the end of your next <a href="../../../../rule/combat/turn/">turn</a>, you know the location of any <a href="../../../../rule/general/supernatural/">supernatural</a> object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
 </div>

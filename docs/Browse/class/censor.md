@@ -72,14 +72,8 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Censor Order {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-order"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Censor Order</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Censor Order</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p><a href="./">Censors</a> are the will of their god made physically manifest, and you act as your god&#39;s agent in the world. As you shoulder that responsibility, you choose a <a href="../../feature/censor/level-1/censor-order/">censor order</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Paragon.)</p>
 <ul><li><b>Exorcist:</b> You specialize in hunting your order&#39;s hidden enemies, knowing that an open mind is an unguarded fortress. You have the <a href="../../skill/interpersonal/read-person/">Read Person</a> skill.</li><li><b>Oracle:</b> Corruption has deep tendrils that can be missed, leading you to specialize in uncovering clandestine threats to your order. You have the <a href="../../skill/lore/magic/">Magic</a> skill.</li><li><b>Paragon:</b> Without a strong example and a firm hand, the weak will be corrupted. You specialize in setting an example for your order. You have the <a href="../../skill/interpersonal/lead/">Lead</a> skill.</li></ul>
@@ -90,14 +84,8 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Deity and Domains</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deity and Domains</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Choose a god or <a href="../../rule/world/saint/">saint</a> who your character reveres from Chapter 14: <a href="../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
 <p>After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you&#39;ll gain from this class. (<em>Quick Build:</em> <a href="../../religion/god/cavall/">Cavall</a> as deity and War as domain.)</p>
@@ -107,23 +95,13 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>The power you serve grants you a <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> called wrath, fueling your abilities as you <a href="./">censor</a> those your church deems to be heretics.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Wrath in Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrath in Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain wrath equal to your <a href="../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 2 wrath.</p>
 <p>Additionally, the first time each <a href="../../rule/combat/combat-round/">combat round</a> that a creature judged by you (see <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> below) deals damage to you, you gain 1 wrath. The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 1 wrath.</p>
@@ -131,11 +109,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Wrath Outside of Combat</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrath Outside of Combat</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Though you can&#39;t gain wrath outside of combat, you can use your <a href="../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../rule/resource/victories/">Victories</a> or finish a <a href="../../rule/resource/respite/">respite</a>.</p>
 <p>When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your <a href="../../rule/resource/victories/">Victories</a>. (Such abilities aren&#39;t part of the core rules for the <a href="./">censor</a>, but they might appear in future products.)</p>
@@ -148,26 +122,13 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Judgment {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Judgment</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Judgment</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You pick out the enemies most worthy of your wrath and place a divine <a href="../../feature/ability/censor/level-1/judgment/">judgment</a> upon them, censoring them with the power of your god. You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Judgment</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Judgment</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You utter a prayer that outlines your foe in holy energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -180,12 +141,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Judgment Order Benefit</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Judgment Order Benefit</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>The first time on a <a href="../../rule/combat/turn/">turn</a> that you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability to judge a creature, you gain the following benefit based on your order:</p>
 <ul><li><b>Exorcist:</b> You can <a href="../../movement/teleport/">teleport</a> up to a number of squares equal to twice your <a href="../../rule/character/presence/">Presence</a> score. This movement must take you closer to the judged creature. You do not need <a href="../../rule/combat/line-of-effect/">line of effect</a> to your destination.</li><li><b>Oracle:</b> You can deal holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score to the judged creature.</li><li><b>Paragon:</b> You can vertical <a href="../../movement/forced-movement/">pull</a> the judged creature up to a number of squares equal to twice your <a href="../../rule/character/presence/">Presence</a> score.</li></ul>
@@ -198,14 +154,8 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Kit</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../kit/warrior-priest/">Warrior Priest</a>.)</p>
 </div>
@@ -214,26 +164,13 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### My Life for Yours {data-scc="mcdm.heroes.v1/feature.censor.level-1/my-life-for-yours"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the My Life for Yours triggered action">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">My Life for Yours</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">My Life for Yours</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You channel your will to mend your wounds or the wounds of your allies. You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">My Life for Yours</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">My Life for Yours</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You channel some of your vitality into more resilience for you or an ally.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -257,60 +194,32 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">1st-Level Domain Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You gain a domain feature from your domain, as shown on the 1st-Level <a href="./">Censor</a> Domain Features table. Additionally, you gain a skill from your domain, chosen from the skill group indicated on the table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">1st-Level Censor Domain Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Censor Domain Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Domain</th><th>Feature</th><th>Skill Group</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a></td><td>Crafting</td></tr><tr><td>Death</td><td><a href="../../feature/ability/censor/level-1/grave-speech/">Grave Speech</a></td><td>Lore</td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-1/oracular-visions/">Oracular Visions</a></td><td>Lore</td></tr><tr><td>Knowledge</td><td><a href="../../feature/censor/level-1/blessing-of-comprehension/">Blessing of Comprehension</a></td><td>Lore</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-1/revitalizing-ritual/">Revitalizing Ritual</a></td><td>Exploration</td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-1/blessing-of-compassion/">Blessing of Compassion</a></td><td>Interpersonal</td></tr><tr><td>Nature</td><td><a href="../../feature/ability/censor/level-1/faithful-friend/">Faithful Friend</a></td><td>Exploration</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-1/protective-circle/">Protective Circle</a></td><td>Exploration</td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-1/blessing-of-fortunate-weather/">Blessing of Fortunate Weather</a></td><td>Exploration</td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-1/inner-light/">Inner Light</a></td><td>Lore</td></tr><tr><td>Trickery</td><td><a href="../../feature/censor/level-1/inspired-deception/">Inspired Deception</a></td><td>Intrigue</td></tr><tr><td>War</td><td><a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a></td><td>Exploration</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
-<h3 class="sc-trait__name">Blessing of Compassion</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Compassion</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Love</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../rule/dice/edge/">edge</a> on any <a href="../../rule/test/test/">test</a> made to assist another creature with a <a href="../../rule/test/test/">test</a>.</p>
 <p>Additionally, when you are present at the start of a negotiation, one <a href="../../rule/general/npc/">NPC</a> of your choice has their patience increased by 1 (to a maximum of 5), and the first <a href="../../rule/test/test/">test</a> made to influence them gains an <a href="../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
-<h3 class="sc-trait__name">Blessing of Comprehension</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Comprehension</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Knowledge</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the <a href="../../rule/downtime/project-source/">project source</a> for any crafting or <a href="../../rule/downtime/research-project/">research project</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
-<h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Fortunate Weather</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Storm</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can decide the weather conditions within 100 squares. Until you finish another <a href="../../rule/resource/respite/">respite</a>, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p>
 <p><b>Clear:</b> You and your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/intrigue/search/">Search</a> or <a href="../../skill/exploration/navigate/">Navigate</a> skills.</p>
@@ -321,25 +230,12 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
-<h3 class="sc-trait__name">Faithful Friend</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Faithful Friend</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Nature</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Faithful Friend</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Faithful Friend</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -355,24 +251,12 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Grave Speech</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grave Speech</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Grave Speech</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grave Speech</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -388,24 +272,12 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Hands of the Maker</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hands of the Maker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Hands of the Maker</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hands of the Maker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You craft objects with the power of your mind.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -421,73 +293,37 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
-<h3 class="sc-trait__name">Inner Light</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inner Light</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Sun</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../feature/ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
-<h3 class="sc-trait__name">Inspired Deception</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inspired Deception</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Trickery</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>The gods favor your thievery with magic. Whenever you make a <a href="../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../skill/intrigue/">intrigue skill group</a>, you can use <a href="../../rule/character/presence/">Presence</a> on the <a href="../../rule/test/test/">test</a> instead of another <a href="../../rule/character/characteristic/">characteristic</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
-<h3 class="sc-trait__name">Oracular Visions</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Oracular Visions</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Fate</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more <a href="../../rule/resource/victories/">Victories</a>, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a <a href="../../rule/test/test/">test</a>, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an <a href="../../rule/dice/edge/">edge</a> on the <a href="../../rule/test/test/">test</a>. You lose any remaining fate points when you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
-<h3 class="sc-trait__name">Protective Circle</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Protective Circle</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Protection</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You can spend 10 uninterrupted minutes to create a <a href="../../feature/censor/level-1/protective-circle/">protective circle</a> on the ground large enough to hold one <a href="../../rule/character/size/">size</a> 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../../feature/censor/level-1/protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
-<h3 class="sc-trait__name">Revitalizing Ritual</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revitalizing Ritual</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Life</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. The chosen character gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to their <a href="../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
-<h3 class="sc-trait__name">Sanctified Weapon</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sanctified Weapon</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · War</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>As a <a href="../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
@@ -499,35 +335,18 @@ As a 1st-level [censor](censor.md), you gain the following features.
 ### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Censor Abilities</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Censor Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You use a blend of martial techniques and divine magic to attack your foes and defend your allies.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Signature Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Back Blasphemer!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Back Blasphemer!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel power through your weapon to repel foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -544,14 +363,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Every Step... Death!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Every Step... Death!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You show your foe a glimpse of their fate after death.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -572,14 +384,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Halt Miscreant!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Halt Miscreant!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You infuse your weapon with holy magic that makes it difficult for your foe to get away.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -596,14 +401,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Your Allies Cannot Save You!</h3>
-</div>
-<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Your Allies Cannot Save You!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your magic <a href="../../rule/combat/strike/">strike</a> <a href="../../rule/combat/turn/">turns</a> your foe&#39;s guilt into a burst of holy power.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -627,33 +425,18 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Heroic Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heroic Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>You call upon a number of <a href="../../rule/general/heroic-ability/">heroic abilities</a>, all of them bound to your wrath.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">3-Wrath Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3-Wrath Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 wrath to use. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Behold a Shield of Faith!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Behold a Shield of Faith!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A mighty blow <a href="../../rule/combat/turn/">turns</a> your foe&#39;s vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -674,14 +457,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Driving Assault</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Driving Assault</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">As you force your enemy back with your weapon, you use your faith to stay close.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -702,14 +478,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">The Gods Punish and Defend</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Gods Punish and Defend</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel holy energy to smite a foe and heal an ally.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -730,14 +499,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Repent!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Repent!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You conjure memories of their sins to harry your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -754,24 +516,13 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5-Wrath Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5-Wrath Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 wrath to use. (<em>Quick Build:</em> <a href="../../feature/ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Arrest</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Arrest</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">&#34;I got you, you son of a bitch.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -792,14 +543,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Behold the Face of Justice!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Behold the Face of Justice!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You attack a foe and your enemies behold a vision of the true nature of your resolve.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -820,14 +564,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Censored</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Censored</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Judged and <a href="../../feature/ability/censor/level-2/sentenced/">sentenced</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -848,14 +585,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Purifying Fire</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purifying Fire</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The gods judge, fire cleanses.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -889,14 +619,8 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
@@ -905,95 +629,49 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 ### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">2nd-Level Order Features</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Order Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you two features, as shown on the 2nd-Level Order Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Order Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Order Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Order</th><th>Features</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Vigilance, <a href="../../feature/censor/level-2/a-sense-for-truth/">A Sense for Truth</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-2/it-was-foretold/">It Was Foretold</a>, <a href="../../feature/censor/level-2/judge-of-character/">Judge of Character</a></td></tr><tr><td>Paragon</td><td><a href="../../feature/censor/level-2/lead-by-example/">Lead by Example</a>, <a href="../../feature/censor/level-2/stalwart-icon/">Stalwart Icon</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
-<h3 class="sc-trait__name">It Was Foretold</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">It Was Foretold</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Oracle</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first <a href="../../rule/combat/turn/">turn</a>. Additionally, whenever the Director calls for a <a href="../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
-<h3 class="sc-trait__name">Judge of Character</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Judge of Character</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Oracle</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../rule/character/intuition/">Intuition</a> <a href="../../rule/test/test/">test</a>, you can make a <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> instead.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
-<h3 class="sc-trait__name">Lead by Example</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lead by Example</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Paragon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are <a href="../../rule/combat/adjacent/">adjacent</a> to a creature, your allies gain the benefits of <a href="../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../rule/test/test/">tests</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
-<h3 class="sc-trait__name">Saint&#39;s Vigilance</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Saint&#39;s Vigilance</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Exorcist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../feature/common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an <a href="../../rule/dice/edge/">edge</a> when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
-<h3 class="sc-trait__name">A Sense for Truth</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Sense for Truth</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Exorcist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You are trained in secret techniques from your order that allow you to discern the truth with <a href="../../rule/general/supernatural/">supernatural</a> precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to detect lies or hidden motives.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
-<h3 class="sc-trait__name">Stalwart Icon</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stalwart Icon</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Paragon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to intimidate or persuade others.</p>
 </div>
@@ -1005,35 +683,18 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 ### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">2nd-Level Order Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">2</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Exorcist Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Exorcist Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">It Is Justice You Fear</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">It Is Justice You Fear</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">I am but a vessel. Your own deeds weigh upon you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -1054,14 +715,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Revelator</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revelator</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You channel holy energy to harm unbelievers and reveal those hidden from your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1077,23 +731,12 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Oracle Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Oracle Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Prescient Grace</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Prescient Grace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Gifted by a prescient vision, you warn an ally of an impending attack.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -1110,14 +753,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">With My Blessing</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">With My Blessing</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A word in prayer, and the gods show the way.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -1133,23 +769,12 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Paragon Ability</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Paragon Ability</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Blessing of the Faithful</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of the Faithful</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">The gods reward your faith.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1162,14 +787,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Sentenced</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Sentenced</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The shock of your condemnation freezes your enemy in their boots.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1203,14 +821,8 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 ### Look On My Work and Despair {data-scc="mcdm.heroes.v1/feature.censor.level-3/look-on-my-work-and-despair"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Look On My Work and Despair</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Look On My Work and Despair</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a> has grown in <a href="../../feature/conduit/level-10/divine-power/">divine power</a>, instilling fear in those you condemn. Whenever you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability, you can spend 1 wrath, and if the target has P &lt; AVERAGE, they are <a href="../../condition/frightened/">frightened</a> of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> and you use <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, if the new target has P &lt; STRONG, they are <a href="../../condition/frightened/">frightened</a> of you (save ends). If the target is already <a href="../../condition/frightened/">frightened</a> of you, they instead take holy damage equal to twice your <a href="../../rule/character/presence/">Presence</a> score.</p>
 </div>
@@ -1219,26 +831,13 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 ### 7-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-3/7-wrath-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">7-Wrath Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">3</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Wrath Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Disruptive Isolation</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Disruptive Isolation</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">The evil within your foes detonates with holy fire that burns only the guilty.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1251,14 +850,7 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Perfect Order</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Perfect Order</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Within the area of your divine presence, your enemies will regret using their fell abilities.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1271,14 +863,7 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Purifying Pacifism</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Purifying Pacifism</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You shed a righteous energy that punishes enemies who would harm you or your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1291,14 +876,7 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Stillness</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Stillness</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">The holy <a href="../../rule/combat/aura/">aura</a> you project makes it painful for evil-doers to leave your reach.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1321,14 +899,8 @@ As a 4th-level [censor](censor.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-4/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 3.</p>
 </div>
@@ -1337,14 +909,8 @@ As a 4th-level [censor](censor.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-4/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -1353,14 +919,8 @@ As a 4th-level [censor](censor.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-4/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
@@ -1369,14 +929,8 @@ As a 4th-level [censor](censor.md), you gain the following features.
 ### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Wrath Beyond Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrath Beyond Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.</p>
 </div>
@@ -1385,58 +939,30 @@ As a 4th-level [censor](censor.md), you gain the following features.
 ### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">4th-Level Domain Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">4th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You gain a domain feature from your domain, as shown on the 4th-Level <a href="./">Censor</a> Domain Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">4th-Level Censor Domain Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">4th-Level Censor Domain Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/censor/level-4/improved-hands-of-the-maker/">Improved Hands of the Maker</a></td></tr><tr><td>Death</td><td><a href="../../feature/censor/level-4/seance/">Seance</a></td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-4/oracular-warning/">Oracular Warning</a></td></tr><tr><td>Knowledge</td><td><a href="../../rule/world/saint/">Saint</a>&#39;s Epiphany</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-4/blessing-of-life/">Blessing of Life</a></td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a></td></tr><tr><td>Nature</td><td><a href="../../feature/censor/level-4/wode-road/">Wode Road</a></td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-4/impervious-touch/">Impervious Touch</a></td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-4/windwalk/">Windwalk</a></td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-4/light-of-revelation/">Light of Revelation</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-4/blessing-of-secrets/">Blessing of Secrets</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-4/improved-sanctified-weapon/">Improved Sanctified Weapon</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
-<h3 class="sc-trait__name">Blessing of Life</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Life</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Life</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../rule/health/stamina/">Stamina</a> equal to your <a href="../../rule/character/presence/">Presence</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Blessing of Secrets</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Secrets</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Blessing of Secrets</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Secrets</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You project an illusory <a href="../../rule/combat/aura/">aura</a> that makes you and allies harder to notice.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1452,122 +978,62 @@ As a 4th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
-<h3 class="sc-trait__name">Impervious Touch</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Impervious Touch</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Protection</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you can touch an object with a <a href="../../rule/character/size/">size</a> equal to your <a href="../../rule/character/presence/">Presence</a> score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your <a href="../../rule/character/presence/">Presence</a> score, and you can end the spell on any object at any time (no action required).</p>
 <p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a <a href="../../rule/character/size/">size</a> larger than your <a href="../../rule/character/presence/">Presence</a> score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your <a href="../../rule/character/presence/">Presence</a> score simultaneously.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
-<h3 class="sc-trait__name">Improved Hands of the Maker</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Improved Hands of the Maker</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Creation</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>When you use your <a href="../../feature/ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../rule/character/size/">size</a> 2 or smaller.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
-<h3 class="sc-trait__name">Improved Sanctified Weapon</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Improved Sanctified Weapon</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · War</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>The weapon improved by your <a href="../../feature/censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
-<h3 class="sc-trait__name">Invocation of the Heart</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Invocation of the Heart</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Love</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>As a main action, you forge a bond of love and friendship with one willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any <a href="../../rule/test/test/">test</a> they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
-<h3 class="sc-trait__name">Light of Revelation</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Light of Revelation</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Sun</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect <a href="../../rule/general/supernatural/">supernatural</a> illusions.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
-<h3 class="sc-trait__name">Oracular Warning</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Oracular Warning</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Fate</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can share the vague dreams of the future granted to you by the gods with allies who finished the <a href="../../rule/resource/respite/">respite</a> with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
-<h3 class="sc-trait__name">Seance</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Seance</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Death</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>You can commune with a network of spirits. As a <a href="../../rule/resource/respite/">respite</a> activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another <a href="../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
-<h3 class="sc-trait__name">Saint&#39;s Epiphany</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Saint&#39;s Epiphany</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Knowledge</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>At the start of a <a href="../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../rule/downtime/project-roll/">project roll</a> during this <a href="../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../rule/character/presence/">Presence</a> score to the roll.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
-<h3 class="sc-trait__name">Windwalk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Windwalk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Storm</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>While you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you can <a href="../../movement/fly/">fly</a>. If you can already <a href="../../movement/fly/">fly</a>, you have a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> while <a href="../../movement/fly/">flying</a> instead.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
-<h3 class="sc-trait__name">Wode Road</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">4</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wode Road</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Nature</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
 <div class="sc-trait__body">
 <p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your <a href="../../rule/character/presence/">Presence</a> score. Whenever you touch any tree in your network, you can use a main action to <a href="../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your <a href="../../rule/combat/distance/">distance</a> from it, including across different worlds (no action required).</p>
 </div>
@@ -1583,60 +1049,32 @@ As a 5th-level [censor](censor.md), you gain the following features.
 ### 5th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-5/5th-level-order-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">5th-Level Order Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Order Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you a feature, as shown on the 5th-Level Order Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">5th-Level Order Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Order Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../feature/censor/level-5/evil-revealed/">Evil Revealed</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-5/prophecy/">Prophecy</a></td></tr><tr><td>Paragon</td><td><a href="../../feature/censor/level-5/stand-fast/">Stand Fast</a>!</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
-<h3 class="sc-trait__name">Evil Revealed</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Evil Revealed</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Exorcist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
-<h3 class="sc-trait__name">Prophecy</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Prophecy</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Oracle</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more <a href="../../rule/resource/victories/">Victories</a>, you can make a number of 2d10 rolls equal to the number of <a href="../../rule/resource/victories/">Victories</a> you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a <a href="../../rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to replace the total on the dice with your first recorded roll.</p>
 <p>You discard each roll as it is used, and each time you earn <a href="../../rule/resource/victories/">Victories</a>, you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
-<h3 class="sc-trait__name">Stand Fast!</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stand Fast!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Paragon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p>Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your <a href="../../rule/combat/turn/">turns</a>, you can spend 1d6 <a href="../../rule/health/stamina/">Stamina</a> to end one effect on you that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../rule/combat/turn/">turn</a>. Any ally who starts their <a href="../../rule/combat/turn/">turn</a> within 5 squares of you can also spend <a href="../../rule/health/stamina/">Stamina</a> to gain this benefit.</p>
 </div>
@@ -1648,26 +1086,13 @@ As a 5th-level [censor](censor.md), you gain the following features.
 ### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">9-Wrath Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Wrath Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Gods Grant Thee Strength</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gods Grant Thee Strength</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel divine force for movement that cannot be stopped.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -1680,14 +1105,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Orison of Victory</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Orison of Victory</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You channel your god&#39;s will to overcome hardship and inflict pain.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
@@ -1708,14 +1126,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Righteous Judgment</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Righteous Judgment</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You amplify the power of your <a href="../../feature/ability/censor/level-1/judgment/">judgment</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1736,14 +1147,7 @@ As a 5th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Shield of the Righteous</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shield of the Righteous</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You strike a foe and create a fleet of divine shields that protect your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1770,14 +1174,8 @@ As a 6th-level [censor](censor.md), you gain the following features.
 ### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Implement of Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Implement of Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose one hero&#39;s weapon, including your own, to channel <a href="../../rule/general/supernatural/">supernatural</a> power as an <a href="../../rule/treasure/implement/">implement</a> of your god&#39;s wrath. The weapon becomes magic and gains the following benefits until your next <a href="../../rule/resource/respite/">respite</a>:</p>
 <ul><li>Strikes with the weapon deal extra holy damage equal to the wielder&#39;s highest <a href="../../rule/character/characteristic/">characteristic</a> score.</li><li>Any creature struck by the weapon who has holy weakness and has P &lt; STRONG is <a href="../../condition/frightened/">frightened</a> and <a href="../../condition/weakened/">weakened</a> (save ends).</li><li>Any minion targeted by a <a href="../../rule/combat/strike/">strike</a> using the weapon dies. That minion&#39;s <a href="../../rule/health/stamina/">Stamina</a> maximum is removed from the minion <a href="../../rule/health/stamina/">Stamina</a> pool before any damage is applied to the rest of the squad.</li><li>The weapon&#39;s wielder can&#39;t be made <a href="../../condition/frightened/">frightened</a>.</li></ul>
@@ -1787,14 +1185,8 @@ As a 6th-level [censor](censor.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one interpersonal, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
@@ -1803,35 +1195,18 @@ As a 6th-level [censor](censor.md), you gain the following features.
 ### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">6th-Level Order Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">6</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Exorcist Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Exorcist Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Begone!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Begone!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You terrify your enemies into retreating, creating chaos in their ranks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1848,14 +1223,7 @@ As a 6th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Pain of Your Own Making</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pain of Your Own Making</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You reverse the effects from an evildoer.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -1875,23 +1243,12 @@ As a 6th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Oracle Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Oracle Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Burden of Evil</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Burden of Evil</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You reveal a vision of your enemies&#39; fate that causes them to scramble as it staggers them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -1908,14 +1265,7 @@ As a 6th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Peace</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Peace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You anticipate your foes&#39; moves and deny them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -1931,23 +1281,12 @@ As a 6th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">6th-Level Paragon Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Paragon Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Congregation</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Congregation</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You focus your allies&#39; wrath on a chosen foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -1968,14 +1307,7 @@ As a 6th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Intercede</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Intercede</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You take your ally&#39;s place.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2005,14 +1337,8 @@ As a 7th-level [censor](censor.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-7/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
@@ -2021,59 +1347,30 @@ As a 7th-level [censor](censor.md), you gain the following features.
 ### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-7/7th-level-domain-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">7th-Level Domain Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You gain a domain feature from your domain, as shown on the 7th-Level <a href="./">Censor</a> Domain Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">7th-Level Censor Domain Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7th-Level Censor Domain Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../feature/censor/level-7/divine-quartermaster/">Divine Quartermaster</a></td></tr><tr><td>Death</td><td><a href="../../feature/censor/level-7/word-of-death-deferred/">Word of Death Deferred</a></td></tr><tr><td>Fate</td><td><a href="../../feature/censor/level-7/word-of-fate-denied/">Word of Fate Denied</a></td></tr><tr><td>Knowledge</td><td>Gods&#39; Library</td></tr><tr><td>Life</td><td><a href="../../feature/censor/level-7/font-of-grace/">Font of Grace</a></td></tr><tr><td>Love</td><td><a href="../../feature/censor/level-7/covenant-of-the-heart/">Covenant of the Heart</a></td></tr><tr><td>Nature</td><td>Nature&#39;s Bounty</td></tr><tr><td>Protection</td><td><a href="../../feature/censor/level-7/blessing-of-iron/">Blessing of Iron</a></td></tr><tr><td>Storm</td><td><a href="../../feature/censor/level-7/ride-the-lightning/">Ride the Lightning</a></td></tr><tr><td>Sun</td><td><a href="../../feature/censor/level-7/light-of-the-burning-sun/">Light of the Burning Sun</a></td></tr><tr><td>Trickery</td><td><a href="../../feature/ability/censor/level-7/trinity-of-trickery/">Trinity of Trickery</a></td></tr><tr><td>War</td><td><a href="../../feature/censor/level-7/your-triumphs-are-remembered/">Your Triumphs Are Remembered</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Protection</div>
-<h3 class="sc-trait__name">Blessing of Iron</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing of Iron</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Protection</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>The gods send divine favor to you and your allies. While you are not <a href="../../rule/health/dying/">dying</a>, enemies take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against you or any ally within 3 squares of you.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Love</div>
-<h3 class="sc-trait__name">Covenant of the Heart</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Covenant of the Heart</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Love</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can maintain bonds with up to three willing creatures using your <a href="../../feature/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. Additionally, you have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Guided to Your Side</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Guided to Your Side</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You concentrate on a friend and <a href="../../movement/teleport/">teleport</a> to them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2089,61 +1386,31 @@ As a 7th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Creation</div>
-<h3 class="sc-trait__name">Divine Quartermaster</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Divine Quartermaster</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Creation</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another <a href="../../rule/resource/respite/">respite</a> or it is consumed.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Life</div>
-<h3 class="sc-trait__name">Font of Grace</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Font of Grace</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Life</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Each time you use your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same <a href="../../rule/combat/turn/">turn</a>. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Knowledge</div>
-<h3 class="sc-trait__name">Gods&#39; Library</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gods&#39; Library</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Knowledge</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and <a href="../../rule/downtime/research-project/">research projects</a> (see Chapter 12: <a href="../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to <a href="../../rule/downtime/project-roll/">project rolls</a> you make for crafting and <a href="../../rule/downtime/research-project/">research projects</a>. You also have any skills in the <a href="../../skill/lore/">lore skill group</a> you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the <a href="../../skill/lore/">lore skill group</a> before you gained this feature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Sun</div>
-<h3 class="sc-trait__name">Light of the Burning Sun</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Light of the Burning Sun</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Sun</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Sun infuses your body. Whenever you use an ability to deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Nature</div>
-<h3 class="sc-trait__name">Nature&#39;s Bounty</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Nature&#39;s Bounty</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Nature</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
 <ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
@@ -2151,37 +1418,18 @@ As a 7th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Storm</div>
-<h3 class="sc-trait__name">Ride the Lightning</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ride the Lightning</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Storm</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>Lightning and thunder infuse your body. Whenever you use an ability to deal <a href="../../rule/damage/rolled-damage/">rolled damage</a> to another creature, the ability deals extra lightning damage equal to your <a href="../../rule/character/presence/">Presence</a> score. Additionally, if you use an ability that force moves a creature, the <a href="../../movement/forced-movement/">forced movement</a> <a href="../../rule/combat/distance/">distance</a> gains a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../rule/character/presence/">Presence</a> score. While you are under the effect of your <a href="../../feature/censor/level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> equal to your <a href="../../rule/character/might/">Might</a> score. If <a href="../../feature/censor/level-4/windwalk/">Windwalk</a> already grants you a <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a>, this <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> adds to that.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Trickery</div>
-<h3 class="sc-trait__name">Trinity of Trickery</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Trinity of Trickery</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Trickery</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Trinity of Trickery</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Trinity of Trickery</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Hey! I&#39;m over here. No, here, numbskull.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2197,38 +1445,20 @@ As a 7th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Death</div>
-<h3 class="sc-trait__name">Word of Death Deferred</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Word of Death Deferred</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Death</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You can stop death from taking your allies. When an ally within <a href="../../rule/combat/distance/">distance</a> of your <a href="../../feature/ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to instead have that ally fall unconscious until they regain <a href="../../rule/health/stamina/">Stamina</a>.</p>
 <p>Additionally, your abilities deal an extra 5 damage to <a href="../../rule/health/winded/">winded</a> creatures.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Fate</div>
-<h3 class="sc-trait__name">Word of Fate Denied</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Word of Fate Denied</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Fate</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>When an ally within 10 squares takes damage that would leave them <a href="../../rule/health/dying/">dying</a>, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · War</div>
-<h3 class="sc-trait__name">Your Triumphs Are Remembered</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Your Triumphs Are Remembered</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · War</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../rule/resource/victories/">Victory</a> after your <a href="../../rule/resource/victories/">Victories</a> are converted to <a href="../../rule/resource/experience/">XP</a>. This <a href="../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
@@ -2240,14 +1470,8 @@ As a 7th-level [censor](censor.md), you gain the following features.
 ### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Focused Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Focused Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>When you gain wrath at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 3 wrath instead of 2.</p>
 </div>
@@ -2256,14 +1480,8 @@ As a 7th-level [censor](censor.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">7</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -2276,14 +1494,8 @@ As an 8th-level [censor](censor.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-8/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one perk of your choice.</p>
 </div>
@@ -2292,59 +1504,31 @@ As an 8th-level [censor](censor.md), you gain the following features.
 ### 8th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-8/8th-level-order-feature"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">8th-Level Order Feature</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Order Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants you a feature, as shown on the 8th-Level Order Features table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">8th-Level Order Features Table</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Order Features Table</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../feature/censor/level-8/demonologist/">Demonologist</a></td></tr><tr><td>Oracle</td><td><a href="../../feature/censor/level-8/their-past-revealed/">Their Past Revealed</a></td></tr><tr><td>Paragon</td><td>Vow</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Exorcist</div>
-<h3 class="sc-trait__name">Demonologist</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Demonologist</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Exorcist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your <a href="../../rule/resource/renown/">Renown</a> as 2 higher than usual when dealing with demons, <a href="../../ancestry/devil/">devils</a>, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/power-roll/">power rolls</a> made against them and can use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../rule/combat/triggered-action/">triggered action</a> before an encounter begins.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Oracle</div>
-<h3 class="sc-trait__name">Their Past Revealed</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Their Past Revealed</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Oracle</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">test</a> to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 <a href="../../rule/health/stamina/">Stamina</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature · Paragon</div>
-<h3 class="sc-trait__name">Vow</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Vow</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor · Paragon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p>Your words take on the power of your deity, with all the authority that entails. If you convince a creature to take an oath, they can&#39;t break it for 7 days. If you take an oath, you can&#39;t break it for 7 days.</p>
 </div>
@@ -2356,26 +1540,13 @@ As an 8th-level [censor](censor.md), you gain the following features.
 ### 11-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-8/11-wrath-ability"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">11-Wrath Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Wrath Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Excommunication</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Excommunication</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You curse your foe to become a bane to their allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2396,14 +1567,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Hand of the Gods</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hand of the Gods</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You use your foe as a tool against your enemies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2424,14 +1588,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Pillar of Holy Fire</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pillar of Holy Fire</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your enemy&#39;s guilt fuels a holy flame that burns your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2452,14 +1609,7 @@ As an 8th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Your Allies Turn on You!</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Your Allies Turn on You!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You <a href="../../rule/combat/turn/">turn</a> your enemies&#39; ire to the target.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2490,14 +1640,8 @@ As a 9th-level [censor](censor.md), you gain the following features.
 ### Improved Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-9/improved-implement-of-wrath"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Improved Implement of Wrath</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Improved Implement of Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>The weapon you target with your <a href="../../feature/censor/level-6/implement-of-wrath/">Implement of Wrath</a> feature gains the following additional benefits:</p>
 <ul><li>The weapon&#39;s wielder and each ally <a href="../../rule/combat/adjacent/">adjacent</a> to them gain a +2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/general/saving-throw/">saving throws</a>.</li><li>At the end of each of the weapon wielder&#39;s <a href="../../rule/combat/turn/">turns</a>, each ally <a href="../../rule/combat/adjacent/">adjacent</a> to the wielder makes a <a href="../../rule/general/saving-throw/">saving throw</a> against each effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a>.</li><li>The weapon&#39;s wielder has corruption immunity 10.</li></ul>
@@ -2507,35 +1651,18 @@ As a 9th-level [censor](censor.md), you gain the following features.
 ### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">9th-Level Order Ability</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">9</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../feature/censor/level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Exorcist Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Exorcist Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Banish</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Banish</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You sever the target&#39;s tenuous connection to the world.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2556,14 +1683,7 @@ As a 9th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Terror Manifest</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Terror Manifest</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">&#34;I know what you fear.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -2587,23 +1707,12 @@ As a 9th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Oracle Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Oracle Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Blessing and a Curse</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessing and a Curse</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">The gods bless and damn in equal measure.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2620,14 +1729,7 @@ As a 9th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Fulfill Your Destiny</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fulfill Your Destiny</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You have looked at various futures, and only this one works.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -2647,23 +1749,12 @@ As a 9th-level [censor](censor.md), you gain the following features.
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">9th-Level Paragon Abilities</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Paragon Abilities</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Apostate</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Apostate</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You channel holy energy to seal an enemy&#39;s fate.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -2684,14 +1775,7 @@ As a 9th-level [censor](censor.md), you gain the following features.
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Edict of Unyielding Resolve</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Edict of Unyielding Resolve</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You and your allies are clad in shimmering armor.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
@@ -2717,14 +1801,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-10/characteristic-increase"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Characteristic Increase</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/presence/">Presence</a> scores each increase to 5.</p>
 </div>
@@ -2733,14 +1811,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Perk</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
@@ -2749,14 +1821,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Skill</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You gain one skill of your choice.</p>
 </div>
@@ -2765,14 +1831,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Templar {data-scc="mcdm.heroes.v1/feature.censor.level-10/templar"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Templar</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Templar</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You are the ultimate representation of your god&#39;s justice in the timescape. Whenever you use your <a href="../../feature/ability/censor/level-1/judgment/">Judgment</a> ability, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use a <a href="../conduit/">conduit</a> domain effect (see <a href="../../feature/conduit/level-1/domain-piety-and-effects/">Domain Piety and Effects</a> in the <a href="../conduit/">Conduit</a> section) associated with your chosen domain, or a domain you access with <a href="../../feature/censor/level-10/virtue/">virtue</a> (see below). If the effect calls for the use of your <a href="../../rule/character/intuition/">Intuition</a> score, you use your <a href="../../rule/character/presence/">Presence</a> score instead. If the effect uses your <a href="../conduit/">conduit</a> level, use your <a href="./">censor</a> level instead.</p>
 <p>Additionally, whenever you take a <a href="../../rule/resource/respite/">respite</a>, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your <a href="../../rule/resource/respite/">respite</a>, you and your allies can appear at any location in the timescape where someone worships your deity.</p>
@@ -2783,14 +1843,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Virtue {data-scc="mcdm.heroes.v1/feature.censor.level-10/virtue"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Virtue</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Virtue</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>You have an epic resource called <a href="../../feature/censor/level-10/virtue/">virtue</a>. Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you gain <a href="../../feature/censor/level-10/virtue/">virtue</a> equal to the <a href="../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../../feature/censor/level-10/virtue/">virtue</a> on your abilities as if it were wrath.</p>
 <p>Additionally, you can spend 3 <a href="../../feature/censor/level-10/virtue/">virtue</a> to access one of your deity&#39;s domains that you usually don&#39;t have access to. When you do, you can use that domain&#39;s features until you finish another <a href="../../rule/resource/respite/">respite</a>.</p>
@@ -2801,14 +1855,8 @@ As a 10th-level [censor](censor.md), you gain the following features.
 ### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor Feature</div>
-<h3 class="sc-trait__name">Wrath of the Gods</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wrath of the Gods</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>When you gain wrath at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 4 wrath instead of 3.</p>
 </div>

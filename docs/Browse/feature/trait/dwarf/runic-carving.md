@@ -12,13 +12,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Dwarf Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Runic Carving</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Runic Carving</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dwarf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:</p>
 <p><b>Detection:</b> Pick a specific type of creature (such as goblins or <a href="../../../../ancestry/human/">humans</a>) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the creature or object. You can change the type of creature or object as a maneuver.</p>

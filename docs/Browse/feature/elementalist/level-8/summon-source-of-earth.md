@@ -13,26 +13,13 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature</div>
-<h3 class="sc-trait__name">Summon Source of Earth</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">8</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summon Source of Earth</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
-<h3 class="sc-ability__name">Summon Source of Earth</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summon Source of Earth</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The ground rumbles as an elemental <a href="../../../../rule/combat/burst/">bursts</a> forth, ready to serve.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -49,11 +36,7 @@ type: feature
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
-<header class="sc-trait__head">
-<div class="sc-trait__titles">
-<h3 class="sc-trait__name">Source of Earth Statblock</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Source of Earth Statblock</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>&gt; &gt;<b>Source of Earth</b> &gt; &gt;| Elemental | - | Level 8 | BRUTE | EV - | &gt;|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:| &gt;| <b>2</b>&lt;br&gt;<a href="../../../../rule/character/size/">Size</a> | <b>6</b>&lt;br&gt;<a href="../../../../rule/character/speed/">Speed</a> | <b>45</b>&lt;br&gt;<a href="../../../../rule/health/stamina/">Stamina</a> | <b>5</b>&lt;br&gt;<a href="../../../../rule/character/stability/">Stability</a> | <b>5</b>&lt;br&gt;<a href="../../../common/main-actions/free-strike/">Free Strike</a> | &gt;| <b>-</b>&lt;br&gt;Immunities | <b><a href="../../../../movement/burrow/">Burrow</a></b>&lt;br&gt;Movement | | <b>-</b>&lt;br&gt;With Captain | <b>-</b>&lt;br&gt;Weaknesses | &gt;| <b>+3</b>&lt;br&gt;<a href="../../../../rule/character/might/">Might</a> | <b>+1</b>&lt;br&gt;<a href="../../../../rule/character/agility/">Agility</a> | <b>-5</b>&lt;br&gt;<a href="../../../../rule/character/reason/">Reason</a> | <b>-5</b>&lt;br&gt;<a href="../../../../rule/character/intuition/">Intuition</a> | <b>-3</b>&lt;br&gt;<a href="../../../../rule/character/presence/">Presence</a> | &gt; &gt;&gt; <b>Earthwalk</b> &gt;&gt; &gt;&gt; <a href="../../../../movement/difficult-terrain/">Difficult terrain</a> composed of earth and stone doesn&#39;t cost the source extra movement. &gt; &gt;&gt; <b>Tunneler</b> &gt;&gt; &gt;&gt; When the source burrows, they create a <a href="../../../../rule/character/size/">size</a> 2 tunnel. &gt; &gt;&gt; <b>Earth Harness</b> &gt;&gt; &gt;&gt; A creature that has the <a href="../../../ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a> ability can use it as a free action to meld into the source. &gt; &gt;&gt; <b>Boulder Bash</b> &gt;&gt; &gt;&gt; | <b><a href="../../../../rule/combat/melee/">Melee</a>, <a href="../../../../rule/combat/ranged/">Ranged</a>, <a href="../../../../rule/combat/strike/">Strike</a>, Weapon</b> | <b>Signature</b> | &gt;&gt; |-----------------------------------|------------------------------:| &gt;&gt; | <b>📏 <a href="../../../../rule/combat/melee/">Melee</a> 2 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</b> | <b>🎯 One creature or object</b> | &gt;&gt; &gt;&gt; <b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + 3:</b> &gt;&gt; &gt;&gt; - <b>≤11:</b> 5 damage; <a href="../../../../movement/forced-movement/">push</a> 3 &gt;&gt; - <b>12-16:</b> 9 damage; <a href="../../../../movement/forced-movement/">push</a> 4 &gt;&gt; - <b>17+:</b> 12 damage; <a href="../../../../movement/forced-movement/">push</a> 5</p>
 </div>

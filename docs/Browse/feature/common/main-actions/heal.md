@@ -11,13 +11,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Heal</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heal</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature who uses the <a href="../heal/">Heal</a> main action employs medicine or inspiring words to make an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature feel better and stay in the fight. The target creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a>, or can make a <a href="../../../../rule/general/saving-throw/">saving throw</a> against one effect they are suffering that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a>.</p>
 </div>

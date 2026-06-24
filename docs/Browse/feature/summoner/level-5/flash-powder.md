@@ -15,14 +15,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Summoner Circle Feature · Spring</div>
-<h3 class="sc-trait__name">Flash Powder</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">5</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flash Powder</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner Circle · Spring</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each ally that gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> from your <a href="../../level-1/pixie-dust/">Pixie Dust</a> feature also gains one of the following effects until the end of their next <a href="../../../../rule/combat/turn/">turn</a> (or for 10 minutes if used outside of combat):</p>
 <ul><li><b>Flight:</b> Their <a href="../../../../rule/character/speed/">speed</a> gains the <a href="../../../../movement/fly/">Fly</a> keyword.</li><li><b>Vanish:</b> They become invisible.</li><li><b>Water Weird:</b> As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> once per <a href="../../../../rule/combat/turn/">turn</a>, they can <a href="../../../../movement/teleport/">teleport</a> to a body of water within 5 squares of them.</li><li><b>Panacea:</b> They can end one <a href="../../../../rule/combat/condition/">condition</a> affecting them or stand up.</li></ul>

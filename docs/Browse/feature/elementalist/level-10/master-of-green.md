@@ -14,14 +14,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature · Green</div>
-<h3 class="sc-trait__name">Master of Green</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">10</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Master of Green</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Green</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
 <div class="sc-trait__body">
 <p>The number of <a href="../../../../rule/health/recoveries/">Recoveries</a> you have increases by 2, and each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can grant each ally who finished the <a href="../../../../rule/resource/respite/">respite</a> with you 2 additional <a href="../../../../rule/health/recoveries/">Recoveries</a>. Your allies&#39; additional <a href="../../../../rule/health/recoveries/">Recoveries</a> disappear when they finish their next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 <p>Additionally, as a <a href="../../../../rule/resource/respite/">respite</a> activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a <a href="../../../../rule/resource/respite/">respite</a> activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic <a href="../../../../rule/treasure/consumable/">consumables</a> on its own.</p>

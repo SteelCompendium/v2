@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist Feature</div>
-<h3 class="sc-trait__name">Persistent Magic</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Persistent Magic</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>Some of your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> have a persistent effect entry. For example, the <a href="../../../ability/elementalist/level-1/instantaneous-excavation/">Instantaneous Excavation</a> ability has an effect noted as &#34;Persistent 1.&#34; Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your <a href="../../../../rule/combat/turn/">turn</a> by an amount equal to the ability&#39;s persistent value, which enables the ability&#39;s persistent effect. All your active persistent abilities end at the end of the encounter.</p>
 <p>You can&#39;t maintain any abilities that would make you earn a negative amount of essence at the start of your <a href="../../../../rule/combat/turn/">turn</a>. You can stop maintaining an ability at any time (no action required).</p>

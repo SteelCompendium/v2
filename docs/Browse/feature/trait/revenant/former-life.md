@@ -12,13 +12,8 @@ type: trait
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Revenant Trait</div>
-<h3 class="sc-trait__name">Signature Trait: Former Life</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Trait: Former Life</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Revenant</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Choose the ancestry you were before you died. Your <a href="../../../../rule/character/size/">size</a> is that ancestry&#39;s <a href="../../../../rule/character/size/">size</a> and your <a href="../../../../rule/character/speed/">speed</a> is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry.</p>
 </div>

@@ -199,14 +199,7 @@ If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig i
 ###### Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
 
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Claw Dirt</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Claw Dirt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -410,13 +403,8 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 #### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Advance</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Advance</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>When a creature takes the <a href="../../../Browse/feature/common/move-actions/advance/">Advance</a> move action, they move a number of squares up to their <a href="../../../Browse/rule/character/speed/">speed</a>. They can break up this movement with their maneuver and main action however they wish.</p>
 </div>
@@ -425,13 +413,8 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 #### Disengage {data-scc="mcdm.heroes.v1/feature.common.move-actions/disengage"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Disengage</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Disengage</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>When a creature takes the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action, they can <a href="../../../Browse/movement/shifting/">shift</a> 1 square. Certain class features, kits, and other rules allow a creature to <a href="../../../Browse/movement/shifting/">shift</a> more than 1 square when they disengage. A creature who does so can break up their <a href="../../../Browse/movement/shifting/">shift</a> with their maneuver and main action however they wish.</p>
 </div>
@@ -440,13 +423,8 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 #### Ride {data-scc="mcdm.heroes.v1/feature.common.move-actions/ride"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Ride</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ride</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature can take the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action only while mounted on another creature (see <a href="../../../Browse/rule/combat/mounted-combat/">Mounted Combat</a> below). When a creature takes the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action, they cause their mount to move up to the mount&#39;s <a href="../../../Browse/rule/character/speed/">speed</a>, taking the rider with them. Alternatively, a creature can use the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action to have their mount use the <a href="../../../Browse/feature/common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a>. A creature can use the <a href="../../../Browse/feature/common/move-actions/ride/">Ride</a> move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider&#39;s maneuver and main action however they wish.</p>
 </div>
@@ -461,13 +439,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Aid Attack</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Aid Attack</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature who uses the <a href="../../../Browse/feature/common/maneuvers/aid-attack/">Aid Attack</a> maneuver chooses an enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them. The next <a href="../../../Browse/rule/dice/ability-roll/">ability roll</a> an ally makes against that enemy before the start of the aiding creature&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a> gains an <a href="../../../Browse/rule/dice/edge/">edge</a>.</p>
 </div>
@@ -476,13 +449,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Catch Breath</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Catch Breath</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature who uses the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver spends a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> and regains <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to their <a href="../../../Browse/rule/health/recoveries/">recovery value</a>. (See below for <a href="../../../Browse/rule/health/stamina/">Stamina</a>. See <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> in Chapter 1: <a href="../the-basics/">The Basics</a>.)</p>
 <p>A creature who is <a href="../../../Browse/rule/health/dying/">dying</a> (see <a href="../../../Browse/rule/health/dying/">Dying</a> and Death in <a href="../../../Browse/rule/health/stamina/">Stamina</a> below) can&#39;t use the <a href="../../../Browse/feature/common/maneuvers/catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> in other ways.</p>
@@ -492,25 +460,13 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Escape Grab maneuver">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Escape Grab</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Escape Grab</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature who is <a href="../../../Browse/condition/grabbed/">grabbed</a> by another creature, an object, or an effect (see <a href="../../../Browse/feature/common/maneuvers/grab/">Grab</a> below) can attempt to escape by using the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Escape Grab</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Escape Grab</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -536,25 +492,13 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Grab maneuver">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Grab</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grab</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Grab</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grab</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
@@ -580,13 +524,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Hide</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hide</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Using the <a href="../../../Browse/feature/common/maneuvers/hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a> for full details.</p>
 </div>
@@ -595,25 +534,13 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Knockback maneuver">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Knockback</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Knockback</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to <a href="../../../Browse/movement/forced-movement/">push</a> an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature away from them can attempt to shove that creature using the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
-<h3 class="sc-ability__name">Knockback</h3>
-</div>
-<div class="sc-ability__corner"></div>
-</div>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Knockback</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
@@ -639,13 +566,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Make or Assist a Test</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Make or Assist a Test</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Many <a href="../../../Browse/rule/test/test/">tests</a> are maneuvers if made in combat. Searching a chest with a <a href="../../../Browse/rule/character/reason/">Reason</a> <a href="../../../Browse/rule/test/test/">test</a>, picking a door&#39;s lock with an <a href="../../../Browse/rule/character/agility/">Agility</a> <a href="../../../Browse/rule/test/test/">test</a>, or lifting a portcullis with a <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">test</a> would all be maneuvers. Assisting a <a href="../../../Browse/rule/test/test/">test</a> is also a maneuver in combat (see Assist a <a href="../../../Browse/rule/test/test/">Test</a> in Chapter 9: <a href="../tests/">Tests</a>).</p>
 <p>Complex or time-consuming <a href="../../../Browse/rule/test/test/">tests</a> might require a main action if made in combat—or could take so long that they can&#39;t be made during combat at all. Other <a href="../../../Browse/rule/test/test/">tests</a> that take no time at all, such as a <a href="../../../Browse/rule/character/reason/">Reason</a> <a href="../../../Browse/rule/test/test/">test</a> to recall lore about mummies, are usually <a href="../../../Browse/rule/combat/free-maneuver/">free maneuvers</a> in combat. The Director has the final say regarding which <a href="../../../Browse/rule/test/test/">tests</a> can be made as maneuvers.</p>
@@ -655,13 +577,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Search for Hidden Creatures</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Search for Hidden Creatures</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>The <a href="../../../Browse/feature/common/maneuvers/search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a>).</p>
 </div>
@@ -670,13 +587,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Stand Up</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stand Up</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature can use the <a href="../../../Browse/feature/common/maneuvers/stand-up/">Stand Up</a> maneuver to stand up if they <a href="../../../Browse/condition/prone/">are prone</a>, ending that <a href="../../../Browse/rule/combat/condition/">condition</a>. Alternatively, they can use this maneuver to make a willing <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> prone creature stand up.</p>
 </div>
@@ -685,13 +597,8 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 #### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Use Consumable</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Use Consumable</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>Unless otherwise noted in its description, a creature can activate a <a href="../../../Browse/rule/treasure/consumable/">consumable</a> treasure such as a potion with the <a href="../../../Browse/feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a <a href="../../../Browse/rule/treasure/consumable/">consumable</a> treasure that benefits the user either to themself or to a willing <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature. See <a href="../../../Browse/rule/treasure/consumable/">Consumables</a> in Chapter 13: <a href="../rewards/">Rewards</a>.</p>
 </div>
@@ -708,13 +615,8 @@ You can convert your main action into a maneuver or a move action, allowing you 
 #### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Charge</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Charge</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>When a creature takes the <a href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action, they move up to their <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line, then make a <a href="../../../Browse/rule/combat/melee/">melee</a> <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> (see <a href="../../../Browse/feature/common/main-actions/free-strike/">Free Strikes</a> below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>.</p>
 <p>A creature can&#39;t move through <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> or <a href="../../../Browse/movement/shifting/">shift</a> when they charge. They can <a href="../../../Browse/movement/fly/">fly</a> or <a href="../../../Browse/movement/burrow/">burrow</a> as part of the <a href="../../../Browse/feature/common/main-actions/charge/">Charge</a> main action if they have that movement available to them, but they can&#39;t climb or swim while charging unless they can automatically use that movement at full <a href="../../../Browse/rule/character/speed/">speed</a>.</p>
@@ -724,13 +626,8 @@ You can convert your main action into a maneuver or a move action, allowing you 
 #### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Defend</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Defend</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>When a creature takes the <a href="../../../Browse/feature/common/main-actions/defend/">Defend</a> main action, <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../Browse/rule/dice/bane/">bane</a> until the start of their next <a href="../../../Browse/rule/combat/turn/">turn</a>. Additionally, you have a double <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> when called for to resist environmental effects or a creature&#39;s traits or abilities. A creature gains no benefit from this action while another creature is <a href="../../../Browse/condition/taunted/">taunted</a> by them (see <a href="../../../Browse/rule/combat/condition/">Conditions</a> in Chapter 5: <a href="../classes/">Classes</a>).</p>
 </div>
@@ -739,13 +636,8 @@ You can convert your main action into a maneuver or a move action, allowing you 
 #### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Free Strike</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Free Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature can use this main action to make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> (see Free Strikes below). Most of the time, you&#39;ll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature&#39;s stat block, but <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a> are available for when all else fails. For instance, a <a href="../../../Browse/class/fury/">fury</a> who has no other options for <a href="../../../Browse/rule/combat/ranged/">ranged</a> <a href="../../../Browse/rule/combat/strike/">strikes</a> might use the <a href="../../../Browse/feature/ability/common/ranged-weapon-free-strike/">Ranged Weapon Free Strike</a> ability with an improvised weapon when battling a <a href="../../../Browse/movement/fly/">flying</a> foe.</p>
 </div>
@@ -754,13 +646,8 @@ You can convert your main action into a maneuver or a move action, allowing you 
 #### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Feature</div>
-<h3 class="sc-trait__name">Heal</h3>
-</div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heal</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p>A creature who uses the <a href="../../../Browse/feature/common/main-actions/heal/">Heal</a> main action employs medicine or inspiring words to make an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature feel better and stay in the fight. The target creature can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> to regain <a href="../../../Browse/rule/health/stamina/">Stamina</a>, or can make a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> against one effect they are suffering that is ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a>.</p>
 </div>

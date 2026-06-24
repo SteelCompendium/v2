@@ -13,14 +13,8 @@ type: feature
 ---
 
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
-<header class="sc-trait__head">
-<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Tactician Feature</div>
-<h3 class="sc-trait__name">Field Arsenal</h3>
-</div>
-<div class="sc-trait__tag">Level <span class="num">1</span></div>
-</header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Field Arsenal</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
 <p>You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their <a href="../../../../rule/combat/signature-ability/">signature abilities</a>. Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../../../kit/shining-armor/">Shining Armor</a>, Sniper.)</p>
 <p>If both kits grant you the same benefit, you take one or the other and can&#39;t change your choice until you finish a <a href="../../../../rule/resource/respite/">respite</a>. (This usually means taking the higher of two <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>es.)</p>
