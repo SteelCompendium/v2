@@ -27,7 +27,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Demon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Hazard Support</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Demon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Hazard Support</div></div></header>
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">20 + your level</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
@@ -49,7 +49,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>
@@ -81,7 +81,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Relic Artillery</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Relic Artillery</div></div></header>
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">20 + your level</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
@@ -103,7 +103,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>
@@ -135,7 +135,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Fey</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Hazard Ambusher</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Fey</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Hazard Ambusher</div></div></header>
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">20 + your level</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
@@ -157,7 +157,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>
@@ -189,7 +189,7 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Undead</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Undead</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div></div></header>
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">Stamina</div><div class="fb__stat-v">20 + your level</div></div>
 <div class="fb__stat"><div class="fb__stat-l">Size</div><div class="fb__stat-v">2</div></div>
@@ -211,7 +211,7 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>

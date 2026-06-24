@@ -94,7 +94,7 @@ type: dynamic-terrain
 
 <div class="fb-wrap" data-role="controller">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Throne of A&#39;An</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="controller">Relic Controller</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 24</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Throne of A&#39;An</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="controller">Relic Controller</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 24</div></div></header>
 <div class="fb__flavor">The throne of A&#39;An, sun god of the Antical Protectorate in what is now Vanigar, retains some of her power from the age before she was slain to end the Age of Suns—and plunge the region into eternal winter.</div>
 <div class="fb__stats">
 <div class="fb__stat"><div class="fb__stat-l">EV</div><div class="fb__stat-v">24</div></div>

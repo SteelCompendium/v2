@@ -71,7 +71,7 @@ type: featureblock
 
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bugbear Commando Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bugbear Commando Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">
 <div class="fb__band--adv" data-level="4">
 <div class="fb__adv-head">Level 4 Advancement</div>

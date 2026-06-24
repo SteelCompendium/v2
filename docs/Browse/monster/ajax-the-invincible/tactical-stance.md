@@ -24,7 +24,7 @@ type: featureblock
 
 <div class="fb-wrap" data-role="feature" data-kind="feature">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactical Stance</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactical Stance</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__flavor">At the start of each round, Ajax chooses a new stance from one of the following options and gains its benefits:</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">

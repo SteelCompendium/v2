@@ -29,7 +29,7 @@ type: featureblock
 
 <div class="fb-wrap" data-role="malice" data-kind="malice">
 <article class="fb md-typeset">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Malice</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">War Dog Malice (Level 7+ Malice Features)</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
+<header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Malice</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">War Dog Malice (Level 7+ Malice Features)</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
 <div class="fb__flavor">At the start of any level 7 or higher war dog&#39;s turn, you can spend Malice to activate one of the following features.</div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
