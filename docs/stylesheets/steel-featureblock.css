@@ -76,6 +76,16 @@
   text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
 }
 
+/* The head DOM is now the shared 6-slot .sc-head (steel-cardhead.css) carrying the
+   .fb__head class — so the role-gradient band + centered diamond above still apply.
+   Re-attach the embossed name (was .fb__name) + the role-tinted type+role mini-title
+   (was the role-colored .fb__eyebrow) to the new head slots. */
+.md-typeset .fb__head .sc-head__left-primary {
+  font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+}
+.fb__head .sc-head__right-primary { color: var(--role); filter: brightness(1.15) saturate(1.1); }
+
 /* ── FLAVOR ── */
 .fb__flavor {
   font-family: var(--md-small-header-font); font-style: italic;

@@ -99,6 +99,16 @@
   font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0; letter-spacing:.01em; }
 
+/* The ability head is now the shared 6-slot .sc-head; the card's action-tinted crest
+   + 3px left border (its identity) stay on .sc-ability. Re-attach the embossed name
+   to the new name slot. `.sc-ability > .sc-head` scopes to the standalone ability
+   card head, not the nested statblock/featureblock sub-feature heads (those .sc-head
+   sit inside .sb__feat-head / .fb__feat-head, not as a direct child). */
+.md-typeset .sc-ability > .sc-head .sc-head__left-primary {
+  font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: .01em;
+}
+
 .sc-ability__corner { position: relative; display:flex; flex-direction:column; align-items:flex-end; }
 .sc-ability__cost { display:flex; align-items:center; gap:.3rem; white-space:nowrap; line-height:1;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing:.04em;

@@ -87,6 +87,19 @@
   text-shadow: var(--fx-emboss); margin: .25rem 0 0; letter-spacing: .01em;
 }
 
+/* The trait head is now the shared 6-slot .sc-head; re-attach the metal underline,
+   the action-tinted eyebrow + diamond, and the embossed name to the new slots.
+   `.sc-trait > .sc-head` scopes to a trait card's own head (main niche + nested
+   sub-trait niches) — not the nested ability plates (.sc-ability) inside it. */
+.sc-trait > .sc-head { position: relative; margin-bottom: .95rem; padding-bottom: .7rem; }
+.sc-trait > .sc-head::after { /* metal underline carrying a short accent segment */
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px;
+  background: linear-gradient(90deg, var(--act) 0 54px, var(--fx-metal-faint) 54px);
+}
+.sc-trait > .sc-head .sc-head__left-eyebrow { color: var(--act); }
+.sc-trait > .sc-head .sc-head__left-eyebrow.sc-head__slot--line::before { background: var(--act); }
+.md-typeset .sc-trait > .sc-head .sc-head__left-primary { color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
+
 /* right-hand tag (level / cost / "Signature" / point-buy) */
 .sc-trait__tag {
   justify-self: end; white-space: nowrap;

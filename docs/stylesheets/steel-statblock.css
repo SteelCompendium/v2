@@ -117,6 +117,19 @@
   color: var(--role); text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 .sb__ev { font-family: var(--md-code-font, monospace); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .12rem; }
+
+/* The head DOM is now the shared 6-slot .sc-head (steel-cardhead.css) carrying the
+   .sb__head class — so the role-gradient band, centered diamond, and sticky-reveal
+   view-timeline above still apply verbatim. These re-attach the embossed name + role
+   typography that used to live on .sb__name / .sb__role to the new head slots. */
+.md-typeset .sb__head .sc-head__left-primary {
+  font-size: 2.3rem; line-height: .95; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+}
+.sb__head .sc-head__right-primary {
+  font-size: 1.4rem; color: var(--role);
+  text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
+}
 /* Summoner-book gametime summon cost (no "EV" prefix) — a short phrase like
    "7 essence for two minions"; keep it on one line (the card has room to spare). */
 .sb__cost { text-transform: none; white-space: nowrap; }
@@ -552,8 +565,8 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    ════════════════════════════════════════════════════════════ */
 @media (max-width: 34em) {
   .sb-wrap { --pad: .85rem; }
-  .md-typeset .sb__name { font-size: 1.85rem; }
-  .sb__head-row { flex-wrap: wrap; }
+  .md-typeset .sb__head .sc-head__left-primary { font-size: 1.85rem; }
+  .sb__head { flex-wrap: wrap; }
   .sb__defenses { grid-template-columns: repeat(3, 1fr); }
   .sb__meta { grid-template-columns: 1fr; }
   [data-sb-meta="ledger"] .sb__meta { gap: 0; }
@@ -635,9 +648,9 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* header — tighter than the full card; collapses on the x-axis as-is */
 .sb-prev .sb__head { padding: .5rem var(--pad) .5rem; margin-bottom: .65rem; }
-.sb-prev.sb-wrap .md-typeset .sb__name { font-size: 1.4rem; }
-.sb-prev .sb__role { font-size: 1.05rem; }
-.sb-prev .sb__level, .sb-prev .sb__ev { font-size: .76rem; }
+.sb-prev.sb-wrap .md-typeset .sb__head .sc-head__left-primary { font-size: 1.4rem; }
+.sb-prev .sb__head .sc-head__right-primary { font-size: 1.05rem; }
+.sb-prev .sb__head .sc-head__right-eyebrow, .sb-prev .sb__head .sc-head__right-deck { font-size: .76rem; }
 
 /* defenses — same 5-up grid, smaller faces */
 .sb-prev .sb__defenses { padding: .25rem var(--pad) .5rem; gap: .3rem; }
