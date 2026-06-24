@@ -25,7 +25,7 @@ type: feature
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Advanced Tactics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Advanced Tactics</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician · Insurgent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Your leadership aids an ally.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -43,7 +43,7 @@ type: feature
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any <a href="../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../rule/character/potency/">potency</a> is increased by 1.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Overwatch</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Overwatch</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician · Mastermind</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Under your direction, an ally waits for just the right moment to strike.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -61,7 +61,7 @@ type: feature
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../condition/slowed/">slowed</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>).</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Parry</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Parry</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician · Vanguard</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">Your quick reflexes cost an enemy the precision they seek.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">

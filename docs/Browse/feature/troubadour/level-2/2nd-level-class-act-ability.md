@@ -24,7 +24,7 @@ type: feature
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Guest Star</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Guest Star</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Auteur</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">We offered them a percentage of the gross. So they&#39;re working for free!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -37,7 +37,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Twist at the End</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Twist at the End</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Auteur</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You didn&#39;t see that coming, did you?!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -58,7 +58,7 @@ type: feature
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Classic Chandelier Stunt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Classic Chandelier Stunt</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Duelist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Audiences love this bit.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -71,7 +71,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">En Garde!</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">En Garde!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Duelist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Wait, it&#39;s... Guard! <a href="../../../../rule/combat/turn/">Turn</a>! Parry! Dodge! Spin! Thrust! Ha!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
@@ -100,7 +100,7 @@ type: feature
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Encore</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Encore</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Virtuoso</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Again! Again!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -113,7 +113,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tough Crowd</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tough Crowd</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Virtuoso</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your fans don&#39;t seem to like the opening act...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
