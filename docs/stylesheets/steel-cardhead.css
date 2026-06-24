@@ -4,21 +4,71 @@
    Tokens come from palette.css + steel-redesign.css (load order: after
    steel-settings.css, before steel-ability-cards.css). */
 
-.sc-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
-.sc-head__stack { display: flex; align-items: start; gap: .9rem; min-width: 0; }
-.sc-head__col--left { display: flex; flex-direction: column; min-width: 0; }
-.sc-head__rail { display: flex; flex-direction: column; align-items: flex-end; text-align: right; flex: 0 0 auto; }
+/* LAYOUT — a real 3-column grid (crest · left text · right rail) over three shared
+   lanes (eyebrow / primary / deck). Making the lanes grid ROWS rather than two
+   independently-stacked flex columns is load-bearing: a lane keeps its height across
+   BOTH columns, so when one side omits a slot (e.g. an ability card has no
+   right-eyebrow) the lane is still reserved by the other side and the two primaries
+   stay on the same line, instead of the shorter side collapsing upward. */
+.sc-head {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-rows: auto auto auto;
+  align-items: center;     /* center each slot within its lane */
+  row-gap: .12rem;         /* the consistent breath above + below the primary */
+}
+/* the stack / col / rail wrappers only grouped slots for the old flex layout —
+   dissolve them so every slot becomes a direct grid item placed on its own lane.
+   (Flat Feature Style re-solidifies them to `display: inline`; see below.) */
+.sc-head__stack,
+.sc-head__col,
+.sc-head__rail { display: contents; }
+
+/* crest / icon → column 1, spanning every lane, vertically centered beside the text. */
+.sc-head .sc-crest,
+.sc-head .sb__feat-icon { grid-column: 1; grid-row: 1 / -1; align-self: center; margin-right: .9rem; }
+
+/* lane placement: eyebrow (row 1) · primary (row 2) · deck (row 3). */
+.sc-head__left-eyebrow  { grid-area: 1 / 2; }
+.sc-head__left-primary  { grid-area: 2 / 2; }
+.sc-head__left-deck     { grid-area: 3 / 2; }
+.sc-head__right-eyebrow { grid-area: 1 / 3; }
+.sc-head__right-primary { grid-area: 2 / 3; }
+.sc-head__right-deck    { grid-area: 3 / 3; }
+.sc-head__right-eyebrow,
+.sc-head__right-primary,
+.sc-head__right-deck { justify-self: end; text-align: right; margin-left: 1.5rem; }
+/* Bottom-align both primaries in the row, so a smaller right title (e.g. a
+   statblock's role beside a much larger name) drops down to sit by the deck
+   instead of floating centered in the tall primary row — which otherwise left a
+   big gap above the deck on the shorter side. */
+.sc-head__left-primary,
+.sc-head__right-primary { align-self: end; }
+
+/* Statblock/featureblock sub-feature heads wrap .sc-head in a .sb__feat-head /
+   .fb__feat-head that is itself a flex/grid (a leftover from the pre-.sc-head DOM
+   that had several head children). .sc-head is now its sole child, so it lands in
+   the wrapper's first track at content width and the right rail stops short of the
+   card edge. Make the head fill the wrapper — grid-column spans the grid variant,
+   flex grows the flex variant; the inapplicable one is simply ignored. */
+.sb__feat-head > .sc-head,
+.fb__feat-head > .sc-head { grid-column: 1 / -1; flex: 1; min-width: 0; }
 
 /* lanes share emphasis on both sides. eyebrow = small context (small-caps),
-   primary = the headline, deck = quiet detail. */
-.sc-head__slot { margin: 0; min-width: 0; }
+   primary = the headline, deck = quiet detail. The .md-typeset prefix on the
+   margin reset out-specifies Material's `.md-typeset h2/h3` (the name slots are
+   real headings), whose top/bottom margins otherwise leak into the lane. */
+.sc-head__slot { min-width: 0; }
+.md-typeset .sc-head__slot { margin-block: 0; }   /* kill ONLY the leaked vertical
+   h2/h3 margins — margin-inline carries the right rail's gutter (above) and must survive. */
 
 /* --line: a text line. The eyebrow carries the ◆ marker via ::before. */
 .sc-head__slot--line { font-family: var(--md-small-header-font); }
 .sc-head__left-eyebrow.sc-head__slot--line,
 .sc-head__right-eyebrow.sc-head__slot--line {
   font-variant: small-caps; text-transform: lowercase; letter-spacing: .07em;
-  font-size: .9rem; color: var(--md-default-fg-color--light); display: flex; align-items: center; gap: .5rem;
+  font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
+  display: flex; align-items: center; gap: .5rem;
 }
 .sc-head__left-eyebrow.sc-head__slot--line::before {
   content: ""; width: .5rem; height: .5rem; transform: rotate(45deg);
@@ -26,7 +76,8 @@
 }
 .sc-head__left-deck.sc-head__slot--line,
 .sc-head__right-deck.sc-head__slot--line {
-  font-variant: small-caps; letter-spacing: .05em; font-size: .82rem; color: var(--md-default-fg-color--light);
+  font-variant: small-caps; letter-spacing: .05em; font-size: .82rem; line-height: 1.1;
+  color: var(--md-default-fg-color--light);
 }
 
 /* the name (left-primary) and the right mini-title: the two "title" slots. */
