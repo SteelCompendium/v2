@@ -16,23 +16,28 @@ type: kit
 
 ---
 
-If you want to be fast in a fight, then [Martial Artist](martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed [strikes](../rule/combat/strike.md) against opponents, and allows you to be the ultimate skirmisher.
+<section class="sc-kit sc-fil">
+<header class="sc-head sc-kit__head"><div class="sc-head__stack"><span class="sc-crest sc-kit__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Martial Kit</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Martial Artist</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<div class="sc-kit__flavor">If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.</div>
+<div class="sc-kit__band"><div class="sc-kit__band-head">Equipment</div>
+<div class="sc-kit__equip">You wear no armor and wield only your unarmed <a href="../rule/combat/strike/">strikes</a>.</div></div>
+<div class="sc-kit__band"><div class="sc-kit__band-head">Kit Bonuses</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina per Echelon</div></div>
+    <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+  </div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
+  </div>
+</div>
+<div class="sc-kit__band sc-kit__band--sig"><div class="sc-kit__band-head">Signature Ability</div></div>
+</section>
 
-## Equipment
-
-You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md).
-
-## Kit Bonuses
-
-**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../rule/general/echelon.md)
-
-**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3
-
-**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
-
-**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
-
-## Signature Ability
 
 ### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
 

@@ -16,23 +16,28 @@ type: kit
 
 ---
 
-The [Warrior Priest](warrior-priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
+<section class="sc-kit sc-fil">
+<header class="sc-head sc-kit__head"><div class="sc-head__stack"><span class="sc-crest sc-kit__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Magic Kit</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Warrior Priest</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
+<div class="sc-kit__flavor">The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.</div>
+<div class="sc-kit__band"><div class="sc-kit__band-head">Equipment</div>
+<div class="sc-kit__equip">You wear heavy armor and wield a light weapon.</div></div>
+<div class="sc-kit__band"><div class="sc-kit__band-head">Kit Bonuses</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat"><div class="v">+9</div><div class="l">Stamina per Echelon</div></div>
+    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Disengage</div></div>
+  </div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
+    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
+  </div>
+</div>
+<div class="sc-kit__band sc-kit__band--sig"><div class="sc-kit__band-head">Signature Ability</div></div>
+</section>
 
-## Equipment
-
-You wear heavy armor and wield a light weapon.
-
-## Kit Bonuses
-
-**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../rule/general/echelon.md)
-
-**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
-
-**[Stability](../rule/character/stability.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
-
-**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1/+1/+1
-
-## Signature Ability
 
 ### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
 
