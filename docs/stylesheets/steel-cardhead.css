@@ -24,9 +24,12 @@
 .sc-head__col,
 .sc-head__rail { display: contents; }
 
-/* crest / icon → column 1, spanning every lane, vertically centered beside the text. */
+/* crest / icon → column 1, spanning every lane, vertically centered beside the text.
+   .fb__feat-icon is the featureblock twin of .sb__feat-icon (emoji/glyph, no shield);
+   without it here the fb icon auto-places into row 1 and the name drops to row 2. */
 .sc-head .sc-crest,
-.sc-head .sb__feat-icon { grid-column: 1; grid-row: 1 / -1; align-self: center; margin-right: .9rem; }
+.sc-head .sb__feat-icon,
+.sc-head .fb__feat-icon { grid-column: 1; grid-row: 1 / -1; align-self: center; margin-right: .9rem; }
 
 /* lane placement: eyebrow (row 1) · primary (row 2) · deck (row 3). */
 .sc-head__left-eyebrow  { grid-area: 1 / 2; }
@@ -90,12 +93,15 @@
   font-size: 1.35rem; line-height: 1.04; color: var(--role, var(--md-default-fg-color));
 }
 
-/* --chip: a compact pill. */
+/* --chip: a compact pill. inline-flex + line-height 1 so the small-caps label is
+   optically centered and the pill hugs it height-wise — Material's ~1.6 body
+   line-height otherwise inflates the chip and floats the caps high. */
 .sc-head__slot--chip {
+  display: inline-flex; align-items: center; justify-content: center; text-align: center;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
-  letter-spacing: .04em; font-size: .82rem; color: var(--md-default-fg-color--light);
+  letter-spacing: .04em; font-size: .82rem; line-height: 1; color: var(--md-default-fg-color--light);
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
-  padding: .05rem .4rem; margin-top: .12rem;
+  padding: .12rem .42rem; margin-top: .14rem;
 }
 
 /* Mobile: wrap busy slots to a second line; never truncate. */
@@ -116,12 +122,25 @@
 [data-fb-featstyle="flat"] .fb__feat .sc-head__rail { display: inline; }
 [data-sb-featstyle="flat"] .sb__feat .sc-head__col--left,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__col--left { display: inline; }
+/* the name itself: inline the heading and drop the card-tier display size/caps so it
+   reads as a book run-in — "Crimson Embrace · Signature · Main action" on one line.
+   (Without this the .md-typeset h3 stays block and breaks the line, see the report.) */
+[data-sb-featstyle="flat"] .sb__feat .sc-head__left-primary,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__left-primary {
+  display: inline; font-size: 1.08rem; line-height: inherit;
+  text-transform: none; letter-spacing: .01em;
+}
+/* the crest shield / action glyph belongs to the card layout; a flat (book) list
+   states the action as text in the deck instead, so suppress both icons here. */
+[data-sb-featstyle="flat"] .sb__feat .sc-crest,
+[data-sb-featstyle="flat"] .sb__feat .sb__feat-icon,
+[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { display: none; }
 [data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini,
 [data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip {
-  display: inline; border: 0; padding: 0; font-size: inherit; color: var(--md-default-fg-color--light);
-  text-transform: none; font-variant: normal;
+  display: inline; border: 0; padding: 0; margin-left: 0; font-size: inherit;
+  color: var(--md-default-fg-color--light); text-transform: none; font-variant: normal;
 }
 [data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini::before,
 [data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip::before,
