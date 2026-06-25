@@ -118,32 +118,30 @@
   letter-spacing: 0.08em;
   color: var(--md-default-fg-color--light);
 }
-.sc-set__group--fonts > summary,
-.sc-set__group--sb > summary {
+details.sc-set__group > summary {
   cursor: pointer;
   list-style: none;
 }
-.sc-set__group--fonts > summary::-webkit-details-marker,
-.sc-set__group--sb > summary::-webkit-details-marker { display: none; }
-.sc-set__group--fonts > summary::after,
-.sc-set__group--sb > summary::after {
+details.sc-set__group > summary::-webkit-details-marker { display: none; }
+details.sc-set__group > summary::after {
   content: " \25B8";
   color: var(--fx-metal, var(--md-default-fg-color--lighter));
 }
-.sc-set__group--fonts[open] > summary::after,
-.sc-set__group--sb[open] > summary::after { content: " \25BE"; }
+details.sc-set__group[open] > summary::after { content: " \25BE"; }
 
-/* ── Statblock group: clearly-isolated bordered box (collapsible) ── */
-.sc-set__group--sb {
+/* ── Collapsible groups (Statblocks / Featureblocks / Fonts): each is a
+   clearly-isolated bordered box. Non-collapsible groups (Reading, Page
+   width) are <div>, so this <details>-scoped rule leaves them untouched. ── */
+details.sc-set__group {
   border: 1px solid var(--fx-metal-line, var(--md-default-fg-color--lightest));
   border-radius: 0.55rem;
   padding: 0.75rem 0.85rem 0.85rem;
   background: rgba(0, 0, 0, 0.14);
 }
-[data-md-color-scheme="default"] .sc-set__group--sb { background: rgba(0, 0, 0, 0.02); }
+[data-md-color-scheme="default"] details.sc-set__group { background: rgba(0, 0, 0, 0.02); }
 /* collapsed: the summary is the whole box — drop its heading margin */
-.sc-set__group--sb:not([open]) { padding-bottom: 0.75rem; }
-.sc-set__group--sb:not([open]) > summary { margin-bottom: 0; }
+details.sc-set__group:not([open]) { padding-bottom: 0.75rem; }
+details.sc-set__group:not([open]) > summary { margin-bottom: 0; }
 
 /* sub-fieldsets inside the statblock box (Stats / Features / Web extras) */
 .sc-set__sub {
