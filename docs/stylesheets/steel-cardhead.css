@@ -110,39 +110,28 @@
   .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
 }
 
-/* Flat-list Feature Style hook: sub-feature heads inline name · cost · usage.
-   Card-tier heads are unaffected (they don't set these data-attrs on .sc-head). */
-[data-sb-featstyle="flat"] .sb__feat .sc-head,
-[data-fb-featstyle="flat"] .fb__feat .sc-head {
-  display: inline; gap: 0;
-}
-[data-sb-featstyle="flat"] .sb__feat .sc-head__stack,
-[data-sb-featstyle="flat"] .sb__feat .sc-head__rail,
+/* Flat-list Feature Style hook — FEATUREBLOCKS only: their sub-feature heads inline
+   to a book run-in "name · cost · usage". Statblock features deliberately KEEP the
+   .sc-head grid in flat mode (little icon + name + right-aligned cost chip — see
+   statblock_card.go); only their container flattens (steel-statblock.css). Card-tier
+   heads are unaffected (they don't set these data-attrs on .sc-head). */
+[data-fb-featstyle="flat"] .fb__feat .sc-head { display: inline; gap: 0; }
 [data-fb-featstyle="flat"] .fb__feat .sc-head__stack,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__rail { display: inline; }
-[data-sb-featstyle="flat"] .sb__feat .sc-head__col--left,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__col--left { display: inline; }
 /* the name itself: inline the heading and drop the card-tier display size/caps so it
-   reads as a book run-in — "Crimson Embrace · Signature · Main action" on one line.
-   (Without this the .md-typeset h3 stays block and breaks the line, see the report.) */
-[data-sb-featstyle="flat"] .sb__feat .sc-head__left-primary,
+   reads as a run-in instead of the .md-typeset h3 breaking to its own block line. */
 [data-fb-featstyle="flat"] .fb__feat .sc-head__left-primary {
   display: inline; font-size: 1.08rem; line-height: inherit;
   text-transform: none; letter-spacing: .01em;
 }
-/* the crest shield / action glyph belongs to the card layout; a flat (book) list
-   states the action as text in the deck instead, so suppress both icons here. */
-[data-sb-featstyle="flat"] .sb__feat .sc-crest,
-[data-sb-featstyle="flat"] .sb__feat .sb__feat-icon,
-[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { display: none; }
-[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini,
-[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip,
+/* keep the action glyph in the run-in too (icons stay present in flat); tighten the
+   card-grid column gutter down to an inline word-gap before the name. */
+[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { margin-right: .4rem; }
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip {
   display: inline; border: 0; padding: 0; margin-left: 0; font-size: inherit;
   color: var(--md-default-fg-color--light); text-transform: none; font-variant: normal;
 }
-[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--mini::before,
-[data-sb-featstyle="flat"] .sb__feat .sc-head__slot--chip::before,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini::before,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip::before { content: " · "; }

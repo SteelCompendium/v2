@@ -278,15 +278,11 @@
 .md-typeset .sb__feat-name { font-size: 1.32rem; margin: 0; }
 .sb__feat-corner { margin-left: auto; align-self: baseline; display: flex; flex-direction: column; align-items: flex-end; }
 
-/* ── crest mode (the only one with a crest + eyebrow) ── */
-[data-sb-kwusage="crest"] .sb__feat-head { display: grid; grid-template-columns: auto 1fr auto; gap: .75rem; align-items: start; }
-[data-sb-kwusage="crest"] .sb__feat-crest { display: inline-grid; width: 2.7rem; height: 3.05rem; }
-[data-sb-kwusage="crest"] .sb__feat-crest .sb__feat-glyph { font-size: 1.1rem; color: var(--act); }
-[data-sb-kwusage="crest"] .sb__feat-icon { display: none; }
-[data-sb-kwusage="crest"] .sb__feat-eyebrow { display: flex; }
-[data-sb-kwusage="crest"] .sb__feat-titles { align-self: end; }
-[data-sb-kwusage="crest"] .sb__feat-corner { margin-left: 0; }
-[data-sb-kwusage="crest"] .md-typeset .sb__feat-name { font-size: 1.4rem; }
+/* The decorative crest shield on sub-feature heads is retired: statblock features
+   now always show the little action glyph (the .sb__feat-icon, placed in the
+   .sc-head crest column), never the shield — so the icon is no longer hidden by a
+   kwusage="crest" override. The "Crest" keyword-display preference no longer adds a
+   feature emblem (see settings-panel.js). */
 
 /* ════════════════════════════════════════════════════════════
    FEATURE FRAME — data-sb-featstyle: card | flat
