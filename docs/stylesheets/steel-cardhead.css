@@ -41,12 +41,12 @@
 .sc-head__right-eyebrow,
 .sc-head__right-primary,
 .sc-head__right-deck { justify-self: end; text-align: right; margin-left: 1.5rem; }
-/* Bottom-align both primaries in the row, so a smaller right title (e.g. a
-   statblock's role beside a much larger name) drops down to sit by the deck
-   instead of floating centered in the tall primary row — which otherwise left a
-   big gap above the deck on the shorter side. */
-.sc-head__left-primary,
-.sc-head__right-primary { align-self: end; }
+/* The name (left primary) bottom-aligns in its row so it sits tight above the
+   deck. The right mini-title / cost (Solo, Signature, Hexer…) is OPTICALLY
+   CENTERED against the much larger name rather than dropped to its baseline —
+   bottom-aligning left it reading low beside the tall name. */
+.sc-head__left-primary { align-self: end; }
+.sc-head__right-primary { align-self: center; }
 
 /* Statblock/featureblock sub-feature heads wrap .sc-head in a .sb__feat-head /
    .fb__feat-head that is itself a flex/grid (a leftover from the pre-.sc-head DOM
@@ -56,6 +56,18 @@
    flex grows the flex variant; the inapplicable one is simply ignored. */
 .sb__feat-head > .sc-head,
 .fb__feat-head > .sc-head { grid-column: 1 / -1; flex: 1; min-width: 0; }
+
+/* Sub-feature action icon → align to the NAME, not the full head. The shared
+   crest rule above spans the icon across all three lanes (grid-row: 1 / -1) and
+   centers it — correct for the tall main-card crest, but wrong for a sub-feature's
+   little action glyph: when the RIGHT rail carries a deck slot (e.g. a featureblock
+   feature's usage chip under its cost mini) row 3 fills, the grid grows, and a
+   full-height-centered icon drops ~12px below the single-line name. Sub-feature
+   heads only ever have a left PRIMARY (no left eyebrow/deck — see statblock_card.go
+   / featureblock_page.go), so pin the icon to the primary row and center it there:
+   it now tracks the name on one line regardless of what the right rail holds. */
+.sb__feat-head .sb__feat-icon,
+.fb__feat-head .fb__feat-icon { grid-row: 2; align-self: center; }
 
 /* lanes share emphasis on both sides. eyebrow = small context (small-caps),
    primary = the headline, deck = quiet detail. The .md-typeset prefix on the
@@ -74,12 +86,12 @@
   display: flex; align-items: center; gap: .5rem;
 }
 .sc-head__left-eyebrow.sc-head__slot--line::before {
-  content: ""; width: .5rem; height: .5rem; transform: rotate(45deg);
+  content: ""; width: .36rem; height: .36rem; transform: rotate(45deg);
   background: var(--fx-metal); flex: 0 0 auto;
 }
 .sc-head__left-deck.sc-head__slot--line,
 .sc-head__right-deck.sc-head__slot--line {
-  font-variant: small-caps; letter-spacing: .05em; font-size: .82rem; line-height: 1.1;
+  font-variant: small-caps; letter-spacing: .05em; font-size: .92rem; line-height: 1.1;
   color: var(--md-default-fg-color--light);
 }
 
@@ -99,9 +111,9 @@
 .sc-head__slot--chip {
   display: inline-flex; align-items: center; justify-content: center; text-align: center;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
-  letter-spacing: .04em; font-size: .82rem; line-height: 1; color: var(--md-default-fg-color--light);
+  letter-spacing: .04em; font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
-  padding: .12rem .42rem; margin-top: .14rem;
+  padding: .14rem .46rem;
 }
 
 /* Mobile: wrap busy slots to a second line; never truncate. */
@@ -127,7 +139,7 @@
 }
 /* keep the action glyph in the run-in too (icons stay present in flat); tighten the
    card-grid column gutter down to an inline word-gap before the name. */
-[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { margin-right: .4rem; }
+[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { margin-right: .4rem; vertical-align: -0.12em; }
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini,
 [data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip {
   display: inline; border: 0; padding: 0; margin-left: 0; font-size: inherit;
