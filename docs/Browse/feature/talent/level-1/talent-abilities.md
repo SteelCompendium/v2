@@ -24,7 +24,7 @@ type: feature
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose two <a href="../../../../rule/combat/signature-ability/">signature abilities</a> from the following options. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Entropic Bolt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Entropic Bolt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You advance an enemy&#39;s age for a moment.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -49,7 +49,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hoarfrost</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hoarfrost</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You blast a foe with a pulse of cold energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Cryokinesis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -70,7 +70,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Incinerate</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Incinerate</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The air erupts into a column of smokeless flame.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -95,7 +95,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kinetic Grip</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kinetic Grip</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You lift and hurl your foe away from you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
@@ -116,7 +116,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kinetic Pulse</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kinetic Pulse</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The force of your mind hurls enemies backward.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
@@ -137,7 +137,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Materialize</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Materialize</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You picture an object in your mind and give it form—directly above your opponent&#39;s head.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Resopathy</span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -162,7 +162,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Optic Blast</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Optic Blast</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your eyes emit rays of powerful enervating force.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -187,7 +187,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spirit Sword</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spirit Sword</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You form a blade of mind energy and stab your target, invigorating yourself.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -226,7 +226,7 @@ type: feature
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Awe</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Awe</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You project psionic energy out to a creature and take on a new visage in their mind.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
@@ -247,7 +247,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Choke</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Choke</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You crush a foe in a telekinetic grip.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -268,7 +268,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Precognition</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Precognition</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You give a target a glimpse into the future so that they&#39;re ready for what comes next.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip"><a href="../../../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
@@ -281,7 +281,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Smolder</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Smolder</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Smoke flows from your enemy like tears as their skin begins to blacken and flake.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../../rule/combat/strike/">Strike</a></span></div>
 <div class="sc-ability__rail">
@@ -308,7 +308,7 @@ type: feature
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flashback</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flashback</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">The target is thrown several seconds back through time and gets to do it all again.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -325,7 +325,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inertia Soak</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inertia Soak</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your psionic energy surrounds the target and pushes everything else away from them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
@@ -342,7 +342,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Iron</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Iron</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">The target&#39;s skin turns to hard, dark metal, impenetrable and dense.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span></div>
 <div class="sc-ability__rail">
@@ -359,7 +359,7 @@ type: feature
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perfect Clarity</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perfect Clarity</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You clear the mind of nothing but the goal.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">

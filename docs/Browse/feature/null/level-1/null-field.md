@@ -19,7 +19,7 @@ type: feature
 <p>You project a psionic field of order around your body, dampening the effects of <a href="../../../../rule/general/supernatural/">supernatural</a> abilities harmful to you and your allies.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Null Field</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Null Field</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You project an <a href="../../../../rule/combat/aura/">aura</a> that dampens the power of your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">

@@ -20,7 +20,7 @@ type: feature
 <p>You have the following maneuver.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minion Bridge</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minion Bridge</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your minions do everything in their power to form a safe path for you to cross.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
