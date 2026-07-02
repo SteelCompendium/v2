@@ -82,7 +82,7 @@ and YAML, and published on GitHub.
     consolidated [data-unified](https://github.com/SteelCompendium/data-unified) repo to the
     left.
 
-    <details markdown>
+    <details>
     <summary>Show the legacy repos</summary>
 
     *Per-book (now folded into `data-unified`):*
