@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Hands of the Maker {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker&#34; data-subclass=&#34;creation&#34;}&#10;&#10;&#10;*You craft objects with the power of your mind.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You create a mundane object of [size](../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Presence](../../../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required)."></template>

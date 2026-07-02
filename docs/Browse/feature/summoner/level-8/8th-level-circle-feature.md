@@ -28,3 +28,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your circle grants you a feature as shown on the 8th-Level Summoner Circle Features table.&#10;&#10;### 8th-Level Summoner Circle Features&#10;&#10;| Circle | Feature |&#10;|--------|---------|&#10;| Blight | Abyssal Evolution |&#10;| Graves | Kill the Pain |&#10;| Spring | Celestial Grace |&#10;| Storms | Control the Elements |"></template>

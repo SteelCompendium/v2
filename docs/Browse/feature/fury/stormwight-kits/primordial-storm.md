@@ -18,3 +18,6 @@ type: feature
 <p>Each stormwight kit is associated with a <a href="../primordial-storm/">primordial storm</a>, which channels a specific <a href="../../../../rule/damage/damage-type/">damage type</a> used by some of your abilities.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific [damage type](../../../rule/damage/damage-type.md) used by some of your abilities."></template>

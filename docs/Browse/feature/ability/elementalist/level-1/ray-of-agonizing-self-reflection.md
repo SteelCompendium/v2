@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You inflict pain and doubt in equal measure.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** | &#10;|---------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R corruption damage; R &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 4 + R corruption damage; R &lt; AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 6 + R corruption damage; R &lt; STRONG, [slowed](../../../../condition/slowed.md) (save ends)"></template>

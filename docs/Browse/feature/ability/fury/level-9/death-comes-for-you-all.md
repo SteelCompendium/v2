@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to be hurled through an object, that target takes an extra 10 damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You use your weapon to create a destructive shockwave.*&#10;&#10;| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage; [push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 10 damage; [push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 15 damage; [push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage."></template>

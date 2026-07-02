@@ -19,3 +19,6 @@ type: feature
 <p>When you roll for piety at the start of your <a href="../../../../rule/combat/turn/">turn</a> in combat and you pray, you gain 1 additional piety.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you roll for piety at the start of your [turn](../../../rule/combat/turn.md) in combat and you pray, you gain 1 additional piety."></template>

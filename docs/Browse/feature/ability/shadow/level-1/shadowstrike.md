@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> twice.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*They have no idea what the college taught you.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice."></template>

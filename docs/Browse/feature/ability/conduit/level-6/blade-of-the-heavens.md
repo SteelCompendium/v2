@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A greatsword streams down from the sky, threatening to pin your foe.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 8 + I damage; A &lt; WEAK, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 12 + I damage; A &lt; AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 16 + I damage; A &lt; STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)"></template>

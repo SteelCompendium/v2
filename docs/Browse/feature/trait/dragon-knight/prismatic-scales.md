@@ -19,3 +19,6 @@ type: trait
 <p>Select one <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Select one [damage immunity](../../../rule/damage/damage-immunity.md) granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate."></template>

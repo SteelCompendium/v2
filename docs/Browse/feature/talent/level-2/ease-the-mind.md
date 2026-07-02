@@ -20,3 +20,6 @@ type: feature
 <p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any <a href="../../../../rule/general/npc/">NPC</a> who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any [NPC](../../../rule/general/npc.md) who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5)."></template>

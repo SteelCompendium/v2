@@ -20,3 +20,6 @@ type: feature
 <p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> takes psychic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and each creature or object of your choice in the area of your [Null Field](../level-1/null-field.md) ability gain a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md) equal to your [Intuition](../../../rule/character/intuition.md) score. A creature who attempts to [force move](../../../movement/forced-movement.md) a target with this [bonus](../../../rule/dice/bonuses-and-penalties.md) takes psychic damage equal to your [Intuition](../../../rule/character/intuition.md) score."></template>

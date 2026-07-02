@@ -20,3 +20,6 @@ type: feature
 <p>Whenever an ally uses a <a href="../../../../rule/combat/ranged/">ranged</a> ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to allow them to use the ability as if they were in your space.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever an ally uses a [ranged](../../../rule/combat/ranged.md) ability while you are within the ability&#39;s [distance](../../../rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../../../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space."></template>

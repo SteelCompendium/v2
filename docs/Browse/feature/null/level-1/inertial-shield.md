@@ -39,3 +39,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your instincts for danger let you predict attacks before they happen.&#10;&#10;## Inertial Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield&#34;}&#10;&#10;&#10;*You intuit the course of an incoming attack, reducing its effects.*&#10;&#10;| **Psionic** | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage.&#10;&#10;**Spend 1 Discipline:** The [potency](../../../rule/character/potency.md) of one effect associated with the damage is reduced by 1 for you."></template>

@@ -55,3 +55,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any hobgoblin&#39;s turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Goblin Malice Features (3-7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; The hobgoblin activates a [Malice](../../rule/monster/malice.md) Feature available to goblins.&#10;&#10;&gt; ⭐️ **Operation Goblin Mode (3 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each goblin in the encounter gains a +3 bonus to speed until the end of the round.&#10;&#10;&gt; ⭐️ **Operation Tactical Swarm (5 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each hobgoblin in the encounter [shifts](../../movement/shifting.md) up to their speed and can take the Defend main action.&#10;&#10;&gt; 🌀 **Operation Earth Sear (7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Until the end of the round, the ground throughout the encounter map becomes blazing hot. Any enemy takes 1 fire damage for each square of the ground they enter. Any enemy who ends their turn on the ground has fire weakness 2 until the start of their next turn."></template>

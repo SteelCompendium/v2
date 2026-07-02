@@ -19,3 +19,6 @@ type: feature
 <p>The first time you take damage each <a href="../../../../rule/combat/combat-round/">combat round</a>, you gain 3 ferocity instead of 2.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time you take damage each [combat round](../../../rule/combat/combat-round.md), you gain 3 ferocity instead of 2."></template>

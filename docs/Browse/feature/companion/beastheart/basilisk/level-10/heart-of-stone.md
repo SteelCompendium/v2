@@ -20,3 +20,6 @@ type: feature
 <p>While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues."></template>

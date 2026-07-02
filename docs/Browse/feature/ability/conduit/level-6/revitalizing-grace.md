@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>. Additionally, each target can end one effect on themself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>, or they can stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*With a gesture, you restore your health and that of your allies.*&#10;&#10;| **Area, Magic**  |                       **Main action** |&#10;|------------------|--------------------------------------:|&#10;| **📏 4 [burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or they can stand up if [prone](../../../../condition/prone.md)."></template>

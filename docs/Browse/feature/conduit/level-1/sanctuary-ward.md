@@ -19,3 +19,6 @@ type: feature
 <p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a <a href="../../../../rule/combat/strike/">strike</a> until you harm them or one of their allies, or until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a [strike](../../../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next [turn](../../../rule/combat/turn.md)."></template>

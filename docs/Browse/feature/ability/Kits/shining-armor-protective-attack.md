@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is <a href="../../../../condition/taunted/">taunted</a> until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The strength of your assault makes it impossible for your foe to ignore you.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + M or A damage&#10;- **12-16:** 8 + M or A damage&#10;- **17+:** 11 + M or A damage&#10;&#10;**Effect:** The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md)."></template>

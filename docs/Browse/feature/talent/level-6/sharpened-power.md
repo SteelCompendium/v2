@@ -20,3 +20,6 @@ type: feature
 <p>If the ability has any <a href="../../../../rule/dice/power-roll/">power roll</a>, that roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If the ability has any [power roll](../../../rule/dice/power-roll.md), that roll gains an [edge](../../../rule/dice/edge.md)."></template>

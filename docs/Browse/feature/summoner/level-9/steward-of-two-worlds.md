@@ -20,3 +20,6 @@ type: feature
 <p>You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their <a href="../../../../rule/negotiation/patience/">patience</a> increased by 2.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their [patience](../../../rule/negotiation/patience.md) increased by 2."></template>

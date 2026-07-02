@@ -20,3 +20,6 @@ type: feature
 <p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the <a href="../../../../rule/downtime/project-source/">project source</a> for any research or <a href="../../../../rule/downtime/crafting-project/">crafting project</a> (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the [project source](../../../rule/downtime/project-source.md) for any research or [crafting project](../../../rule/downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](../../../../Read/heroes/downtime-projects.md))."></template>

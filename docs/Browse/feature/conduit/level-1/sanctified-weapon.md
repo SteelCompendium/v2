@@ -20,3 +20,6 @@ type: feature
 <p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a [respite](../../../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../../rule/resource/respite.md)."></template>

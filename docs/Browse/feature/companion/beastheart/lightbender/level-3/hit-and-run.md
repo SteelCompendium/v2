@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../../../../../movement/teleport/">teleport</a> up to 5 squares and use the <a href="../../../../../../skill/intrigue/hide/">Hide</a> maneuver.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../../../../movement/teleport.md) up to 5 squares and use the [Hide](../../../../../skill/intrigue/hide.md) maneuver."></template>

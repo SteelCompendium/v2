@@ -19,3 +19,6 @@ type: trait
 <p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to recall lore.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Accessing memories is as easy as living in the present for you. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to recall lore."></template>

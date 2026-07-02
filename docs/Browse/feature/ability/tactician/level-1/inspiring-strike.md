@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your attack gives an ally hope.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|-----------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)&#10;- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)&#10;- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an [edge](../../../../rule/dice/edge.md) on the next [ability roll](../../../../rule/dice/ability-roll.md) you make during the encounter"></template>

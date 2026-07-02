@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target is <a href="../../../../../condition/frightened/">frightened</a> of you or a creature you choose within <a href="../../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your divine magic makes a creature appear as what your enemies fear most.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 5 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 6 psychic damage; I &lt; WEAK, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 9 psychic damage; I &lt; AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 13 psychic damage; I &lt; STRONG, [frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Effect:** Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within [distance](../../../../rule/combat/distance.md)."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can <a href="../../../../movement/fly/">fly</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you are in your hybrid form, your [size](../../../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can [fly](../../../movement/fly.md)."></template>

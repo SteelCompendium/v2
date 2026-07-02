@@ -19,3 +19,6 @@ type: trait
 <p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your connection to Axiom allows you to regulate your movement. You can&#39;t be made [slowed](../../../condition/slowed.md)."></template>

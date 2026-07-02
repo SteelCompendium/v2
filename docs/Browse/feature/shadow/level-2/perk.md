@@ -19,3 +19,6 @@ type: feature
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: <a href="../../../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../../../Read/heroes/perks.md)."></template>

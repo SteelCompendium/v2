@@ -20,3 +20,6 @@ type: feature
 <p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to intimidate or persuade others.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to intimidate or persuade others."></template>

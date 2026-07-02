@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a href="../../../../../../../condition/slowed/">slowed</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Transfixed by the basilisk&#39;s magical gaze or struck by their poisoned claws, the foe&#39;s body begins to calcify.*&#10;&#10;| **Companion, Magic, Melee, Ranged, Weapon** |     **Maneuver** |&#10;|---------------------------------------------|-----------------:|&#10;| **📏 Melee 1 or ranged 5**                  | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes corruption damage equal to 3 + the basilisk&#39;s Might score and is stoned (save ends) (see [Stoned](../../../../../companion/beastheart/basilisk/level-1/stoned.md)).&#10;&#10;**Spend 1 Ferocity:** While stoned this way, the target is also [slowed](../../../../../../condition/slowed.md)."></template>

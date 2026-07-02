@@ -20,3 +20,6 @@ type: feature
 <p>You gain any one perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain any one perk of your choice. See Perks in Draw Steel: Heroes for more information."></template>

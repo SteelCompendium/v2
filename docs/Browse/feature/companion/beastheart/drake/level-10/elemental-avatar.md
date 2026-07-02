@@ -20,3 +20,6 @@ type: feature
 <p>While the drake is rampaging, you and the drake have immunity all to the drake&#39;s attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake&#39;s attuned damage type.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the drake is rampaging, you and the drake have immunity all to the drake&#39;s attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake&#39;s attuned damage type."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 1, and you are <a href="../../../../../condition/weakened/">weakened</a> until the end of your <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Everyone get away from me!*&#10;&#10;| **Area, Psionic, Telekinesis** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 1 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 damage; vertical [push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 6 damage; vertical [push](../../../../movement/forced-movement.md) 4&#10;- **17+:** 9 damage; vertical [push](../../../../movement/forced-movement.md) 6&#10;&#10;**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 1, and you are [weakened](../../../../condition/weakened.md) until the end of your [turn](../../../../rule/combat/turn.md)."></template>

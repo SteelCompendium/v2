@@ -20,3 +20,6 @@ type: feature
 <p>You can commune with a network of spirits. As a <a href="../../../../rule/resource/respite/">respite</a> activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another <a href="../../../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can commune with a network of spirits. As a [respite](../../../rule/resource/respite.md) activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another [respite](../../../rule/resource/respite.md) activity."></template>

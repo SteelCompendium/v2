@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, an <a href="../../../../rule/combat/adjacent/">adjacent</a> ally can use a maneuver to pet you. If they do so, you can lose <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> down to a minimum of 0. The ally gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to the amount you lost.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your animal forms become hardier. You gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your level when you enter an [animal form](../../../complication/animal-form.md) in combat, which is added to any [temporary Stamina](../../../rule/health/temporary-stamina.md) provided by the [animal form](../../../complication/animal-form.md).&#10;&#10;Additionally, an [adjacent](../../../rule/combat/adjacent.md) ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../../../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to the amount you lost."></template>

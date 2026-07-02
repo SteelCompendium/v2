@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If you don&#39;t take a move action this <a href="../../../../rule/combat/turn/">turn</a>, this <a href="../../../../rule/combat/strike/">strike</a> deals extra damage equal to your <a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a> score (your choice).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Breathe... aim... wait... then strike!*&#10;&#10;| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 15**           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + M or A damage&#10;- **12-16:** 6 + M or A damage&#10;- **17+:** 13 + M or A damage&#10;&#10;**Effect:** If you don&#39;t take a move action this [turn](../../../rule/combat/turn.md), this [strike](../../../rule/combat/strike.md) deals extra damage equal to your [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md) score (your choice)."></template>

@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="&gt; **Level 5 Fixture Advancement Feature**&#10;&gt;&#10;&lt;!-- @type: feature | @id: soul-rancor | @level: 5 --&gt;&#10;&gt; ⭐️ **Soul Rancor**&#10;&gt;&#10;&gt; You gain a [surge](../../../rule/resource/surge.md) the first time in a [round](../../../rule/combat/combat-round.md) that your demon [minions](../../../feature/summoner/level-1/minions.md) deal 3 or more [damage](../../../rule/damage/damage.md) to a creature while you have [line of effect](../../../rule/combat/line-of-effect.md) to the boil. You can choose to give the [surge](../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../rule/combat/line-of-effect.md) to the boil.&#10;&#10;&gt; **Level 9 Fixture Advancement Feature**&#10;&gt;&#10;&lt;!-- @type: feature | @id: size-increase | @level: 9 --&gt;&#10;&gt; ⭐️ **Size Increase**&#10;&gt;&#10;&gt; The boil is now size 3.&#10;&gt;&#10;&lt;!-- @type: feature | @id: fester-field | @level: 9 --&gt;&#10;&gt; ⭐️ **Fester Field**&#10;&gt;&#10;&gt; Each non-abyssal enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the boil takes 5 corruption [damage](../../../rule/damage/damage.md)."></template>

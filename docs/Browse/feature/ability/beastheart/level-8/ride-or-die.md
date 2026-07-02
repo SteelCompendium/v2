@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your enemies might be stronger than you, but that&#39;s why you&#39;re not alone.*&#10;&#10;| **Beastheart** | **Main action** |&#10;|----------------|----------------:|&#10;| **📏 Self**    | **🎯 Self**     |&#10;&#10;**Effect:** You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so."></template>

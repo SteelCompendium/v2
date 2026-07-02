@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or you are <a href="../../../../../rule/health/dying/">dying</a>, each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can use a <a href="../../../../../rule/combat/triggered-action/">free triggered action</a> once per <a href="../../../../../rule/combat/turn/">turn</a> whenever they are <a href="../../../../../movement/forced-movement/">force moved</a> to reduce the distance by half.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You surround your allies with a nigh-endless supply of summons that stand in the way of all impacts.*&#10;&#10;| **Area, Magic** | **Main action** |&#10;|-----------------|----------------:|&#10;| **📏 5 burst** | **🎯 Self and each non-minion ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can use a [free triggered action](../../../../rule/combat/triggered-action.md) once per [turn](../../../../rule/combat/turn.md) whenever they are [force moved](../../../../movement/forced-movement.md) to reduce the distance by half."></template>

@@ -44,3 +44,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.*&#10;&#10;| **Area, Companion, Magic** |                **Main action** |&#10;|----------------------------|-------------------------------:|&#10;| **📏 2 burst**             | **🎯 Each enemy in the area** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 3 sonic damage; push 1; P &lt; WEAK [taunted](../../../../condition/taunted.md) (save ends)&#10;- **12-16:** 5 sonic damage; push 2; P &lt; AVERAGE [taunted](../../../../condition/taunted.md) (save ends)&#10;- **17+:** 7 sonic damage; push 3; P &lt; STRONG [frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once."></template>

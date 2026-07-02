@@ -20,3 +20,6 @@ type: feature
 <p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a> while the target of your Foil feature is <a href="../../../../rule/combat/adjacent/">adjacent</a> to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Once on each of your [turns](../../../rule/combat/turn.md) while the target of your Foil feature is [adjacent](../../../rule/combat/adjacent.md) to you, you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../../common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage."></template>

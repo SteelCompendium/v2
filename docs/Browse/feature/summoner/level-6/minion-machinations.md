@@ -21,3 +21,6 @@ type: feature
 <p>You can summon and recruit an artisan <a href="../../../../rule/general/follower/">follower</a> and a sage <a href="../../../../rule/general/follower/">follower</a> that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle&#39;s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers&#39; stats.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your maximum number of [followers](../../../rule/general/follower.md) increases by 2.&#10;&#10;You can summon and recruit an artisan [follower](../../../rule/general/follower.md) and a sage [follower](../../../rule/general/follower.md) that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle&#39;s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers&#39; stats."></template>

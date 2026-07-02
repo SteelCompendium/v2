@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>A creature <a href="../../../../../movement/forced-movement/">force moved</a> by this ability must be moved straight upward.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your attack produces a cloud of black ash that launches an enemy into the air.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + A damage; vertical [push](../../../../movement/forced-movement.md) 5&#10;- **12-16:** 6 + A damage; vertical [push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 9 + A damage; vertical [push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward."></template>

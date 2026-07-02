@@ -43,3 +43,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Stasis Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield&#34; data-cost=&#34;3 Clarity&#34; data-subclass=&#34;chronopathy&#34;}&#10;&#10;&#10;*You freeze time just long enough to bring the victim to safety!*&#10;&#10;| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |                          **Triggered** |&#10;|---------------------|---------------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |&#10;&#10;**Trigger:** The target takes damage.&#10;&#10;**Effect:** The target is [teleport](../../../movement/teleport.md)ed to an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.&#10;&#10;**Strained:** You can&#39;t target yourself, and you take the damage and any additional effects instead of the target."></template>

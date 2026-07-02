@@ -20,3 +20,6 @@ type: feature
 <p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../../../rule/resource/victories/">Victory</a> after your <a href="../../../../rule/resource/victories/">Victories</a> are converted to <a href="../../../../rule/resource/experience/">XP</a>. This <a href="../../../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a [respite](../../../rule/resource/respite.md), you and any other heroes who rested with you regain 1 [Victory](../../../rule/resource/victories.md) after your [Victories](../../../rule/resource/victories.md) are converted to [XP](../../../rule/resource/experience.md). This [Victory](../../../rule/resource/victories.md) isn&#39;t converted into [XP](../../../rule/resource/experience.md) at the end of a subsequent [respite](../../../rule/resource/respite.md)."></template>

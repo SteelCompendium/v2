@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The first time the target is <a href="../../../../../rule/health/dying/">dying</a> or <a href="../../../../../rule/health/winded/">winded</a> before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  | **Maneuver**            |&#10;|--------------------|-------------------------|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage."></template>

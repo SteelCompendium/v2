@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You take a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> <a href="../../../../../rule/combat/turn/">turn</a> immediately after the triggering creature. This ability can be used only once per <a href="../../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You show shadows what true [speed](../../../../rule/character/speed.md) is.*&#10;&#10;| **Psionic** | **Free triggered** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature on the encounter map ends their [turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take a [bonus](../../../../rule/dice/bonuses-and-penalties.md) [turn](../../../../rule/combat/turn.md) immediately after the triggering creature. This ability can be used only once per [combat round](../../../../rule/combat/combat-round.md)."></template>

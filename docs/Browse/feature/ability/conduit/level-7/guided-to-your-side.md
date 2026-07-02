@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target is <a href="../../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> to the bonded creature but you must be on the same world.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |           **Main action** |&#10;|--------------------|--------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |&#10;&#10;**Effect:** Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world."></template>

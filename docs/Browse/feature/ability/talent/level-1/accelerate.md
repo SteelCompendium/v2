@@ -36,3 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Clarity</span><span class="txt">The target can use a maneuver.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*To your ally, it seems as though the world has slowed down.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |                **Maneuver** |&#10;|---------------------|----------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |&#10;&#10;**Effect:** The target shifts up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.&#10;&#10;**Spend 2 Clarity:** The target can use a maneuver."></template>

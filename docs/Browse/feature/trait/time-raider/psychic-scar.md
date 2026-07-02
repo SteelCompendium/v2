@@ -18,3 +18,6 @@ type: trait
 <p>Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your mind is a formidable layer of defense. You have psychic immunity equal to your level."></template>

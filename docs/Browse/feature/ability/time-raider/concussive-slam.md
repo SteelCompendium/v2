@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You slam an invisible force down upon the target.*&#10;&#10;| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  | Main action                   |&#10;|------------------------------|-------------------------------|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + R, I, or P damage;&#10;- **12-16:** 5 + R, I, or P damage; [push](../../../movement/forced-movement.md) 1&#10;- **17+:** 7 + R, I, or P damage; [push](../../../movement/forced-movement.md) 2; M &lt; STRONG, [prone](../../../condition/prone.md)"></template>

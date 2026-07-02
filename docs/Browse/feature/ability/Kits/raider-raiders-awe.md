@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next <a href="../../../../rule/dice/power-roll/">power roll</a> made before the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;[Shock and Awe](../../tactician/level-7/shock-and-awe.md)&#34;)*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10**       | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + M or A damage&#10;- **12-16:** 6 + M or A damage&#10;- **17+:** 8 + M or A damage&#10;&#10;**Effect:** The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md)."></template>

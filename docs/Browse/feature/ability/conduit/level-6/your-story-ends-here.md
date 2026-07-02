@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If this damage kills the target, you and each ally within <a href="../../../../../rule/combat/distance/">distance</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You bend the fate of a foe, willing them to die.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 9 + I corruption damage; R &lt; WEAK, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 14 + I corruption damage; R &lt; AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 19 + I corruption damage; R &lt; STRONG, [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

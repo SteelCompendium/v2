@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The sigil disappears from the creature.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A magic sigil you placed on a creature explodes with energy.*&#10;&#10;| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |                        **Main action** |&#10;|---------------------------|---------------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature bearing your sigil** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 3 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 1&#10;- **12-16:** 5 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 2&#10;- **17+:** 7 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** The sigil disappears from the creature."></template>

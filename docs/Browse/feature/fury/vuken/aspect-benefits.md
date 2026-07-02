@@ -19,3 +19,6 @@ type: feature
 <p>Whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can then use the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../../common/maneuvers/aid-attack.md) maneuver as a free [triggered action](../../../rule/combat/triggered-action.md)."></template>

@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&#39;s location as if you were there.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You stir any wood&#39;s memory and learn what it has seen.*&#10;&#10;| **Green, Magic, [Melee](../../../../rule/combat/melee.md)** |                  **Main action** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**          | **🎯 One mundane wooden object** |&#10;&#10;**Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&#39;s location as if you were there."></template>

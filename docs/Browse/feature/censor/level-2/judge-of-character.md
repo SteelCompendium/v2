@@ -20,3 +20,6 @@ type: feature
 <p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../../../rule/character/intuition/">Intuition</a> <a href="../../../../rule/test/test/">test</a>, you can make a <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> instead.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an [Intuition](../../../rule/character/intuition.md) [test](../../../rule/test/test.md), you can make a [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md) instead."></template>

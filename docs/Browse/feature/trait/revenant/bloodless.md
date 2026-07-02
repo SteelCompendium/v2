@@ -19,3 +19,6 @@ type: trait
 <p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="For you, an open wound is indistinguishable from a scratch. You can&#39;t be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md)."></template>

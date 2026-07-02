@@ -19,3 +19,6 @@ type: trait
 <p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice threats.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your senses are especially keen and perceptive. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to notice threats."></template>

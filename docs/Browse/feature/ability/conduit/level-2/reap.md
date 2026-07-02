@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, each time a target kills an enemy, they regain <a href="../../../../../rule/health/stamina/">Stamina</a> equal to 5 + your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The gods reward those who smite their foes.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |     **Maneuver** |&#10;|--------------------|-----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Each ally** |&#10;&#10;**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), each time a target kills an enemy, they regain [Stamina](../../../../rule/health/stamina.md) equal to 5 + your [Intuition](../../../../rule/character/intuition.md) score."></template>

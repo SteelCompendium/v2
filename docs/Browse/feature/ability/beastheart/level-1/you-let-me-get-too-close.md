@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The wilderness has no concept of fair play.*&#10;&#10;| **Beastheart, Charge, Melee, Strike, Weapon** | **Main action** |&#10;|-----------------------------------------------|----------------:|&#10;| **📏 Melee 1**                                | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 8 + M damage; M &lt; WEAK [grabbed](../../../../condition/grabbed.md)&#10;- **12-16:** 12 + M damage; M &lt; AVERAGE [grabbed](../../../../condition/grabbed.md)&#10;- **17+:** 16 + M damage; M &lt; STRONG [grabbed](../../../../condition/grabbed.md)&#10;&#10;**Effect:** If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target."></template>

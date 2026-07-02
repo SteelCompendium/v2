@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next <a href="../../../../../rule/combat/turn/">turn</a>, they take 1 psychic damage for each square they move.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You show your foe a glimpse of their fate after death.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          |           **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 + P psychic damage&#10;- **12-16:** 7 + P psychic damage&#10;- **17+:** 10 + P psychic damage&#10;&#10;**Effect:** Each time the target willingly moves before the end of your next [turn](../../../../rule/combat/turn.md), they take 1 psychic damage for each square they move."></template>

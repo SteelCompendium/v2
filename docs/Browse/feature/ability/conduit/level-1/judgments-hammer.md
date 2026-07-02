@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I holy damage; A &lt; WEAK[, prone](../../../../condition/prone.md)&#10;- **12-16:** 6 + I holy damage; A &lt; AVERAGE[, prone](../../../../condition/prone.md)&#10;- **17+:** 9 + I holy damage; A &lt; STRONG, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

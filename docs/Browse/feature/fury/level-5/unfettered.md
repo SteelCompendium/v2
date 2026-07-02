@@ -20,3 +20,6 @@ type: feature
 <p>At the start of your <a href="../../../../rule/combat/turn/">turn</a>, you can end any <a href="../../../../condition/restrained/">restrained</a> <a href="../../../../rule/combat/condition/">condition</a> on you. Additionally, you have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to escape being confined or imprisoned.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of your [turn](../../../rule/combat/turn.md), you can end any [restrained](../../../condition/restrained.md) [condition](../../../rule/combat/condition.md) on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned."></template>

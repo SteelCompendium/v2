@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You reveal a vision of your enemies&#39; fate that causes them to scramble as it staggers them.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |&#10;|---------------------------|---------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** [Slide](../../../../movement/forced-movement.md) 3; I &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** [Slide](../../../../movement/forced-movement.md) 5; I &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** [Slide](../../../../movement/forced-movement.md) 7; I &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)"></template>

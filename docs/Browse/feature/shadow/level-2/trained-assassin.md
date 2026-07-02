@@ -20,3 +20,6 @@ type: feature
 <p>You know just where to cut your enemies. Whenever you make a <a href="../../../../rule/combat/strike/">strike</a> that has no <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a>, and that incorporates 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 additional <a href="../../../../rule/resource/surge/">surge</a> that you can use only on that <a href="../../../../rule/combat/strike/">strike</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You know just where to cut your enemies. Whenever you make a [strike](../../../rule/combat/strike.md) that has no [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md), and that incorporates 1 or more [surges](../../../rule/resource/surge.md), you gain 1 additional [surge](../../../rule/resource/surge.md) that you can use only on that [strike](../../../rule/combat/strike.md)."></template>

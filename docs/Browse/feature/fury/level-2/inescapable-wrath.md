@@ -20,3 +20,6 @@ type: feature
 <p>You have a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) equal to your [Agility](../../../rule/character/agility.md) score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md)."></template>

@@ -57,3 +57,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*They&#39;d tell stories in hushed tones of your companion&#39;s last stand—if any of them lived to tell the tale.*&#10;&#10;| **Area, Companion, Magic** | **Free Triggered Action** |&#10;|----------------------------|--------------------------:|&#10;| **📏 Self**                | **🎯 Self**               |&#10;&#10;**Trigger:** After taking damage, your companion is dead or dying.&#10;&#10;**Effect:** Your companion makes a power roll, which targets each enemy in a 5 burst.&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 20 cold, fire, lightning, or sonic damage&#10;- **12-16:** 25 cold, fire, lightning, or sonic damage&#10;- **17+:** 30 cold, fire, lightning, or sonic damage&#10;&#10;**Effect:** Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries."></template>

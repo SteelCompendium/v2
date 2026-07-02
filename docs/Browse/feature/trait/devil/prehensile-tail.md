@@ -19,3 +19,6 @@ type: trait
 <p>Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked."></template>

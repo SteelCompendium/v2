@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If you are hidden, you remain hidden after the strike.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You channel your companion&#39;s feral senses to take the perfect shot.*&#10;&#10;| **Beastheart, Ranged, Strike, Weapon** |               **Main action** |&#10;|----------------------------------------|------------------------------:|&#10;| **📏 Ranged 15**                       | **🎯 One creature or object** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 12 + I damage&#10;- **12-16:** 18 + I damage&#10;- **17+:** 30 + I damage&#10;&#10;**Effect:** If you are hidden, you remain hidden after the strike."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>You have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to gamble!</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to gamble!"></template>

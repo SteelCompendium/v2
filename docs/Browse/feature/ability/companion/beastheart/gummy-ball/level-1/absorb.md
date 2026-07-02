@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target <a href="../../../../../../../condition/grabbed/">grabbed</a> this way takes acid damage equal to the ball&#39;s Might score at the end of each of the ball&#39;s turns.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*With a sickening squelch, the ball oozes around their hapless prey.*&#10;&#10;| **Companion, Melee, Weapon** |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes acid damage equal to 3 + the ball&#39;s Might score, and if they have A &lt; AVERAGE, the ball moves into the target&#39;s space. If the target completely fits within the ball&#39;s space, the target is [grabbed](../../../../../../condition/grabbed.md) by the ball.&#10;&#10;**Spend 1 Ferocity:** A target [grabbed](../../../../../../condition/grabbed.md) this way takes acid damage equal to the ball&#39;s Might score at the end of each of the ball&#39;s turns."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 <a href="../../../../rule/resource/surge/">surge</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 [surge](../../../rule/resource/surge.md)."></template>

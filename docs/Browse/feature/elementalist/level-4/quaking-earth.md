@@ -20,3 +20,6 @@ type: feature
 <p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can <a href="../../../../movement/forced-movement/">push</a> each enemy in the area up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the end of each of your [turns](../../../rule/combat/turn.md), you can [push](../../../movement/forced-movement.md) each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>

@@ -34,3 +34,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Careful Observation {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation&#34;}&#10;&#10;&#10;*A moment of focus leaves a foe firmly in your sights.*&#10;&#10;| **[Ranged](../../../rule/combat/ranged.md)**       |        **Maneuver** |&#10;|------------------|--------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 20** | **🎯 One creature** |&#10;&#10;**Effect:** As long as you remain within [distance](../../../rule/combat/distance.md) of the target, maintain [line of effect](../../../rule/combat/line-of-effect.md) to them, and strike no other creature first, you gain an [edge](../../../rule/dice/edge.md) on the next strike you make against the assessed creature, and gain 1 [surge](../../../rule/resource/surge.md) you can use only on that [strike](../../../rule/combat/strike.md)."></template>

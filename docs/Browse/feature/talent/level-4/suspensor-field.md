@@ -20,3 +20,6 @@ type: feature
 <p>If you are strained while <a href="../../../../movement/fly/">flying</a> and are force moved, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can [fly](../../../movement/fly.md). While [flying](../../../movement/fly.md), your [stability](../../../rule/character/stability.md) is reduced to 0 and can&#39;t be increased. If you can already [fly](../../../movement/fly.md), you have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) while [flying](../../../movement/fly.md) instead.&#10;&#10;If you are strained while [flying](../../../movement/fly.md) and are force moved, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your bloody-forehead smash drives your companion into a frenzy.*&#10;&#10;| **Beastheart, Melee, Strike** | **Main action** |&#10;|-------------------------------|----------------:|&#10;| **📏 Melee 1**                | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 13 + M damage; P &lt; WEAK [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 19 + M damage; P &lt; AVERAGE [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 25 + M damage; P &lt; STRONG [dazed](../../../../condition/dazed.md) (save ends)&#10;&#10;**Effect:** You are [bleeding](../../../../condition/bleeding.md) (save ends). Until the end of your next turn, your companion gains an edge on power rolls."></template>

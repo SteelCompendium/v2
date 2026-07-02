@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This damage ignores immunity.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You let fly a fiery missile braided with pure primal energy.*&#10;&#10;| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |            **Main action** |&#10;|---------------------------------|---------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One enemy or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 13 + R fire damage; I &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 18 + R fire damage; I &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 25 + R fire damage; I &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)&#10;&#10;**Effect:** This damage ignores immunity."></template>

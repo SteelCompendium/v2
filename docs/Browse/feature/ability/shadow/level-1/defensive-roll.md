@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Insight</span><span class="txt">The <a href="../../../../../rule/character/potency/">potency</a> of any effects associated with the damage are reduced by 1 for you.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*When an enemy attacks, you roll with the impact to reduce the harm.*&#10;&#10;| **-**       | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you.&#10;&#10;**Effect:** You take half the triggering damage, then can [shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../../../../movement/shifting.md) with [concealment](../../../../rule/combat/concealment.md) or [cover](../../../../rule/combat/cover.md), you can use the [Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed.&#10;&#10;**Spend 1 Insight:** The [potency](../../../../rule/character/potency.md) of any effects associated with the damage are reduced by 1 for you."></template>

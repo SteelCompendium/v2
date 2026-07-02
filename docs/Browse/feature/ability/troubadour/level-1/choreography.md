@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains a +2 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/speed/">speed</a> until the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Taps, kicks, steps. It&#39;s all &#34;[choreography](choreography.md).&#34;*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md)."></template>

@@ -19,3 +19,6 @@ type: trait
 <p>Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so."></template>

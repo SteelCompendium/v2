@@ -20,3 +20,6 @@ type: feature
 <p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you summon a willing and not-<a href="../../../../condition/restrained/">restrained</a> <a href="../../../../rule/general/npc/">NPC</a> or player ally to join your party, regardless of <a href="../../../../rule/combat/distance/">distance</a> or manifold. The target stays until the start of your next <a href="../../../../rule/resource/respite/">respite</a> or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can&#39;t have more than one character summoned in this way.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a [respite](../../../rule/resource/respite.md) activity, you summon a willing and not-[restrained](../../../condition/restrained.md) [NPC](../../../rule/general/npc.md) or player ally to join your party, regardless of [distance](../../../rule/combat/distance.md) or manifold. The target stays until the start of your next [respite](../../../rule/resource/respite.md) or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can&#39;t have more than one character summoned in this way."></template>

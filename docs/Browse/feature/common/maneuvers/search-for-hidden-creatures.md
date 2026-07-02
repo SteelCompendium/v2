@@ -17,3 +17,6 @@ type: feature
 <p>The <a href="../search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The [Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](../../../../Read/heroes/tests.md))."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by you or a willing ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you until the end of the target&#39;s next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*I didn&#39;t do it! What?*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**             | **Main action** |&#10;|---------------------------------------|----------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                        | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 3 + P damage&#10;- **12-16:** 6 + P damage&#10;- **17+:** 9 + P damage&#10;&#10;**Effect:** The target is [taunted](../../../../condition/taunted.md) by you or a willing ally [adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target&#39;s next [turn](../../../../rule/combat/turn.md)."></template>

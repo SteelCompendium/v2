@@ -37,3 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are knocked <a href="../../../../../condition/prone/">prone</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You ride a cascade of ice over your foes.*&#10;&#10;| **Beastheart, Melee, Weapon** |        **Maneuver** |&#10;|-------------------------------|--------------------:|&#10;| **📏 Melee 1**                | **🎯 One creature** |&#10;&#10;**Effect:** The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked [prone](../../../../condition/prone.md).&#10;&#10;You can move up to 3 squares before and after you use this ability. During this movement, a [prone](../../../../condition/prone.md) enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a [prone](../../../../condition/prone.md) enemy&#39;s space, that enemy takes cold damage equal to your Might score.&#10;&#10;**Spend 1 Ferocity:** If the target has M &lt; STRONG, they are knocked [prone](../../../../condition/prone.md)."></template>

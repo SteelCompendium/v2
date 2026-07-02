@@ -20,3 +20,6 @@ type: feature
 <p>You gain an <a href="../../../../skill/intrigue/">intrigue</a>, <a href="../../../../skill/lore/">lore</a>, or supernatural <a href="../perk/">perk</a> of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain an [intrigue](../../../skill/intrigue/index.md), [lore](../../../skill/lore/index.md), or supernatural [perk](perk.md) of your choice. See Perks in Draw Steel: Heroes for more information."></template>

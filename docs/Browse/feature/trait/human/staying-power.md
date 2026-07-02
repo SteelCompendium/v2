@@ -19,3 +19,6 @@ type: trait
 <p>Your <a href="../../../../ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> by 2.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [human](../../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../../../rule/health/recoveries.md) by 2."></template>

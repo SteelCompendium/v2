@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="## Foes Forever Frozen {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-3/foes-forever-frozen&#34;}&#10;&#10;Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).&#10;&#10;## Rock Smasher {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-6/rock-smasher&#34;}&#10;&#10;Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.&#10;&#10;## Heart of Stone {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.basilisk.level-10/heart-of-stone&#34;}&#10;&#10;While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues."></template>

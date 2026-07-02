@@ -20,3 +20,6 @@ type: feature
 <ul><li>You can breathe even when there is no breathable air.</li><li>You have psychic immunity 10.</li><li>Creatures can&#39;t read your thoughts unless you allow them to.</li><li>Your <a href="../../../../rule/character/reason/">Reason</a> and <a href="../../../../rule/character/intuition/">Intuition</a> are treated as 2 higher for the purpose of resisting the <a href="../../../../rule/character/potency/">potency</a> of abilities.</li><li>You can&#39;t be made <a href="../../../../condition/taunted/">taunted</a> or <a href="../../../../condition/frightened/">frightened</a>.</li></ul>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your mind is an impenetrable palace that shields you from danger. You gain the following effects:&#10;&#10;- You can breathe even when there is no breathable air.&#10;- You have psychic immunity 10.&#10;- Creatures can&#39;t read your thoughts unless you allow them to.&#10;- Your [Reason](../../../rule/character/reason.md) and [Intuition](../../../rule/character/intuition.md) are treated as 2 higher for the purpose of resisting the [potency](../../../rule/character/potency.md) of abilities.&#10;- You can&#39;t be made [taunted](../../../condition/taunted.md) or [frightened](../../../condition/frightened.md)."></template>

@@ -18,3 +18,6 @@ type: feature
 <p>Each stormwight kit grants a set of benefits for your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each stormwight kit grants a set of benefits for your [Growing Ferocity](../boren/growing-ferocity.md) feature."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the spider makes a strike against a <a href="../../../../../../condition/restrained/">restrained</a> creature, the spider deals extra poison damage equal to twice their Intuition score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the spider makes a strike against a [restrained](../../../../../condition/restrained.md) creature, the spider deals extra poison damage equal to twice their Intuition score."></template>

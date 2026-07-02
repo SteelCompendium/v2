@@ -20,3 +20,6 @@ type: feature
 <p>You and your companion can&#39;t be surprised.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your companion can&#39;t be surprised."></template>

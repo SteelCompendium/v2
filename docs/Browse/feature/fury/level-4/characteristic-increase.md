@@ -19,3 +19,6 @@ type: feature
 <p>Your <a href="../../../../rule/character/might/">Might</a> and <a href="../../../../rule/character/agility/">Agility</a> scores each increase to 3.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [Might](../../../rule/character/might.md) and [Agility](../../../rule/character/agility.md) scores each increase to 3."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your <a href="../../../../rule/character/stability/">stability</a> increases by 1 until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. This benefit is cumulative.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../../rule/character/stability.md) increases by 1 until the start of your next [turn](../../../rule/combat/turn.md). This benefit is cumulative."></template>

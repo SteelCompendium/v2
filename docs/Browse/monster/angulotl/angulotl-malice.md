@@ -53,3 +53,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any angulotl&#39;s turn, you can spend Malice to activate one of the following features.&#10;&#10;&gt; ⭐️ **Leapfrog (3 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Until the end of the round, when an angulotl moves through an inactive angulotl&#39;s space, the inactive angulotl can use a free triggered action to jump 3 squares.&#10;&#10;&gt; ❇️ **Resonating Croak (5 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **[Intuition](../../rule/character/intuition.md) test.**&#10;&gt;&#10;&gt; - **≤11:** 5 sonic damage; [slowed](../../condition/slowed.md) ([EoT](../../rule/combat/end-of-turn.md))&#10;&gt; - **12-16:** 4 sonic damage&#10;&gt; - **17+:** No effect.&#10;&#10;&gt; 🌀 **Rainfall (7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter."></template>

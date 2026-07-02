@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The ground beneath the area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A sudden storm of detritus assaults your foes and leaves them struggling to move.*&#10;&#10;| **Area, Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 2 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies."></template>

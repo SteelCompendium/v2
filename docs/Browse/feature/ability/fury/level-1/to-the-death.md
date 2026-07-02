@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 2 <a href="../../../../../rule/resource/surge/">surges</a>, and the target can make an <a href="../../../../../rule/combat/opportunity-attack/">opportunity attack</a> against you as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your reckless assault leaves you tactically vulnerable.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage&#10;- **12-16:** 6 + M damage&#10;- **17+:** 9 + M damage&#10;&#10;**Effect:** You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md)."></template>

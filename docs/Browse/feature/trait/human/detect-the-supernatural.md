@@ -18,3 +18,6 @@ type: trait
 <p>As a maneuver, you can open your awareness to detect <a href="../../../../rule/general/supernatural/">supernatural</a> creatures and phenomena. Until the end of your next <a href="../../../../rule/combat/turn/">turn</a>, you know the location of any <a href="../../../../rule/general/supernatural/">supernatural</a> object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can open your awareness to detect [supernatural](../../../rule/general/supernatural.md) creatures and phenomena. Until the end of your next [turn](../../../rule/combat/turn.md), you know the location of any [supernatural](../../../rule/general/supernatural.md) object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have [line of effect](../../../rule/combat/line-of-effect.md) to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect."></template>

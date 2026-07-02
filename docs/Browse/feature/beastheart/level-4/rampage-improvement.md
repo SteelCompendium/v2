@@ -19,3 +19,6 @@ type: feature
 <p>Your <a href="../../level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 16 or more rampage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [Rampage](../level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage."></template>

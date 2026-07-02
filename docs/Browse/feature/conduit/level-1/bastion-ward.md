@@ -19,3 +19,6 @@ type: feature
 <p>Your god grants you a holy countenance that protects you at all times. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your god grants you a holy countenance that protects you at all times. You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../rule/general/saving-throw.md)."></template>

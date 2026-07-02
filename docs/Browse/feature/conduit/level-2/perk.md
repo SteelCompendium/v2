@@ -19,3 +19,6 @@ type: feature
 <p>You gain one crafting, lore, or <a href="../../../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain one crafting, lore, or [supernatural](../../../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../../../Read/heroes/perks.md)."></template>

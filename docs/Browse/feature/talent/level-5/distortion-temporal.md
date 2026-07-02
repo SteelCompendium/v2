@@ -20,3 +20,6 @@ type: feature
 <p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 <a href="../../../../rule/combat/aura/">aura</a>. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> or starts their turn there, they gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of the <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you are not [dying](../../../rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../../../rule/combat/aura.md). That area is [difficult terrain](../../../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there, they gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of the [turn](../../../rule/combat/turn.md)."></template>

@@ -38,3 +38,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a <a href="../../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to force that target to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |         **Maneuver** |&#10;|------------------|---------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Two creatures** |&#10;&#10;**Effect:** Each target is marked by you, and must immediately make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.&#10;&#10;**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a [strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them."></template>

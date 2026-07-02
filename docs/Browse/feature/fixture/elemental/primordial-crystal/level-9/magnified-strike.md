@@ -18,3 +18,6 @@ type: feature
 <p>When you or an ally makes a ranged <a href="../../../../../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../../../../../rule/resource/surge/">surge</a> which they can use on the ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you or an ally makes a ranged [strike](../../../../../rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../../../../rule/resource/surge.md) which they can use on the ability."></template>

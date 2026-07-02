@@ -20,3 +20,6 @@ type: feature
 <p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the [Hide](../../common/maneuvers/hide.md) maneuver. Additionally, you gain an [edge](../../../rule/dice/edge.md) when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../../ability/censor/level-1/judgment.md) ability against them as a free [triggered action](../../../rule/combat/triggered-action.md)."></template>

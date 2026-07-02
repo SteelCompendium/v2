@@ -18,3 +18,6 @@ type: trait
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span><a href="../../../../ancestry/polder/">Polder</a> heroes have access to the following traits.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="[Polder](../../../ancestry/polder.md) heroes have access to the following traits."></template>

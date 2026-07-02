@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, you have a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You add your level to your effective [size](../../../rule/character/size.md) for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../../../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../../condition/grabbed.md).&#10;&#10;Additionally, you have a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md) equal to your [Might](../../../rule/character/might.md) score."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score."></template>

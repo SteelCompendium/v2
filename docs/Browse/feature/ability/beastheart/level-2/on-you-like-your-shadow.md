@@ -50,3 +50,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion enters the target&#39;s space. Until your companion is no longer in the target&#39;s space, they can end their turn in that space, strikes against them also affect the target, and your strikes against the target gain an edge.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion darts around their target, staying out of reach and using them as a shield.*&#10;&#10;| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |&#10;|----------------------------------------------|----------------:|&#10;| **📏 Melee 1**                               | **🎯 One creature or object** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 5 + M damage&#10;- **12-16:** 8 + M damage&#10;- **17+:** 12 + M damage&#10;&#10;**Effect:** Your companion enters the target&#39;s space. Until your companion is no longer in the target&#39;s space, they can end their turn in that space, strikes against them also affect the target, and your strikes against the target gain an edge."></template>

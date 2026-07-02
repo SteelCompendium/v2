@@ -19,3 +19,6 @@ type: trait
 <p>Your innate <a href="../../../../class/shadow/">shadow</a> magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your innate [shadow](../../../class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2."></template>

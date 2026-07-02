@@ -19,3 +19,6 @@ type: feature
 <p>Your <a href="../../level-1/discipline-mastery/">Discipline Mastery</a> feature provides additional benefits when you have 10 or more discipline.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline."></template>

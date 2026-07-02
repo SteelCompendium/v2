@@ -20,3 +20,6 @@ type: feature
 <p>The gods favor your thievery with magic. Whenever you make a <a href="../../../../rule/test/test/">test</a> that uses a skill you have from the <a href="../../../../skill/intrigue/">intrigue skill group</a>, you can use <a href="../../../../rule/character/intuition/">Intuition</a> on the <a href="../../../../rule/test/test/">test</a> instead of another <a href="../../../../rule/character/characteristic/">characteristic</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The gods favor your thievery with magic. Whenever you make a [test](../../../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../../skill/intrigue/index.md), you can use [Intuition](../../../rule/character/intuition.md) on the [test](../../../rule/test/test.md) instead of another [characteristic](../../../rule/character/characteristic.md)."></template>

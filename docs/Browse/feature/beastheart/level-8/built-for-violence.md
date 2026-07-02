@@ -20,3 +20,6 @@ type: feature
 <p>You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature."></template>

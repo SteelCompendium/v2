@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You beseech the gods to give your allies what they need to win the day, and the gods answer.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |      **Maneuver** |&#10;|--------------------|------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Two allies** |&#10;&#10;**Effect:** Each target gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>

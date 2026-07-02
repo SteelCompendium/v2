@@ -20,3 +20,6 @@ type: feature
 <p>You and your companion gain a +2 bonus to speed.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your companion gain a +2 bonus to speed."></template>

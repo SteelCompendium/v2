@@ -17,3 +17,6 @@ type: feature
 <p>Unless otherwise noted in its description, a creature can activate a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure such as a potion with the <a href="../use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure that benefits the user either to themself or to a willing <a href="../../../../rule/combat/adjacent/">adjacent</a> creature. See <a href="../../../../rule/treasure/consumable/">Consumables</a> in Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Unless otherwise noted in its description, a creature can activate a [consumable](../../../rule/treasure/consumable.md) treasure such as a potion with the [Use Consumable](use-consumable.md) maneuver. A creature can use this maneuver to administer a [consumable](../../../rule/treasure/consumable.md) treasure that benefits the user either to themself or to a willing [adjacent](../../../rule/combat/adjacent.md) creature. See [Consumables](../../../rule/treasure/consumable.md) in Chapter 13: [Rewards](../../../../Read/heroes/rewards.md)."></template>

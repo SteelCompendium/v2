@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their <a href="../../../../../rule/health/stamina/">Stamina</a> and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their <a href="../../../../../rule/combat/turn/">turn</a> each <a href="../../../../../rule/combat/combat-round/">combat round</a>. At the end of the encounter, the target turns to dust and is blown away.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You didn&#39;t see that coming, did you?!*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |       **Main action** |&#10;|-------------------|----------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One dead enemy** |&#10;&#10;**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../../../../rule/health/stamina.md) and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their [turn](../../../../rule/combat/turn.md) each [combat round](../../../../rule/combat/combat-round.md). At the end of the encounter, the target turns to dust and is blown away."></template>

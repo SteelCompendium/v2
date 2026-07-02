@@ -44,3 +44,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Wrap them up in fire and melting stone.*&#10;&#10;| **Earth, Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|----------------------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 5 + R fire damage; A &lt; WEAK, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 9 + R fire damage; A &lt; AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 12 + R fire damage; A &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)"></template>

@@ -21,3 +21,6 @@ type: feature
 <p><a href="../virtue/">Virtue</a> remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called [virtue](virtue.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [virtue](virtue.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [virtue](virtue.md) on your abilities as if it were wrath.&#10;&#10;Additionally, you can spend 3 [virtue](virtue.md) to access one of your deity&#39;s domains that you usually don&#39;t have access to. When you do, you can use that domain&#39;s features until you finish another [respite](../../../rule/resource/respite.md).&#10;&#10;[Virtue](virtue.md) remains until you spend it."></template>

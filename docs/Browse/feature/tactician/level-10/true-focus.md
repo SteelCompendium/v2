@@ -19,3 +19,6 @@ type: feature
 <p>When you gain focus at the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 4 focus instead of 3.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you gain focus at the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 4 focus instead of 3."></template>

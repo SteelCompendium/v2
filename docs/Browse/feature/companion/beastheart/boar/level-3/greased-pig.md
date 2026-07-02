@@ -20,3 +20,6 @@ type: feature
 <p>While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver."></template>

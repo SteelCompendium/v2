@@ -19,3 +19,6 @@ type: feature
 <p>You use the magic of fire to create a ward of explosive energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/forced-movement/">push</a> that creature up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [push](../../../movement/forced-movement.md) that creature up to a number of squares equal to twice your [Reason](../../../rule/character/reason.md) score."></template>

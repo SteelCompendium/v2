@@ -19,3 +19,6 @@ type: trait
 <p>Whenever you or an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you or an [adjacent](../../../rule/combat/adjacent.md) creature takes damage from a [strike](../../../rule/combat/strike.md), you can use a [triggered action](../../../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../../../rule/combat/strike.md) by an amount equal to your level."></template>

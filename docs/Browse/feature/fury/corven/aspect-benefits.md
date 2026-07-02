@@ -19,3 +19,6 @@ type: feature
 <p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to hide and sneak. Additionally, whenever you fall, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to use your <a href="../../../ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a> ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to hide and sneak. Additionally, whenever you fall, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to use your [Aspect of the Wild](../../ability/fury/stormwight-kits/aspect-of-the-wild.md) ability."></template>

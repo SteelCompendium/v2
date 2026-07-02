@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the deinonychus deals damage to a <a href="../../../../../../condition/bleeding/">bleeding</a> creature, they gain 1 surge.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the deinonychus deals damage to a [bleeding](../../../../../condition/bleeding.md) creature, they gain 1 surge."></template>

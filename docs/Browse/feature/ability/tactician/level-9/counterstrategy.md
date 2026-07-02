@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 6 <a href="../../../../../rule/resource/surge/">surges</a>. Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*I&#39;ve identified a way to negate their strengths.*&#10;&#10;| **-**       | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You gain 6 [surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>

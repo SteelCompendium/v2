@@ -22,3 +22,6 @@ type: feature
 <p>The minions must be reassigned to a new squad if their new name differs from the other squad members.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md), you can transform up to two of your demon minions within your Summoner&#39;s Range. A demon can transform into a different demon minion within your Summoner&#39;s Range, maintaining their current [Stamina](../../../rule/health/stamina.md). Starting from [round](../../../rule/combat/combat-round.md) 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon&#39;s space.&#10;&#10;The minions must be reassigned to a new squad if their new name differs from the other squad members."></template>

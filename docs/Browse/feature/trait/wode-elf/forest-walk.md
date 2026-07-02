@@ -19,3 +19,6 @@ type: trait
 <p>You can <a href="../../../../movement/shifting/">shift</a> into and while within <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can [shift](../../../movement/shifting.md) into and while within [difficult terrain](../../../movement/difficult-terrain.md)."></template>

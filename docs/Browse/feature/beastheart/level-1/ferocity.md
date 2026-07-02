@@ -36,3 +36,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your companion tap into a predator&#39;s bloodlust that grants you a Heroic Resource called ferocity.&#10;&#10;### Ferocity in Combat&#10;&#10;At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.&#10;&#10;Additionally, the first time each combat round that a creature adjacent to your companion takes damage, you gain 2 ferocity.&#10;&#10;You lose any remaining ferocity at the end of the encounter.&#10;&#10;### Ferocity Outside of Combat&#10;&#10;Though you can&#39;t gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you or your companion uses an ability or effect outside of combat that costs ferocity, that same ability or effect can&#39;t be used outside of combat again until you earn 1 or more Victories or finish a respite.&#10;&#10;When you or your companion uses an ability outside of combat that has a variable or unlimited ferocity cost, the ability can be used as if you had spent an amount of ferocity equal to your Victories."></template>

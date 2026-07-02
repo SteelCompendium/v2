@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is <a href="../../../../../../../condition/bleeding/">bleeding</a> (save ends).</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The deinonychus kicks their prey, then slashes them with wicked claws.*&#10;&#10;| **Companion, Melee, Weapon** |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes damage equal to 3 + the deinonychus&#39;s Might score, and if they have M &lt; AVERAGE, they are [bleeding](../../../../../../condition/bleeding.md) until the end of their next turn.&#10;&#10;**Spend 1 Ferocity:** A target who has M &lt; STRONG is [bleeding](../../../../../../condition/bleeding.md) (save ends)."></template>

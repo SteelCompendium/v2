@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion and the target can each gain 2 surges, spend up to 2 Recoveries, and end one condition or effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion builds up courage with a roar, growl, or aggressive display.*&#10;&#10;| **Companion** |     **Maneuver** |&#10;|---------------|-----------------:|&#10;| **📏 Ranged 5** | **🎯 One ally** |&#10;&#10;**Effect:** Your companion and the target can each gain 2 surges, spend up to 2 Recoveries, and end one condition or effect on them that is ended by a saving throw or that ends at the end of their turn."></template>

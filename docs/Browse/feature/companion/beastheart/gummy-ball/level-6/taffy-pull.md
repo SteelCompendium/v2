@@ -20,3 +20,6 @@ type: feature
 <p>While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance."></template>

@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The ground in or directly beneath the area drops 3 squares.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You open up the ground, spewing out shrapnel of stone and debris.*&#10;&#10;| **Area, Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)** |                **Main action** |&#10;|--------------------------------|-------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**        |  **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 5 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 12 damage&#10;&#10;**Effect:** The ground in or directly beneath the area drops 3 squares."></template>

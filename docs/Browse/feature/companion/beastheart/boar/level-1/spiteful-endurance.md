@@ -20,3 +20,6 @@ type: feature
 <p>While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of <a href="../../../../../../condition/bleeding/">bleeding</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../../../../../condition/bleeding.md)."></template>

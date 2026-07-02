@@ -20,3 +20,6 @@ type: feature
 <p>Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals <a href="../../../../rule/damage/damage/">damage</a> to you, you can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> to pull that creature toward one of your <a href="../../level-1/minions/">minions</a> within your Summoner&#39;s Range a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals [damage](../../../rule/damage/damage.md) to you, you can use a [free triggered action](../../../rule/combat/triggered-action.md) to pull that creature toward one of your [minions](../level-1/minions.md) within your Summoner&#39;s Range a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>

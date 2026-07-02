@@ -36,3 +36,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next <a href="../../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You lean on future heroism to assist you in the now.*&#10;&#10;| **Area, Chronopathy, Psionic** |                 **Maneuver** |&#10;|--------------------------------|-----------------------------:|&#10;| **📏 2 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |&#10;&#10;**Effect:** The targets share 6 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can&#39;t gain more than 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can&#39;t gain any clarity until the end of the next [combat round](../../../../rule/combat/combat-round.md)."></template>

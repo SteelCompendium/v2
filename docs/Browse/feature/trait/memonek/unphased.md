@@ -19,3 +19,6 @@ type: trait
 <p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your ordered mind can&#39;t be caught off guard. You can&#39;t be made [surprised](../../../rule/combat/surprised.md)."></template>

@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You smash through their guard and shatter their armor, leaving them wide open.*&#10;&#10;| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |&#10;|-----------------------------------------------|----------------:|&#10;| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 9 + M damage&#10;- **12-16:** 14 + M damage&#10;- **17+:** 19 + M damage&#10;&#10;**Effect:** The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage."></template>

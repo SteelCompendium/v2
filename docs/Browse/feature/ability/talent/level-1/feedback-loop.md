@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target takes psychic damage equal to half the triggering damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |       **Triggered** |&#10;|---------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 One creature** |&#10;&#10;**Trigger:** The target deals damage to an ally.&#10;&#10;**Effect:** The target takes psychic damage equal to half the triggering damage."></template>

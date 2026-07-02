@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The force of your blow extends past the limits of your body, pulling your enemy closer.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|------------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 2**                     | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 2&#10;- **17+:** 11 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3"></template>

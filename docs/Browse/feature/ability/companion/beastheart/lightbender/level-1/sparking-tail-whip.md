@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A dazzled creature also takes a bane on strikes.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The lightbender swings their tail, sending gouts of sparks in their foe&#39;s face.*&#10;&#10;| **Companion, Melee, Weapon** |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes damage equal to 3 + the lightbender&#39;s Might score, and if they have M &lt; AVERAGE, they are dazzled until the end of their next turn. A dazzled creature has line of effect only within 1 square.&#10;&#10;**Spend 1 Ferocity:** A dazzled creature also takes a bane on strikes."></template>

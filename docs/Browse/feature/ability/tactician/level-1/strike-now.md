@@ -34,3 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Focus</span><span class="txt">You target two allies instead of one.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your foe left an opening. You point this out to an ally!*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;| ---------------------------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |&#10;&#10;**Effect:** The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).&#10;&#10;**Spend 5 Focus:** You target two allies instead of one."></template>

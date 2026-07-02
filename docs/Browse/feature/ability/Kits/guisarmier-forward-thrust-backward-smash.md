@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*In your hands, the haft is as good as the head.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |&#10;|---------------------------|--------------------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 2**            | **🎯 Two creatures or objects** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 damage&#10;- **12-16:** 7 damage&#10;- **17+:** 9 damage"></template>

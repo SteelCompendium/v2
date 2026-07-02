@@ -19,3 +19,6 @@ type: feature
 <p>Your expertise with weapons has grown to true mastery. Whenever you use a <a href="../../../../rule/combat/signature-ability/">signature ability</a> from one of your equipped kits or make a <a href="../../../common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you can negate a <a href="../../../../rule/dice/bane/">bane</a> on the <a href="../../../../rule/dice/power-roll/">power roll</a> or reduce a double <a href="../../../../rule/dice/bane/">bane</a> to a <a href="../../../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your expertise with weapons has grown to true mastery. Whenever you use a [signature ability](../../../rule/combat/signature-ability.md) from one of your equipped kits or make a [free strike](../../common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you can negate a [bane](../../../rule/dice/bane.md) on the [power roll](../../../rule/dice/power-roll.md) or reduce a double [bane](../../../rule/dice/bane.md) to a [bane](../../../rule/dice/bane.md)."></template>

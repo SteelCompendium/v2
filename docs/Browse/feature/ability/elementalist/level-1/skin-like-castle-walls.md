@@ -43,3 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effects associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is reduced by 1 for the target.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You cover yourself or an ally in protective stone.*&#10;&#10;| **Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |           **Triggered** |&#10;|---------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage.&#10;&#10;**Effect:** The target takes half the damage.&#10;&#10;**Spend 1 Essence:** If the damage has any [potency](../../../../rule/character/potency.md) effects associated with it, the [potency](../../../../rule/character/potency.md) is reduced by 1 for the target."></template>

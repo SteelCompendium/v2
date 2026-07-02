@@ -20,3 +20,6 @@ type: feature
 <p>During a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a number of creatures up to your <a href="../../../../rule/character/reason/">Reason</a> score who you have communicated with using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more <a href="../../../../rule/health/recoveries/">Recoveries</a>, each other linked creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="During a [respite](../../../rule/resource/respite.md), you can choose a number of creatures up to your [Reason](../../../rule/character/reason.md) score who you have communicated with using your [Telepathic Speech](../level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more [Recoveries](../../../rule/health/recoveries.md), each other linked creature can spend a [Recovery](../../../rule/health/recoveries.md)."></template>

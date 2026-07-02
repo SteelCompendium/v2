@@ -22,3 +22,6 @@ type: feature
 <p>This ability becomes a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> if the target was a minion (either yours or an enemy).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Once per [round](../../../rule/combat/combat-round.md), when a creature dies unwillingly within your Summoner&#39;s Range, you can use a [triggered action](../../../rule/combat/triggered-action.md) to summon a signature undead minion in their space at no cost, even if you&#39;re at your minion maximum, but only if they can be organized into one of your squads. The new minion can&#39;t act until the start of your next [turn](../../../rule/combat/turn.md).&#10;&#10;This ability becomes a free [triggered action](../../../rule/combat/triggered-action.md) if the target was a minion (either yours or an enemy)."></template>

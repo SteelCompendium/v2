@@ -29,3 +29,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use Call Forth, you can spend essence to change the size of one elemental minion you summon as shown on the following table.&#10;&#10;### Control the Elements&#10;&#10;| Essence Cost | Size Change |&#10;|--------------|-------------|&#10;| 1 | The minion becomes size 2. |&#10;| 3 | The minion becomes size 3. |&#10;| 5 | The minion becomes size 4. |"></template>

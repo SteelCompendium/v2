@@ -19,3 +19,6 @@ type: trait
 <p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../../common/maneuvers/grab/">Grab</a> or <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver against an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature, you can target one additional <a href="../../../../rule/combat/adjacent/">adjacent</a> creature, using the same <a href="../../../../rule/dice/power-roll/">power roll</a> for both targets. Additionally, you can have up to two creatures <a href="../../../../condition/grabbed/">grabbed</a> at a time.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../common/maneuvers/grab.md) or [Knockback](../../common/maneuvers/knockback.md) maneuver against an [adjacent](../../../rule/combat/adjacent.md) creature, you can target one additional [adjacent](../../../rule/combat/adjacent.md) creature, using the same [power roll](../../../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time."></template>

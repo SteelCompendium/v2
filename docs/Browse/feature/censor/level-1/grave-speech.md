@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Grave Speech {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/grave-speech&#34; data-subclass=&#34;death&#34;}&#10;&#10;&#10;*You commune with the lingering soul of the recently dead.*&#10;&#10;| **Magic**      |             **Maneuver** |&#10;|----------------|-------------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1** | **🎯 One dead creature** |&#10;&#10;**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../../rule/health/dying.md) can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice."></template>

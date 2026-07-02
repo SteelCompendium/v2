@@ -20,3 +20,6 @@ type: feature
 <p>The deinonychus&#39;s claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy&#39;s space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus&#39;s Might score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The deinonychus&#39;s claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy&#39;s space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus&#39;s Might score."></template>

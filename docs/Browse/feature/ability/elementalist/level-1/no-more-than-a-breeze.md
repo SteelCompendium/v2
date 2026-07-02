@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The material substance of a creature shreds away at your command.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |            **Maneuver** |&#10;|-------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can&#39;t provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their [turn](../../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.&#10;&#10;**Persistent 1:** The effect lasts until the start of your next [turn](../../../../rule/combat/turn.md)."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> into any square the target leaves when you <a href="../../../../../movement/forced-movement/">slide</a> them.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your attack leaves them reeling, allowing you to follow up.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; [slide](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 6 + A damage; [slide](../../../../movement/forced-movement.md) 3&#10;- **17+:** 10 + A damage; [slide](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** You can [shift](../../../../movement/shifting.md) into any square the target leaves when you [slide](../../../../movement/forced-movement.md) them."></template>

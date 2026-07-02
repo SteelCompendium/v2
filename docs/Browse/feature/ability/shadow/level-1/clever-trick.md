@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Choose an enemy within <a href="../../../../../rule/combat/distance/">distance</a> of the triggering strike, including the enemy who targeted you. The <a href="../../../../../rule/combat/strike/">strike</a> targets that enemy instead.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You sow a moment of confusion in combat, to your enemy&#39;s peril.*&#10;&#10;| **Magic**   | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** An enemy targets you with a [strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** Choose an enemy within [distance](../../../../rule/combat/distance.md) of the triggering strike, including the enemy who targeted you. The [strike](../../../../rule/combat/strike.md) targets that enemy instead."></template>

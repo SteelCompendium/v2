@@ -20,3 +20,6 @@ type: feature
 <p>While the condor is <a href="../../../../../../movement/fly/">flying</a> and has a speed greater than 0, ranged strikes against them take a bane.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the condor is [flying](../../../../../movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane."></template>

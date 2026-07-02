@@ -20,3 +20,6 @@ type: feature
 <p>If the ability has a <a href="../../../../rule/character/potency/">potency</a>, you increase that <a href="../../../../rule/character/potency/">potency</a> by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If the ability has a [potency](../../../rule/character/potency.md), you increase that [potency](../../../rule/character/potency.md) by an amount equal to your [Reason](../../../rule/character/reason.md) score."></template>

@@ -53,3 +53,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any ogre&#39;s turn, you can spend Malice to activate one of the following features.&#10;&#10;&gt; ❇️ **Shockwave (3 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; One ogre acting this turn jumps and lands on their rear, causing a 3 burst shockwave. Each size 1 creature in the area makes a **Might test** or **Agility test**.&#10;&gt;&#10;&gt; - **≤11:** 5 damage; vertical [push](../../movement/forced-movement.md) 3&#10;&gt; - **12-16:** 4 damage; vertical [push](../../movement/forced-movement.md) 2&#10;&gt; - **17+:** [Push](../../movement/forced-movement.md) 1&#10;&#10;&gt; 🌀 **Bully (5 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each ogre in the encounter [shifts](../../movement/shifting.md) up to their speed and can make a [free strike](../../feature/common/main-actions/free-strike.md). If they can, they gang up on the same target rather than picking different targets.&#10;&#10;&gt; ⭐️ **Rampage (7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Until the end of the round, each ogre has damage immunity 5 and deals an extra 5 damage with abilities, and heroic abilities that target any ogre have their Heroic Resource cost reduced by 1 (to a minimum of 1)."></template>

@@ -26,3 +26,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md):&#10;&#10;- **≤11:** Your information reaches no one.&#10;- **12-16:** Your information reaches the nearest populated area of town [size](../../../rule/character/size.md) or larger. You and each ally present when you make the [test](../../../rule/test/test.md) gain an [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) in that area until one of you spends a [Recovery](../../../rule/health/recoveries.md).&#10;- **17+:** Your information reaches the nearest populated area of town [size](../../../rule/character/size.md) or larger, plus the next closest such population. You and allies present for your [test](../../../rule/test/test.md) gain an [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) made in those areas until you start your next [respite](../../../rule/resource/respite.md)."></template>

@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you <a href="../../../../../movement/teleport/">teleport</a> this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You burn to ash before your foes&#39; eyes.*&#10;&#10;| **Magic**   | **Triggered Action** |&#10;|-------------|---------------------:|&#10;| **📏 Self** |          **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage and [teleport](../../../../movement/teleport.md) up to 5 squares.&#10;&#10;**Spend 1 Ferocity:** When you [teleport](../../../../movement/teleport.md) this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score."></template>

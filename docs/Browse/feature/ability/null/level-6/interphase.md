@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can use up to three <a href="../../../../../rule/combat/signature-ability/">signature abilities</a>, each of which gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You slip into a faster timestream to act more quickly.*&#10;&#10;| **Psionic** | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You can use up to three [signature abilities](../../../../rule/combat/signature-ability.md), each of which gains an [edge](../../../../rule/dice/edge.md)."></template>

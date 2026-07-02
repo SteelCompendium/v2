@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You or one ally within <a href="../../../../../rule/combat/distance/">distance</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You drain the energy from your target to revitalize yourself or an ally.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|--------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 + I corruption damage&#10;- **12-16:** 5 + I corruption damage&#10;- **17+:** 7 + I corruption damage&#10;&#10;**Effect:** You or one ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

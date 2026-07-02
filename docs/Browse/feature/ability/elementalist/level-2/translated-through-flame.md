@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your ally disappears, then reappears in a burst of fire.*&#10;&#10;| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |         **Main action** |&#10;|-------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**              | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target&#39;s new space.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 fire damage&#10;- **12-16:** 5 fire damage&#10;- **17+:** 8 fire damage"></template>

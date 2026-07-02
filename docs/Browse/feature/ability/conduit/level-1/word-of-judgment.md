@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../../../../rule/dice/power-roll/">power roll</a> has a double <a href="../../../../../rule/dice/bane/">bane</a> against the target.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your holy word saps an attacking enemy&#39;s strength.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |     **Triggered** |&#10;|--------------------|------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   |   **🎯 One ally** |&#10;&#10;**Trigger:** The target would take damage from an ability that uses a [power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The [power roll](../../../../rule/dice/power-roll.md) takes a [bane](../../../../rule/dice/bane.md) against the target.&#10;&#10;**Spend 1 Piety:** The [power roll](../../../../rule/dice/power-roll.md) has a double [bane](../../../../rule/dice/bane.md) against the target."></template>

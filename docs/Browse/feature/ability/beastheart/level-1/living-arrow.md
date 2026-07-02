@@ -37,3 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to ranged 15.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You point, and your companion appears.*&#10;&#10;| **Beastheart, Magic, Ranged** |                **Maneuver** |&#10;|-------------------------------|----------------------------:|&#10;| **📏 Ranged 10**              | **🎯 One unoccupied space** |&#10;&#10;**Effect:** If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.&#10;&#10;**Spend 1 Ferocity:** The distance increases to ranged 15."></template>

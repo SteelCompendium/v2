@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">Instead of commanding an existing minion, you summon a signature minion into an unoccupied space <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target to take the strike.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You call upon a minion to use their body to dampen the blow.*&#10;&#10;| **—** | **Triggered** |&#10;|-------|-------------:|&#10;| **📏 Summoner&#39;s Range** | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target is targeted by a [strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** If one of your minions is [adjacent](../../../../rule/combat/adjacent.md) to the target and is within [distance](../../../../rule/combat/distance.md) of the strike, they become the new target of the strike.&#10;&#10;**Spend 1 Essence:** Instead of commanding an existing minion, you summon a signature minion into an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to the target to take the strike."></template>

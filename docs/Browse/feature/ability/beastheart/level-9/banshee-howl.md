@@ -50,3 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion&#39;s howl, screech, roar, or psychic emanation presages death to those who hear it.*&#10;&#10;| **Area, Companion, Magic** |              **Main action** |&#10;|----------------------------|-----------------------------:|&#10;| **📏 3 burst**             | **🎯 Each enemy in the area** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 5 sonic damage; I &lt; WEAK [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 10 sonic damage; I &lt; AVERAGE [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 15 sonic damage; I &lt; STRONG [frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Effect:** While [frightened](../../../../condition/frightened.md) this way, a creature takes 10 psychic damage at the start of each of your turns.&#10;&#10;**Spend 1 Ferocity:** This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once."></template>

@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You conjure memories of their sins to harry your foes.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |    **Main action**  |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 + P holy damage; I &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 8 + P holy damage; I &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 11 + P holy damage; I &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)"></template>

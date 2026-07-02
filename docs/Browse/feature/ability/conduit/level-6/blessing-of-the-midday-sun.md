@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy in the area takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>, and you and each ally in the area gain 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your body emits a heat that bakes your enemies and inspires your allies.*&#10;&#10;| **Area, Magic**  |                              **Maneuver** |&#10;|------------------|------------------------------------------:|&#10;| **📏 4 [aura](../../../../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md)."></template>

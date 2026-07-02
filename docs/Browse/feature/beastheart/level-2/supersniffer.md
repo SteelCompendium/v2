@@ -20,3 +20,6 @@ type: feature
 <p>While a creature is adjacent to your companion, that creature can&#39;t be hidden or have concealment from your companion.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While a creature is adjacent to your companion, that creature can&#39;t be hidden or have concealment from your companion."></template>

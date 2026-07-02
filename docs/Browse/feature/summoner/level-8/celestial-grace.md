@@ -22,3 +22,6 @@ type: feature
 <p>Additionally, the area affected by your <a href="../../level-1/pixie-dust/">Pixie Dust</a> feature and any of your fey minions&#39; traits that affect <a href="../../../../rule/combat/adjacent/">adjacent</a> creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your number of [Recoveries](../../../rule/health/recoveries.md) further increases by 2.&#10;&#10;Additionally, the area affected by your [Pixie Dust](../level-1/pixie-dust.md) feature and any of your fey minions&#39; traits that affect [adjacent](../../../rule/combat/adjacent.md) creatures and/or the area within 1 or more squares of them increase that distance by 1 square."></template>

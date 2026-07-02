@@ -20,3 +20,6 @@ type: feature
 <p>While the bear is rampaging, you have damage immunity 5 and your size increases to the bear&#39;s size (to a maximum of 2). If you don&#39;t have enough unoccupied space to grow, you grow as soon as there is sufficient space.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the bear is rampaging, you have damage immunity 5 and your size increases to the bear&#39;s size (to a maximum of 2). If you don&#39;t have enough unoccupied space to grow, you grow as soon as there is sufficient space."></template>

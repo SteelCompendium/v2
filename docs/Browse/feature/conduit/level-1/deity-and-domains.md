@@ -20,3 +20,6 @@ type: feature
 <p>After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your <a href="../../../../rule/general/subclass/">subclass</a>, and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (<em>Quick Build:</em> <a href="../../../../religion/god/adun/">Adûn</a> for deity, and Life and Protection as domains.)</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Choose a god or [saint](../../../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.&#10;&#10;After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../../../rule/general/subclass.md), and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (*Quick Build:* [Adûn](../../../religion/god/adun.md) for deity, and Life and Protection as domains.)"></template>

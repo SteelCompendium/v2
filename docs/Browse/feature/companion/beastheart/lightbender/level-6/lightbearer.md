@@ -20,3 +20,6 @@ type: feature
 <p>While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane."></template>

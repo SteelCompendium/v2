@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../../../../rule/dice/power-roll/">power roll</a> has a double <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You invigorate an attacking ally with divine energy.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**      |        **Triggered** |&#10;|------------------------|---------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**       |      **🎯 One ally** |&#10;&#10;**Trigger:** The target makes an [ability roll](../../../../rule/dice/ability-roll.md) for a damage-dealing ability.&#10;&#10;**Effect:** The [power roll](../../../../rule/dice/power-roll.md) gains an [edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Piety:** The [power roll](../../../../rule/dice/power-roll.md) has a double [edge](../../../../rule/dice/edge.md)."></template>

@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*They shine vibrantly, a beautiful diamond in the night sky.*&#10;&#10;| **Fire, Green, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |            **Maneuver** |&#10;|--------------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                     | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target has a +3 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).&#10;&#10;**Persistent 1:** The effect lasts until the start of your next [turn](../../../../rule/combat/turn.md)."></template>

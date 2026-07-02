@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>For each <a href="../../../../../rule/resource/victories/">Victory</a> you have, you can target one creature. Each target gains the benefit of your <a href="../../../../elementalist/level-1/a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next <a href="../../../../../rule/combat/turn/">turn</a>, but doesn&#39;t gain the use of the <a href="../shared-void-sense/">Shared Void Sense</a> ability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You grant allies a taste of your unearthly vision.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |    **Maneuver** |&#10;|-------------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**        |  **🎯 Special** |&#10;&#10;**Effect:** For each [Victory](../../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next [turn](../../../../rule/combat/turn.md), but doesn&#39;t gain the use of the [Shared Void Sense](shared-void-sense.md) ability."></template>

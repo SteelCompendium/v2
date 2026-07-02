@@ -19,3 +19,6 @@ type: trait
 <p>You can push your body to move at incredible <a href="../../../../rule/character/speed/">speeds</a>. Your <a href="../../../../rule/character/speed/">speed</a> is 7.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can push your body to move at incredible [speeds](../../../rule/character/speed.md). Your [speed](../../../rule/character/speed.md) is 7."></template>

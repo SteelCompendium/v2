@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../../../null/level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes <a href="../../../../../rule/damage/rolled-damage/">rolled damage</a>, they take extra psychic damage equal to twice your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Attacks made by allies in your [null field](../../../null/level-1/null-field.md) disrupt your enemies&#39; thoughts, causing psychic pain.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes [rolled damage](../../../../rule/damage/rolled-damage.md), they take extra psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score."></template>

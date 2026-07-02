@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>, then gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the start of each <a href="../../../../../rule/combat/combat-round/">combat round</a> until the end of the encounter.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You start a drumroll that roars like thunder with every impact the heroes make.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 4 [burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each [combat round](../../../../rule/combat/combat-round.md) until the end of the encounter."></template>

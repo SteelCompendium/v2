@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You rip an enemy&#39;s world in twain.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Void** |               **Main action** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 9 + R corruption damage&#10;- **12-16:** 10 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next [turn](../../../../rule/combat/turn.md)&#10;- **17+:** 15 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to [adjacent](../../../../rule/combat/adjacent.md) creatures and objects until the start of your next [turn](../../../../rule/combat/turn.md)"></template>

@@ -18,3 +18,6 @@ type: feature
 <p>You gain a <a href="../../../../../../rule/resource/surge/">surge</a> the first time in a <a href="../../../../../../rule/combat/combat-round/">round</a> one of your undead <a href="../../../../../summoner/level-1/minions/">minions</a> unwillingly dies while you have <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the gates. You can choose to give the <a href="../../../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the gates.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain a [surge](../../../../../rule/resource/surge.md) the first time in a [round](../../../../../rule/combat/combat-round.md) one of your undead [minions](../../../../summoner/level-1/minions.md) unwillingly dies while you have [line of effect](../../../../../rule/combat/line-of-effect.md) to the gates. You can choose to give the [surge](../../../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../../../rule/combat/line-of-effect.md) to the gates."></template>

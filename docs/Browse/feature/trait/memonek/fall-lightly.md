@@ -18,3 +18,6 @@ type: trait
 <p>Your silicone body is low in density. Whenever you fall, you reduce the <a href="../../../../rule/combat/distance/">distance</a> of the fall by 2 squares.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your silicone body is low in density. Whenever you fall, you reduce the [distance](../../../rule/combat/distance.md) of the fall by 2 squares."></template>

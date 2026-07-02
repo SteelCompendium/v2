@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>When the target ends this <a href="../../../../../movement/forced-movement/">forced movement</a>, each creature within 2 squares of the target is <a href="../../../../../movement/forced-movement/">pushed</a> 3 squares.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 + M damage; [push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 11 + M damage; [push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 16 + M damage; [push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is [pushed](../../../../movement/forced-movement.md) 3 squares."></template>

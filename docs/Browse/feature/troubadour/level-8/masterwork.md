@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, when your named <a href="../../../../rule/combat/signature-ability/">signature ability</a> is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Choose one of your [signature abilities](../../../rule/combat/signature-ability.md) and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an [edge](../../../rule/dice/edge.md) and 1 [surge](../../../rule/resource/surge.md) that you can use only on this ability.&#10;&#10;Additionally, when your named [signature ability](../../../rule/combat/signature-ability.md) is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../level-4/zeitgeist.md) feature to tell tales of your exploits after the encounter ends."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false."></template>

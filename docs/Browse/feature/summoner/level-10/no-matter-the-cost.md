@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you sacrifice minions, you now reduce the cost of a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you sacrifice minions, you now reduce the cost of a [heroic ability](../../../rule/general/heroic-ability.md) or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1."></template>

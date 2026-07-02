@@ -20,3 +20,6 @@ type: feature
 <p>If you have a kit, you can&#39;t take this <a href="../enchantment/">enchantment</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and that [bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../../../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../../common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.&#10;&#10;If you have a kit, you can&#39;t take this [enchantment](enchantment.md)."></template>

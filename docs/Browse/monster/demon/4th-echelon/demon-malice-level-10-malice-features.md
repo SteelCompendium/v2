@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any level 10 or higher demon&#39;s turn, you can spend [Malice](../../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Prior Malice Features (3-7 [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; The demon activates a [Malice](../../../rule/monster/malice.md) feature available to demons of level 9 or lower.&#10;&#10;&gt; ❇️ **Soul Flense (7 [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; One demon acting this turn unleashes their pent-up agony and pain on every non-demon in a 5 burst. Each target makes a **Presence test**.&#10;&gt;&#10;&gt; - **≤11:** 10 corruption damage; the target is soul flensed&#10;&gt; - **12-16:** The target is soul flensed&#10;&gt; - **17+:** No effect.&#10;&gt;&#10;&gt; **Effect:** The demon removes all [conditions](../../../rule/combat/condition.md) and effects on themself that can be ended by a [saving throw](../../../rule/general/saving-throw.md), and transfers all those effects to each creature soul flensed this way."></template>

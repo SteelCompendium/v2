@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, each target has a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Together we are invincible!*&#10;&#10;| **Area**       |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 1 [burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md)."></template>

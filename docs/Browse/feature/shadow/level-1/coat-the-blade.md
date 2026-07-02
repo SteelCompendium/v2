@@ -36,3 +36,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Coat the Blade {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade&#34; data-subclass=&#34;caustic-alchemy&#34;}&#10;&#10;&#10;*A little poison goes a long way.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 2 [surges](../../../rule/resource/surge.md). Additionally, whenever you use a [surge](../../../rule/resource/surge.md) before the end of the encounter, you can choose to have it deal poison damage.&#10;&#10;**Spend 1+ Insight:** For each insight you spend, you gain 1 additional [surge](../../../rule/resource/surge.md)."></template>

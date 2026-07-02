@@ -37,3 +37,6 @@ type: ability
 <div class="sc-ability__section-body"><p>An adjacent ally can <a href="../../../../../movement/shifting/">shift</a> alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your minions do everything in their power to form a safe path for you to cross.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Melee 1** | **🎯 One of your minions** |&#10;&#10;**Effect:** You [shift](../../../../movement/shifting.md) into a square adjacent to the target, including vertically.&#10;&#10;You can [shift](../../../../movement/shifting.md) into squares that contain one of your minions, even if they occupy [difficult terrain](../../../../movement/difficult-terrain.md). Each time you [shift](../../../../movement/shifting.md) into a square that contains one of your minions while using this maneuver, you can [shift](../../../../movement/shifting.md) an additional square.&#10;&#10;**1 Essence:** An adjacent ally can [shift](../../../../movement/shifting.md) alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through."></template>

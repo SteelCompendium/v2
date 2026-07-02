@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The heavy impact of your weapon attacks drives your foes ever back.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                **Main action** |&#10;|---------------------------|-------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            |  **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; [push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 6 + M damage; [push](../../../../movement/forced-movement.md) 2&#10;- **17+:** 9 + M damage; [push](../../../../movement/forced-movement.md) 4"></template>

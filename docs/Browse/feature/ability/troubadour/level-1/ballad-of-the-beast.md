@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 [surge](../../../../rule/resource/surge.md)."></template>

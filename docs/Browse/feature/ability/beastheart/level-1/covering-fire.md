@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If the target is not <a href="../../../../../condition/prone/">prone</a>, they must use a free triggered action to fall <a href="../../../../../condition/prone/">prone</a> or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Keep your head down, or I&#39;ll shoot it off!*&#10;&#10;| **Beastheart, Ranged, Strike, Weapon** |     **Main action** |&#10;|----------------------------------------|--------------------:|&#10;| **📏 Ranged 5**                        | **🎯 One creature** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 2 + I damage&#10;- **12-16:** 4 + I damage&#10;- **17+:** 6 + I damage&#10;&#10;**Effect:** If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score."></template>

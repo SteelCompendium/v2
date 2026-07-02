@@ -19,3 +19,6 @@ type: feature
 <p>When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1."></template>

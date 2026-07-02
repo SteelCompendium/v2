@@ -20,3 +20,6 @@ type: feature
 <p>You have fire immunity equal to the hellhound&#39;s fire immunity.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have fire immunity equal to the hellhound&#39;s fire immunity."></template>

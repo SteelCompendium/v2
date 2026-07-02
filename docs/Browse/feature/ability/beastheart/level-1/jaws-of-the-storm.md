@@ -37,3 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The size of the cube increases by 1.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your foes are torn by a tempest of primordial teeth and claws.*&#10;&#10;| **Area, Beastheart, Magic** |                  **Maneuver** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 2 cube within 5**      | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.&#10;&#10;**Spend 1 Ferocity:** The size of the cube increases by 1."></template>

@@ -19,3 +19,6 @@ type: trait
 <p>You select a purchased trait that costs 2 ancestry points from your previous ancestry.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You select a purchased trait that costs 2 ancestry points from your previous ancestry."></template>

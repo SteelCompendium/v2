@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You and your allies are clad in shimmering armor.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 2 [aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

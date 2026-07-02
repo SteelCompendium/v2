@@ -19,3 +19,6 @@ type: trait
 <p>Your connection to the natural world allows you to resist certain <a href="../../../../rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your connection to the natural world allows you to resist certain [supernatural](../../../rule/general/supernatural.md) effects. You ignore temporary [difficult terrain](../../../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) by 1."></template>

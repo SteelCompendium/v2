@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*See how useless their weapons are!*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

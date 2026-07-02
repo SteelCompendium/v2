@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Discipline</span><span class="txt">The <a href="../../../../../rule/character/potency/">potency</a> of one effect associated with the damage is reduced by 1 for you.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You intuit the course of an incoming attack, reducing its effects.*&#10;&#10;| **Psionic** | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage.&#10;&#10;**Spend 1 Discipline:** The [potency](../../../../rule/character/potency.md) of one effect associated with the damage is reduced by 1 for you."></template>

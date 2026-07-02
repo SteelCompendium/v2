@@ -42,3 +42,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability, which can be used as a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md).&#10;&#10;## Mind Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike&#34;}&#10;&#10;&#10;*A telepathic bolt instantly zaps a creature&#39;s brain.*&#10;&#10;| **Psionic, [Ranged](../../../rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |&#10;|--------------------------------------------|--------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**                           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R psychic damage&#10;- **12-16:** 4 + R psychic damage&#10;- **17+:** 6 + R psychic damage&#10;&#10;**Strained:** The target takes an extra 2 psychic damage. You also take 2 psychic damage that can&#39;t be reduced in any way."></template>

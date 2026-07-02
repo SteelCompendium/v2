@@ -20,3 +20,6 @@ type: feature
 <p>While the lightbender is rampaging, your grip on spatial reality is <a href="../../../../../../condition/weakened/">weakened</a>, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the lightbender is rampaging, your grip on spatial reality is [weakened](../../../../../condition/weakened.md), and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends."></template>

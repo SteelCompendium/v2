@@ -19,3 +19,6 @@ type: feature
 <p>You surround yourself with an invisible ward of telekinetic energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/forced-movement/">push</a> them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [push](../../../movement/forced-movement.md) them up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>

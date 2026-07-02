@@ -20,3 +20,6 @@ type: feature
 <p>You can use all <a href="../../stormwight-kits/kit-features/">stormwight kits</a>. During a <a href="../../../../rule/resource/respite/">respite</a>, you can choose to swap your stormwight kit and still take another <a href="../../../../rule/resource/respite/">respite</a> activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a <a href="../../../../rule/test/test/">test</a> to track another creature, you can roll three dice and choose which two to use.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can use all [stormwight kits](../stormwight-kits/kit-features.md). During a [respite](../../../rule/resource/respite.md), you can choose to swap your stormwight kit and still take another [respite](../../../rule/resource/respite.md) activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a [test](../../../rule/test/test.md) to track another creature, you can roll three dice and choose which two to use."></template>

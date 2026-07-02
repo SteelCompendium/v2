@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>At the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you can use a maneuver to use this ability again without spending essence.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You open a rift into the void to harry your foes.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md), Void** |               **Main action** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 psychic damage&#10;- **12-16:** 4 psychic damage&#10;- **17+:** 6 psychic damage&#10;&#10;**Persistent 1:** At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>

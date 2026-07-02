@@ -20,3 +20,6 @@ type: feature
 <p>You have immunity 3 to the drake&#39;s attuned damage type.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have immunity 3 to the drake&#39;s attuned damage type."></template>

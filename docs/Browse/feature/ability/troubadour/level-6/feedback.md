@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>A <a href="../../../../../condition/prone/">prone target</a> ignores this ability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.*&#10;&#10;| **Area, Magic**               |               **Main action** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 Three 3 [cubes](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** A [prone target](../../../../condition/prone.md) ignores this ability.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 7 sonic damage; P &lt; WEAK[, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 sonic damage; P &lt; AVERAGE[, prone](../../../../condition/prone.md)&#10;- **17+:** 13 sonic damage; P &lt; STRONG[, prone](../../../../condition/prone.md)"></template>

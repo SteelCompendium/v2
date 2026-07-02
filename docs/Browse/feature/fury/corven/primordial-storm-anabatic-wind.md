@@ -19,3 +19,6 @@ type: feature
 <p>Your primordial <a href="../../../../rule/damage/damage-type/">damage type</a> is fire.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your primordial [damage type](../../../rule/damage/damage-type.md) is fire."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>When you or your companion deals damage with your <a href="../../../ability/beastheart/level-1/pyre/">Pyre</a> ability, each enemy adjacent to either of you takes the damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you or your companion deals damage with your [Pyre](../../ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage."></template>

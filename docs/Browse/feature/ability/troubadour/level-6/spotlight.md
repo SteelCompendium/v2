@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains 1 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> disappears at the end of the target&#39;s <a href="../../../../../rule/combat/turn/">turn</a> if they don&#39;t spend it.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The audience is watching, so you&#39;d better give them a show.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target&#39;s [turn](../../../../rule/combat/turn.md) if they don&#39;t spend it."></template>

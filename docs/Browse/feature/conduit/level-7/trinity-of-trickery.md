@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Trinity of Trickery {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery&#34; data-cost=&#34;9 Piety&#34; data-subclass=&#34;trickery&#34;}&#10;&#10;&#10;*Hey! I&#39;m over here. No, here, numbskull.*&#10;&#10;| **Magic, [Ranged](../../../rule/combat/ranged.md)**  |            **Maneuver** |&#10;|--------------------|------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../../rule/combat/turn.md), the target can move each duplicate up to their [speed](../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed."></template>

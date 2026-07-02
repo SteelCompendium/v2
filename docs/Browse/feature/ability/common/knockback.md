@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can usually target only creatures of your <a href="../../../../rule/character/size/">size</a> or smaller. If your <a href="../../../../rule/character/might/">Might</a> score is 2 or higher, you can target any creature with a <a href="../../../../rule/character/size/">size</a> equal to or less than your <a href="../../../../rule/character/might/">Might</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="| **[Melee](../../../rule/combat/melee.md), Weapon** |        **Maneuver** |&#10;|-------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**    | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**&#10;&#10;- **≤11:** [Push](../../../movement/forced-movement.md) 1&#10;- **12-16:** [Push](../../../movement/forced-movement.md) 2&#10;- **17+:** [Push](../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** You can usually target only creatures of your [size](../../../rule/character/size.md) or smaller. If your [Might](../../../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../../rule/character/size.md) equal to or less than your [Might](../../../rule/character/might.md) score."></template>

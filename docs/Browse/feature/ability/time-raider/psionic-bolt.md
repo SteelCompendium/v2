@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You shoot forth a purple beam of psychic force that moves your target.*&#10;&#10;| **Psionic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)**  | Main action                   |&#10;|------------------------------|-------------------------------|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 1&#10;- **12-16:** 5 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 2&#10;- **17+:** 7 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 3"></template>

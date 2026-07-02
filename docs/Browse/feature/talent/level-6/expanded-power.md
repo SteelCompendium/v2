@@ -20,3 +20,6 @@ type: feature
 <p>If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both."></template>

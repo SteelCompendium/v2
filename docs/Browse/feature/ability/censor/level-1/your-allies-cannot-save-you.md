@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target is <a href="../../../../../movement/forced-movement/">pushed</a> away from the target up to a number of squares equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe&#39;s guilt into a burst of holy power.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M holy damage&#10;- **12-16:** 5 + M holy damage&#10;- **17+:** 8 + M holy damage&#10;&#10;**Effect:** Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score."></template>

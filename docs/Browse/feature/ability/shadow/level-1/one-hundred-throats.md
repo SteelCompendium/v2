@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you during the move.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*As you move across the battlefield, every foe within reach feels your wrath.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Weapon**      | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 damage&#10;- **12-16:** 6 damage&#10;- **17+:** 9 damage"></template>

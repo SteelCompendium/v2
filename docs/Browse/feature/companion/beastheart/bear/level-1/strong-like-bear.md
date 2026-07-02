@@ -20,3 +20,6 @@ type: feature
 <p>You gain a +1 bonus to your stability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain a +1 bonus to your stability."></template>

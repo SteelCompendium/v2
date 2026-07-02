@@ -19,3 +19,6 @@ type: feature
 <p>Your companion&#39;s rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion&#39;s stat block.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your companion&#39;s rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion&#39;s stat block."></template>

@@ -21,3 +21,6 @@ type: feature
 <p>As your ferocity grows, you gain benefits as noted on the Reaver <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You are never [surprised](../../../rule/combat/surprised.md). Additionally, whenever you would [push](../../../movement/forced-movement.md) a target with [forced movement](../../../movement/forced-movement.md), you can [slide](../../../movement/forced-movement.md) them instead.&#10;&#10;As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit."></template>

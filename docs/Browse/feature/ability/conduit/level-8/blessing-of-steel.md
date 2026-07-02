@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, any <a href="../../../../../rule/dice/ability-roll/">ability roll</a> made against a target takes a <a href="../../../../../rule/dice/bane/">bane</a> and each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A protective [aura](../../../../rule/combat/aura.md) defends your allies from harm.*&#10;&#10;| **Area, Magic**   |                          **Maneuver** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter, any [ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5."></template>

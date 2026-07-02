@@ -19,3 +19,6 @@ type: feature
 <p>The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity."></template>

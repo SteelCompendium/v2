@@ -20,3 +20,6 @@ type: feature
 <p>You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability."></template>

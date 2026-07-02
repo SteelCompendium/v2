@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your death will fuel our [victory](../../../../rule/resource/victories.md).*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |  **Free triggered** |&#10;|--------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target dies.&#10;&#10;**Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a [Heroic Resource](../../../../rule/resource/heroic-resource.md) or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets."></template>

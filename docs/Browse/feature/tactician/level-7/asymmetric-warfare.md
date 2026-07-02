@@ -20,3 +20,6 @@ type: feature
 <p>You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a <a href="../../../../rule/test/montage-test/">montage test</a> or negotiation, you can obtain one automatic success on a <a href="../../../../rule/test/test/">test</a> made using a skill from the <a href="../../../../skill/intrigue/">intrigue skill group</a>. Additionally, you can use skills from the <a href="../../../../skill/intrigue/">intrigue skill group</a> to conceal large groups of people, such as escaping civilians and groups of guerilla warriors.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have advanced your skills in subterfuge, now directing full battlefield strategy and logistics. During a [montage test](../../../rule/test/montage-test.md) or negotiation, you can obtain one automatic success on a [test](../../../rule/test/test.md) made using a skill from the [intrigue skill group](../../../skill/intrigue/index.md). Additionally, you can use skills from the [intrigue skill group](../../../skill/intrigue/index.md) to conceal large groups of people, such as escaping civilians and groups of guerilla warriors."></template>

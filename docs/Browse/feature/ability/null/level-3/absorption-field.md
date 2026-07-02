@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../../../null/level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/ability-roll/">ability rolls</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your [null field](../../../null/level-1/null-field.md) absorbs kinetic energy.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md)."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You disappear before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>. After the <a href="../../../../../rule/dice/power-roll/">power roll</a> is resolved, you appear in the first unoccupied space at the far end of the line.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You vanish. They fall. You reappear.*&#10;&#10;| **Area, [Melee](../../../../rule/combat/melee.md), Weapon**     |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** You disappear before making the [power roll](../../../../rule/dice/power-roll.md). After the [power roll](../../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line."></template>

@@ -21,3 +21,6 @@ type: feature
 <ul><li>Only you can use the kit&#39;s signature ability, not your companion.</li><li>Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.</li></ul>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a kit. See the &lt;u&gt;Kits&lt;/u&gt; chapter of Draw Steel: Heroes for more information.&#10;&#10;You and your companion both gain the benefits of the kit, with the following exceptions:&#10;&#10;- Only you can use the kit&#39;s signature ability, not your companion.&#10;- Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4."></template>

@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*When you fire two arrows back-to-back, both hit their mark.*&#10;&#10;| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |                 **Main action** |&#10;|----------------------------|--------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 12**           | **🎯 Two creatures or objects** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 damage&#10;- **12-16:** 6 damage&#10;- **17+:** 8 damage"></template>

@@ -50,3 +50,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/teleport/">teleports</a> up to their speed.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion appears next to their victim in the guise of a heart-stopping nightmare.*&#10;&#10;| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |&#10;|---------------------------------------------|----------------:|&#10;| **📏 Melee 1**                              | **🎯 One creature** |&#10;&#10;**Effect:** Your companion [teleports](../../../../movement/teleport.md) up to their speed.&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 13 + I psychic damage; P &lt; WEAK [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 20 + I psychic damage; P &lt; AVERAGE [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 27 + I psychic damage; P &lt; STRONG [frightened](../../../../condition/frightened.md) (save ends)"></template>

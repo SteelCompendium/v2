@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> in a straight line toward the target after <a href="../../../../../movement/forced-movement/">pushing</a> them.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*As you force your enemy back with your weapon, you use your faith to stay close.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; [push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 6 + M damage; [push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 9 + M damage; [push](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../../movement/forced-movement.md) them."></template>

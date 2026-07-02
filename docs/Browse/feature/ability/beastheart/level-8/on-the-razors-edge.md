@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is <a href="../../../../../condition/bleeding/">bleeding</a>, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.*&#10;&#10;| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |&#10;|-----------------------------------------------|----------------:|&#10;| **📏 Melee 1 or ranged 5**                    | **🎯 One creature or object** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 5 + M damage&#10;- **12-16:** 15 + M damage&#10;- **17+:** 25 + M damage&#10;&#10;**Effect:** Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is [bleeding](../../../../condition/bleeding.md), dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act."></template>

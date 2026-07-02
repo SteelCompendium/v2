@@ -20,3 +20,6 @@ type: feature
 <p>While the condor is rampaging, you and the condor gain a +5 bonus to speed.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the condor is rampaging, you and the condor gain a +5 bonus to speed."></template>

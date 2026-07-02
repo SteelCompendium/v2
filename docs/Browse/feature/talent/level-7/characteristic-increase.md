@@ -19,3 +19,6 @@ type: feature
 <p>Each of your <a href="../../../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each of your [characteristic](../../../rule/character/characteristic.md) scores increases by 1, to a maximum of 4."></template>

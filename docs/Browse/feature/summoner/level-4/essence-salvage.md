@@ -20,3 +20,6 @@ type: feature
 <p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that any <a href="../../level-1/minions/">minion</a> unwillingly dies within your Summoner&#39;s Range, you gain 2 <a href="../../level-1/essence/">essence</a> instead of 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that any [minion](../level-1/minions.md) unwillingly dies within your Summoner&#39;s Range, you gain 2 [essence](../level-1/essence.md) instead of 1."></template>

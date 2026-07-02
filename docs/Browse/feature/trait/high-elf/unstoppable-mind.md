@@ -19,3 +19,6 @@ type: trait
 <p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../../condition/dazed/">dazed</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your mind allows you to maintain your focus in any situation. You can&#39;t be made [dazed](../../../condition/dazed.md)."></template>

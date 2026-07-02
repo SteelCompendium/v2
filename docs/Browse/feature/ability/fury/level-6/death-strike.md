@@ -42,3 +42,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You target a creature <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you with the same strike, using the same <a href="../../../../../rule/dice/power-roll/">power roll</a> as the triggering strike.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Once you taste your foe&#39;s blood, you become more efficient and [turn](../../../../rule/combat/turn.md) every killing blow into an opportunity.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** | **Free triggered** |&#10;|---------------------------|-------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            |        **🎯 Self** |&#10;&#10;**Trigger:** You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a [strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** You target a creature [adjacent](../../../../rule/combat/adjacent.md) to you with the same strike, using the same [power roll](../../../../rule/dice/power-roll.md) as the triggering strike."></template>

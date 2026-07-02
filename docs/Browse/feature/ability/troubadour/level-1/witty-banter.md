@@ -50,3 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A lyrical (and physical) jab insults an enemy and inspires an ally.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**       | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 + P psychic damage&#10;- **12-16:** 5 + P psychic damage&#10;- **17+:** 7 + P psychic damage&#10;&#10;**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).&#10;&#10;**Spend 1 Drama:** The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

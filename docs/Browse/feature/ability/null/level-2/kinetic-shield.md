@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While you have <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability, you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You manifest a force barrier that absorbs incoming kinetic energy.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;&#10;**Effect:** While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can&#39;t be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md)."></template>

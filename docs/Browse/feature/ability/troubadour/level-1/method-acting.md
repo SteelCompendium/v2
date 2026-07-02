@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can become <a href="../../../../../condition/bleeding/">bleeding</a> (save ends) to deal an extra 5 corruption damage to the target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*They&#39;re so hurt by your performance, you start to believe it yourself.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; P &lt; WEAK, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 10 + A damage; P &lt; AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 14 + A damage; P &lt; STRONG, [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target."></template>

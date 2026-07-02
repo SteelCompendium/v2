@@ -52,3 +52,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Surprised to see me?*&#10;&#10;| **Area, Companion, Magic** | **Main action** |&#10;|----------------------------|----------------:|&#10;| **📏 2 burst**             | **🎯 Each enemy in the area** |&#10;&#10;**Special:** This ability targets only enemies with line of effect to your companion.&#10;&#10;**Effect:** Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 4 damage; P &lt; WEAK [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 6 damage; P &lt; AVERAGE [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 10 damage; P &lt; STRONG [frightened](../../../../condition/frightened.md) (save ends)"></template>

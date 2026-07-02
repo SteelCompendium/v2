@@ -20,3 +20,6 @@ type: feature
 <p>You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage."></template>

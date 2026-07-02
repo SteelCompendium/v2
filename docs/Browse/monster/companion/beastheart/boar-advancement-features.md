@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="## Greased Pig {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.boar.level-3/greased-pig&#34;}&#10;&#10;While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.&#10;&#10;## Wild Rush {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.boar.level-6/wild-rush&#34;}&#10;&#10;While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../../../movement/shifting.md) instead of move when using the Charge action or the Gore maneuver.&#10;&#10;## Immortal Rage {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.boar.level-10/immortal-rage&#34;}&#10;&#10;Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina."></template>

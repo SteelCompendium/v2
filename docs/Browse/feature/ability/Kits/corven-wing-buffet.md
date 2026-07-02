@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to 2 squares before or after making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Foes who try to close in around you do so at their peril.*&#10;&#10;| **Area, [Melee](../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 1 [burst](../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 damage&#10;- **12-16:** 6 damage&#10;- **17+:** 8 damage&#10;&#10;**Effect:** You can [shift](../../../movement/shifting.md) up to 2 squares before or after making the [power roll](../../../rule/dice/power-roll.md)."></template>

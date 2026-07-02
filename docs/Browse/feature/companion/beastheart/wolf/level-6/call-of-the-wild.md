@@ -20,3 +20,6 @@ type: feature
 <p>While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can&#39;t be hidden or have concealment from you or the wolf.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can&#39;t be hidden or have concealment from you or the wolf."></template>

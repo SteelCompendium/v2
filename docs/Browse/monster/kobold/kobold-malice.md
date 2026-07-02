@@ -47,3 +47,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any kobolds&#39;s turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Maniple Tactics (3 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Up to 3 kobolds make a [free strike](../../feature/common/main-actions/free-strike.md), swaps positions with an [adjacent](../../rule/combat/adjacent.md) kobold, and then that kobold makes a [free strike](../../feature/common/main-actions/free-strike.md).&#10;&#10;&gt; 🌀 **Set the Initiative (5 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Two kobolds take their turns in a row.&#10;&#10;&gt; ⭐️ **Shield Wall (7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Until the end of the round, all kobolds with Shield? Shield! impose an additional bane on incoming strikes and abilities."></template>

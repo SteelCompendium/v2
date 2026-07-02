@@ -18,3 +18,6 @@ type: trait
 <p>Your stature reflects your giant forebears. Your <a href="../../../../rule/character/size/">size</a> is 1L.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your stature reflects your giant forebears. Your [size](../../../rule/character/size.md) is 1L."></template>

@@ -22,3 +22,6 @@ type: feature
 <p>Additionally, you and each of your undead minions ignore <a href="../../../../rule/damage/damage/">damage</a> rolled as a d3 or a d6 and <a href="../../../../rule/damage/damage/">damage</a> from environmental effects while you are not <a href="../../../../rule/health/winded/">winded</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You aren&#39;t affected by excess [damage](../../../rule/damage/damage.md) after all minions in a squad are dead.&#10;&#10;Additionally, you and each of your undead minions ignore [damage](../../../rule/damage/damage.md) rolled as a d3 or a d6 and [damage](../../../rule/damage/damage.md) from environmental effects while you are not [winded](../../../rule/health/winded.md)."></template>

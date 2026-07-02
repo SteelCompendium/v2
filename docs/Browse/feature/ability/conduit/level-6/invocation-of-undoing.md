@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and <a href="../../../../../movement/forced-movement/">push</a> objects, and to deal damage to buildings.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You utter a secret word of destruction known only to deities.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 4 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 sonic damage; [push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 6 sonic damage; [push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 9 sonic damage; [push](../../../../movement/forced-movement.md) 7&#10;&#10;**Special:** You can choose to have this ability deal damage to and [push](../../../../movement/forced-movement.md) objects, and to deal damage to buildings."></template>

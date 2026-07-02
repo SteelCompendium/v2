@@ -42,3 +42,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The <a href="../../../../../rule/damage/damage/">damage</a> the target receives is reduced by an amount that leaves the target alive with 1 point of <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*I command you to not die.*&#10;&#10;| **—** | **Triggered** |&#10;|-------|-------------:|&#10;| **📏 Summoner&#39;s Range** | **🎯 One ally** |&#10;&#10;**Trigger:** The target receives enough damage to die or be destroyed.&#10;&#10;**Special:** If the target is a minion, they must be the only minion remaining in their squad.&#10;&#10;**Effect:** The [damage](../../../../rule/damage/damage.md) the target receives is reduced by an amount that leaves the target alive with 1 point of [Stamina](../../../../rule/health/stamina.md)."></template>

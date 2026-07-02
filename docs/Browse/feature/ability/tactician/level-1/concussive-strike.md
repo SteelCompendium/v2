@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your precise strike leaves your foe struggling to respond.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|-----------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; M &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 5 + M damage; M &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 8 + M damage; M &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)"></template>

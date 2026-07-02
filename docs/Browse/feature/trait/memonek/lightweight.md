@@ -18,3 +18,6 @@ type: trait
 <p>Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your <a href="../../../../rule/character/size/">size</a> as one <a href="../../../../rule/character/size/">size</a> smaller than it is.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../../rule/character/size.md) as one [size](../../../rule/character/size.md) smaller than it is."></template>

@@ -39,3 +39,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a [bane](../../../rule/dice/bane.md) on [tests](../../../rule/test/test.md) made to search for you or other hidden creatures within 10 squares of you.&#10;&#10;Additionally, you have the following ability.&#10;&#10;## Night Watch {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-4/night-watch&#34;}&#10;&#10;&#10;*A steely dagger from out of the blue knocks another weapon off course.*&#10;&#10;| **[Ranged](../../../rule/combat/ranged.md), Weapon** |   **Triggered** |&#10;|--------------------|----------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 5**    | **🎯 One ally** |&#10;&#10;**Trigger:** The target takes damage from another creature&#39;s ability while you are hidden.&#10;&#10;**Effect:** The target takes half the damage. You remain hidden."></template>

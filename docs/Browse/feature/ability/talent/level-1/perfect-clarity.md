@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You take 1d6 damage, and you can&#39;t use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a> (save ends).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You clear the mind of nothing but the goal.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md), Telepathy** |            **Maneuver** |&#10;|--------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), the target gains a +3 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), and they have a double [edge](../../../../rule/dice/edge.md) on the next [power roll](../../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.&#10;&#10;**Strained:** You take 1d6 damage, and you can&#39;t use [triggered actions](../../../../rule/combat/triggered-action.md) (save ends)."></template>

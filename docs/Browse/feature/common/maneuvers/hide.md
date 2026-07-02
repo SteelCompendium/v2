@@ -17,3 +17,6 @@ type: feature
 <p>Using the <a href="../hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../../rule/combat/cover/">cover</a> or <a href="../../../../rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a> for full details.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Using the [Hide](hide.md) maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have [cover](../../../rule/combat/cover.md) or [concealment](../../../rule/combat/concealment.md). See Hide and Sneak in Chapter 9: [Tests](../../../../Read/heroes/tests.md) for full details."></template>

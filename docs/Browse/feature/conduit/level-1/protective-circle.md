@@ -20,3 +20,6 @@ type: feature
 <p>You can spend 10 uninterrupted minutes to create a <a href="../../../censor/level-1/protective-circle/">protective circle</a> on the ground large enough to hold one <a href="../../../../rule/character/size/">size</a> 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../../../censor/level-1/protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can spend 10 uninterrupted minutes to create a [protective circle](../../censor/level-1/protective-circle.md) on the ground large enough to hold one [size](../../../rule/character/size.md) 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../../censor/level-1/protective-circle.md), a creature can&#39;t be targeted by strikes."></template>

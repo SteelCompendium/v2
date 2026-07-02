@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../../rule/dice/edge/">edge</a> on <a href="../../../../../rule/test/test/">tests</a> made to <a href="../../../../../skill/intrigue/hide/">hide</a> or <a href="../../../../../skill/intrigue/sneak/">sneak</a>. The <a href="../../../../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.*&#10;&#10;| **Area, Magic** |                         **Maneuver**  |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 [aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."></template>

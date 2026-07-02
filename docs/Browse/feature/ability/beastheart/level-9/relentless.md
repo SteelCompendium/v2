@@ -50,3 +50,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/taunted/">taunted</a> this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion launches at your foe, shielding allies with their body.*&#10;&#10;| **Charge, Companion, Melee, Strike, Weapon** | **Main action** |&#10;|----------------------------------------------|----------------:|&#10;| **📏 Melee 1**                               | **🎯 One enemy** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 11 + M damage; P &lt; WEAK [taunted](../../../../condition/taunted.md) (save ends)&#10;- **12-16:** 17 + M damage; P &lt; AVERAGE [taunted](../../../../condition/taunted.md) (save ends)&#10;- **17+:** 22 + M damage; P &lt; STRONG [taunted](../../../../condition/taunted.md) (save ends)&#10;&#10;**Effect:** While the target is [taunted](../../../../condition/taunted.md) this way, all creatures except your companion have immunity 10 to damage dealt by the target."></template>

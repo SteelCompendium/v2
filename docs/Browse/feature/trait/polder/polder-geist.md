@@ -19,3 +19,6 @@ type: trait
 <p>Evading others&#39; notice gives you freedom to move. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, if no enemy has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to you or if you are hidden from or have <a href="../../../../rule/combat/concealment/">concealment</a> from any enemy with <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to you, you gain a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of your <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Evading others&#39; notice gives you freedom to move. At the start of each of your [turns](../../../rule/combat/turn.md) during combat, if no enemy has [line of effect](../../../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../../../rule/combat/concealment.md) from any enemy with [line of effect](../../../rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of your [turn](../../../rule/combat/turn.md)."></template>

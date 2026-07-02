@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each ally in the area can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A spicy performance lights a fire under your allies&#39; feet.*&#10;&#10;| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 fire damage; A &lt; WEAK, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 7 fire damage; A &lt; AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 10 fire damage; A &lt; STRONG, [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares."></template>

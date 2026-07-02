@@ -19,3 +19,6 @@ type: trait
 <p>Your small <a href="../../../../rule/character/size/">size</a> makes it easier for you to slip away from the fray. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your small [size](../../../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) you can shift when you take the [Disengage](../../common/move-actions/disengage.md) move action."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain one exploration, interpersonal, or intrigue perk of your choice."></template>

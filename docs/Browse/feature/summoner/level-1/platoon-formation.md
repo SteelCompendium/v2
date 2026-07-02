@@ -20,3 +20,6 @@ type: feature
 <p>Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional [damage](../../../rule/damage/damage.md) equal to your [Reason](../../../rule/character/reason.md) score."></template>

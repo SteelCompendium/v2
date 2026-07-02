@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This ability has the Charge keyword when it&#39;s used as a melee <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A sudden burst of energy erupts from your implement and shocks your foes&#39; nerves.*&#10;&#10;| **Magic, Melee, Ranged, Strike** |          **Main action** |&#10;|----------------------------------|--------------------------:|&#10;| **📏 Melee 1 or Ranged 5**      | **🎯 One creature or object** |&#10;&#10;**Effect:** R [damage](../../../../rule/damage/damage.md). If the target has R &lt; WEAK, they are [slowed](../../../../condition/slowed.md) (save ends).&#10;&#10;**Special:** This ability has the Charge keyword when it&#39;s used as a melee [strike](../../../../rule/combat/strike.md)."></template>

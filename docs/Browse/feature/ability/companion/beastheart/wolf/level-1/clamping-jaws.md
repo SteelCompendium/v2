@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../../condition/grabbed/">grabbed</a> by the wolf.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*With an unnerving growl, the wolf sinks powerful teeth into their quarry.*&#10;&#10;| **Companion, Melee, Weapon** |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes damage equal to 3 + the wolf&#39;s Might score, and if they have M &lt; AVERAGE, they are [grabbed](../../../../../../condition/grabbed.md) by the wolf.&#10;&#10;**Spend 1 Ferocity:** If the target has M &lt; STRONG, they are [grabbed](../../../../../../condition/grabbed.md) by the wolf."></template>

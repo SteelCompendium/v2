@@ -53,3 +53,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You quickly strike back at a foe.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |             **Free triggered** |&#10;|---------------------------|-------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 The triggering creature** |&#10;&#10;**Trigger:** A creature causes you to be [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md), or damages you while you are [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md).&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage&#10;- **12-16:** 9 + M damage&#10;- **17+:** 13 + M damage&#10;&#10;**Effect:** You can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, whenever the target takes damage while <a href="../../../../../rule/health/winded/">winded</a>, they can use a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a> to deal half the damage they took to the source of the damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|-------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter, whenever the target takes damage while [winded](../../../../rule/health/winded.md), they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage."></template>

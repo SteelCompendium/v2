@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a href="../../../../../../../movement/forced-movement/">force moved</a> up to a number of additional squares equal to the bear&#39;s Might score.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The bear casually swats the pesky foe into next week.*&#10;&#10;| **Companion, Melee, Weapon** |                  **Maneuver** |&#10;|------------------------------|------------------------------:|&#10;| **📏 Melee 1**               | **🎯 One creature or object** |&#10;&#10;**Effect:** The target takes damage equal to 4 + the bear&#39;s Might score and is pushed up to 2 squares.&#10;&#10;**Spend 1 Ferocity:** The target is [force moved](../../../../../../movement/forced-movement.md) up to a number of additional squares equal to the bear&#39;s Might score."></template>

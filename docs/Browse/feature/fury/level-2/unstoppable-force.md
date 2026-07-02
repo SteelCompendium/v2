@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you use the <a href="../../../common/main-actions/charge/">Charge</a> main action, you can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> or a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/general/heroic-ability/">heroic ability</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a>. Additionally, you can jump as part of your charge.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use the [Charge](../../common/main-actions/charge.md) main action, you can use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) or a [strike](../../../rule/combat/strike.md) [heroic ability](../../../rule/general/heroic-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md). Additionally, you can jump as part of your charge."></template>

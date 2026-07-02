@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You reverse the effects from an evildoer.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |      **Free triggered** |&#10;|-------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target gains a [condition](../../../../rule/combat/condition.md) or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score."></template>

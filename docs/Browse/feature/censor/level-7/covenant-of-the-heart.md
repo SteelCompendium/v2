@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can maintain bonds with up to three willing creatures using your [Invocation of the Heart](../level-4/invocation-of-the-heart.md) feature. Additionally, you have the following ability.&#10;&#10;## Guided to Your Side {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side&#34; data-subclass=&#34;love&#34;}&#10;&#10;&#10;*You concentrate on a friend and [teleport](../../../movement/teleport.md) to them.*&#10;&#10;| **Magic, [Ranged](../../../rule/combat/ranged.md)** |           **Main action** |&#10;|-------------------|--------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**  | **🎯 Self and each ally** |&#10;&#10;**Effect:** Each target is [teleport](../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../level-4/invocation-of-the-heart.md) feature. You don&#39;t need [line of effect](../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world."></template>

@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../../rule/combat/turn/">turns</a> while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../../rule/character/presence/">Presence</a> score. Each chosen target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*There once was a man from [Capital](../../../../rule/world/capital.md)...*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

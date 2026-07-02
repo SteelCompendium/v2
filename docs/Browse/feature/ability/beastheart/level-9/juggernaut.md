@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion can forgo dealing damage to targets of your choice.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion plows through the front lines, tossing enemies—and allies—this way and that.*&#10;&#10;| **Area, Charge, Companion** | **Main action** |&#10;|-----------------------------|----------------:|&#10;| **📏 2 burst**              | **🎯 Each creature** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 9 damage; vertical slide 2; M &lt; WEAK [prone](../../../../condition/prone.md)&#10;- **12-16:** 13 damage; vertical slide 4; M &lt; AVERAGE [prone](../../../../condition/prone.md)&#10;- **17+:** 18 damage; vertical slide 6; M &lt; STRONG [prone](../../../../condition/prone.md)&#10;&#10;**Effect:** Your companion can forgo dealing damage to targets of your choice."></template>

@@ -21,3 +21,6 @@ type: feature
 <p><a href="../divine-power/">Divine power</a> remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called [divine power](divine-power.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [divine power](divine-power.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [divine power](divine-power.md) on your abilities as if it were piety.&#10;&#10;Additionally, you can spend [divine power](divine-power.md) as if it were piety to use any [conduit](../../../class/conduit.md) abilities you don&#39;t have, as the gods answer your prayers with temporary and unique gifts. If you use a [conduit](../../../class/conduit.md) ability you don&#39;t have that usually costs no piety, you must spend 1 [divine power](divine-power.md) to use it.&#10;&#10;[Divine power](divine-power.md) remains until you spend it."></template>

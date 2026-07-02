@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../../../../../condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../../../../condition/slowed.md) until the end of the target&#39;s next turn."></template>

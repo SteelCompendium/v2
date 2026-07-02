@@ -36,3 +36,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Levitation Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/levitation-field&#34; data-subclass=&#34;telekinesis&#34;}&#10;&#10;&#10;*You manipulate the air around your allies so they can move as freely through the sky as you can.*&#10;&#10;| **Area, Psionic** |                 **Maneuver** |&#10;|-------------------|-----------------------------:|&#10;| **📏 3 [burst](../../../rule/combat/burst.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can [fly](../../../movement/fly.md) until the start of your next [turn](../../../rule/combat/turn.md), and can immediately [shift](../../../movement/shifting.md) up to their [speed](../../../rule/character/speed.md). You can also [shift](../../../movement/shifting.md) up to your [speed](../../../rule/character/speed.md). While [flying](../../../movement/fly.md), a target&#39;s [stability](../../../rule/character/stability.md) is reduced to 0 and can&#39;t be increased.&#10;&#10;**Spend 5 Clarity:** The effects last for 1 hour instead."></template>

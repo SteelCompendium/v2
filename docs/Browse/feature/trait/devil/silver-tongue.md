@@ -18,3 +18,6 @@ type: trait
 <p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the <a href="../../../../skill/interpersonal/">interpersonal skill group</a> (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> when attempting to discover an <a href="../../../../rule/general/npc/">NPC</a>&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the [interpersonal skill group](../../../skill/interpersonal/index.md) (see Skills in Chapter 9: [Tests](../../../../Read/heroes/tests.md)), and you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) when attempting to discover an [NPC](../../../rule/general/npc.md)&#39;s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../../../Read/heroes/negotiation.md))."></template>

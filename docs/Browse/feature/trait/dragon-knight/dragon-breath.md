@@ -42,3 +42,6 @@ type: trait
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following [signature ability](../../../rule/combat/signature-ability.md).&#10;&#10;## Dragon Breath {data-scc=&#34;mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath&#34;}&#10;&#10;*A furious exhalation of energy washes over your foes.*&#10;&#10;| **Area, Magic**        |               **Main action** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 4 damage&#10;- **17+:** 6 damage&#10;&#10;**Effect:** You choose the ability&#39;s [damage type](../../../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison."></template>

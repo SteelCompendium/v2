@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of <a href="../../../../../rule/combat/flanking/">flanking</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You use your foe as a tool against your enemies.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           |           **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 10 + M damage&#10;- **12-16:** 15 + M damage&#10;- **17+:** 21 + M damage&#10;&#10;**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../../../../rule/combat/flanking.md)."></template>

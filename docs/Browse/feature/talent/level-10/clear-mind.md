@@ -19,3 +19,6 @@ type: feature
 <p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 3 clarity instead of 2.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that a creature is [force moved](../../../movement/forced-movement.md), you gain 3 clarity instead of 2."></template>

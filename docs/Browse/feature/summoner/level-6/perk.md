@@ -20,3 +20,6 @@ type: feature
 <p>You gain an <a href="../../../../skill/interpersonal/">interpersonal</a>, <a href="../../../../skill/lore/">lore</a>, or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain an [interpersonal](../../../skill/interpersonal/index.md), [lore](../../../skill/lore/index.md), or supernatural perk of your choice. See Perks in Draw Steel: Heroes for more information."></template>

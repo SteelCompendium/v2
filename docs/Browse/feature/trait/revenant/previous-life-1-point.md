@@ -19,3 +19,6 @@ type: trait
 <p>You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time."></template>

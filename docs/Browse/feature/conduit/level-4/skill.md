@@ -19,3 +19,6 @@ type: feature
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../Read/heroes/tests.md)."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score."></template>

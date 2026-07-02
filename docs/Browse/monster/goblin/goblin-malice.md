@@ -53,3 +53,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any goblin&#39;s turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Goblin Mode (3 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each goblin in the encounter gains a +2 bonus to speed until the end of the round.&#10;&#10;&gt; ❇️ **Tiny Stabs (5 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Each enemy in the encounter takes 1 damage for each goblin [adjacent](../../rule/combat/adjacent.md) to them.&#10;&#10;&gt; 🌀 **Swamp Stink (7 [Malice](../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; The encounter map is covered in a green mist that lasts until the end of the round, and which can&#39;t be dispersed by wind. All areas of the map are [difficult terrain](../../movement/difficult-terrain.md) for non-goblins, and each non-goblin on the map makes a **Might test**.&#10;&gt;&#10;&gt; - **≤11:** 5 poison damage; the creature is [weakened](../../condition/weakened.md) until the mist disappears.&#10;&gt; - **12-16:** The creature is [weakened](../../condition/weakened.md) until the mist disappears.&#10;&gt; - **17+:** No effect."></template>

@@ -18,3 +18,6 @@ type: trait
 <p>Your hardened scales grant you <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> type when you finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your hardened scales grant you [damage immunity](../../../rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../../../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../../../rule/damage/damage-immunity.md) type when you finish a [respite](../../../rule/resource/respite.md)."></template>

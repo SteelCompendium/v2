@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This movement ignores <a href="../../../../../rule/character/stability/">stability</a>. If you <a href="../../../../../movement/forced-movement/">slide</a> into another creature, you resolve damage to both of you as if your <a href="../../../../../movement/forced-movement/">force move</a>ment had ended, but you keep moving through that creature&#39;s space.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You channel your discipline into momentum that defies gravity.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** Vertical [slide](../../../../movement/forced-movement.md) 5&#10;- **12-16:** Vertical [slide](../../../../movement/forced-movement.md) 7&#10;- **17+:** Vertical [slide](../../../../movement/forced-movement.md) 9&#10;&#10;**Effect:** This movement ignores [stability](../../../../rule/character/stability.md). If you [slide](../../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature&#39;s space."></template>

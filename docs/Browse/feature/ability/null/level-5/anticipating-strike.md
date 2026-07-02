@@ -54,3 +54,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This <a href="../../../../../rule/combat/strike/">strike</a> resolves before the triggering movement or main action.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |  **Free triggered** |&#10;|------------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves or uses a main action.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; I &lt; WEAK, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 10 + A damage; I &lt; AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 13 + A damage; I &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)&#10;&#10;**Effect:** This [strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action."></template>

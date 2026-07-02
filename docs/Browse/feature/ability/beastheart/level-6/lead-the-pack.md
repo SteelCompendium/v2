@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion&#39;s starting position can shift up to their speed and make free strikes.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Roaring like wild beasts, your companion and your allies rush toward the foe.*&#10;&#10;| **Companion** |   **Maneuver** |&#10;|---------------|---------------:|&#10;| **📏 Self**   | **🎯 Self**    |&#10;&#10;**Effect:** Your companion [shifts](../../../../movement/shifting.md) up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion&#39;s starting position can shift up to their speed and make free strikes."></template>

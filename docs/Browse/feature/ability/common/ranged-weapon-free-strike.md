@@ -38,3 +38,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 5**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 + M or A damage&#10;- **12-16:** 4 + M or A damage&#10;- **17+:** 6 + M or A damage"></template>

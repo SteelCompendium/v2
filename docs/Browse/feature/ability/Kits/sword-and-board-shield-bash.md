@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*In your hands, a shield isn&#39;t just for protection.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + M or A damage; [push](../../../movement/forced-movement.md) 1&#10;- **12-16:** 7 + M or A damage; [push](../../../movement/forced-movement.md) 2&#10;- **17+:** 9 + M or A damage; [push](../../../movement/forced-movement.md) 3; M &lt; STRONG[, prone](../../../condition/prone.md)"></template>

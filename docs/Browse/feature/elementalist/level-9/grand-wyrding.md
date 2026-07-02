@@ -20,3 +20,6 @@ type: feature
 <p>Additionally, when you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, choose one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../level-6/wyrding.md) feature as a main action.&#10;&#10;Additionally, when you have 5 or more [Victories](../../../rule/resource/victories.md), choose one of the following [damage types](../../../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type."></template>

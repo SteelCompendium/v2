@@ -20,3 +20,6 @@ type: feature
 <p>The ash you leave behind burns your foes. The first time on a <a href="../../../../rule/combat/turn/">turn</a> that you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a> away from or into a space <a href="../../../../rule/combat/adjacent/">adjacent</a> to an enemy, that enemy takes fire damage equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The ash you leave behind burns your foes. The first time on a [turn](../../../rule/combat/turn.md) that you use a shadow ability to [teleport](../../../movement/teleport.md) away from or into a space [adjacent](../../../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../../../rule/character/agility.md) score."></template>

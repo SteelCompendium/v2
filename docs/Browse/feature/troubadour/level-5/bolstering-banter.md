@@ -20,3 +20,6 @@ type: feature
 <p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Once on each of your [turns](../../../rule/combat/turn.md), you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../../../rule/health/recoveries.md) to gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to their [recovery value](../../../rule/health/recoveries.md)."></template>

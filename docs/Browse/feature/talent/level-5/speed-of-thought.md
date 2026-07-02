@@ -20,3 +20,6 @@ type: feature
 <p>Once per <a href="../../../../rule/combat/combat-round/">combat round</a> while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../rule/combat/turn/">turn</a> it into a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Once per [combat round](../../../rule/combat/combat-round.md) while you are not [dying](../../../rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../../../rule/combat/triggered-action.md) to [turn](../../../rule/combat/turn.md) it into a free [triggered action](../../../rule/combat/triggered-action.md)."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>Each of your minions have their <a href="../../../../rule/health/stamina/">Stamina</a> increased by 3 and their <a href="../../../../rule/character/stability/">stability</a> increased by 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each of your minions have their [Stamina](../../../rule/health/stamina.md) increased by 3 and their [stability](../../../rule/character/stability.md) increased by 1."></template>

@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You skewer your enemy like a boar upon a spit.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                             **Main action** |&#10;|---------------------------|--------------------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature of your [size](../../../../rule/character/size.md) or smaller** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 + M damage; M &lt; WEAK, [grabbed](../../../../condition/grabbed.md)&#10;- **12-16:** 5 + M damage; M &lt; AVERAGE, [grabbed](../../../../condition/grabbed.md)&#10;- **17+:** 7 + M damage; M &lt; STRONG, [grabbed](../../../../condition/grabbed.md)"></template>

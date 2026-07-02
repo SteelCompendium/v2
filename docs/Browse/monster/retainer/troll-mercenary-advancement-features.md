@@ -64,3 +64,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="&gt; **Level 7 Retainer Advancement Ability**&#10;&#10;&gt; 🗡 **Hangry Frenzy (Encounter)**&#10;&gt;&#10;&gt; | **Melee**      |        **Main action** |&#10;&gt; |----------------|-----------------------:|&#10;&gt; | **📏 Melee 1** | **🎯 Three creatures** |&#10;&gt;&#10;&gt; **Effect:** The mercenary must be [winded](../../rule/health/winded.md) to use this ability. The mercenary uses Big Bite against each target.&#10;&#10;&gt; **Level 10 Retainer Advancement Ability**&#10;&#10;&gt; ❗️ **Fire Bad (Encounter)**&#10;&gt;&#10;&gt; | **-**       | **Triggered action** |&#10;&gt; |-------------|---------------------:|&#10;&gt; | **📏 Self** |          **🎯 Self** |&#10;&gt;&#10;&gt; **Trigger:** An ability deals acid or fire damage to the mercenary.&#10;&gt;&#10;&gt; **Effect:** The mercenary moves up to their speed. If this movement takes them beyond the distance of the triggering ability, the ability has no effect on them."></template>

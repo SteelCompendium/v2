@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Fear of divine judgment overwhelms your foe.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |                      **Main action** |&#10;|----------------------------|-------------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           |                  **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 6 + I holy damage; I &lt; WEAK, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 9 + I holy damage; I &lt; AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 13 + I holy damage; I &lt; STRONG, [frightened](../../../../condition/frightened.md) (save ends)"></template>

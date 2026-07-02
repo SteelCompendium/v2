@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While <a href="../../../../../condition/slowed/">slowed</a> this way, the target takes 1 damage for every square they move, including from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You need just one blow to sabotage your target.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 10 + M damage; M &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 14 + M damage; M &lt; AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 20 + M damage; M &lt; STRONG, [slowed](../../../../condition/slowed.md) (save ends)&#10;&#10;**Effect:** While [slowed](../../../../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../../../../movement/forced-movement.md)."></template>

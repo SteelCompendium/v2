@@ -37,3 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../../condition/dazed/">dazed</a> until the end of their next turn.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The sporeling breathes a cloud of disorienting fumes.*&#10;&#10;| **Companion, Melee**         |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes poison damage equal to 3 + the sporeling&#39;s Might score, and the sporeling is invisible to the target until the end of the sporeling&#39;s next turn or they deal damage to the target.&#10;&#10;**Spend 1 Ferocity:** If the target has M &lt; STRONG, they are [dazed](../../../../../../condition/dazed.md) until the end of their next turn."></template>

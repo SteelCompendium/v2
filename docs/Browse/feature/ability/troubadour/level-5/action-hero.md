@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Unless you score a <a href="../../../../../rule/combat/critical-hit/">critical hit</a>, this ability can&#39;t reduce a non-minion target below 1 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*&#10;&#10;| **Area, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** Unless you score a [critical hit](../../../../rule/combat/critical-hit.md), this ability can&#39;t reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md)."></template>

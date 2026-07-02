@@ -19,3 +19,6 @@ type: feature
 <p>Your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature provides additional benefits when you have 12 or more ferocity.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [Growing Ferocity](../boren/growing-ferocity.md) feature provides additional benefits when you have 12 or more ferocity."></template>

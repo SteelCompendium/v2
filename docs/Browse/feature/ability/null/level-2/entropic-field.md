@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You drastically increase the local entropy.*&#10;&#10;| **Area, Psionic, Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 1**    | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 cold damage; A &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 9 cold damage; A &lt; AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 13 cold damage; A &lt; STRONG, [slowed](../../../../condition/slowed.md) (save ends)"></template>

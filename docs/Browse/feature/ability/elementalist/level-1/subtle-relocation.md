@@ -43,3 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score instead.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You call on the void to swallow and spit out an ally.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), Void**  |           **Triggered** |&#10;|--------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their [turn](../../../../rule/combat/turn.md), moves, or is [force moved](../../../../movement/forced-movement.md). &#10;&#10;**Effect:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.&#10;&#10;**Spend 1 Essence:** You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead."></template>

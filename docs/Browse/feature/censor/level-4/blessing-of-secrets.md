@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Blessing of Secrets {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets&#34; data-subclass=&#34;trickery&#34;}&#10;&#10;&#10;*You project an illusory [aura](../../../rule/combat/aura.md) that makes you and allies harder to notice.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 [aura](../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each creature in the area has a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to [hide](../../../skill/intrigue/hide.md) or [sneak](../../../skill/intrigue/sneak.md). The [aura](../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."></template>

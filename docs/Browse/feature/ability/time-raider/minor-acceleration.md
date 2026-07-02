@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a> score (your choice) until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You fill yourself or an ally with a burst of [speed](../../../rule/character/speed.md).*&#10;&#10;| **Psionic, [Melee](../../../rule/combat/melee.md)** | Maneuver               |&#10;|-------------------|------------------------|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**    | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next [turn](../../../rule/combat/turn.md)."></template>

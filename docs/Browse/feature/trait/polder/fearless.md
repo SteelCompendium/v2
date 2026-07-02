@@ -19,3 +19,6 @@ type: trait
 <p>Courage is all you know. You can&#39;t be made <a href="../../../../condition/frightened/">frightened</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Courage is all you know. You can&#39;t be made [frightened](../../../condition/frightened.md)."></template>

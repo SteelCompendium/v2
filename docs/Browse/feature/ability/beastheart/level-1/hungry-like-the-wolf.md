@@ -44,3 +44,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The enemy&#39;s blood flows like wine, invigorating your companion.*&#10;&#10;| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |&#10;|---------------------------------------------|----------------:|&#10;| **📏 Melee 1**                              | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 4 + M damage; your companion can spend a Recovery&#10;- **12-16:** 7 + M damage; you and your companion can each spend a Recovery&#10;- **17+:** 11 + M damage; A &lt; STRONG [bleeding](../../../../condition/bleeding.md) (EoT); you and your companion can each spend a Recovery and shift up to 2 squares"></template>

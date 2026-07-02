@@ -37,3 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your jump doesn&#39;t provoke opportunity attacks.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You summon a lightning bolt and ride it into battle.*&#10;&#10;| **Beastheart, Melee, Weapon** |        **Maneuver** |&#10;|-------------------------------|--------------------:|&#10;| **📏 Melee 1**                | **🎯 One creature** |&#10;&#10;**Effect:** The target takes damage equal to 3 + your Might score. Before you use this ability, you can [jump](../../../../movement/jump.md) up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies&#39; spaces don&#39;t count as [difficult terrain](../../../../movement/difficult-terrain.md) for you. The target takes extra lightning damage equal to the number of squares you jumped this way.&#10;&#10;**Spend 1 Ferocity:** Your jump doesn&#39;t provoke opportunity attacks."></template>

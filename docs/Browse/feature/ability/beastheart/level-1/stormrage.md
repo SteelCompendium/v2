@@ -50,3 +50,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don&#39;t trigger this effect.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Lances of primordial energy leap from you and your companion to sear, crush, or freeze your foe.*&#10;&#10;| **Beastheart, Magic, Melee, Ranged, Strike, Weapon** |              **Main action** |&#10;|------------------------------------------------------|-----------------------------:|&#10;| **📏 Melee 1 or ranged 5**                           | **🎯 One creature or object** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 2 + M cold, fire, lightning, or sonic damage&#10;- **12-16:** 4 + M cold, fire, lightning, or sonic damage&#10;- **17+:** 6 + M cold, fire, lightning, or sonic damage&#10;&#10;**Effect:** You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don&#39;t trigger this effect."></template>

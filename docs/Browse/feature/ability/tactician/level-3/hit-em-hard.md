@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you, that creature gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, which they can use immediately.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your allies see the advantages in attacking the targets you select.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](../../../../rule/resource/surge.md), which they can use immediately."></template>

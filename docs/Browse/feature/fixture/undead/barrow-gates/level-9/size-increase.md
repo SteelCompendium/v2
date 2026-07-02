@@ -18,3 +18,6 @@ type: feature
 <p>The gates are now size 3.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The gates are now size 3."></template>

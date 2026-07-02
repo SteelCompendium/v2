@@ -20,3 +20,6 @@ type: feature
 <p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) instead of +1."></template>

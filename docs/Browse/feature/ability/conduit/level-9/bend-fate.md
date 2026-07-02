@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each of the target&#39;s <a href="../../../../../rule/dice/power-roll/">power rolls</a> has its outcome improved by one tier.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The gods know you must prevail, and they bless your fate.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |         **Main action** |&#10;|--------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target&#39;s [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier."></template>

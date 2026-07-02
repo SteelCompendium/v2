@@ -20,3 +20,6 @@ type: feature
 <p>While the condor is rampaging, you gain wings and can <a href="../../../../../../movement/fly/">fly</a>. While flying, you gain a +2 bonus to speed. If you are midair when the condor&#39;s rampage ends, you take no damage from the fall.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the condor is rampaging, you gain wings and can [fly](../../../../../movement/fly.md). While flying, you gain a +2 bonus to speed. If you are midair when the condor&#39;s rampage ends, you take no damage from the fall."></template>

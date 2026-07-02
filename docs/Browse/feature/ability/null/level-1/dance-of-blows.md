@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/forced-movement/">slide</a> one <a href="../../../../../rule/combat/adjacent/">adjacent</a> enemy up to a number of squares equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You strike everywhere at once, tricking an enemy into moving out of position.*&#10;&#10;| **Area, Psionic, Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 1 [burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 damage&#10;- **12-16:** 4 damage&#10;- **17+:** 5 damage&#10;&#10;**Effect:** You can [slide](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score."></template>

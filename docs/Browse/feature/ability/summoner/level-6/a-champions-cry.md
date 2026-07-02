@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your champion unleashes a bellow that shakes you to your core.*&#10;&#10;| **Area, Champion, Magic** | **Main action** |&#10;|---------------------------|----------------:|&#10;| **📏 3 burst** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 psychic or sonic [damage](../../../../rule/damage/damage.md); I &lt; WEAK [frightened](../../../../condition/frightened.md) of you ([save ends](../../../../rule/general/saving-throw.md))&#10;- **12-16:** 5 psychic or sonic [damage](../../../../rule/damage/damage.md); I &lt; AVERAGE [frightened](../../../../condition/frightened.md) of you and all allies ([EoT](../../../../rule/combat/end-of-turn.md))&#10;- **17+:** 7 psychic or sonic [damage](../../../../rule/damage/damage.md); I &lt; STRONG [frightened](../../../../condition/frightened.md) of you and all allies ([save ends](../../../../rule/general/saving-throw.md))&#10;&#10;**Effect:** You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range."></template>

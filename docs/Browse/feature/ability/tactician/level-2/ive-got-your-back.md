@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>One ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your enemy will think twice about attacking your friend.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 5 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 9 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))&#10;- **17+:** 12 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))&#10;&#10;**Effect:** One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

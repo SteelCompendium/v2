@@ -53,3 +53,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The effect ends early if you take damage from an enemy&#39;s ability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Telepathy** |   **Maneuver** |&#10;|----------------------------------------|---------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 Special** |&#10;&#10;**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../../../../rule/combat/turn.md).&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Two creatures&#10;- **12-16:** Three creatures&#10;- **17+:** Five creatures&#10;&#10;**Strained:** The effect ends early if you take damage from an enemy&#39;s ability."></template>

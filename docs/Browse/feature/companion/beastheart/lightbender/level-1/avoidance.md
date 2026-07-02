@@ -20,3 +20,6 @@ type: feature
 <p>Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn."></template>

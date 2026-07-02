@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score."></template>

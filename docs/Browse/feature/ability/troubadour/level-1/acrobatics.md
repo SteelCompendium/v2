@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area can automatically obtain a tier 3 outcome on one <a href="../../../../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Folks love a good tumble.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../../../rule/combat/turn.md)."></template>

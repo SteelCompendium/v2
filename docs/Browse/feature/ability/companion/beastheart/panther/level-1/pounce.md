@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked <a href="../../../../../../../condition/prone/">prone</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The panther bunches up, then uncoils into a deadly leap.*&#10;&#10;| **Companion, Melee, Weapon** |     **Maneuver** |&#10;|------------------------------|-----------------:|&#10;| **📏 Melee 1**               | **🎯 One enemy** |&#10;&#10;**Effect:** The target takes damage equal to 3 + the panther&#39;s Might score, and if they have M &lt; AVERAGE, they are knocked [prone](../../../../../../condition/prone.md).&#10;&#10;**Spend 1 Ferocity:** The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked [prone](../../../../../../condition/prone.md)."></template>

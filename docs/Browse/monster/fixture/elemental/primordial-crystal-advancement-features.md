@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="&gt; **Level 5 Fixture Advancement Feature**&#10;&gt;&#10;&lt;!-- @type: feature | @id: terra-resonance | @level: 5 --&gt;&#10;&gt; ⭐️ **Terra Resonance**&#10;&gt;&#10;&gt; Each [round](../../../rule/combat/combat-round.md), you gain a [surge](../../../rule/resource/surge.md) the first time an area of terrain gains a [supernatural](../../../rule/general/supernatural.md) effect (excluding [auras](../../../rule/combat/aura.md)) while you have [line of effect](../../../rule/combat/line-of-effect.md) to the crystal. You can choose to give the [surge](../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../rule/combat/line-of-effect.md) to the crystal.&#10;&#10;&gt; **Level 9 Fixture Advancement Feature**&#10;&gt;&#10;&lt;!-- @type: feature | @id: size-increase | @level: 9 --&gt;&#10;&gt; ⭐️ **Size Increase**&#10;&gt;&#10;&gt; The crystal is now size 3.&#10;&gt;&#10;&lt;!-- @type: feature | @id: magnified-strike | @level: 9 --&gt;&#10;&gt; ⭐️ **Magnified Strike**&#10;&gt;&#10;&gt; When you or an ally makes a ranged [strike](../../../rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../../rule/resource/surge.md) which they can use on the ability."></template>

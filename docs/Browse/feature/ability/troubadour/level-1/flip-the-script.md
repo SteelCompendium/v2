@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../../../../movement/teleport/">teleport</a>ed target who was <a href="../../../../../condition/slowed/">slowed</a> is no longer <a href="../../../../../condition/slowed/">slowed</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You try a different take on events, justifying the new locations everyone ended up in.*&#10;&#10;| **Area, Magic** |                       **Main action** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. Any [teleport](../../../../movement/teleport.md)ed target who was [slowed](../../../../condition/slowed.md) is no longer [slowed](../../../../condition/slowed.md)."></template>

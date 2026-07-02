@@ -20,3 +20,6 @@ type: feature
 <p>You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The <a href="../../../../rule/combat/distance/">distance</a> of all your abilities that have the Magic, <a href="../../../../rule/combat/ranged/">Ranged</a>, and Void keywords increases by 2 squares.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../../rule/combat/distance.md) of all your abilities that have the Magic, [Ranged](../../../rule/combat/ranged.md), and Void keywords increases by 2 squares."></template>

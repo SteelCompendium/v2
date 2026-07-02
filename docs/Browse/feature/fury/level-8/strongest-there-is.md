@@ -20,3 +20,6 @@ type: feature
 <p>Your strength is unmatched. Whenever you make a <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your strength is unmatched. Whenever you make a [Might](../../../rule/character/might.md) [test](../../../rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Might](../../../rule/character/might.md) score."></template>

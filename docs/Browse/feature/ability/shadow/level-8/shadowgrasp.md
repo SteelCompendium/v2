@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 11 corruption damage; A &lt; WEAK, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 16 corruption damage; A &lt; AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 21 corruption damage; A &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)"></template>

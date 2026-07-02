@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 or 2 Ferocity</span><span class="txt">This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The drake exhales a blast of flesh-melting energy.*&#10;&#10;| **Area, Companion, Magic**  |                     **Maneuver** |&#10;|-----------------------------|---------------------------------:|&#10;| **📏 1 or 2 cube within 1** | **🎯 Each creature in the area** |&#10;&#10;**Effect:** The target takes damage of the drake&#39;s attuned damage type (see [Elementally Attuned](../../../../../companion/beastheart/drake/level-1/elementally-attuned.md)) equal to the drake&#39;s Might score.&#10;&#10;**Spend 1 or 2 Ferocity:** This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1."></template>

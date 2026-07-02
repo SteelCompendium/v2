@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A magic circle extends out from you, barring foes from getting close.*&#10;&#10;| **Area, Magic**        | **Maneuver** |&#10;|------------------------|-------------:|&#10;| **📏 Self; see below** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), no enemy can approach within 5 squares of you by moving or by being [force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be [force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement."></template>

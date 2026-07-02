@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You call down a sphere of fire that burns your foes to ash.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 9 fire damage&#10;- **12-16:** 14 fire damage&#10;- **17+:** 19 fire damage"></template>

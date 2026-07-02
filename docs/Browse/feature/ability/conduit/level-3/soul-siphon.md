@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>One ally within <a href="../../../../../rule/combat/distance/">distance</a> can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A beam of energy connects a foe to a friend, draining life from one to heal the other.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |  **Main action** |&#10;|---------------------------|-----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One enemy** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 7 + I corruption damage&#10;- **12-16:** 10 + I corruption damage&#10;- **17+:** 15 + I corruption damage&#10;&#10;**Effect:** One ally within [distance](../../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../../rule/health/recoveries.md)."></template>

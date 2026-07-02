@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Light shines at your command, burning your foes and blessing your allies.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 4 fire damage&#10;- **12-16:** 6 fire damage&#10;- **17+:** 10 fire damage&#10;&#10;**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next [turn](../../../../rule/combat/turn.md)."></template>

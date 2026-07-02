@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your <a href="../../../../../rule/character/speed/">speed</a> before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You flit about the battlefield and take an opportunistic strike.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + A damage&#10;- **12-16:** 7 + A damage&#10;- **17+:** 10 + A damage&#10;&#10;**Effect:** You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md)."></template>

@@ -33,3 +33,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">As a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a>, you can shapeshift a second time, either into another <a href="../../../../../complication/animal-form/">animal form</a>, into your hybrid form, or back into your true form.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You assume the form of the animal who channels your ferocity.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](../../../../complication/animal-form.md) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](../../../../complication/animal-form.md), you treat your [Renown](../../../../rule/resource/renown.md) as 2 higher than usual.&#10;&#10;**Spend 1 Ferocity:** As a [free maneuver](../../../../rule/combat/free-maneuver.md), you can shapeshift a second time, either into another [animal form](../../../../complication/animal-form.md), into your hybrid form, or back into your true form."></template>

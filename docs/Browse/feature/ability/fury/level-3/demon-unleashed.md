@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy who starts their <a href="../../../../../rule/combat/turn/">turn</a> <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> until the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Foes tremble at the sight of you.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy who starts their [turn](../../../../rule/combat/turn.md) [adjacent](../../../../rule/combat/adjacent.md) to you and has P &lt; STRONG is [frightened](../../../../condition/frightened.md) until the end of their [turn](../../../../rule/combat/turn.md)."></template>

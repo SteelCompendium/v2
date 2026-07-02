@@ -19,3 +19,6 @@ type: feature
 <p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) with magic abilities."></template>

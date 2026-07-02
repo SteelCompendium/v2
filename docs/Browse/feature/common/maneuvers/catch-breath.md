@@ -18,3 +18,6 @@ type: feature
 <p>A creature who is <a href="../../../../rule/health/dying/">dying</a> (see <a href="../../../../rule/health/dying/">Dying</a> and Death in <a href="../../../../rule/health/stamina/">Stamina</a> below) can&#39;t use the <a href="../catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend <a href="../../../../rule/health/recoveries/">Recoveries</a> in other ways.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="A creature who uses the [Catch Breath](catch-breath.md) maneuver spends a [Recovery](../../../rule/health/recoveries.md) and regains [Stamina](../../../rule/health/stamina.md) equal to their [recovery value](../../../rule/health/recoveries.md). (See below for [Stamina](../../../rule/health/stamina.md). See [Recoveries](../../../rule/health/recoveries.md) in Chapter 1: [The Basics](../../../../Read/heroes/the-basics.md).)&#10;&#10;A creature who is [dying](../../../rule/health/dying.md) (see [Dying](../../../rule/health/dying.md) and Death in [Stamina](../../../rule/health/stamina.md) below) can&#39;t use the [Catch Breath](catch-breath.md) maneuver, but other creatures can help them spend [Recoveries](../../../rule/health/recoveries.md) in other ways."></template>

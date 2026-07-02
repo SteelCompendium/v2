@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You inspire your allies with tales of your [saint](../../../../rule/world/saint.md)&#39;s great deeds.*&#10;&#10;| **Area, Magic** |              **Main action** |&#10;|-----------------|-----------------------------:|&#10;| **📏 4 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or to stand up if [prone](../../../../condition/prone.md)."></template>

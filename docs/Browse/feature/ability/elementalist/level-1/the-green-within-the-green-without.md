@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You <a href="../../../../../movement/forced-movement/">slide</a> one creature within 10 squares of the target up to 2 squares.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Whipping vines erupt from a foe&#39;s body to grasp at another close by.*&#10;&#10;| **Green, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |      **Main action** |&#10;|----------------------------------|---------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R damage&#10;- **12-16:** 5 + R damage&#10;- **17+:** 7 + R damage&#10;&#10;**Effect:** You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares."></template>

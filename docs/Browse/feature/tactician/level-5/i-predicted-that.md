@@ -20,3 +20,6 @@ type: feature
 <p>Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a> <a href="../../../../rule/test/test/">tests</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) [tests](../../../rule/test/test.md)."></template>

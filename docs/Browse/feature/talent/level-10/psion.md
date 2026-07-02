@@ -20,3 +20,6 @@ type: feature
 <p>Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&#39;s strained effect even if you&#39;re not strained.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.&#10;&#10;Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&#39;s strained effect even if you&#39;re not strained."></template>

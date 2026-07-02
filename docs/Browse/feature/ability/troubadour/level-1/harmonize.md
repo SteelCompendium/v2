@@ -42,3 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Drama</span><span class="txt">You can trigger this ability when a target uses an ability that has a <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 3 + each additional drama spent.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Give the chorus a little punch.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**      |   **Triggered** |&#10;|-----------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 5** | **🎯 One ally** |&#10;&#10;**Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).&#10;&#10;**Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.&#10;&#10;**Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent."></template>

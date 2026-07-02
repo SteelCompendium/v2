@@ -19,3 +19,6 @@ type: feature
 <p>Your companion gains the level 3 advancement feature granted by their stat block.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your companion gains the level 3 advancement feature granted by their stat block."></template>

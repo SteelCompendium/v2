@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../../rule/combat/turn/">turns</a> until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;The power of the gods is within you, friends. Allow me to unleash it.&#34;*&#10;&#10;| **Area, Magic**   |                          **Maneuver** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your [turns](../../../../rule/combat/turn.md) until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 3 [surges](../../../../rule/resource/surge.md)."></template>

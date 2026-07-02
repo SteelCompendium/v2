@@ -21,3 +21,6 @@ type: feature
 <p>At the Director&#39;s discretion, you and your allies can use skills from the <a href="../../../../skill/intrigue/">intrigue skill group</a> to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While in your presence or working according to your plans, each of your allies gains an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) using any skill from the [intrigue skill group](../../../skill/intrigue/index.md). Additionally, you can use the [Lead](../../../skill/interpersonal/lead.md) skill to assist another creature with any [test](../../../rule/test/test.md) made using a skill from the [intrigue group](../../../skill/intrigue/index.md).&#10;&#10;At the Director&#39;s discretion, you and your allies can use skills from the [intrigue skill group](../../../skill/intrigue/index.md) to attempt research or reconnaissance during a negotiation instead of outside of a negotiation."></template>

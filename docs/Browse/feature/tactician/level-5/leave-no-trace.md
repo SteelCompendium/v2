@@ -20,3 +20,6 @@ type: feature
 <p>You and any ally within 10 squares of you can move at full <a href="../../../../rule/character/speed/">speed</a> while sneaking. Additionally, enemies within 10 squares of you take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/test/test/">tests</a> made to search for you or your allies while any of you are hidden.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You and any ally within 10 squares of you can move at full [speed](../../../rule/character/speed.md) while sneaking. Additionally, enemies within 10 squares of you take a [bane](../../../rule/dice/bane.md) on [tests](../../../rule/test/test.md) made to search for you or your allies while any of you are hidden."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>Your maximum number of minions increases by 4 and you summon up to four of your <a href="../minions/">signature minions</a> at the start of each of your turns instead of three.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your maximum number of minions increases by 4 and you summon up to four of your [signature minions](minions.md) at the start of each of your turns instead of three."></template>

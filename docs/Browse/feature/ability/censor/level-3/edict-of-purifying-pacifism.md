@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever a target makes a <a href="../../../../../rule/combat/strike/">strike</a>, they take holy damage equal to twice your <a href="../../../../../rule/character/presence/">Presence</a> score. A target judged by you takes an extra 2d6 holy damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You shed a righteous energy that punishes enemies who would harm you or your allies.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 [aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target makes a [strike](../../../../rule/combat/strike.md), they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage."></template>

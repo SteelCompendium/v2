@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target chooses between gaining 2 <a href="../../../../../rule/resource/surge/">surges</a> or dealing additional <a href="../../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../../rule/character/reason/">Reason</a> on their next <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;Show them what you&#39;re made of!&#34;*&#10;&#10;| **Magic, Ranged** | **Maneuver** |&#10;|-------------------|-------------:|&#10;| **📏 3 burst** | **🎯 All Allies** |&#10;&#10;**Effect:** Each target chooses between gaining 2 [surges](../../../../rule/resource/surge.md) or dealing additional [damage](../../../../rule/damage/damage.md) equal to your [Reason](../../../../rule/character/reason.md) on their next [strike](../../../../rule/combat/strike.md)."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>You can have a number of bonds active equal to your level. When you form a bond with a new <a href="../../../../rule/general/npc/">NPC</a> that would exceed the limit, you must choose which of your active bonds to lose.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you obtain a success on a [test](../../../rule/test/test.md) to interact with an [NPC](../../../rule/general/npc.md) using a skill from the [interpersonal group](../../../skill/interpersonal/index.md), you can form a bond with that [NPC](../../../rule/general/npc.md). When you enter into a negotiation with a bonded [NPC](../../../rule/general/npc.md), their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded [NPC](../../../rule/general/npc.md)&#39;s interest by 1, you instead increase their interest by 2 (to a maximum of 5).&#10;&#10;You can have a number of bonds active equal to your level. When you form a bond with a new [NPC](../../../rule/general/npc.md) that would exceed the limit, you must choose which of your active bonds to lose."></template>

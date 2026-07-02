@@ -51,3 +51,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The rumble of your companion&#39;s dash is a rolling thunderclap, their impact an earthquake.*&#10;&#10;| **Companion, Magic, Melee, Strike** | **Main action** |&#10;|-------------------------------------|----------------:|&#10;| **📏 Self**                         | **🎯 Self**     |&#10;&#10;**Effect:** Your companion [shifts](../../../../movement/shifting.md) up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 9 sonic damage; M &lt; WEAK [prone](../../../../condition/prone.md)&#10;- **12-16:** 13 sonic damage; M &lt; AVERAGE [prone](../../../../condition/prone.md)&#10;- **17+:** 18 sonic damage; M &lt; STRONG [prone](../../../../condition/prone.md)&#10;&#10;**Spend 2 Ferocity:** You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move."></template>

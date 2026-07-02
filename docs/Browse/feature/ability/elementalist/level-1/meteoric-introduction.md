@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You give your enemy a gentle tap-like an asteroid impact.*&#10;&#10;| **Earth, Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R damage; [push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 5 + R damage; [push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 8 + R damage; [push](../../../../movement/forced-movement.md) 4"></template>

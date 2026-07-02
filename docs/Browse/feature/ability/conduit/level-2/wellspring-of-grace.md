@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever a target starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area, they can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A holy light is emitted from your body, healing your allies.*&#10;&#10;| **Area, Magic**  |              **Main action** |&#10;|------------------|-----------------------------:|&#10;| **📏 3 [aura](../../../../rule/combat/aura.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their [turn](../../../../rule/combat/turn.md) in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

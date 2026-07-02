@@ -20,3 +20,6 @@ type: feature
 <p>The gods send divine favor to you and your allies. While you are not <a href="../../../../rule/health/dying/">dying</a>, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against you or any ally within 3 squares of you.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against you or any ally within 3 squares of you."></template>

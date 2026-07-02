@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You contort your enemy&#39;s body into a stance they struggle to escape from.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; A &lt; WEAK, [grabbed](../../../../condition/grabbed.md)&#10;- **12-16:** 7 + A damage; A &lt; AVERAGE, [grabbed](../../../../condition/grabbed.md)&#10;- **17+:** 9 + A damage; A &lt; STRONG, [grabbed](../../../../condition/grabbed.md)"></template>

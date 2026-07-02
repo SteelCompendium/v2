@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> and can use a <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that has a double <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You remind your allies how to best use their gear.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**                |                         **Main action** |&#10;|------------------------------|----------------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md)."></template>

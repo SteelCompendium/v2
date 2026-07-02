@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If the target has none of your allies <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them, you gain 1 <a href="../../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;It&#39;s better, just you and me. Isn&#39;t it?&#34;*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + A damage&#10;- **12-16:** 6 + A damage&#10;- **17+:** 9 + A damage&#10;&#10;**Effect:** If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md)."></template>

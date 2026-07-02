@@ -20,3 +20,6 @@ type: feature
 <p>If you aren&#39;t <a href="../../../../rule/combat/surprised/">surprised</a> at the start of an encounter, you can choose one enemy within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second <a href="../../../../rule/combat/combat-round/">combat round</a>. You must earn 3 <a href="../../../../rule/resource/victories/">Victories</a> before you can use this feature again.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If you aren&#39;t [surprised](../../../rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../../../rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second [combat round](../../../rule/combat/combat-round.md). You must earn 3 [Victories](../../../rule/resource/victories.md) before you can use this feature again."></template>

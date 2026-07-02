@@ -19,3 +19,6 @@ type: feature
 <ul><li><b><a href="../../../../rule/health/stamina/">Stamina</a> <a href="../../../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3 per <a href="../../../../rule/general/echelon/">echelon</a></li><li><b><a href="../../../../rule/character/speed/">Speed</a> <a href="../../../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +3</li><li><b><a href="../../../../rule/combat/melee/">Melee</a> Damage <a href="../../../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +2/+2/+2</li><li><b>Disengage <a href="../../../../rule/dice/bonuses-and-penalties/">Bonus</a>:</b> +1</li></ul>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="- **[Stamina](../../../rule/health/stamina.md) [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../../rule/general/echelon.md)&#10;- **[Speed](../../../rule/character/speed.md) [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +3&#10;- **[Melee](../../../rule/combat/melee.md) Damage [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +2/+2/+2&#10;- **Disengage [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +1"></template>

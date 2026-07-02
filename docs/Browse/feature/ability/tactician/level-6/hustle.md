@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their <a href="../../../../../rule/character/speed/">speed</a>. You and each target gain 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You and your allies coordinate to form a new battle line.*&#10;&#10;| **Area**       |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 2 [burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You and each target gain 2 [surges](../../../../rule/resource/surge.md)."></template>

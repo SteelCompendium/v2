@@ -20,3 +20,6 @@ type: feature
 <p>The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time on a turn that you or the spark deal lightning damage, you gain 1 surge."></template>

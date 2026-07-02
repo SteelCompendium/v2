@@ -19,3 +19,6 @@ type: trait
 <p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../../rule/combat/condition/">conditions</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), or [weakened](../../../condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../../../rule/combat/condition.md)."></template>

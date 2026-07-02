@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The first time on a <a href="../../../../../rule/combat/turn/">turn</a> that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*After some holy lightning, your enemy will think twice about their next attack.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I lightning damage&#10;- **12-16:** 6 + I lightning damage&#10;- **17+:** 9 + I lightning damage&#10;&#10;**Effect:** The first time on a [turn](../../../../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends)."></template>

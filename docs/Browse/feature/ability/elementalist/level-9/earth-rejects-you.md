@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>At the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you can use a maneuver to use this ability again without spending essence.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Everyone and everything gets blown away in an eruption of rocks and debris.*&#10;&#10;| **Area, Earth, Magic, [Ranged](../../../../rule/combat/ranged.md)** |                          **Main action** |&#10;|--------------------------------|-----------------------------------------:|&#10;| **📏 5 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Persistent 2:** At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>

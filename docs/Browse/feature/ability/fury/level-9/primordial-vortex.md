@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You channel the power of the Primordial Chaos to pull foes to you.*&#10;&#10;| **Area, Magic, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5&#10;- **17+:** 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** If this [forced movement](../../../../movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken."></template>

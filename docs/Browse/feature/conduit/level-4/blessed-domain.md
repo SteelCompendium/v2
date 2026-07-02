@@ -19,3 +19,6 @@ type: feature
 <p>Whenever you gain piety from a domain effect, you gain 1 additional piety.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you gain piety from a domain effect, you gain 1 additional piety."></template>

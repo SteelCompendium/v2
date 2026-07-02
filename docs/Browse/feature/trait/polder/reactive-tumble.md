@@ -19,3 +19,6 @@ type: trait
 <p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/shifting/">shift</a> 1 square after the <a href="../../../../movement/forced-movement/">forced movement</a> is resolved.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) 1 square after the [forced movement](../../../movement/forced-movement.md) is resolved."></template>

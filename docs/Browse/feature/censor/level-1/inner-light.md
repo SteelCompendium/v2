@@ -20,3 +20,6 @@ type: feature
 <p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../../ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../ability/conduit/level-2/morning-light.md) into the chosen character&#39;s soul, granting them a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../rule/general/saving-throw.md) that lasts until you finish another [respite](../../../rule/resource/respite.md)."></template>

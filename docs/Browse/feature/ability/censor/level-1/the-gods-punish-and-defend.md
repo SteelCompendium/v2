@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> to allow yourself or one ally within 10 squares to regain <a href="../../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../../rule/health/recoveries/">recovery value</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You channel holy energy to smite a foe and heal an ally.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 + M holy damage&#10;- **12-16:** 8 + M holy damage&#10;- **17+:** 11 + M holy damage&#10;&#10;**Effect:** You can spend a [Recovery](../../../../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md)."></template>

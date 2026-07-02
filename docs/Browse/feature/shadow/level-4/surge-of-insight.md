@@ -19,3 +19,6 @@ type: feature
 <p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 2 insight instead of 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../../rule/resource/surge.md), you gain 2 insight instead of 1."></template>

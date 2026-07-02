@@ -43,3 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Essence</span><span class="txt">The target can spend an additional <a href="../../../../../rule/health/recoveries/">Recovery</a> for each essence spent.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The power you channel grants the ability to get back in the fight.*&#10;&#10;| **Green, Magic, [Ranged](../../../../rule/combat/ranged.md)**          |           **Triggered** |&#10;|-----------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their [turn](../../../../rule/combat/turn.md) or takes damage.&#10;&#10;**Effect:** The target can spend a [Recovery](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1+ Essence:** The target can spend an additional [Recovery](../../../../rule/health/recoveries.md) for each essence spent."></template>

@@ -22,3 +22,6 @@ type: feature
 <p>If your <a href="../../../../rule/character/speed/">speed</a> previously had the <a href="../../../../movement/fly/">Fly</a> keyword, you can now <a href="../../../../movement/fly/">fly</a> while sneaking an additional number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [speed](../../../rule/character/speed.md) gains the [Fly](../../../movement/fly.md) and [Hover](../../../movement/hover.md) keywords. You lose the [Hover](../../../movement/hover.md) keyword from this feature while you are [dazed](../../../condition/dazed.md), [dying](../../../rule/health/dying.md), or you fly more than 1 square above the surface of the ground.&#10;&#10;If your [speed](../../../rule/character/speed.md) previously had the [Fly](../../../movement/fly.md) keyword, you can now [fly](../../../movement/fly.md) while sneaking an additional number of squares equal to your [Reason](../../../rule/character/reason.md)."></template>

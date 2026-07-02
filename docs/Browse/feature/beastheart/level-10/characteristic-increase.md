@@ -19,3 +19,6 @@ type: feature
 <p>Your and your companion&#39;s Might and Intuition scores increase to 5.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your and your companion&#39;s Might and Intuition scores increase to 5."></template>

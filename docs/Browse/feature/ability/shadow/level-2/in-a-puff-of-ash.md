@@ -45,3 +45,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You enchant a [strike](../../../../rule/combat/strike.md) with your [teleport](../../../../movement/teleport.md)ation magic.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|------------------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**               | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; you can [teleport](../../../../movement/teleport.md) the target 1 square&#10;- **12-16:** 10 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 3 squares&#10;- **17+:** 14 + A damage; you can [teleport](../../../../movement/teleport.md) the target up to 5 squares"></template>

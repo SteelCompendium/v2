@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following performance ability, which is usable with your [Routines](routines.md) feature.&#10;&#10;## Blocking {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/blocking&#34; data-subclass=&#34;auteur&#34;}&#10;&#10;&#10;*No, no, no, you lose the audience that way. Try it like this...*&#10;&#10;| **Area, Magic, Performance** |                    **No action** |&#10;|------------------------------|---------------------------------:|&#10;| **📏 2 [aura](../../../rule/combat/aura.md)**                | **🎯 Each creature in the area** |&#10;&#10;**Effect:** At the end of each of your [turns](../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../rule/character/presence.md) score and [teleport](../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can&#39;t be [teleport](../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../rule/health/dying.md), or result in them suffering a [condition](../../../rule/combat/condition.md) or other negative effect."></template>

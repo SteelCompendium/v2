@@ -18,3 +18,6 @@ type: feature
 <p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [primordial aspect](../level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit."></template>

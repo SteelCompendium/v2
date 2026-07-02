@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If the target is within <a href="../../../../../rule/combat/distance/">distance</a> at the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you can make the <a href="../../../../../rule/dice/power-roll/">power roll</a> again without spending essence (no action required).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Fire engulfs your target and continues to churn.*&#10;&#10;| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 5 + R fire damage&#10;- **12-16:** 8 + R fire damage&#10;- **17+:** 11 + R fire damage&#10;&#10;**Persistent 1:** If the target is within [distance](../../../../rule/combat/distance.md) at the start of your [turn](../../../../rule/combat/turn.md), you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence (no action required)."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is <a href="../../../../../../condition/grabbed/">grabbed</a> by the ball.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball&#39;s space. If the target ends this movement and completely fits within the ball&#39;s space, the target is [grabbed](../../../../../condition/grabbed.md) by the ball."></template>

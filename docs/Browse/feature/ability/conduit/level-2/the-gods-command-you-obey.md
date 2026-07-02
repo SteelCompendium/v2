@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You speak with the voice of your [saint](../../../../rule/world/saint.md), commanding your enemies.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 4 + I holy damage; P &lt; WEAK, before taking damage, the target makes a [free strike](../../../common/main-actions/free-strike.md) against a target you choose&#10;- **12-16:** 7 + I holy damage; P &lt; AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability&#10;- **17+:** 11 + I holy damage; P &lt; STRONG, before taking damage, the target shifts up to their [speed](../../../../rule/character/speed.md) to a location you choose, uses an ability of your choice, and you choose any targets for that ability"></template>

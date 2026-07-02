@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not <a href="../../../../../rule/health/dying/">dying</a>, you can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*In your anger, you revert to a more bestial form.*&#10;&#10;| **-**       | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** You lose [Stamina](../../../../rule/health/stamina.md) and are not [dying](../../../../rule/health/dying.md).&#10;&#10;**Effect:** You gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Might](../../../../rule/character/might.md) score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.&#10;&#10;**Spend 1 Ferocity:** If you are not [dying](../../../../rule/health/dying.md), you can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

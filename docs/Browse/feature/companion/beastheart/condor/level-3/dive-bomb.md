@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they&#39;ve moved on their turn (to a maximum of 5).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they&#39;ve moved on their turn (to a maximum of 5)."></template>

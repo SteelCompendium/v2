@@ -19,3 +19,6 @@ type: feature
 <p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can automatically climb at full <a href="../../../../rule/character/speed/">speed</a> while moving.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you are in your hybrid form, your [size](../../../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can automatically climb at full [speed](../../../rule/character/speed.md) while moving."></template>

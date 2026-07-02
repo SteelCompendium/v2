@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the creature who made the triggering strike.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;I&#39;d have brought treats had I known I&#39;d be fighting a dog.&#34;*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md)**      |           **Triggered** |&#10;|----------------|------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1** | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage from a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** The target makes a [free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike."></template>

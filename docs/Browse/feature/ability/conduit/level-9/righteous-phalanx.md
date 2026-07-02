@@ -36,3 +36,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a <a href="../../../../../rule/combat/combat-round/">combat round</a> or starts their turn there takes 15 damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A wall of spinning swords and knives appears where you wish.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  | **Main action** |&#10;|--------------------------|----------------:|&#10;| **📏 15 wall within 10** |  **🎯 Special** |&#10;&#10;**Effect:** The wall lasts until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 15 damage."></template>

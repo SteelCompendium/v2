@@ -20,3 +20,6 @@ type: feature
 <p>If the ability deals <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>, it deals extra damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If the ability deals [rolled damage](../../../rule/damage/rolled-damage.md), it deals extra damage equal to your [Intuition](../../../rule/character/intuition.md) score."></template>

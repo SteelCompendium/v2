@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;If you won&#39;t kneel, the gods will make you.&#34;*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 4 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 4 corruption damage; I &lt; WEAK, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **12-16:** 7 corruption damage; I &lt; AVERAGE, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 11 corruption damage; I &lt; STRONG, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

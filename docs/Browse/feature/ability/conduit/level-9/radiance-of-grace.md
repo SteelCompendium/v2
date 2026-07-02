@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../../../../rule/combat/turn/">turn</a>, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Intense light is emitted from your body, healing your allies.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |    **Main action** |&#10;|--------------------|-------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Four allies** |&#10;&#10;**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of their [turn](../../../../rule/combat/turn.md), and can stand up if they [are prone](../../../../condition/prone.md)."></template>

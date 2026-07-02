@@ -19,3 +19,6 @@ type: feature
 <p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you or any ally damages a target marked by you, you gain 2 focus instead of 1.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that you or any ally damages a target marked by you, you gain 2 focus instead of 1."></template>

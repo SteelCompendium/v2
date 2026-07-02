@@ -29,3 +29,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You now start encounters and round-tracked situations by summoning up to two additional minions for every two [Victories](../../../rule/resource/victories.md) you have (in addition to the two you normally summon).&#10;&#10;Each of your minions&#39; [Stamina](../../../rule/health/stamina.md) improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a [Stamina](../../../rule/health/stamina.md) boost can treat their [characteristics](../../../rule/character/characteristic.md) as one higher for the purposes of resisting [potencies](../../../rule/character/potency.md) (to a maximum value of 5).&#10;&#10;### 10th-Level Minion Stamina Increase&#10;&#10;| Minion | Stamina Increase |&#10;|--------|-----------------|&#10;| Signature Minion | Stamina +1 (to a total of +3) |&#10;| 3-Essence Minion | Stamina +3 (to a total of +9) |&#10;| 5-Essence Minion | Stamina +2 (to a total of +6) |&#10;| 7-Essence Minion | Stamina +5 (to a total of +10) |"></template>

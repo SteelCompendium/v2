@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, until the end of the encounter, your <a href="../../../../../rule/character/stability/">stability</a> gains a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You focus until your body becomes as hard as iron.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../../rule/character/stability.md) gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../../rule/character/intuition.md) score."></template>

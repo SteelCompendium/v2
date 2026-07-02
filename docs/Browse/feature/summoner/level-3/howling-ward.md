@@ -20,3 +20,6 @@ type: feature
 <p>You create a 1-<a href="../../../../rule/combat/aura/">aura</a> vortex of slicing magic around you when you enter combat. An enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes <a href="../../../../rule/damage/damage/">damage</a> equal to your <a href="../../../../rule/character/reason/">Reason</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You create a 1-[aura](../../../rule/combat/aura.md) vortex of slicing magic around you when you enter combat. An enemy that starts their [turn](../../../rule/combat/turn.md) [adjacent](../../../rule/combat/adjacent.md) to you takes [damage](../../../rule/damage/damage.md) equal to your [Reason](../../../rule/character/reason.md)."></template>

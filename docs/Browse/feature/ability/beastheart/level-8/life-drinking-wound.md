@@ -50,3 +50,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*As your attack strikes home, your enemy&#39;s escaping life force drifts to your allies in crimson threads.*&#10;&#10;| **Beastheart, Magic, Melee, Ranged, Strike, Weapon** | **Main action** |&#10;|------------------------------------------------------|----------------:|&#10;| **📏 Melee 1 or ranged 5**                           | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 12 + M damage&#10;- **12-16:** 18 + M damage&#10;- **17+:** 24 + M damage&#10;&#10;**Effect:** Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt."></template>

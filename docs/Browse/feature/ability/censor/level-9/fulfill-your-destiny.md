@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target takes their <a href="../../../../../rule/combat/turn/">turn</a> after the triggering hero, and immediately removes all <a href="../../../../../rule/combat/condition/">conditions</a> and negative effects on themself. During their <a href="../../../../../rule/combat/turn/">turn</a>, the target has a double <a href="../../../../../rule/dice/edge/">edge</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You have looked at various futures, and only this one works.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |   **Triggered** |&#10;|--------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One ally** |&#10;&#10;**Trigger:** You or another hero ends their [turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The target takes their [turn](../../../../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../../../../rule/combat/condition.md) and negative effects on themself. During their [turn](../../../../rule/combat/turn.md), the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md)."></template>

@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the <a href="../../../../../rule/dice/power-roll/">power roll</a> and use the new roll.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You step back a split second to see if things play out a little differently.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |               **Triggered** |&#10;|---------------------|----------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |&#10;&#10;**Trigger:** The target makes an [ability roll](../../../../rule/dice/ability-roll.md).&#10;&#10;**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll."></template>

@@ -53,3 +53,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Weapon** | **Free triggered** |&#10;| ------------------------------------|-------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                   |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature deals damage to the target.&#10;&#10;**Effect:** The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** A &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** A &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** A &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)"></template>

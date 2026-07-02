@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next <a href="../../../../../rule/combat/turn/">turn</a> and can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>. At the start of their <a href="../../../../../rule/combat/turn/">turn</a>, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You send yourself or an ally to a divine manifold to instantaneously regain health.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |            **Maneuver** |&#10;|--------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target is removed from the encounter map until the start of their next [turn](../../../../rule/combat/turn.md) and can spend any number of [Recoveries](../../../../rule/health/recoveries.md). At the start of their [turn](../../../../rule/combat/turn.md), the target reappears in the space they left or the nearest unoccupied space of their choice."></template>

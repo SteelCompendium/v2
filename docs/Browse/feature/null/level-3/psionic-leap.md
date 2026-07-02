@@ -19,3 +19,6 @@ type: feature
 <p>You can long jump and high jump a <a href="../../../../rule/combat/distance/">distance</a> equal to twice your <a href="../../../../rule/character/agility/">Agility</a> score without needing to make a <a href="../../../../rule/test/test/">test</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can long jump and high jump a [distance](../../../rule/combat/distance.md) equal to twice your [Agility](../../../rule/character/agility.md) score without needing to make a [test](../../../rule/test/test.md)."></template>

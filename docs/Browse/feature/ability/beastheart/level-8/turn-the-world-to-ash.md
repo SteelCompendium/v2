@@ -44,3 +44,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Ferocity</span><span class="txt">You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can&#39;t be reduced in any way. You can choose how much ferocity you spend after you make the power roll.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can&#39;t control.*&#10;&#10;| **Area, Beastheart, Magic** |              **Main action** |&#10;|-----------------------------|-----------------------------:|&#10;| **📏 2 burst**              | **🎯 Each enemy in the area** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 10 cold, fire, lightning, or sonic damage&#10;- **12-16:** 18 cold, fire, lightning, or sonic damage&#10;- **17+:** 26 cold, fire, lightning, or sonic damage&#10;&#10;**Spend 2+ Ferocity:** You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can&#39;t be reduced in any way. You can choose how much ferocity you spend after you make the power roll."></template>

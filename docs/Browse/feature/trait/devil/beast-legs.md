@@ -19,3 +19,6 @@ type: trait
 <p>Your powerful legs make you faster. You have <a href="../../../../rule/character/speed/">speed</a> 6.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your powerful legs make you faster. You have [speed](../../../rule/character/speed.md) 6."></template>

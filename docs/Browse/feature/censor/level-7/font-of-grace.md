@@ -20,3 +20,6 @@ type: feature
 <p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same <a href="../../../../rule/combat/turn/">turn</a>. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each time you use your [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same [turn](../../../rule/combat/turn.md). If you don&#39;t use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md)."></template>

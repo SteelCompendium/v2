@@ -19,3 +19,6 @@ type: feature
 <p>You can target two creatures simultaneously with your <a href="../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability, observing both simultaneously. Making a <a href="../../../../rule/combat/strike/">strike</a> against one target doesn&#39;t end your observation of the other target.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can target two creatures simultaneously with your [Careful Observation](../../ability/shadow/level-3/careful-observation.md) ability, observing both simultaneously. Making a [strike](../../../rule/combat/strike.md) against one target doesn&#39;t end your observation of the other target."></template>

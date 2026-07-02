@@ -19,3 +19,6 @@ type: feature
 <p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a number of skills you have up to your <a href="../../../../rule/character/reason/">Reason</a> score and replace them with an equal number of skills from the <a href="../../../../skill/interpersonal/">interpersonal</a> and <a href="../../../../skill/lore/">lore</a> skill groups. These replacements last until the end of your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each time you finish a [respite](../../../rule/resource/respite.md), you can choose a number of skills you have up to your [Reason](../../../rule/character/reason.md) score and replace them with an equal number of skills from the [interpersonal](../../../skill/interpersonal/index.md) and [lore](../../../skill/lore/index.md) skill groups. These replacements last until the end of your next [respite](../../../rule/resource/respite.md)."></template>

@@ -36,3 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Clarity</span><span class="txt">You target one additional creature or object.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*An ally gains the benefit of your intellect.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |                  **Maneuver** |&#10;|---------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |&#10;&#10;&#10;**Effect:** The next [ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../../../rule/combat/turn.md) gains an [edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Clarity:** You target one additional creature or object."></template>

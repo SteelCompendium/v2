@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the triggering damage is from an ability that uses a <a href="../../../../../rule/dice/power-roll/">power roll</a>, the <a href="../../../../../rule/dice/power-roll/">power roll</a> gains an <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You ensure the enemy can&#39;t escape the incoming attack.*&#10;&#10;| **—** | **Triggered** |&#10;|-------|-------------:|&#10;| **📏 Summoner&#39;s Range** | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target deals [damage](../../../../rule/damage/damage.md) to another creature.&#10;&#10;**Effect:** The target gains a [surge](../../../../rule/resource/surge.md) for each of your minions [adjacent](../../../../rule/combat/adjacent.md) to them (up to a maximum of 3 surges), which they can use on the triggering damage.&#10;&#10;**Spend 1 Essence:** If the triggering damage is from an ability that uses a [power roll](../../../../rule/dice/power-roll.md), the [power roll](../../../../rule/dice/power-roll.md) gains an [edge](../../../../rule/dice/edge.md)."></template>

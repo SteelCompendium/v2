@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../../rule/resource/surge/">surge</a>, and the next <a href="../../../../../rule/dice/ability-roll/">ability roll</a> you make this <a href="../../../../../rule/combat/turn/">turn</a> automatically obtains a tier 3 outcome.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Anger is your energy.*&#10;&#10;| **-**       | **[Free maneuver](../../../../rule/combat/free-maneuver.md)** |&#10;|-------------|------------------:|&#10;| **📏 Self** |       **🎯 Self** |&#10;&#10;**Effect:** You gain 1 [surge](../../../../rule/resource/surge.md), and the next [ability roll](../../../../rule/dice/ability-roll.md) you make this [turn](../../../../rule/combat/turn.md) automatically obtains a tier 3 outcome."></template>

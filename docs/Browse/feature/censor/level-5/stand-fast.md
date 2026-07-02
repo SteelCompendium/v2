@@ -20,3 +20,6 @@ type: feature
 <p>Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turn</a>. Any ally who starts their <a href="../../../../rule/combat/turn/">turn</a> within 5 squares of you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> to gain this benefit.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your [turns](../../../rule/combat/turn.md), you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../rule/combat/turn.md). Any ally who starts their [turn](../../../rule/combat/turn.md) within 5 squares of you can also spend [Stamina](../../../rule/health/stamina.md) to gain this benefit."></template>

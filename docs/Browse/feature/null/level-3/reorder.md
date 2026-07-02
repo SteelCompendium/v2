@@ -19,3 +19,6 @@ type: feature
 <p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turn</a>. Alternatively, you can grant this benefit to one creature in the area of your <a href="../../level-1/null-field/">Null Field</a> ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../rule/combat/turn.md). Alternatively, you can grant this benefit to one creature in the area of your [Null Field](../level-1/null-field.md) ability."></template>

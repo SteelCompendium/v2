@@ -21,3 +21,6 @@ type: feature
 <p>Order remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called order. Each time you finish a [respite](../../../rule/resource/respite.md), you gain order equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend order on your abilities as if it were discipline.&#10;&#10;At the start of a combat encounter, you can spend 1 order to increase the size of your [Null Field](../level-1/null-field.md) by 1 until the end of the encounter.&#10;&#10;Order remains until you spend it."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You write something unexpected into the scene that hinders your enemy.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**     |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 damage; P &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 5 damage; P &lt; AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 6 damage; P &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)&#10;&#10;**Effect:** The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies."></template>

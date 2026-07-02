@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends)."></template>

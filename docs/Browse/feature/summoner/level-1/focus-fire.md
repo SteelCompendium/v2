@@ -20,3 +20,6 @@ type: feature
 <p>You have the following triggered action.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following triggered action."></template>

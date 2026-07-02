@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Putrid yellow gas explodes from a bomb you toss.*&#10;&#10;| **Area, [Ranged](../../../../rule/combat/ranged.md)**        |                  **Main action** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 poison damage&#10;- **12-16:** 5 poison damage&#10;- **17+:** 7 poison damage&#10;&#10;**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../../../../rule/combat/turn.md) in the area and has M &lt; AVERAGE is [weakened](../../../../condition/weakened.md) (save ends)."></template>

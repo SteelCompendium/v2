@@ -18,3 +18,6 @@ type: trait
 <p>You can magically alter your appearance to better blend in with your surroundings. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to hide and sneak, and <a href="../../../../rule/test/test/">tests</a> made to search for you while you are hidden take a <a href="../../../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to hide and sneak, and [tests](../../../rule/test/test.md) made to search for you while you are hidden take a [bane](../../../rule/dice/bane.md)."></template>

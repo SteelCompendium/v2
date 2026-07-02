@@ -40,3 +40,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You shout a phrase that galvanizes your team.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |        **Maneuver** |&#10;|------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Each target gains 1 [surge](../../../../rule/resource/surge.md).&#10;- **12-16:** Each target gains 2 [surges](../../../../rule/resource/surge.md).&#10;- **17+:** Each target gains 3 [surges](../../../../rule/resource/surge.md)."></template>

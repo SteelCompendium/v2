@@ -20,3 +20,6 @@ type: feature
 <p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can maintain two performances at a time using your [Routines](../level-1/routines.md) feature."></template>

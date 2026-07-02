@@ -20,3 +20,6 @@ type: trait
 <p class="sc-trait__flavor">Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can recite the following oath. Until the start of your next [turn](../../../rule/combat/turn.md), whenever you make a [saving throw](../../../rule/general/saving-throw.md), you succeed on a 4 or higher.&#10;&#10;*Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*"></template>

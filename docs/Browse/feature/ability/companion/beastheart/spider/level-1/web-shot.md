@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../../condition/restrained/">restrained</a> (save ends).</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The spider fires a ball of sticky silk.*&#10;&#10;| **Companion, Ranged, Weapon** |     **Maneuver** |&#10;|-------------------------------|-----------------:|&#10;| **📏 Ranged 5**               | **🎯 One enemy** |&#10;&#10;**Effect:** If the target has M &lt; AVERAGE, they are [restrained](../../../../../../condition/restrained.md) until the end of their next turn.&#10;&#10;**Spend 1 Ferocity:** If the target has M &lt; STRONG, they are [restrained](../../../../../../condition/restrained.md) (save ends)."></template>

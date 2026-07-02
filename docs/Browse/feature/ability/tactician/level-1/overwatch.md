@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../../condition/slowed/">slowed</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>).</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Under your direction, an ally waits for just the right moment to strike.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |       **Triggered** |&#10;|------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves.&#10;&#10;**Effect:** At any time during the target&#39;s movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.&#10;&#10;**Spend 1 Focus:** If the target has R &lt; AVERAGE, they are [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>While you are in your bear form, your <a href="../../../../rule/character/size/">size</a> is 2 and you gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/combat/distance/">distance</a> with <a href="../../../../rule/combat/melee/">melee</a> weapon abilities.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you are in your bear form, your [size](../../../rule/character/size.md) is 2 and you gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [distance](../../../rule/combat/distance.md) with [melee](../../../rule/combat/melee.md) weapon abilities."></template>

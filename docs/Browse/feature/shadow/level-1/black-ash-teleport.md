@@ -36,3 +36,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Black Ash Teleport {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport&#34; data-subclass=&#34;black-ash&#34;}&#10;&#10;&#10;*In a swirl of black ash, you step from one place to another.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You [teleport](../../../movement/teleport.md) up to 5 squares. If you have [concealment](../../../rule/combat/concealment.md) or [cover](../../../rule/combat/cover.md) at your destination, you can use the [Hide](../../common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 [surge](../../../rule/resource/surge.md).&#10;&#10;**Spend 1+ Insight:** You [teleport](../../../movement/teleport.md) 1 additional square for each insight spent."></template>

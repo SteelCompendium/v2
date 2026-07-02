@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You and your companion <a href="../../../../../movement/shifting/">shift</a> up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You and your companion become soul-freezing wraiths.*&#10;&#10;| **Magic**   |    **Move** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You and your companion [shift](../../../../movement/shifting.md) up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore [difficult terrain](../../../../movement/difficult-terrain.md). You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way."></template>

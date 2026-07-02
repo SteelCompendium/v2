@@ -18,3 +18,6 @@ type: trait
 <p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> using the <a href="../../../../skill/interpersonal/flirt/">Flirt</a> or <a href="../../../../skill/interpersonal/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../../../rule/dice/edge.md) on [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) using the [Flirt](../../../skill/interpersonal/flirt.md) or [Persuade](../../../skill/interpersonal/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself."></template>

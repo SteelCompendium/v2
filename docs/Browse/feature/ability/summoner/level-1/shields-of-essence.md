@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, each target can use a <a href="../../../../../rule/combat/triggered-action/">free triggered action</a> whenever they take <a href="../../../../../rule/damage/damage/">damage</a> to reduce the incoming <a href="../../../../../rule/damage/damage/">damage</a> by half and then lose this effect.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You call forth protective forces to keep you all from harm.*&#10;&#10;| **Magic, Ranged** | **Maneuver** |&#10;|-------------------|-------------:|&#10;| **📏 Summoner&#39;s Range** | **🎯 Special** |&#10;&#10;**Power Roll + Reason:**&#10;&#10;- **≤11:** Three creatures&#10;- **12-16:** Four creatures&#10;- **17+:** Five creatures&#10;&#10;**Effect:** Until the end of the encounter, each target can use a [free triggered action](../../../../rule/combat/triggered-action.md) whenever they take [damage](../../../../rule/damage/damage.md) to reduce the incoming [damage](../../../../rule/damage/damage.md) by half and then lose this effect."></template>

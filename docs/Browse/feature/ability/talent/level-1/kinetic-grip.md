@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You must vertical <a href="../../../../../movement/forced-movement/">push</a> the target instead of <a href="../../../../../movement/forced-movement/">sliding</a> them.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You lift and hurl your foe away from you.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md), Telekinesis** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** [Slide](../../../../movement/forced-movement.md) 2 + R&#10;- **12-16:** [Slide](../../../../movement/forced-movement.md) 4 + R&#10;- **17+:** [Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)&#10;&#10;**Strained:** You must vertical [push](../../../../movement/forced-movement.md) the target instead of [sliding](../../../../movement/forced-movement.md) them."></template>

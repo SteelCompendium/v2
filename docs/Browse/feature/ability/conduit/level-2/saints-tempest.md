@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A raging storm appears, striking your foes with lightning and throwing them around with wind.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 lightning damage; vertical [slide](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 5 lightning damage; vertical [slide](../../../../movement/forced-movement.md) 2&#10;- **17+:** 7 lightning damage; vertical [slide](../../../../movement/forced-movement.md) 3"></template>

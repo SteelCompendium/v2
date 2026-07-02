@@ -19,3 +19,6 @@ type: trait
 <p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made [slowed](../../../condition/slowed.md)."></template>

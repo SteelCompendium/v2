@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin turns to hard, dark metal, impenetrable and dense.*&#10;&#10;| **Metamorphosis, Psionic, [Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|------------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target&#39;s [stability](../../../../rule/character/stability.md) increases by an amount equal to your [Reason](../../../../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 2 [surges](../../../../rule/resource/surge.md). This [stability](../../../../rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability.&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>

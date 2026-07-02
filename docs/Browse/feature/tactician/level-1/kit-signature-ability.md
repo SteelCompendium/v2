@@ -19,3 +19,6 @@ type: feature
 <p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a <a href="../../../../rule/combat/signature-ability/">signature ability</a>. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each kit from your [Field Arsenal](field-arsenal.md) feature grants you a [signature ability](../../../rule/combat/signature-ability.md). [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will."></template>

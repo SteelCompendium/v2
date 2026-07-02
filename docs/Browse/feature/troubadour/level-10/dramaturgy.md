@@ -19,3 +19,6 @@ type: feature
 <p>You gain 1 additional <a href="../../level-1/drama/">drama</a> or other <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> whenever you use your <a href="../../level-2/appeal-to-the-muses/">Appeal to the Muses</a> feature. Additionally, your performances no longer have a <a href="../../../../rule/combat/distance/">distance</a>, but can affect any target on the encounter map within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain 1 additional [drama](../level-1/drama.md) or other [Heroic Resource](../../../rule/resource/heroic-resource.md) whenever you use your [Appeal to the Muses](../level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a [distance](../../../rule/combat/distance.md), but can affect any target on the encounter map within your [line of effect](../../../rule/combat/line-of-effect.md)."></template>

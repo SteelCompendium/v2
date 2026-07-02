@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A jet of heavy fire erupts where you strike.*&#10;&#10;| **Fire, Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** | &#10;|---------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R fire damage; [push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 5 + R fire damage; [push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 7 + R fire damage; [push](../../../../movement/forced-movement.md) 4"></template>

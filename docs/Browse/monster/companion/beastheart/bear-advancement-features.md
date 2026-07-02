@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="## Foe Thresher {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.bear.level-3/foe-thresher&#34;}&#10;&#10;Whenever the bear targets a creature with a strike that doesn&#39;t impose [forced movement](../../../movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.&#10;&#10;## Ursine Form {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.bear.level-6/ursine-form&#34;}&#10;&#10;While the bear is rampaging, you have damage immunity 5 and your size increases to the bear&#39;s size (to a maximum of 2). If you don&#39;t have enough unoccupied space to grow, you grow as soon as there is sufficient space.&#10;&#10;## Twin Colossi {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.bear.level-10/twin-colossi&#34;}&#10;&#10;While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage."></template>

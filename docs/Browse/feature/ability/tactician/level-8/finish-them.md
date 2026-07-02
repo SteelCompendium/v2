@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is killed. Additionally, the creature who caused the target to be <a href="../../../../../rule/health/winded/">winded</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You point out an opening to your ally so they can land a killing blow.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |  **Free triggered** |&#10;|------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target is not a leader or solo creature, and becomes [winded](../../../../rule/health/winded.md).&#10;&#10;**Effect:** The target is killed. Additionally, the creature who caused the target to be [winded](../../../../rule/health/winded.md) can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

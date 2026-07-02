@@ -20,3 +20,6 @@ type: feature
 <p>After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you&#39;ll gain from this class. (<em>Quick Build:</em> <a href="../../../../religion/god/cavall/">Cavall</a> as deity and War as domain.)</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Choose a god or [saint](../../../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.&#10;&#10;After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you&#39;ll gain from this class. (*Quick Build:* [Cavall](../../../religion/god/cavall.md) as deity and War as domain.)"></template>

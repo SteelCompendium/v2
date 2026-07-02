@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The force of your mind hurls enemies backward.*&#10;&#10;| **Area, Psionic, Telepathy** |               **Main action** |&#10;|------------------------------|------------------------------:|&#10;| **📏 1 [burst](../../../../rule/combat/burst.md)**               | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 psychic damage&#10;- **12-16:** 5 psychic damage; [push](../../../../movement/forced-movement.md) 1&#10;- **17+:** 7 psychic damage; [push](../../../../movement/forced-movement.md) 2&#10;&#10;**Strained:** The size of the [burst](../../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../../condition/bleeding.md) until the start of your next [turn](../../../../rule/combat/turn.md)."></template>

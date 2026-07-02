@@ -49,3 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*And they said practicing fencing was a waste!*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |&#10;|---------------------------|--------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** You can [shift](../../../../movement/shifting.md) up to 3 squares.&#10;&#10;**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent."></template>

@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You take half the damage the target takes.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You raise the target slightly into the air, then smother them against the ground.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Telekinesis** |               **Main action** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 + R damage; M &lt; WEAK[, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 + R damage; M &lt; AVERAGE[, prone](../../../../condition/prone.md)&#10;- **17+:** 14 + R damage; M &lt; STRONG, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;&#10;**Strained:** You take half the damage the target takes."></template>

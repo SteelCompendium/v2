@@ -36,3 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are <a href="../../../../../condition/taunted/">taunted</a> by your companion. An enemy in both areas is <a href="../../../../../condition/taunted/">taunted</a> only by you.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Let all of them come forward and shatter themselves against your might!*&#10;&#10;| **Area, Beastheart** |                  **Maneuver** |&#10;|----------------------|------------------------------:|&#10;| **📏 3 burst**       | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.&#10;&#10;**Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are [taunted](../../../../condition/taunted.md) by your companion. An enemy in both areas is [taunted](../../../../condition/taunted.md) only by you."></template>

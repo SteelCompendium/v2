@@ -18,3 +18,6 @@ type: trait
 <p>Whenever a creature deals damage to you that leaves you <a href="../../../../rule/health/dying/">dying</a>, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your <a href="../../../../rule/combat/strike/">strike</a>, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever a creature deals damage to you that leaves you [dying](../../../rule/health/dying.md), you can make a [free strike](../../common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../../rule/health/stamina.md) by your [strike](../../../rule/combat/strike.md), you can spend a [Recovery](../../../rule/health/recoveries.md)."></template>

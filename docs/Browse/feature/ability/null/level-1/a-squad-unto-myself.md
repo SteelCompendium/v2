@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> before or after you use this ability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You move so quickly, it seems as though an army assaulted your foes.*&#10;&#10;| **Area, Psionic, Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 2 [burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Effect:** You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability."></template>

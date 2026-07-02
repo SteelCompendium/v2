@@ -20,3 +20,6 @@ type: feature
 <p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, each enemy in the area takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the end of each of your [turns](../../../rule/combat/turn.md), each enemy in the area takes fire damage equal to your [Reason](../../../rule/character/reason.md) score."></template>

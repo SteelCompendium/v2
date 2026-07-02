@@ -20,3 +20,6 @@ type: feature
 <p>You are clad in the natural defenses of your <a href="../../level-1/portfolio/">portfolio</a> (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to <a href="../../../../rule/health/stamina/">Stamina</a> and that bonus increases by 3 at 4th, 7th, and 10th levels.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You are clad in the natural defenses of your [portfolio](../level-1/portfolio.md) (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to [Stamina](../../../rule/health/stamina.md) and that bonus increases by 3 at 4th, 7th, and 10th levels."></template>

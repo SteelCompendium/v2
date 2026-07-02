@@ -19,3 +19,6 @@ type: feature
 <p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a willing hero ally who finished the <a href="../../../../rule/resource/respite/">respite</a> with you. That ally gains the benefits of your <a href="../../level-6/burgeoning-saint/">Burgeoning Saint</a> feature until you finish another <a href="../../../../rule/resource/respite/">respite</a>. Additionally, you can spend piety as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to give the hero 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> for every 2 piety spent.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each time you finish a [respite](../../../rule/resource/respite.md), you can choose a willing hero ally who finished the [respite](../../../rule/resource/respite.md) with you. That ally gains the benefits of your [Burgeoning Saint](../level-6/burgeoning-saint.md) feature until you finish another [respite](../../../rule/resource/respite.md). Additionally, you can spend piety as a [free maneuver](../../../rule/combat/free-maneuver.md) to give the hero 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md) for every 2 piety spent."></template>

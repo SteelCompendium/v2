@@ -20,3 +20,6 @@ type: feature
 <p>The area provides <a href="../../../../rule/combat/concealment/">concealment</a> for you and your allies.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The area provides [concealment](../../../rule/combat/concealment.md) for you and your allies."></template>

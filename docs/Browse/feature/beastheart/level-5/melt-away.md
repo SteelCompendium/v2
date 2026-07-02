@@ -20,3 +20,6 @@ type: feature
 <p>You or your companion can use your <a href="../../../ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a> ability even when targeted by the triggering ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You or your companion can use your [Shadow in the Mist](../../ability/beastheart/level-1/shadow-in-the-mist.md) ability even when targeted by the triggering ability."></template>

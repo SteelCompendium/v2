@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Black frost freezes boots to the floor and creeps up trapped victims until they&#39;re completely encased in ice.*&#10;&#10;| **Area, Companion, Magic** |              **Main action** |&#10;|----------------------------|-----------------------------:|&#10;| **📏 5 cube within 1**     | **🎯 Each enemy in the area** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 5 cold damage; I &lt; WEAK [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 7 cold damage; I &lt; AVERAGE [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 12 cold damage; I &lt; STRONG [restrained](../../../../condition/restrained.md) (save ends)&#10;&#10;**Effect:** While [restrained](../../../../condition/restrained.md) this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain."></template>

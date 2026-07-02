@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>A target who is not a minion, leader, or solo creature and who is <a href="../../../../../rule/health/winded/">winded</a> after taking this damage is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A practiced attack will instantly kill an already weakened foe.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 + A damage&#10;- **12-16:** 18 + A damage&#10;- **17+:** 24 + A damage&#10;&#10;**Effect:** A target who is not a minion, leader, or solo creature and who is [winded](../../../../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../../../../rule/health/stamina.md)."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>The drake&#39;s Drake Breath maneuver deals an extra 2 damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The drake&#39;s Drake Breath maneuver deals an extra 2 damage."></template>

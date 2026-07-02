@@ -20,3 +20,6 @@ type: feature
 <p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you have 5 or more [Victories](../../../rule/resource/victories.md), you can [fly](../../../movement/fly.md). If you can already [fly](../../../movement/fly.md), you have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) while [flying](../../../movement/fly.md) instead."></template>

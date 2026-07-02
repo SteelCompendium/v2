@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your <a href="../../level-1/im-no-threat/">I&#39;m No Threat</a> ability, this ability deals extra damage equal to three times your <a href="../../../../../rule/character/agility/">Agility</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*After everything you&#39;ve been through together, you twist the blade and make the pain extra personal.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 15 + A damage&#10;- **12-16:** 21 + A damage&#10;- **17+:** 28 + A damage&#10;&#10;**Effect:** If you are disguised as a creature the target knew using your [I&#39;m No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score."></template>

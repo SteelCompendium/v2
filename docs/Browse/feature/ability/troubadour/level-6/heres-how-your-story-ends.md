@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You give away the ending of this battle, and it&#39;s not great for them.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 psychic damage; P &lt; WEAK, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 5 psychic damage; P &lt; AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 7 psychic damage; P &lt; STRONG, [frightened](../../../../condition/frightened.md) (save ends)"></template>

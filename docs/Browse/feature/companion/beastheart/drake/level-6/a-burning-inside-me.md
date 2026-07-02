@@ -20,3 +20,6 @@ type: feature
 <p>While the drake is rampaging, you gain draconic wings and can <a href="../../../../../../movement/fly/">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the drake is rampaging, you gain draconic wings and can [fly](../../../../../movement/fly.md). If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends."></template>

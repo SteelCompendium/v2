@@ -38,3 +38,6 @@ type: trait
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following [signature ability](../../../rule/combat/signature-ability.md). [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will.&#10;&#10;## The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}&#10;&#10;*Thorny vines erupt from every surface and attempt to bind your foe.*&#10;&#10;| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          |           **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 + M or A damage; A &lt; WEAK, [slowed](../../../condition/slowed.md) (save ends)&#10;- **12-16:** 3 + M or A damage; A &lt; AVERAGE, [slowed](../../../condition/slowed.md) (save ends)&#10;- **17+:** 5 + M or A damage; A &lt; STRONG, [restrained](../../../condition/restrained.md) (save ends)"></template>

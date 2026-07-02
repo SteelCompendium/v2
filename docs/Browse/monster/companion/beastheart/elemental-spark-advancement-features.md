@@ -50,3 +50,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="## Electroshock {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-3/electroshock&#34;}&#10;&#10;Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be [dazed](../../../condition/dazed.md) until the end of the target&#39;s next turn.&#10;&#10;## Conductive {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-6/conductive&#34;}&#10;&#10;While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.&#10;&#10;## Lightning Speed {data-scc=&#34;mcdm.beastheart.v1/feature.companion.beastheart.elemental-spark.level-10/lightning-speed&#34;}&#10;&#10;While the spark is rampaging, you and the spark can [shift](../../../movement/shifting.md) up to your speed as a free maneuver once on each of your turns."></template>

@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You siphon away the pain and endure it yourself.*&#10;&#10;| **Magic**      | **Triggered Action** |&#10;|----------------|---------------------:|&#10;| **📏 Melee 1** |      **🎯 One ally** |&#10;&#10;**Trigger:** The target takes damage.&#10;&#10;**Effect:** The target takes half the damage.&#10;&#10;**Spend 1 Ferocity:** You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value."></template>

@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can deal damage equal to your <a href="../../../../../rule/character/agility/">Agility</a> score to one creature or object <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You strike so quickly that your hands become a blur.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |&#10;|------------------------------------|--------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 Two creatures or objects** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>When you use your <a href="../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../../../rule/character/size/">size</a> 2 or smaller.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you use your [Hands of the Maker](../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is [size](../../../rule/character/size.md) 2 or smaller."></template>

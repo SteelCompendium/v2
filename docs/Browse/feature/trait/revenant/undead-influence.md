@@ -19,3 +19,6 @@ type: trait
 <p>Your <a href="../../../../rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [supernatural](../../../rule/general/supernatural.md) gifts allow you to influence other undead. You gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), and [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) made to interact with undead creatures."></template>

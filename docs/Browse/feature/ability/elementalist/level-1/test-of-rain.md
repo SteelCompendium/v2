@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can end one effect on yourself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../../rule/combat/turn/">turn</a>. Each ally in the area also gains this benefit.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You call down a rain that burns your enemies and restores your allies.*&#10;&#10;| **Area, Green, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 4 acid damage&#10;- **12-16:** 6 acid damage&#10;- **17+:** 10 acid damage&#10;&#10;**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../../rule/combat/turn.md). Each ally in the area also gains this benefit."></template>

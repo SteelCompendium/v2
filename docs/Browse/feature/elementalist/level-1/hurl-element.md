@@ -42,3 +42,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability, which can be used as a [ranged](../../../rule/combat/ranged.md) [free strike](../../common/main-actions/free-strike.md).&#10;&#10;## Hurl Element {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element&#34;}&#10;&#10;&#10;*You cast a ball of elemental energy at a foe.*&#10;&#10;| **Magic, [Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Reason](../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R damage&#10;- **12-16:** 4 + R damage&#10;- **17+:** 6 + R damage&#10;&#10;**Effect:** When you make this [strike](../../../rule/combat/strike.md), choose the [damage type](../../../rule/damage/damage-type.md) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic."></template>

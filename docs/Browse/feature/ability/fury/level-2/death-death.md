@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your unbridled rage strikes terror in their hearts.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; P &lt; WEAK, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 5 + M damage; P &lt; AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 8 + M damage; P &lt; STRONG, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)"></template>

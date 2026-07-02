@@ -39,3 +39,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Repel {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/repel&#34; data-subclass=&#34;telekinesis&#34;}&#10;&#10;&#10;*They aren&#39;t going anywhere, but you might!*&#10;&#10;| **Psionic, [Ranged](../../../rule/combat/ranged.md)** |           **Triggered** |&#10;|---------------------|------------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage or is [force moved](../../../movement/forced-movement.md).&#10;&#10;**Effect:** The target takes half the triggering damage, or the [distance](../../../rule/combat/distance.md) of the triggering [forced movement](../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../movement/forced-movement.md) is reduced to 0 squares, the target can [push](../../../movement/forced-movement.md) the source of the [forced movement](../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>

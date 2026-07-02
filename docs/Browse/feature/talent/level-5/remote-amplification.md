@@ -20,3 +20,6 @@ type: feature
 <p>The <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../../rule/combat/ranged/">ranged</a> psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile."></template>

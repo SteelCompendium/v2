@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*One missile—placed well and placed hard.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 8 + A damage; A &lt; WEAK, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 12 + A damage; A &lt; AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 16 + A damage; A &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)"></template>

@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your ferocity manifests into [primordial power](../../../fury/level-10/primordial-power.md).*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type."></template>

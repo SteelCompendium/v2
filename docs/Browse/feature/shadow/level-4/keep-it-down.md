@@ -19,3 +19,6 @@ type: feature
 <p>While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you&#39;re conveying, even while yelling.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you&#39;re conveying, even while yelling."></template>

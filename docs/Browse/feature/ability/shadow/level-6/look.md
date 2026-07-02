@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, any <a href="../../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You distract your foes, allowing your allies to take advantage of that distraction.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the start of your next [turn](../../../../rule/combat/turn.md), any [ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../../rule/dice/edge.md)."></template>

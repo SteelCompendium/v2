@@ -19,3 +19,6 @@ type: feature
 <p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../../../kit/panther/">Panther</a>.)</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../../../kit/panther.md).)"></template>

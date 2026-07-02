@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the wolf makes a strike against a creature while rampaging, they can grab the target."></template>

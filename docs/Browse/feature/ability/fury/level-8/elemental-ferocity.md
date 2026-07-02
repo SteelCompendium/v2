@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, you gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your primordial energy makes for instant retribution.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 [Stamina](../../../../rule/health/stamina.md), you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

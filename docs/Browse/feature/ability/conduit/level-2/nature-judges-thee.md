@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Mystical thorned vines appear at your bidding and bind your foes.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 damage; A &lt; WEAK, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 3 damage; A &lt; AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 7 damage; A &lt; STRONG, [restrained](../../../../condition/restrained.md) (save ends)"></template>

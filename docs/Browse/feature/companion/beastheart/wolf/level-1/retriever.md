@@ -20,3 +20,6 @@ type: feature
 <p>The wolf can move at full speed while they have a creature <a href="../../../../../../condition/grabbed/">grabbed</a>, no matter the <a href="../../../../../../condition/grabbed/">grabbed</a> creature&#39;s size.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The wolf can move at full speed while they have a creature [grabbed](../../../../../condition/grabbed.md), no matter the [grabbed](../../../../../condition/grabbed.md) creature&#39;s size."></template>

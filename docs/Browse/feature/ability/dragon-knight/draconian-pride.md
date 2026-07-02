@@ -40,3 +40,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You let loose a mighty roar to shake your foes&#39; spirits.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 1 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage; [push](../../../movement/forced-movement.md) 1&#10;- **17+:** 7 damage; [push](../../../movement/forced-movement.md) 2"></template>

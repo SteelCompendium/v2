@@ -37,3 +37,6 @@ type: ability
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Clarity</span><span class="txt">The size of the creature or object you can target increases by 1 for every 2 clarity spent.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 3 Clarity</span><span class="txt">You can vertical <a href="../../../../../movement/forced-movement/">slide</a> the target.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |                                 **Maneuver** |&#10;|---------------------|---------------------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../../../rule/character/size.md) 1 creature or object** |&#10;&#10;**Effect:** You [slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.&#10;&#10;**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.&#10;&#10;**Spend 3 Clarity:** You can vertical [slide](../../../../movement/forced-movement.md) the target."></template>

@@ -19,3 +19,6 @@ type: trait
 <p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) made against creatures with [concealment](../../../rule/combat/concealment.md)."></template>

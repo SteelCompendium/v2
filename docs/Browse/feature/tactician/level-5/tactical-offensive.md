@@ -20,3 +20,6 @@ type: feature
 <p>When you use the <a href="../../../common/main-actions/charge/">Charge</a> main action to attack a creature marked by you, you can use a signature or <a href="../../../../rule/general/heroic-ability/">heroic ability</a> with the <a href="../../../../rule/combat/melee/">Melee</a> and Strike keywords instead of a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) with the [Melee](../../../rule/combat/melee.md) and Strike keywords instead of a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md)."></template>

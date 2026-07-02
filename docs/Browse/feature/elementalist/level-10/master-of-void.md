@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require <a href="../../../../rule/downtime/project-source/">project sources</a> for <a href="../../../../rule/downtime/research-project/">research projects</a>. Whenever you use a <a href="../../../../rule/resource/respite/">respite</a> activity to make a <a href="../../../../rule/downtime/project-roll/">project roll</a> for a <a href="../../../../rule/downtime/research-project/">research project</a>, you automatically complete the project.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you willingly move, you can [teleport](../../../movement/teleport.md).&#10;&#10;Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require [project sources](../../../rule/downtime/project-source.md) for [research projects](../../../rule/downtime/research-project.md). Whenever you use a [respite](../../../rule/resource/respite.md) activity to make a [project roll](../../../rule/downtime/project-roll.md) for a [research project](../../../rule/downtime/research-project.md), you automatically complete the project."></template>

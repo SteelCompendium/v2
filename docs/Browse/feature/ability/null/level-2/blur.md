@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can use a signature or <a href="../../../../../rule/general/heroic-ability/">heroic ability</a>. You gain an <a href="../../../../../rule/dice/edge/">edge</a> on that ability&#39;s <a href="../../../../../rule/dice/power-roll/">power rolls</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You release stored time, allowing you to act twice.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md). You gain an [edge](../../../../rule/dice/edge.md) on that ability&#39;s [power rolls](../../../../rule/dice/power-roll.md)."></template>

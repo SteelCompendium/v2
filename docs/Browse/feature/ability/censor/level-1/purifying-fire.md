@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The gods judge, fire cleanses.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|-------------------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**                |           **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 + M holy damage; M &lt; WEAK, the target has fire weakness 3 (save ends)&#10;- **12-16:** 9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)&#10;- **17+:** 12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)&#10;&#10;**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target <a href="../../../../../../condition/prone/">prone</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../../../../condition/prone.md)."></template>

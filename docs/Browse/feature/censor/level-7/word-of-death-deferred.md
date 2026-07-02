@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, your abilities deal an extra 5 damage to <a href="../../../../rule/health/winded/">winded</a> creatures.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can stop death from taking your allies. When an ally within [distance](../../../rule/combat/distance.md) of your [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability dies and you are not [dying](../../../rule/health/dying.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to instead have that ally fall unconscious until they regain [Stamina](../../../rule/health/stamina.md).&#10;&#10;Additionally, your abilities deal an extra 5 damage to [winded](../../../rule/health/winded.md) creatures."></template>

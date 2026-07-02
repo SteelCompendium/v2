@@ -19,3 +19,6 @@ type: feature
 <p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../../rule/combat/turn.md)."></template>

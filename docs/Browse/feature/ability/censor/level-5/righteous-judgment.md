@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You amplify the power of your [judgment](../level-1/judgment.md).*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**   |          **Main action** |&#10;|----------------------------|-------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**             |      **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 10 + M damage&#10;- **12-16:** 14 + M damage&#10;- **17+:** 20 + M damage&#10;&#10;**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md)."></template>

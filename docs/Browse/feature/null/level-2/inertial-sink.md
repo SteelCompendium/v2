@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being <a href="../../../../movement/forced-movement/">force moved</a>, you reduce that damage by an amount equal to your level.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You add your [Intuition](../../../rule/character/intuition.md) score to your effective [size](../../../rule/character/size.md) for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by [forced movement](../../../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../../condition/grabbed.md).&#10;&#10;Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being [force moved](../../../movement/forced-movement.md), you reduce that damage by an amount equal to your level."></template>

@@ -19,3 +19,6 @@ type: trait
 <p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>

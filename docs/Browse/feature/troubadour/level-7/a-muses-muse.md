@@ -19,3 +19,6 @@ type: feature
 <p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 drama instead of 1d3.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3."></template>

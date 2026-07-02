@@ -21,3 +21,6 @@ type: feature
 <p><a href="../subterfuge/">Subterfuge</a> remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called [subterfuge](subterfuge.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [subterfuge](subterfuge.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [subterfuge](subterfuge.md) on your abilities as if it were insight.&#10;&#10;Additionally, you can spend [subterfuge](subterfuge.md) to take additional maneuvers on your [turn](../../../rule/combat/turn.md). You can use one maneuver for each [subterfuge](subterfuge.md) you spend.&#10;&#10;[Subterfuge](subterfuge.md) remains until you spend it."></template>

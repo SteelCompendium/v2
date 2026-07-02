@@ -35,3 +35,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Earth Accepts Me {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/earth-accepts-me&#34; data-subclass=&#34;earth&#34;}&#10;&#10;&#10;*You can slip into the stone.*&#10;&#10;| **Earth, Magic** | **Main action** |&#10;|------------------|----------------:|&#10;| **📏 Self**      |     **🎯 Self** |&#10;&#10;**Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside it, but you don&#39;t have [line of effect](../../../rule/combat/line-of-effect.md) to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object."></template>

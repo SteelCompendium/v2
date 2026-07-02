@@ -20,3 +20,6 @@ type: feature
 <p>If the ability is <a href="../../../../rule/combat/ranged/">ranged</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. If the ability is <a href="../../../../rule/combat/melee/">melee</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If the ability is [ranged](../../../rule/combat/ranged.md), the [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../rule/character/intuition.md) score. If the ability is [melee](../../../rule/combat/melee.md), the [distance](../../../rule/combat/distance.md) gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>

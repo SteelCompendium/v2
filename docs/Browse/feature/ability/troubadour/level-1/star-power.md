@@ -36,3 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/speed/">speed</a> instead.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your years of practicing fencing and dancing pay off on the battlefield.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of your [turn](../../../../rule/combat/turn.md). Additionally, the next [power roll](../../../../rule/dice/power-roll.md) you make this [turn](../../../../rule/combat/turn.md) can&#39;t have an outcome lower than tier 2.&#10;&#10;**Spend 1 Drama:** You gain a +4 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) instead."></template>

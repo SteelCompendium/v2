@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*There you are, radiating your usual charisma.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + P psychic damage; P &lt; WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 5 + P psychic damage; P &lt; AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 7 + P psychic damage; P &lt; STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)"></template>

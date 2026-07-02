@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>. Additionally, they can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, remove any <a href="../../../../../rule/combat/condition/">conditions</a> or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You inspire your allies to recover and gather their strength.*&#10;&#10;| **Area**       |                       **Main action** |&#10;|----------------|--------------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any [conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they [are prone](../../../../condition/prone.md)."></template>

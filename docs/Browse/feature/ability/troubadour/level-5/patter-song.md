@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Dazzle them with your fancy patter and they forget where they were.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |   **Maneuver** |&#10;|-------------------|---------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Special** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.&#10;- **12-16:** Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.&#10;- **17+:** Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md)."></template>

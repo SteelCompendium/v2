@@ -38,3 +38,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Hesitation Is Weakness {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness&#34; data-cost=&#34;1 Insight&#34;}&#10;&#10;&#10;*Keep up the attack. Never give them a moment&#39;s grace.*&#10;&#10;| **-**       | **Free triggered** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another hero ends their [turn](../../../rule/combat/turn.md). That hero can&#39;t have used this ability to start their [turn](../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take your [turn](../../../rule/combat/turn.md) after the triggering hero."></template>

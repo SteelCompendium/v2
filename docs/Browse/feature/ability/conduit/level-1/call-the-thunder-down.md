@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/forced-movement/">push</a> each willing ally in the area the same <a href="../../../../../rule/combat/distance/">distance</a>, ignoring <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 sonic damage; [push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 3 sonic damage; [push](../../../../movement/forced-movement.md) 2&#10;- **17+:** 5 sonic damage; [push](../../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** You can [push](../../../../movement/forced-movement.md) each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md)."></template>

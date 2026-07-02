@@ -39,3 +39,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following ability.&#10;&#10;## Power Chord {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord&#34; data-subclass=&#34;virtuoso&#34;}&#10;&#10;&#10;*Your instrument rings true and your music blows everyone away.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 [burst](../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Presence](../../../rule/character/presence.md):**&#10;&#10;- **≤11:** [Push](../../../movement/forced-movement.md) 1&#10;- **12-16:** [Push](../../../movement/forced-movement.md) 2&#10;- **17+:** [Push](../../../movement/forced-movement.md) 3"></template>

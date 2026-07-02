@@ -20,3 +20,6 @@ type: feature
 <p>As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a <a href="../../../../rule/test/test/">test</a>, or to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turn</a>. Any ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to gain this benefit.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a [free maneuver](../../../rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../../rule/health/stamina.md) to ignore a consequence from a [test](../../../rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../rule/combat/turn.md). Any ally [adjacent](../../../rule/combat/adjacent.md) to you can also spend [Stamina](../../../rule/health/stamina.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) to gain this benefit."></template>

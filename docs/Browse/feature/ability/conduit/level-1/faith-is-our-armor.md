@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The heroes&#39; armor glows with golden light, granting divine protection.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**        |       **Maneuver** |&#10;|--------------------------|-------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Four allies** |&#10;&#10;**Effect:** You can target yourself instead of one ally with this ability.&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** The target gains 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

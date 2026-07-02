@@ -19,3 +19,6 @@ type: trait
 <p>You are exceptionally strong. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to lift and haul heavy objects."></template>

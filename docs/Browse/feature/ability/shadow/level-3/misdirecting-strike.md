@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by a willing ally within 5 squares of you until the end of the target&#39;s next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*&#34;Why are you looking at ME?!&#34;*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 9 + A damage&#10;- **12-16:** 13 + A damage&#10;- **17+:** 18 + A damage&#10;&#10;**Effect:** The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target&#39;s next [turn](../../../../rule/combat/turn.md)."></template>

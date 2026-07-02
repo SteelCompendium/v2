@@ -20,3 +20,6 @@ type: feature
 <p>Your movement no longer provokes <a href="../../../../rule/combat/opportunity-attack/">opportunity attacks</a>. Additionally, you can use your <a href="../../level-5/harlequin-gambit/">Harlequin Gambit</a> feature as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> when a creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your <a href="../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your movement no longer provokes [opportunity attacks](../../../rule/combat/opportunity-attack.md). Additionally, you can use your [Harlequin Gambit](../level-5/harlequin-gambit.md) feature as a free [triggered action](../../../rule/combat/triggered-action.md) when a creature is reduced to 0 [Stamina](../../../rule/health/stamina.md) by your [Clever Trick](../../ability/shadow/level-1/clever-trick.md) ability."></template>

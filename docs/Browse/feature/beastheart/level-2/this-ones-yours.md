@@ -37,3 +37,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Once per turn, you or your companion can use the following free triggered action.&#10;&#10;## This One&#39;s Yours {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours&#34; data-subclass=&#34;punisher&#34;}&#10;&#10;When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.&#10;&#10;**Trigger:** A creature [force moved](../../../movement/forced-movement.md) by another creature enters a space adjacent to you.&#10;&#10;**Effect:** You end the [forced movement](../../../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.&#10;&#10;**Spend 1 Ferocity:** You and your companions can each use this free triggered action on the same turn."></template>

@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/teleport/">teleport</a> up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Void** |     **Main action** |&#10;|--------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                 | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R corruption damage&#10;- **12-16:** 6 + R corruption damage&#10;- **17+:** 9 + R corruption damage&#10;&#10;**Effect:** You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score."></template>

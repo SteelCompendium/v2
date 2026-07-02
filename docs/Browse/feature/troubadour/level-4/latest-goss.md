@@ -19,3 +19,6 @@ type: feature
 <p>You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next <a href="../../../../rule/resource/respite/">respite</a>. One of the rumors can be false.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next [respite](../../../rule/resource/respite.md). One of the rumors can be false."></template>

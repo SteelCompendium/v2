@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You hew about you with your mighty weapon, hurling enemies backward.*&#10;&#10;| **Area, [Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 1 [burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 damage&#10;- **12-16:** 8 damage; [push](../../../../movement/forced-movement.md) 1&#10;- **17+:** 11 damage; [push](../../../../movement/forced-movement.md) 3"></template>

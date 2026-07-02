@@ -35,3 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">For each insight you spend, you gain 1 additional <a href="../../../../../rule/resource/surge/">surge</a>.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A little poison goes a long way.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 2 [surges](../../../../rule/resource/surge.md). Additionally, whenever you use a [surge](../../../../rule/resource/surge.md) before the end of the encounter, you can choose to have it deal poison damage.&#10;&#10;**Spend 1+ Insight:** For each insight you spend, you gain 1 additional [surge](../../../../rule/resource/surge.md)."></template>

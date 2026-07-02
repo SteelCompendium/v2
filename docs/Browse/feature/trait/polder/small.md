@@ -18,3 +18,6 @@ type: trait
 <p>Your diminutive stature lets you easily get out of—or into—trouble. Your <a href="../../../../rule/character/size/">size</a> is 1S.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your diminutive stature lets you easily get out of—or into—trouble. Your [size](../../../rule/character/size.md) is 1S."></template>

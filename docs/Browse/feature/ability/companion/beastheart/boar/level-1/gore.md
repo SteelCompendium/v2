@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a href="../../../../../../../condition/bleeding/">bleeding</a> until the end of their next turn.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*With an enraged snort, the boar lunges forward to rip open foes with their tusks.*&#10;&#10;| **Companion, Melee, Weapon** |                  **Maneuver** |&#10;|------------------------------|------------------------------:|&#10;| **📏 Melee 1**               | **🎯 One creature or object** |&#10;&#10;**Effect:** The boar moves up to their speed in a straight line. When this movement ends, they can deal damage equal to 3 + their Might score to an adjacent target. If the boar moved closer to the target as part of this movement, the boar deals extra damage equal to their Might score.&#10;&#10;**Spend 1 Ferocity:** The target is [bleeding](../../../../../../condition/bleeding.md) until the end of their next turn."></template>

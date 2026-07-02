@@ -20,3 +20,6 @@ type: feature
 <p>All of your <a href="../../../../rule/character/characteristic/">characteristics</a> increase by 1, to a maximum score of 4.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="All of your [characteristics](../../../rule/character/characteristic.md) increase by 1, to a maximum score of 4."></template>

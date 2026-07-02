@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A luminous green shield shows its true beauty the more it cracks.*&#10;&#10;| **Green, Magic, [Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|--------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |&#10;&#10;**Effect:** You conjure an elemental shield that protects the target until the end of your next [turn](../../../../rule/combat/turn.md). While the shield is active, the target can take the [Defend](../../../common/main-actions/defend.md) main action as a maneuver on each of their [turns](../../../../rule/combat/turn.md). The target gains 30 [temporary Stamina](../../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.&#10;&#10;**Persistent 2:** The effect lasts until the start of your next [turn](../../../../rule/combat/turn.md)."></template>

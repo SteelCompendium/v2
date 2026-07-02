@@ -36,3 +36,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your allies are covered in spiritual armor.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)**  |           **Maneuver** | &#10;|--------------------------|-----------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Three creatures** |&#10;&#10;**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 until the start of your next [turn](../../../../rule/combat/turn.md)."></template>

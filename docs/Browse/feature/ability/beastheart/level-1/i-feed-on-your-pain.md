@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../../../condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Invigorated by the smell of blood, you strike a savage blow.*&#10;&#10;| **Beastheart, Melee, Ranged, Strike, Weapon** | **Main action** |&#10;|-----------------------------------------------|----------------:|&#10;| **📏 Melee 1 or ranged 5**                    | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 8 + M damage&#10;- **12-16:** 12 + M damage&#10;- **17+:** 16 + M damage; M &lt; STRONG [bleeding](../../../../condition/bleeding.md) (save ends)&#10;&#10;**Effect:** If the target is killed by this damage, or is winded or [bleeding](../../../../condition/bleeding.md) after taking this damage, you gain 2 surges."></template>

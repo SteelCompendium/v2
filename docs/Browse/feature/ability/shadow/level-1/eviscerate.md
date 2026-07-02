@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You leave your foe bleeding out after a devastating attack.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; A &lt; WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 6 + A damage; A &lt; AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 10 + A damage; A &lt; STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)"></template>

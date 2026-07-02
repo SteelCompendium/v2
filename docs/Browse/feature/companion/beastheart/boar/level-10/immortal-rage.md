@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina."></template>

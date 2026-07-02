@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This ability deals your primordial <a href="../../../../../rule/damage/damage-type/">damage type</a> (see <a href="../../../../fury/stormwight-kits/kit-features/">Stormwight Kits</a>).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The sound of the storm within you staggers your opponents.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 damage; [push](../../../../movement/forced-movement.md) 1; M &lt; WEAK, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 5 damage; [push](../../../../movement/forced-movement.md) 2; M &lt; AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 7 damage; [push](../../../../movement/forced-movement.md) 3; M &lt; STRONG, [dazed](../../../../condition/dazed.md) (save ends)&#10;&#10;**Effect:** This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) (see [Stormwight Kits](../../../fury/stormwight-kits/kit-features.md))."></template>

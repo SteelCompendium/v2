@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p><a href="../../../../../movement/forced-movement/">Forced movement</a> from this ability ignores <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The power of music rips through the reality around the target and blows them away.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5&#10;- **12-16:** 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 22 + P sonic damage; [push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** [Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md)."></template>

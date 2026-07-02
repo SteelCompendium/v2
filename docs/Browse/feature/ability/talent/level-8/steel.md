@@ -39,3 +39,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin becomes covered in tough metal.*&#10;&#10;| **Metamorphosis, Psionic, [Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|------------------------------------|------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can&#39;t be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md).&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>

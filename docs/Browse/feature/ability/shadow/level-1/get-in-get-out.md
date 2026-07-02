@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>, dividing that movement before or after your <a href="../../../../../rule/combat/strike/">strike</a> as desired.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Move unexpectedly, strike fast, and be gone!*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + A damage&#10;- **12-16:** 8 + A damage&#10;- **17+:** 11 + A damage&#10;&#10;**Effect:** You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired."></template>

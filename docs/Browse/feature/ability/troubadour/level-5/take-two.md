@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area can reroll the first <a href="../../../../../rule/dice/power-roll/">power roll</a> that <a href="../../../../../rule/combat/turn/">turn</a> that obtains a tier 2 outcome. They must use the new roll.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*One more, and this time make it interesting.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can reroll the first [power roll](../../../../rule/dice/power-roll.md) that [turn](../../../../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll."></template>

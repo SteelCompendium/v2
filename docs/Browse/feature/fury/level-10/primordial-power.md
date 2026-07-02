@@ -22,3 +22,6 @@ type: feature
 <p><a href="../primordial-power/">Primordial power</a> remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called [primordial power](primordial-power.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [primordial power](primordial-power.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [primordial power](primordial-power.md) on your abilities as if it were ferocity.&#10;&#10;Additionally, you can spend any amount of [primordial power](primordial-power.md) as a [free maneuver](../../../rule/combat/free-maneuver.md), ending one effect on you for each [primordial power](primordial-power.md) spent.&#10;&#10;You can also spend 3 [primordial power](primordial-power.md) to create a portal to Quintessence without needing a source of elemental power.&#10;&#10;[Primordial power](primordial-power.md) remains until you spend it."></template>

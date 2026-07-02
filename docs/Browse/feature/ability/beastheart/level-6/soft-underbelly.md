@@ -49,3 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target has damage weakness 5.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion ducks under your enemy&#39;s guard and rakes open their soft vitals, leaving them vulnerable.*&#10;&#10;| **Companion, Melee, Strike, Weapon** | **Main action** |&#10;|--------------------------------------|----------------:|&#10;| **📏 Melee 2**                       | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 10 + M damage; A &lt; WEAK [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 15 + M damage; A &lt; AVERAGE [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 20 + M damage; A &lt; STRONG [bleeding](../../../../condition/bleeding.md) (save ends)&#10;&#10;**Effect:** While [bleeding](../../../../condition/bleeding.md) this way, the target has damage weakness 5."></template>

@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, when you use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability, you can take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as part of that ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within [distance](../../../rule/combat/distance.md) of the effect, you can choose to be a target of the effect as well.&#10;&#10;Additionally, when you use your [I&#39;m No Threat](../../ability/shadow/level-1/im-no-threat.md) ability, you can take the [Disengage](../../common/move-actions/disengage.md) move action as part of that ability."></template>

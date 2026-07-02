@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If the target is not a leader or solo creature, they are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> at the end of their next <a href="../../../../../rule/combat/turn/">turn</a>. If the target is a leader or solo creature, you gain 3 <a href="../../../../../rule/resource/surge/">surges</a> and can make a <a href="../../../../../rule/combat/melee/">melee</a> <a href="../../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Slash. Walk away.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**Effect:** If the target is not a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md) at the end of their next [turn](../../../../rule/combat/turn.md). If the target is a leader or solo creature, you gain 3 [surges](../../../../rule/resource/surge.md) and can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against them."></template>

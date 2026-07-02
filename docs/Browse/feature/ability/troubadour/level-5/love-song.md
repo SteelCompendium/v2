@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within <a href="../../../../../rule/combat/distance/">distance</a>, you can choose to take the damage instead of the target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You play a small ditty that plants you inside your target&#39;s heart.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |                  **Maneuver** |&#10;|-------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One creature or object** |&#10;&#10;**Effect:** The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you&#39;re within [distance](../../../../rule/combat/distance.md), you can choose to take the damage instead of the target."></template>

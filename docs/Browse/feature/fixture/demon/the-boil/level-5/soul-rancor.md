@@ -18,3 +18,6 @@ type: feature
 <p>You gain a <a href="../../../../../../rule/resource/surge/">surge</a> the first time in a <a href="../../../../../../rule/combat/combat-round/">round</a> that your demon <a href="../../../../../summoner/level-1/minions/">minions</a> deal 3 or more <a href="../../../../../../rule/damage/damage/">damage</a> to a creature while you have <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the boil. You can choose to give the <a href="../../../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the boil.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain a [surge](../../../../../rule/resource/surge.md) the first time in a [round](../../../../../rule/combat/combat-round.md) that your demon [minions](../../../../summoner/level-1/minions.md) deal 3 or more [damage](../../../../../rule/damage/damage.md) to a creature while you have [line of effect](../../../../../rule/combat/line-of-effect.md) to the boil. You can choose to give the [surge](../../../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../../../rule/combat/line-of-effect.md) to the boil."></template>

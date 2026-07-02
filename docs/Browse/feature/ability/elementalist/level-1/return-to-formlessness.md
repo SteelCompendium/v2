@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*With the merest touch, you cause an object to turn to slag or ash.*&#10;&#10;| **Fire, Magic, [Melee](../../../../rule/combat/melee.md)**  |           **Main action** |&#10;|-------------------------|--------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**          | **🎯 One mundane object** |&#10;&#10;**Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed."></template>

@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*There&#39;s no recovering from this.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; M &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 11 + A damage; M &lt; AVERAGE, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 16 + A damage; M &lt; STRONG, [prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

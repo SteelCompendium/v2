@@ -20,3 +20,6 @@ type: feature
 <p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you take the [Disengage](../../common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../level-1/null-field.md) ability can also take the [Disengage](../../common/move-actions/disengage.md) move action as a free [triggered action](../../../rule/combat/triggered-action.md), using your [distance](../../../rule/combat/distance.md) for that move action."></template>

@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You take half the damage, negate any effects associated with the damage for you, and gain 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You absorb an attack to empower your body.*&#10;&#10;| **Psionic** |                  **Free triggered** |&#10;| -----------------------------|------------------------------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you using an ability.&#10;&#10;**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md)."></template>

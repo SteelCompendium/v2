@@ -40,3 +40,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any level 4 or higher undead&#39;s turn, you can spend [Malice](../../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Prior Malice Features (2-7+ [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; The undead activates a [Malice](../../../rule/monster/malice.md) feature available to undead of level 3 or lower.&#10;&#10;&gt; 🌀 **Blood Hunger (5 [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; One undead acting this turn uses a [signature ability](../../../rule/combat/signature-ability.md) against a creature who is [bleeding](../../../condition/bleeding.md). As a free triggered action, each undead within 5 squares of the first undead moves up to their speed and can make a [free strike](../../../feature/common/main-actions/free-strike.md) against the same target."></template>

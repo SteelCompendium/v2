@@ -35,3 +35,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever any target takes a <a href="../../../../../rule/combat/triggered-action/">triggered action</a> or a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>, that action is negated and the target takes holy damage equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You anticipate your foes&#39; moves and deny them.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 [aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever any target takes a [triggered action](../../../../rule/combat/triggered-action.md) or a free [triggered action](../../../../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score."></template>

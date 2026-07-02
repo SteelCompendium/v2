@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their <a href="../../../../../rule/dice/power-roll/">power roll</a> (your choice). You can then choose another target within <a href="../../../../../rule/combat/distance/">distance</a>, who obtains the opposite outcome on their next <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The gods bless and damn in equal measure.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**  |       **Triggered** |&#10;|--------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target makes a [power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The target obtains a tier 1 or tier 3 outcome on their [power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../../../../rule/dice/power-roll.md)."></template>

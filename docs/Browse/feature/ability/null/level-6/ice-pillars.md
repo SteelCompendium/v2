@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The pillars vanish as soon as the effects of the <a href="../../../../../movement/forced-movement/">forced movement</a> are resolved.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Pillars of ice erupt from the ground and launch your foes into the air.*&#10;&#10;| **Psionic, [Ranged](../../../../rule/combat/ranged.md)** |                   **Main action** |&#10;|---------------------|----------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Three creatures or objects** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** Vertical [slide](../../../../movement/forced-movement.md) 6&#10;- **12-16:** Vertical [slide](../../../../movement/forced-movement.md) 8&#10;- **17+:** Vertical [slide](../../../../movement/forced-movement.md) 10&#10;&#10;**Effect:** The pillars vanish as soon as the effects of the [forced movement](../../../../movement/forced-movement.md) are resolved."></template>

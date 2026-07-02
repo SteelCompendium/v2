@@ -20,3 +20,6 @@ type: feature
 <p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a>, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a <a href="../../../../rule/test/test/">test</a>, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an <a href="../../../../rule/dice/edge/">edge</a> on the <a href="../../../../rule/test/test/">test</a>. You lose any remaining fate points when you finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more [Victories](../../../rule/resource/victories.md), you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a [test](../../../rule/test/test.md), you can spend 1 fate point to tap into a vision of the outcome, granting that creature an [edge](../../../rule/dice/edge.md) on the [test](../../../rule/test/test.md). You lose any remaining fate points when you finish a [respite](../../../rule/resource/respite.md)."></template>

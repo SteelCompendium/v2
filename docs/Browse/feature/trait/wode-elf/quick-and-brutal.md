@@ -19,3 +19,6 @@ type: trait
 <p>Whenever you score a <a href="../../../../rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you score a [critical hit](../../../rule/combat/critical-hit.md), you can take an additional main action and an additional move action instead of just a main action."></template>

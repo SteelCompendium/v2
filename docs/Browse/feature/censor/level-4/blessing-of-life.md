@@ -20,3 +20,6 @@ type: feature
 <p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within [distance](../../../rule/combat/distance.md) of your [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability regains [Stamina](../../../rule/health/stamina.md), they regain additional [Stamina](../../../rule/health/stamina.md) equal to your [Presence](../../../rule/character/presence.md) score."></template>

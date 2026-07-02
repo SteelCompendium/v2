@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If any ally is <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target, you gain 1 <a href="../../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You attack an enemy as an ally exposes their weakness.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|-----------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + A damage&#10;- **12-16:** 6 + A damage&#10;- **17+:** 9 + A damage&#10;&#10;**Effect:** If any ally is [adjacent](../../../../rule/combat/adjacent.md) to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md)."></template>

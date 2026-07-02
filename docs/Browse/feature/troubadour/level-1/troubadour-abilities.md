@@ -19,3 +19,6 @@ type: feature
 <p>Your performance centers around maneuvering through the scene of battle, maintaining its momentum so that the story flows as dramatically as possible.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your performance centers around maneuvering through the scene of battle, maintaining its momentum so that the story flows as dramatically as possible."></template>

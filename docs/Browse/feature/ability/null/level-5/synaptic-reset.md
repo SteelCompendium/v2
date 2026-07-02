@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target can end any <a href="../../../../../rule/combat/condition/">conditions</a> or effects on themself, and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each <a href="../../../../../rule/combat/condition/">condition</a> or effect removed.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You expand your nullifying power to mitigate harmful effects.*&#10;&#10;| **Area, Psionic** |                          **Maneuver** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**    | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed."></template>

@@ -30,3 +30,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner&#39;s Range (no action required).&#10;&#10;Additionally, you can increase each of your minions&#39; [Stamina](../../../rule/health/stamina.md) as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a [Stamina](../../../rule/health/stamina.md) boost can treat their [characteristics](../../../rule/character/characteristic.md) as one higher for the purposes of resisting [potencies](../../../rule/character/potency.md) (to a maximum value of 4).&#10;&#10;These benefits are not reflected in the stat blocks of new minions you acquire.&#10;&#10;### 7th-Level Minion Stamina Increase&#10;&#10;| Minion | Stamina Increase |&#10;|--------|-----------------|&#10;| Signature Minion | Stamina +1 (to a total of +2) |&#10;| 3-Essence Minion | Stamina +3 (to a total of +6) |&#10;| 5-Essence Minion | Stamina +2 (to a total of +4) |&#10;| 7-Essence Minion | Stamina +5 |"></template>

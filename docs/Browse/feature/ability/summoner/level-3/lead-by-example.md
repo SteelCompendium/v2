@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your minions watch as your implement crackles with power, ready to slam unbelievable force into your foe.*&#10;&#10;| **Magic, Melee, Ranged, Strike** | **Main action** |&#10;|----------------------------------|----------------:|&#10;| **📏 Melee 1 or Summoner&#39;s Range** | **🎯 One enemy or object** |&#10;&#10;**Power Roll + Reason:**&#10;&#10;- **≤11:** 8 + R [damage](../../../../rule/damage/damage.md); R &lt; WEAK [dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 12 + R [damage](../../../../rule/damage/damage.md); R &lt; AVERAGE [dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 16 + R [damage](../../../../rule/damage/damage.md); R &lt; STRONG [dazed](../../../../condition/dazed.md) (save ends)"></template>

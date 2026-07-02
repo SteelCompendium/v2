@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance is doubled.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The force of your counterattack cracks the air.*&#10;&#10;| **Melee, Weapon** | **Triggered Action** |&#10;|-------------------|---------------------:|&#10;| **📏 Melee 1**    | **🎯 One enemy**     |&#10;&#10;**Trigger:** The target deals damage to a creature.&#10;&#10;**Effect:** You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this [forced movement](../../../../movement/forced-movement.md) pushes the target away from the creature they damaged, the creature takes half the triggering damage.&#10;&#10;**Spend 1 Ferocity:** The [forced movement](../../../../movement/forced-movement.md) distance is doubled."></template>

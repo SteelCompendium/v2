@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The target is unaffected by the <a href="../../../../../rule/combat/strike/">strike</a> and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the <a href="../../../../../rule/combat/strike/">strike</a>, and the target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You take your ally&#39;s place.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** | **Free triggered** |&#10;|-------------------|-------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature makes a [strike](../../../../rule/combat/strike.md) against the target.&#10;&#10;**Effect:** The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md)."></template>

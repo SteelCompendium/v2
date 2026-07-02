@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*See how well they fight after you&#39;ve bled them dry.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**   |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**              | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 4 + M damage; M &lt; WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 6 + M damage; M &lt; AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 10 + M damage; M &lt; STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target."></template>

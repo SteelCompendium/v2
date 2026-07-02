@@ -39,3 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability gains a bonus to either its damage or distance equal to the hellhound&#39;s Intuition score.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The hellhound exhales infernal flames.*&#10;&#10;| **Companion, Magic, Melee, Ranged** |                  **Maneuver** |&#10;|-------------------------------------|------------------------------:|&#10;| **📏 Melee 1 or Ranged 2**          | **🎯 One creature or object** |&#10;&#10;**Effect:** The target takes fire damage equal to 3 + the hellhound&#39;s Might score.&#10;&#10;**Spend 1 Ferocity:** This ability gains a bonus to either its damage or distance equal to the hellhound&#39;s Intuition score."></template>

@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>While <a href="../../../../../condition/weakened/">weakened</a> this way, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 10.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You utter a divine word that makes a foe brittle.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 10 + I corruption damage; A &lt; WEAK, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 15 + I corruption damage; A &lt; AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 21 + I corruption damage; A &lt; STRONG, [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10."></template>

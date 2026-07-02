@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>One ally within 5 squares of the target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your precise strikes let your allies take advantage of a target&#39;s agony.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + A damage&#10;- **12-16:** 5 + A damage&#10;- **17+:** 8 + A damage; I &lt; STRONG[, prone](../../../../condition/prone.md)&#10;&#10;**Effect:** One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md)."></template>

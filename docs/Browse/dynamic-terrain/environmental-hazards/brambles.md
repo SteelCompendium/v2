@@ -62,3 +62,6 @@ type: dynamic-terrain
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="This thicket features close-growing vines tipped with sharp thorns.&#10;&#10;- **EV:** 1 per 10 x 10 thicket&#10;- **Stamina:** 3 per square&#10;- **Size:** One or more squares of [difficult terrain](../../movement/difficult-terrain.md)&#10;&#10;&gt; 🌀 **Deactivate**&#10;&gt;&#10;&gt; Each square of brambles must be individually destroyed.&#10;&#10;&gt; ❕ **Activate**&#10;&gt;&#10;&gt; A creature enters a square of brambles without [shifting](../../movement/shifting.md).&#10;&gt;&#10;&gt; **Effect:** A creature takes 1 damage per square of brambles they enter.&#10;&#10;&gt; ⭐️ **Upgrade**&#10;&gt;&#10;&gt; **Poisonous Thorns (+1 EV)** The brambles are poisonous. Any creature who takes damage from brambles is also [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends)."></template>

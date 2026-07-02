@@ -20,3 +20,6 @@ type: feature
 <p>The sporeling can end their movement in an ally&#39;s space. While occupying an ally&#39;s space, the sporeling has cover.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The sporeling can end their movement in an ally&#39;s space. While occupying an ally&#39;s space, the sporeling has cover."></template>

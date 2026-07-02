@@ -29,3 +29,6 @@ type: feature
 <p>You gain a <a href="../../../../rule/dice/bane/">bane</a> on the test for each subsequent rumor you collect either on the same day or in the same location.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a [Reason](../../../rule/character/reason.md) [test](../../../rule/test/test.md):&#10;&#10;- **≤11:** You learn an undoubtedly false common rumor.&#10;- **12-16:** You learn a common rumor that is most likely true.&#10;- **17+:** You learn an obscure rumor that could either be true or false.&#10;&#10;You gain a [bane](../../../rule/dice/bane.md) on the test for each subsequent rumor you collect either on the same day or in the same location."></template>

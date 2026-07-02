@@ -20,3 +20,6 @@ type: feature
 <p>If you&#39;re not <a href="../../../../rule/combat/surprised/">surprised</a> at the start of your first <a href="../../../../rule/combat/turn/">turn</a> in combat, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../../../rule/resource/surge/">surges</a>. If you are <a href="../../../../rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../../../rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="If you&#39;re not [surprised](../../../rule/combat/surprised.md) at the start of your first [turn](../../../rule/combat/turn.md) in combat, you gain an [edge](../../../rule/dice/edge.md) on [ability rolls](../../../rule/dice/ability-roll.md) and gain 2 [surges](../../../rule/resource/surge.md). If you are [surprised](../../../rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../../rule/combat/surprised.md) and gain the benefits of this feature."></template>

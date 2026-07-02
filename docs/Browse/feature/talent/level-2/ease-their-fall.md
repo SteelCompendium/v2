@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to reduce the falling damage by an amount equal to 2 + your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to reduce the falling damage by an amount equal to 2 + your [Reason](../../../rule/character/reason.md) score."></template>

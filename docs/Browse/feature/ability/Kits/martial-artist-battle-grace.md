@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If you obtain a tier 2 or tier 3 outcome and can&#39;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You feint to move your enemies into perfect position.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + M or A damage&#10;- **12-16:** 8 + M or A damage; you can swap places with the target&#10;- **17+:** 11 + M or A damage; you can swap places with the target&#10;&#10;**Effect:** If you obtain a tier 2 or tier 3 outcome and can&#39;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage."></template>

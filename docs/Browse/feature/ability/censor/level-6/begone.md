@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You terrify your enemies into retreating, creating chaos in their ranks.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 [burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 psychic damage; [slide](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 6 psychic damage; [slide](../../../../movement/forced-movement.md) 5&#10;- **17+:** 8 psychic damage; [slide](../../../../movement/forced-movement.md) 7"></template>

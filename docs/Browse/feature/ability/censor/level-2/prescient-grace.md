@@ -41,3 +41,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../../rule/health/recoveries/">recovery value</a>. The target can then take their <a href="../../../../../rule/combat/turn/">turn</a> immediately before the triggering enemy.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Gifted by a prescient vision, you warn an ally of an impending attack.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)** |          **Triggered** |&#10;|-------------------|-----------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** An enemy within 10 squares starts their [turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You can spend a [Recovery](../../../../rule/health/recoveries.md) to allow the target to regain [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md). The target can then take their [turn](../../../../rule/combat/turn.md) immediately before the triggering enemy."></template>

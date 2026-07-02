@@ -47,3 +47,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of a werewolf&#39;s turn, you can spend [Malice](../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Blood In Their Eyes (3 Malice)**&#10;&gt;&#10;&gt; The werewolf gains 10 temporary [Stamina](../../rule/health/stamina.md) and a +3 bonus to speed until the end of their turn. The werewolf can&#39;t use this feature if they took any holy damage since ending their last turn.&#10;&#10;&gt; ☠️ **Solo Action (5 Malice)**&#10;&gt;&#10;&gt; The werewolf takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).&#10;&#10;&gt; 🌀 **Moonfall (10 Malice)**&#10;&gt;&#10;&gt; Until the end of the encounter, the encounter map turns to night and the moon appears impossibly huge in the sky. The werewolf can take an additional move action or maneuver on each of their turns while they have line of effect to the moon. Any creature who ends their turn with line of effect to the moon with 1 or more rage gains 2 rag."></template>

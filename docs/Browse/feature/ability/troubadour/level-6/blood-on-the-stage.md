@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*It&#39;s love and blood or drama and blood. Either way, there&#39;s always blood.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 + A damage; M &lt; WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 18 + A damage; M &lt; AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 24 + A damage; [bleeding](../../../../condition/bleeding.md) ([EoT](../../../../rule/combat/end-of-turn.md)), or if M &lt; STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)"></template>

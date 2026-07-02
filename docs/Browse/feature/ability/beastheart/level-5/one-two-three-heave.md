@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this <a href="../../../../../movement/forced-movement/">forced movement</a> can ignore the target&#39;s stability.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Harnessing your companion&#39;s strength, you send your foe flying.*&#10;&#10;| **Beastheart, Melee, Strike, Weapon** | **Main action** |&#10;|---------------------------------------|----------------:|&#10;| **📏 Melee 1**                        | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 10 + M damage; vertical push 4; [prone](../../../../condition/prone.md)&#10;- **12-16:** 15 + M damage; vertical push 6; [prone](../../../../condition/prone.md)&#10;- **17+:** 20 + M damage; vertical push 8; [prone](../../../../condition/prone.md)&#10;&#10;**Effect:** If your companion is adjacent to the target, this [forced movement](../../../../movement/forced-movement.md) can ignore the target&#39;s stability."></template>

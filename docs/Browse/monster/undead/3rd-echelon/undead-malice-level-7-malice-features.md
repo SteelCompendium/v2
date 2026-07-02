@@ -40,3 +40,6 @@ type: featureblock
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of any level 7 or higher undead&#39;s turn, you can spend [Malice](../../../rule/monster/malice.md) to activate one of the following features.&#10;&#10;&gt; ⭐️ **Prior Malice Features (2-7+ [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; The undead activates a [Malice](../../../rule/monster/malice.md) feature available to undead of level 6 or lower.&#10;&#10;&gt; 🌀 **Necrotic Rupture (5 [Malice](../../../rule/monster/malice.md))**&#10;&gt;&#10;&gt; Until the end of the round, whenever an undead is reduced to 0 [Stamina](../../../rule/health/stamina.md), they deal 8 corruption damage to each enemy within 3 squares of them."></template>

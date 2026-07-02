@@ -40,3 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> during this movement.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*While everyone&#39;s eyes are drawn to your foe, you wreathe yourself in obscuring mist.*&#10;&#10;| **Magic**   | **Triggered Action** |&#10;|-------------|---------------------:|&#10;| **📏 Self** |          **🎯 Self** |&#10;&#10;**Trigger:** An enemy within 10 squares deals damage to a creature other than you.&#10;&#10;**Effect:** You become invisible until the end of your next turn or you deal damage. You can then use the [Hide](../../../../skill/intrigue/hide.md) maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.&#10;&#10;**Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore [difficult terrain](../../../../movement/difficult-terrain.md) during this movement."></template>

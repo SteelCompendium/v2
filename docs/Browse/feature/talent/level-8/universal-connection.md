@@ -20,3 +20,6 @@ type: feature
 <p>The range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to anywhere on the same world."></template>

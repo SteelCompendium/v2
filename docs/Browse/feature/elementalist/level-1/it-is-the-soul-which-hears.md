@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can&#39;t be overly specific.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can speak with and understand animals, beasts, and plant creatures, even if they don&#39;t share a language with you. Your ability to communicate with these creatures doesn&#39;t make them inherently more intelligent, but you can use [Reason](../../../rule/character/reason.md) instead of [Presence](../../../rule/character/presence.md) while making [tests](../../../rule/test/test.md) to influence them.&#10;&#10;Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can&#39;t be overly specific."></template>

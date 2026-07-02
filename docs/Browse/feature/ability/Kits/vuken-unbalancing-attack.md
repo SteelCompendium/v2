@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A wild assault forces your foe onto their back.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md):**&#10;&#10;- **≤11:** 4 + M damage; A &lt; WEAK[, prone](../../../condition/prone.md)&#10;- **12-16:** 7 + M damage; A &lt; AVERAGE[, prone](../../../condition/prone.md)&#10;- **17+:** 9 + M damage; A &lt; STRONG[, prone](../../../condition/prone.md)"></template>

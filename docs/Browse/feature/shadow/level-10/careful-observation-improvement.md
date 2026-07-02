@@ -19,3 +19,6 @@ type: feature
 <p>You can target three creatures simultaneously with your <a href="../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You can target three creatures simultaneously with your [Careful Observation](../../ability/shadow/level-3/careful-observation.md) ability."></template>

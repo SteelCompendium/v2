@@ -20,3 +20,6 @@ type: feature
 <p>As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any <a href="../../../../rule/resource/respite/">respite</a>, you can take an additional <a href="../../../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any [respite](../../../rule/resource/respite.md), you can take an additional [respite](../../../rule/resource/respite.md) activity."></template>

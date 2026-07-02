@@ -18,3 +18,6 @@ type: feature
 <p>Each <a href="../../../../../../rule/combat/combat-round/">round</a>, you gain a <a href="../../../../../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../../../../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../../../../../rule/combat/aura/">auras</a>) while you have <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Each [round](../../../../../rule/combat/combat-round.md), you gain a [surge](../../../../../rule/resource/surge.md) the first time an area of terrain gains a [supernatural](../../../../../rule/general/supernatural.md) effect (excluding [auras](../../../../../rule/combat/aura.md)) while you have [line of effect](../../../../../rule/combat/line-of-effect.md) to the crystal. You can choose to give the [surge](../../../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../../../rule/combat/line-of-effect.md) to the crystal."></template>

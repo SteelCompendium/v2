@@ -20,3 +20,6 @@ type: feature
 <p>When you or your companion uses your <a href="../../../ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a> ability to spend a Recovery, you and the target both regain Stamina.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you or your companion uses your [The Pack Defends](../../ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina."></template>

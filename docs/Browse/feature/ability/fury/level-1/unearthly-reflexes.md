@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effects associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is reduced by 1 for you.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You are as elusive as a hummingbird.*&#10;&#10;| **-**       | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |    **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage from the triggering effect and can [shift](../../../../movement/shifting.md) up to a number of squares equal to your [Agility](../../../../rule/character/agility.md) score.&#10;&#10;**Spend 1 Ferocity:** If the damage has any [potency](../../../../rule/character/potency.md) effects associated with it, the [potency](../../../../rule/character/potency.md) is reduced by 1 for you."></template>

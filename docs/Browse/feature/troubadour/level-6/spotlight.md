@@ -34,3 +34,6 @@ type: feature
 </div>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.&#10;&#10;## Spotlight {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/spotlight&#34;}&#10;&#10;&#10;*The audience is watching, so you&#39;d better give them a show.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 [aura](../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their [turn](../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../rule/resource/heroic-resource.md) disappears at the end of the target&#39;s [turn](../../../rule/combat/turn.md) if they don&#39;t spend it."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>At the start of a <a href="../../../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../../../rule/downtime/project-roll/">project roll</a> during this <a href="../../../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../../../rule/character/presence/">Presence</a> score to the roll.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the start of a [respite](../../../rule/resource/respite.md), you can inspire yourself or another creature taking the same [respite](../../../rule/resource/respite.md) with divine knowledge. If the target makes a [project roll](../../../rule/downtime/project-roll.md) during this [respite](../../../rule/resource/respite.md), they can add 1d10 plus your [Presence](../../../rule/character/presence.md) score to the roll."></template>

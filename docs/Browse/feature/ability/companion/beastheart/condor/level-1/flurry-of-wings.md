@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be <a href="../../../../../../../condition/weakened/">weakened</a> by this ability is <a href="../../../../../../../condition/taunted/">taunted</a> instead.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*I can&#39;t draw a bead on them with that infernal bird flapping in my face!*&#10;&#10;| **Companion, Melee, Weapon** |                  **Maneuver** |&#10;|------------------------------|------------------------------:|&#10;| **📏 Melee 1**               | **🎯 One creature or object** |&#10;&#10;**Effect:** The target takes damage equal to 3 + the condor&#39;s Might score. Additionally, enemies are [weakened](../../../../../../condition/weakened.md) while adjacent to the condor until the end of your next turn.&#10;&#10;**Spend 1 Ferocity:** An enemy who would be [weakened](../../../../../../condition/weakened.md) by this ability is [taunted](../../../../../../condition/taunted.md) instead."></template>

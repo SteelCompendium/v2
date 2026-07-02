@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made <a href="../../../../../rule/health/winded/">winded</a> by this ability, they are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Judged and [sentenced](../level-2/sentenced.md).*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**             |           **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 + M holy damage&#10;- **12-16:** 3 + M holy damage&#10;- **17+:** 5 + M holy damage&#10;&#10;**Effect:** When a target who is not a leader or solo creature is made [winded](../../../../rule/health/winded.md) by this ability, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md)."></template>

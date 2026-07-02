@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You and each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You distract a foe while your allies secure their defensive gear.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon** | **Main action**     |&#10;|---------------------------|---------------------|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 9 + M damage&#10;- **12-16:** 13 + M damage&#10;- **17+:** 18 + M damage&#10;&#10;**Effect:** You and each ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

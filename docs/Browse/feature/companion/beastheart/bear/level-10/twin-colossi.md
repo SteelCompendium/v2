@@ -20,3 +20,6 @@ type: feature
 <p>While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage."></template>

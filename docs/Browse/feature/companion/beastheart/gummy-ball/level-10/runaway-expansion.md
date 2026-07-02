@@ -20,3 +20,6 @@ type: feature
 <p>While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball&#39;s size increases by 1 (to a maximum of 5). The ball&#39;s size can&#39;t increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball&#39;s size increases by 1 (to a maximum of 5). The ball&#39;s size can&#39;t increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends."></template>

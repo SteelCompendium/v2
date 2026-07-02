@@ -19,3 +19,6 @@ type: trait
 <p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../../rule/health/recoveries/">Recoveries</a> as you like.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../common/maneuvers/catch-breath.md) maneuver, you can spend as many [Recoveries](../../../rule/health/recoveries.md) as you like."></template>

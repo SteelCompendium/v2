@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You and your companion can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.*&#10;&#10;| **Companion, Melee, Strike, Weapon** | **Main action** |&#10;|--------------------------------------|----------------:|&#10;| **📏 Melee 1**                       | **🎯 One creature** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 5 + M damage; slide 1; I &lt; WEAK [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 8 + M damage; slide 2; I &lt; AVERAGE [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 11 + M damage; slide 4; I &lt; STRONG [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md)."></template>

@@ -43,3 +43,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You strike at key nerve clusters to leave your foe staggered.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; A &lt; WEAK, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 7 + A damage; A &lt; AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 9 + A damage; A &lt; STRONG, [weakened](../../../../condition/weakened.md) (save ends)"></template>

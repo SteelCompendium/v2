@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability can be used on <a href="../../../../rule/general/supernatural/">supernatural</a> objects (but not on artifacts). When you melt a treasure (see Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>), you gain breath equal to its <a href="../../../../rule/general/echelon/">echelon</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The damage [bonus](../../../rule/dice/bonuses-and-penalties.md) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.&#10;&#10;Additionally, your [Return to Formlessness](../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on [supernatural](../../../rule/general/supernatural.md) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../../Read/heroes/rewards.md)), you gain breath equal to its [echelon](../../../rule/general/echelon.md)."></template>

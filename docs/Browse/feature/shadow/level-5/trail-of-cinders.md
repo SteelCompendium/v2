@@ -21,3 +21,6 @@ type: feature
 <p>Additionally, you can now bring an <a href="../../../../rule/combat/adjacent/">adjacent</a> willing creature along with you whenever you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space <a href="../../../../rule/combat/adjacent/">adjacent</a> to the space into which you <a href="../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../movement/teleport/">teleport</a> with you.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you reduce a non-minion creature to 0 [Stamina](../../../rule/health/stamina.md), you can immediately use a [free maneuver](../../../rule/combat/free-maneuver.md) to use your [Black Ash Teleport](../../ability/shadow/level-1/black-ash-teleport.md) ability.&#10;&#10;Additionally, you can now bring an [adjacent](../../../rule/combat/adjacent.md) willing creature along with you whenever you use a shadow ability to [teleport](../../../movement/teleport.md). The creature appears in an unoccupied space [adjacent](../../../rule/combat/adjacent.md) to the space into which you [teleport](../../../movement/teleport.md)ed. If no such space exists, they can&#39;t [teleport](../../../movement/teleport.md) with you."></template>

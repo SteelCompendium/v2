@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*A well-placed shot leaves your enemy struggling to move.*&#10;&#10;| **[Ranged](../../../rule/combat/ranged.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 [Ranged](../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + M or A damage; A &lt; WEAK, [slowed](../../../condition/slowed.md) (save ends)&#10;- **12-16:** 5 + M or A damage; A &lt; AVERAGE, [slowed](../../../condition/slowed.md) (save ends)&#10;- **17+:** 7 + M or A damage; A &lt; STRONG, [slowed](../../../condition/slowed.md) (save ends)"></template>

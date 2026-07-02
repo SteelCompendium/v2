@@ -19,3 +19,6 @@ type: trait
 <p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your cherished horns are larger than the average [devil&#39;s](../../../ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a [saving throw](../../../rule/general/saving-throw.md), you succeed on a roll of 5 or higher."></template>

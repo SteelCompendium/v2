@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The well-thrown net that follows your main attack leaves your foes right where you want them.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 2**            | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + M or A damage; A &lt; WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 6 + M or A damage; A &lt; AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))&#10;- **17+:** 8 + M or A damage; A &lt; STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))"></template>

@@ -19,3 +19,6 @@ type: feature
 <p>The gods imbue a divine swiftness within you. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score after the damage is dealt.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The gods imbue a divine swiftness within you. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, you can [shift](../../../movement/shifting.md) up to a number of squares equal to your [Intuition](../../../rule/character/intuition.md) score after the damage is dealt."></template>

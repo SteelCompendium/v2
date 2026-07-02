@@ -19,3 +19,6 @@ type: feature
 <p>Invisible spirits surround you if you are harmed. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, they take corruption damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Invisible spirits surround you if you are harmed. Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, they take corruption damage equal to your [Intuition](../../../rule/character/intuition.md) score."></template>

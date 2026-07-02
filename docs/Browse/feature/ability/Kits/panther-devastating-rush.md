@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can move up to 3 squares straight toward the target before this <a href="../../../../rule/combat/strike/">strike</a>, which deals extra damage equal to the number of squares you move this way.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The faster you move, the harder you hit.*&#10;&#10;| **[Melee](../../../rule/combat/melee.md), [Strike](../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 [Melee](../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 3 + M or A damage&#10;- **12-16:** 6 + M or A damage&#10;- **17+:** 13 + M or A damage&#10;&#10;**Effect:** You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way."></template>

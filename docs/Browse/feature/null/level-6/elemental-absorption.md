@@ -19,3 +19,6 @@ type: feature
 <p>Whenever you use your <a href="../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> <a href="../../../../rule/combat/triggered-action/">triggered action</a>, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score against the triggering damage.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use your [Inertial Shield](../../ability/null/level-1/inertial-shield.md) [triggered action](../../../rule/combat/triggered-action.md), you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your [Intuition](../../../rule/character/intuition.md) score against the triggering damage."></template>

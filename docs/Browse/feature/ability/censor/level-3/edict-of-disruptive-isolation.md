@@ -34,3 +34,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target takes holy damage equal to your <a href="../../../../../rule/character/presence/">Presence</a> score at the end of each of your <a href="../../../../../rule/combat/turn/">turns</a>. A target takes an extra 2d6 holy damage if they are judged by you or if they are <a href="../../../../../rule/combat/adjacent/">adjacent</a> to any enemy.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*The evil within your foes detonates with holy fire that burns only the guilty.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 [aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score at the end of each of your [turns](../../../../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../../../../rule/combat/adjacent.md) to any enemy."></template>

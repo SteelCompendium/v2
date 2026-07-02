@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each ally in the area can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your [saint](../../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 5 [burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 holy damage&#10;- **12-16:** 5 holy damage&#10;- **17+:** 7 holy damage&#10;&#10;**Effect:** Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

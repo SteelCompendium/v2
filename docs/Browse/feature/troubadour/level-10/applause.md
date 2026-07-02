@@ -21,3 +21,6 @@ type: feature
 <p><a href="../applause/">Applause</a> remains until you spend it.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called [applause](applause.md). Each time you finish a [respite](../../../rule/resource/respite.md), you gain [applause](applause.md) equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend [applause](applause.md) on your abilities as if it were drama.&#10;&#10;Additionally, whenever you or a creature within 3 squares would obtain a failure or a tier 1 outcome on a [test](../../../rule/test/test.md), you can spend 1 [applause](applause.md) to improve the outcome by 1 tier.&#10;&#10;[Applause](applause.md) remains until you spend it."></template>

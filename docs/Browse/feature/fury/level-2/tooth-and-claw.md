@@ -20,3 +20,6 @@ type: feature
 <p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="At the end of each of your [turns](../../../rule/combat/turn.md), each enemy [adjacent](../../../rule/combat/adjacent.md) to you takes damage equal to your [Might](../../../rule/character/might.md) score."></template>

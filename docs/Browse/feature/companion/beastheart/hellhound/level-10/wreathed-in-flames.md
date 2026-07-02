@@ -20,3 +20,6 @@ type: feature
 <p>While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score."></template>

@@ -19,3 +19,6 @@ type: feature
 <p>Your <a href="../../../../rule/combat/ranged/">ranged</a> psionic abilities gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your [ranged](../../../rule/combat/ranged.md) psionic abilities gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [distance](../../../rule/combat/distance.md)."></template>

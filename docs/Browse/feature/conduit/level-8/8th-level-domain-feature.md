@@ -19,3 +19,6 @@ type: feature
 <p>You gain the 7th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 7th-Level Domain Feature).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain the 7th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 7th-Level Domain Feature)."></template>

@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>The targets are <a href="../../../../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be <a href="../../../../../movement/forced-movement/">pushed</a> into other targets in the same line.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Lightning [bursts](../../../../rule/combat/burst.md) forth from your body in several directions.*&#10;&#10;| **Area, Magic**                    |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 6 lightning damage; [push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 9 lightning damage; [push](../../../../movement/forced-movement.md) 2&#10;- **17+:** 13 lightning damage; [push](../../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../../../movement/forced-movement.md) into other targets in the same line."></template>

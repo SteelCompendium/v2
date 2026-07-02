@@ -19,3 +19,6 @@ type: feature
 <p>Whenever you obtain a success on a <a href="../../../../rule/test/test/">test</a>, each <a href="../../../../rule/general/npc/">NPC</a> within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an <a href="../../../../rule/dice/edge/">edge</a> on their next <a href="../../../../rule/test/test/">test</a>. These effects last until you start your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you obtain a success on a [test](../../../rule/test/test.md), each [NPC](../../../rule/general/npc.md) within your [line of effect](../../../rule/combat/line-of-effect.md) has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an [edge](../../../rule/dice/edge.md) on their next [test](../../../rule/test/test.md). These effects last until you start your next [respite](../../../rule/resource/respite.md)."></template>

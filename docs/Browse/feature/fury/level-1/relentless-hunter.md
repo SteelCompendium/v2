@@ -20,3 +20,6 @@ type: feature
 <p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/intrigue/track/">Track</a> skill.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/intrigue/track.md) skill."></template>

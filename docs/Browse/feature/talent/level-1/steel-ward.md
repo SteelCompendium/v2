@@ -19,3 +19,6 @@ type: feature
 <p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../../rule/damage/damage-immunity.md) equal to your [Reason](../../../rule/character/reason.md) score until the end of your next [turn](../../../rule/combat/turn.md)."></template>

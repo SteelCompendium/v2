@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This ability deals your primordial <a href="../../../../../rule/damage/damage-type/">damage type</a> and ignores <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You summon your [primordial storm](../../../fury/stormwight-kits/primordial-storm.md).*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 [cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage&#10;- **12-16:** 10 damage&#10;- **17+:** 15 damage&#10;&#10;**Effect:** This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../../rule/damage/damage-immunity.md)."></template>

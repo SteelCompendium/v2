@@ -40,3 +40,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You use your <a href="../../level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them. You can then spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*When your enemy strikes, you reveal you were in a different place all along.*&#10;&#10;| **Magic**            | **Free triggered** |&#10;|----------------------|-------------------:|&#10;| **📏 Self**          |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature targets you with a [strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../common/main-actions/free-strike.md) against them. You can then spend a [Recovery](../../../../rule/health/recoveries.md)."></template>

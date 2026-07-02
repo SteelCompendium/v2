@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you use an ability that deals rolled damage to a <a href="../../../../../../condition/bleeding/">bleeding</a> creature while the deinonychus is rampaging, you gain 2 surges.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use an ability that deals rolled damage to a [bleeding](../../../../../condition/bleeding.md) creature while the deinonychus is rampaging, you gain 2 surges."></template>

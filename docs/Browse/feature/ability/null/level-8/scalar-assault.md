@@ -41,3 +41,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You warp reality to grow a limb for just a moment and make a single devastating attack.*&#10;&#10;| **Area, Psionic**      |               **Main action** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 [cube](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 psychic damage; [push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 17 psychic damage; [push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 23 psychic damage; [push](../../../../movement/forced-movement.md) 7"></template>

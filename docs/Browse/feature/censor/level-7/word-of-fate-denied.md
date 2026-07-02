@@ -20,3 +20,6 @@ type: feature
 <p>When an ally within 10 squares takes damage that would leave them <a href="../../../../rule/health/dying/">dying</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When an ally within 10 squares takes damage that would leave them [dying](../../../rule/health/dying.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way."></template>

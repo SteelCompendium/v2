@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>If your companion is in the area, they deal fire damage equal to their Intuition score to each target.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.*&#10;&#10;| **Area, Beastheart, Weapon** |              **Main action** |&#10;|------------------------------|-----------------------------:|&#10;| **📏 3 cube within 5**       | **🎯 Each enemy in the area** |&#10;&#10;**Power Roll + Might:**&#10;&#10;- **≤11:** 3 fire damage&#10;- **12-16:** 5 fire damage&#10;- **17+:** 8 fire damage&#10;&#10;**Effect:** If your companion is in the area, they deal fire damage equal to their Intuition score to each target."></template>

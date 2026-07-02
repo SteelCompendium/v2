@@ -42,3 +42,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), [Strike](../../../../rule/combat/strike.md), Weapon**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 1**             | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 + M holy damage; P &lt; WEAK, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 5 + M holy damage; P &lt; AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 7 + M holy damage; P &lt; STRONG, [slowed](../../../../condition/slowed.md) (save ends)"></template>

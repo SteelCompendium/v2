@@ -20,3 +20,6 @@ type: feature
 <p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your [Judgment](../../ability/censor/level-1/judgment.md) ability against them as a free [triggered action](../../../rule/combat/triggered-action.md)."></template>

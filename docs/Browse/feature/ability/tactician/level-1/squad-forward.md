@@ -33,3 +33,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target can move up to their <a href="../../../../../rule/character/speed/">speed</a>.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*On your command, you and your allies force back the enemy line.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |               **Maneuver** |&#10;|------------------|---------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target can move up to their [speed](../../../../rule/character/speed.md)."></template>

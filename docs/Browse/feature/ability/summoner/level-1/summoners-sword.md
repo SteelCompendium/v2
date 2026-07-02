@@ -47,3 +47,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This <a href="../../../../../rule/combat/strike/">strike</a> deals an additional 2 <a href="../../../../../rule/damage/damage/">damage</a> for each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You draw your strength from the army you surround yourself with and summon a hot blade of energy and fervor.*&#10;&#10;| **Magic, Melee, Strike** | **Main action** |&#10;|--------------------------|----------------:|&#10;| **📏 Melee 3** | **🎯 One creature or object** |&#10;&#10;**Power Roll + Reason:**&#10;&#10;- **≤11:** R damage&#10;- **12-16:** 2 + R damage&#10;- **17+:** 4 + R damage&#10;&#10;**Effect:** This [strike](../../../../rule/combat/strike.md) deals an additional 2 [damage](../../../../rule/damage/damage.md) for each ally [adjacent](../../../../rule/combat/adjacent.md) to you."></template>

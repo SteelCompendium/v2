@@ -20,3 +20,6 @@ type: feature
 <p>Whenever you willingly move, you can <a href="../../../../movement/teleport/">teleport</a>. When you <a href="../../../../movement/teleport/">teleport</a> this way, it counts as using a shadow ability for the purpose of using your <a href="../../level-2/burning-ash/">Burning Ash</a> and <a href="../../level-5/trail-of-cinders/">Trail of Cinders</a> features.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you willingly move, you can [teleport](../../../movement/teleport.md). When you [teleport](../../../movement/teleport.md) this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../level-2/burning-ash.md) and [Trail of Cinders](../level-5/trail-of-cinders.md) features."></template>

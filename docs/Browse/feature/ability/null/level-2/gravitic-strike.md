@@ -44,3 +44,6 @@ type: ability
 </div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your fist emanates gravitic force that pulls a distant enemy closer.*&#10;&#10;| **[Melee](../../../../rule/combat/melee.md), Psionic, [Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|------------------------------------|--------------------:|&#10;| **📏 [Melee](../../../../rule/combat/melee.md) 3**                     | **🎯 One creature** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 12 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 5&#10;- **17+:** 16 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 7"></template>

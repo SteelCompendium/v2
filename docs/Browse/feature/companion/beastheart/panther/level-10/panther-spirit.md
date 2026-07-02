@@ -20,3 +20,6 @@ type: feature
 <p>While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are <a href="../../../../../../movement/difficult-terrain/">difficult terrain</a> for you both. A creature who ends their turn inside a solid object from moving this way is <a href="../../../../../../movement/teleport/">teleported</a> to the last unoccupied space they previously occupied.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are [difficult terrain](../../../../../movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is [teleported](../../../../../movement/teleport.md) to the last unoccupied space they previously occupied."></template>

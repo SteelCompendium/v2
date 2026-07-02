@@ -20,3 +20,6 @@ type: feature
 <p>When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake&#39;s attuned damage type affects their other features.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake&#39;s attuned damage type affects their other features."></template>

@@ -20,3 +20,6 @@ type: feature
 <p>The first time each <a href="../../../../rule/combat/combat-round/">round</a> you take <a href="../../../../rule/damage/damage/">damage</a>, you can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> to <a href="../../../../movement/shifting/">shift</a> 1 after the triggering effect resolves and summon a signature <a href="../../level-1/minions/">minion</a> into the square you left (as long as there is enough space).</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="The first time each [round](../../../rule/combat/combat-round.md) you take [damage](../../../rule/damage/damage.md), you can use a [free triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) 1 after the triggering effect resolves and summon a signature [minion](../level-1/minions.md) into the square you left (as long as there is enough space)."></template>

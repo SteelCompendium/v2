@@ -51,3 +51,6 @@ type: dynamic-terrain
 </div>
 </article>
 </div>
+
+
+<template class="sc-src" data-fmt="md" data-src="An empowering monument to a higher power enables a villain&#39;s machinations.&#10;&#10;- **EV:** 7&#10;- **Stamina:** 35&#10;- **Size:** 2&#10;&#10;&gt; 🌀 **Deactivate**&#10;&gt;&#10;&gt; The holy idol must be completely destroyed.&#10;&#10;&gt; ⭐️ **Empowered Will**&#10;&gt;&#10;&gt; At the start of each round while the holy idol is intact, the Director gains a d6 that lasts until the end of the round. When a Director-controlled creature deals or takes damage, the Director can roll the d6 to increase the damage the creature deals or reduce the damage the creature takes by an amount equal to the roll (to a minimum of 2 damage). If multiple idols are in play, only one d6 can be applied to a single instance of damage."></template>

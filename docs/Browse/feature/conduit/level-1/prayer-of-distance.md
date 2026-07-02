@@ -19,3 +19,6 @@ type: feature
 <p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../../rule/combat/ranged/">ranged</a> magic abilities.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your god blesses you with the ability to stretch your divine magic farther. You have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) magic abilities."></template>

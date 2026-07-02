@@ -19,3 +19,6 @@ type: feature
 <p>Whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> or <a href="../../../common/maneuvers/grab/">Grab</a> maneuver, you use <a href="../../../../rule/character/intuition/">Intuition</a> instead of <a href="../../../../rule/character/might/">Might</a> for the <a href="../../../../rule/dice/power-roll/">power roll</a> and for determining if you can target creatures larger than you. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can choose to <a href="../../../../movement/forced-movement/">slide</a> the target instead of <a href="../../../../movement/forced-movement/">pushing</a> them.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Whenever you use the [Knockback](../../common/maneuvers/knockback.md) or [Grab](../../common/maneuvers/grab.md) maneuver, you use [Intuition](../../../rule/character/intuition.md) instead of [Might](../../../rule/character/might.md) for the [power roll](../../../rule/dice/power-roll.md) and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can choose to [slide](../../../movement/forced-movement.md) the target instead of [pushing](../../../movement/forced-movement.md) them."></template>

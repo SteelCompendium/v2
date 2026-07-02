@@ -20,3 +20,6 @@ type: feature
 <p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can undertake an additional <a href="../../../../rule/resource/respite/">respite</a> activity during a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="While you have 5 or more [Victories](../../../rule/resource/victories.md), you can undertake an additional [respite](../../../rule/resource/respite.md) activity during a [respite](../../../rule/resource/respite.md)."></template>

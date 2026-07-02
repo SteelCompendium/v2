@@ -48,3 +48,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../../../condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Spectral teeth clamp on a foe, chaining them to you and draining their life essence.*&#10;&#10;| **Beastheart, Magic, Melee, Ranged** | **Main action** |&#10;|--------------------------------------|----------------:|&#10;| **📏 Melee 1 or ranged 5**           | **🎯 One creature** |&#10;&#10;**Power Roll + Intuition:**&#10;&#10;- **≤11:** 7 + I damage; P &lt; WEAK [weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 10 + I damage; P &lt; AVERAGE [weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 14 + I damage; P &lt; STRONG [weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** Whenever a target more than 3 squares away from you fails the saving throw while [weakened](../../../../condition/weakened.md) this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action."></template>

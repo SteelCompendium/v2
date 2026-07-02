@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is increased by 1.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*Your leadership aids an ally.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |   **Triggered** |&#10;|------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |&#10;&#10;**Trigger:** The target deals damage to another creature.&#10;&#10;**Effect:** The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.&#10;&#10;**Spend 1 Focus:** If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is increased by 1."></template>

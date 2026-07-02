@@ -46,3 +46,6 @@ type: ability
 <div class="sc-ability__section-body"><p>You can have this ability deal holy damage.</p></div>
 </div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You unleash a blast of holy light upon your foe.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md), [Strike](../../../../rule/combat/strike.md)**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |&#10;&#10;**[Power Roll](../../../../rule/dice/power-roll.md) + [Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 + I damage&#10;- **12-16:** 4 + I damage&#10;- **17+:** 6 + I damage&#10;&#10;**Effect:** You can have this ability deal holy damage."></template>

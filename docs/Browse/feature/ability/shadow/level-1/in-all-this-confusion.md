@@ -41,3 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each insight spent.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*You vanish in a plume of black smoke to avoid danger.*&#10;&#10;| **Magic**   | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage, then can [teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.&#10;&#10;**Spend 1+ Insight:** You [teleport](../../../../movement/teleport.md) 1 additional square for each insight spent."></template>

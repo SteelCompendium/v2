@@ -20,3 +20,6 @@ type: feature
 <p>Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
 </div>
 </section>
+
+
+<template class="sc-src" data-fmt="md" data-src="Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md) to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 [Stamina](../../../rule/health/stamina.md)."></template>

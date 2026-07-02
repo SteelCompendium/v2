@@ -38,3 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to melee 5.</span></div>
 </article>
+
+
+<template class="sc-src" data-fmt="md" data-src="*An arc of lightning crackles from the spark.*&#10;&#10;| **Companion, Magic, Melee** |                  **Maneuver** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 Melee 1**              | **🎯 One creature or object** |&#10;&#10;**Effect:** The target takes lightning damage equal to 2 + the spark&#39;s Might score.&#10;&#10;**Spend 1 Ferocity:** The distance increases to melee 5."></template>
