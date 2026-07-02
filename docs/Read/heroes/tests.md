@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/tests
 type: chapter
 ---
 
-# Tests
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 9</div>
+
+# Tests {.sc-chtitle}
 
 ---
 

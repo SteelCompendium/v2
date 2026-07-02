@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/background
 type: chapter
 ---
 
-# Background
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 4</div>
+
+# Background {.sc-chtitle}
 
 ---
 

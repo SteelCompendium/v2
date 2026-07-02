@@ -9,7 +9,9 @@ scc: mcdm.monsters.v1/chapter/monsters
 type: chapter
 ---
 
-# Monsters
+<div class="sc-cheyebrow">Draw Steel: Monsters · Chapter 1</div>
+
+# Monsters {.sc-chtitle}
 
 ---
 

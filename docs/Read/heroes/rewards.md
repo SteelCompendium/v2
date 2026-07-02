@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/rewards
 type: chapter
 ---
 
-# Rewards
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 13</div>
+
+# Rewards {.sc-chtitle}
 
 ---
 

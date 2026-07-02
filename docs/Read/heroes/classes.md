@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/classes
 type: chapter
 ---
 
-# Classes
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 5</div>
+
+# Classes {.sc-chtitle}
 
 ---
 

@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/for-the-director
 type: chapter
 ---
 
-# For the Director
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 15</div>
+
+# For the Director {.sc-chtitle}
 
 ---
 

@@ -9,7 +9,9 @@ scc: mcdm.beastheart.v1/chapter/the-beastheart-class
 type: chapter
 ---
 
-# The Beastheart Class
+<div class="sc-cheyebrow">The Beastheart · Chapter 1</div>
+
+# The Beastheart Class {.sc-chtitle}
 
 ---
 

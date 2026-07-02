@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/combat
 type: chapter
 ---
 
-# Combat
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 10</div>
+
+# Combat {.sc-chtitle}
 
 ---
 

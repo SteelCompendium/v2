@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/kits
 type: chapter
 ---
 
-# Kits
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 6</div>
+
+# Kits {.sc-chtitle}
 
 ---
 

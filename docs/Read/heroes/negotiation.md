@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/negotiation
 type: chapter
 ---
 
-# Negotiation
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 11</div>
+
+# Negotiation {.sc-chtitle}
 
 ---
 

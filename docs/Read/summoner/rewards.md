@@ -9,7 +9,9 @@ scc: mcdm.summoner.v1/chapter/rewards
 type: chapter
 ---
 
-# Rewards
+<div class="sc-cheyebrow">The Summoner · Chapter 2</div>
+
+# Rewards {.sc-chtitle}
 
 ---
 

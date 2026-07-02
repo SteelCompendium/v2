@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/gods-and-religion
 type: chapter
 ---
 
-# Gods and Religion
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 14</div>
+
+# Gods and Religion {.sc-chtitle}
 
 ---
 

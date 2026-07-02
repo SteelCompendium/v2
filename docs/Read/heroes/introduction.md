@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/introduction
 type: chapter
 ---
 
-# Introduction
+<div class="sc-cheyebrow">Draw Steel: Heroes</div>
+
+# Introduction {.sc-chtitle}
 
 ---
 

@@ -9,7 +9,9 @@ scc: mcdm.monsters.v1/chapter/monster-basics
 type: chapter
 ---
 
-# Monster Basics
+<div class="sc-cheyebrow">Draw Steel: Monsters</div>
+
+# Monster Basics {.sc-chtitle}
 
 ---
 

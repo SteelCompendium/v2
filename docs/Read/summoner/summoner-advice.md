@@ -9,7 +9,9 @@ scc: mcdm.summoner.v1/chapter/summoner-advice
 type: chapter
 ---
 
-# Summoner Advice
+<div class="sc-cheyebrow">The Summoner · Chapter 4</div>
+
+# Summoner Advice {.sc-chtitle}
 
 ---
 

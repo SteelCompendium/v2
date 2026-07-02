@@ -9,7 +9,9 @@ scc: mcdm.summoner.v1/chapter/the-summoner-class
 type: chapter
 ---
 
-# The Summoner Class
+<div class="sc-cheyebrow">The Summoner · Chapter 1</div>
+
+# The Summoner Class {.sc-chtitle}
 
 ---
 

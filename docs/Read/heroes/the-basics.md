@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/the-basics
 type: chapter
 ---
 
-# The Basics
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 1</div>
+
+# The Basics {.sc-chtitle}
 
 ---
 

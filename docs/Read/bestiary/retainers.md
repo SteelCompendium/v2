@@ -9,7 +9,9 @@ scc: mcdm.monsters.v1/chapter/retainers
 type: chapter
 ---
 
-# Retainers
+<div class="sc-cheyebrow">Draw Steel: Monsters · Chapter 3</div>
+
+# Retainers {.sc-chtitle}
 
 ---
 

@@ -9,7 +9,9 @@ scc: mcdm.beastheart.v1/chapter/the-beastheart-and-the-faeries
 type: chapter
 ---
 
-# The Beastheart & The Faeries
+<div class="sc-cheyebrow">The Beastheart</div>
+
+# The Beastheart & The Faeries {.sc-chtitle}
 
 ---
 

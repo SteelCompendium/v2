@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/ancestries
 type: chapter
 ---
 
-# Ancestries
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 3</div>
+
+# Ancestries {.sc-chtitle}
 
 ---
 

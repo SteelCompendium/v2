@@ -9,7 +9,9 @@ scc: mcdm.monsters.v1/chapter/dynamic-terrain
 type: chapter
 ---
 
-# Dynamic Terrain
+<div class="sc-cheyebrow">Draw Steel: Monsters · Chapter 2</div>
+
+# Dynamic Terrain {.sc-chtitle}
 
 ---
 

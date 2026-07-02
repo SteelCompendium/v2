@@ -9,7 +9,9 @@ scc: mcdm.beastheart.v1/chapter/perks
 type: chapter
 ---
 
-# Perks
+<div class="sc-cheyebrow">The Beastheart · Chapter 3</div>
+
+# Perks {.sc-chtitle}
 
 ---
 

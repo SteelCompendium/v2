@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/making-a-hero
 type: chapter
 ---
 
-# Making a Hero
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 2</div>
+
+# Making a Hero {.sc-chtitle}
 
 ---
 

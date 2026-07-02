@@ -9,7 +9,9 @@ scc: mcdm.heroes.v1/chapter/complications
 type: chapter
 ---
 
-# Complications
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 8</div>
+
+# Complications {.sc-chtitle}
 
 ---
 
