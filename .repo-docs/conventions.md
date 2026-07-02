@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: conventions
-updated: 2026-05-23
+updated: 2026-07-02
 ---
 
 # Conventions
@@ -50,6 +50,25 @@ touches this lowercase, table-free override.)
 - JavaScript files: kebab-case (`scc-headerlinks.js`, `browse-enhancements.js`)
 - CSS files: snake_case (`custom_font.css`, `palette.css`) -- legacy convention
 - Jinja2 overrides: match mkdocs-material's naming (`main.html`, `partials/content.html`)
+- Vendored third-party JS: `docs/javascripts/vendor/` with a `/*! name version | license | source url */` header comment (e.g. `html-to-image.min.js`)
+
+## Client feature structure (core/mount split)
+
+Every interactive feature ships as **two files**: `<name>-core.js` (pure logic, UMD —
+`module.exports` for node + a `window.X` global; no DOM access) and `<name>.js` (DOM
+wiring: mounts via `document$`, idempotent per swap, tears down listeners). The core
+gets a `tests/<name>-core.test.js` (node:test). Exemplars: `settings-core.js`/`settings-panel.js`,
+`sc-encounter-core.js`/`sc-encounter.js`. Register both in `mkdocs.yml` `extra_javascript` — **core before mount** (the mount reads
+the core's `window` global); stylesheets go in `extra_css`. Real-browser checks go in
+`tests/e2e/<name>.e2e.cjs` (playwright-core + Brave; see development.md → Testing).
+
+## Per-card page actions → the top-center control strip
+
+Controls that act on a card page (copy-link, ★ pin, add-to-encounter, MD/PNG export)
+are absolutely positioned in the card's **top-center band** and hover-revealed —
+slots at `left: 50%` / `+1.6rem` / `+3.4rem` / `+5.2rem`. Never place controls in the
+`.sc-head` grid's column 3: they collide with the Level chip / role mini. Full
+contract: workspace `DESIGN.md` → "Card header system".
 
 ## MkDocs Material Overrides
 

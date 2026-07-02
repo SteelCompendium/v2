@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: development
-updated: 2026-05-23
+updated: 2026-07-02
 ---
 
 # Development
@@ -64,14 +64,38 @@ Content generation is handled by `steel-etl`. See `steel-etl/CLAUDE.md` for that
 
 ## Testing
 
-No automated test suite for the site itself. Verification is manual:
+Three layers:
 
-- `mkdocs build` should exit 0 with no warnings
-- Check SCC permalink rewriting works (navigate to a page, verify URL bar shows `/scc/...`)
-- Check anchor links preserve SCC URL
-- Check redirect stubs work (visit `/v2/scc/{any-code}/` directly)
+**Unit (node:test).** Every interactive feature splits pure logic into a
+`docs/javascripts/<name>-core.js` UMD module with a matching `tests/<name>-core.test.js`.
+Run with an explicit glob — this Node version rejects a bare directory argument:
 
-The steel-etl side has Go tests covering SCC stub generation (`internal/site/permalinks_test.go`).
+```bash
+node --test tests/*.test.js
+```
+
+**e2e (`tests/e2e/*.e2e.cjs`).** Real-browser checks driving the locally installed
+Brave via playwright-core + `executablePath` (the Playwright MCP / chrome channel is
+broken in this environment). Each file documents its own run recipe; the shape is:
+
+```bash
+mkdocs build
+python3 -m http.server 8124 --directory site &
+node tests/e2e/page-titles.e2e.cjs        # H1 visible on containers, hidden on card leaves
+node tests/e2e/cardhead-mobile.e2e.cjs    # statblock name doesn't letter-wrap at 390px
+```
+
+Both also accept `E2E_BASE=https://steelcompendium.io/v2/` to run against production.
+
+**Manual smoke** after a build:
+
+- `mkdocs build` exits 0 with no new warnings
+- Redirect stubs work (visit `/v2/scc/{any-code}/` directly)
+- Heading ¶ anchors copy `/scc/…` on coded headings (see troubleshooting.md)
+- `navigation.instant` behaviors (mini-TOC, tray, pins mount exactly once per swap)
+  reproduce **only on the deployed site** — recheck after deploy, not just locally
+
+The steel-etl side has Go tests for all site-builder transforms (`internal/site/*_test.go`).
 
 ## Troubleshooting
 

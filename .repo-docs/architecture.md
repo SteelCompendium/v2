@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: architecture
-updated: 2026-05-23
+updated: 2026-07-02
 ---
 
 # Architecture
@@ -109,6 +109,17 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 | `settings-panel.js` | Live settings drawer: injects the header gear button + steel drawer, applies changes instantly (see "Live settings panel" below) |
 | `reading-progress.js` | Reading progress indicator |
 | `tablesort.js` | Sortable tables integration |
+| `chapter-toc-core.js` / `chapter-toc.js` | Collapsible "In this chapter" mini-TOC injected at the top of Read chapter pages (built from the page's own h2/h3) |
+| `read-resume-core.js` / `read-resume.js` | Per-chapter scroll memory (localStorage) + "Resume reading" chip on return |
+| `sc-pins-core.js` / `sc-pins.js` | "My Table" pinboard: ★ toggle on entity pages, board renderer on `/pins/` |
+| `sc-encounter-core.js` / `sc-encounter.js` | Encounter builder: EV budget tray on `/Bestiary/` (book difficulty bands, minion EV prices a group of four, `?enc=` share links) + add-from-statblock chip. Math sourced from the Monsters book "Building an Encounter" Steps 3–5 (`/Read/bestiary/monster-basics/`); formulas + tests in the core module |
+| `sc-dice-core.js` / `sc-dice.js` | Click-to-roll power rolls: 2d10 popover with edge/bane steppers, tier-row highlight |
+| `sc-export.js` (+ `vendor/html-to-image.min.js`) | Copy-as-Markdown (from the `sc-src` template island) and PNG download on carded leaf pages |
+| `sc-scale-core.js` / `sc-scale.js` | Statblock level scaler: book "Adjusting Monster Levels" formulas as deltas from printed values, with approximation banner |
+| `steel-bestiary-browser.js` | Bestiary Search & Filter mount; republishes parsed records as `window.SC_BESTIARY_ITEMS` (its mount destroys the JSON island) |
+
+All `*-core.js` files are pure UMD modules unit-tested by `node --test tests/*.test.js`;
+the sibling mount scripts are `navigation.instant`-safe (see CLAUDE.md).
 
 ### Styling (`docs/stylesheets/`)
 
@@ -145,7 +156,7 @@ their null-guarded bindings, the `palette.css` `[data-sc-theme]` blocks, and the
 `ability-cards.js` modern handling all remain in place (re-add the two commented
 markup blocks to re-enable; see workspace `FOLLOWUPS.md` #6).
 Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
-and is unit-tested (`devbox run -- node --test tests/`). The anti-FOUC early-apply
+and is unit-tested (`devbox run -- node --test tests/*.test.js` — explicit glob; this Node rejects a bare directory). The anti-FOUC early-apply
 script in `overrides/main.html` reads the same storage key to apply everything
 (including `--sc-content-scale`) before paint. The standalone `/preferences/` page is
 retired to a redirect note (still reachable for old bookmarks) and dropped from

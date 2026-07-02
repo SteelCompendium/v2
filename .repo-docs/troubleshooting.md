@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: troubleshooting
-updated: 2026-06-11
+updated: 2026-07-02
 ---
 
 # Troubleshooting
@@ -151,7 +151,7 @@ width slider, reload persistence, mobile bottom sheet).
 
 **Cheaper checks that need no browser at all** (prefer these for pure logic):
 - **Build + grep `site/`:** `devbox run -- mkdocs build` then `grep -l asset.js site/index.html`.
-- **Unit-test DOM-free modules with `node:test`:** `devbox run -- node --test tests/`
+- **Unit-test DOM-free modules with `node:test`:** `devbox run -- node --test tests/*.test.js` (explicit glob — this Node rejects a bare directory argument)
   (pattern: `docs/javascripts/settings-core.js` + `tests/settings-core.test.js`).
 - **Syntax-check scripts:** `devbox run -- node --check docs/javascripts/<file>.js`.
 
@@ -162,3 +162,47 @@ width slider, reload persistence, mobile bottom sheet).
 - Edit files under `docs/Browse/`, `docs/Read/`, or `docs/scc/` directly
 - Remove or rename SCC codes in source frontmatter (they are frozen permanent identifiers)
 - Upgrade mkdocs-material without re-checking `overrides/main.html` block compatibility
+
+### Markdown "mangles" content you put inside a raw HTML block
+
+**Symptom:** A `<template>`/`<div>` you emit into a generated `.md` page arrives in the
+built HTML with `<p>` tags injected, markdown rendered inside it, or the tag itself torn
+apart mid-attribute.
+
+**Cause:** python-markdown's raw-HTML block detection is **line-based**: a raw block
+ends at the first blank line, after which markdown processing resumes — even if you're
+"inside" an element or a multi-line attribute value. Both element *content* with blank
+lines and *multi-line attributes* get processed.
+
+**Fix:** Keep the entire tag on **one line**. For multi-line payloads, encode newlines
+as `&#10;` inside an attribute value (browsers decode entities in `getAttribute`).
+Worked example: the export-source island — `steel-etl internal/site/export_src.go`
+emits `<template class="sc-src" data-src="…&#10;…"></template>` as a single line, and
+`sc-export.js` reads `getAttribute("data-src")`. (First attempt used element content:
+markdown-rendered. Second used a multi-line attribute: the tag was torn apart.)
+
+### Bestiary JSON island is empty / consumers see no data
+
+**Symptom:** A script reading `.sc-bestiary-mount .sc-browse-data` finds nothing (or
+stale nothing) even though the page source clearly contains the island.
+
+**Cause:** `steel-bestiary-browser.js` `mount()` parses the island and then **replaces
+the mount's `innerHTML`** with the filter UI — destroying the island element.
+
+**Fix:** Read `window.SC_BESTIARY_ITEMS` (the browser republishes the parsed records
+there before wiping — the "advanced data seam"); fall back to the island only for a
+no-browser context. See `sc-encounter.js` `readItems()`.
+
+### A control placed in the card head's right column overlaps the Level chip / role text
+
+**Symptom:** A button positioned via the `.sc-head` grid (`grid-column: 3`) renders on
+top of "LEVEL 1", "HORDE HARRIER", or the EV chip — or is itself unclickable because a
+slot paints over it.
+
+**Cause:** Column 3 of the 6-slot head grid is fully occupied by the right-rail slots
+(eyebrow/primary/deck); anything else placed there stacks on the same grid areas.
+
+**Fix:** Use the hover-revealed **top-center control strip** instead (absolute
+positioning off the card wrapper — every card wrapper is `position: relative`):
+copy-link at `left: 50%`, pin `+1.6rem`, encounter-add `+3.4rem`, exports `+5.2rem`.
+Contract: workspace `DESIGN.md` → "Card header system"; conventions.md has the summary.

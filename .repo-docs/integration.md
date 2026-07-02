@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: integration
-updated: 2026-05-23
+updated: 2026-07-02
 ---
 
 # Integration
@@ -33,4 +33,4 @@ The `docs/` directory (after `mkdocs build` produces `site/`) is deployed to Git
 
 ### SCC API
 
-SCC codes used in this site's permalinks are the same codes used in the data API. The registry is frozen (1,432 codes in `steel-etl/classification.json`).
+SCC codes used in this site's permalinks are the same codes used in the data API. The registry is frozen (~3,081 codes in `steel-etl/classification.json` as of 2026-07; the `docs/scc/` stub count matches it — one redirect stub per coded page).

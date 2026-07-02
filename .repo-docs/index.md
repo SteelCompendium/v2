@@ -7,7 +7,7 @@ tech:
   - python
   - javascript
   - jinja2
-updated: 2026-05-23
+updated: 2026-07-02
 ---
 
 # v2 (MkDocs Material Site)
@@ -43,7 +43,7 @@ v2/
     Browse/              # Generated: modular rules pages by type (class, ancestry, kit, etc.)
     Bestiary/            # Generated: modular Monsters-book pages (monster/, dynamic-terrain/, retainer/)
     Read/                # Generated: rulebook chapters in book order, grouped per book
-    scc/                 # Generated: SCC permalink redirect stubs (~2,588 files)
+    scc/                 # Generated: SCC permalink redirect stubs (~3,081 files, one per code)
     javascripts/         # SAFE TO EDIT: client-side features
     stylesheets/         # SAFE TO EDIT: CSS customization
     Media/               # Site assets (favicon, etc.)
@@ -56,6 +56,7 @@ v2/
       toc.html           # Table of contents override
   scripts/
     transform_indexes.py # Post-build: converts index pages to grid card layouts
+  tests/                 # node:test unit suites (*-core logic) + e2e/ (playwright-core + Brave)
   static_content/        # SAFE TO EDIT: hand-authored overrides for generated pages
     docs/
       Browse/            # Static Browse overrides (e.g., Browse/index.md grid cards)
@@ -76,9 +77,9 @@ v2/
 ## Current Status
 
 - **Health:** active development
-- **Last significant change:** SCC-aware heading permalinks (2026-06-04) -- the native heading ¶ icons now copy permalinks (stable `/scc/<code>/` on coded headings via `data-scc`, friendly `#anchor` otherwise); replaced the page-title "Copy permalink" button. Builds on the retired address-bar rewrite (2026-05-31) and the redirect-stub + self-canonical layers. See `decisions/2026-06-04-scc-heading-permalinks.md`.
+- **Last significant change:** the 2026-07-01/02 UX wave (P1–P11) — bug batch (mobile card-head stacking, adjacency-keyed H1 hide, custom 404), navigation batch (class landing headers, Read-chapter mini-TOC/prev-next/resume, per-class ability tables, search boosts), and the table-tools suite (Table Reference tab, pinboard, encounter builder, click-to-roll dice, MD/PNG exports, statblock level scaler). Plans: workspace `docs/superpowers/plans/2026-07-01-p*.md`; analysis: `…/specs/2026-07-01-v2-ux-analysis.md`.
 - **Known blockers:** None
-- **Known issues:** None
+- **Known issues:** statblock sticky mini-header is bulky at phone widths (workspace FOLLOWUPS #23)
 
 ## Documents in This Directory
 
