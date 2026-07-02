@@ -116,10 +116,25 @@
   padding: .14rem .46rem;
 }
 
-/* Mobile: wrap busy slots to a second line; never truncate. */
+/* Mobile: the right rail's content-sized column starves the name track
+   (grid cols are auto · minmax(0,1fr) · auto), wrapping long names letter-
+   by-letter. At phone widths drop the third column entirely and flow the
+   right-rail slots UNDER the left stack (lanes 4–6), left-aligned. Empty
+   slots are omitted from the DOM (writeCardHeadSlot), so unused lanes
+   collapse. Regression test: tests/e2e/cardhead-mobile.e2e.cjs. */
 @media (max-width: 30em) {
   .sc-head__left-deck.sc-head__slot--line,
   .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
+
+  .sc-head { grid-template-columns: auto minmax(0, 1fr); }
+  .sc-head__right-eyebrow { grid-area: 4 / 2; }
+  .sc-head__right-primary { grid-area: 5 / 2; }
+  .sc-head__right-deck    { grid-area: 6 / 2; }
+  .sc-head__right-eyebrow,
+  .sc-head__right-primary,
+  .sc-head__right-deck { justify-self: start; text-align: left; margin-left: 0; }
+  .sc-head__right-primary { margin-top: .18rem; }
+  /* crest still spans every lane in column 1 (rule at top of file uses 1/-1) */
 }
 
 /* Flat-list Feature Style hook — FEATUREBLOCKS only: their sub-feature heads inline
