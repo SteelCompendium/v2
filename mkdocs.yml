@@ -119,6 +119,7 @@ extra_css:
   - stylesheets/steel-redesign.css
   - stylesheets/steel-settings.css
   - stylesheets/steel-cardhead.css
+  - stylesheets/steel-class.css
   - stylesheets/steel-ability-cards.css
   - stylesheets/steel-kit.css
   - stylesheets/steel-statblock.css

@@ -44,7 +44,10 @@ const BASE = process.env.E2E_BASE || "http://127.0.0.1:8124/";
 const BRAVE = process.env.BRAVE_PATH || "/opt/brave.com/brave/brave";
 
 const CASES = [
-  { url: "Browse/class/fury/",                                   visible: true  },
+  // Class pages gained a .sc-classhead landing card (steel-etl class_page.go);
+  // the card head is the reader-facing title, so the markdown H1 hides again —
+  // by the same h1+hr+card adjacency rule (steel-class.css).
+  { url: "Browse/class/fury/",                                   visible: false },
   { url: "Read/heroes/classes/",                                 visible: true  },
   { url: "Browse/feature/ability/fury/level-1/brutal-slam/",     visible: false },
   { url: "Browse/monster/goblin/goblin-warrior/",                visible: false },
