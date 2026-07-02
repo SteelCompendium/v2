@@ -18,6 +18,11 @@ weak_potency: '[Reason](../rule/character/reason.md) − 2'
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Talent</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Reason − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Reason − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Reason</span></span></div></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
+
+
+
 A rare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent's](talent.md) abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
 **As a [talent](talent.md), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](talent.md) who use too much power too quickly pay a deadly price.**

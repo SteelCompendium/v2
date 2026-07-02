@@ -18,6 +18,11 @@ weak_potency: '[Might](../rule/character/might.md) − 2'
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fury</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Might − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Might − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Might</span></span></div></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a><a href="#stormwight-kits">Stormwight Kits</a></nav>
+
+
+
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the [panther](../kit/panther.md), the wolf, you channel [unfettered](../feature/fury/level-5/unfettered.md) anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
 **As a [fury](fury.md), you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.**

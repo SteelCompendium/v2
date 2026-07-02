@@ -18,6 +18,11 @@ weak_potency: '[Intuition](../rule/character/intuition.md) − 2'
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Null</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Intuition − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Intuition − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Intuition</span></span></div></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
+
+
+
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
 **As a [null](null.md), you resist the [supernatural](../rule/general/supernatural.md) forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the [supernatural](../rule/general/supernatural.md). Those who break the laws of nature using sorcery or psionics should fear you.**

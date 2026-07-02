@@ -13,6 +13,11 @@ type: class
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#draw-steel-master-classes">Draw Steel Master Classes</a><a href="#1st-level-features">1st-Level Features</a><a href="#summoner-circle">Summoner Circle</a><a href="#minions">Minions</a><a href="#essence">Essence</a><a href="#summoner-strike">Summoner Strike</a><a href="#strike-for-me">Strike For Me</a><a href="#call-forth">Call Forth</a><a href="#minion-bridge">Minion Bridge</a><a href="#1st-level-circle-features">1st-Level Circle Features</a><a href="#formation">Formation</a><a href="#quick-command">Quick Command</a><a href="#portfolio">Portfolio</a><a href="#summoner-abilities">Summoner Abilities</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#5th-level-circle-feature">5th-Level Circle Feature</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
+
+
+
 You are the armada. The kings of old would trade armies for your abilities. You've undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.
 
 You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.

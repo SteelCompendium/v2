@@ -18,6 +18,11 @@ weak_potency: '[Agility](../rule/character/agility.md) − 2'
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Agility − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Agility − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Agility</span></span></div></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
+
+
+
 Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](shadow.md)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
 **As a [shadow](shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**

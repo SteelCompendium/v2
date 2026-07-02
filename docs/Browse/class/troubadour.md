@@ -18,6 +18,11 @@ weak_potency: '[Presence](../rule/character/presence.md) − 2'
 
 ---
 
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Troubadour</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Presence − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Presence − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Presence</span></span></div></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
+
+
+
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
 **As a [troubadour](troubadour.md), you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.**
