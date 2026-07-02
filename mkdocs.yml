@@ -135,6 +135,7 @@ extra_css:
   - stylesheets/steel-encounter.css
   - stylesheets/steel-dice.css
   - stylesheets/steel-export.css
+  - stylesheets/steel-scale.css
   - stylesheets/steel-pins.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
@@ -153,6 +154,8 @@ extra_javascript:
   - javascripts/sc-dice-core.js
   - javascripts/sc-dice.js
   - javascripts/statblock-preview.js
+  - javascripts/sc-scale-core.js
+  - javascripts/sc-scale.js
   - javascripts/steel-traits.js
   - javascripts/steel-feature-browser-core.js
   - javascripts/steel-feature-browser.js

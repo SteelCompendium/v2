@@ -1,0 +1,12 @@
+/* steel-scale.css — statblock level-scaling control (sc-scale.js) */
+.sc-scale {
+  max-width: 47rem; margin: 1rem auto -.6rem; font-size: .72rem;
+  display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap;
+}
+.sc-scale input {
+  width: 3.4rem; background: inherit; color: inherit;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+}
+.sc-scale__note { color: #e0b050; }
+.sb-wrap.is-scaled { outline: 2px dashed #e0b05066; outline-offset: 4px; border-radius: .4rem; }
+@media print { .sc-scale { display: none !important; } }
