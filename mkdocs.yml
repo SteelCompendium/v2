@@ -134,6 +134,7 @@ extra_css:
   - stylesheets/steel-copylink.css
   - stylesheets/steel-encounter.css
   - stylesheets/steel-dice.css
+  - stylesheets/steel-export.css
   - stylesheets/steel-pins.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
@@ -168,6 +169,8 @@ extra_javascript:
   - javascripts/scc-headerlinks.js
   - javascripts/scc-card-copy-core.js
   - javascripts/scc-card-copy.js
+  - javascripts/vendor/html-to-image.min.js
+  - javascripts/sc-export.js
   - javascripts/sc-pins-core.js
   - javascripts/sc-pins.js
   - javascripts/nav-drawer-keep-core.js
