@@ -53,6 +53,10 @@ theme:
     # if previews are wanted on small pages only (scope targets narrowly).
     # - navigation.instant.preview
     - navigation.path
+    # Prev/next page links at the bottom of every page — primarily for Read
+    # chapters (book-order reading). Order comes from the nav (.nav.yml files
+    # already sort Read by source position).
+    - navigation.footer
     - toc.follow
 # Extensions
 markdown_extensions:
@@ -150,6 +154,10 @@ extra_javascript:
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
+  - javascripts/chapter-toc-core.js
+  - javascripts/chapter-toc.js
+  - javascripts/read-resume-core.js
+  - javascripts/read-resume.js
   - javascripts/scc-headerlinks.js
   - javascripts/scc-card-copy-core.js
   - javascripts/scc-card-copy.js
