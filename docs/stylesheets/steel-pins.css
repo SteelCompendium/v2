@@ -1,10 +1,27 @@
 /* steel-pins.css — the ★ pin toggle + /pins/ "My Table" board (sc-pins.js). */
 
-/* In a card head (.sc-head grid) the pin sits top-right; beside a plain h1 it
-   rides inline after the title text. */
+/* On card pages the pin joins the hover-revealed top-center control strip
+   (the copy-link pattern — the only collision-free band on every card head):
+   copy-link sits at 50%, the pin just right of it. Beside a plain h1 it rides
+   inline after the title text, always visible. */
 .sc-head .sc-pin {
-  grid-column: 3; grid-row: 1; justify-self: end; align-self: start;
+  position: absolute; z-index: 4; top: .45rem;
+  left: calc(50% + 1.6rem); right: auto;
+  width: 1.7rem; height: 1.7rem; padding: 0;
+  display: grid; place-items: center;
+  border-radius: .35rem; border: 1px solid var(--md-default-fg-color--lightest);
+  background: rgba(0, 0, 0, 0.4);
+  color: var(--md-default-fg-color--light); font-size: .95rem;
+  opacity: 0; transition: opacity .18s ease, color .18s ease;
 }
+.sb-wrap:hover .sc-head .sc-pin,
+.fb-wrap:hover .sc-head .sc-pin,
+.sc-trait:hover .sc-head .sc-pin,
+.sc-kit:hover .sc-head .sc-pin,
+.sc-ability:hover .sc-head .sc-pin,
+.sc-head .sc-pin:focus-visible,
+.sc-head .sc-pin.is-on { opacity: 1; }
+@media (hover: none) { .sc-head .sc-pin { opacity: .4; } .sc-head .sc-pin.is-on { opacity: 1; } }
 .sc-pin {
   background: none; border: 0; cursor: pointer;
   font-size: 1.05rem; line-height: 1; padding: .1rem .2rem;

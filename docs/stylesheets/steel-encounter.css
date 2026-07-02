@@ -1,0 +1,59 @@
+/* steel-encounter.css — the encounter-builder tray (sc-encounter.js) + the
+   "+" column in the bestiary results table + the statblock-head add chip. */
+.sc-enc-cell { width: 2rem; text-align: center; }
+.sc-enc-add {
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+  background: none; cursor: pointer; width: 1.5rem; height: 1.5rem; line-height: 1;
+  color: var(--md-default-fg-color--light); font-size: .9rem;
+}
+.sc-enc-add:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+/* statblock pages: hover-revealed top-center strip beside the copy-link and
+   the ★ pin (copy-link at 50%, pin at +1.6rem, this at +3.4rem). */
+.sb__head .sc-enc-addpage {
+  position: absolute; z-index: 4; top: .45rem;
+  left: calc(50% + 3.4rem); right: auto;
+  width: 1.7rem; height: 1.7rem;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0; transition: opacity .18s ease, color .18s ease;
+}
+.sb-wrap:hover .sc-enc-addpage,
+.sc-enc-addpage:focus-visible { opacity: 1; }
+@media (hover: none) { .sb__head .sc-enc-addpage { opacity: .4; } }
+
+.sc-enc {
+  position: fixed; right: 1rem; bottom: 1rem; z-index: 20; width: 21rem; max-width: 92vw;
+  border: 1px solid var(--fx-metal-line); border-radius: .6rem;
+  background: var(--md-default-bg-color); box-shadow: 0 4px 18px rgba(0,0,0,.35);
+  font-size: .72rem;
+}
+.sc-enc.is-empty .sc-enc__body,
+.sc-enc.is-min .sc-enc__body { display: none; }
+.sc-enc__head { display: flex; gap: .6rem; align-items: center; padding: .5rem .8rem; }
+.sc-enc__head b { font-family: var(--md-small-header-font); letter-spacing: .04em; }
+.sc-enc__diff[data-diff="Standard"] { color: var(--md-accent-fg-color); }
+.sc-enc__diff[data-diff="Hard"], .sc-enc__diff[data-diff="Extreme"] { color: #e06060; }
+.sc-enc__toggle { margin-left: auto; background: none; border: 0; cursor: pointer; color: inherit; }
+.sc-enc__body { padding: 0 .8rem .7rem; max-height: 60vh; overflow: auto; }
+.sc-enc__party { display: flex; gap: .6rem; margin-bottom: .5rem; flex-wrap: wrap; }
+.sc-enc__party input {
+  width: 3.2rem; background: inherit; color: inherit;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+}
+.sc-enc__row { display: flex; gap: .5rem; align-items: baseline; padding: .15rem 0; }
+.sc-enc__row .cost { margin-left: auto; color: var(--md-default-fg-color--light); white-space: nowrap; }
+.sc-enc__row .ct { white-space: nowrap; }
+.sc-enc__row .ct button {
+  background: none; border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .3em; cursor: pointer; width: 1.3rem; color: inherit;
+}
+.sc-enc__row .ct b { margin: 0 .3rem; }
+.sc-enc__row .warn { cursor: help; }
+.sc-enc__bands { margin-top: .5rem; color: var(--md-default-fg-color--light); }
+.sc-enc__actions { display: flex; gap: .4rem; margin-top: .5rem; flex-wrap: wrap; }
+.sc-enc__actions button {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .35em; background: none; cursor: pointer; padding: .2rem .5rem; color: inherit;
+}
+.sc-enc__actions button:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+@media (max-width: 45em) { .sc-enc { right: .5rem; bottom: .5rem; } }
+@media print { .sc-enc, .sc-enc-add { display: none !important; } }

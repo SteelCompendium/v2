@@ -32,7 +32,8 @@
     { key: "role", label: "Role", sortable: true },
     { key: "organization", label: "Org", sortable: true },
     { key: "size", label: "Size", sortable: true },
-    { key: "keywords", label: "Keywords", sortable: false }
+    { key: "keywords", label: "Keywords", sortable: false },
+    { key: "add", label: "", sortable: false }   // encounter-builder "+" (sc-encounter.js)
   ];
 
   function uniqueSorted(items, key) {
@@ -53,6 +54,11 @@
     if (!island) return;
     var items;
     try { items = JSON.parse(island.textContent); } catch (e) { return; }
+    // Publish the parsed records for other consumers (the encounter builder,
+    // sc-encounter.js) — the innerHTML replace below destroys the island, so
+    // this window global is the post-mount source of truth (the "advanced
+    // data seam" noted at the bottom of this file).
+    window.SC_BESTIARY_ITEMS = items;
 
     var facets = [
       { key: "type", label: "Type", values: uniqueSorted(items, "type"), display: cap },
@@ -183,7 +189,9 @@
         "<td>" + esc(it.role || "—") + "</td>" +
         "<td>" + esc(it.organization || "—") + "</td>" +
         "<td>" + esc(it.size || "—") + "</td>" +
-        "<td>" + kw + "</td></tr>";
+        "<td>" + kw + "</td>" +
+        '<td class="sc-enc-cell"><button type="button" class="sc-enc-add" title="Add to encounter" data-href="' +
+        esc(it.href) + '">+</button></td></tr>';
     }
 
     function render() {

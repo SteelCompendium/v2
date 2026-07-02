@@ -132,6 +132,7 @@ extra_css:
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
   - stylesheets/steel-copylink.css
+  - stylesheets/steel-encounter.css
   - stylesheets/steel-pins.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
@@ -152,6 +153,8 @@ extra_javascript:
   - javascripts/steel-feature-browser-core.js
   - javascripts/steel-feature-browser.js
   - javascripts/steel-bestiary-browser.js
+  - javascripts/sc-encounter-core.js
+  - javascripts/sc-encounter.js
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
