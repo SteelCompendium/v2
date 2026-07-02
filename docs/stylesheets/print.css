@@ -136,3 +136,10 @@
         margin: 1.5cm;
     }
 }
+
+/* ── Table Reference: tighten for a one/two-page GM screen ── */
+@media print {
+  .md-typeset:has(> h1#table-reference) { font-size: .62rem; }
+  .md-typeset:has(> h1#table-reference) table { font-size: inherit; }
+  .md-typeset:has(> h1#table-reference) h2 { margin: .6em 0 .2em; }
+}
