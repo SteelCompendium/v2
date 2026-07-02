@@ -167,6 +167,6 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     Allies your heroes can recruit to fight alongside them
 
-    [:octicons-arrow-right-24: View Retainers](retainer/index.md)
+    [:octicons-arrow-right-24: View Retainers](monster/retainer/index.md)
 
 </div>
