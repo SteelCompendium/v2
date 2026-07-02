@@ -18,6 +18,16 @@ test("toggle adds then removes by path", () => {
   assert.ok(!P.has(s, "/v2/Browse/condition/grabbed/"));
 });
 
+test("remove deletes by path and never adds", () => {
+  let s = P.parse(null);
+  s = P.toggle(s, item("/v2/Browse/condition/grabbed/", "Grabbed"));
+  s = P.remove(s, "/v2/Browse/condition/grabbed/");
+  assert.ok(!P.has(s, "/v2/Browse/condition/grabbed/"));
+  // removing a path that isn't there must be a no-op (toggle would add it)
+  s = P.remove(s, "/v2/Browse/condition/grabbed/");
+  assert.deepStrictEqual(s.items, []);
+});
+
 test("kindOf maps path families", () => {
   assert.strictEqual(P.kindOf("/v2/Browse/condition/grabbed/"), "Conditions");
   assert.strictEqual(P.kindOf("/v2/Browse/feature/ability/fury/level-1/brutal-slam/"), "Abilities");

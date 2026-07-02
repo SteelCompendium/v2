@@ -46,6 +46,36 @@ test("potencyDelta follows echelon; applyTierText rewrites", () => {
   assert.strictEqual(S.applyTierText("4 fire damage", 2, 0), "6 fire damage"); // typed damage
 });
 
+test("applyPotencyText handles innerHTML's &lt; entity (the DOM path)", () => {
+  // tier rows and effect prose reach the core as innerHTML, where "<" is &lt;
+  assert.strictEqual(
+    S.applyPotencyText("16 damage; M &lt; 4 the target is <a href=\"x\">prone</a>", 1),
+    "16 damage; M &lt; 5 the target is <a href=\"x\">prone</a>");
+  assert.strictEqual(S.applyPotencyText("A &lt; 6 dazed", 2), "A &lt; 6 dazed"); // cap 6
+  assert.strictEqual(S.applyPotencyText("P &lt; 1 slowed", -3), "P &lt; 0 slowed"); // floor 0
+  // plain-text form still works (core tests / non-HTML callers)
+  assert.strictEqual(S.applyPotencyText("M < 2 bleeding", 1), "M < 3 bleeding");
+});
+
+test("applyTierText rewrites entity-encoded potencies too", () => {
+  assert.strictEqual(
+    S.applyTierText("16 damage; M &lt; 4 prone", 2, 1),
+    "18 damage; M &lt; 5 prone");
+});
+
+test("scaleChar shifts every characteristic, clamped to ±5", () => {
+  assert.strictEqual(S.scaleChar(2, 1), 3);
+  assert.strictEqual(S.scaleChar(5, 2), 5);   // cap
+  assert.strictEqual(S.scaleChar(-4, -3), -5); // floor
+});
+
+test("shiftBonus rewrites the power-roll chip", () => {
+  assert.strictEqual(S.shiftBonus("+ 5", 1), "+ 6");
+  assert.strictEqual(S.shiftBonus("+ 2", -3), "− 1");
+  assert.strictEqual(S.shiftBonus("− 1", 2), "+ 1");
+  assert.strictEqual(S.shiftBonus("no number", 2), "no number");
+});
+
 test("charBonus caps at +5; leader/solo +1", () => {
   assert.strictEqual(S.charBonus(5, false), 3); // 1 + echelon(5)=2
   assert.strictEqual(S.charBonus(5, true), 4);

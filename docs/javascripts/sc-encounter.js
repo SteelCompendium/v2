@@ -7,6 +7,7 @@
 (function () {
   "use strict";
   const KEY = "sc-encounter";
+  const CLOSED = "sc-enc-closed"; // sessionStorage: tray dismissed via menu Close
   let teardown = null;
 
   function load() {
@@ -103,7 +104,12 @@
       tray.innerHTML =
         '<header class="sc-enc__head"><b>Encounter</b>' +
         '<span class="sc-enc__diff" data-diff="' + diff + '">' + total + " / " + pES + " EV · " + diff + "</span>" +
-        '<button type="button" class="sc-enc__toggle" title="Collapse">▾</button></header>' +
+        '<button type="button" class="sc-enc__menu-btn" title="Menu" aria-haspopup="menu">⋯</button>' +
+        '<button type="button" class="sc-enc__toggle" title="Collapse">▾</button>' +
+        '<div class="sc-enc__menu" role="menu" hidden>' +
+        '<button type="button" data-menu="clear">Clear encounter</button>' +
+        '<button type="button" data-menu="reset">Reset builder</button>' +
+        '<button type="button" data-menu="close">Close</button></div></header>' +
         '<div class="sc-enc__body">' +
         '<div class="sc-enc__party">' +
         lbl("Heroes", "n", p.n, 1, 8) + lbl("Level", "lvl", p.lvl, 1, 10) + lbl("Victories", "vic", p.vic, 0, 12) +
@@ -112,9 +118,9 @@
         " · Standard ≤ " + b.standardMax + " · Hard ≤ " + b.hardMax + " · Extreme beyond</div>" +
         '<div class="sc-enc__actions">' +
         '<button type="button" class="sc-enc__share">Copy share link</button>' +
-        '<button type="button" class="sc-enc__md">Copy as markdown</button>' +
-        '<button type="button" class="sc-enc__clear">Clear</button></div></div>';
+        '<button type="button" class="sc-enc__md">Copy as markdown</button></div></div>';
       tray.classList.toggle("is-empty", !state.picks.length);
+      tray.classList.toggle("is-closed", sessionStorage.getItem(CLOSED) === "1");
     }
 
     function flash(sel, txt) {
@@ -129,9 +135,22 @@
       const add = ev.target.closest(".sc-enc-add:not(.sc-enc-addpage)");
       if (add && byHref[add.dataset.href]) {
         state.picks = E.addPick(state.picks, byHref[add.dataset.href]);
+        sessionStorage.removeItem(CLOSED); // adding reopens a closed tray
         save(state); render(); return;
       }
+      // any click outside the ⋯ menu dismisses it
+      const menu = tray.querySelector(".sc-enc__menu");
+      if (menu && !menu.hidden && !ev.target.closest(".sc-enc__menu, .sc-enc__menu-btn")) menu.hidden = true;
       if (!tray.contains(ev.target)) return;
+      if (ev.target.closest(".sc-enc__menu-btn")) { if (menu) menu.hidden = !menu.hidden; return; }
+      const mi = ev.target.closest("[data-menu]");
+      if (mi) {
+        if (mi.dataset.menu === "clear") { state.picks = []; save(state); render(); }
+        if (mi.dataset.menu === "reset") { state = { v: 1, party: { n: 5, lvl: 1, vic: 0 }, picks: [] }; save(state); render(); }
+        if (mi.dataset.menu === "close") { sessionStorage.setItem(CLOSED, "1"); tray.classList.add("is-closed"); }
+        if (menu) menu.hidden = true;
+        return;
+      }
       const step = ev.target.closest("[data-d]");
       if (step) {
         const row = step.closest(".sc-enc__row");
@@ -140,7 +159,6 @@
         state.picks = E.setCount(state.picks, row.dataset.href, pk.count + d);
         save(state); render(); return;
       }
-      if (ev.target.closest(".sc-enc__clear")) { state.picks = []; save(state); render(); return; }
       if (ev.target.closest(".sc-enc__toggle")) { tray.classList.toggle("is-min"); return; }
       if (ev.target.closest(".sc-enc__share")) {
         const url = location.origin + location.pathname + "?enc=" + E.encodeShare(state.picks);

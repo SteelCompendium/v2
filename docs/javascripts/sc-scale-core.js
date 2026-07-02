@@ -53,17 +53,42 @@
     return Math.round(d);
   }
 
+  // Potency rewrite ("M < 4" → shifted, clamped 0..6). Entity-aware: the DOM
+  // layer feeds innerHTML (to keep condition links alive), where the potency's
+  // "<" is the &lt; entity — a literal "<" there can only open a tag, and no
+  // tag starts with a digit, so both branches are unambiguous.
+  function applyPotencyText(text, potDelta) {
+    return String(text).replace(/([MARIP])(\s*(?:&lt;|<)\s*)(\d)/g, function (_, c, mid, n) {
+      return c + mid + Math.min(6, Math.max(0, parseInt(n, 10) + potDelta));
+    });
+  }
+
   function applyTierText(text, dmgDelta, potDelta) {
-    let out = String(text).replace(/^(\d+)(\s+(?:\w+\s+)?damage)/, function (_, n, rest) {
+    const out = String(text).replace(/^(\d+)(\s+(?:\w+\s+)?damage)/, function (_, n, rest) {
       return Math.max(1, parseInt(n, 10) + dmgDelta) + rest;
     });
-    out = out.replace(/([MARIP])\s*<\s*(\d)/g, function (_, c, n) {
-      return c + " < " + Math.min(6, Math.max(0, parseInt(n, 10) + potDelta));
-    });
-    return out;
+    return applyPotencyText(out, potDelta);
+  }
+
+  // Characteristic value scaling: the book pins only the HIGHEST characteristic
+  // (1 + echelon, +1 leader/solo, max +5); as a delta we shift every printed
+  // characteristic by the same amount so the block's spread survives, clamped
+  // to the game's ±5 range.
+  function scaleChar(orig, delta) {
+    return Math.max(-5, Math.min(5, orig + delta));
+  }
+
+  // Shift the number inside a "+ 5" power-roll bonus chip, preserving nothing
+  // but the sign convention (U+2212 for negatives, like the printed cards).
+  function shiftBonus(text, delta) {
+    const m = /([+\-−]?)\s*(\d+)/.exec(String(text));
+    if (!m) return text;
+    const v = (m[1] === "-" || m[1] === "−" ? -1 : 1) * parseInt(m[2], 10) + delta;
+    return String(text).replace(/[+\-−]?\s*\d+/, (v < 0 ? "− " : "+ ") + Math.abs(v));
   }
 
   return { mods: mods, echelon: echelon, charBonus: charBonus, evDelta: evDelta,
     staminaDelta: staminaDelta, potencyDelta: potencyDelta, damageDelta: damageDelta,
-    applyTierText: applyTierText };
+    applyTierText: applyTierText, applyPotencyText: applyPotencyText,
+    scaleChar: scaleChar, shiftBonus: shiftBonus };
 });

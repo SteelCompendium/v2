@@ -11,6 +11,21 @@
       ".md-content .fb-wrap, .md-content .sc-kit, .md-content .md-typeset > .sc-trait");
   }
 
+  // The stashed source keeps the generator's FILE-relative links
+  // ("../../rule/x.md"), which are dead outside the site tree. Resolve them
+  // to absolute page URLs so the copied markdown works wherever it's pasted.
+  // The md file lives one directory above the directory-style page URL
+  // (…/slug.md → …/slug/), hence the extra "../" on the base.
+  function absolutizeLinks(src) {
+    const base = new URL("..", location.href);
+    return src.replace(/\]\(([^)\s#]+\.md)(#[^)]*)?\)/g, function (m, path, hash) {
+      if (/^[a-z]+:/i.test(path)) return m; // already absolute / scheme'd
+      try {
+        return "](" + new URL(path.replace(/\.md$/, "/"), base).href + (hash || "") + ")";
+      } catch (_) { return m; }
+    });
+  }
+
   function init() {
     if (document.querySelector(".sc-export")) return; // idempotent
     const tpl = document.querySelector("template.sc-src");
@@ -29,7 +44,8 @@
     mdBtn.addEventListener("click", function () {
       // source rides in the data-src attribute (markdown-processing-proof);
       // getAttribute returns it entity-decoded.
-      navigator.clipboard.writeText((tpl.getAttribute("data-src") || "").trim()).then(function () {
+      const src = absolutizeLinks((tpl.getAttribute("data-src") || "").trim());
+      navigator.clipboard.writeText(src).then(function () {
         mdBtn.textContent = "✓";
         setTimeout(function () { mdBtn.textContent = "MD"; }, 1200);
       });

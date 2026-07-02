@@ -1,5 +1,6 @@
 /* sc-scale.js — "Scale to level" control on monster statblock pages.
- * Rewrites Stamina/EV/level/damage/potencies/free strike by the book's
+ * Rewrites Stamina/EV/level/damage/potencies/free strike/characteristics/
+ * power-roll bonuses (and potencies inside effect text) by the book's
  * "Adjusting Monster Levels" formulas (sc-scale-core.js), always relative to
  * the PRINTED originals (cached in data-orig on first use). Never persists —
  * a scaled block must not masquerade as the real one on a later visit.
@@ -65,6 +66,35 @@
       cacheOrig(lvlEl); cacheOrig(evEl);
       lvlEl.textContent = scaled ? "Level " + nl : lvlEl.dataset.orig;
       evEl.textContent = scaled ? "EV " + (origEV + S.evDelta(origLevel, nl, m)) : evEl.dataset.orig;
+
+      // characteristic bonus delta (highest char = 1 + echelon, +1 leader/solo)
+      // drives chars, power-roll bonuses, and every potency on the block
+      const dChar = S.potencyDelta(origLevel, nl, m);
+
+      // characteristics: the card grid and the sticky mini-bar
+      wrap.querySelectorAll(".sb__char-v, .sb__sticky-chars .c b").forEach(function (el) {
+        cacheOrig(el);
+        if (!scaled) { el.textContent = el.dataset.orig; return; }
+        const orig = parseInt(el.dataset.orig.replace("−", "-"), 10);
+        if (!isFinite(orig)) return;
+        const v = S.scaleChar(orig, dChar);
+        el.textContent = (v < 0 ? "−" : "+") + Math.abs(v);
+      });
+
+      // "Power Roll + N" chips — sc-dice reads this text at click time, so
+      // the roller follows the scaled bonus for free
+      wrap.querySelectorAll(".sc-ability__pr-head .chars").forEach(function (el) {
+        cacheOrig(el);
+        el.textContent = scaled ? S.shiftBonus(el.dataset.orig, dChar) : el.dataset.orig;
+      });
+
+      // potencies inside effect/section prose (characteristic-derived, so they
+      // move with the char bonus); innerHTML keeps condition links alive and
+      // applyPotencyText is entity-aware for exactly that reason
+      wrap.querySelectorAll(".sb__feat .sc-ability__section-body").forEach(function (el) {
+        if (el.dataset.orig == null) el.dataset.orig = el.innerHTML;
+        el.innerHTML = scaled ? S.applyPotencyText(el.dataset.orig, dChar) : el.dataset.orig;
+      });
 
       [["stamina", S.staminaDelta(origLevel, nl, m)],
        ["free strike", S.damageDelta(origLevel, nl, 1, m, true)]].forEach(function (pair) {

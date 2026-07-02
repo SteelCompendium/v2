@@ -31,6 +31,13 @@
     return { v: 1, items: items };
   }
 
+  // Pure removal — unlike toggle, never adds. Board × buttons must use this:
+  // a toggle on a path that misses (double-fired click, stale DOM) would
+  // re-add a title-less item that renders as "undefined".
+  function remove(state, path) {
+    return { v: 1, items: state.items.filter(function (i) { return i.path !== path; }) };
+  }
+
   function kindOf(pathname) {
     const m = /\/(Browse|Read)\/([^/]+)(?:\/([^/]+))?/.exec(pathname || "");
     if (!m) return "Other";
@@ -68,5 +75,5 @@
     return JSON.stringify({ v: 1, items: items });
   }
 
-  return { parse: parse, has: has, toggle: toggle, kindOf: kindOf, grouped: grouped, serialize: serialize };
+  return { parse: parse, has: has, toggle: toggle, remove: remove, kindOf: kindOf, grouped: grouped, serialize: serialize };
 });

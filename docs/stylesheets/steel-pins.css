@@ -1,4 +1,10 @@
-/* steel-pins.css — the ★ pin toggle + /pins/ "My Table" board (sc-pins.js). */
+/* steel-pins.css — the pushpin toggle + /pins/ "My Table" board (sc-pins.js). */
+
+/* mdi pushpin: fill-path icon (outline ↔ filled swapped by sc-pins.js) */
+.sc-pin svg {
+  width: 1rem; height: 1rem;
+  fill: currentColor;
+}
 
 /* On card pages the pin joins the hover-revealed top-center control strip
    (the copy-link pattern — the only collision-free band on every card head):
@@ -27,9 +33,18 @@
   font-size: 1.05rem; line-height: 1; padding: .1rem .2rem;
   color: var(--md-default-fg-color--lighter);
 }
-h1 .sc-pin { font-size: .8em; vertical-align: .15em; margin-left: .3rem; }
+/* Beside a plain h1 the pin auto-hides like Material's ¶ headerlink: invisible
+   until the heading is hovered or the button is focused; a pinned page keeps
+   its (filled) pin visible as state. */
+h1 .sc-pin {
+  vertical-align: .05em; margin-left: .15rem;
+  opacity: 0; transition: opacity .18s ease, color .18s ease;
+}
+h1:hover .sc-pin, h1 .sc-pin:focus-visible, h1 .sc-pin.is-on { opacity: 1; }
+@media (hover: none) { h1 .sc-pin { opacity: .4; } h1 .sc-pin.is-on { opacity: 1; } }
 .sc-pin:hover { color: var(--md-accent-fg-color); }
 .sc-pin.is-on { color: var(--md-accent-fg-color); }
+@media print { .sc-pin { display: none !important; } }
 
 .sc-pins__kind { margin-top: 1.4rem; }
 .md-typeset .sc-pins__list { list-style: none; margin-left: 0; columns: 2; column-gap: 2rem; }
