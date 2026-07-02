@@ -1,0 +1,29 @@
+{#-
+  Custom 404 — replaces Material's bare "404 - Not found". With 3,500+ deep
+  URLs shared in Discord/blogs, a miss should offer search + the three tabs
+  instead of a dead end. Links are absolute (config.site_url) because GitHub
+  Pages serves this one file for misses at ANY depth under /v2/.
+-#}
+{% extends "main.html" %}
+
+{% block content %}
+<h1>Page not found</h1>
+<p>This page doesn't exist — it may have moved when the site was reorganized.
+Stable <code>/scc/…</code> permalinks never break, but older deep links can.</p>
+
+<p><strong>Try search</strong> (press <kbd>/</kbd> or use the box in the header) — every
+rule, ability, class, and monster is indexed.</p>
+
+<div class="grid cards">
+  <ul>
+    <li><p><strong><a href="{{ config.site_url }}/Browse/">Browse the rules</a></strong><br>
+        Look up abilities, classes, conditions, kits, monsters, and more.</p></li>
+    <li><p><strong><a href="{{ config.site_url }}/Read/">Read the books</a></strong><br>
+        Chapters in book order.</p></li>
+    <li><p><strong><a href="{{ config.site_url }}/Bestiary/">Bestiary search &amp; filter</a></strong><br>
+        Find any statblock by level, EV, role, or keyword.</p></li>
+    <li><p><strong><a href="{{ config.extra.bug_report_url }}">Report a broken link</a></strong><br>
+        If something on the site linked you here, tell us.</p></li>
+  </ul>
+</div>
+{% endblock %}
