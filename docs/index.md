@@ -2,7 +2,9 @@
 title: Home
 ---
 
-# Xentis' Draw Steel Compendium
+# Steel Compendium
+
+_A searchable, linkable reference for the **Draw Steel** TTRPG — curated by Xentis._
 
 _The Draw Steel Compendium is an independent product published under the [DRAW STEEL Creator License](https://www.mcdmproductions.com/draw-steel-creator-license) and is not
 affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC._
@@ -80,6 +82,9 @@ and YAML, and published on GitHub.
     consolidated [data-unified](https://github.com/SteelCompendium/data-unified) repo to the
     left.
 
+    <details markdown>
+    <summary>Show the legacy repos</summary>
+
     *Per-book (now folded into `data-unified`):*
 
     - [data-rules](https://github.com/SteelCompendium/data-rules) -- Heroes book → `en/books/heroes/`
@@ -108,6 +113,8 @@ and YAML, and published on GitHub.
     *Adventures* (not yet populated with data):
 
     - [data-adventures-md](https://github.com/SteelCompendium/data-adventures-md) -- Markdown
+
+    </details>
 
 </div>
 
