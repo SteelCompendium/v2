@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 agility: -1
 ev: "36"
 free_strike: 8

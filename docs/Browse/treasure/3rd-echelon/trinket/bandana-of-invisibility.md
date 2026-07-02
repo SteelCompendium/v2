@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 echelon: "3"
 effect: Only a beastheart's companion or an animal can wear this bandanna. While wearing this bandanna, the creature is invisible. When the creature uses an ability that deals damage, they become visible until the start of their next turn.
 flavor: Although you see nothing before you, your hands can discern an invisible scrap of cloth.

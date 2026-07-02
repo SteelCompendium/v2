@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: When first held, this naginata whispers the names of its past victims.
 keywords:
     - Polearm

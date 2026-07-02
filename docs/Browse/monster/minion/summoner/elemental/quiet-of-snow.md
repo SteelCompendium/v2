@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 2
 cost: 5 essence for three minions
 flavor: This elemental is a pure-white vulpine with six legs that freely sprints through the air. Their howls are telepathic, washing over the receivers with a strong chill and a wave of goosebumps.

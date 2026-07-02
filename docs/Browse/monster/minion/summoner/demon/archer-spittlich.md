@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 2
 cost: 3 essence for two minions
 flavor: These minor demons resemble larger pitlings. They can spit a nerve-numbing phlegm at long distance that makes it easy to catch their next meal.

@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: -2
 cost: 1 essence per minion summoned
 flavor: These massive clods of animated stone roll upon smaller piles of rocks that could be perceived as limbs. Walking boulders are useful for taking up space and forming barricades.

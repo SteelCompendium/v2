@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../../condition/slowed.md) until the end of the target's next turn.
       level: 3

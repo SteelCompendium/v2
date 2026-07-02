@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "2"
 effect: Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your [stability](../../../rule/character/stability.md) is reduced to 0, and you can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 flavor: A glass vial holds translucent flakes that twinkle in the light.

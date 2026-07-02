@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The arixx dribbles acid over their mandibles, causing the next strike they make to gain an [edge](../../rule/dice/edge.md) and deal an extra 3 acid damage.
       cost: 3 Malice

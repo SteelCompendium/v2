@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: One devil acting this turn uses a [signature ability](../../rule/combat/signature-ability.md) against an [adjacent](../../rule/combat/adjacent.md) creature. On a tier 3 outcome, the target of the ability has a double [bane](../../rule/dice/bane.md) on strikes (save ends).
       cost: 3 Malice

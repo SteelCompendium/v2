@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "2"
 effect: While you wear this necklace, you can breathe underwater, you can automatically swim at full [speed](../../../rule/character/speed.md) while moving, and you ignore [difficult terrain](../../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
 flavor: A worn leather circlet bears a lizard-shaped pendant of rotting wood.

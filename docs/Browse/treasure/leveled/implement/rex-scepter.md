@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 flavor: The rod resembles a simple tree branch. It grows and braids itself into an ornate scepter in the heat of battle.
 keywords:
     - Implement

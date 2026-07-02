@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
       cost: 3 Malice

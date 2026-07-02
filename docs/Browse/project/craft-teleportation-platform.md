@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Craft Teleportation Platform
 scc: mcdm.heroes.v1/project/craft-teleportation-platform
 type: project

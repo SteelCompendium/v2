@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Xorannox lets out a noxious belch. Each enemy within 2 squares of him who has M < 3 is [weakened](../../condition/weakened.md) (save ends).
       cost: 3 Malice

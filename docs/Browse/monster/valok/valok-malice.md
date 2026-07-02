@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: One valok acting this turn takes an additional main action.
       cost: 3 Malice

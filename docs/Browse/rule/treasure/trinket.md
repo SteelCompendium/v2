@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Trinkets
 scc: mcdm.heroes.v1/rule.treasure/trinket
 type: rule

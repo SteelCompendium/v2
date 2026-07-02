@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 1
 ev: "48"
 free_strike: 10

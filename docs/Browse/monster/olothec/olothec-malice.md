@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The olothec takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       cost: 4 Malice

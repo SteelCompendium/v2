@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "1"
 effect: These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your [turn](../../../rule/combat/turn.md) while you are still airborne, you fall.
 flavor: A pair of ornately embroidered leather boots are covered in images of broken chains.

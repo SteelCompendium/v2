@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: While the dragon is [flying](../../movement/fly.md), they shape themself into a blade and fall. Each creature and object in the dragon's space when they hit the ground and in a 6 x 4 line within 1 square of the dragon takes 7 damage. A creature who takes this damage and has A < 4 takes 4 extra damage per square the dragon fell and is [restrained](../../condition/restrained.md) (save ends). A creature not [restrained](../../condition/restrained.md) this way can move into the nearest unoccupied space.
       cost: 3 Malice

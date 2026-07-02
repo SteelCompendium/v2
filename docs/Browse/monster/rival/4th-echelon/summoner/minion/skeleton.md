@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 5
 cost: 1 Malice per minion summoned
 free_strike: 1

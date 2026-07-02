@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Build Airship
 scc: mcdm.heroes.v1/project/build-airship
 type: project

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Recoveries and Recovery Value
 scc: mcdm.heroes.v1/rule.health/recoveries
 type: rule

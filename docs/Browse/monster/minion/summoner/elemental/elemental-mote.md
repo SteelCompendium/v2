@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 0
 cost: 1 essence per minion summoned
 flavor: This near-pure form of autonomous essence just barely maintains their form. They can shift their nature to match their surroundings.

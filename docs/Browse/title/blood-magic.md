@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 effect: 'Choose one of the following benefits:'
 flavor: Flow, blood, thou fiend's libation, and catch my foes in conflagration!
 name: Blood Magic

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: High Ground
 scc: mcdm.heroes.v1/movement/high-ground
 type: movement

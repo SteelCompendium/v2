@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The dragon thickens the fog of their Gloaming Wyrmscale Aura [trait](../../rule/monster/monster-trait.md) and the horrors within it. Each creature in the area takes a [bane](../../rule/dice/bane.md) on strikes made against the dragon until the start of the dragon's next turn.
       cost: 3 Malice

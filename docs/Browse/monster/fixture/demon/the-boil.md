@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 features:
     - body: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the boil is I < AVERAGE [taunted](../../../condition/taunted.md) (EoT) by the boil, or I < WEAK [taunted](../../../condition/taunted.md) (EoT) by the boil and can't move further from it.
       icon: ⭐️

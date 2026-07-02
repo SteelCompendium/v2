@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This ivory dagger features nine faintly glowing indentations along the blade.
 keywords:
     - Light Weapon

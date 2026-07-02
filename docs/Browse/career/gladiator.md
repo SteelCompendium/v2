@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: In the past, you entertained the masses with flashy displays of violence in the arena.
 language: One language
 name: Gladiator

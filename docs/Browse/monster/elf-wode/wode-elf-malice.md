@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Each wode elf who ends this turn hidden can [shift](../../movement/shifting.md) up to their speed while remaining hidden.
       cost: 3 Malice

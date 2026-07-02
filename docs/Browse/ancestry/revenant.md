@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 flavor: The dead walk among us. Some of them are happier about it than others.
 name: Revenant
 scc: mcdm.heroes.v1/ancestry/revenant

@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 echelon: "1"
 effect: While wearing this bangle, your melee [free strikes](../../../feature/common/main-actions/free-strike.md) inflict I < average [frightened](../../../condition/frightened.md) ([EoT](../../../rule/combat/end-of-turn.md)). The [potency](../../../rule/character/potency.md) increases by 1 if you have an [edge](../../../rule/dice/edge.md) on the [power roll](../../../rule/dice/power-roll.md).
 flavor: This loose-fitting, scaley bangle shifts and slithers while worn. It emits a bone-chilling rattle each time it hits its user's wrist.

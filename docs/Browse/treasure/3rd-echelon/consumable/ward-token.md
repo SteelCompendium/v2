@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "3"
 effect: As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double [bane](../../../rule/dice/bane.md).
 flavor: This smoothly polished quartz stone feels strangely warm to the touch.

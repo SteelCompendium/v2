@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin.
 language: One language
 name: Criminal

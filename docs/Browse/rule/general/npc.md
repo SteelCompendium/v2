@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: PCs and NPCs
 scc: mcdm.heroes.v1/rule.general/npc
 type: rule

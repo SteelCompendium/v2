@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.
 keywords:
     - Magic

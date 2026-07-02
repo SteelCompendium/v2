@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Craft Treasure
 scc: mcdm.heroes.v1/project/craft-treasure
 type: project

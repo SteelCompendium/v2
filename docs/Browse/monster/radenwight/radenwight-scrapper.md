@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 agility: 1
 ev: 3 for 4 minions
 free_strike: 1

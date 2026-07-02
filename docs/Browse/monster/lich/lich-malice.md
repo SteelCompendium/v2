@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The lich makes a [free strike](../../feature/common/main-actions/free-strike.md) against one enemy within 20 squares. They then gain an edge on their next power roll.
       cost: 3 Malice

@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Until the end of the round, each rival can impose a bane on a [strike](../../rule/combat/strike.md) made against an [adjacent](../../rule/combat/adjacent.md) rival as a free triggered action.
       cost: 3 Malice

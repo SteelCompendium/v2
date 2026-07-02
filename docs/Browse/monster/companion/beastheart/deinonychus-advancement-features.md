@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../../../condition/bleeding.md) until the end of their next turn.
       level: 3

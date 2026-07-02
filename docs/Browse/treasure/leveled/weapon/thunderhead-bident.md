@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.
 keywords:
     - Magic

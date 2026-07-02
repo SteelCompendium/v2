@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.
 keywords:
     - Heavy Armor

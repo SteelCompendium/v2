@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Power
 scc: mcdm.heroes.v1/negotiation/power
 type: negotiation

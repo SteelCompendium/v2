@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: For each 3 [Malice](../../rule/monster/malice.md) spent, one minotaur acting this turn gains a +4 bonus to speed and ignores [difficult terrain](../../movement/difficult-terrain.md) until the start of their next turn.
       cost: 3 Malice

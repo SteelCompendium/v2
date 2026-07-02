@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Damage Weakness
 scc: mcdm.heroes.v1/rule.damage/damage-weakness
 type: rule

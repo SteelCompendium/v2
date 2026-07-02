@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 echelon: "3"
 effect: While holding crystallized essence, the [distance](../../../rule/combat/distance.md) of your ranged magic abilities increases by 5. Any creatures you create or summon using magic have their [Stamina](../../../rule/health/stamina.md) increased by one-third of their Stamina maximum.
 flavor: A storm rages at the center of this color-shifting shard of rock.

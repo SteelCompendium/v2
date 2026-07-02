@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "1"
 effect: While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent [size](../../../rule/character/size.md) that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
 flavor: A plain white mask is lined with soft black velvet—which smells faintly of blood.

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "3"
 effect: When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../../../rule/combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../../../rule/character/stability.md) 1 or higher. Each other creature in the wall when it is created is [pushed](../../../movement/forced-movement.md) to the nearest unoccupied space.
 flavor: A cloudy glass vial holds a writhing monstrous grub.

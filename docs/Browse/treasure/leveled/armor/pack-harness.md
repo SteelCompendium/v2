@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.
 keywords:
     - Light Armor

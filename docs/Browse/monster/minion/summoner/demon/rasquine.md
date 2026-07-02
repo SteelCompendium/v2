@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 0
 cost: 1 essence per minion summoned
 flavor: The rasquine are skulking demons that shimmer in the light. They teleport into position before biting the necks of their prey.

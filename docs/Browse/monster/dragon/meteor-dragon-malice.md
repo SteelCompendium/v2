@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The next time the dragon uses their Crescent Claws ability, they can also [slide](../../movement/forced-movement.md) the target up to 5 squares. If the target is dragonsealed, the dragon can vertical [slide](../../movement/forced-movement.md) them instead.
       cost: 3 Malice

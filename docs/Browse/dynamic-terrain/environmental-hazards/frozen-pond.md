@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.7
 features:
     - body: Destroying a square of the frozen pond turns the square into shallow icy water.
       icon: "\U0001F300"

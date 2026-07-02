@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: This bow is festooned with mirrors and sights pointing in all directions.
 keywords:
     - Bow

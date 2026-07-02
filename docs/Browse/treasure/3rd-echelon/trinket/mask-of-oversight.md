@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "3"
 effect: While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../../../rule/combat/surprised.md). Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../../../rule/dice/bane.md) on [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) that don't use the [Intimidate](../../../skill/interpersonal/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 flavor: This angular electrum mask is set with an excess of eye holes and a horrifying maw.

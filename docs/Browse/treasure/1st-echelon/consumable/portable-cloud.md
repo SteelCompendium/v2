@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "1"
 effect: As a maneuver, you throw this delicate glass sphere up to 5 squares, breaking it and creating a 4 [cube](../../../rule/combat/cube.md) of fog. The fog dissipates after 10 minutes or if a strong gust of wind created by a storm or magic passes through the area.
 flavor: This thin glass sphere holds a tiny roiling cloud.

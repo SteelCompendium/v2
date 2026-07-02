@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The demon activates a [Malice](../../../rule/monster/malice.md) feature available to demons of level 9 or lower.
       cost: 3-7 Malice

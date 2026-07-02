@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: The arm-length claws jutting from your armor are your only weapon.
 keywords:
     - Magic

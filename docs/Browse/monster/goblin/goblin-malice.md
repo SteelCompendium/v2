@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Each goblin in the encounter gains a +2 bonus to speed until the end of the round.
       cost: 3 Malice

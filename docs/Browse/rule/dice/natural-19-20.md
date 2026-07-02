@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: 'Natural 19 or 20: Success With a Reward'
 scc: mcdm.heroes.v1/rule.dice/natural-19-20
 type: rule

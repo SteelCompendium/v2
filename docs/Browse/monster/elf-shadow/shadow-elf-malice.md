@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Each shadow elf acting this turn can attempt to hide as a free maneuver if they have concealment.
       cost: 3 Malice

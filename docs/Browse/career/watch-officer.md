@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: You served as an officer of the law for a local government. You might have been a single person in a much larger city watch or the only constable patrolling a small village.
 language: Two languages
 name: Watch Officer

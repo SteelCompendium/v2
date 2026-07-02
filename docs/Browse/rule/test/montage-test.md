@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Montage Tests
 scc: mcdm.heroes.v1/rule.test/montage-test
 type: rule

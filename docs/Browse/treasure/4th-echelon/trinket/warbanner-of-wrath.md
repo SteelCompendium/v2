@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 echelon: "4"
 effect: You can choose to regain 1 [Recovery](../../../rule/health/recoveries.md) at the end of every combat encounter while holding the banner.
 flavor: A large banner billows from this tall flagpole. Its heraldry depicts a dragon breathing fire with outstretched wings covered in holes and tears.

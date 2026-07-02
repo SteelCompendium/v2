@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Spend Time With Loved Ones
 scc: mcdm.heroes.v1/project/spend-time-with-loved-ones
 type: project

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "1"
 effect: While worn, a yellow Color Cloak grants you lightning immunity equal to your level.
 flavor: This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning "lightning."

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Ability Keywords
 scc: mcdm.heroes.v1/rule.general/ability
 type: rule

@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 3
 name: Platoon
 scc: mcdm.monsters.v1/rule.organization/platoon
 type: rule

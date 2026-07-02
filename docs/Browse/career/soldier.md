@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces.
 language: Two languages
 name: Soldier

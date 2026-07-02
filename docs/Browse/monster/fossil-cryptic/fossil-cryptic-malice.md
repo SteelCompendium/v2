@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The fossil cryptic [slides](../../movement/forced-movement.md) one creature on the ground up to 5 squares. If the creature is [prone](../../condition/prone.md), this [forced movement](../../movement/forced-movement.md) ignores [stability](../../rule/character/stability.md).
       cost: 3 Malice

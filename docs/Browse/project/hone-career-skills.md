@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Hone Career Skills
 scc: mcdm.heroes.v1/project/hone-career-skills
 type: project

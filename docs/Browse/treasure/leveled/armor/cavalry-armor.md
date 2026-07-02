@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: Wearing this absurdly heavy plate armor makes it almost impossible to move—and once you get into motion, it's equally hard to stop.
 keywords:
     - Heavy Armor

@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 effect: 'You no longer need [line of effect](../rule/combat/line-of-effect.md) to give commands to any minions you can summon. Additionally, choose one of the following benefits:'
 flavor: Don't worry. I've got a guy.
 name: Ringleader

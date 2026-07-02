@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.7
 features:
     - icon: "\U0001F300"
       intro: A creature who has the [Psionics](../../skill/lore/psionics.md) skill can deactivate and take control of the chronal hypercube by making a **Reason test** while within 10 squares of the hypercube.

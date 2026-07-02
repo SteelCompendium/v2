@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Saving Throw (Save Ends)
 scc: mcdm.heroes.v1/rule.general/saving-throw
 type: rule

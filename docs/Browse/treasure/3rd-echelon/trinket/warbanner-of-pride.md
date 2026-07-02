@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 2
 echelon: "3"
 effect: While holding the banner, you have a +1 bonus to [saving throws](../../../rule/general/saving-throw.md) and resisting [potencies](../../../rule/character/potency.md).
 flavor: A large banner billows from this tall flagpole. Its heraldry depicts a three-headed lion covered in wounds but still standing.

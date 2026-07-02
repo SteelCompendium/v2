@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The undead activates a [Malice](../../../rule/monster/malice.md) feature available to undead of level 3 or lower.
       cost: 2-7+ Malice

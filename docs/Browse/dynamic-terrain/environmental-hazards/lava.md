@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.7
 features:
     - body: Each square of lava must be individually destroyed.
       icon: "\U0001F300"

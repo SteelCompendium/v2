@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 effect: 'Choose one of the following benefits:'
 flavor: Haul down your flag or we'll burn you to the waterline!
 name: Corsair

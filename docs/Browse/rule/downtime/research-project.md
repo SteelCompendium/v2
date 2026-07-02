@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Research Projects
 scc: mcdm.heroes.v1/rule.downtime/research-project
 type: rule

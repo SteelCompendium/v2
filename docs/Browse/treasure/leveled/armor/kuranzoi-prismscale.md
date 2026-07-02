@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.
 keywords:
     - Medium Armor

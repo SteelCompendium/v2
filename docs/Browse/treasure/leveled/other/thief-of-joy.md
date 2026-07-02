@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This burnished copper torque thrums with a sense of judgment.
 keywords:
     - Neck

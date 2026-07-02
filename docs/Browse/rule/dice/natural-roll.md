@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Natural Roll
 scc: mcdm.heroes.v1/rule.dice/natural-roll
 type: rule

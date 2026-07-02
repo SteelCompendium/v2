@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "3"
 effect: You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/null/level-1/null-field.md) ability increases by 1.
 flavor: This simple band of copper vibrates slightly when handled.

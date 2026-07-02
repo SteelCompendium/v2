@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).
       level: 3

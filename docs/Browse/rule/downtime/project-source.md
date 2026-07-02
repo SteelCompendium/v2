@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Project Source
 scc: mcdm.heroes.v1/rule.downtime/project-source
 type: rule

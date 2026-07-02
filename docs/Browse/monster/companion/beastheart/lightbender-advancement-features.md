@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../../movement/teleport.md) up to 5 squares and use the [Hide](../../../skill/intrigue/hide.md) maneuver.
       level: 3

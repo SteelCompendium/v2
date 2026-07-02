@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../../condition/prone.md).
       level: 3

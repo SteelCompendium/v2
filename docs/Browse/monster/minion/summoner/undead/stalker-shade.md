@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 1
 cost: 3 essence for two minions
 flavor: Shades are a form of umbral stalker that float free from any floor or surface. They can bend their appearance to completely vanish in the light.

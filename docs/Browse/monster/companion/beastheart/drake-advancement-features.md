@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: The drake's Drake Breath maneuver deals an extra 2 damage.
       level: 3

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Imbue Treasure
 scc: mcdm.heroes.v1/project/imbue-treasure
 type: project

@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 name: Learn From a Master
 scc: mcdm.heroes.v1/project/learn-from-a-master
 type: project

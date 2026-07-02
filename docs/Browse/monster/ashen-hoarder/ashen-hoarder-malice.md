@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The ashen hoarder moves up to their speed and can make a [free strike](../../feature/common/main-actions/free-strike.md) against two targets.
       cost: 3 Malice

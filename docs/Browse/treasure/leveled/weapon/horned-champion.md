@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: This paired helmet and barding face shield are each set with a pair of curving metal horns.
 keywords:
     - Heavy Weapon

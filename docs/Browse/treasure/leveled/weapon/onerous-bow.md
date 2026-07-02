@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.
 keywords:
     - Bow

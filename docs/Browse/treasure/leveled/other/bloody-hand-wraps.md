@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: These rough hand wraps are stained with blood that never comes clean.
 keywords:
     - Hands

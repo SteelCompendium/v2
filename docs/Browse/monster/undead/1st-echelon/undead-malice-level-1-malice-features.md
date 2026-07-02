@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: At the end of this round, each hero not already [adjacent](../../../rule/combat/adjacent.md) to one or more undead is beset by two **rotting zombies** who burst up from the ground to appear in adjacent unoccupied spaces. Each zombie is [winded](../../../rule/health/winded.md). This feature can't be used two rounds in a row.
       cost: 2 Malice

@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.7
 features:
     - body: The pillar's linked trigger must be deactivated.
       icon: "\U0001F300"

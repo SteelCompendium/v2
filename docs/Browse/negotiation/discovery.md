@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Discovery
 scc: mcdm.heroes.v1/negotiation/discovery
 type: negotiation

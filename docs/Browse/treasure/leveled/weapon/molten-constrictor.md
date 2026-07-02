@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: This flexible black-iron net burns with the heat of a volcano.
 keywords:
     - Magic

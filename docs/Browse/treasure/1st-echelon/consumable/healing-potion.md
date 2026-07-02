@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 echelon: "1"
 effect: When you drink this potion as a maneuver, you regain [Stamina](../../../rule/health/stamina.md) equal to your [recovery value](../../../rule/health/recoveries.md) without spending a [Recovery](../../../rule/health/recoveries.md).
 flavor: Thick and red, this liquid tastes of sour beer.

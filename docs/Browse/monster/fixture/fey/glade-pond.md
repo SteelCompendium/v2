@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 features:
     - body: You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their [turn](../../../rule/combat/turn.md) there has their [speed](../../../rule/character/speed.md) increased by 2 until the end of their [turn](../../../rule/combat/turn.md).
       icon: ⭐️

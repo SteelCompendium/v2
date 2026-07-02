@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 features:
     - body: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the gates is I < AVERAGE [frightened](../../../condition/frightened.md) (EoT) by the gates. The [potency](../../../rule/character/potency.md) increases by 1 for [winded](../../../rule/health/winded.md) enemies.
       icon: ⭐️

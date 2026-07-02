@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.
       level: 3

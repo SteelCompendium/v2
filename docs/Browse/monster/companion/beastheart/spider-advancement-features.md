@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 0.6
 features:
     - body: Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
       level: 3

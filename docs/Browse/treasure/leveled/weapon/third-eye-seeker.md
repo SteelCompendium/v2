@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: The shifting patterns on this bow's crystalline grip resemble dozens of blinking eyes.
 keywords:
     - Bow

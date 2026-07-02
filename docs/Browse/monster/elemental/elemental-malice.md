@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: Two elementals on the encounter map [teleport](../../movement/teleport.md) to swap places, and each has damage immunity 2 until the end of the round.
       cost: 3 Malice

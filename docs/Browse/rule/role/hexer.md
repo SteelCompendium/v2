@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 3
 name: Hexer
 scc: mcdm.monsters.v1/rule.role/hexer
 type: rule

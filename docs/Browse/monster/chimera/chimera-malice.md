@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The chimera takes up a defensive stance. Until the start of their next turn, the chimera can make a [free strike](../../feature/common/main-actions/free-strike.md) against each enemy who comes within 2 squares of them.
       cost: 3 Malice

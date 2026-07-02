@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Hover
 scc: mcdm.heroes.v1/movement/hover
 type: movement

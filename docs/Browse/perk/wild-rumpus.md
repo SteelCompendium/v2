@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
+search:
+  boost: 2
 flavor: You have the following ability.
 name: Wild Rumpus
 scc: mcdm.beastheart.v1/perk/wild-rumpus

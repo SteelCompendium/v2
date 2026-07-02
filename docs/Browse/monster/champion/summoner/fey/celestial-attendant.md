@@ -1,6 +1,8 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
+search:
+  boost: 0.6
 agility: 2
 cost: 9 essence for one champion
 flavor: 'Stamina: Your maximum Stamina'

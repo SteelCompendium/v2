@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Starting Size and Speed
 scc: mcdm.heroes.v1/rule.character/speed
 type: rule

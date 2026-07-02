@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 0.6
 features:
     - body: The bugbear activates a Malice Feature available to goblins.
       cost: 3-7 Malice

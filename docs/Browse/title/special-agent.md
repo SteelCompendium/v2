@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 effect: 'Choose one of the following benefits:'
 flavor: And this is interesting... if you twist the third button on your overcoat no, don't do it now!
 name: Special Agent

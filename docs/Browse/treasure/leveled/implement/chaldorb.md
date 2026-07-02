@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 2
 flavor: A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'

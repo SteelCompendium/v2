@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Walk
 scc: mcdm.heroes.v1/movement/walk
 type: movement

@@ -1,6 +1,8 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
+search:
+  boost: 3
 name: Keywords
 scc: mcdm.monsters.v1/rule.monster/keyword
 type: rule
