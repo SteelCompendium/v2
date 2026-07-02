@@ -8,9 +8,11 @@
    here. The bonus grid reuses .sc-card__stats from steel-redesign.css.
    ============================================================ */
 
-/* ── MkDocs H1 hide (the plate carries its own name) ── */
-.md-typeset:has(> .sc-kit) > h1:first-child,
-.md-typeset:has(> .sc-kit) > h1:first-child + hr { display: none; }
+/* ── MkDocs H1 hide (the plate carries its own name) — leaf pages only,
+   keyed on h1+hr+plate ADJACENCY so container pages embedding kits keep
+   their titles. Regression test: tests/e2e/page-titles.e2e.cjs. ── */
+.md-typeset > h1:first-child:has(+ hr + .sc-kit),
+.md-typeset > h1:first-child + hr:has(+ .sc-kit) { display: none; }
 
 /* ── PLATE ── */
 .md-typeset .sc-kit {

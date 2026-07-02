@@ -44,12 +44,13 @@
 .sb__role[data-role="leader"]{--role:var(--sc-role-leader)} .sb__role[data-role="brute"]{--role:var(--sc-role-brute)}
 
 /* ── MkDocs site integration ──
-   The bestiary page injects a "# Name" H1 (+ its `---` rule) for the title /
-   nav / TOC; once steel-statblock.js mounts .sb-wrap (which carries its own
-   .sb__name) that page H1 is redundant, so hide it — mirrors the ability-card
-   rule in steel-ability-cards.css. Pages still show the H1 if JS is disabled. */
-.md-typeset:has(> .sb-wrap) > h1:first-child,
-.md-typeset:has(> .sb-wrap) > h1:first-child + hr { display: none; }
+   Hide the injected "# Name" H1 (+ its --- rule) ONLY when the .sb-wrap card
+   directly follows it (a statblock leaf page — the card head carries the
+   name). Adjacency-keyed so container pages embedding statblocks keep their
+   own titles — mirrors the ability-card rule in steel-ability-cards.css.
+   Regression test: tests/e2e/page-titles.e2e.cjs. */
+.md-typeset > h1:first-child:has(+ hr + .sb-wrap),
+.md-typeset > h1:first-child + hr:has(+ .sb-wrap) { display: none; }
 
 /* ════════════════════════════════════════════════════════════
    PLATE

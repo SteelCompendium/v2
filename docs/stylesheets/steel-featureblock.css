@@ -28,9 +28,11 @@
 .fb-wrap[data-role="malice"],
 .fb-wrap[data-role="feature"]    { --role: var(--sc-role-malice); }
 
-/* ── MkDocs H1 hide (the card carries its own name) ── */
-.md-typeset:has(> .fb-wrap) > h1:first-child,
-.md-typeset:has(> .fb-wrap) > h1:first-child + hr { display: none; }
+/* ── MkDocs H1 hide (the card carries its own name) — leaf pages only,
+   keyed on h1+hr+card ADJACENCY so container pages embedding featureblocks
+   keep their titles. Regression test: tests/e2e/page-titles.e2e.cjs. ── */
+.md-typeset > h1:first-child:has(+ hr + .fb-wrap),
+.md-typeset > h1:first-child + hr:has(+ .fb-wrap) { display: none; }
 
 /* ── PLATE ── */
 .fb-wrap {

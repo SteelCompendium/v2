@@ -209,8 +209,11 @@
 /* ── generated ability/trait pages ──────────────────────────────
    steel-etl renders the card AS the page body, but still injects a
    markdown "# Name" (+ its --- rule) so MkDocs has a page title for
-   the nav, browser tab, and TOC. The card's own crest+name is the
-   visible hero, so hide that duplicate H1 (and its rule) on any page
-   whose content is a single .sc-ability card. */
-.md-typeset:has(> .sc-ability) > h1:first-child,
-.md-typeset:has(> .sc-ability) > h1:first-child + hr { display: none; }
+   the nav, browser tab, and TOC. On those LEAF pages the card is the
+   immediate sibling of the h1+hr pair — hide the duplicate title by
+   ADJACENCY, not by mere presence of a card: class pages and Read
+   chapters also contain top-level .sc-ability cards mid-flow and
+   must keep their titles (they have no card-head replacement).
+   Regression test: tests/e2e/page-titles.e2e.cjs. */
+.md-typeset > h1:first-child:has(+ hr + .sc-ability),
+.md-typeset > h1:first-child + hr:has(+ .sc-ability) { display: none; }
