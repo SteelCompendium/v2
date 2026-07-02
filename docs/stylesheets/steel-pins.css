@@ -1,0 +1,22 @@
+/* steel-pins.css — the ★ pin toggle + /pins/ "My Table" board (sc-pins.js). */
+
+/* In a card head (.sc-head grid) the pin sits top-right; beside a plain h1 it
+   rides inline after the title text. */
+.sc-head .sc-pin {
+  grid-column: 3; grid-row: 1; justify-self: end; align-self: start;
+}
+.sc-pin {
+  background: none; border: 0; cursor: pointer;
+  font-size: 1.05rem; line-height: 1; padding: .1rem .2rem;
+  color: var(--md-default-fg-color--lighter);
+}
+h1 .sc-pin { font-size: .8em; vertical-align: .15em; margin-left: .3rem; }
+.sc-pin:hover { color: var(--md-accent-fg-color); }
+.sc-pin.is-on { color: var(--md-accent-fg-color); }
+
+.sc-pins__kind { margin-top: 1.4rem; }
+.md-typeset .sc-pins__list { list-style: none; margin-left: 0; columns: 2; column-gap: 2rem; }
+.md-typeset .sc-pins__list li { break-inside: avoid; display: flex; gap: .5rem; align-items: baseline; }
+.sc-pins__rm { background: none; border: 0; cursor: pointer; color: var(--md-default-fg-color--lighter); }
+.sc-pins__rm:hover { color: var(--md-accent-fg-color); }
+@media (max-width: 45em) { .md-typeset .sc-pins__list { columns: 1; } }

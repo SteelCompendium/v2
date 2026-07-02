@@ -132,6 +132,7 @@ extra_css:
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
   - stylesheets/steel-copylink.css
+  - stylesheets/steel-pins.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
@@ -161,5 +162,7 @@ extra_javascript:
   - javascripts/scc-headerlinks.js
   - javascripts/scc-card-copy-core.js
   - javascripts/scc-card-copy.js
+  - javascripts/sc-pins-core.js
+  - javascripts/sc-pins.js
   - javascripts/nav-drawer-keep-core.js
   - javascripts/nav-drawer-keep.js
