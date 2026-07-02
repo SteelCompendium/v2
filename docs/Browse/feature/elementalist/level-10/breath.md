@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have an epic resource called breath. Each time you finish a [respite](../../../rule/resource/respite.md), you gain breath equal to the [XP](../../../rule/resource/experience.md) you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.&#10;&#10;Breath remains until you convert it to essence."></template>
+<template class="sc-src" data-fmt="md" data-src="You have an epic resource called breath. Each time you finish a &#91;respite](../../../rule/resource/respite.md), you gain breath equal to the &#91;XP](../../../rule/resource/experience.md) you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.&#10;&#10;Breath remains until you convert it to essence."></template>

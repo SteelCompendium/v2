@@ -19,4 +19,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When a creature takes the [Advance](advance.md) move action, they move a number of squares up to their [speed](../../../rule/character/speed.md). They can break up this movement with their maneuver and main action however they wish."></template>
+<template class="sc-src" data-fmt="md" data-src="When a creature takes the &#91;Advance](advance.md) move action, they move a number of squares up to their &#91;speed](../../../rule/character/speed.md). They can break up this movement with their maneuver and main action however they wish."></template>

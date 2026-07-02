@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your powerful legs make you faster. You have [speed](../../../rule/character/speed.md) 6."></template>
+<template class="sc-src" data-fmt="md" data-src="Your powerful legs make you faster. You have &#91;speed](../../../rule/character/speed.md) 6."></template>

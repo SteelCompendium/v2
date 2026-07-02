@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you or your companion uses your [The Pack Defends](../../ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina."></template>
+<template class="sc-src" data-fmt="md" data-src="When you or your companion uses your &#91;The Pack Defends](../../ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina."></template>

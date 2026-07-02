@@ -23,4 +23,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can choose one additional ward from your Summoner&#39;s Kit.&#10;&#10;Additionally, whenever you reduce an enemy to 0 [Stamina](../../../rule/health/stamina.md) with your [Summoner Strike](../../ability/summoner/level-1/summoner-strike.md) ability, you can use [Call Forth](../../ability/summoner/level-1/call-forth.md) as a [free maneuver](../../../rule/combat/free-maneuver.md). Minions summoned this way are unable to act during this [turn](../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You can choose one additional ward from your Summoner&#39;s Kit.&#10;&#10;Additionally, whenever you reduce an enemy to 0 &#91;Stamina](../../../rule/health/stamina.md) with your &#91;Summoner Strike](../../ability/summoner/level-1/summoner-strike.md) ability, you can use &#91;Call Forth](../../ability/summoner/level-1/call-forth.md) as a &#91;free maneuver](../../../rule/combat/free-maneuver.md). Minions summoned this way are unable to act during this &#91;turn](../../../rule/combat/turn.md)."></template>

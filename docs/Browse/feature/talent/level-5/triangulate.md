@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever an ally uses a [ranged](../../../rule/combat/ranged.md) ability while you are within the ability&#39;s [distance](../../../rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../../../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever an ally uses a &#91;ranged](../../../rule/combat/ranged.md) ability while you are within the ability&#39;s &#91;distance](../../../rule/combat/distance.md), you can spend 1 clarity as a free &#91;triggered action](../../../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space."></template>

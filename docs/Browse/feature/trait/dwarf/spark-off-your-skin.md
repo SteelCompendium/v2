@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your stone skin affords you potent protection. You have a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and that [bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels."></template>
+<template class="sc-src" data-fmt="md" data-src="Your stone skin affords you potent protection. You have a +6 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;Stamina](../../../rule/health/stamina.md), and that &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels."></template>

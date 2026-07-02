@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Once per [combat round](../../../rule/combat/combat-round.md) while you are not [dying](../../../rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../../../rule/combat/triggered-action.md) to [turn](../../../rule/combat/turn.md) it into a free [triggered action](../../../rule/combat/triggered-action.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Once per &#91;combat round](../../../rule/combat/combat-round.md) while you are not &#91;dying](../../../rule/health/dying.md), you can spend 2 clarity when you use a &#91;triggered action](../../../rule/combat/triggered-action.md) to &#91;turn](../../../rule/combat/turn.md) it into a free &#91;triggered action](../../../rule/combat/triggered-action.md)."></template>

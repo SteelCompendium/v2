@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your hearty constitution prevents you from losing strength. You can&#39;t be made [weakened](../../../condition/weakened.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your hearty constitution prevents you from losing strength. You can&#39;t be made &#91;weakened](../../../condition/weakened.md)."></template>

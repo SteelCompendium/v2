@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../../../../../condition/bleeding.md) until the end of their next turn."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever the deinonychus makes a strike against a creature while rampaging, the target is &#91;bleeding](../../../../../condition/bleeding.md) until the end of their next turn."></template>

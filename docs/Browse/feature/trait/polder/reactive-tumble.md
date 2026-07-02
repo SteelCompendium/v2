@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../../../movement/forced-movement.md), you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) 1 square after the [forced movement](../../../movement/forced-movement.md) is resolved."></template>
+<template class="sc-src" data-fmt="md" data-src="Staying light on your feet lets you quickly get back into position. Whenever you are &#91;force moved](../../../movement/forced-movement.md), you can use a free &#91;triggered action](../../../rule/combat/triggered-action.md) to &#91;shift](../../../movement/shifting.md) 1 square after the &#91;forced movement](../../../movement/forced-movement.md) is resolved."></template>

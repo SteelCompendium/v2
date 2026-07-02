@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Velloparatha—the worldsickness—might hinder you, but you know how to [turn](../../../rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Velloparatha—the worldsickness—might hinder you, but you know how to &#91;turn](../../../rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 &#91;surge](../../../rule/resource/surge.md)."></template>

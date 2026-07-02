@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Track](../../../skill/intrigue/track.md) skill."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made using the &#91;Track](../../../skill/intrigue/track.md) skill."></template>

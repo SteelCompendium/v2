@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The first time you take damage each [combat round](../../../rule/combat/combat-round.md), you gain 2 ferocity instead of 1."></template>
+<template class="sc-src" data-fmt="md" data-src="The first time you take damage each &#91;combat round](../../../rule/combat/combat-round.md), you gain 2 ferocity instead of 1."></template>

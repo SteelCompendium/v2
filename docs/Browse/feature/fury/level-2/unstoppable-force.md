@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you use the [Charge](../../common/main-actions/charge.md) main action, you can use a [strike](../../../rule/combat/strike.md) [signature ability](../../../rule/combat/signature-ability.md) or a [strike](../../../rule/combat/strike.md) [heroic ability](../../../rule/general/heroic-ability.md) instead of a [free strike](../../common/main-actions/free-strike.md). Additionally, you can jump as part of your charge."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you use the &#91;Charge](../../common/main-actions/charge.md) main action, you can use a &#91;strike](../../../rule/combat/strike.md) &#91;signature ability](../../../rule/combat/signature-ability.md) or a &#91;strike](../../../rule/combat/strike.md) &#91;heroic ability](../../../rule/general/heroic-ability.md) instead of a &#91;free strike](../../common/main-actions/free-strike.md). Additionally, you can jump as part of your charge."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the spark is rampaging, you and the spark can [shift](../../../../../movement/shifting.md) up to your speed as a free maneuver once on each of your turns."></template>
+<template class="sc-src" data-fmt="md" data-src="While the spark is rampaging, you and the spark can &#91;shift](../../../../../movement/shifting.md) up to your speed as a free maneuver once on each of your turns."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be [dazed](../../../../../condition/dazed.md) until the end of the target&#39;s next turn."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be &#91;dazed](../../../../../condition/dazed.md) until the end of the target&#39;s next turn."></template>

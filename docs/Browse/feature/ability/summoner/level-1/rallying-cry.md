@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*&#34;Show them what you&#39;re made of!&#34;*&#10;&#10;| **Magic, Ranged** | **Maneuver** |&#10;|-------------------|-------------:|&#10;| **📏 3 burst** | **🎯 All Allies** |&#10;&#10;**Effect:** Each target chooses between gaining 2 [surges](../../../../rule/resource/surge.md) or dealing additional [damage](../../../../rule/damage/damage.md) equal to your [Reason](../../../../rule/character/reason.md) on their next [strike](../../../../rule/combat/strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*&#34;Show them what you&#39;re made of!&#34;*&#10;&#10;| **Magic, Ranged** | **Maneuver** |&#10;|-------------------|-------------:|&#10;| **📏 3 burst** | **🎯 All Allies** |&#10;&#10;**Effect:** Each target chooses between gaining 2 &#91;surges](../../../../rule/resource/surge.md) or dealing additional &#91;damage](../../../../rule/damage/damage.md) equal to your &#91;Reason](../../../../rule/character/reason.md) on their next &#91;strike](../../../../rule/combat/strike.md)."></template>

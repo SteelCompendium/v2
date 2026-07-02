@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you use an ability to reduce damage dealt to you or to reduce the [distance](../../../rule/combat/distance.md) of [forced movement](../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../level-1/null-field.md) ability equal to your [Intuition](../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you use an ability to reduce damage dealt to you or to reduce the &#91;distance](../../../rule/combat/distance.md) of &#91;forced movement](../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your &#91;Null Field](../level-1/null-field.md) ability equal to your &#91;Intuition](../../../rule/character/intuition.md) score."></template>

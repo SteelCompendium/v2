@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../../../../../condition/bleeding.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of &#91;bleeding](../../../../../condition/bleeding.md)."></template>

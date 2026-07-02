@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can [shift](../../../movement/shifting.md) into and while within [difficult terrain](../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You can &#91;shift](../../../movement/shifting.md) into and while within &#91;difficult terrain](../../../movement/difficult-terrain.md)."></template>

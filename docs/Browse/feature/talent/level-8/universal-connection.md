@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to anywhere on the same world."></template>
+<template class="sc-src" data-fmt="md" data-src="The range of your &#91;Telepathic Speech](../level-1/telepathic-speech.md) feature increases to anywhere on the same world."></template>

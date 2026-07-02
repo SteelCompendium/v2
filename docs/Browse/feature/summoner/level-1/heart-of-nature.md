@@ -23,4 +23,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any [Intuition](../../../rule/character/intuition.md) [test](../../../rule/test/test.md) made to socially interact with them."></template>
+<template class="sc-src" data-fmt="md" data-src="You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can&#39;t obtain lower than a tier 2 outcome on any &#91;Intuition](../../../rule/character/intuition.md) &#91;test](../../../rule/test/test.md) made to socially interact with them."></template>

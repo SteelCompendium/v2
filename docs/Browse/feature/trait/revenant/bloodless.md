@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="For you, an open wound is indistinguishable from a scratch. You can&#39;t be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="For you, an open wound is indistinguishable from a scratch. You can&#39;t be made &#91;bleeding](../../../condition/bleeding.md) even while &#91;dying](../../../rule/health/dying.md)."></template>

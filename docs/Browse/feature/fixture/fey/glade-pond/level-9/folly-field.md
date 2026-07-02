@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each non-fey enemy that starts their [turn](../../../../../rule/combat/turn.md) within 3 squares of the pond has a -1 penalty to [saving throws](../../../../../rule/general/saving-throw.md) and resisting [potencies](../../../../../rule/character/potency.md) until the start of their next [turn](../../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Each non-fey enemy that starts their &#91;turn](../../../../../rule/combat/turn.md) within 3 squares of the pond has a -1 penalty to &#91;saving throws](../../../../../rule/general/saving-throw.md) and resisting &#91;potencies](../../../../../rule/character/potency.md) until the start of their next &#91;turn](../../../../../rule/combat/turn.md)."></template>

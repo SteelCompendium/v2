@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each time you finish a [respite](../../../rule/resource/respite.md), you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action."></template>
+<template class="sc-src" data-fmt="md" data-src="Each time you finish a &#91;respite](../../../rule/resource/respite.md), you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action."></template>

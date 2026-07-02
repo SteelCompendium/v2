@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language."></template>

@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your senses are especially keen and perceptive. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to notice threats."></template>
+<template class="sc-src" data-fmt="md" data-src="Your senses are especially keen and perceptive. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to notice threats."></template>

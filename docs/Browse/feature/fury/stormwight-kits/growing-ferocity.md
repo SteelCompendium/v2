@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each stormwight kit grants a set of benefits for your [Growing Ferocity](../boren/growing-ferocity.md) feature."></template>
+<template class="sc-src" data-fmt="md" data-src="Each stormwight kit grants a set of benefits for your &#91;Growing Ferocity](../boren/growing-ferocity.md) feature."></template>

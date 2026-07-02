@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each time you use your [Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../../../rule/combat/turn.md). If you don&#39;t use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don&#39;t have their remains."></template>
+<template class="sc-src" data-fmt="md" data-src="Each time you use your &#91;Healing Grace](../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same &#91;turn](../../../rule/combat/turn.md). If you don&#39;t use this piety, it is lost. Additionally, you can use your &#91;Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don&#39;t have their remains."></template>

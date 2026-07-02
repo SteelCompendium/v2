@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The first time each [round](../../../rule/combat/combat-round.md) you take [damage](../../../rule/damage/damage.md), you can use a [free triggered action](../../../rule/combat/triggered-action.md) to [shift](../../../movement/shifting.md) 1 after the triggering effect resolves and summon a signature [minion](../level-1/minions.md) into the square you left (as long as there is enough space)."></template>
+<template class="sc-src" data-fmt="md" data-src="The first time each &#91;round](../../../rule/combat/combat-round.md) you take &#91;damage](../../../rule/damage/damage.md), you can use a &#91;free triggered action](../../../rule/combat/triggered-action.md) to &#91;shift](../../../movement/shifting.md) 1 after the triggering effect resolves and summon a signature &#91;minion](../level-1/minions.md) into the square you left (as long as there is enough space)."></template>

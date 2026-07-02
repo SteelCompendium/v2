@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your primordial [damage type](../../../rule/damage/damage-type.md) is lightning."></template>
+<template class="sc-src" data-fmt="md" data-src="Your primordial &#91;damage type](../../../rule/damage/damage-type.md) is lightning."></template>

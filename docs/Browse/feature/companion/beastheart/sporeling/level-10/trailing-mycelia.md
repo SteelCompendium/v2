@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is [grabbed](../../../../../condition/grabbed.md) by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked [prone](../../../../../condition/prone.md) until the sporeling&#39;s rampage ends."></template>
+<template class="sc-src" data-fmt="md" data-src="While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is &#91;grabbed](../../../../../condition/grabbed.md) by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked &#91;prone](../../../../../condition/prone.md) until the sporeling&#39;s rampage ends."></template>

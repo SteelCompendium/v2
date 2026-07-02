@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to hide and sneak, and [tests](../../../rule/test/test.md) made to search for you while you are hidden take a [bane](../../../rule/dice/bane.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You can magically alter your appearance to better blend in with your surroundings. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to hide and sneak, and &#91;tests](../../../rule/test/test.md) made to search for you while you are hidden take a &#91;bane](../../../rule/dice/bane.md)."></template>

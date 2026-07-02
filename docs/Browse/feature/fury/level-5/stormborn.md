@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You and each ally within 5 squares of you ignore negative effects from inclement weather, such as [banes](../../../rule/dice/bane.md) or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../../class/conduit.md) (see 1st-Level Domain Feature in the [Conduit](../../../class/conduit.md) section)."></template>
+<template class="sc-src" data-fmt="md" data-src="You and each ally within 5 squares of you ignore negative effects from inclement weather, such as &#91;banes](../../../rule/dice/bane.md) or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level &#91;conduit](../../../class/conduit.md) (see 1st-Level Domain Feature in the &#91;Conduit](../../../class/conduit.md) section)."></template>

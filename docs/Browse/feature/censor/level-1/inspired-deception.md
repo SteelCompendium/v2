@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The gods favor your thievery with magic. Whenever you make a [test](../../../rule/test/test.md) that uses a skill you have from the [intrigue skill group](../../../skill/intrigue/index.md), you can use [Presence](../../../rule/character/presence.md) on the [test](../../../rule/test/test.md) instead of another [characteristic](../../../rule/character/characteristic.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="The gods favor your thievery with magic. Whenever you make a &#91;test](../../../rule/test/test.md) that uses a skill you have from the &#91;intrigue skill group](../../../skill/intrigue/index.md), you can use &#91;Presence](../../../rule/character/presence.md) on the &#91;test](../../../rule/test/test.md) instead of another &#91;characteristic](../../../rule/character/characteristic.md)."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to gamble!"></template>
+<template class="sc-src" data-fmt="md" data-src="You have a double &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to gamble!"></template>

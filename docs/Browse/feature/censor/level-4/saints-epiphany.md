@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="At the start of a [respite](../../../rule/resource/respite.md), you can inspire yourself or another creature taking the same [respite](../../../rule/resource/respite.md) with divine knowledge. If the target makes a [project roll](../../../rule/downtime/project-roll.md) during this [respite](../../../rule/resource/respite.md), they can add 1d10 plus your [Presence](../../../rule/character/presence.md) score to the roll."></template>
+<template class="sc-src" data-fmt="md" data-src="At the start of a &#91;respite](../../../rule/resource/respite.md), you can inspire yourself or another creature taking the same &#91;respite](../../../rule/resource/respite.md) with divine knowledge. If the target makes a &#91;project roll](../../../rule/downtime/project-roll.md) during this &#91;respite](../../../rule/resource/respite.md), they can add 1d10 plus your &#91;Presence](../../../rule/character/presence.md) score to the roll."></template>

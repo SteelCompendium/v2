@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="At the end of each of your [turns](../../../rule/combat/turn.md), each ally in the area gains [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="At the end of each of your &#91;turns](../../../rule/combat/turn.md), each ally in the area gains &#91;temporary Stamina](../../../rule/health/temporary-stamina.md) equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

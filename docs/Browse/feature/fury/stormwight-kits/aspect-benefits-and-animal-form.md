@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [primordial aspect](../level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;primordial aspect](../level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit."></template>

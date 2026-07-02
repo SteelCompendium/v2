@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) magic abilities."></template>
+<template class="sc-src" data-fmt="md" data-src="You have a +2 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to the &#91;distance](../../../rule/combat/distance.md) of your &#91;ranged](../../../rule/combat/ranged.md) magic abilities."></template>

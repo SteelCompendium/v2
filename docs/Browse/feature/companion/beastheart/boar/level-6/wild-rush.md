@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../../../../../movement/shifting.md) instead of move when using the Charge action or the Gore maneuver."></template>
+<template class="sc-src" data-fmt="md" data-src="While the boar is rampaging, you can use their Gore maneuver, and you and the boar can &#91;shift](../../../../../movement/shifting.md) instead of move when using the Charge action or the Gore maneuver."></template>

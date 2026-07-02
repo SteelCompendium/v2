@@ -6,9 +6,15 @@ search:
 average_potency: '[Reason](../rule/character/reason.md) − 1'
 flavor: A rare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 name: Talent
+primary_characteristics:
+    - Reason
+    - Presence
+recoveries: 8
 scc: mcdm.heroes.v1/class/talent
 skills:
     - 'You gain the Psionics and [Read Person](../skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the [interpersonal](../skill/interpersonal/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/interpersonal/read-person.md), Timescape.)'
+stamina_per_level: 6
+starting_stamina: 18
 strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
 weak_potency: '[Reason](../rule/character/reason.md) − 2'
@@ -18,12 +24,8 @@ weak_potency: '[Reason](../rule/character/reason.md) − 2'
 
 ---
 
-<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Talent</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Reason − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Reason − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Reason</span></span></div></section>
-<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
-
-
-
-A rare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent's](talent.md) abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Talent</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><p class="sc-classhead__flavor">A rare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent&#39;s abilities, can tap into the mind&#39;s full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature&#39;s mind.</p><div class="sc-classhead__stats"><span class="sc-classhead__cell"><span class="l">Starting characteristics</span><span class="v">Reason 2 · Presence 2</span></span><span class="sc-classhead__cell"><span class="l">Starting stamina</span><span class="v">18</span></span><span class="sc-classhead__cell"><span class="l">Stamina per level</span><span class="v">+6</span></span><span class="sc-classhead__cell"><span class="l">Recoveries</span><span class="v">8</span></span></div><div class="sc-classhead__pot"><span class="sc-classhead__cell"><span class="l">Weak potency</span><span class="v">Reason − 2</span></span><span class="sc-classhead__cell"><span class="l">Average potency</span><span class="v">Reason − 1</span></span><span class="sc-classhead__cell"><span class="l">Strong potency</span><span class="v">Reason</span></span></div><p class="sc-classhead__skills"><span class="l">Skills</span> You gain the Psionics and Read Person skills (see Skills in Chapter 9: Tests). Then choose any two skills from the interpersonal or lore skill groups. (Quick Build: Empathize, Psionics, Read Person, Timescape.)</p></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><span class="sc-classnav__lvls"><span class="l">Level</span><a href="#1st-level-features" title="1st-Level Features">1</a><a href="#2nd-level-features" title="2nd-Level Features">2</a><a href="#3rd-level-features" title="3rd-Level Features">3</a><a href="#4th-level-features" title="4th-Level Features">4</a><a href="#5th-level-features" title="5th-Level Features">5</a><a href="#6th-level-features" title="6th-Level Features">6</a><a href="#7th-level-features" title="7th-Level Features">7</a><a href="#8th-level-features" title="8th-Level Features">8</a><a href="#9th-level-features" title="9th-Level Features">9</a><a href="#10th-level-features" title="10th-Level Features">10</a></span></nav>
 
 **As a [talent](talent.md), you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and [talents](talent.md) who use too much power too quickly pay a deadly price.**
 

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Reason](../../../rule/character/reason.md) score becomes 3. Additionally, you can increase one of your [characteristic](../../../rule/character/characteristic.md) scores by 1, to a maximum score of 3."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Reason](../../../rule/character/reason.md) score becomes 3. Additionally, you can increase one of your &#91;characteristic](../../../rule/character/characteristic.md) scores by 1, to a maximum score of 3."></template>

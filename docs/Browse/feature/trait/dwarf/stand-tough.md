@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your body is made to withstand the blows of your enemies. Your [Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting [potencies](../../../rule/character/potency.md), and you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) [tests](../../../rule/test/test.md) when called for to resist environmental effects or a creature&#39;s traits or abilities."></template>
+<template class="sc-src" data-fmt="md" data-src="Your body is made to withstand the blows of your enemies. Your &#91;Might](../../../rule/character/might.md) score is treated as 1 higher for the purpose of resisting &#91;potencies](../../../rule/character/potency.md), and you gain an &#91;edge](../../../rule/dice/edge.md) on &#91;Might](../../../rule/character/might.md) &#91;tests](../../../rule/test/test.md) when called for to resist environmental effects or a creature&#39;s traits or abilities."></template>

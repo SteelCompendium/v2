@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of [surges](../../../rule/resource/surge.md) equal to your [Victories](../../../rule/resource/victories.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of &#91;surges](../../../rule/resource/surge.md) equal to your &#91;Victories](../../../rule/resource/victories.md)."></template>

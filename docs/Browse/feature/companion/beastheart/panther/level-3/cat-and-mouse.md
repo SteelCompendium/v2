@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../../../../condition/prone.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target &#91;prone](../../../../../condition/prone.md)."></template>

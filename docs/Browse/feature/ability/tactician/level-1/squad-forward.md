@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*On your command, you and your allies force back the enemy line.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |               **Maneuver** |&#10;|------------------|---------------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target can move up to their [speed](../../../../rule/character/speed.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*On your command, you and your allies force back the enemy line.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |               **Maneuver** |&#10;|------------------|---------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target can move up to their &#91;speed](../../../../rule/character/speed.md)."></template>

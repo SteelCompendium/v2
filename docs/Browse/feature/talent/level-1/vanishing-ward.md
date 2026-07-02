@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next &#91;turn](../../../rule/combat/turn.md)."></template>

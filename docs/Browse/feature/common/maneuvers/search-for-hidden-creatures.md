@@ -19,4 +19,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The [Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](../../../../Read/heroes/tests.md))."></template>
+<template class="sc-src" data-fmt="md" data-src="The &#91;Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md))."></template>

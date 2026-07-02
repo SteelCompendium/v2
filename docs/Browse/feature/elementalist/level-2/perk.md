@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain one crafting, lore, or [supernatural](../../../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../../../Read/heroes/perks.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain one crafting, lore, or &#91;supernatural](../../../rule/general/supernatural.md) perk of your choice. See Chapter 7: &#91;Perks](../../../../Read/heroes/perks.md)."></template>

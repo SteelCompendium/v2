@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain an [intrigue](../../../skill/intrigue/index.md), [lore](../../../skill/lore/index.md), or supernatural [perk](perk.md) of your choice. See Perks in Draw Steel: Heroes for more information."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain an &#91;intrigue](../../../skill/intrigue/index.md), &#91;lore](../../../skill/lore/index.md), or supernatural &#91;perk](perk.md) of your choice. See Perks in Draw Steel: Heroes for more information."></template>

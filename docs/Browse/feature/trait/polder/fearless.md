@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Courage is all you know. You can&#39;t be made [frightened](../../../condition/frightened.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Courage is all you know. You can&#39;t be made &#91;frightened](../../../condition/frightened.md)."></template>

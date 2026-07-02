@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific [damage type](../../../rule/damage/damage-type.md) used by some of your abilities."></template>
+<template class="sc-src" data-fmt="md" data-src="Each stormwight kit is associated with a &#91;primordial storm](primordial-storm.md), which channels a specific &#91;damage type](../../../rule/damage/damage-type.md) used by some of your abilities."></template>

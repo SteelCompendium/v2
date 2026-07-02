@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="At the start of your [turn](../../../rule/combat/turn.md), you can end any [restrained](../../../condition/restrained.md) [condition](../../../rule/combat/condition.md) on you. Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to escape being confined or imprisoned."></template>
+<template class="sc-src" data-fmt="md" data-src="At the start of your &#91;turn](../../../rule/combat/turn.md), you can end any &#91;restrained](../../../condition/restrained.md) &#91;condition](../../../rule/combat/condition.md) on you. Additionally, you have a double &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to escape being confined or imprisoned."></template>

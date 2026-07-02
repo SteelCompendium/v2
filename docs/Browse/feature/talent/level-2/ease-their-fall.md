@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to reduce the falling damage by an amount equal to 2 + your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free &#91;triggered action](../../../rule/combat/triggered-action.md) to reduce the falling damage by an amount equal to 2 + your &#91;Reason](../../../rule/character/reason.md) score."></template>

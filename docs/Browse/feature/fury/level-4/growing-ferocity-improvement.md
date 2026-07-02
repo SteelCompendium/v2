@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Growing Ferocity](../boren/growing-ferocity.md) feature provides additional benefits when you have 8 or more ferocity."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Growing Ferocity](../boren/growing-ferocity.md) feature provides additional benefits when you have 8 or more ferocity."></template>

@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have [line of effect](../../../rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver."></template>
+<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have &#91;line of effect](../../../rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver."></template>

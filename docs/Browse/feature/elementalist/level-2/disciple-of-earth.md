@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your body is strengthened by your mind&#39;s connection to the element of permanence. You have a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and you gain an additional +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) whenever you gain a level past 2nd."></template>
+<template class="sc-src" data-fmt="md" data-src="Your body is strengthened by your mind&#39;s connection to the element of permanence. You have a +6 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;Stamina](../../../rule/health/stamina.md), and you gain an additional +3 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;Stamina](../../../rule/health/stamina.md) whenever you gain a level past 2nd."></template>

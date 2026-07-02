@@ -6,9 +6,14 @@ search:
 average_potency: '[Agility](../rule/character/agility.md) − 1'
 flavor: Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 name: Shadow
+primary_characteristics:
+    - Agility
+recoveries: 8
 scc: mcdm.heroes.v1/class/shadow
 skills:
     - 'You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../skill/exploration/index.md), [interpersonal](../skill/interpersonal/index.md), or [intrigue](../skill/intrigue/index.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)'
+stamina_per_level: 6
+starting_stamina: 18
 strong_potency: '[Agility](../rule/character/agility.md)'
 type: class
 weak_potency: '[Agility](../rule/character/agility.md) − 2'
@@ -18,12 +23,8 @@ weak_potency: '[Agility](../rule/character/agility.md) − 2'
 
 ---
 
-<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><div class="sc-classhead__pot"><span class="sc-classhead__potcell"><span class="l">Weak potency</span><span class="v">Agility − 2</span></span><span class="sc-classhead__potcell"><span class="l">Average potency</span><span class="v">Agility − 1</span></span><span class="sc-classhead__potcell"><span class="l">Strong potency</span><span class="v">Agility</span></span></div></section>
-<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#1st-level-features">1st-Level Features</a><a href="#2nd-level-features">2nd-Level Features</a><a href="#3rd-level-features">3rd-Level Features</a><a href="#4th-level-features">4th-Level Features</a><a href="#5th-level-features">5th-Level Features</a><a href="#6th-level-features">6th-Level Features</a><a href="#7th-level-features">7th-Level Features</a><a href="#8th-level-features">8th-Level Features</a><a href="#9th-level-features">9th-Level Features</a><a href="#10th-level-features">10th-Level Features</a></nav>
-
-
-
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](shadow.md)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header><p class="sc-classhead__flavor">Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies&#39; weaknesses.</p><div class="sc-classhead__stats"><span class="sc-classhead__cell"><span class="l">Starting characteristics</span><span class="v">Agility 2</span></span><span class="sc-classhead__cell"><span class="l">Starting stamina</span><span class="v">18</span></span><span class="sc-classhead__cell"><span class="l">Stamina per level</span><span class="v">+6</span></span><span class="sc-classhead__cell"><span class="l">Recoveries</span><span class="v">8</span></span></div><div class="sc-classhead__pot"><span class="sc-classhead__cell"><span class="l">Weak potency</span><span class="v">Agility − 2</span></span><span class="sc-classhead__cell"><span class="l">Average potency</span><span class="v">Agility − 1</span></span><span class="sc-classhead__cell"><span class="l">Strong potency</span><span class="v">Agility</span></span></div><p class="sc-classhead__skills"><span class="l">Skills</span> You gain the Hide and Sneak skills (see Skills in Chapter 9: Tests). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (Quick Build:  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)</p></section>
+<nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><span class="sc-classnav__lvls"><span class="l">Level</span><a href="#1st-level-features" title="1st-Level Features">1</a><a href="#2nd-level-features" title="2nd-Level Features">2</a><a href="#3rd-level-features" title="3rd-Level Features">3</a><a href="#4th-level-features" title="4th-Level Features">4</a><a href="#5th-level-features" title="5th-Level Features">5</a><a href="#6th-level-features" title="6th-Level Features">6</a><a href="#7th-level-features" title="7th-Level Features">7</a><a href="#8th-level-features" title="8th-Level Features">8</a><a href="#9th-level-features" title="9th-Level Features">9</a><a href="#10th-level-features" title="10th-Level Features">10</a></span></nav>
 
 **As a [shadow](shadow.md), you possess abilities that deal significant damage, enable you to move swiftly across the battlefield and evade hazards, and allow you to fade from notice even in the midst of the most intense combat encounters. You also possess more skills than any other hero.**
 

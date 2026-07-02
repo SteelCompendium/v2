@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../../../rule/combat/triggered-action.md) to make that creature [frightened](../../../condition/frightened.md) of you until the end of their next [turn](../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a &#91;triggered action](../../../rule/combat/triggered-action.md) to make that creature &#91;frightened](../../../condition/frightened.md) of you until the end of their next &#91;turn](../../../rule/combat/turn.md)."></template>

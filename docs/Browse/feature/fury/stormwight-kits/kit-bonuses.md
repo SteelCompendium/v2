@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="These [bonus](../../../rule/dice/bonuses-and-penalties.md)es apply in your true form, your [animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../../../Read/heroes/kits.md) for information on [kit bonuses](../boren/kit-bonuses.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="These &#91;bonus](../../../rule/dice/bonuses-and-penalties.md)es apply in your true form, your &#91;animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: &#91;Kits](../../../../Read/heroes/kits.md) for information on &#91;kit bonuses](../boren/kit-bonuses.md)."></template>

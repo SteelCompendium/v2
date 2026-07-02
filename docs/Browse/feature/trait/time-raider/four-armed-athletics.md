@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your unique physiology enhances your movement. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) that use the [Climb](../../../skill/exploration/climb.md), [Gymnastics](../../../skill/exploration/gymnastics.md), or [Swim](../../../skill/exploration/swim.md) skills when you can use all your arms in the attempt."></template>
+<template class="sc-src" data-fmt="md" data-src="Your unique physiology enhances your movement. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) that use the &#91;Climb](../../../skill/exploration/climb.md), &#91;Gymnastics](../../../skill/exploration/gymnastics.md), or &#91;Swim](../../../skill/exploration/swim.md) skills when you can use all your arms in the attempt."></template>

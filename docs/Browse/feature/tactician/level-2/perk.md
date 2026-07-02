@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../../../Read/heroes/perks.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: &#91;Perks](../../../../Read/heroes/perks.md)."></template>

@@ -19,4 +19,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="A creature who uses the [Aid Attack](aid-attack.md) maneuver chooses an enemy [adjacent](../../../rule/combat/adjacent.md) to them. The next [ability roll](../../../rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature&#39;s next [turn](../../../rule/combat/turn.md) gains an [edge](../../../rule/dice/edge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="A creature who uses the &#91;Aid Attack](aid-attack.md) maneuver chooses an enemy &#91;adjacent](../../../rule/combat/adjacent.md) to them. The next &#91;ability roll](../../../rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature&#39;s next &#91;turn](../../../rule/combat/turn.md) gains an &#91;edge](../../../rule/dice/edge.md)."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy [shifted](../../../movement/shifting.md), [teleported](../../../movement/teleport.md), was [force moved](../../../movement/forced-movement.md), or another feature that doesn&#39;t provoke opportunity attacks."></template>
+<template class="sc-src" data-fmt="md" data-src="Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy &#91;shifted](../../../movement/shifting.md), &#91;teleported](../../../movement/teleport.md), was &#91;force moved](../../../movement/forced-movement.md), or another feature that doesn&#39;t provoke opportunity attacks."></template>

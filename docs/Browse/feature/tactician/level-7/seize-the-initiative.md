@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If you are not [surprised](../../../rule/combat/surprised.md) when combat begins, your side gets to go first. If an enemy has an ability that allows their side to go first, you roll as usual to determine who goes first."></template>
+<template class="sc-src" data-fmt="md" data-src="If you are not &#91;surprised](../../../rule/combat/surprised.md) when combat begins, your side gets to go first. If an enemy has an ability that allows their side to go first, you roll as usual to determine who goes first."></template>

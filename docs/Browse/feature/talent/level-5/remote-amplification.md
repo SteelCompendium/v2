@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile."></template>
+<template class="sc-src" data-fmt="md" data-src="The &#91;distance](../../../rule/combat/distance.md) of your &#91;ranged](../../../rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your &#91;Telepathic Speech](../level-1/telepathic-speech.md) feature increases to 1 mile."></template>

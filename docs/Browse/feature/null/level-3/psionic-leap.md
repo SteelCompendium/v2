@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can long jump and high jump a [distance](../../../rule/combat/distance.md) equal to twice your [Agility](../../../rule/character/agility.md) score without needing to make a [test](../../../rule/test/test.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You can long jump and high jump a &#91;distance](../../../rule/combat/distance.md) equal to twice your &#91;Agility](../../../rule/character/agility.md) score without needing to make a &#91;test](../../../rule/test/test.md)."></template>

@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*An ally becomes the wearer of an empowered golden cloak.*&#10;&#10;| **Magic, [Ranged](../../../../rule/combat/ranged.md)**         |    **Maneuver** |&#10;|---------------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One ally** |&#10;&#10;**Effect:** The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 3 [surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*An ally becomes the wearer of an empowered golden cloak.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**         |    **Maneuver** |&#10;|---------------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 One ally** |&#10;&#10;**Effect:** The target gains 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) and 3 &#91;surges](../../../../rule/resource/surge.md)."></template>

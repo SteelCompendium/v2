@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with [damage immunity](../../../rule/damage/damage-immunity.md), you gain 2 [surges](../../../rule/resource/surge.md) that can be used only to increase the damage of your next strike."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with &#91;damage immunity](../../../rule/damage/damage-immunity.md), you gain 2 &#91;surges](../../../rule/resource/surge.md) that can be used only to increase the damage of your next strike."></template>

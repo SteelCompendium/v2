@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to intimidate or persuade others."></template>
+<template class="sc-src" data-fmt="md" data-src="You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to intimidate or persuade others."></template>

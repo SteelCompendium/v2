@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a [strike](../../../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next [turn](../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a &#91;strike](../../../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next &#91;turn](../../../rule/combat/turn.md)."></template>

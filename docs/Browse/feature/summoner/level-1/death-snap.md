@@ -23,4 +23,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever one of your demon minions would die unwillingly, they can deal [damage](../../../rule/damage/damage.md) to an [adjacent](../../../rule/combat/adjacent.md) creature equal to their [free strike](../../common/main-actions/free-strike.md) value before dying."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever one of your demon minions would die unwillingly, they can deal &#91;damage](../../../rule/damage/damage.md) to an &#91;adjacent](../../../rule/combat/adjacent.md) creature equal to their &#91;free strike](../../common/main-actions/free-strike.md) value before dying."></template>

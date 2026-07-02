@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You are exceptionally strong. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to lift and haul heavy objects."></template>
+<template class="sc-src" data-fmt="md" data-src="You are exceptionally strong. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to lift and haul heavy objects."></template>

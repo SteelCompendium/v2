@@ -23,4 +23,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You and your undead [minions](../level-1/minions.md) don&#39;t spend additional [speed](../../../rule/character/speed.md) to move through [difficult terrain](../../../movement/difficult-terrain.md). If one or more of your undead [minions](../level-1/minions.md) would die while using their move action, they can choose to not die until the end of your [turn](../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You and your undead &#91;minions](../level-1/minions.md) don&#39;t spend additional &#91;speed](../../../rule/character/speed.md) to move through &#91;difficult terrain](../../../movement/difficult-terrain.md). If one or more of your undead &#91;minions](../level-1/minions.md) would die while using their move action, they can choose to not die until the end of your &#91;turn](../../../rule/combat/turn.md)."></template>

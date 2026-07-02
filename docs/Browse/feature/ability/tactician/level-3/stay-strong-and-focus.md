@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*&#34;We can do this! Keep faith and hold fast!&#34;*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a [Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*&#34;We can do this! Keep faith and hold fast!&#34;*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

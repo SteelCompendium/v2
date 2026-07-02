@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [human](../../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../../../rule/health/recoveries.md) by 2."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;human](../../../ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of &#91;Recoveries](../../../rule/health/recoveries.md) by 2."></template>

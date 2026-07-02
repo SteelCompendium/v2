@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you or your companion deals damage with your [Pyre](../../ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage."></template>
+<template class="sc-src" data-fmt="md" data-src="When you or your companion deals damage with your &#91;Pyre](../../ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage."></template>

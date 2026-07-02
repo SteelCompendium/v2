@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you force move a creature, you can spend up to 2 [surges](../../../rule/resource/surge.md). For each [surge](../../../rule/resource/surge.md) spent, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you force move a creature, you can spend up to 2 &#91;surges](../../../rule/resource/surge.md). For each &#91;surge](../../../rule/resource/surge.md) spent, the &#91;forced movement](../../../movement/forced-movement.md) &#91;distance](../../../rule/combat/distance.md) gains a &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

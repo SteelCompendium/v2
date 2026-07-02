@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you roll for piety at the start of your [turn](../../../rule/combat/turn.md) in combat and you pray, you gain 1 additional piety."></template>
+<template class="sc-src" data-fmt="md" data-src="When you roll for piety at the start of your &#91;turn](../../../rule/combat/turn.md) in combat and you pray, you gain 1 additional piety."></template>

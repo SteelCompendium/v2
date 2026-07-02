@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../../../kit/panther.md).)"></template>
+<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a kit. See Chapter 6: &#91;Kits](../../../../Read/heroes/kits.md) for more information. (*Quick Build:* &#91;Panther](../../../kit/panther.md).)"></template>

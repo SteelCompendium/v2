@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) and to the [distance](../../../rule/combat/distance.md) you can [shift](../../../movement/shifting.md) when you take the [Disengage](../../common/move-actions/disengage.md) move action."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../rule/character/speed.md) and to the &#91;distance](../../../rule/combat/distance.md) you can &#91;shift](../../../movement/shifting.md) when you take the &#91;Disengage](../../common/move-actions/disengage.md) move action."></template>

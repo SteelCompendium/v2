@@ -29,4 +29,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [null tradition](../level-1/null-tradition.md) grants you a feature, as shown on the 5th-Level Tradition Features table.&#10;&#10;### 5th-Level Tradition Features Table&#10;&#10;| Tradition     | Feature            |&#10;|---------------|--------------------|&#10;| Chronokinetic | [Instant Action](instant-action.md)     |&#10;| Cryokinetic   | [Chilling Readiness](chilling-readiness.md) |&#10;| Metakinetic   | [Inertial Fulcrum](inertial-fulcrum.md)   |"></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;null tradition](../level-1/null-tradition.md) grants you a feature, as shown on the 5th-Level Tradition Features table.&#10;&#10;### 5th-Level Tradition Features Table&#10;&#10;| Tradition     | Feature            |&#10;|---------------|--------------------|&#10;| Chronokinetic | &#91;Instant Action](instant-action.md)     |&#10;| Cryokinetic   | &#91;Chilling Readiness](chilling-readiness.md) |&#10;| Metakinetic   | &#91;Inertial Fulcrum](inertial-fulcrum.md)   |"></template>

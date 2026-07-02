@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="At the start of each of your [turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3."></template>
+<template class="sc-src" data-fmt="md" data-src="At the start of each of your &#91;turns](../../../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3."></template>

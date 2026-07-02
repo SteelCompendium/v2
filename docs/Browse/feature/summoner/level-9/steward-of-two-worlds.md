@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their [patience](../../../rule/negotiation/patience.md) increased by 2."></template>
+<template class="sc-src" data-fmt="md" data-src="You and your allies are now welcome in your circle&#39;s source manifold. Negotiations with native denizens of your circle&#39;s source manifold have their &#91;patience](../../../rule/negotiation/patience.md) increased by 2."></template>

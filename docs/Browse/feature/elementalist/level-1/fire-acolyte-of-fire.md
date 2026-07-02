@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md). Your [Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this [bonus](../../../rule/dice/bonuses-and-penalties.md) when you use it to deal fire damage."></template>
+<template class="sc-src" data-fmt="md" data-src="You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;rolled damage](../../../rule/damage/rolled-damage.md). Your &#91;Hurl Element](../../ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) when you use it to deal fire damage."></template>

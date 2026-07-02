@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You know the Mindspeech language (see Languages in [Orden](../../../rule/world/orden.md) in Chapter 4: [Background](../../../../Read/heroes/background.md)). Additionally, you can telepathically communicate with any creatures within [distance](../../../rule/combat/distance.md) of your [Mind Spike](../../ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically."></template>
+<template class="sc-src" data-fmt="md" data-src="You know the Mindspeech language (see Languages in &#91;Orden](../../../rule/world/orden.md) in Chapter 4: &#91;Background](../../../../Read/heroes/background.md)). Additionally, you can telepathically communicate with any creatures within &#91;distance](../../../rule/combat/distance.md) of your &#91;Mind Spike](../../ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically."></template>

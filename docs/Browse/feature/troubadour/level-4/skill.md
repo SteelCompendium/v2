@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../../../Read/heroes/tests.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain one skill of your choice. See Skills in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md)."></template>

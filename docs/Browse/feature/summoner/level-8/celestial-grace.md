@@ -24,4 +24,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your number of [Recoveries](../../../rule/health/recoveries.md) further increases by 2.&#10;&#10;Additionally, the area affected by your [Pixie Dust](../level-1/pixie-dust.md) feature and any of your fey minions&#39; traits that affect [adjacent](../../../rule/combat/adjacent.md) creatures and/or the area within 1 or more squares of them increase that distance by 1 square."></template>
+<template class="sc-src" data-fmt="md" data-src="Your number of &#91;Recoveries](../../../rule/health/recoveries.md) further increases by 2.&#10;&#10;Additionally, the area affected by your &#91;Pixie Dust](../level-1/pixie-dust.md) feature and any of your fey minions&#39; traits that affect &#91;adjacent](../../../rule/combat/adjacent.md) creatures and/or the area within 1 or more squares of them increase that distance by 1 square."></template>

@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You split your essence, allowing you to cast multiple effects at once.*&#10;&#10;| **Magic, Void** | **Main action** |&#10;|-----------------|----------------:|&#10;| **📏 Self**     |     **🎯 Self** |&#10;&#10;**Effect:** You use up to three [heroic abilities](../../../../rule/general/heroic-ability.md) whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../../movement/shifting.md) up to 2 squares between your use of each ability."></template>
+<template class="sc-src" data-fmt="md" data-src="*You split your essence, allowing you to cast multiple effects at once.*&#10;&#10;| **Magic, Void** | **Main action** |&#10;|-----------------|----------------:|&#10;| **📏 Self**     |     **🎯 Self** |&#10;&#10;**Effect:** You use up to three &#91;heroic abilities](../../../../rule/general/heroic-ability.md) whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can &#91;shift](../../../../movement/shifting.md) up to 2 squares between your use of each ability."></template>

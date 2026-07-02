@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Giving up is for other people. You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made using the [Endurance](../../../skill/exploration/endurance.md) skill. Additionally, when you are [slowed](../../../condition/slowed.md), your [speed](../../../rule/character/speed.md) is reduced to 3 instead of 2."></template>
+<template class="sc-src" data-fmt="md" data-src="Giving up is for other people. You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made using the &#91;Endurance](../../../skill/exploration/endurance.md) skill. Additionally, when you are &#91;slowed](../../../condition/slowed.md), your &#91;speed](../../../rule/character/speed.md) is reduced to 3 instead of 2."></template>

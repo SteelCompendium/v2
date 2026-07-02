@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../stormwight-kits/kit-features.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../boren/growing-ferocity.md) feature."></template>
+<template class="sc-src" data-fmt="md" data-src="You can use and gain the benefits of a stormwight kit (see &#91;Stormwight Kits](../stormwight-kits/kit-features.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your &#91;Growing Ferocity](../boren/growing-ferocity.md) feature."></template>

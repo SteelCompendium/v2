@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made [slowed](../../../condition/slowed.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made &#91;slowed](../../../condition/slowed.md)."></template>

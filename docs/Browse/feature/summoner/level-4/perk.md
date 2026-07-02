@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain any one [perk](perk.md) of your choice. See Perks in Draw Steel: Heroes for more information."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain any one &#91;perk](perk.md) of your choice. See Perks in Draw Steel: Heroes for more information."></template>

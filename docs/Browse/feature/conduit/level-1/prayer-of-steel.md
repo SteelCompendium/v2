@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and this [bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;Stamina](../../../rule/health/stamina.md), and this &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;stability](../../../rule/character/stability.md)."></template>

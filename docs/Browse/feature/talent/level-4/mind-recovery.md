@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you spend a [Recovery](../../../rule/health/recoveries.md) to regain [Stamina](../../../rule/health/stamina.md) while strained, you can forgo the [Stamina](../../../rule/health/stamina.md) and gain 3 clarity instead.&#10;&#10;Additionally, the first time each [combat round](../../../rule/combat/combat-round.md) that a creature is [force moved](../../../movement/forced-movement.md), you gain 2 clarity instead of 1."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you spend a &#91;Recovery](../../../rule/health/recoveries.md) to regain &#91;Stamina](../../../rule/health/stamina.md) while strained, you can forgo the &#91;Stamina](../../../rule/health/stamina.md) and gain 3 clarity instead.&#10;&#10;Additionally, the first time each &#91;combat round](../../../rule/combat/combat-round.md) that a creature is &#91;force moved](../../../movement/forced-movement.md), you gain 2 clarity instead of 1."></template>

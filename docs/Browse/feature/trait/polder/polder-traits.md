@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="[Polder](../../../ancestry/polder.md) heroes have access to the following traits."></template>
+<template class="sc-src" data-fmt="md" data-src="&#91;Polder](../../../ancestry/polder.md) heroes have access to the following traits."></template>

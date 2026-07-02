@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The wolf can move at full speed while they have a creature [grabbed](../../../../../condition/grabbed.md), no matter the [grabbed](../../../../../condition/grabbed.md) creature&#39;s size."></template>
+<template class="sc-src" data-fmt="md" data-src="The wolf can move at full speed while they have a creature &#91;grabbed](../../../../../condition/grabbed.md), no matter the &#91;grabbed](../../../../../condition/grabbed.md) creature&#39;s size."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can maintain two performances at a time using your [Routines](../level-1/routines.md) feature."></template>
+<template class="sc-src" data-fmt="md" data-src="You can maintain two performances at a time using your &#91;Routines](../level-1/routines.md) feature."></template>

@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The magic in your blood makes it difficult for others to move you. You have a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../rule/character/stability.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="The magic in your blood makes it difficult for others to move you. You have a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;stability](../../../rule/character/stability.md)."></template>

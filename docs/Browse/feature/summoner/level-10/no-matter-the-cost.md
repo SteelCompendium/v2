@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you sacrifice minions, you now reduce the cost of a [heroic ability](../../../rule/general/heroic-ability.md) or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you sacrifice minions, you now reduce the cost of a &#91;heroic ability](../../../rule/general/heroic-ability.md) or minion by the same amount (to a minimum of 1) instead of only reducing the cost by 1."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever a creature within [distance](../../../rule/combat/distance.md) of your [Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a [power roll](../../../rule/dice/power-roll.md), you can spend 1 drama as a free [triggered action](../../../rule/combat/triggered-action.md) to use [Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever a creature within &#91;distance](../../../rule/combat/distance.md) of your &#91;Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md) ability makes a &#91;power roll](../../../rule/dice/power-roll.md), you can spend 1 drama as a free &#91;triggered action](../../../rule/combat/triggered-action.md) to use &#91;Dramatic Monologue](../../ability/troubadour/level-1/dramatic-monologue.md), targeting only one creature."></template>

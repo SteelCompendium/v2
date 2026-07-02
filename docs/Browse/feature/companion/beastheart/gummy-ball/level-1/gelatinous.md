@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The ball can occupy another creature&#39;s space. While occupying a creature&#39;s space, the ball has line of effect to that creature. If the creature completely fits within the ball&#39;s space, the creature has line of effect only to the ball and creatures outside the ball don&#39;t have line of effect to the creature. The ball&#39;s space is [difficult terrain](../../../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="The ball can occupy another creature&#39;s space. While occupying a creature&#39;s space, the ball has line of effect to that creature. If the creature completely fits within the ball&#39;s space, the creature has line of effect only to the ball and creatures outside the ball don&#39;t have line of effect to the creature. The ball&#39;s space is &#91;difficult terrain](../../../../../movement/difficult-terrain.md)."></template>

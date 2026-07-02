@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../../rule/character/size.md) as one [size](../../../rule/character/size.md) smaller than it is."></template>
+<template class="sc-src" data-fmt="md" data-src="Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your &#91;size](../../../rule/character/size.md) as one &#91;size](../../../rule/character/size.md) smaller than it is."></template>

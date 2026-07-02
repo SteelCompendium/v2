@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While you have 5 or more [Victories](../../../rule/resource/victories.md), you can [fly](../../../movement/fly.md). If you can already [fly](../../../movement/fly.md), you have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) while [flying](../../../movement/fly.md) instead."></template>
+<template class="sc-src" data-fmt="md" data-src="While you have 5 or more &#91;Victories](../../../rule/resource/victories.md), you can &#91;fly](../../../movement/fly.md). If you can already &#91;fly](../../../movement/fly.md), you have a +2 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../rule/character/speed.md) while &#91;flying](../../../movement/fly.md) instead."></template>

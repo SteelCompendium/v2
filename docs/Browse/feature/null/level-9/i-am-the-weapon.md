@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Stamina](../../../rule/health/stamina.md) increases by 21 and you can&#39;t be made [bleeding](../../../condition/bleeding.md) even while [dying](../../../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use [Intuition](../../../rule/character/intuition.md) instead of another [characteristic](../../../rule/character/characteristic.md) when resisting [potencies](../../../rule/character/potency.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Stamina](../../../rule/health/stamina.md) increases by 21 and you can&#39;t be made &#91;bleeding](../../../condition/bleeding.md) even while &#91;dying](../../../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use &#91;Intuition](../../../rule/character/intuition.md) instead of another &#91;characteristic](../../../rule/character/characteristic.md) when resisting &#91;potencies](../../../rule/character/potency.md)."></template>

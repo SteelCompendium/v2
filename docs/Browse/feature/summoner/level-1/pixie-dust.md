@@ -24,4 +24,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Increase your number of [Recoveries](../../../rule/health/recoveries.md) by 2.&#10;&#10;Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a [Recovery](../../../rule/health/recoveries.md) to give [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to twice your [Reason](../../../rule/character/reason.md) score to each non-minion ally [adjacent](../../../rule/combat/adjacent.md) to the minion when they died."></template>
+<template class="sc-src" data-fmt="md" data-src="Increase your number of &#91;Recoveries](../../../rule/health/recoveries.md) by 2.&#10;&#10;Whenever one of your fey minions dies within your Summoner&#39;s Range, you can spend a &#91;Recovery](../../../rule/health/recoveries.md) to give &#91;temporary Stamina](../../../rule/health/temporary-stamina.md) equal to twice your &#91;Reason](../../../rule/character/reason.md) score to each non-minion ally &#91;adjacent](../../../rule/combat/adjacent.md) to the minion when they died."></template>

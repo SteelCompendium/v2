@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are [difficult terrain](../../../../../movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is [teleported](../../../../../movement/teleport.md) to the last unoccupied space they previously occupied."></template>
+<template class="sc-src" data-fmt="md" data-src="While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are &#91;difficult terrain](../../../../../movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is &#91;teleported](../../../../../movement/teleport.md) to the last unoccupied space they previously occupied."></template>

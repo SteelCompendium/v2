@@ -29,4 +29,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.&#10;&#10;## 2nd-Level Wild Nature Features&#10;&#10;| Wild Nature | Feature |&#10;| ---- | ---- |&#10;| Guardian | [Watchdog](watchdog.md) |&#10;| Prowler |  [Supersniffer](supersniffer.md) |&#10;| Punisher | [This One’s Yours](this-ones-yours.md) |&#10;| Spark | [Stormheart](stormheart.md) |"></template>
+<template class="sc-src" data-fmt="md" data-src="Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.&#10;&#10;## 2nd-Level Wild Nature Features&#10;&#10;| Wild Nature | Feature |&#10;| ---- | ---- |&#10;| Guardian | &#91;Watchdog](watchdog.md) |&#10;| Prowler |  &#91;Supersniffer](supersniffer.md) |&#10;| Punisher | &#91;This One’s Yours](this-ones-yours.md) |&#10;| Spark | &#91;Stormheart](stormheart.md) |"></template>

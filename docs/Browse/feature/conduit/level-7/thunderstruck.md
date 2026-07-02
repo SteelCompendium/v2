@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 &#91;surge](../../../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the &#91;forced movement](../../../movement/forced-movement.md) &#91;distance](../../../rule/combat/distance.md) gains a &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your &#91;Intuition](../../../rule/character/intuition.md) score."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you willingly move, you can [teleport](../../../movement/teleport.md). When you [teleport](../../../movement/teleport.md) this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../level-2/burning-ash.md) and [Trail of Cinders](../level-5/trail-of-cinders.md) features."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you willingly move, you can &#91;teleport](../../../movement/teleport.md). When you &#91;teleport](../../../movement/teleport.md) this way, it counts as using a shadow ability for the purpose of using your &#91;Burning Ash](../level-2/burning-ash.md) and &#91;Trail of Cinders](../level-5/trail-of-cinders.md) features."></template>

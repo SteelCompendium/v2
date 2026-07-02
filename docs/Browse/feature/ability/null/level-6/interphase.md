@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You slip into a faster timestream to act more quickly.*&#10;&#10;| **Psionic** | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You can use up to three [signature abilities](../../../../rule/combat/signature-ability.md), each of which gains an [edge](../../../../rule/dice/edge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You slip into a faster timestream to act more quickly.*&#10;&#10;| **Psionic** | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You can use up to three &#91;signature abilities](../../../../rule/combat/signature-ability.md), each of which gains an &#91;edge](../../../../rule/dice/edge.md)."></template>

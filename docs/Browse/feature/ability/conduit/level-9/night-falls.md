@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You summon darkness that thwarts only your foes.*&#10;&#10;| **Area, Magic, [Ranged](../../../../rule/combat/ranged.md)** |  **Main action** |&#10;|-------------------------|-----------------:|&#10;| **📏 5 [cube](../../../../rule/combat/cube.md) within 10** |   **🎯 Special** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can."></template>
+<template class="sc-src" data-fmt="md" data-src="*You summon darkness that thwarts only your foes.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |  **Main action** |&#10;|-------------------------|-----------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** |   **🎯 Special** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can."></template>

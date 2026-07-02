@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You wear no armor and wield only your unarmed [strikes](../../../rule/combat/strike.md)—which become devastating natural weapons as your ferocity grows."></template>
+<template class="sc-src" data-fmt="md" data-src="You wear no armor and wield only your unarmed &#91;strikes](../../../rule/combat/strike.md)—which become devastating natural weapons as your ferocity grows."></template>

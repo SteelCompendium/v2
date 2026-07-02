@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The gods send divine favor to you and your allies. While you are not [dying](../../../rule/health/dying.md), enemies take a [bane](../../../rule/dice/bane.md) on [strikes](../../../rule/combat/strike.md) against you or any ally within 3 squares of you."></template>
+<template class="sc-src" data-fmt="md" data-src="The gods send divine favor to you and your allies. While you are not &#91;dying](../../../rule/health/dying.md), enemies take a &#91;bane](../../../rule/dice/bane.md) on &#91;strikes](../../../rule/combat/strike.md) against you or any ally within 3 squares of you."></template>

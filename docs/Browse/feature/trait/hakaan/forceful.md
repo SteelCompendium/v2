@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you [force move](../../../movement/forced-movement.md) a creature or object, the [forced movement](../../../movement/forced-movement.md) [distance](../../../rule/combat/distance.md) gains a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you &#91;force move](../../../movement/forced-movement.md) a creature or object, the &#91;forced movement](../../../movement/forced-movement.md) &#91;distance](../../../rule/combat/distance.md) gains a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>

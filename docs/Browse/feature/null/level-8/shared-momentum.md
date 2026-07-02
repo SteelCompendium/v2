@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you take the [Disengage](../../common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../level-1/null-field.md) ability can also take the [Disengage](../../common/move-actions/disengage.md) move action as a free [triggered action](../../../rule/combat/triggered-action.md), using your [distance](../../../rule/combat/distance.md) for that move action."></template>
+<template class="sc-src" data-fmt="md" data-src="When you take the &#91;Disengage](../../common/move-actions/disengage.md) move action, one ally in the area of your &#91;Null Field](../level-1/null-field.md) ability can also take the &#91;Disengage](../../common/move-actions/disengage.md) move action as a free &#91;triggered action](../../../rule/combat/triggered-action.md), using your &#91;distance](../../../rule/combat/distance.md) for that move action."></template>

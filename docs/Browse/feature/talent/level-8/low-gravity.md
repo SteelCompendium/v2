@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your mind can carry your body through tough times. You ignore [difficult terrain](../../../movement/difficult-terrain.md) and don&#39;t need to spend additional movement [while prone](../../../condition/prone.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your mind can carry your body through tough times. You ignore &#91;difficult terrain](../../../movement/difficult-terrain.md) and don&#39;t need to spend additional movement &#91;while prone](../../../condition/prone.md)."></template>

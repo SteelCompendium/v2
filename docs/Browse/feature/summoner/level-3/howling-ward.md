@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You create a 1-[aura](../../../rule/combat/aura.md) vortex of slicing magic around you when you enter combat. An enemy that starts their [turn](../../../rule/combat/turn.md) [adjacent](../../../rule/combat/adjacent.md) to you takes [damage](../../../rule/damage/damage.md) equal to your [Reason](../../../rule/character/reason.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You create a 1-&#91;aura](../../../rule/combat/aura.md) vortex of slicing magic around you when you enter combat. An enemy that starts their &#91;turn](../../../rule/combat/turn.md) &#91;adjacent](../../../rule/combat/adjacent.md) to you takes &#91;damage](../../../rule/damage/damage.md) equal to your &#91;Reason](../../../rule/character/reason.md)."></template>

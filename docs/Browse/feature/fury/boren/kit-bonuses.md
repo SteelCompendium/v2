@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="- **[Stamina](../../../rule/health/stamina.md) [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../../rule/general/echelon.md)&#10;- **[Stability](../../../rule/character/stability.md) [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +2&#10;- **[Melee](../../../rule/combat/melee.md) Damage [Bonus](../../../rule/dice/bonuses-and-penalties.md):** +0/+0/+4"></template>
+<template class="sc-src" data-fmt="md" data-src="- **&#91;Stamina](../../../rule/health/stamina.md) &#91;Bonus](../../../rule/dice/bonuses-and-penalties.md):** +9 per &#91;echelon](../../../rule/general/echelon.md)&#10;- **&#91;Stability](../../../rule/character/stability.md) &#91;Bonus](../../../rule/dice/bonuses-and-penalties.md):** +2&#10;- **&#91;Melee](../../../rule/combat/melee.md) Damage &#91;Bonus](../../../rule/dice/bonuses-and-penalties.md):** +0/+0/+4"></template>

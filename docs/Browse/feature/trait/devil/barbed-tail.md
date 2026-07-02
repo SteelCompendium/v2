@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your pointy tail allows you to punctuate all your actions. Once per round when you make a [melee](../../../rule/combat/melee.md) [strike](../../../rule/combat/strike.md), you can deal extra damage with the [strike](../../../rule/combat/strike.md) equal to your highest [characteristic](../../../rule/character/characteristic.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Your pointy tail allows you to punctuate all your actions. Once per round when you make a &#91;melee](../../../rule/combat/melee.md) &#91;strike](../../../rule/combat/strike.md), you can deal extra damage with the &#91;strike](../../../rule/combat/strike.md) equal to your highest &#91;characteristic](../../../rule/character/characteristic.md) score."></template>

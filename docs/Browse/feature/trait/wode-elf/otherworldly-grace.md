@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your elf body and mind can&#39;t be contained for long. Whenever you make a [saving throw](../../../rule/general/saving-throw.md), you succeed on a roll of 5 or higher."></template>
+<template class="sc-src" data-fmt="md" data-src="Your elf body and mind can&#39;t be contained for long. Whenever you make a &#91;saving throw](../../../rule/general/saving-throw.md), you succeed on a roll of 5 or higher."></template>

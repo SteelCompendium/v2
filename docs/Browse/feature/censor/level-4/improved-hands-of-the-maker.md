@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you use your [Hands of the Maker](../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is [size](../../../rule/character/size.md) 2 or smaller."></template>
+<template class="sc-src" data-fmt="md" data-src="When you use your &#91;Hands of the Maker](../../ability/censor/level-1/hands-of-the-maker.md) ability, you can create a mundane object that is &#91;size](../../../rule/character/size.md) 2 or smaller."></template>

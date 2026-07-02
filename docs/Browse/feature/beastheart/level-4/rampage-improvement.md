@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Rampage](../level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Rampage](../level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Once on each of your [turns](../../../rule/combat/turn.md), you can use a [free maneuver](../../../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../../../rule/health/recoveries.md) to gain [temporary Stamina](../../../rule/health/temporary-stamina.md) equal to their [recovery value](../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Once on each of your &#91;turns](../../../rule/combat/turn.md), you can use a &#91;free maneuver](../../../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a &#91;Recovery](../../../rule/health/recoveries.md) to gain &#91;temporary Stamina](../../../rule/health/temporary-stamina.md) equal to their &#91;recovery value](../../../rule/health/recoveries.md)."></template>

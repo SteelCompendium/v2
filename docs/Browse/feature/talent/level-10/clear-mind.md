@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that a creature is [force moved](../../../movement/forced-movement.md), you gain 3 clarity instead of 2."></template>
+<template class="sc-src" data-fmt="md" data-src="The first time each &#91;combat round](../../../rule/combat/combat-round.md) that a creature is &#91;force moved](../../../movement/forced-movement.md), you gain 3 clarity instead of 2."></template>

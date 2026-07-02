@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any [respite](../../../rule/resource/respite.md), you can take an additional [respite](../../../rule/resource/respite.md) activity."></template>
+<template class="sc-src" data-fmt="md" data-src="As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any &#91;respite](../../../rule/resource/respite.md), you can take an additional &#91;respite](../../../rule/resource/respite.md) activity."></template>

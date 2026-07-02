@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as [cover](../../../rule/combat/cover.md) for the purpose of hiding."></template>
+<template class="sc-src" data-fmt="md" data-src="You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as &#91;cover](../../../rule/combat/cover.md) for the purpose of hiding."></template>

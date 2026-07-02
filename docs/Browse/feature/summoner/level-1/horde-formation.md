@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your maximum number of minions increases by 4 and you summon up to four of your [signature minions](minions.md) at the start of each of your turns instead of three."></template>
+<template class="sc-src" data-fmt="md" data-src="Your maximum number of minions increases by 4 and you summon up to four of your &#91;signature minions](minions.md) at the start of each of your turns instead of three."></template>

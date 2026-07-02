@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have cold immunity equal to twice your [Intuition](../../../rule/character/intuition.md) score. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full [speed](../../../rule/character/speed.md) while moving."></template>
+<template class="sc-src" data-fmt="md" data-src="You have cold immunity equal to twice your &#91;Intuition](../../../rule/character/intuition.md) score. Additionally, you ignore &#91;difficult terrain](../../../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full &#91;speed](../../../rule/character/speed.md) while moving."></template>

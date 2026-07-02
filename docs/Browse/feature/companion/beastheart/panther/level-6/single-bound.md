@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the panther is rampaging, you can [jump](../../../../../movement/jump.md) up to a number of squares equal to your speed as a free maneuver once on each of your turns."></template>
+<template class="sc-src" data-fmt="md" data-src="While the panther is rampaging, you can &#91;jump](../../../../../movement/jump.md) up to a number of squares equal to your speed as a free maneuver once on each of your turns."></template>

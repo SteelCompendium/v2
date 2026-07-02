@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="A light step serves you well when [speed](../../../rule/character/speed.md) is of the essence. You ignore the effects of [difficult terrain](../../../movement/difficult-terrain.md) and can move at full [speed](../../../rule/character/speed.md) while sneaking."></template>
+<template class="sc-src" data-fmt="md" data-src="A light step serves you well when &#91;speed](../../../rule/character/speed.md) is of the essence. You ignore the effects of &#91;difficult terrain](../../../movement/difficult-terrain.md) and can move at full &#91;speed](../../../rule/character/speed.md) while sneaking."></template>

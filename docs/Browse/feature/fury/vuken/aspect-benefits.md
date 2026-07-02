@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you use the [Knockback](../../common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../../common/maneuvers/aid-attack.md) maneuver as a free [triggered action](../../../rule/combat/triggered-action.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you use the &#91;Knockback](../../common/maneuvers/knockback.md) maneuver, you can then use the &#91;Aid Attack](../../common/maneuvers/aid-attack.md) maneuver as a free &#91;triggered action](../../../rule/combat/triggered-action.md)."></template>

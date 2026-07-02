@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a [Recovery](../../../rule/health/recoveries.md), you can also spend a [Recovery](../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a &#91;Recovery](../../../rule/health/recoveries.md), you can also spend a &#91;Recovery](../../../rule/health/recoveries.md)."></template>

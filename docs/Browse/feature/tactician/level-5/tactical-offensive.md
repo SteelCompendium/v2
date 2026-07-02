@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you use the [Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../../rule/general/heroic-ability.md) with the [Melee](../../../rule/combat/melee.md) and Strike keywords instead of a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="When you use the &#91;Charge](../../common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or &#91;heroic ability](../../../rule/general/heroic-ability.md) with the &#91;Melee](../../../rule/combat/melee.md) and Strike keywords instead of a &#91;melee](../../../rule/combat/melee.md) &#91;free strike](../../common/main-actions/free-strike.md)."></template>

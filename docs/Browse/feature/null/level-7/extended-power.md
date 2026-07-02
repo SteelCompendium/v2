@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If the ability is [ranged](../../../rule/combat/ranged.md), the [distance](../../../rule/combat/distance.md) gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../rule/character/intuition.md) score. If the ability is [melee](../../../rule/combat/melee.md), the [distance](../../../rule/combat/distance.md) gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="If the ability is &#91;ranged](../../../rule/combat/ranged.md), the &#91;distance](../../../rule/combat/distance.md) gains a &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) equal to your &#91;Intuition](../../../rule/character/intuition.md) score. If the ability is &#91;melee](../../../rule/combat/melee.md), the &#91;distance](../../../rule/combat/distance.md) gains a +2 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md)."></template>

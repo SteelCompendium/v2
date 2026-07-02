@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your stature reflects your giant forebears. Your [size](../../../rule/character/size.md) is 1L."></template>
+<template class="sc-src" data-fmt="md" data-src="Your stature reflects your giant forebears. Your &#91;size](../../../rule/character/size.md) is 1L."></template>

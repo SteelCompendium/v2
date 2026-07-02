@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have a +10 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of your [ranged](../../../rule/combat/ranged.md) abilities. Additionally, you don&#39;t need [line of effect](../../../rule/combat/line-of-effect.md) to a target of a [ranged](../../../rule/combat/ranged.md) ability if the target is a creature capable of thought who you have previously had [line of effect](../../../rule/combat/line-of-effect.md) to."></template>
+<template class="sc-src" data-fmt="md" data-src="You have a +10 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to the &#91;distance](../../../rule/combat/distance.md) of your &#91;ranged](../../../rule/combat/ranged.md) abilities. Additionally, you don&#39;t need &#91;line of effect](../../../rule/combat/line-of-effect.md) to a target of a &#91;ranged](../../../rule/combat/ranged.md) ability if the target is a creature capable of thought who you have previously had &#91;line of effect](../../../rule/combat/line-of-effect.md) to."></template>

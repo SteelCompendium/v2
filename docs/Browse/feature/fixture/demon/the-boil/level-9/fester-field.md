@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each non-abyssal enemy that starts their [turn](../../../../../rule/combat/turn.md) within 3 squares of the boil takes 5 corruption [damage](../../../../../rule/damage/damage.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Each non-abyssal enemy that starts their &#91;turn](../../../../../rule/combat/turn.md) within 3 squares of the boil takes 5 corruption &#91;damage](../../../../../rule/damage/damage.md)."></template>

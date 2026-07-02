@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While you are in your crow form, your [size](../../../rule/character/size.md) is 1T and you can [fly](../../../movement/fly.md). You can use the [Hide](../../common/maneuvers/hide.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), and you can use your allies as [cover](../../../rule/combat/cover.md) when you hide. You can&#39;t use any abilities while in this form except for [Aspect of the Wild](../../ability/fury/stormwight-kits/aspect-of-the-wild.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="While you are in your crow form, your &#91;size](../../../rule/character/size.md) is 1T and you can &#91;fly](../../../movement/fly.md). You can use the &#91;Hide](../../common/maneuvers/hide.md) maneuver as a &#91;free maneuver](../../../rule/combat/free-maneuver.md), and you can use your allies as &#91;cover](../../../rule/combat/cover.md) when you hide. You can&#39;t use any abilities while in this form except for &#91;Aspect of the Wild](../../ability/fury/stormwight-kits/aspect-of-the-wild.md)."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The area provides [concealment](../../../rule/combat/concealment.md) for you and your allies."></template>
+<template class="sc-src" data-fmt="md" data-src="The area provides &#91;concealment](../../../rule/combat/concealment.md) for you and your allies."></template>

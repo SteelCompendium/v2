@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your mind allows you to maintain your focus in any situation. You can&#39;t be made [dazed](../../../condition/dazed.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your mind allows you to maintain your focus in any situation. You can&#39;t be made &#91;dazed](../../../condition/dazed.md)."></template>

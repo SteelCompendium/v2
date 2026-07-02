@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be [frightened](../../../../../condition/frightened.md) until the end of the target&#39;s next turn."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be &#91;frightened](../../../../../condition/frightened.md) until the end of the target&#39;s next turn."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within [distance](../../../rule/combat/distance.md) of your [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability regains [Stamina](../../../rule/health/stamina.md), they regain additional [Stamina](../../../rule/health/stamina.md) equal to your [Presence](../../../rule/character/presence.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within &#91;distance](../../../rule/combat/distance.md) of your &#91;My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability regains &#91;Stamina](../../../rule/health/stamina.md), they regain additional &#91;Stamina](../../../rule/health/stamina.md) equal to your &#91;Presence](../../../rule/character/presence.md) score."></template>

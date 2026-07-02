@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Discipline Mastery](../level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline."></template>

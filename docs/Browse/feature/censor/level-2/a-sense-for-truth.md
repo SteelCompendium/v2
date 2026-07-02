@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You are trained in secret techniques from your order that allow you to discern the truth with [supernatural](../../../rule/general/supernatural.md) precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to detect lies or hidden motives."></template>
+<template class="sc-src" data-fmt="md" data-src="You are trained in secret techniques from your order that allow you to discern the truth with &#91;supernatural](../../../rule/general/supernatural.md) precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to detect lies or hidden motives."></template>

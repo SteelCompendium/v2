@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Reason](../../../rule/character/reason.md) and [Presence](../../../rule/character/presence.md) scores each increase to 5."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Reason](../../../rule/character/reason.md) and &#91;Presence](../../../rule/character/presence.md) scores each increase to 5."></template>

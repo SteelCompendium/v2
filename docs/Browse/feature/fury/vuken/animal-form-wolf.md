@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While you are in your wolf form, your [size](../../../rule/character/size.md) is 1L, you have a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md), and you ignore [difficult terrain](../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="While you are in your wolf form, your &#91;size](../../../rule/character/size.md) is 1L, you have a +2 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../rule/character/speed.md), and you ignore &#91;difficult terrain](../../../movement/difficult-terrain.md)."></template>

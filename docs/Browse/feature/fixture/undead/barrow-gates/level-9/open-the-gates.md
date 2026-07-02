@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can use [Rise!](../../../../summoner/level-1/rise.md) as a [free triggered action](../../../../../rule/combat/triggered-action.md) each time an enemy dies within 3 squares of the gates while you have [line of effect](../../../../../rule/combat/line-of-effect.md) to the gates."></template>
+<template class="sc-src" data-fmt="md" data-src="You can use &#91;Rise!](../../../../summoner/level-1/rise.md) as a &#91;free triggered action](../../../../../rule/combat/triggered-action.md) each time an enemy dies within 3 squares of the gates while you have &#91;line of effect](../../../../../rule/combat/line-of-effect.md) to the gates."></template>

@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can push your body to move at incredible [speeds](../../../rule/character/speed.md). Your [speed](../../../rule/character/speed.md) is 7."></template>
+<template class="sc-src" data-fmt="md" data-src="You can push your body to move at incredible &#91;speeds](../../../rule/character/speed.md). Your &#91;speed](../../../rule/character/speed.md) is 7."></template>

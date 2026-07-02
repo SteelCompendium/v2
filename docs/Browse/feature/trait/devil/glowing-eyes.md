@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a [triggered action](../../../rule/combat/triggered-action.md) to deal that creature psychic damage equal to 1d10 + your level."></template>
+<template class="sc-src" data-fmt="md" data-src="Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a &#91;triggered action](../../../rule/combat/triggered-action.md) to deal that creature psychic damage equal to 1d10 + your level."></template>

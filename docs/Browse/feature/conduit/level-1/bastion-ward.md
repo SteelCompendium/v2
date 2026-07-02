@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your god grants you a holy countenance that protects you at all times. You gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../rule/general/saving-throw.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your god grants you a holy countenance that protects you at all times. You gain a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;saving throws](../../../rule/general/saving-throw.md)."></template>

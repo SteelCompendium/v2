@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you obtain a success on a [test](../../../rule/test/test.md) using a skill from the [interpersonal skill group](../../../skill/interpersonal/index.md) while interacting with an [NPC](../../../rule/general/npc.md), you can ask them a question using your [Telepathic Speech](../level-1/telepathic-speech.md) feature. The [NPC](../../../rule/general/npc.md) must answer the question truthfully to the best of their ability."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you obtain a success on a &#91;test](../../../rule/test/test.md) using a skill from the &#91;interpersonal skill group](../../../skill/interpersonal/index.md) while interacting with an &#91;NPC](../../../rule/general/npc.md), you can ask them a question using your &#91;Telepathic Speech](../level-1/telepathic-speech.md) feature. The &#91;NPC](../../../rule/general/npc.md) must answer the question truthfully to the best of their ability."></template>

@@ -20,4 +20,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="When you or an ally makes a ranged [strike](../../../../../rule/combat/strike.md) that draws a line through the crystal, the user gains a [surge](../../../../../rule/resource/surge.md) which they can use on the ability."></template>
+<template class="sc-src" data-fmt="md" data-src="When you or an ally makes a ranged &#91;strike](../../../../../rule/combat/strike.md) that draws a line through the crystal, the user gains a &#91;surge](../../../../../rule/resource/surge.md) which they can use on the ability."></template>

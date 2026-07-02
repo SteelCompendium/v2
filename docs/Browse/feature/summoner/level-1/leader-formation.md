@@ -23,4 +23,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You aren&#39;t affected by excess [damage](../../../rule/damage/damage.md) after all minions in a squad are dead. If your minion is within your Summoner&#39;s Range when they take [damage](../../../rule/damage/damage.md), you can choose to take damage in place of the minion.&#10;&#10;Additionally, you can use light armor [treasures](../../../rule/treasure/leveled-treasure.md) and light weapon [treasures](../../../rule/treasure/leveled-treasure.md) while you don&#39;t have a kit."></template>
+<template class="sc-src" data-fmt="md" data-src="You aren&#39;t affected by excess &#91;damage](../../../rule/damage/damage.md) after all minions in a squad are dead. If your minion is within your Summoner&#39;s Range when they take &#91;damage](../../../rule/damage/damage.md), you can choose to take damage in place of the minion.&#10;&#10;Additionally, you can use light armor &#91;treasures](../../../rule/treasure/leveled-treasure.md) and light weapon &#91;treasures](../../../rule/treasure/leveled-treasure.md) while you don&#39;t have a kit."></template>

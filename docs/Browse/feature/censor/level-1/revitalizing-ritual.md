@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each time you finish a [respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../../../rule/dice/bonuses-and-penalties.md) to their [recovery value](../../../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../../rule/resource/respite.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Each time you finish a &#91;respite](../../../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a &#91;respite](../../../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to their &#91;recovery value](../../../rule/health/recoveries.md) equal to your level that lasts until you finish another &#91;respite](../../../rule/resource/respite.md)."></template>

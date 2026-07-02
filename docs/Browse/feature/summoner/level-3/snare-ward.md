@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals [damage](../../../rule/damage/damage.md) to you, you can use a [free triggered action](../../../rule/combat/triggered-action.md) to pull that creature toward one of your [minions](../level-1/minions.md) within your Summoner&#39;s Range a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever an &#91;adjacent](../../../rule/combat/adjacent.md) creature deals &#91;damage](../../../rule/damage/damage.md) to you, you can use a &#91;free triggered action](../../../rule/combat/triggered-action.md) to pull that creature toward one of your &#91;minions](../level-1/minions.md) within your Summoner&#39;s Range a number of squares equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

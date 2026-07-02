@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 2 essence instead of 1."></template>
+<template class="sc-src" data-fmt="md" data-src="The first time each &#91;combat round](../../../rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 2 essence instead of 1."></template>

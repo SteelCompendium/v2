@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the [project source](../../../rule/downtime/project-source.md) for any research or [crafting project](../../../rule/downtime/crafting-project.md) (see Chapter 12: [Downtime Projects](../../../../Read/heroes/downtime-projects.md))."></template>
+<template class="sc-src" data-fmt="md" data-src="You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the &#91;project source](../../../rule/downtime/project-source.md) for any research or &#91;crafting project](../../../rule/downtime/crafting-project.md) (see Chapter 12: &#91;Downtime Projects](../../../../Read/heroes/downtime-projects.md))."></template>

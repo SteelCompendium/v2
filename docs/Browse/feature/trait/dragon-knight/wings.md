@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You possess wings powerful enough to take you airborne. While using your wings to [fly](../../../movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../../../rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../../../movement/fly.md) at 3rd level or lower, you have [damage weakness](../../../rule/damage/damage-weakness.md) 5."></template>
+<template class="sc-src" data-fmt="md" data-src="You possess wings powerful enough to take you airborne. While using your wings to &#91;fly](../../../movement/fly.md), you can stay aloft for a number of rounds equal to your &#91;Might](../../../rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to &#91;fly](../../../movement/fly.md) at 3rd level or lower, you have &#91;damage weakness](../../../rule/damage/damage-weakness.md) 5."></template>

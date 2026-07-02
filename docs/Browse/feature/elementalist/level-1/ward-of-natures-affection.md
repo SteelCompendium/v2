@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The green energy writhing within your body allows you to produce powerful vines when you&#39;re in danger. Whenever a creature within a number of squares equal to your [Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to [slide](../../../movement/forced-movement.md) that creature up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="The green energy writhing within your body allows you to produce powerful vines when you&#39;re in danger. Whenever a creature within a number of squares equal to your &#91;Reason](../../../rule/character/reason.md) score deals damage to you, you can use a free &#91;triggered action](../../../rule/combat/triggered-action.md) to &#91;slide](../../../movement/forced-movement.md) that creature up to a number of squares equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

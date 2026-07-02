@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You know just where to cut your enemies. Whenever you make a [strike](../../../rule/combat/strike.md) that has no [bane](../../../rule/dice/bane.md) or double [bane](../../../rule/dice/bane.md), and that incorporates 1 or more [surges](../../../rule/resource/surge.md), you gain 1 additional [surge](../../../rule/resource/surge.md) that you can use only on that [strike](../../../rule/combat/strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You know just where to cut your enemies. Whenever you make a &#91;strike](../../../rule/combat/strike.md) that has no &#91;bane](../../../rule/dice/bane.md) or double &#91;bane](../../../rule/dice/bane.md), and that incorporates 1 or more &#91;surges](../../../rule/resource/surge.md), you gain 1 additional &#91;surge](../../../rule/resource/surge.md) that you can use only on that &#91;strike](../../../rule/combat/strike.md)."></template>

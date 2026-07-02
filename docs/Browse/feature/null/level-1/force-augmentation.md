@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your damage-dealing psionic abilities gain a +1 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your damage-dealing psionic abilities gain a +1 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;rolled damage](../../../rule/damage/rolled-damage.md)."></template>

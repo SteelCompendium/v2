@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can increase the number of rounds in a [montage test](../../../rule/test/montage-test.md) by 1 if the [test](../../../rule/test/test.md) would end before the heroes hit the success limit."></template>
+<template class="sc-src" data-fmt="md" data-src="You can increase the number of rounds in a &#91;montage test](../../../rule/test/montage-test.md) by 1 if the &#91;test](../../../rule/test/test.md) would end before the heroes hit the success limit."></template>

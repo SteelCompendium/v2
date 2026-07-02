@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*They have no idea what the college taught you.*&#10;&#10;| **Magic, [Melee](../../../../rule/combat/melee.md), [Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice."></template>
+<template class="sc-src" data-fmt="md" data-src="*They have no idea what the college taught you.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) twice."></template>

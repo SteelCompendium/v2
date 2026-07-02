@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your ordered mind can&#39;t be caught off guard. You can&#39;t be made [surprised](../../../rule/combat/surprised.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your ordered mind can&#39;t be caught off guard. You can&#39;t be made &#91;surprised](../../../rule/combat/surprised.md)."></template>

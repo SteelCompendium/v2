@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The tide begins to [turn](../../../../rule/combat/turn.md).*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The tide begins to &#91;turn](../../../../rule/combat/turn.md).*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is &#91;frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends)."></template>

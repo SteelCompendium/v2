@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If the ability has any [power roll](../../../rule/dice/power-roll.md), that roll gains an [edge](../../../rule/dice/edge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="If the ability has any &#91;power roll](../../../rule/dice/power-roll.md), that roll gains an &#91;edge](../../../rule/dice/edge.md)."></template>

@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A steely dagger from out of the blue knocks another weapon off course.*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md), Weapon** |   **Triggered** |&#10;|--------------------|----------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 5**    | **🎯 One ally** |&#10;&#10;**Trigger:** The target takes damage from another creature&#39;s ability while you are hidden.&#10;&#10;**Effect:** The target takes half the damage. You remain hidden."></template>
+<template class="sc-src" data-fmt="md" data-src="*A steely dagger from out of the blue knocks another weapon off course.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md), Weapon** |   **Triggered** |&#10;|--------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 5**    | **🎯 One ally** |&#10;&#10;**Trigger:** The target takes damage from another creature&#39;s ability while you are hidden.&#10;&#10;**Effect:** The target takes half the damage. You remain hidden."></template>

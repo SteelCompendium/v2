@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each kit from your [Field Arsenal](field-arsenal.md) feature grants you a [signature ability](../../../rule/combat/signature-ability.md). [Signature abilities](../../../rule/combat/signature-ability.md) can be used at will."></template>
+<template class="sc-src" data-fmt="md" data-src="Each kit from your &#91;Field Arsenal](field-arsenal.md) feature grants you a &#91;signature ability](../../../rule/combat/signature-ability.md). &#91;Signature abilities](../../../rule/combat/signature-ability.md) can be used at will."></template>

@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your silicone body is low in density. Whenever you fall, you reduce the [distance](../../../rule/combat/distance.md) of the fall by 2 squares."></template>
+<template class="sc-src" data-fmt="md" data-src="Your silicone body is low in density. Whenever you fall, you reduce the &#91;distance](../../../rule/combat/distance.md) of the fall by 2 squares."></template>

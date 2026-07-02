@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The first time each [combat round](../../../rule/combat/combat-round.md) that an enemy in the area of your [Null Field](../level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1."></template>
+<template class="sc-src" data-fmt="md" data-src="The first time each &#91;combat round](../../../rule/combat/combat-round.md) that an enemy in the area of your &#91;Null Field](../level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1."></template>

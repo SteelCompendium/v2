@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The magic coursing through your veins makes you run faster in the heat of battle. The first time in any [combat round](../../../rule/combat/combat-round.md) that you take damage, you gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of the round."></template>
+<template class="sc-src" data-fmt="md" data-src="The magic coursing through your veins makes you run faster in the heat of battle. The first time in any &#91;combat round](../../../rule/combat/combat-round.md) that you take damage, you gain a +2 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../rule/character/speed.md) until the end of the round."></template>

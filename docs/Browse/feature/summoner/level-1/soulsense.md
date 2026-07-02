@@ -24,4 +24,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While you have [line of effect](../../../rule/combat/line-of-effect.md) to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.&#10;&#10;When you finish a [respite](../../../rule/resource/respite.md), you can always perceive the soul trails of each creature that took the [respite](../../../rule/resource/respite.md) with you until your next [respite](../../../rule/resource/respite.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="While you have &#91;line of effect](../../../rule/combat/line-of-effect.md) to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.&#10;&#10;When you finish a &#91;respite](../../../rule/resource/respite.md), you can always perceive the soul trails of each creature that took the &#91;respite](../../../rule/resource/respite.md) with you until your next &#91;respite](../../../rule/resource/respite.md)."></template>

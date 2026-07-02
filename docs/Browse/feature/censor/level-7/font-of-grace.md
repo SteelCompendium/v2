@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each time you use your [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same [turn](../../../rule/combat/turn.md). If you don&#39;t use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../../../rule/health/temporary-stamina.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Each time you use your &#91;My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same &#91;turn](../../../rule/combat/turn.md). If you don&#39;t use this wrath, it is lost. Additionally, the target of &#91;My Life for Yours](../../ability/censor/level-1/my-life-for-yours.md) gains 10 &#91;temporary Stamina](../../../rule/health/temporary-stamina.md)."></template>

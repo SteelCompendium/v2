@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever the panther takes the Advance move action or the Charge action, they can [jump](../../../../../movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever the panther takes the Advance move action or the Charge action, they can &#91;jump](../../../../../movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement."></template>

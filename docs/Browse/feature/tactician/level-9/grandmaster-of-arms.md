@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your expertise with weapons has grown to true mastery. Whenever you use a [signature ability](../../../rule/combat/signature-ability.md) from one of your equipped kits or make a [free strike](../../common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the [power roll](../../../rule/dice/power-roll.md). You can still roll to determine if you score a [critical hit](../../../rule/combat/critical-hit.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your expertise with weapons has grown to true mastery. Whenever you use a &#91;signature ability](../../../rule/combat/signature-ability.md) from one of your equipped kits or make a &#91;free strike](../../common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the &#91;power roll](../../../rule/dice/power-roll.md). You can still roll to determine if you score a &#91;critical hit](../../../rule/combat/critical-hit.md)."></template>

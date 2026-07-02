@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The gods reward your faith.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 [aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The gods reward your faith.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each target gains 1 &#91;surge](../../../../rule/resource/surge.md) at the end of each of your &#91;turns](../../../../rule/combat/turn.md)."></template>

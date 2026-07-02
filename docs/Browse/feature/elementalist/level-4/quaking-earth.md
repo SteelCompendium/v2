@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="At the end of each of your [turns](../../../rule/combat/turn.md), you can [push](../../../movement/forced-movement.md) each enemy in the area up to a number of squares equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="At the end of each of your &#91;turns](../../../rule/combat/turn.md), you can &#91;push](../../../movement/forced-movement.md) each enemy in the area up to a number of squares equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If you&#39;re not [surprised](../../../rule/combat/surprised.md) at the start of your first [turn](../../../rule/combat/turn.md) in combat, you gain an [edge](../../../rule/dice/edge.md) on [ability rolls](../../../rule/dice/ability-roll.md) and gain 2 [surges](../../../rule/resource/surge.md). If you are [surprised](../../../rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../../rule/combat/surprised.md) and gain the benefits of this feature."></template>
+<template class="sc-src" data-fmt="md" data-src="If you&#39;re not &#91;surprised](../../../rule/combat/surprised.md) at the start of your first &#91;turn](../../../rule/combat/turn.md) in combat, you gain an &#91;edge](../../../rule/dice/edge.md) on &#91;ability rolls](../../../rule/dice/ability-roll.md) and gain 2 &#91;surges](../../../rule/resource/surge.md). If you are &#91;surprised](../../../rule/combat/surprised.md), you can spend 3 discipline to no longer be &#91;surprised](../../../rule/combat/surprised.md) and gain the benefits of this feature."></template>

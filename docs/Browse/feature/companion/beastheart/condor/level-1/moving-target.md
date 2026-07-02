@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While the condor is [flying](../../../../../movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane."></template>
+<template class="sc-src" data-fmt="md" data-src="While the condor is &#91;flying](../../../../../movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane."></template>

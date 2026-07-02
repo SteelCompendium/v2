@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You gain an [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to hide and sneak. Additionally, you ignore [difficult terrain](../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You gain an &#91;edge](../../../rule/dice/edge.md) on &#91;tests](../../../rule/test/test.md) made to hide and sneak. Additionally, you ignore &#91;difficult terrain](../../../movement/difficult-terrain.md)."></template>

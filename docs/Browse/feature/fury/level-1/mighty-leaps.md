@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can&#39;t obtain lower than a tier 2 outcome on any [Might](../../../rule/character/might.md) [test](../../../rule/test/test.md) made to jump (see Movement Types in Chapter 10: [Combat](../../../../Read/heroes/combat.md))."></template>
+<template class="sc-src" data-fmt="md" data-src="You can&#39;t obtain lower than a tier 2 outcome on any &#91;Might](../../../rule/character/might.md) &#91;test](../../../rule/test/test.md) made to jump (see Movement Types in Chapter 10: &#91;Combat](../../../../Read/heroes/combat.md))."></template>

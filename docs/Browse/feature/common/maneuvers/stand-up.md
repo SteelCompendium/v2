@@ -19,4 +19,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="A creature can use the [Stand Up](stand-up.md) maneuver to stand up if they [are prone](../../../condition/prone.md), ending that [condition](../../../rule/combat/condition.md). Alternatively, they can use this maneuver to make a willing [adjacent](../../../rule/combat/adjacent.md) prone creature stand up."></template>
+<template class="sc-src" data-fmt="md" data-src="A creature can use the &#91;Stand Up](stand-up.md) maneuver to stand up if they &#91;are prone](../../../condition/prone.md), ending that &#91;condition](../../../rule/combat/condition.md). Alternatively, they can use this maneuver to make a willing &#91;adjacent](../../../rule/combat/adjacent.md) prone creature stand up."></template>

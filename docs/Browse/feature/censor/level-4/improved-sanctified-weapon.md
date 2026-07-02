@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The weapon improved by your [Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../rule/damage/rolled-damage.md) instead of +1."></template>
+<template class="sc-src" data-fmt="md" data-src="The weapon improved by your &#91;Sanctified Weapon](../level-1/sanctified-weapon.md) feature grants a +3 &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;rolled damage](../../../rule/damage/rolled-damage.md) instead of +1."></template>

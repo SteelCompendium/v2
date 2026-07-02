@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="While you have 5 or more [Victories](../../../rule/resource/victories.md), you can undertake an additional [respite](../../../rule/resource/respite.md) activity during a [respite](../../../rule/resource/respite.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="While you have 5 or more &#91;Victories](../../../rule/resource/victories.md), you can undertake an additional &#91;respite](../../../rule/resource/respite.md) activity during a &#91;respite](../../../rule/resource/respite.md)."></template>

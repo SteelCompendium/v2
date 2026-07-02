@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever a creature deals damage to you that leaves you [dying](../../../rule/health/dying.md), you can make a [free strike](../../common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../../rule/health/stamina.md) by your [strike](../../../rule/combat/strike.md), you can spend a [Recovery](../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever a creature deals damage to you that leaves you &#91;dying](../../../rule/health/dying.md), you can make a &#91;free strike](../../common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 &#91;Stamina](../../../rule/health/stamina.md) by your &#91;strike](../../../rule/combat/strike.md), you can spend a &#91;Recovery](../../../rule/health/recoveries.md)."></template>

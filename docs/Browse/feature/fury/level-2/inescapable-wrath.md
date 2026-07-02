@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You have a [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) equal to your [Agility](../../../rule/character/agility.md) score, and you ignore [difficult terrain](../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="You have a &#91;bonus](../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../rule/character/speed.md) equal to your &#91;Agility](../../../rule/character/agility.md) score, and you ignore &#91;difficult terrain](../../../movement/difficult-terrain.md)."></template>

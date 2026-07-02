@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If the ability deals [rolled damage](../../../rule/damage/rolled-damage.md), it deals extra damage equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="If the ability deals &#91;rolled damage](../../../rule/damage/rolled-damage.md), it deals extra damage equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

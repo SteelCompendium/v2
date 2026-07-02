@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You and any ally within 10 squares of you can move at full [speed](../../../rule/character/speed.md) while sneaking. Additionally, enemies within 10 squares of you take a [bane](../../../rule/dice/bane.md) on [tests](../../../rule/test/test.md) made to search for you or your allies while any of you are hidden."></template>
+<template class="sc-src" data-fmt="md" data-src="You and any ally within 10 squares of you can move at full &#91;speed](../../../rule/character/speed.md) while sneaking. Additionally, enemies within 10 squares of you take a &#91;bane](../../../rule/dice/bane.md) on &#91;tests](../../../rule/test/test.md) made to search for you or your allies while any of you are hidden."></template>

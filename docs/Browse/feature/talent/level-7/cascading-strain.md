@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within [distance](../../../rule/combat/distance.md) of your [Mind Spike](../../ability/talent/level-1/mind-spike.md) ability to take the same damage."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within &#91;distance](../../../rule/combat/distance.md) of your &#91;Mind Spike](../../ability/talent/level-1/mind-spike.md) ability to take the same damage."></template>

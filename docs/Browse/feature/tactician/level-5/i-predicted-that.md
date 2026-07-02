@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an [edge](../../../rule/dice/edge.md) on [Reason](../../../rule/character/reason.md) [tests](../../../rule/test/test.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="Your expertise in history and lore allows you and your allies to outthink rivals in the present day. You and any ally within 10 squares of you gain an &#91;edge](../../../rule/dice/edge.md) on &#91;Reason](../../../rule/character/reason.md) &#91;tests](../../../rule/test/test.md)."></template>

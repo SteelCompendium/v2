@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*&#34;Now you see us...&#34;*&#10;&#10;| **Area, Magic**  |                          **Maneuver** |&#10;|------------------|--------------------------------------:|&#10;| **📏 4 [burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*&#34;Now you see us...&#34;*&#10;&#10;| **Area, Magic**  |                          **Maneuver** |&#10;|------------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target is invisible until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>

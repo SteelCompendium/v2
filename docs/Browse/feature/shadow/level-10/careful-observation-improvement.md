@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="You can target three creatures simultaneously with your [Careful Observation](../../ability/shadow/level-3/careful-observation.md) ability."></template>
+<template class="sc-src" data-fmt="md" data-src="You can target three creatures simultaneously with your &#91;Careful Observation](../../ability/shadow/level-3/careful-observation.md) ability."></template>

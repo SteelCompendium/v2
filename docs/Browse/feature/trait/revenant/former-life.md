@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Choose the ancestry you were before you died. Your [size](../../../rule/character/size.md) is that ancestry&#39;s [size](../../../rule/character/size.md) and your [speed](../../../rule/character/speed.md) is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry."></template>
+<template class="sc-src" data-fmt="md" data-src="Choose the ancestry you were before you died. Your &#91;size](../../../rule/character/size.md) is that ancestry&#39;s &#91;size](../../../rule/character/size.md) and your &#91;speed](../../../rule/character/speed.md) is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry."></template>

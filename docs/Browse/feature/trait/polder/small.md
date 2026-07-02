@@ -20,4 +20,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your diminutive stature lets you easily get out of—or into—trouble. Your [size](../../../rule/character/size.md) is 1S."></template>
+<template class="sc-src" data-fmt="md" data-src="Your diminutive stature lets you easily get out of—or into—trouble. Your &#91;size](../../../rule/character/size.md) is 1S."></template>

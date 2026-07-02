@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional [damage](../../../rule/damage/damage.md) equal to your [Reason](../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever one of your squads uses a damaging ability, choose one target of that ability to take additional &#91;damage](../../../rule/damage/damage.md) equal to your &#91;Reason](../../../rule/character/reason.md) score."></template>

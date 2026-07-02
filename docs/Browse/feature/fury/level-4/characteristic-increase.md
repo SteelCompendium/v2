@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Your [Might](../../../rule/character/might.md) and [Agility](../../../rule/character/agility.md) scores each increase to 3."></template>
+<template class="sc-src" data-fmt="md" data-src="Your &#91;Might](../../../rule/character/might.md) and &#91;Agility](../../../rule/character/agility.md) scores each increase to 3."></template>

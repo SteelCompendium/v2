@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../../../../movement/fly.md) in a straight line to any space within 5 squares of that object."></template>
+<template class="sc-src" data-fmt="md" data-src="Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then &#91;fly](../../../../../movement/fly.md) in a straight line to any space within 5 squares of that object."></template>

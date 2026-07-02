@@ -21,4 +21,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Each of your [characteristic](../../../rule/character/characteristic.md) scores increases by 1, to a maximum of 4."></template>
+<template class="sc-src" data-fmt="md" data-src="Each of your &#91;characteristic](../../../rule/character/characteristic.md) scores increases by 1, to a maximum of 4."></template>

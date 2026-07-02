@@ -21,4 +21,4 @@ type: trait
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Whenever you score a [critical hit](../../../rule/combat/critical-hit.md), you can take an additional main action and an additional move action instead of just a main action."></template>
+<template class="sc-src" data-fmt="md" data-src="Whenever you score a &#91;critical hit](../../../rule/combat/critical-hit.md), you can take an additional main action and an additional move action instead of just a main action."></template>

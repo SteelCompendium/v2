@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If the ability has a [potency](../../../rule/character/potency.md), you increase that [potency](../../../rule/character/potency.md) by an amount equal to your [Intuition](../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="If the ability has a &#91;potency](../../../rule/character/potency.md), you increase that &#91;potency](../../../rule/character/potency.md) by an amount equal to your &#91;Intuition](../../../rule/character/intuition.md) score."></template>

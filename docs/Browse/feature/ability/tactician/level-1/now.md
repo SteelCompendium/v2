@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your allies wait for your command—then unleash death!*&#10;&#10;| **[Ranged](../../../../rule/combat/ranged.md)**       |        **Maneuver** |&#10;|------------------|--------------------:|&#10;| **📏 [Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**Effect:** Each target can make a [free strike](../../../common/main-actions/free-strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your allies wait for your command—then unleash death!*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |        **Maneuver** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**Effect:** Each target can make a &#91;free strike](../../../common/main-actions/free-strike.md)."></template>

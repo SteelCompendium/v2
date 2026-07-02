@@ -22,4 +22,4 @@ type: feature
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="If the ability targets individual creatures or objects, you target one additional creature or object within [distance](../../../rule/combat/distance.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="If the ability targets individual creatures or objects, you target one additional creature or object within &#91;distance](../../../rule/combat/distance.md)."></template>
