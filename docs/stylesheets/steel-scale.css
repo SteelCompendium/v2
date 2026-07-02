@@ -1,12 +1,49 @@
-/* steel-scale.css — statblock level-scaling control (sc-scale.js) */
-.sc-scale {
-  max-width: 47rem; margin: 1rem auto -.6rem; font-size: .72rem;
-  display: flex; gap: .8rem; align-items: baseline; flex-wrap: wrap;
+/* steel-scale.css — statblock level scaler (sc-scale.js), living in the card
+   head's Level chip. −/+ steppers flank the chip, hover-revealed like the
+   top-center control strip (copy-link / pin / encounter add); they are
+   absolutely positioned so the untouched chip renders exactly as it does on
+   every other card. Scaled state: amber chip + dashed card outline + the
+   approximation note above the card. */
+.sc-head__right-eyebrow.sc-scale { position: relative; }
+.sc-scale__btn {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  width: 1.4rem; height: 1.4rem; padding: 0; line-height: 1;
+  display: grid; place-items: center;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35rem;
+  background: rgba(0, 0, 0, 0.4); color: var(--md-default-fg-color--light);
+  cursor: pointer; font-size: .95rem;
+  opacity: 0; transition: opacity .18s ease, color .18s ease, border-color .18s ease;
 }
-.sc-scale input {
-  width: 3.4rem; background: inherit; color: inherit;
-  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+/* both steppers sit LEFT of the chip (open rail space) — the card clips
+   overflow, and to the chip's right there is only the 1.2rem head padding */
+.sc-scale__btn[data-d="1"]  { right: calc(100% + .35rem); }
+.sc-scale__btn[data-d="-1"] { right: calc(100% + 2.1rem); }
+.sb-wrap:hover .sc-scale__btn,
+.sc-scale__btn:focus-visible,
+.sb-wrap.is-scaled .sc-scale__btn { opacity: 1; }
+.sc-scale__btn:hover { color: var(--md-accent-fg-color); border-color: var(--md-accent-fg-color); }
+@media (hover: none) { .sc-scale__btn { opacity: .4; } }
+/* phone: the right rail flows under the left stack, left-aligned
+   (steel-cardhead.css) — flip the steppers to the chip's right side */
+@media (max-width: 30em) {
+  .sc-scale__btn[data-d="-1"] { right: auto; left: calc(100% + .35rem); }
+  .sc-scale__btn[data-d="1"]  { right: auto; left: calc(100% + 2.1rem); }
 }
-.sc-scale__note { color: #e0b050; }
+
+.sb-wrap.is-scaled .sc-head__right-eyebrow.sc-scale { color: #e0b050; border-color: #e0b05088; }
 .sb-wrap.is-scaled { outline: 2px dashed #e0b05066; outline-offset: 4px; border-radius: .4rem; }
-@media print { .sc-scale { display: none !important; } }
+
+/* the note lives INSIDE .sb-wrap, above the card (so the h1+hr+.sb-wrap
+   adjacency stays intact and a scaled card's PNG export carries it) */
+.sc-scale__note {
+  margin: 0 0 .5rem; font-size: .72rem; color: #e0b050;
+}
+.sc-scale__note .sc-scale__reset {
+  border: 1px solid #e0b05066; border-radius: .35em; background: none; cursor: pointer;
+  color: inherit; padding: .05rem .45rem; margin-left: .3rem; font: inherit; font-size: .95em;
+}
+.sc-scale__note .sc-scale__reset:hover { border-color: currentColor; }
+
+/* keep the approximation note in print (a scaled block that gets printed
+   should carry its disclaimer) — hide only the interactive bits */
+@media print { .sc-scale__btn, .sc-scale__reset { display: none !important; } }

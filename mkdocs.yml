@@ -137,6 +137,7 @@ extra_css:
   - stylesheets/steel-export.css
   - stylesheets/steel-scale.css
   - stylesheets/steel-pins.css
+  - stylesheets/steel-pageact.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
@@ -169,6 +170,7 @@ extra_javascript:
   - javascripts/chapter-toc.js
   - javascripts/read-resume-core.js
   - javascripts/read-resume.js
+  - javascripts/sc-pageact.js
   - javascripts/scc-headerlinks.js
   - javascripts/scc-card-copy-core.js
   - javascripts/scc-card-copy.js

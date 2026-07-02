@@ -29,13 +29,22 @@
 .sc-enc.is-empty .sc-enc__body,
 .sc-enc.is-min .sc-enc__body { display: none; }
 .sc-enc.is-closed { display: none; }
-.sc-enc__head { display: flex; gap: .6rem; align-items: center; padding: .5rem .8rem; position: relative; }
+.sc-enc__head {
+  display: flex; gap: .6rem; align-items: center; padding: .5rem .8rem; position: relative;
+  cursor: pointer; user-select: none; /* whole row toggles collapse (sc-encounter.js) */
+}
 .sc-enc__head b { font-family: var(--md-small-header-font); letter-spacing: .04em; }
 .sc-enc__diff[data-diff="Standard"] { color: var(--md-accent-fg-color); }
 .sc-enc__diff[data-diff="Hard"], .sc-enc__diff[data-diff="Extreme"] { color: #e06060; }
 .sc-enc__menu-btn { margin-left: auto; background: none; border: 0; cursor: pointer; color: inherit; font-weight: 700; }
-.sc-enc__toggle { background: none; border: 0; cursor: pointer; color: inherit; }
-.sc-enc__menu-btn:hover, .sc-enc__toggle:hover { color: var(--md-accent-fg-color); }
+.sc-enc__toggle { background: none; border: 0; cursor: pointer; color: inherit; transition: transform .15s ease; }
+.sc-enc__menu-btn:hover, .sc-enc__toggle:hover, .sc-enc__head:hover .sc-enc__toggle { color: var(--md-accent-fg-color); }
+/* collapsed: chevron points right; the ⋯ is hidden — its dropdown opens
+   downward, which is off-screen when the bottom-fixed tray has no body */
+.sc-enc.is-min .sc-enc__toggle { transform: rotate(-90deg); margin-left: auto; }
+.sc-enc.is-min .sc-enc__menu-btn { display: none; }
+/* empty tray also has no body under the header — open the menu upward */
+.sc-enc.is-empty .sc-enc__menu { top: auto; bottom: calc(100% + .2rem); }
 .sc-enc__menu {
   position: absolute; top: calc(100% - .2rem); right: .6rem; z-index: 21;
   display: flex; flex-direction: column; min-width: 9rem;

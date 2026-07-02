@@ -8,8 +8,8 @@
 
 /* On card pages the pin joins the hover-revealed top-center control strip
    (the copy-link pattern — the only collision-free band on every card head):
-   copy-link sits at 50%, the pin just right of it. Beside a plain h1 it rides
-   inline after the title text, always visible. */
+   copy-link sits at 50%, the pin just right of it. On plain pages it lives in
+   the always-visible top-right page action strip (steel-pageact.css). */
 .sc-head .sc-pin {
   position: absolute; z-index: 4; top: .45rem;
   left: calc(50% + 1.6rem); right: auto;
@@ -33,15 +33,6 @@
   font-size: 1.05rem; line-height: 1; padding: .1rem .2rem;
   color: var(--md-default-fg-color--lighter);
 }
-/* Beside a plain h1 the pin auto-hides like Material's ¶ headerlink: invisible
-   until the heading is hovered or the button is focused; a pinned page keeps
-   its (filled) pin visible as state. */
-h1 .sc-pin {
-  vertical-align: .05em; margin-left: .15rem;
-  opacity: 0; transition: opacity .18s ease, color .18s ease;
-}
-h1:hover .sc-pin, h1 .sc-pin:focus-visible, h1 .sc-pin.is-on { opacity: 1; }
-@media (hover: none) { h1 .sc-pin { opacity: .4; } h1 .sc-pin.is-on { opacity: 1; } }
 .sc-pin:hover { color: var(--md-accent-fg-color); }
 .sc-pin.is-on { color: var(--md-accent-fg-color); }
 @media print { .sc-pin { display: none !important; } }

@@ -92,12 +92,49 @@
     });
   }
 
+  // The page-level permalink: a copy button in the top-right action strip
+  // (.sc-pageact, see sc-pageact.js). Plain pages only — card pages carry the
+  // card's own copy-link. The H1's inline ¶ is hidden by steel-pageact.css;
+  // section headings (h2+) keep their inline ¶s.
+  function mountPageLink() {
+    var A = window.SCPageAct;
+    if (!A || A.cardHead()) return;
+    if (!document.querySelector(".md-content h1")) return;
+    var strip = A.strip();
+    if (!strip || strip.querySelector(".sc-pageact__link")) return;
+
+    var url = metaContent("scc-permalink");
+    var scc = !!url;
+    if (!url) url = location.origin + location.pathname;
+
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "sc-pageact__link";
+    btn.title = scc ? "Copy stable permalink (" + url + ")" : "Copy page link";
+    btn.setAttribute("aria-label", btn.title);
+    btn.innerHTML =
+      '<svg viewBox="0 0 24 24" aria-hidden="true">' +
+      '<path d="M10 14a4 4 0 0 0 5.66 0l3-3a4 4 0 0 0-5.66-5.66l-1 1"/>' +
+      '<path d="M14 10a4 4 0 0 0-5.66 0l-3 3a4 4 0 0 0 5.66 5.66l1-1"/></svg>';
+    btn.addEventListener("click", function () {
+      copyText(url).then(
+        function () {
+          btn.classList.add("is-copied");
+          setTimeout(function () { btn.classList.remove("is-copied"); }, 1200);
+        },
+        function () { /* clipboard blocked */ }
+      );
+    });
+    strip.appendChild(btn);
+  }
+
   function render() {
     var sccBase = metaContent("scc-base");
     var headings = document.querySelectorAll(
       ".md-content h1, .md-content h2, .md-content h3, .md-content h4, .md-content h5, .md-content h6"
     );
     headings.forEach(function (h) { wire(h, sccBase); });
+    mountPageLink();
   }
 
   if (typeof document$ !== "undefined") {

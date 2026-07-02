@@ -306,6 +306,20 @@
   .sc-browse__facet { grid-template-columns: 1fr; align-items: start; }
 }
 
+/* ── Chapter opening (steel-etl chapter_page.go) ──
+   Centered, book-style: small-caps eyebrow ("<book> · Chapter N") over the
+   centered title, symmetric above the ◆ divider — a full-width display H1
+   jammed left read as unbalanced. */
+.md-typeset .sc-cheyebrow {
+  margin: 1.6rem 0 0; text-align: center;
+  font-family: var(--md-small-header-font);
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .14em;
+  font-size: .82rem; line-height: 1;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .sc-cheyebrow + h1.sc-chtitle { margin-top: .35rem; }
+.md-typeset h1.sc-chtitle { text-align: center; text-wrap: balance; }
+
 /* ── Read-chapter mini-TOC (chapter-toc.js) ── */
 .md-typeset .sc-chtoc {
   margin: 1rem 0 1.6rem; padding: .5rem .9rem;

@@ -102,7 +102,7 @@
       }).join("");
       if (!state.picks.length) rows = '<p class="sc-enc__empty">Press + on any creature row to build an encounter.</p>';
       tray.innerHTML =
-        '<header class="sc-enc__head"><b>Encounter</b>' +
+        '<header class="sc-enc__head" title="Collapse / expand"><b>Encounter</b>' +
         '<span class="sc-enc__diff" data-diff="' + diff + '">' + total + " / " + pES + " EV · " + diff + "</span>" +
         '<button type="button" class="sc-enc__menu-btn" title="Menu" aria-haspopup="menu">⋯</button>' +
         '<button type="button" class="sc-enc__toggle" title="Collapse">▾</button>' +
@@ -159,7 +159,13 @@
         state.picks = E.setCount(state.picks, row.dataset.href, pk.count + d);
         save(state); render(); return;
       }
-      if (ev.target.closest(".sc-enc__toggle")) { tray.classList.toggle("is-min"); return; }
+      // the whole header row is the collapse/expand target (the chevron alone
+      // is too small to hit); menu clicks are handled above, menu-padding
+      // clicks are excluded here
+      if (ev.target.closest(".sc-enc__head") && !ev.target.closest(".sc-enc__menu")) {
+        tray.classList.toggle("is-min");
+        return;
+      }
       if (ev.target.closest(".sc-enc__share")) {
         const url = location.origin + location.pathname + "?enc=" + E.encodeShare(state.picks);
         navigator.clipboard.writeText(url);

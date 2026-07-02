@@ -15,14 +15,19 @@
   function save(s) { localStorage.setItem(KEY, window.SCPins.serialize(s)); }
 
   function pageTitle() {
-    const h = document.querySelector(".md-content .sc-head__left-primary") ||
+    // main card's name if this is a card page; else the page h1 (hidden h1s —
+    // class pages — still carry the title text). NOT the first .sc-head on
+    // the page: Read chapters embed dozens of cards, and the first embedded
+    // card's name is not the chapter title.
+    const A = window.SCPageAct;
+    const main = A && A.cardHead();
+    const h = (main && main.querySelector(".sc-head__left-primary")) ||
               document.querySelector(".md-content h1");
-    // strip the heading-permalink ¶ (and legacy ★/☆ from the pre-SVG button —
-    // the pin button lives inside the h1 on prose pages when a click fires)
+    // strip the heading-permalink ¶ (and legacy ★/☆ from the pre-SVG button)
     return h ? h.textContent.replace(/[¶★☆]/g, "").trim() : document.title;
   }
 
-  // ── entity-page ★ button ──
+  // ── entity-page pin button ──
   function mountPinButton() {
     if (document.querySelector(".sc-pin")) return; // idempotent per swap
     const path = location.pathname;
@@ -31,8 +36,12 @@
     // page is index.html — heuristically: h1 present is enough; indexes get
     // pins too and that's fine, but the Browse tab roots are excluded).
     if (/\/(Browse|Read)\/?$/.test(path)) return;
-    const host = document.querySelector(".md-content .sc-head") ||
-                 document.querySelector(".md-content h1");
+    // Main-card pages: join the card's hover-revealed control strip. Plain
+    // pages (incl. Read chapters, whose EMBEDDED cards must not capture the
+    // pin): the always-visible top-right page action strip (sc-pageact.js).
+    const A = window.SCPageAct;
+    const host = A ? (A.cardHead() || A.strip())
+                   : document.querySelector(".md-content .sc-head");
     if (!host) return;
 
     const btn = document.createElement("button");

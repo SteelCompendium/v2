@@ -23,24 +23,32 @@
   color: var(--md-default-fg-color--light);
 }
 
-/* stat + potency strips: uniform label/value cells under the head */
+/* stat + potency strips: two matched 3-column rows of centered value-over-
+   label cells (the statblock defense-grid pattern), filling the card width
+   edge to edge — a flex row of content-sized cells read as ragged/unbalanced */
 .sc-classhead__stats,
 .sc-classhead__pot {
-  display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .8rem;
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .5rem; margin-top: .8rem;
 }
 .sc-classhead__stats { margin-top: .9rem; }
 .sc-classhead__stats + .sc-classhead__pot { margin-top: .5rem; }
+@media (max-width: 40em) {
+  .sc-classhead__stats,
+  .sc-classhead__pot { grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
+}
 .sc-classhead__cell {
-  display: inline-flex; flex-direction: column; gap: .1rem;
+  display: flex; flex-direction: column-reverse; gap: .1rem;
+  align-items: center; justify-content: center; text-align: center;
   border: 1px solid var(--fx-metal-line); border-radius: .35rem;
-  padding: .28rem .5rem; background: var(--md-default-bg-color);
+  padding: .34rem .5rem; background: var(--md-default-bg-color);
 }
 .sc-classhead__cell .l {
   font-variant: small-caps; text-transform: lowercase; letter-spacing: .05em;
   font-size: .72rem; color: var(--md-default-fg-color--light);
   white-space: nowrap;
 }
-.sc-classhead__cell .v { font-size: .92rem; }
+.sc-classhead__cell .v { font-size: .95rem; }
 
 /* skills: prose footer line, set off from the cells above */
 .md-typeset .sc-classhead__skills {

@@ -1,21 +1,25 @@
-/* sc-scale.js — "Scale to level" control on monster statblock pages.
- * Rewrites Stamina/EV/level/damage/potencies/free strike/characteristics/
- * power-roll bonuses (and potencies inside effect text) by the book's
- * "Adjusting Monster Levels" formulas (sc-scale-core.js), always relative to
- * the PRINTED originals (cached in data-orig on first use). Never persists —
- * a scaled block must not masquerade as the real one on a later visit.
+/* sc-scale.js — level scaler on monster statblock pages, living IN the head's
+ * Level chip: hover the card and −/+ steppers appear flanking the chip (same
+ * reveal as the copy-link / pin / encounter controls). Rewrites Stamina/EV/
+ * level/damage/potencies/free strike/characteristics/power-roll bonuses (and
+ * potencies inside effect text) by the book's "Adjusting Monster Levels"
+ * formulas (sc-scale-core.js), always relative to the PRINTED originals
+ * (cached in data-orig on first use). Never persists — a scaled block must
+ * not masquerade as the real one on a later visit.
  * instant-nav safe: document$-driven, idempotent. */
 (function () {
   "use strict";
   function txt(el) { return el ? el.textContent.trim() : ""; }
 
   function init() {
-    document.querySelectorAll(".sc-scale").forEach(function (n) { n.remove(); });
     const S = window.SCScale;
     const wrap = document.querySelector(".md-content .sb-wrap");
     if (!S || !wrap) return;
     const head = wrap.querySelector(".sb__head");
     if (!head) return;
+    // already mounted on this DOM (extra_javascript re-executes per
+    // instant-nav swap → both subscriptions fire init on the same page)
+    if (head.querySelector(".sc-scale__btn")) return;
 
     const lvlM = /Level\s*(\d+)/i.exec(txt(head.querySelector(".sc-head__right-eyebrow")));
     const evM = /EV\s*(\d+)/i.exec(txt(head.querySelector(".sc-head__right-deck")));
@@ -46,25 +50,41 @@
       return hit;
     }
 
-    const ctl = document.createElement("div");
-    ctl.className = "sc-scale";
-    ctl.innerHTML =
-      '<label>Scale to level <input type="number" min="1" max="12" value="' + origLevel + '"></label>' +
-      '<span class="sc-scale__note" hidden>≈ scaled from level ' + origLevel +
-      " — an approximation via the book's <em>Adjusting Monster Levels</em> formulas, not a published statblock</span>";
-    wrap.parentNode.insertBefore(ctl, wrap);
-    const input = ctl.querySelector("input");
-    const note = ctl.querySelector(".sc-scale__note");
+    // the Level chip becomes the scaler. Its text is wrapped in a span (the
+    // steppers must survive apply()'s text rewrites); the −/+ are absolutely
+    // positioned so the untouched chip renders exactly as on every other card.
+    const lvlChip = head.querySelector(".sc-head__right-eyebrow");
+    lvlChip.classList.add("sc-scale");
+    const lvlLabel = document.createElement("span");
+    lvlLabel.className = "sc-scale__lvl";
+    while (lvlChip.firstChild) lvlLabel.appendChild(lvlChip.firstChild);
+    lvlChip.appendChild(lvlLabel);
+    [["-1", "Scale down a level", "−"], ["1", "Scale up a level", "+"]].forEach(function (spec) {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "sc-scale__btn";
+      b.dataset.d = spec[0]; b.title = spec[1]; b.textContent = spec[2];
+      lvlChip.appendChild(b);
+    });
+
+    const note = document.createElement("div");
+    note.className = "sc-scale__note";
+    note.hidden = true;
+    note.innerHTML = "≈ scaled from level " + origLevel +
+      " — an approximation via the book's <em>Adjusting Monster Levels</em> formulas, not a published statblock " +
+      '<button type="button" class="sc-scale__reset">Reset</button>';
+    // INSIDE the wrap, never between the page's hr and the wrap: a sibling
+    // there breaks the strict h1+hr+.sb-wrap adjacency that hides the
+    // duplicate page H1 (and that sc-pageact.js uses to detect card pages)
+    wrap.insertBefore(note, wrap.firstChild);
 
     function apply(nl) {
       const scaled = nl !== origLevel;
       note.hidden = !scaled;
       wrap.classList.toggle("is-scaled", scaled);
 
-      const lvlEl = head.querySelector(".sc-head__right-eyebrow");
       const evEl = head.querySelector(".sc-head__right-deck");
-      cacheOrig(lvlEl); cacheOrig(evEl);
-      lvlEl.textContent = scaled ? "Level " + nl : lvlEl.dataset.orig;
+      cacheOrig(lvlLabel); cacheOrig(evEl);
+      lvlLabel.textContent = scaled ? "Level " + nl : lvlLabel.dataset.orig;
       evEl.textContent = scaled ? "EV " + (origEV + S.evDelta(origLevel, nl, m)) : evEl.dataset.orig;
 
       // characteristic bonus delta (highest char = 1 + echelon, +1 leader/solo)
@@ -128,10 +148,16 @@
         });
       });
     }
-    input.addEventListener("input", function () {
-      const nl = Math.min(12, Math.max(1, parseInt(input.value, 10) || origLevel));
-      apply(nl);
+    let cur = origLevel;
+    function go(nl) {
+      cur = Math.min(12, Math.max(1, nl));
+      apply(cur);
+    }
+    lvlChip.addEventListener("click", function (ev) {
+      const b = ev.target.closest(".sc-scale__btn");
+      if (b) go(cur + parseInt(b.dataset.d, 10));
     });
+    note.querySelector(".sc-scale__reset").addEventListener("click", function () { go(origLevel); });
   }
   if (window.document$ && window.document$.subscribe) window.document$.subscribe(init);
   else document.addEventListener("DOMContentLoaded", init);
