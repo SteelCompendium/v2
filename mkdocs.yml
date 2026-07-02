@@ -133,6 +133,7 @@ extra_css:
   - stylesheets/steel-bestiary.css
   - stylesheets/steel-copylink.css
   - stylesheets/steel-encounter.css
+  - stylesheets/steel-dice.css
   - stylesheets/steel-pins.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
@@ -148,6 +149,8 @@ extra_javascript:
   - javascripts/ability-cards-core.js
   - javascripts/ability-cards.js
   - javascripts/steel-ability-cards.js
+  - javascripts/sc-dice-core.js
+  - javascripts/sc-dice.js
   - javascripts/statblock-preview.js
   - javascripts/steel-traits.js
   - javascripts/steel-feature-browser-core.js
