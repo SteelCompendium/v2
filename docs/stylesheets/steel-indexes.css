@@ -333,3 +333,13 @@
   box-shadow: 0 2px 10px rgba(0,0,0,.25);
 }
 .sc-resume:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+
+/* ── per-class all-abilities table (steel-etl ability_table.go) ── */
+.md-typeset .sc-abtable table { width: 100%; }
+.md-typeset .sc-abtable th { white-space: nowrap; }
+.md-typeset .sc-abtable td:nth-child(2) { text-align: center; }
+@media (max-width: 45em) {
+  /* phones: drop the two widest columns; name/level/cost/action survive */
+  .md-typeset .sc-abtable th:nth-child(n+5),
+  .md-typeset .sc-abtable td:nth-child(n+5) { display: none; }
+}
