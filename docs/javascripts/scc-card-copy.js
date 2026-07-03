@@ -83,7 +83,13 @@
     if (!card.parentElement || !card.parentElement.classList.contains("md-typeset")) return;
 
     // Idempotent under navigation.instant re-fires.
-    if (card.querySelector(":scope > .sc-copylink")) return;
+    if (card.querySelector(".sc-copylink")) return;
+
+    // Statblock/featureblock: mount into the card HEAD like the pin /
+    // encounter-add / export buttons, so all five share one aligned row.
+    // (Mounting on the wrap anchored the button to the wrap's top — which,
+    // since the scaler note moved inside the wrap, is the note's text.)
+    var host = card.querySelector(".sb > .sb__head, .fb > .fb__head") || card;
 
     var btn = document.createElement("button");
     btn.type = "button";
@@ -99,7 +105,7 @@
         function () { /* clipboard blocked; nothing else to do */ }
       );
     });
-    card.appendChild(btn);
+    host.appendChild(btn);
   }
 
   if (typeof document$ !== "undefined") {

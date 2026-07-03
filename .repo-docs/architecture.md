@@ -109,7 +109,6 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 | `settings-panel.js` | Live settings drawer: injects the header gear button + steel drawer, applies changes instantly (see "Live settings panel" below) |
 | `reading-progress.js` | Reading progress indicator |
 | `tablesort.js` | Sortable tables integration |
-| `chapter-toc-core.js` / `chapter-toc.js` | Collapsible "In this chapter" mini-TOC injected at the top of Read chapter pages (built from the page's own h2/h3) |
 | `read-resume-core.js` / `read-resume.js` | Per-chapter scroll memory (localStorage) + "Resume reading" chip on return |
 | `sc-pins-core.js` / `sc-pins.js` | "My Table" pinboard: ★ toggle on entity pages, board renderer on `/pins/` |
 | `sc-encounter-core.js` / `sc-encounter.js` | Encounter builder: EV budget tray on `/Bestiary/` (book difficulty bands, minion EV prices a group of four, `?enc=` share links) + add-from-statblock chip. Math sourced from the Monsters book "Building an Encounter" Steps 3–5 (`/Read/bestiary/monster-basics/`); formulas + tests in the core module |

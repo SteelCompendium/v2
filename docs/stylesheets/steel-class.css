@@ -16,6 +16,13 @@
   background: var(--fx-metal-faint);
 }
 
+/* rail: the deck line is the caption of the primaries mini above it — quieter
+   and tucked tight so the pair reads as one field (value over label) */
+.sc-classhead .sc-head__right-deck.sc-head__slot--line {
+  font-size: .72rem; letter-spacing: .07em; margin-top: -.1rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
 /* flavor: the class's read-aloud voice, set apart from the stat cells */
 .md-typeset .sc-classhead__flavor {
   margin: .8rem 0 0; padding: 0 .2rem;

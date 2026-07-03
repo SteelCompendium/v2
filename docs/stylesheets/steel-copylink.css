@@ -52,14 +52,13 @@
 }
 
 /* Placement: top-CENTER, where every card header leaves a gap (identity/eyebrow
-   is left-aligned, the role/cost chip is right-aligned). Horizontally centered for
-   all three; vertically, statblock/featureblock seat the button ON the top border
-   (a node on the frame, echoing the centered diamond on the header divider), while
-   ability cards use overflow:hidden — so their button tucks just INSIDE the top
-   edge (the ability name sits lower, leaving the top strip clear). */
+   is left-aligned, the role/cost chip is right-aligned). Statblock/featureblock
+   mount the button INSIDE the card head (scc-card-copy.js) so all five strip
+   controls share one row: copy-link ends .1rem left of the pin (which starts at
+   +1.6rem), matching the .1rem gaps of pin → encounter-add → exports. */
 .sc-copylink { left: 50%; right: auto; transform: translateX(-50%); }
 .sc-copylink[data-card="sb"],
-.sc-copylink[data-card="fb"] { top: 0; transform: translate(calc(-50% + .1rem), 30%); }  /* straddle the top border */
+.sc-copylink[data-card="fb"] { top: .45rem; left: calc(50% + 1.5rem); transform: translateX(-100%); }
 /* Ability cards force `position: relative` on every direct child
    (steel-ability-cards.css `.md-typeset .sc-ability > *`, to lift content above the
    watermark) — out-specify it so the button keeps absolute positioning + stacks on top. */

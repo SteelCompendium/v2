@@ -166,8 +166,6 @@ extra_javascript:
   - javascripts/browse-enhancements.js
   - javascripts/reading-progress.js
   - javascripts/keyboard-nav.js
-  - javascripts/chapter-toc-core.js
-  - javascripts/chapter-toc.js
   - javascripts/read-resume-core.js
   - javascripts/read-resume.js
   - javascripts/sc-pageact.js

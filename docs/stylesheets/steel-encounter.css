@@ -26,7 +26,8 @@
   background: var(--md-default-bg-color); box-shadow: 0 4px 18px rgba(0,0,0,.35);
   font-size: .72rem;
 }
-.sc-enc.is-empty .sc-enc__body,
+/* only the user's collapse hides the body — an empty tray still exposes the
+   heroes/level/victories party inputs */
 .sc-enc.is-min .sc-enc__body { display: none; }
 .sc-enc.is-closed { display: none; }
 .sc-enc__head {
@@ -43,8 +44,6 @@
    downward, which is off-screen when the bottom-fixed tray has no body */
 .sc-enc.is-min .sc-enc__toggle { transform: rotate(-90deg); margin-left: auto; }
 .sc-enc.is-min .sc-enc__menu-btn { display: none; }
-/* empty tray also has no body under the header — open the menu upward */
-.sc-enc.is-empty .sc-enc__menu { top: auto; bottom: calc(100% + .2rem); }
 .sc-enc__menu {
   position: absolute; top: calc(100% - .2rem); right: .6rem; z-index: 21;
   display: flex; flex-direction: column; min-width: 9rem;
@@ -75,6 +74,7 @@
 .sc-enc__row .warn { cursor: help; }
 .sc-enc__bands { margin-top: .5rem; color: var(--md-default-fg-color--light); }
 .sc-enc__actions { display: flex; gap: .4rem; margin-top: .5rem; flex-wrap: wrap; }
+.sc-enc.is-empty .sc-enc__actions { display: none; }  /* nothing to share/copy yet */
 .sc-enc__actions button {
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .35em; background: none; cursor: pointer; padding: .2rem .5rem; color: inherit;
