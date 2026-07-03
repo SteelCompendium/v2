@@ -27,8 +27,7 @@ size: 1L
 speed: 6
 stamina: 16 | 16
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Knight of Blood

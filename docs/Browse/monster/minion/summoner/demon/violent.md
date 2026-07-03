@@ -7,8 +7,7 @@ agility: 3
 cost: 5 essence for three minions
 flavor: The violents are lanky, oily bipeds with bright red flesh that contort and snap their bodies into unassuming objects. Their mimicry is particularly precise, to the point where it's unclear whether their victims die from the surprise or the violent transformation process first.
 free_strike: 4
-immunities:
-    - —
+immunities: []
 intuition: -1
 keywords:
     - Abyssal

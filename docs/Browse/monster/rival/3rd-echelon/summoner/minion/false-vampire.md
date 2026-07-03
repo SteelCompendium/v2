@@ -25,8 +25,7 @@ speed: 6
 stability: 2
 stamina: 22 | 22
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # False Vampire

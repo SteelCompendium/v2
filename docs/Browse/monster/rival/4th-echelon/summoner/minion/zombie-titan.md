@@ -25,8 +25,7 @@ speed: 4
 stability: 5
 stamina: "50"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Zombie Titan

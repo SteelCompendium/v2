@@ -27,8 +27,7 @@ speed: 5
 stability: 1
 stamina: "3"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Husk

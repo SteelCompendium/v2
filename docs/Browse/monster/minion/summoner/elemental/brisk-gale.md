@@ -25,8 +25,7 @@ speed: 5
 stability: 0
 stamina: "2"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Brisk Gale

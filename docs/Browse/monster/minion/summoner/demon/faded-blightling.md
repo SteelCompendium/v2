@@ -7,8 +7,7 @@ agility: 0
 cost: 7 essence for two minions
 flavor: This cherubin creature is bloated and warped by demonic energy. The lights from their myriad eyes have all but gone out, now resembling pustules across their body.
 free_strike: 7
-immunities:
-    - —
+immunities: []
 intuition: 4
 keywords:
     - Abyssal

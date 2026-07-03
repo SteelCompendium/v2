@@ -28,8 +28,7 @@ speed: 5
 stability: 1
 stamina: 4 | 4 | 4
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Quiet of Snow

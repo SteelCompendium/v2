@@ -25,8 +25,7 @@ speed: 6
 stability: 0
 stamina: "5"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Skeleton

@@ -12,8 +12,6 @@ features:
       name: Psionic Barrier
     - distance: Special
       icon: ❗️
-      keywords:
-        - '-'
       name: Psionic Pulse
       sections:
         - label: Trigger

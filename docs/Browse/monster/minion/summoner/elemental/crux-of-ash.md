@@ -27,8 +27,7 @@ speed: 5
 stability: 0
 stamina: 6 | 6
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Crux of Ash

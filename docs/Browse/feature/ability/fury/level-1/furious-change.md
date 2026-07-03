@@ -6,8 +6,7 @@ class: fury
 distance: Self
 effect: You gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Might](../../../../rule/character/might.md) score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
 flavor: In your anger, you revert to a more bestial form.
-keywords:
-    - '-'
+keywords: []
 level: "1"
 name: Furious Change
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/furious-change
@@ -26,7 +25,6 @@ type: ability
 <article class="sc-ability sc-fil" data-action="triggered">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Furious Change</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">In your anger, you revert to a more bestial form.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>

@@ -26,8 +26,7 @@ speed: 4
 stability: 0
 stamina: "1"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Shrieker

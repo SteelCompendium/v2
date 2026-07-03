@@ -7,8 +7,6 @@ features:
     - cost: Encounter
       distance: Self
       icon: ❗️
-      keywords:
-        - '-'
       level: 4
       name: Frenzied Bite
       sections:
@@ -38,8 +36,6 @@ features:
     - cost: Encounter
       distance: Self
       icon: "\U0001F464"
-      keywords:
-        - '-'
       level: 10
       name: Horrific Feas
       sections:

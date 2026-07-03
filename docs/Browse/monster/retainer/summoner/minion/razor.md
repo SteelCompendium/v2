@@ -5,8 +5,7 @@ search:
   boost: 0.6
 agility: 2
 free_strike: 1
-immunities:
-    - —
+immunities: []
 intuition: -1
 keywords:
     - Abyssal

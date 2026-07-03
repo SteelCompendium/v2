@@ -7,8 +7,7 @@ distance: Summoner's Range
 effect: If one of your minions is [adjacent](../../../../rule/combat/adjacent.md) to the target and is within [distance](../../../../rule/combat/distance.md) of the strike, they become the new target of the strike.
 feature_source: summoner
 flavor: You call upon a minion to use their body to dampen the blow.
-keywords:
-    - —
+keywords: []
 level: "1"
 name: Shield!
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/shield
@@ -25,7 +24,6 @@ type: ability
 <article class="sc-ability sc-fil" data-action="triggered">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shield!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You call upon a minion to use their body to dampen the blow.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">—</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Summoner&#39;s Range</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>

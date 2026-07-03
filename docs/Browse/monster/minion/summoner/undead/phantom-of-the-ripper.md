@@ -26,8 +26,7 @@ speed: 6
 stability: 1
 stamina: 17 | 17
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Phantom of the Ripper

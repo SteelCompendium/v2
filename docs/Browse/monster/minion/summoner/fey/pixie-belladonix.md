@@ -25,8 +25,7 @@ speed: 6
 stability: 0
 stamina: 16 | 16
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Pixie Belladonix

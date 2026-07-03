@@ -25,8 +25,7 @@ speed: 6
 stability: 4
 stamina: SPECIAL
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Dragon's Portent

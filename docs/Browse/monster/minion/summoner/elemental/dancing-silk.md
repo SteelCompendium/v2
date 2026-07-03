@@ -27,8 +27,7 @@ speed: 5
 stability: 0
 stamina: 4 | 4 | 4
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Dancing Silk

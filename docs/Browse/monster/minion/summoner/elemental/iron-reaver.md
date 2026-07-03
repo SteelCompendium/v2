@@ -26,8 +26,7 @@ size: 1L
 speed: 6
 stamina: 10 | 10 | 10
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Iron Reaver

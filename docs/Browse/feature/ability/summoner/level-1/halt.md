@@ -7,8 +7,7 @@ distance: Summoner's Range
 effect: You summon a signature minion in an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to the target. If the target is [force moved](../../../../movement/forced-movement.md) into the minion, you can choose to make the target take no [damage](../../../../rule/damage/damage.md) from the collision.
 feature_source: summoner
 flavor: You order a minion to get in the way.
-keywords:
-    - —
+keywords: []
 level: "1"
 name: Halt!
 scc: mcdm.summoner.v1/feature.ability.summoner.level-1/halt
@@ -24,7 +23,6 @@ type: ability
 <article class="sc-ability sc-fil" data-action="triggered">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Halt!</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">You order a minion to get in the way.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">—</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Summoner&#39;s Range</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>

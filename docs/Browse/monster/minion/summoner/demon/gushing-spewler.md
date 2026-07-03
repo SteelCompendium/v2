@@ -7,8 +7,7 @@ agility: 0
 cost: 5 essence for three minions
 flavor: A spewler's mouth makes up most of its size. They unleash torrents of acid and bile from their pitless stomachs before consuming their prey with bag-like maws.
 free_strike: 3
-immunities:
-    - —
+immunities: []
 intuition: 3
 keywords:
     - Abyssal

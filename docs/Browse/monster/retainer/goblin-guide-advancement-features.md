@@ -47,8 +47,6 @@ features:
     - cost: Encounter
       distance: Special
       icon: "\U0001F300"
-      keywords:
-        - '-'
       level: 10
       name: Poison Blade
       sections:

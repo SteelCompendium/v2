@@ -7,8 +7,7 @@ agility: 1
 cost: 3 essence for two minions
 flavor: Ensnarers knot and twist their bodies together to form heaving, heavy musilexes. They're compelled to drag everything in toward their body.
 free_strike: 5
-immunities:
-    - —
+immunities: []
 intuition: -1
 keywords:
     - Abyssal

@@ -6,8 +6,6 @@ search:
 features:
     - distance: Self
       icon: "\U0001F464"
-      keywords:
-        - '-'
       level: 4
       name: Boost
       sections:

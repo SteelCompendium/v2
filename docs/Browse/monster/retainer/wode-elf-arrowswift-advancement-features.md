@@ -27,8 +27,6 @@ features:
     - cost: Encounter
       distance: Self
       icon: "\U0001F464"
-      keywords:
-        - '-'
       level: 7
       name: Magic Arrows
       sections:

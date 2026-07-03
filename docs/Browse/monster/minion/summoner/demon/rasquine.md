@@ -7,8 +7,7 @@ agility: 0
 cost: 1 essence per minion summoned
 flavor: The rasquine are skulking demons that shimmer in the light. They teleport into position before biting the necks of their prey.
 free_strike: 2
-immunities:
-    - —
+immunities: []
 intuition: -1
 keywords:
     - Abyssal

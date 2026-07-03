@@ -7,8 +7,7 @@ agility: -2
 cost: 1 essence per minion summoned
 flavor: These massive clods of animated stone roll upon smaller piles of rocks that could be perceived as limbs. Walking boulders are useful for taking up space and forming barricades.
 free_strike: 1
-immunities:
-    - —
+immunities: []
 intuition: 0
 keywords:
     - Elemental (Earth)
@@ -24,8 +23,7 @@ size: "2"
 speed: 4
 stamina: "3"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Walking Boulder

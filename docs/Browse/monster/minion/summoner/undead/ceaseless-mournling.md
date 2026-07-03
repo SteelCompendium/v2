@@ -25,8 +25,7 @@ size: "2"
 speed: 4
 stamina: 4 | 4 | 4
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Ceaseless Mournling

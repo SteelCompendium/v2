@@ -6,8 +6,7 @@ class: shadow
 distance: Self
 effect: You take half the triggering damage, then can [shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../../../../movement/shifting.md) with [concealment](../../../../rule/combat/concealment.md) or [cover](../../../../rule/combat/cover.md), you can use the [Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed.
 flavor: When an enemy attacks, you roll with the impact to reduce the harm.
-keywords:
-    - '-'
+keywords: []
 level: "1"
 name: Defensive Roll
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll
@@ -26,7 +25,6 @@ type: ability
 <article class="sc-ability sc-fil" data-action="triggered">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Defensive Roll</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow · Caustic Alchemy</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
 <p class="sc-ability__flavor">When an enemy attacks, you roll with the impact to reduce the harm.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>

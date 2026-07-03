@@ -26,8 +26,7 @@ speed: 5
 stability: 1
 stamina: 6 | 6
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Stalker Shade

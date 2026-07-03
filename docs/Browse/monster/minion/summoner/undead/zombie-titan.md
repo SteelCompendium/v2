@@ -25,8 +25,7 @@ size: "4"
 speed: 4
 stamina: "40"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Zombie Titan

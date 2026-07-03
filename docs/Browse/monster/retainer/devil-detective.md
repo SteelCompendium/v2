@@ -25,8 +25,7 @@ speed: 5
 stability: 0
 stamina: "21"
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Devil Detective

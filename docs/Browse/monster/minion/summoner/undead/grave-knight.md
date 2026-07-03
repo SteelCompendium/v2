@@ -26,8 +26,7 @@ speed: 6
 stability: 1
 stamina: 6 | 6
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Grave Knight

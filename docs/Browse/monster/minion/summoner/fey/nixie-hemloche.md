@@ -7,8 +7,7 @@ agility: 0
 cost: 5 essence for three minions
 flavor: Hemloches are spotted nixies whose long, wavy hair endlessly bobs and flows into the water surrounding them. Any sailor caught in a whirlpool created by hemloches knows that their ship won't survive the encounter.
 free_strike: 3
-immunities:
-    - —
+immunities: []
 intuition: 3
 keywords:
     - Fey
@@ -25,8 +24,7 @@ speed: 6
 stability: 0
 stamina: 4 | 4 | 4
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Nixie Hemloche

@@ -26,8 +26,7 @@ speed: 5
 stability: 1
 stamina: 5 | 5
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Desolation of Sand

@@ -25,8 +25,7 @@ speed: 5
 stability: 4
 stamina: 8 | 8 | 8
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Ceaseless Mournling

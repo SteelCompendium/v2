@@ -19,8 +19,6 @@ features:
     - cost: Encounter
       distance: Self; See below
       icon: "\U0001F464"
-      keywords:
-        - '-'
       level: 7
       name: Mow 'Em Down
       sections:

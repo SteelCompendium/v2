@@ -26,8 +26,7 @@ speed: 5
 stability: 0
 stamina: 5 | 5 | 5
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Phase Ghoul

@@ -25,8 +25,7 @@ size: "2"
 speed: 5
 stamina: 8 | 8
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Zombie Lumberer

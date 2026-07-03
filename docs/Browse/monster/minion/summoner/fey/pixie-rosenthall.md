@@ -7,8 +7,7 @@ agility: 2
 cost: 5 essence for three minions
 flavor: The collective of blood-eyed pixie warriors that make up a rosenthall are also known as rosies. It's said that some rosenthall armies contain thousands of pixies and can span half the length of a wode.
 free_strike: 3
-immunities:
-    - —
+immunities: []
 intuition: 0
 keywords:
     - Fey
@@ -26,8 +25,7 @@ speed: 6
 stability: 1
 stamina: 5 | 5 | 5
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Pixie Rosenthall

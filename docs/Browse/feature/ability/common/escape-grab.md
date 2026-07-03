@@ -4,8 +4,7 @@ printing_book: "Draw Steel: Heroes"
 action_type: Maneuver
 distance: Self
 effect: You take a [bane](../../../rule/dice/bane.md) on this maneuver if your [size](../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../condition/grabbed.md).
-keywords:
-    - '-'
+keywords: []
 name: Escape Grab
 power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.common/escape-grab
@@ -22,7 +21,6 @@ type: ability
 
 <article class="sc-ability sc-fil" data-action="maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Escape Grab</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
-<div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>

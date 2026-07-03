@@ -7,8 +7,7 @@ agility: 0
 cost: 5 essence for three minions
 flavor: Chimors have no true shape; their bodies restructure and change endlessly. Pieces of the chimor demon snap off inside their prey, causing their bodies to also restructure from the inside out.
 free_strike: 3
-immunities:
-    - —
+immunities: []
 intuition: 1
 keywords:
     - Abyssal

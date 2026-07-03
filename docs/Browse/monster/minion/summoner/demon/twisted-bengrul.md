@@ -7,8 +7,7 @@ agility: 1
 cost: 3 essence for two minions
 flavor: The bengrul is an undulating heap of glass and flesh. They shatter pieces of themselves to disrupt senses and inflict grisly wounds on their prey.
 free_strike: 4
-immunities:
-    - —
+immunities: []
 intuition: -1
 keywords:
     - Abyssal

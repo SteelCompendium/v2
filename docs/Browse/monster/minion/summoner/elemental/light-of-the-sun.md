@@ -29,8 +29,7 @@ speed: 6
 stability: 0
 stamina: 17 | 17
 type: statblock
-weaknesses:
-    - —
+weaknesses: []
 ---
 
 # Light of the Sun
