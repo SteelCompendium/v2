@@ -99,6 +99,14 @@
 .md-typeset .sc-head__left-primary {
   font-family: var(--md-large-header-font); text-transform: uppercase;
   font-size: 1.5rem; line-height: 1.04; color: var(--md-default-fg-color);
+  /* Wrap between words; break inside a word only as a last resort. Material sets
+     `.md-typeset a { word-break: break-word }` for prose links; a preview card is an
+     <a>, so that rule is INHERITED here and broke every long name mid-word
+     ("UNEARTH / LY / REFLEXES"). word-break:break-word also collapses the name's
+     min-content width to ~1 char, letting the grid column starve. Reset to
+     word-break:normal (keep whole-word min-content) + overflow-wrap:break-word
+     (a single over-long word still breaks rather than overflowing/clipping). */
+  word-break: normal; overflow-wrap: break-word; hyphens: manual;
 }
 .sc-head__slot--mini {
   font-family: var(--md-large-header-font); text-transform: uppercase;

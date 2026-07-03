@@ -31,7 +31,13 @@
     /* Brand */
     --sc-steel:             #5a6368;
     --sc-steel-light:       #8e959a;
-    --sc-steel-lighter:     #b0b7bb;
+    /* --sc-steel-lighter is the "prominent readout" ink (card titles, stat values,
+       characteristic numbers, footer figures). In DARK mode prominent = lightest
+       steel (#cdd1d4). In LIGHT mode prominent must mean MORE contrast, i.e. darker
+       — the old #b0b7bb was ~1.9:1 on a near-white card and read as washed-out grey
+       (emboss shadow is `none` in light mode, so nothing rescued it). #5f686d is a
+       legible steel (~4.6:1) that still reads as a metal readout, not body text. */
+    --sc-steel-lighter:     #5f686d;
 
     /* Accent — steel teal */
     --md-accent-fg-color:            #2a7b88;

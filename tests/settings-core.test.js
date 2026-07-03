@@ -2,9 +2,11 @@ const test = require("node:test");
 const assert = require("node:assert");
 const C = require("../docs/javascripts/settings-core.js");
 
-test("clampScale clamps to [0.8, 1.4] and snaps to 0.05", () => {
+// Ranges are symmetric around the 1.0 default so both sliders' thumbs sit at the
+// SAME track position (center) at 100% — otherwise "100%" reads as misaligned.
+test("clampScale clamps to [0.6, 1.4] and snaps to 0.05", () => {
   assert.strictEqual(C.clampScale(1), 1);
-  assert.strictEqual(C.clampScale(0.5), 0.8);   // below min
+  assert.strictEqual(C.clampScale(0.5), 0.6);   // below min
   assert.strictEqual(C.clampScale(2), 1.4);     // above max
   assert.strictEqual(C.clampScale("1.07"), 1.05); // snap down to step
   assert.strictEqual(C.clampScale("1.08"), 1.1);  // snap up to step
@@ -12,9 +14,9 @@ test("clampScale clamps to [0.8, 1.4] and snaps to 0.05", () => {
   assert.strictEqual(C.clampScale(undefined), 1);
 });
 
-test("clampCardScale clamps to [0.7, 1.2] and snaps to 0.05", () => {
+test("clampCardScale clamps to [0.8, 1.2] and snaps to 0.05", () => {
   assert.strictEqual(C.clampCardScale(1), 1);
-  assert.strictEqual(C.clampCardScale(0.5), 0.7);   // below min
+  assert.strictEqual(C.clampCardScale(0.5), 0.8);   // below min
   assert.strictEqual(C.clampCardScale(2), 1.2);     // above max
   assert.strictEqual(C.clampCardScale("0.78"), 0.8); // snap up to step
   assert.strictEqual(C.clampCardScale("abc"), 1);   // NaN -> default

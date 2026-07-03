@@ -14,8 +14,13 @@
 
   var STORAGE_KEY = "mkdocs:fontPrefs";
 
-  var SCALE_MIN = 0.8, SCALE_MAX = 1.4, SCALE_STEP = 0.05, SCALE_DEFAULT = 1;
-  var CARD_MIN = 0.7, CARD_MAX = 1.2, CARD_STEP = 0.05, CARD_DEFAULT = 1;
+  // Both ranges are symmetric about the 1.0 default so the two sliders' thumbs
+  // line up at the same (center) track position when showing 100% — asymmetric
+  // ranges (old text 0.8–1.4, card 0.7–1.2) put the thumbs at 33% vs 60% while
+  // both read "100%", which looked misaligned. Each max is unchanged (text still
+  // reaches 140%, cards 120%); only the mins moved to center the default.
+  var SCALE_MIN = 0.6, SCALE_MAX = 1.4, SCALE_STEP = 0.05, SCALE_DEFAULT = 1;
+  var CARD_MIN = 0.8, CARD_MAX = 1.2, CARD_STEP = 0.05, CARD_DEFAULT = 1;
   var WIDTH_MIN_EM = 44, WIDTH_MAX_EM = 300, WIDTH_STEP_EM = 2, WIDTH_DEFAULT_EM = 80;
 
   // Clamp `value` into [min, max] and snap to the nearest `step`, returning

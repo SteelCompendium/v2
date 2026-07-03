@@ -99,7 +99,10 @@
 .sc-folder__count {
   font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .82rem;
   color: var(--fx-metal-bright); white-space: nowrap;
-  padding: .1rem .5rem; border-radius: 6px;
+  /* inline-flex + line-height:1 centers the count; the bare inline box was riding
+     ~1px high off its own line-height. */
+  display: inline-flex; align-items: center; justify-content: center; line-height: 1;
+  padding: .18rem .5rem; border-radius: 6px;
   border: 1px solid var(--fx-metal-faint); background: rgba(0,0,0,.22);
 }
 [data-md-color-scheme="default"] .sc-folder__count { background: rgba(0,0,0,.04); }
@@ -129,6 +132,20 @@
   padding: .9rem 1rem 1rem; border-radius: .55rem;
   transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
 }
+
+/* Preview cards are more compact than the hero ability/statblock cards, so their
+   shared .sc-head gets a SMALLER name + a tighter right rail. Without this the
+   full 1.5rem name (30px at Material's 20px rem base) plus a wide rail chip
+   ("Triggered Action" ~174px) starved the name track to ~160px, so a long single
+   word ("UNEARTHLY", 186px) could not fit and broke mid-word. 1.3rem (the size the
+   pre-.sc-head `.sc-prev__name` used) + a leaner rail let long names wrap on whole
+   words. Scoped to .sc-prev so the standalone .sc-ability / statblock heads keep
+   their larger embossed names. */
+.md-typeset .sc-prev .sc-head__left-primary { font-size: 1.3rem; }
+.sc-prev .sc-head__slot--chip { font-size: .82rem; padding: .12rem .4rem; }
+.sc-prev .sc-head__right-eyebrow,
+.sc-prev .sc-head__right-primary,
+.sc-prev .sc-head__right-deck { margin-left: .7rem; }
 .sc-prev[data-action="main"]      { --act: var(--sc-act-main); }
 .sc-prev[data-action="maneuver"]  { --act: var(--sc-act-maneuver); }
 .sc-prev[data-action="triggered"] { --act: var(--sc-act-triggered); }
@@ -197,7 +214,11 @@
 .sc-prev__kw { display: flex; flex-wrap: wrap; gap: .35rem; margin: .6rem 0 0; }
 .sc-prev__chip { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .03em; font-size: .8rem; color: var(--md-default-fg-color--light);
-  padding: .02rem .5rem; border-radius: 5px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02); }
+  /* inline-flex + line-height:1 optically centers the small-caps label and lets the
+     pill hug it, instead of inheriting Material's ~1.6 body line-height (which floated
+     the caps low). Mirrors .sc-head__slot--chip in steel-cardhead.css. */
+  display: inline-flex; align-items: center; line-height: 1;
+  padding: .18rem .5rem; border-radius: 5px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02); }
 [data-md-color-scheme="default"] .sc-prev__chip { background: rgba(0,0,0,.02); }
 
 /* foot — a thin meta line (distance/targets for abilities; "grants" for traits) */
