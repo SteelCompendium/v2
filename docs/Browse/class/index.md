@@ -8,6 +8,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Beastheart</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Might</span><span class="sc-tag">Intuition</span></div>
   <div class="sc-card__intro"><!-- raw HTML omitted -->
 <p>As a beastheart, you face the world's dangers alongside your wild companion. With your combined might, you rush into the thick of combat to challenge enemy champions or prowl around the outskirts to pick off vulnerable foes.</p></div>
 </div>
@@ -96,6 +97,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Summoner</div></div></div>
+  <div class="sc-card__tags"><span class="sc-tag">Reason</span></div>
   <div class="sc-card__intro"><!-- raw HTML omitted -->
 <p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p>
 <p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p></div>

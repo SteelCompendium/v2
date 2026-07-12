@@ -3,48 +3,70 @@ printing: "1.0"
 printing_book: "The Summoner"
 search:
   boost: 4
+average_potency: '[Reason](../rule/character/reason.md) - 1'
 flavor: You are the armada. The kings of old would trade armies for your abilities. You've undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.
 name: Summoner
+primary_characteristics:
+    - Reason
+recoveries: 8
 scc: mcdm.summoner.v1/class/summoner
+skills:
+    - You gain the [Magic](../skill/lore/magic.md) and [Strategy](../skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../skill/intrigue/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* [Eavesdrop](../skill/intrigue/eavesdrop.md), [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Strategy](../skill/lore/strategy.md).)
+stamina_per_level: 6
+starting_stamina: 15
+strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
+weak_potency: '[Reason](../rule/character/reason.md) - 2'
 ---
 
 # Summoner
 
 ---
 
-<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">The Summoner</div></div></header><p class="sc-classhead__flavor">You are the armada. The kings of old would trade armies for your abilities. You&#39;ve undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p></section>
+<section class="sc-classhead"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Class</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">The Summoner</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Reason</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--line">primary characteristics</div></div></header><p class="sc-classhead__flavor">You are the armada. The kings of old would trade armies for your abilities. You&#39;ve undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p><div class="sc-classhead__stats"><span class="sc-classhead__cell"><span class="l">Starting stamina</span><span class="v">15</span></span><span class="sc-classhead__cell"><span class="l">Stamina per level</span><span class="v">+6</span></span><span class="sc-classhead__cell"><span class="l">Recoveries</span><span class="v">8</span></span></div><div class="sc-classhead__pot"><span class="sc-classhead__cell"><span class="l">Weak potency</span><span class="v">Reason - 2</span></span><span class="sc-classhead__cell"><span class="l">Average potency</span><span class="v">Reason - 1</span></span><span class="sc-classhead__cell"><span class="l">Strong potency</span><span class="v">Reason</span></span></div><p class="sc-classhead__skills"><span class="l">Skills</span> You gain the Magic and Strategy skills and can choose any two skills from the intrigue or lore skill groups. (Quick Build: Eavesdrop, Magic, Monsters, Strategy.)</p></section>
 <nav class="sc-classnav" aria-label="Class sections"><a href="#basics">Basics</a><a href="#draw-steel-master-classes">Draw Steel Master Classes</a><span class="sc-classnav__lvls"><span class="l">Level</span><a href="#1st-level-features" title="1st-Level Features">1</a><a href="#2nd-level-features" title="2nd-Level Features">2</a><a href="#3rd-level-features" title="3rd-Level Features">3</a><a href="#4th-level-features" title="4th-Level Features">4</a><a href="#5th-level-features" title="5th-Level Features">5</a><a href="#6th-level-features" title="6th-Level Features">6</a><a href="#7th-level-features" title="7th-Level Features">7</a><a href="#8th-level-features" title="8th-Level Features">8</a><a href="#9th-level-features" title="9th-Level Features">9</a><a href="#10th-level-features" title="10th-Level Features">10</a></span><a href="#summoner-circle">Summoner Circle</a><a href="#minions">Minions</a><a href="#essence">Essence</a><a href="#summoner-strike">Summoner Strike</a><a href="#strike-for-me">Strike For Me</a><a href="#call-forth">Call Forth</a><a href="#minion-bridge">Minion Bridge</a><a href="#1st-level-circle-features">1st-Level Circle Features</a><a href="#formation">Formation</a><a href="#quick-command">Quick Command</a><a href="#portfolio">Portfolio</a><a href="#summoner-abilities">Summoner Abilities</a><a href="#5th-level-circle-feature">5th-Level Circle Feature</a></nav>
 
 You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.
 
 You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.
 
-## Basics {data-scc="mcdm.summoner.v1/feature.summoner.level-1/basics"}
+## Basics
 
-<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1">
-<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
-<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Basics</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
-<div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a <a href="../../rule/character/reason/">Reason</a> of 2, and you can choose one of the following arrays for your other <a href="../../rule/character/characteristic/">characteristics</a> scores:</p>
-<ul><li>2, 2, -1, -1</li><li>2, 1, 1, -1</li><li>2, 1, 0, 0</li><li>1, 1, 1, 0</li></ul>
-<p><b>Weak <a href="../../rule/character/potency/">Potency</a>:</b> <a href="../../rule/character/reason/">Reason</a> - 2</p>
-<p><b>Average <a href="../../rule/character/potency/">Potency</a>:</b> <a href="../../rule/character/reason/">Reason</a> - 1</p>
-<p><b>Strong <a href="../../rule/character/potency/">Potency</a>:</b> <a href="../../rule/character/reason/">Reason</a></p>
-<p><b>Starting <a href="../../rule/health/stamina/">Stamina</a> at 1st Level:</b> 15</p>
-<p><b><a href="../../rule/health/stamina/">Stamina</a> Gained at 2nd and Higher Levels:</b> 6</p>
-<p><b><a href="../../rule/health/recoveries/">Recoveries</a>:</b> 8</p>
-<p><b>Skills:</b> You gain the <a href="../../skill/lore/magic/">Magic</a> and <a href="../../skill/lore/strategy/">Strategy</a> skills and can choose any two skills from the <a href="../../skill/intrigue/">intrigue</a> or <a href="../../skill/lore/">lore</a> skill groups. (<em>Quick Build:</em> <a href="../../skill/intrigue/eavesdrop/">Eavesdrop</a>, <a href="../../skill/lore/magic/">Magic</a>, <a href="../../skill/lore/monsters/">Monsters</a>, <a href="../../skill/lore/strategy/">Strategy</a>.)</p>
-<div class="sc-trait__nest">
-<section class="sc-trait" data-action="trait">
-<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner Advancement</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
-<div class="sc-trait__body">
-<table><thead><tr><th>Level</th><th>Summoner Features</th><th>Circle Features</th><th>Minions</th><th>Abilities</th></tr></thead><tbody><tr><td>1st</td><td><a href="../../feature/summoner/level-1/minions/">Minions</a>, <a href="../../feature/summoner/level-1/essence/">Essence</a>, <a href="../../feature/summoner/level-1/summoner-strike/">Summoner Strike</a>, <a href="../../feature/summoner/level-1/strike-for-me/">Strike For Me</a>, <a href="../../feature/summoner/level-1/minion-bridge/">Minion Bridge</a>, <a href="../../feature/summoner/level-1/formation/">Formation</a>, <a href="../../feature/summoner/level-1/quick-command/">Quick Command</a>, <a href="../../feature/summoner/level-1/summoner-abilities/">Summoner Abilities</a></td><td><a href="../../feature/summoner/level-1/summoner-circle/">Summoner Circle</a>, <a href="../../feature/summoner/level-1/1st-level-circle-features/">Circle Features</a>, <a href="../../feature/summoner/level-1/portfolio/">Portfolio</a></td><td>1, 1, 3, 3</td><td>5</td></tr><tr><td>2nd</td><td><a href="../../feature/summoner/level-2/perk/">Perk</a></td><td><a href="../../feature/summoner/level-2/summoners-dominion/">Summoner&#39;s Dominion</a>, <a href="../../feature/summoner/level-2/new-portfolio-minion/">New Portfolio Minion</a></td><td>1, 1, 3, 3, 5</td><td>5</td></tr><tr><td>3rd</td><td><a href="../../feature/summoner/level-3/summoners-kit/">Summoner&#39;s Kit</a>, <a href="../../feature/summoner/level-3/7-essence-ability/">7-Essence Ability</a></td><td>—</td><td>1, 1, 3, 3, 5</td><td>5, 7</td></tr><tr><td>4th</td><td><a href="../../feature/summoner/level-4/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/summoner/level-4/minion-improvement/">Minion Improvement</a>, <a href="../../feature/summoner/level-4/essence-salvage/">Essence Salvage</a>, <a href="../../feature/summoner/level-4/minion-chain/">Minion Chain</a>, <a href="../../feature/summoner/level-4/perk/">Perk</a>, <a href="../../feature/summoner/level-4/skill/">Skill</a></td><td>—</td><td>1, 1, 3, 3, 5</td><td>5, 7</td></tr><tr><td>5th</td><td>—</td><td><a href="../../feature/summoner/level-5/5th-level-circle-feature/">Circle Feature</a>, <a href="../../feature/summoner/level-5/new-portfolio-minion/">New Portfolio Minion</a></td><td>1, 1, 3, 3, 5, 7</td><td>5, 7</td></tr><tr><td>6th</td><td><a href="../../feature/summoner/level-6/perk/">Perk</a>, <a href="../../feature/summoner/level-6/minion-machinations/">Minion Machinations</a>, <a href="../../feature/summoner/level-6/kit-improvement/">Kit Improvement</a>, <a href="../../feature/summoner/level-6/9-essence-ability/">9-Essence Ability</a></td><td><a href="../../feature/summoner/level-6/return-to-the-source/">Return to the Source</a></td><td>1, 1, 3, 3, 5, 7</td><td>5, 7, 9</td></tr><tr><td>7th</td><td><a href="../../feature/summoner/level-7/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/summoner/level-7/minion-improvement/">Minion Improvement</a>, <a href="../../feature/summoner/level-7/font-of-creation/">Font of Creation</a>, <a href="../../feature/summoner/level-7/their-life-for-mine/">Their Life for Mine</a>, <a href="../../feature/summoner/level-7/skill/">Skill</a></td><td>—</td><td>1, 1, 3, 3, 5, 7</td><td>5, 7, 9</td></tr><tr><td>8th</td><td><a href="../../feature/summoner/level-8/perk/">Perk</a></td><td><a href="../../feature/summoner/level-8/8th-level-circle-feature/">Circle Feature</a>, <a href="../../feature/summoner/level-8/portfolio-champion/">Portfolio Champion</a></td><td>1, 1, 3, 3, 5, 7, 9</td><td>5, 7, 9</td></tr><tr><td>9th</td><td><a href="../../feature/summoner/level-9/kit-improvement/">Kit Improvement</a>, <a href="../../feature/summoner/level-9/steward-of-two-worlds/">Steward of Two Worlds</a>, <a href="../../feature/summoner/level-9/11-essence-ability/">11-Essence Ability</a></td><td>—</td><td>1, 1, 3, 3, 5, 7, 9</td><td>5, 7, 9, 11</td></tr><tr><td>10th</td><td><a href="../../feature/summoner/level-10/characteristic-increase/">Characteristic Increase</a>, <a href="../../feature/summoner/level-10/minion-improvement/">Minion Improvement</a>, <a href="../../feature/summoner/level-10/eidos/">Eidos</a>, <a href="../../feature/summoner/level-10/no-matter-the-cost/">No Matter the Cost</a>, <a href="../../feature/summoner/level-10/among-our-ranks/">Among Our Ranks</a>, <a href="../../feature/summoner/level-10/perk/">Perk</a>, <a href="../../feature/summoner/level-10/skill/">Skill</a></td><td>—</td><td>1, 1, 3, 3, 5, 7, 9</td><td>5, 7, 9, 11</td></tr></tbody></table>
-</div>
-</section>
-</div>
-</div>
-</section>
+**Starting Characteristics:** You start with a [Reason](../rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristics](../rule/character/characteristic.md) scores:
+
+- 2, 2, -1, -1
+- 2, 1, 1, -1
+- 2, 1, 0, 0
+- 1, 1, 1, 0
+
+**Weak [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) - 2
+
+**Average [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md) - 1
+
+**Strong [Potency](../rule/character/potency.md):** [Reason](../rule/character/reason.md)
+
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 15
+
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
+
+**[Recoveries](../rule/health/recoveries.md):** 8
+
+**Skills:** You gain the [Magic](../skill/lore/magic.md) and [Strategy](../skill/lore/strategy.md) skills and can choose any two skills from the [intrigue](../skill/intrigue/index.md) or [lore](../skill/lore/index.md) skill groups. (*Quick Build:* [Eavesdrop](../skill/intrigue/eavesdrop.md), [Magic](../skill/lore/magic.md), [Monsters](../skill/lore/monsters.md), [Strategy](../skill/lore/strategy.md).)
+
+##### Summoner Advancement
+
+| Level | Summoner Features                                                                                                  | Circle Features                              | Minions           | Abilities  |
+|-------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------|------------|
+| 1st | [Minions](../feature/summoner/level-1/minions.md), [Essence](../feature/summoner/level-1/essence.md), [Summoner Strike](../feature/summoner/level-1/summoner-strike.md), [Strike For Me](../feature/summoner/level-1/strike-for-me.md), [Minion Bridge](../feature/summoner/level-1/minion-bridge.md), [Formation](../feature/summoner/level-1/formation.md), [Quick Command](../feature/summoner/level-1/quick-command.md), [Summoner Abilities](../feature/summoner/level-1/summoner-abilities.md) | [Summoner Circle](../feature/summoner/level-1/summoner-circle.md), [Circle Features](../feature/summoner/level-1/1st-level-circle-features.md), [Portfolio](../feature/summoner/level-1/portfolio.md) | 1, 1, 3, 3 | 5 |
+| 2nd | [Perk](../feature/summoner/level-2/perk.md) | [Summoner's Dominion](../feature/summoner/level-2/summoners-dominion.md), [New Portfolio Minion](../feature/summoner/level-2/new-portfolio-minion.md) | 1, 1, 3, 3, 5 | 5 |
+| 3rd | [Summoner's Kit](../feature/summoner/level-3/summoners-kit.md), [7-Essence Ability](../feature/summoner/level-3/7-essence-ability.md) | — | 1, 1, 3, 3, 5 | 5, 7 |
+| 4th | [Characteristic Increase](../feature/summoner/level-4/characteristic-increase.md), [Minion Improvement](../feature/summoner/level-4/minion-improvement.md), [Essence Salvage](../feature/summoner/level-4/essence-salvage.md), [Minion Chain](../feature/summoner/level-4/minion-chain.md), [Perk](../feature/summoner/level-4/perk.md), [Skill](../feature/summoner/level-4/skill.md) | — | 1, 1, 3, 3, 5 | 5, 7 |
+| 5th | — | [Circle Feature](../feature/summoner/level-5/5th-level-circle-feature.md), [New Portfolio Minion](../feature/summoner/level-5/new-portfolio-minion.md) | 1, 1, 3, 3, 5, 7 | 5, 7 |
+| 6th | [Perk](../feature/summoner/level-6/perk.md), [Minion Machinations](../feature/summoner/level-6/minion-machinations.md), [Kit Improvement](../feature/summoner/level-6/kit-improvement.md), [9-Essence Ability](../feature/summoner/level-6/9-essence-ability.md) | [Return to the Source](../feature/summoner/level-6/return-to-the-source.md) | 1, 1, 3, 3, 5, 7 | 5, 7, 9 |
+| 7th | [Characteristic Increase](../feature/summoner/level-7/characteristic-increase.md), [Minion Improvement](../feature/summoner/level-7/minion-improvement.md), [Font of Creation](../feature/summoner/level-7/font-of-creation.md), [Their Life for Mine](../feature/summoner/level-7/their-life-for-mine.md), [Skill](../feature/summoner/level-7/skill.md) | — | 1, 1, 3, 3, 5, 7 | 5, 7, 9 |
+| 8th | [Perk](../feature/summoner/level-8/perk.md) | [Circle Feature](../feature/summoner/level-8/8th-level-circle-feature.md), [Portfolio Champion](../feature/summoner/level-8/portfolio-champion.md) | 1, 1, 3, 3, 5, 7, 9 | 5, 7, 9 |
+| 9th | [Kit Improvement](../feature/summoner/level-9/kit-improvement.md), [Steward of Two Worlds](../feature/summoner/level-9/steward-of-two-worlds.md), [11-Essence Ability](../feature/summoner/level-9/11-essence-ability.md) | — | 1, 1, 3, 3, 5, 7, 9 | 5, 7, 9, 11 |
+| 10th | [Characteristic Increase](../feature/summoner/level-10/characteristic-increase.md), [Minion Improvement](../feature/summoner/level-10/minion-improvement.md), [Eidos](../feature/summoner/level-10/eidos.md), [No Matter the Cost](../feature/summoner/level-10/no-matter-the-cost.md), [Among Our Ranks](../feature/summoner/level-10/among-our-ranks.md), [Perk](../feature/summoner/level-10/perk.md), [Skill](../feature/summoner/level-10/skill.md) | — | 1, 1, 3, 3, 5, 7, 9 | 5, 7, 9, 11 |
 
 ## Draw Steel Master Classes
 
