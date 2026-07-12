@@ -138,6 +138,11 @@
 .sc-trait__body ul li::before { content: ""; position: absolute; left: .15rem; top: .62em;
   width: 6px; height: 6px; transform: translateY(-50%) rotate(45deg);
   background: var(--fx-metal); }
+/* multi-paragraph item (continuation paragraphs): keep the lead line flush with
+   the diamond marker */
+.sc-trait__body ul li > p { margin: .35rem 0; }
+.sc-trait__body ul li > p:first-child { margin-top: 0; }
+.sc-trait__body ul li > p:last-child { margin-bottom: 0; }
 
 /* optional engraved drop cap on the opening paragraph (modifier).
    Suppressed globally by the "Hide drop caps" setting (data-no-dropcap on <html>). */
