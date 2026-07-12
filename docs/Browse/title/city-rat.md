@@ -18,6 +18,8 @@ type: title
 
 *Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You have spent at least five [respites](../rule/resource/respite.md) in a metropolis.
 
 **Effect:** Choose one of the following benefits:

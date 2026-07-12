@@ -18,6 +18,8 @@ type: title
 
 *Let's find out who's on the other side of the circle.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You complete a ritual to summon a non-minion entity using a summoning circle you drew.
 
 **Effect:** Choose one of the following benefits:

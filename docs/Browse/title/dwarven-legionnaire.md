@@ -18,6 +18,8 @@ type: title
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, [stand fast](../feature/censor/level-5/stand-fast.md), and do not yield.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You fight alongside three or more [dwarves](../ancestry/dwarf.md).
 
 **Effect:** Choose one of the following benefits:

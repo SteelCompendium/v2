@@ -18,6 +18,8 @@ type: title
 
 *Best way to deal with a castle siege? Be on the outside.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You have the [Battlefield Commander](battlefield-commander.md) title, and you lead the defense of a settlement or fortification.
 
 **Effect:** Choose one of the following benefits:

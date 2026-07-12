@@ -18,6 +18,8 @@ type: title
 
 *You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You defeat a leader or solo creature with a [Reason](../rule/character/reason.md) score of −2 or lower, such as an arixx.
 
 **Effect:** Choose one of the following benefits:

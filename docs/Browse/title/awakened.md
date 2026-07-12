@@ -18,6 +18,8 @@ type: title
 
 *I was grappling with them, and when they died... I felt something happen. To me.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You defeat a leader or solo creature who has at least one ability with the Psionic keyword, such as a voiceless talker evolutionist.
 
 **Effect:** Choose one of the following benefits:

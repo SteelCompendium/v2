@@ -18,6 +18,8 @@ type: title
 
 *F'lath v'korr en zaratha g'rrack.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You defeat a leader or solo creature with the Demon keyword, such as a soulraker hivequeen, or you are possessed by a demon.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You save a community from certain destruction.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *We seem to be equals in might and combat prowess. Perhaps we should bandy words awhile instead.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You gain the friendship or alliance of a creature you once battled.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *The quest is done, the enemy is defeated, and the Blade of a Thousand Years has passed from our hands. What do we do with the rest of our lives?*
 
+**Echelon:** 4th
+
 **Prerequisite:** Your party loses, destroys, or otherwise parts with an artifact.
 
 **Effect:** A [characteristic](../rule/character/characteristic.md) of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:

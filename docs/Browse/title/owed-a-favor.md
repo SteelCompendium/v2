@@ -18,6 +18,8 @@ type: title
 
 *The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You successfully perform a service for a powerful faction.
 
 **Effect:** The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.

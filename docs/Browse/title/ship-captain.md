@@ -18,6 +18,8 @@ type: title
 
 *Up anchor, shipmates! 'Tisn't gold but glory we seek!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You acquire a ship, airship, or similar vessel.
 
 **Effect:** Choose one of the following benefits:

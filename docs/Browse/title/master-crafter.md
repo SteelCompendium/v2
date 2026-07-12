@@ -18,6 +18,8 @@ type: title
 
 *The sword Vanartha has been remade, mightier now than on the day it was forged.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You complete a downtime project to imbue armor, an [implement](../rule/treasure/implement.md), or a weapon with a 9th-level [enhancement](../rule/treasure/enhancement.md).
 
 **Effect:** Choose one of the following benefits:

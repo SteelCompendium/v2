@@ -18,6 +18,8 @@ type: title
 
 *We won't kill you. But you might wish we had.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You triumph in battle without killing any of your foes.
 
 **Effect:** Choose one of the following benefits:

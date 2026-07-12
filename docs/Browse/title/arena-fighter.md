@@ -18,6 +18,8 @@ type: title
 
 *You've never seen the showstopper? The move so brutal it was banned in the arena? Come closer and I'll show it to you.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You are victorious in battle in an arena or some other public contest of combat.
 
 **Effect:** Choose one of the following benefits:

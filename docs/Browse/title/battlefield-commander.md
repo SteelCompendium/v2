@@ -18,6 +18,8 @@ type: title
 
 *Spells and shadows have their place, but it takes soldiers to hold the field.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You lead an army in battle and win.
 
 **Effect:** Choose one of the following benefits:

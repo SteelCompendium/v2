@@ -18,6 +18,8 @@ type: title
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
+**Echelon:** 4th
+
 **Prerequisite:** You have the [Unstoppable](unstoppable.md) title, and you make or assist on a [test](../rule/test/test.md) as part of a [montage test](../rule/test/montage-test.md) that obtains a full success.
 
 **Effect:** Your choice of your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:

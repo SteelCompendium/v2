@@ -18,6 +18,8 @@ type: title
 
 *I remember this world. I suppose my task is not yet complete.*
 
+**Echelon:** 4th
+
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.
 
 **Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your [Intuition](../rule/character/intuition.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6).

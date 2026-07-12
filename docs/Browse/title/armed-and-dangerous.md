@@ -18,6 +18,8 @@ type: title
 
 *I'm not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You can't use kits, and you defeat five non-minion enemies using weapon abilities that don't have the Magic or Psionic keyword.
 
 **Effect:** You can use and gain the benefits of kits.

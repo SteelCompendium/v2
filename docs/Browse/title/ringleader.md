@@ -18,6 +18,8 @@ type: title
 
 *Don't worry. I've got a guy.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You complete three downtime projects during the same [respite](../rule/resource/respite.md) with the help of [followers](../rule/general/follower.md) or minions.
 
 **Effect:** You no longer need [line of effect](../rule/combat/line-of-effect.md) to give commands to any minions you can summon. Additionally, choose one of the following benefits:

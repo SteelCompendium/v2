@@ -18,6 +18,8 @@ type: title
 
 *All hail the Pirate Queen!*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You have the [Corsair](corsair.md) title, and you lead a fleet of at least three ships.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *Why won't you die?! You've already done it once, you should be good at it by now!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You defeat a leader or solo creature with the Undead keyword, such as a ghost.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *Flow, blood, thou fiend's libation, and catch my foes in conflagration!*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You participate in a Discover Lore project to learn forbidden knowledge.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?*
 
+**Echelon:** 1st
+
 **Prerequisite:** You join an organization that hunts criminals, such as the Far Mariners (see [Orden](../rule/world/orden.md) and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.
 
 **Effect:** Choose one of the following benefits:

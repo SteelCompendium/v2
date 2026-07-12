@@ -18,6 +18,8 @@ type: title
 
 *The tyrant is dead! Long live the new king!*
 
+**Echelon:** 4th
+
 **Prerequisite:** You or a member of your party becomes the [monarch](monarch.md) of a nation.
 
 **Effect:** You gain the following benefits:

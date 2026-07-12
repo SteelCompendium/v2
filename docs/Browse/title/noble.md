@@ -18,6 +18,8 @@ type: title
 
 *Technically, I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** A [monarch](monarch.md) or important [noble](noble.md) grants you a [noble](noble.md) rank.
 
 **Effect:** Choose one of the following benefits:

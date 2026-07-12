@@ -18,6 +18,8 @@ type: title
 
 *It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
 
+**Echelon:** 1st
+
 **Prerequisite:** You find a trove of forgotten books.
 
 **Effect:** Choose one of the following benefits:

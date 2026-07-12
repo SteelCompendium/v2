@@ -18,6 +18,8 @@ type: title
 
 *If you can't beat 'em, join 'em.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You defeat a leader or solo creature with the [Devil](../ancestry/devil.md) keyword, such as an archdevil, or you make a deal with a [devil](../ancestry/devil.md).
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *Come back here, puny one, and let me crush you!*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.
 
 **Effect:** Choose one of the following benefits:

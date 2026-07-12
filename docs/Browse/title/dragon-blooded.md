@@ -18,6 +18,8 @@ type: title
 
 *I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.*
 
+**Echelon:** 3rd
+
 **Prerequisite:** You defeat a leader or solo creature with the Dragon keyword, such as a gloom dragon.
 
 **Effect:** Choose one of the following benefits:

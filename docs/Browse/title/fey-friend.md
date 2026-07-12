@@ -18,6 +18,8 @@ type: title
 
 *Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You eat and drink with an elf [monarch](monarch.md) or archfey.
 
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:

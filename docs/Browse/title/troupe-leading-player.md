@@ -18,6 +18,8 @@ type: title
 
 *We're actors! We're the opposite of people!*
 
+**Echelon:** 1st
+
 **Prerequisite:** The party has successfully performed as a troupe of actors, circus performers, or other entertainers.
 
 **Effect:** Choose one of the following benefits:

@@ -18,6 +18,8 @@ type: title
 
 *He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You do a favor for an agent of a god or [saint](../rule/world/saint.md), or promise to do so.
 
 **Effect:** Choose one of the following benefits:

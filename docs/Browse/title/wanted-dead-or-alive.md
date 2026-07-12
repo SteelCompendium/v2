@@ -18,6 +18,8 @@ type: title
 
 *A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You are declared an outlaw by a governmental authority.
 
 **Effect:** Choose one of the following benefits:

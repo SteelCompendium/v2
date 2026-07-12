@@ -18,6 +18,8 @@ type: title
 
 *They risk their lives for me because I risk my life for theirs. This fight belongs to all of us!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You earn a noble rank or earn the favor of a knight's guild.
 
 **Effect:** You start combat encounters with a squad of three minions from the specific monster band or people you earned this title from. The squad takes their [turn](../rule/combat/turn.md) as a part of your turn. On the squad's turn, they can take a move action and either a main action or a maneuver.

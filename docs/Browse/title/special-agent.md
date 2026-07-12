@@ -18,6 +18,8 @@ type: title
 
 *And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
 
+**Echelon:** 2nd
+
 **Prerequisite:** A spymaster gives you an important secret mission.
 
 **Effect:** Choose one of the following benefits:

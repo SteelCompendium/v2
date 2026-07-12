@@ -18,6 +18,8 @@ type: title
 
 *There goes Diana, [peace bringer](peace-bringer.md). She has won many a [victory](../rule/resource/victories.md) with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
+**Echelon:** 4th
+
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 
 **Effect:** Your choice of your [Reason](../rule/character/reason.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:

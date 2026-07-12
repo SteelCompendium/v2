@@ -18,6 +18,8 @@ type: title
 
 *No, I didn't get bitten. And yes, I'm fine!*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You are killed by an undead creature.
 
 **Effect:** You return to life 1 minute after being killed with [Stamina](../rule/health/stamina.md) equal to your [winded](../rule/health/winded.md) value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.

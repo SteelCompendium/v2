@@ -18,6 +18,8 @@ type: title
 
 *Everybody know their assignments? All right, let's go.*
 
+**Echelon:** 2nd
+
 **Prerequisite:** You have the [Troupe Leading Player](troupe-leading-player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
 **Effect:** Choose one of the following benefits:

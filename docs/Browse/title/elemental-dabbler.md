@@ -18,6 +18,8 @@ type: title
 
 *Spirit of fire, I command you!*
 
+**Echelon:** 1st
+
 **Prerequisite:** You defeat a creature with the Elemental keyword, such as a crux of fire.
 
 **Effect:** Choose a [damage type](../rule/damage/damage-type.md) to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:

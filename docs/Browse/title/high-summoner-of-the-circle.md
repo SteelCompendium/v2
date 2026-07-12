@@ -18,6 +18,8 @@ type: title
 
 *As I was taught, so I pass on to you.*
 
+**Echelon:** 4th
+
 **Prerequisite:** You are a [summoner](../class/summoner.md), and you teach someone how to call forth two or more minions from your [portfolio](../feature/summoner/level-1/portfolio.md).
 
 **Effect:** You are considered a master that can be learned from using the [Learn from a Master](../project/learn-from-a-master.md) downtime project in Draw Steel: Heroes. Anyone that makes a [project roll](../rule/downtime/project-roll.md) using you as the source gains a bonus to their roll equal to your [Reason](../rule/character/reason.md). Additionally, choose one of the following benefits:
