@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "2"
 effect: 'Choose one of the following benefits:'
 flavor: You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.
 name: Master Librarian

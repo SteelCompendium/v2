@@ -3,6 +3,7 @@ printing: "1.0"
 printing_book: "The Summoner"
 search:
   boost: 2
+echelon: "4"
 effect: 'You are considered a master that can be learned from using the [Learn from a Master](../project/learn-from-a-master.md) downtime project in Draw Steel: Heroes. Anyone that makes a [project roll](../rule/downtime/project-roll.md) using you as the source gains a bonus to their roll equal to your [Reason](../rule/character/reason.md). Additionally, choose one of the following benefits:'
 flavor: As I was taught, so I pass on to you.
 name: High Summoner of the Circle

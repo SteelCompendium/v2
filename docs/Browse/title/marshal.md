@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "1"
 effect: 'Choose one of the following benefits:'
 flavor: I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?
 name: Marshal

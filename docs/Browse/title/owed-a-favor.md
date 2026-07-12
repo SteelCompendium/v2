@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "1"
 effect: The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 flavor: The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.
 name: Owed a Favor

@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "1"
 effect: 'Choose one of the following benefits:'
 flavor: Why won't you die?! You've already done it once, you should be good at it by now!
 name: Zombie Slayer

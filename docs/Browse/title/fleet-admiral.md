@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "3"
 effect: 'Choose one of the following benefits:'
 flavor: All hail the Pirate Queen!
 name: Fleet Admiral

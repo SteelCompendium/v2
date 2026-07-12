@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "3"
 effect: 'Choose one of the following benefits:'
 flavor: I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.
 name: Dragon Blooded

@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "2"
 effect: 'Choose one of the following benefits:'
 flavor: He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.
 name: Godsworn

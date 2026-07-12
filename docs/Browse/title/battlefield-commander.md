@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "2"
 effect: 'Choose one of the following benefits:'
 flavor: Spells and shadows have their place, but it takes soldiers to hold the field.
 name: Battlefield Commander

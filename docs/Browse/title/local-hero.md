@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "1"
 effect: 'Choose one of the following benefits:'
 flavor: Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!
 name: Local Hero

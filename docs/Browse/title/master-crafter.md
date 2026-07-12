@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "3"
 effect: 'Choose one of the following benefits:'
 flavor: The sword Vanartha has been remade, mightier now than on the day it was forged.
 name: Master Crafter

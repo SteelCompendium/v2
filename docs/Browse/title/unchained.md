@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "4"
 effect: 'Your choice of your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 flavor: I'll never get away with it? My dear, I already have.
 name: Unchained

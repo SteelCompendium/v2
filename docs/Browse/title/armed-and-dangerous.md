@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "3"
 effect: You can use and gain the benefits of kits.
 flavor: I'm not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.
 name: Armed and Dangerous

@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "4"
 effect: 'You gain the following benefits:'
 flavor: The tyrant is dead! Long live the new king!
 name: Monarch

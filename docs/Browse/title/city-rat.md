@@ -3,6 +3,7 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
+echelon: "1"
 effect: 'Choose one of the following benefits:'
 flavor: Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.
 name: City Rat
