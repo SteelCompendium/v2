@@ -407,6 +407,33 @@
 .sb__band:not([open]) .sb__band-chev { transform: rotate(-90deg); }
 .sb__band-body { padding: .25rem .65rem .7rem; display: flex; flex-direction: column; gap: .55rem; }
 /* a closed <details> hides .sb__band-body natively — no display rule needed */
+/* Material styles EVERY .md-typeset details/summary as a collapsible "note"
+   admonition — blue border + tinted bg, pencil ::before, chevron ::after,
+   block-layout summary with 2rem icon padding, .64rem font — at (0,1,1),
+   which beats the (0,1,0) band rules above (SC-66: doubled chevron, stray
+   pencil, cramped header, shrunken text). Re-assert the band's chrome at
+   tie-the-theme specificity — extra_css loads after the theme so ties break
+   our way — while staying under the (0,3,0) [data-sb-villain="inline"]
+   overrides below. Watch the outliers: the summary padding/radius come from
+   "[dir=ltr] .md-typeset summary" (0,2,1) and the :last-child margin from
+   "html .md-typeset details>:last-child" (0,2,2), so those two rules carry
+   matching bumps. */
+:where(.md-typeset) details.sb__band {
+  display: block; margin: .65rem 0 0; padding: 0;
+  border: 1px solid var(--fx-metal-line); border-radius: 10px;
+  box-shadow: none; font-size: inherit; color: inherit;
+}
+:where(.md-typeset) details.sb__band:focus-within { box-shadow: none; }
+:where(.md-typeset) details.sb__band--villain { background: color-mix(in srgb, #e0584b 6%, transparent); }
+:where(.md-typeset) details.sb__band--malice  { background: color-mix(in srgb, #9aa2a8 8%, transparent); }
+html :where(.md-typeset) details.sb__band > :last-child { margin-bottom: 0; }
+.md-typeset summary.sb__band-head {
+  display: flex; min-height: 0; margin: 0; padding: .6rem .8rem;
+  border: none; border-radius: 0; font-weight: inherit; overflow: visible;
+  background: linear-gradient(180deg, rgba(255,255,255,.05), transparent);
+}
+.md-typeset summary.sb__band-head::before,
+.md-typeset summary.sb__band-head::after { content: none; }
 .sb__band-intro { font-family: var(--md-small-header-font); font-style: italic; color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.5; margin: .4rem .2rem .15rem; text-wrap: pretty; }
 .sb__band-source { font-variant: small-caps; font-style: normal; letter-spacing: .05em; color: var(--fx-metal); font-size: .82rem; }
 /* flat-mode features inside a band get the same separators.

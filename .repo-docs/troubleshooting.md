@@ -106,6 +106,27 @@ chrome has never rendered — and the unanchored `:not([data-sb-kwusage="crest"]
 selectors match `body`, so "non-crest" separators apply in every mode. Both are
 load-bearing for the current look; see workspace `FOLLOWUPS.md` #9 before "fixing".
 
+### A custom `<details>`/`<summary>` component grows a pencil icon, blue border, second chevron
+
+**Symptom:** A build-time-rendered collapsible (e.g. the statblock Villain Actions
+band) shows Material admonition chrome on top of its own design: a blue "note"
+pencil at top-left, a blue border + tinted background, a chevron at the right edge
+doubling the component's own, a cramped block-layout header, and `.64rem` shrunken
+text (SC-66).
+
+**Cause:** Material styles **every** `.md-typeset details/summary` as a collapsible
+"note" admonition at (0,1,1) — plus `[dir=ltr] .md-typeset summary` (0,2,1) for the
+icon padding and `html .md-typeset details>:last-child` (0,2,2) for a body margin —
+which beats typical single-class component rules (0,1,0). Same family as the
+`.md-typeset` chrome leaks above: theme selectors silently win on specificity.
+
+**Fix pattern:** re-assert the component's chrome at *tie-the-theme* specificity —
+`extra_css` loads after the theme, so ties break our way — and kill the pseudo-element
+icons with `content: none`. Keep the overrides *below* any mode/preference selectors
+(e.g. `[data-sb-villain="inline"]` at (0,3,0)). Worked example + selector-by-selector
+notes: the "Material admonition-chrome neutralizer" block in `steel-statblock.css`;
+regression guard: `tests/e2e/statblock-band.e2e.cjs`.
+
 ### Browser E2E: the Playwright **MCP** is broken, but Playwright **via Brave** works
 
 **The MCP `browser_*` tools do not work here.** `browser_navigate` / `browser_click` /

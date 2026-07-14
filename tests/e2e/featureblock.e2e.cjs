@@ -36,7 +36,7 @@ function resolvePlaywrightCore() {
 
 const BASE = process.env.E2E_BASE || "http://127.0.0.1:8124/";
 const BRAVE = process.env.BRAVE_PATH || "/opt/brave.com/brave/brave";
-const MALICE = BASE + "Browse/monster/elementals/elemental-malice/";
+const MALICE = BASE + "Browse/monster/elemental/elemental-malice/";
 const TERRAIN = BASE + "Browse/dynamic-terrain/supernatural-objects/the-black-obelisk/";
 
 let failures = 0;

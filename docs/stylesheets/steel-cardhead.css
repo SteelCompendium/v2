@@ -115,9 +115,14 @@
 
 /* --chip: a compact pill. inline-flex + line-height 1 so the small-caps label is
    optically centered and the pill hugs it height-wise — Material's ~1.6 body
-   line-height otherwise inflates the chip and floats the caps high. */
+   line-height otherwise inflates the chip and floats the caps high.
+   gap: flex drops whitespace-only text nodes between items, so mixed content
+   ("2 <a>Malice</a>", "<a>Villain Action</a> 1") rendered with no space
+   (SC-66); every mixed chip site-wide wants exactly one space at its element
+   boundaries, so restore it as a gap. */
 .sc-head__slot--chip {
   display: inline-flex; align-items: center; justify-content: center; text-align: center;
+  gap: .27em;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .04em; font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
