@@ -40,6 +40,18 @@
   box-shadow: var(--fx-bevel), inset 0 0 40px rgba(0,0,0,.03);
 }
 
+/* A section-scale trait tree (sc-trait--section, stamped by steel-etl when the
+   tree has grandchildren — e.g. an ancestry's whole "X Traits" subtree): the
+   crested header still labels it, but a card panel spanning 1,500-2,300px is
+   invisible except its 3px act spine, which reads as a stray purple line down
+   the page gutter (SC-84). Drop the panel chrome — the nested sections carry
+   the visual framing. (0,3,0), placed after the light-scheme override so it
+   beats both base rules. */
+.md-typeset .sc-trait.sc-trait--section {
+  border: none; border-radius: 0; padding: 0;
+  background: none; box-shadow: none;
+}
+
 /* action-type → spine + accent (default trait = purple) */
 .sc-trait[data-action="main"]      { --act: var(--sc-act-main); }
 .sc-trait[data-action="maneuver"]  { --act: var(--sc-act-maneuver); }
