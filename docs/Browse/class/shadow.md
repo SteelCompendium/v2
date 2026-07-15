@@ -314,7 +314,7 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 
 ### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -635,7 +635,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 
 ### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -1132,7 +1132,7 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 
 ### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -1485,7 +1485,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 
 ### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">

@@ -471,7 +471,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 
 ### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elementalist Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -1582,7 +1582,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 
 ### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">

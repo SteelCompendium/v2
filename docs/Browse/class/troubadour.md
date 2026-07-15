@@ -178,7 +178,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 
 ### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="7">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Class Act Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -429,7 +429,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 
 ### Signature Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/signature-ability"}
 
-<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="5">
+<section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -746,7 +746,7 @@ As a 2nd-level [troubadour](troubadour.md), you gain the following features.
 
 ### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -880,7 +880,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 
 ### 3rd-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/3rd-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3rd-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
@@ -1119,7 +1119,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 
 ### 5th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/5th-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
@@ -1332,7 +1332,7 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 
 ### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -1521,7 +1521,7 @@ As an 8th-level [troubadour](troubadour.md), you gain the following features.
 
 ### 8th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/8th-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
@@ -1673,7 +1673,7 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 
 ### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">

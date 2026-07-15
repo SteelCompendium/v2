@@ -271,7 +271,7 @@ As a 1st-level [fury](fury.md), you gain the following features.
 
 ### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fury Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -593,7 +593,7 @@ As a 2nd-level [fury](fury.md), you gain the following features.
 
 ### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -1094,7 +1094,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 ### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -1451,7 +1451,7 @@ As a 9th-level [fury](fury.md), you gain the following features.
 
 ### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">

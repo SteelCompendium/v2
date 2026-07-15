@@ -100,7 +100,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 
 ## Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
 
-<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dragon Knight Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dragon Knight</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">

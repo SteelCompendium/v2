@@ -343,7 +343,7 @@ As a 1st-level [censor](censor.md), you gain the following features.
 
 ### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Censor Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -691,7 +691,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 
 ### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -1203,7 +1203,7 @@ As a 6th-level [censor](censor.md), you gain the following features.
 
 ### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -1659,7 +1659,7 @@ As a 9th-level [censor](censor.md), you gain the following features.
 
 ### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">

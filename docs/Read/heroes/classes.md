@@ -818,7 +818,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Censor Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -1166,7 +1166,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -1678,7 +1678,7 @@ As a 6th-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -2134,7 +2134,7 @@ As a 9th-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Order Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Censor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -2411,7 +2411,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 
 #### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Piety</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -2849,7 +2849,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 
 #### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Conduit Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -5004,7 +5004,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 
 #### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elementalist Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -6115,7 +6115,7 @@ As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 
 #### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
@@ -6713,7 +6713,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 
 #### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fury Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -7035,7 +7035,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 
 #### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -7536,7 +7536,7 @@ Additionally, you can speak with elemental creatures, and when you are in a nego
 
 #### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -7893,7 +7893,7 @@ As a 9th-level [fury](../../Browse/class/fury.md), you gain the following featur
 
 #### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Aspect Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -8841,7 +8841,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 
 #### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Null Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -9240,7 +9240,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 
 #### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -9678,7 +9678,7 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 
 #### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-6/6th-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -10066,7 +10066,7 @@ As a 9th-level [null](../../Browse/class/null.md), you gain the following featur
 
 #### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -10591,7 +10591,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -10912,7 +10912,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -11409,7 +11409,7 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -11762,7 +11762,7 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -12275,7 +12275,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### Tactician Abilities {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactician-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactician Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -12506,7 +12506,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -12938,7 +12938,7 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### 6th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-6/6th-level-doctrine-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -13311,7 +13311,7 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### 9th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-9/9th-level-doctrine-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -13890,7 +13890,7 @@ You have the following ability.
 
 #### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Talent Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -14312,7 +14312,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -14901,7 +14901,7 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -15339,7 +15339,7 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-9/9th-level-tradition-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Tradition Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
@@ -15743,7 +15743,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="7">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Class Act Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -15994,7 +15994,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### Signature Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/signature-ability"}
 
-<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="5">
+<section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Signature Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -16311,7 +16311,7 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
 <div class="sc-trait__body">
@@ -16445,7 +16445,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 3rd-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/3rd-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3rd-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
@@ -16684,7 +16684,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 5th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/5th-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
@@ -16897,7 +16897,7 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
 <div class="sc-trait__body">
@@ -17086,7 +17086,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 
 #### 8th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/8th-level-class-act-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Class Act Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
@@ -17238,7 +17238,7 @@ As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
+<section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Class Act Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
 <div class="sc-trait__body">
