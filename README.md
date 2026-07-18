@@ -2,6 +2,18 @@
 
 Improved navigation and search for the [Steel Compendium](https://steelcompendium.io) Draw Steel rules site.
 
+## What it looks like
+
+|                                                                              |                                                                                    |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![Landing page](assets/readme/v2-index.png)<br>[Home](https://steelcompendium.io/v2/) — tab overview + data-format links | ![Browse](assets/readme/browse-index.png)<br>[Browse](https://steelcompendium.io/v2/Browse/) — rules by type |
+| ![Read](assets/readme/read-index.png)<br>[Read](https://steelcompendium.io/v2/Read/) — book-faithful chapters | ![Bestiary](assets/readme/bestiary-index.png)<br>[Bestiary](https://steelcompendium.io/v2/Bestiary/) — search/filter + encounter builder |
+| ![Class page](assets/readme/class-fury.png)<br>[Class page](https://steelcompendium.io/v2/Browse/class/fury/) — Fury, with level tabs | ![Statblock page](assets/readme/statblock-chimera.png)<br>[Statblock page](https://steelcompendium.io/v2/Browse/monster/chimera/chimera/) — Chimera |
+
+Dark mode is also supported (toggle top-right):
+
+![Landing page, dark mode](assets/readme/v2-index-dark.png)
+
 ## Navigation tabs
 
 - **Browse** — modular, shareable rules pages by type (classes, abilities, conditions, kits, treasures, monsters, …). Class pages open with a landing header + section jump bar; per-class ability indexes carry a sortable all-abilities table.
