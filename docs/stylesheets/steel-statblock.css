@@ -600,9 +600,33 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   .sb__defenses { grid-template-columns: repeat(3, 1fr); }
   .sb__meta { grid-template-columns: 1fr; }
   [data-sb-meta="ledger"] .sb__meta { gap: 0; }
-  .sb__sticky-row1 { gap: .4rem .7rem; }
-  .sb__sticky-stats { gap: .4rem .7rem; }
+
+  /* ── compact phone sticky (FOLLOWUPS #23) ──
+     At phone widths the full 3-line reveal (name+role wrapping across lines,
+     the defs/chars stats row wrapping onto its own extra line, then the row2
+     detail line) ate ~1/4 of the screen while scrolled. Force a clean 2-line
+     bar instead: name+role stays one truncating line (ellipsis; a sighted
+     reader can stop scrolling to see the full name in the real header a beat
+     later — a `title` tooltip needs a build-time markup change, out of scope
+     here), then ALL stat pills (defs + chars) share one full-width line,
+     tightened. Row2 (movement/captain/immunity/weakness) is dropped — it's
+     redundant with the `.sb__meta` fields already visible a short scroll
+     below in the full header, and is what pushed the bar to a 3rd/4th line.
+     `max-height` on .sb__sticky-inner is just a reveal-animation ceiling
+     (see the STICKY section above) — shrinking real content under it doesn't
+     need a matching edit, the box still sizes to content. */
+  .sb__sticky-row2 { display: none; }
+  .sb__sticky-row1 { flex-wrap: wrap; row-gap: .3rem; gap: .3rem .7rem; }
+  .sb__sticky-id { min-width: 0; flex: 1 1 auto; }
+  .sb__sticky-name {
+    display: block; min-width: 0; max-width: 100%; flex: 1 1 auto; font-size: 1rem;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .sb__sticky-role { flex: 0 0 auto; }
+  .sb__sticky-stats { flex-basis: 100%; margin-left: 0; gap: .35rem .6rem; }
   .sb__sticky-chars { margin-left: 0; padding-left: 0; border-left: none; }
+  .sb__sticky .m, .sb__sticky .c { font-size: .66rem; }
+  .sb__sticky .m b, .sb__sticky .c b { font-size: .84rem; }
 }
 @media (max-width: 23em) { .sb__defenses { grid-template-columns: repeat(2, 1fr); } }
 
