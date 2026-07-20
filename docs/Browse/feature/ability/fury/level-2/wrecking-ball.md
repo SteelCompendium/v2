@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*It&#39;s easier to destroy than to create. Much easier, in fact!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **Maneuver** |&#10;|------------------------|-------------:|&#10;| **📏 Self; see below** |  **🎯 Self** |&#10;&#10;**Effect:** You move up to your &#91;speed](../../../../rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are &#91;difficult terrain](../../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of &#91;difficult terrain](../../../../movement/difficult-terrain.md).&#10;&#10;Additionally, you make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move &#91;adjacent](../../../../rule/combat/adjacent.md) to during this movement.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** &#91;Push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** &#91;Push](../../../../movement/forced-movement.md) 2&#10;- **17+:** &#91;Push](../../../../movement/forced-movement.md) 3"></template>
+<template class="sc-src" data-fmt="md" data-src="*It&#39;s easier to destroy than to create. Much easier, in fact!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------------|-------------:|&#10;| **📏 Self; see below** |  **🎯 Self** |&#10;&#10;**Effect:** You move up to your &#91;speed](../../../../rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are &#91;difficult terrain](../../../../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of &#91;difficult terrain](../../../../movement/difficult-terrain.md).&#10;&#10;Additionally, you make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy you move &#91;adjacent](../../../../rule/combat/adjacent.md) to during this movement.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** &#91;Push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** &#91;Push](../../../../movement/forced-movement.md) 2&#10;- **17+:** &#91;Push](../../../../movement/forced-movement.md) 3"></template>

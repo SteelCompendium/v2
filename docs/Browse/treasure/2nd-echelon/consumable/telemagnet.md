@@ -6,11 +6,13 @@ search:
 echelon: "2"
 effect: 'As a maneuver, you snap this wand in half, letting you vertically [pull](../../../movement/forced-movement.md) one object or creature of [size](../../../rule/character/size.md) 3 or less a number of squares based on that target''s [size](../../../rule/character/size.md):'
 flavor: A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.
+item_prerequisite: A shard of prismacore, an ounce of ferrous metal
 keywords:
     - Psionic
 name: Telemagnet
 project_goal: "90"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Zaliac
 scc: mcdm.heroes.v1/treasure.2nd-echelon.consumable/telemagnet
 treasure_type: consumable
 type: treasure

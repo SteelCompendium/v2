@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 7 Focus
 distance: Self
@@ -33,4 +33,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your allies see the advantages in attacking the targets you select.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 &#91;surges](../../../../rule/resource/surge.md), which they can use immediately."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your allies see the advantages in attacking the targets you select.*&#10;&#10;| **-**       | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 &#91;surges](../../../../rule/resource/surge.md), which they can use immediately."></template>

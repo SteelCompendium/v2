@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 3 Essence
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You open a rift into the void to harry your foes.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |               **Main action** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 psychic damage&#10;- **12-16:** 4 psychic damage&#10;- **17+:** 6 psychic damage&#10;&#10;**Persistent 1:** At the start of your &#91;turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>
+<template class="sc-src" data-fmt="md" data-src="*You open a rift into the void to harry your foes.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 psychic damage&#10;- **12-16:** 4 psychic damage&#10;- **17+:** 6 psychic damage&#10;&#10;**Persistent 1:** At the start of your &#91;turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>

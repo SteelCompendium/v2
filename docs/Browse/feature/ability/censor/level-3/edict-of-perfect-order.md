@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 7 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Within the area of your divine presence, your enemies will regret using their fell abilities.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your &#91;Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*Within the area of your divine presence, your enemies will regret using their fell abilities.*&#10;&#10;| **Area, Magic** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your &#91;Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage."></template>

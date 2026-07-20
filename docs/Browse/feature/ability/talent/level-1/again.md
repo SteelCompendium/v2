@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll.
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You step back a split second to see if things play out a little differently.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Triggered** |&#10;|---------------------|----------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |&#10;&#10;**Trigger:** The target makes an &#91;ability roll](../../../../rule/dice/ability-roll.md).&#10;&#10;**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the &#91;power roll](../../../../rule/dice/power-roll.md) and use the new roll."></template>
+<template class="sc-src" data-fmt="md" data-src="*You step back a split second to see if things play out a little differently.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|---------------------|----------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |&#10;&#10;**Trigger:** The target makes an &#91;ability roll](../../../../rule/dice/ability-roll.md).&#10;&#10;**Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the &#91;power roll](../../../../rule/dice/power-roll.md) and use the new roll."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You speak inspiring words to a friend and spur them to incredible feats.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |    **Maneuver** |&#10;|--------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |&#10;&#10;**Effect:** The target has an additional main action they can use on their next &#91;turn](../../../../rule/combat/turn.md), and gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You speak inspiring words to a friend and spur them to incredible feats.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |    **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |&#10;&#10;**Effect:** The target has an additional main action they can use on their next &#91;turn](../../../../rule/combat/turn.md), and gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>

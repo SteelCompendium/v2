@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You trick your enemies into attacking each other and leave them confused by the aftermath.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Weapon** |      **Main action** |&#10;|---------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |&#10;&#10;**Effect:** Each target uses a &#91;signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the &#91;power roll](../../../../rule/dice/power-roll.md). After resolving the targets&#39; abilities, you make a &#91;power roll](../../../../rule/dice/power-roll.md) against each original target.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** R &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** R &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** R &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You trick your enemies into attacking each other and leave them confused by the aftermath.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Weapon** |      **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |&#10;&#10;**Effect:** Each target uses a &#91;signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the &#91;power roll](../../../../rule/dice/power-roll.md). After resolving the targets&#39; abilities, you make a &#91;power roll](../../../../rule/dice/power-roll.md) against each original target.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** R &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** R &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** R &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Hey! I&#39;m over here. No, here, numbskull.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |            **Maneuver** |&#10;|--------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** You create two illusory duplicates of the target, which appear anywhere within &#91;distance](../../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their &#91;turns](../../../../rule/combat/turn.md), the target can move each duplicate up to their &#91;speed](../../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free &#91;triggered action](../../../conduit/level-1/triggered-action.md) to switch places with a duplicate within their &#91;line of effect](../../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed."></template>
+<template class="sc-src" data-fmt="md" data-src="*Hey! I&#39;m over here. No, here, numbskull.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** You create two illusory duplicates of the target, which appear anywhere within &#91;distance](../../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their &#91;turns](../../../../rule/combat/turn.md), the target can move each duplicate up to their &#91;speed](../../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free &#91;triggered action](../../../conduit/level-1/triggered-action.md) to switch places with a duplicate within their &#91;line of effect](../../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed."></template>

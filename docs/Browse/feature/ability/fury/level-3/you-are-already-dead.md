@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 7 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Slash. Walk away.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**Effect:** If the target is not a leader or solo creature, they are reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md) at the end of their next &#91;turn](../../../../rule/combat/turn.md). If the target is a leader or solo creature, you gain 3 &#91;surges](../../../../rule/resource/surge.md) and can make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) against them."></template>
+<template class="sc-src" data-fmt="md" data-src="*Slash. Walk away.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**Effect:** If the target is not a leader or solo creature, they are reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md) at the end of their next &#91;turn](../../../../rule/combat/turn.md). If the target is a leader or solo creature, you gain 3 &#91;surges](../../../../rule/resource/surge.md) and can make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) against them."></template>

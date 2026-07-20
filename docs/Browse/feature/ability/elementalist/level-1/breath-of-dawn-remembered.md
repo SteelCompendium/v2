@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The power you channel grants the ability to get back in the fight.*&#10;&#10;| **Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**          |           **Triggered** |&#10;|-----------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their &#91;turn](../../../../rule/combat/turn.md) or takes damage.&#10;&#10;**Effect:** The target can spend a &#91;Recovery](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1+ Essence:** The target can spend an additional &#91;Recovery](../../../../rule/health/recoveries.md) for each essence spent."></template>
+<template class="sc-src" data-fmt="md" data-src="*The power you channel grants the ability to get back in the fight.*&#10;&#10;| **Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**          |           **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-----------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their &#91;turn](../../../../rule/combat/turn.md) or takes damage.&#10;&#10;**Effect:** The target can spend a &#91;Recovery](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1+ Essence:** The target can spend an additional &#91;Recovery](../../../../rule/health/recoveries.md) for each essence spent."></template>

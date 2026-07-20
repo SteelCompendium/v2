@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: There you are, radiating your usual charisma.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*There you are, radiating your usual charisma.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + P psychic damage; P &lt; WEAK, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 5 + P psychic damage; P &lt; AVERAGE, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 7 + P psychic damage; P &lt; STRONG, &#91;bleeding](../../../../condition/bleeding.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*There you are, radiating your usual charisma.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                  | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + P psychic damage; P &lt; WEAK, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 5 + P psychic damage; P &lt; AVERAGE, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 7 + P psychic damage; P &lt; STRONG, &#91;bleeding](../../../../condition/bleeding.md) (save ends)"></template>

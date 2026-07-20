@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                     **Maneuver** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 4&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 5&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** This &#91;forced movement](../../../../movement/forced-movement.md) ignores &#91;stability](../../../../rule/character/stability.md). Instead, the &#91;forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target&#39;s &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                     **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 4&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 5&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** This &#91;forced movement](../../../../movement/forced-movement.md) ignores &#91;stability](../../../../rule/character/stability.md). Instead, the &#91;forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target&#39;s &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

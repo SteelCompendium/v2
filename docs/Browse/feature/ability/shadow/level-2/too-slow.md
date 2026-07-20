@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: shadow
 cost: 5 Insight
 distance: Self; see below
@@ -40,4 +40,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your foe made a big mistake.*&#10;&#10;| **-**                  | **Free triggered** |&#10;|------------------------|-------------------:|&#10;| **📏 Self; see below** |        **🎯 Self** |&#10;&#10;**Trigger:** You use your &#91;In All This Confusion](../level-1/in-all-this-confusion.md) ability.&#10;&#10;**Effect:** You ignore any effects associated with the damage that triggered your &#91;In All This Confusion](../level-1/in-all-this-confusion.md) ability. Before you &#91;teleport](../../../../movement/teleport.md), you can make a &#91;free strike](../../../common/main-actions/free-strike.md) against a creature who damaged you to trigger &#91;In All This Confusion](../level-1/in-all-this-confusion.md). After you &#91;teleport](../../../../movement/teleport.md), you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your foe made a big mistake.*&#10;&#10;| **-**                  | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------------|-------------------:|&#10;| **📏 Self; see below** |        **🎯 Self** |&#10;&#10;**Trigger:** You use your &#91;In All This Confusion](../level-1/in-all-this-confusion.md) ability.&#10;&#10;**Effect:** You ignore any effects associated with the damage that triggered your &#91;In All This Confusion](../level-1/in-all-this-confusion.md) ability. Before you &#91;teleport](../../../../movement/teleport.md), you can make a &#91;free strike](../../../common/main-actions/free-strike.md) against a creature who damaged you to trigger &#91;In All This Confusion](../level-1/in-all-this-confusion.md). After you &#91;teleport](../../../../movement/teleport.md), you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

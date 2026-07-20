@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 3 Ferocity
 distance: 1 [burst](../../../../rule/combat/burst.md)
@@ -44,4 +44,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You hew about you with your mighty weapon, hurling enemies backward.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 damage&#10;- **12-16:** 8 damage; &#91;push](../../../../movement/forced-movement.md) 1&#10;- **17+:** 11 damage; &#91;push](../../../../movement/forced-movement.md) 3"></template>
+<template class="sc-src" data-fmt="md" data-src="*You hew about you with your mighty weapon, hurling enemies backward.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 damage&#10;- **12-16:** 8 damage; &#91;push](../../../../movement/forced-movement.md) 1&#10;- **17+:** 11 damage; &#91;push](../../../../movement/forced-movement.md) 3"></template>

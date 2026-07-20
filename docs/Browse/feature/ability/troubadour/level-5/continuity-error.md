@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your subject is written into two places at once.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Maneuver** |&#10;|-------------------|---------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One enemy or object** |&#10;&#10;**Effect:** The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within &#91;distance](../../../../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s &#91;Stamina](../../../../rule/health/stamina.md), is &#91;weakened](../../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their &#91;turns](../../../../rule/combat/turn.md). If either entity is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current &#91;Stamina](../../../../rule/health/stamina.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your subject is written into two places at once.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|---------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One enemy or object** |&#10;&#10;**Effect:** The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within &#91;distance](../../../../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s &#91;Stamina](../../../../rule/health/stamina.md), is &#91;weakened](../../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their &#91;turns](../../../../rule/combat/turn.md). If either entity is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current &#91;Stamina](../../../../rule/health/stamina.md)."></template>

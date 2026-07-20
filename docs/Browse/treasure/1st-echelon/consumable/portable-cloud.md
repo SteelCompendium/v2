@@ -6,11 +6,13 @@ search:
 echelon: "1"
 effect: As a maneuver, you throw this delicate glass sphere up to 5 squares, breaking it and creating a 4 [cube](../../../rule/combat/cube.md) of fog. The fog dissipates after 10 minutes or if a strong gust of wind created by a storm or magic passes through the area.
 flavor: This thin glass sphere holds a tiny roiling cloud.
+item_prerequisite: A cup of rainwater from a sacred fey grove, plus an optional prerequisite (see below)
 keywords:
     - Magic
 name: Portable Cloud
 project_goal: 30 or 45 (see below)
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/portable-cloud
 treasure_type: consumable
 type: treasure

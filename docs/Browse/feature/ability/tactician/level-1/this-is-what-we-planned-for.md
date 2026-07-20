@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*All those coordination drills you made them do finally pay off.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |      **Maneuver** |&#10;|------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Two allies** |&#10;&#10;**Effect:** Each target who hasn&#39;t acted yet this &#91;combat round](../../../../rule/combat/combat-round.md) can take their &#91;turn](../../../../rule/combat/turn.md) in any order immediately after yours."></template>
+<template class="sc-src" data-fmt="md" data-src="*All those coordination drills you made them do finally pay off.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |      **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Two allies** |&#10;&#10;**Effect:** Each target who hasn&#39;t acted yet this &#91;combat round](../../../../rule/combat/combat-round.md) can take their &#91;turn](../../../../rule/combat/turn.md) in any order immediately after yours."></template>

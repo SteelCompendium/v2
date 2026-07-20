@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
@@ -40,4 +40,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**      |         **Maneuver** |&#10;|-----------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 5** | **🎯 Two creatures** |&#10;&#10;**Effect:** Each target is marked by you, and you gain two &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a &#91;strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to add one additional target to the &#91;strike](../../../../rule/combat/strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You point out easy targets to your friends, allowing them to include more enemies in their attacks.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**      |         **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 5** | **🎯 Two creatures** |&#10;&#10;**Effect:** Each target is marked by you, and you gain two &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a &#91;strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to add one additional target to the &#91;strike](../../../../rule/combat/strike.md)."></template>

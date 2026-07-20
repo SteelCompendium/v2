@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You try a different take on events, justifying the new locations everyone ended up in.*&#10;&#10;| **Area, Magic** |                       **Main action** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;teleport](../../../../movement/teleport.md) up to 5 squares. Any &#91;teleport](../../../../movement/teleport.md)ed target who was &#91;slowed](../../../../condition/slowed.md) is no longer &#91;slowed](../../../../condition/slowed.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You try a different take on events, justifying the new locations everyone ended up in.*&#10;&#10;| **Area, Magic** |                       **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;teleport](../../../../movement/teleport.md) up to 5 squares. Any &#91;teleport](../../../../movement/teleport.md)ed target who was &#91;slowed](../../../../condition/slowed.md) is no longer &#91;slowed](../../../../condition/slowed.md)."></template>

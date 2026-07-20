@@ -4,12 +4,18 @@ printing_book: "The Beastheart"
 search:
   boost: 2
 flavor: While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.
+item_prerequisite: A leash from an archfey's hunting pack
 keywords:
     - Light Armor
     - Magic
+level_effects:
+    1st: Only a beastheart can wear this armor. While you wear this armor, you gain a +6 bonus to Stamina. You can spend 10 minutes to activate this armor's power, causing two illusory copies of your companion to appear in their space and move with them. Whenever your companion takes damage from an ability that deals rolled damage while visible, you can banish one copy to decrease the power roll outcome by one tier (to a minimum of tier 1). When you activate this armor's power again, any old copies vanish.
+    5th: The armor's bonus to Stamina increases to +12, and whenever you activate this armor's power, your companion gains three illusory copies.
+    9th: The armor's bonus to Stamina increases to +21, and whenever you activate this armor's power, your companion gains four illusory copies. Additionally, while you share your companion's space, you take on the appearance of one of the pack. When you take damage from an ability that deals rolled damage while in your companion's space, you can banish one copy to decrease the power roll outcome by one tier (to a minimum of tier 1).
 name: Pack Harness
 project_goal: "450"
 project_roll_characteristic: Agility or Intuition
+project_source: Texts or lore in Khelt
 scc: mcdm.beastheart.v1/treasure.leveled.armor/pack-harness
 treasure_type: armor
 type: treasure

@@ -6,11 +6,13 @@ search:
 echelon: "1"
 effect: 'As a maneuver, you make a [ranged](../../../rule/combat/ranged.md) [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
 flavor: A diamond-shaped dart holds a shimmering black vial at its core.
+item_prerequisite: Three vials of black ash from the College of Black Ash
 keywords:
     - Magic
 name: Black Ash Dart
 project_goal: 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 project_roll_characteristic: '[Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Szetch
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/black-ash-dart
 treasure_type: consumable
 type: treasure

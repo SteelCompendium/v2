@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You use your foe as a tool against your enemies.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           |           **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 10 + M damage&#10;- **12-16:** 15 + M damage&#10;- **17+:** 21 + M damage&#10;&#10;**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of &#91;flanking](../../../../rule/combat/flanking.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You use your foe as a tool against your enemies.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           |           **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 10 + M damage&#10;- **12-16:** 15 + M damage&#10;- **17+:** 21 + M damage&#10;&#10;**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of &#91;flanking](../../../../rule/combat/flanking.md)."></template>

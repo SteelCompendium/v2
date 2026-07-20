@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -40,4 +40,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*With new understanding of your foes, you create the perfect plan to win the battle.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |           **Maneuver** |&#10;|------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |&#10;&#10;**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have &#91;damage immunity](../../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a &#91;strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to make the &#91;strike](../../../../rule/combat/strike.md) ignore &#91;damage immunity](../../../../rule/damage/damage-immunity.md) and deal extra damage equal to three times your &#91;Reason](../../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*With new understanding of your foes, you create the perfect plan to win the battle.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |           **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |&#10;&#10;**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have &#91;damage immunity](../../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a &#91;strike](../../../../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to make the &#91;strike](../../../../rule/combat/strike.md) ignore &#91;damage immunity](../../../../rule/damage/damage-immunity.md) and deal extra damage equal to three times your &#91;Reason](../../../../rule/character/reason.md) score."></template>

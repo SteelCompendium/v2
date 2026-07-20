@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 1 Drama
 distance: Self
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your years of practicing fencing and dancing pay off on the battlefield.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain a +2 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) until the end of your &#91;turn](../../../../rule/combat/turn.md). Additionally, the next &#91;power roll](../../../../rule/dice/power-roll.md) you make this &#91;turn](../../../../rule/combat/turn.md) can&#39;t have an outcome lower than tier 2.&#10;&#10;**Spend 1 Drama:** You gain a +4 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) instead."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your years of practicing fencing and dancing pay off on the battlefield.*&#10;&#10;| **-**       | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain a +2 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) until the end of your &#91;turn](../../../../rule/combat/turn.md). Additionally, the next &#91;power roll](../../../../rule/dice/power-roll.md) you make this &#91;turn](../../../../rule/combat/turn.md) can&#39;t have an outcome lower than tier 2.&#10;&#10;**Spend 1 Drama:** You gain a +4 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) instead."></template>

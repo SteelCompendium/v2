@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 3 Clarity
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You give a target a glimpse into the future so that they&#39;re ready for what comes next.*&#10;&#10;| **Chronopathy, &#91;Melee](../../../../rule/combat/melee.md), Psionic** |         **Main action** |&#10;|---------------------------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |&#10;&#10;**Effect:** &#91;Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a &#91;bane](../../../../rule/dice/bane.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a &#91;triggered action](../../../../rule/combat/triggered-action.md) to make a &#91;free strike](../../../common/main-actions/free-strike.md) against the source of the damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*You give a target a glimpse into the future so that they&#39;re ready for what comes next.*&#10;&#10;| **Chronopathy, &#91;Melee](../../../../rule/combat/melee.md), Psionic** |         **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |&#10;&#10;**Effect:** &#91;Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a &#91;bane](../../../../rule/dice/bane.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a &#91;triggered action](../../../../rule/combat/triggered-action.md) to make a &#91;free strike](../../../common/main-actions/free-strike.md) against the source of the damage."></template>

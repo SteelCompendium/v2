@@ -171,7 +171,7 @@ Under certain circumstances, you might have one or more [edges](../../Browse/rul
 
 ##### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md). The Director can also modify rolls with [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a [bane](../../Browse/rule/dice/bane.md) on power rolls made to climb a stone wall. But it makes sense that rainy [conditions](../../Browse/rule/combat/condition.md) should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md). The Director can also modify rolls with [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a [bane](../../Browse/rule/dice/bane.md) on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
 > **Why Cap?**
 >

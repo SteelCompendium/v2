@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [aura](../../../../rule/combat/aura.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*&#34;The power of the gods is within you, friends. Allow me to unleash it.&#34;*&#10;&#10;| **Area, Magic**   |                          **Maneuver** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*&#34;The power of the gods is within you, friends. Allow me to unleash it.&#34;*&#10;&#10;| **Area, Magic**   |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>

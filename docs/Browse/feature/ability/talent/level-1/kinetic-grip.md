@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You lift and hurl your foe away from you.
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You lift and hurl your foe away from you.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 2 + R&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 4 + R&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 6 + R; &#91;prone](../../../../condition/prone.md)&#10;&#10;**Strained:** You must vertical &#91;push](../../../../movement/forced-movement.md) the target instead of &#91;sliding](../../../../movement/forced-movement.md) them."></template>
+<template class="sc-src" data-fmt="md" data-src="*You lift and hurl your foe away from you.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 2 + R&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 4 + R&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 6 + R; &#91;prone](../../../../condition/prone.md)&#10;&#10;**Strained:** You must vertical &#91;push](../../../../movement/forced-movement.md) the target instead of &#91;sliding](../../../../movement/forced-movement.md) them."></template>

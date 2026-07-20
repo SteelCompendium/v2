@@ -24,7 +24,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 >
 > *You make your modified collar explode.*
 >
-> | **Area, Magic** |                  **Maneuver** |
+> | **Area, Magic** |                  **[Maneuver](../rule/combat/turn.md)** |
 > |-----------------|------------------------------:|
 > | **📏 1 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 >

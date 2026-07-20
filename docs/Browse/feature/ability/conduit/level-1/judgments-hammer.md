@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 3 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -44,4 +44,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your divine &#91;fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I holy damage; A &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 6 + I holy damage; A &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 9 + I holy damage; A &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your divine &#91;fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I holy damage; A &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 6 + I holy damage; A &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 9 + I holy damage; A &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

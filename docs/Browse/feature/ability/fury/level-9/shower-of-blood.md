@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You shock your foes with the brutality of your &#91;strike](../../../../rule/combat/strike.md), resetting the balance of combat.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 12 + M damage&#10;- **12-16:** 18 + M damage&#10;- **17+:** 24 + M damage&#10;&#10;**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take &#91;triggered actions](../../../../rule/combat/triggered-action.md) or free &#91;triggered actions](../../../../rule/combat/triggered-action.md), &#91;ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an &#91;edge](../../../../rule/dice/edge.md), and their &#91;characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting &#91;potencies](../../../../rule/character/potency.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You shock your foes with the brutality of your &#91;strike](../../../../rule/combat/strike.md), resetting the balance of combat.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 12 + M damage&#10;- **12-16:** 18 + M damage&#10;- **17+:** 24 + M damage&#10;&#10;**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take &#91;triggered actions](../../../../rule/combat/triggered-action.md) or free &#91;triggered actions](../../../../rule/combat/triggered-action.md), &#91;ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an &#91;edge](../../../../rule/dice/edge.md), and their &#91;characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting &#91;potencies](../../../../rule/character/potency.md)."></template>

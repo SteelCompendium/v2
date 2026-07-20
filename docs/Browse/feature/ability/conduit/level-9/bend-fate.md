@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The gods know you must prevail, and they bless your fate.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |         **Main action** |&#10;|--------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each of the target&#39;s &#91;power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier."></template>
+<template class="sc-src" data-fmt="md" data-src="*The gods know you must prevail, and they bless your fate.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |         **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each of the target&#39;s &#91;power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier."></template>

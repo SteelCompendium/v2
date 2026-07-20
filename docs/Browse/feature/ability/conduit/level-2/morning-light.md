@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Light shines at your command, burning your foes and blessing your allies.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 4 fire damage&#10;- **12-16:** 6 fire damage&#10;- **17+:** 10 fire damage&#10;&#10;**Effect:** Each ally in the area deals fire damage equal to your &#91;Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Light shines at your command, burning your foes and blessing your allies.*&#10;&#10;| **Area, Magic**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 4 fire damage&#10;- **12-16:** 6 fire damage&#10;- **17+:** 10 fire damage&#10;&#10;**Effect:** Each ally in the area deals fire damage equal to your &#91;Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next &#91;turn](../../../../rule/combat/turn.md)."></template>

@@ -6,12 +6,14 @@ search:
 echelon: "1"
 effect: As a maneuver, you coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using a weapon that is ignited this way, the ability deals an extra 2 fire damage.
 flavor: A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.
+item_prerequisite: One vial of fire giant blood
 keywords:
     - Magic
     - Oil
 name: Giant's-Blood Flame
 project_goal: "45"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/giants-blood-flame
 treasure_type: consumable
 type: treasure

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: 5 [burst](../../../../rule/combat/burst.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You distract your foes, allowing your allies to take advantage of that distraction.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), any &#91;ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an &#91;edge](../../../../rule/dice/edge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You distract your foes, allowing your allies to take advantage of that distraction.*&#10;&#10;| **Area, Magic** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), any &#91;ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an &#91;edge](../../../../rule/dice/edge.md)."></template>

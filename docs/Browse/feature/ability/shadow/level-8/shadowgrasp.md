@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: 2 [burst](../../../../rule/combat/burst.md)
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 11 corruption damage; A &lt; WEAK, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 16 corruption damage; A &lt; AVERAGE, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 21 corruption damage; A &lt; STRONG, &#91;restrained](../../../../condition/restrained.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*&#10;&#10;| **Area, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 11 corruption damage; A &lt; WEAK, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 16 corruption damage; A &lt; AVERAGE, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 21 corruption damage; A &lt; STRONG, &#91;restrained](../../../../condition/restrained.md) (save ends)"></template>

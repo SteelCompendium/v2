@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: Self
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You release stored time, allowing you to act twice.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You can use a signature or &#91;heroic ability](../../../../rule/general/heroic-ability.md). You gain an &#91;edge](../../../../rule/dice/edge.md) on that ability&#39;s &#91;power rolls](../../../../rule/dice/power-roll.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You release stored time, allowing you to act twice.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You can use a signature or &#91;heroic ability](../../../../rule/general/heroic-ability.md). You gain an &#91;edge](../../../../rule/dice/edge.md) on that ability&#39;s &#91;power rolls](../../../../rule/dice/power-roll.md)."></template>

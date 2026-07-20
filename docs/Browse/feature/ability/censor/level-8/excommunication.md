@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You curse your foe to become a bane to their allies.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 9 + M damage; I &lt; WEAK, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 13 + M damage; I &lt; AVERAGE, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 18 + M damage; I &lt; STRONG, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md), a target &#91;weakened](../../../../condition/weakened.md) this way deals holy damage equal to twice your &#91;Presence](../../../../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target &#91;weakened](../../../../condition/weakened.md) this way can&#39;t be targeted by their allies&#39; abilities."></template>
+<template class="sc-src" data-fmt="md" data-src="*You curse your foe to become a bane to their allies.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 9 + M damage; I &lt; WEAK, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 13 + M damage; I &lt; AVERAGE, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 18 + M damage; I &lt; STRONG, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md), a target &#91;weakened](../../../../condition/weakened.md) this way deals holy damage equal to twice your &#91;Presence](../../../../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target &#91;weakened](../../../../condition/weakened.md) this way can&#39;t be targeted by their allies&#39; abilities."></template>

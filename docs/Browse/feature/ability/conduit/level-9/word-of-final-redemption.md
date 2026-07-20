@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your death will fuel our &#91;victory](../../../../rule/resource/victories.md).*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |  **Free triggered** |&#10;|--------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target dies.&#10;&#10;**Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your death will fuel our &#91;victory](../../../../rule/resource/victories.md).*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |  **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|--------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target dies.&#10;&#10;**Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets."></template>

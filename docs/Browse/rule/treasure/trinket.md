@@ -419,7 +419,7 @@ Additionally, you have the following ability.
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >
-> | **Psionic, [Ranged](../combat/ranged.md)** |             **Maneuver** |
+> | **Psionic, [Ranged](../combat/ranged.md)** |             **[Maneuver](../combat/turn.md)** |
 > |---------------------|-------------------------:|
 > | **📏 [Ranged](../combat/ranged.md) 10**    | **🎯 Self and any ally** |
 >
@@ -448,7 +448,7 @@ Additionally, you have the following ability.
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
-> | **[Melee](../combat/melee.md), Psionic**, **Strike, Weapon** |               **Main action** |
+> | **[Melee](../combat/melee.md), Psionic**, **Strike, Weapon** |               **[Main action](../combat/turn.md)** |
 > |----------------------------------------|------------------------------:|
 > | **📏 [Melee](../combat/melee.md) 1**                         | **🎯 One creature or object** |
 >

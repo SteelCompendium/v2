@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: tactician
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Under your direction, an ally waits for just the right moment to strike.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |       **Triggered** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves.&#10;&#10;**Effect:** At any time during the target&#39;s movement, one ally can make a &#91;free strike](../../../common/main-actions/free-strike.md) against them.&#10;&#10;**Spend 1 Focus:** If the target has R &lt; AVERAGE, they are &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))."></template>
+<template class="sc-src" data-fmt="md" data-src="*Under your direction, an ally waits for just the right moment to strike.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |       **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves.&#10;&#10;**Effect:** At any time during the target&#39;s movement, one ally can make a &#91;free strike](../../../common/main-actions/free-strike.md) against them.&#10;&#10;**Spend 1 Focus:** If the target has R &lt; AVERAGE, they are &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))."></template>

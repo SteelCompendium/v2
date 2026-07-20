@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You absorb the life energy of another creature and use it to &#91;teleport](../../../../movement/teleport.md).*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Void** |     **Main action** |&#10;|--------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                 | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R corruption damage&#10;- **12-16:** 6 + R corruption damage&#10;- **17+:** 9 + R corruption damage&#10;&#10;**Effect:** You can &#91;teleport](../../../../movement/teleport.md) up to a number of squares equal to your &#91;Reason](../../../../rule/character/reason.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You absorb the life energy of another creature and use it to &#91;teleport](../../../../movement/teleport.md).*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Void** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                 | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R corruption damage&#10;- **12-16:** 6 + R corruption damage&#10;- **17+:** 9 + R corruption damage&#10;&#10;**Effect:** You can &#91;teleport](../../../../movement/teleport.md) up to a number of squares equal to your &#91;Reason](../../../../rule/character/reason.md) score."></template>

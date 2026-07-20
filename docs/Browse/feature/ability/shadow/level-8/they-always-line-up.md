@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: 5 x 1 line within 5
@@ -44,4 +44,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*&#10;&#10;| **Area, &#91;Ranged](../../../../rule/combat/ranged.md), Weapon**   |               **Main action** |&#10;|----------------------------|------------------------------:|&#10;| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 18 damage; M &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 24 damage; M &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*&#10;&#10;| **Area, &#91;Ranged](../../../../rule/combat/ranged.md), Weapon**   |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------|------------------------------:|&#10;| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 18 damage; M &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 24 damage; M &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>

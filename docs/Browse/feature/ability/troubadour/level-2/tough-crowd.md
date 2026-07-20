@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your fans don&#39;t seem to like the opening act...*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;|-------------------------|----------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** |  **🎯 Special** |&#10;&#10;**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your &#91;turns](../../../../rule/combat/turn.md), you can make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 corruption damage; M &lt; WEAK, &#91;pull](../../../../movement/forced-movement.md) 1 toward the center of the area&#10;- **12-16:** 9 corruption damage; M &lt; AVERAGE, &#91;pull](../../../../movement/forced-movement.md) 2 toward the center of the area&#10;- **17+:** 12 corruption damage; M &lt; STRONG, &#91;pull](../../../../movement/forced-movement.md) 3 toward the center of the area"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your fans don&#39;t seem to like the opening act...*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|----------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** |  **🎯 Special** |&#10;&#10;**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your &#91;turns](../../../../rule/combat/turn.md), you can make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 corruption damage; M &lt; WEAK, &#91;pull](../../../../movement/forced-movement.md) 1 toward the center of the area&#10;- **12-16:** 9 corruption damage; M &lt; AVERAGE, &#91;pull](../../../../movement/forced-movement.md) 2 toward the center of the area&#10;- **17+:** 12 corruption damage; M &lt; STRONG, &#91;pull](../../../../movement/forced-movement.md) 3 toward the center of the area"></template>

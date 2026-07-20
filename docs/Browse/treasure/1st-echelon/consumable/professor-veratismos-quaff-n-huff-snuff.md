@@ -6,12 +6,14 @@ search:
 echelon: "1"
 effect: As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an [adjacent](../../../rule/combat/adjacent.md) creature who is [grabbed](../../../condition/grabbed.md), [restrained](../../../condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an [edge](../../../rule/dice/edge.md) on [Intuition](../../../rule/character/intuition.md) and [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) made to convince the target to communicate, or to read the target's emotions. Any such creature has a double [edge](../../../rule/dice/edge.md) on the [test](../../../rule/test/test.md) if the target doesn't realize they've been affected by the snuff.
 flavor: This tiny compact holds a colorless powder with the slightest astringent smell.
+item_prerequisite: The roots of a just-budded nightshade
 keywords:
     - Potion
     - Psionic
 name: Professor Veratismo's Quaff 'n Huff Snuff
 project_goal: "45"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/professor-veratismos-quaff-n-huff-snuff
 treasure_type: consumable
 type: treasure

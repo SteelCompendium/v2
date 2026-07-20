@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You inspire your allies to recover and gather their strength.*&#10;&#10;| **Area**       |                       **Main action** |&#10;|----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md). Additionally, they can spend a &#91;Recovery](../../../../rule/health/recoveries.md), remove any &#91;conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they &#91;are prone](../../../../condition/prone.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You inspire your allies to recover and gather their strength.*&#10;&#10;| **Area**       |                       **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md). Additionally, they can spend a &#91;Recovery](../../../../rule/health/recoveries.md), remove any &#91;conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they &#91;are prone](../../../../condition/prone.md)."></template>

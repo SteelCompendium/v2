@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: Self; see below
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You tumble through the battle, stabbing foes and &#91;teleporting](../../../../movement/teleport.md) allies.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** | **Main action** |&#10;|--------------------------|----------------:|&#10;| **📏 Self; see below**   |     **🎯 Self** |&#10;&#10;**Effect:** You &#91;shift](../../../../movement/shifting.md) up to twice your &#91;speed](../../../../rule/character/speed.md), making one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each creature you come &#91;adjacent](../../../../rule/combat/adjacent.md) to during the &#91;shift](../../../../movement/shifting.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** An enemy takes 6 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 3 squares.&#10;- **12-16:** An enemy takes 10 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 5 squares.&#10;- **17+:** An enemy takes 14 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 7 squares."></template>
+<template class="sc-src" data-fmt="md" data-src="*You tumble through the battle, stabbing foes and &#91;teleporting](../../../../movement/teleport.md) allies.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------|----------------:|&#10;| **📏 Self; see below**   |     **🎯 Self** |&#10;&#10;**Effect:** You &#91;shift](../../../../movement/shifting.md) up to twice your &#91;speed](../../../../rule/character/speed.md), making one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each creature you come &#91;adjacent](../../../../rule/combat/adjacent.md) to during the &#91;shift](../../../../movement/shifting.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** An enemy takes 6 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 3 squares.&#10;- **12-16:** An enemy takes 10 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 5 squares.&#10;- **17+:** An enemy takes 14 damage; an ally can &#91;teleport](../../../../movement/teleport.md) up to 7 squares."></template>

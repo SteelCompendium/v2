@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target can [fly](../../../../movement/fly.md) until the start of your next [turn](../../../../rule/combat/turn.md), and can immediately [shift](../../../../movement/shifting.md) up to their [speed](../../../../rule/character/speed.md). You can also [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md). While [flying](../../../../movement/fly.md), a target's [stability](../../../../rule/character/stability.md) is reduced to 0 and can't be increased.
@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You manipulate the air around your allies so they can move as freely through the sky as you can.*&#10;&#10;| **Area, Psionic** |                 **Maneuver** |&#10;|-------------------|-----------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;fly](../../../../movement/fly.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md), and can immediately &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md). You can also &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md). While &#91;flying](../../../../movement/fly.md), a target&#39;s &#91;stability](../../../../rule/character/stability.md) is reduced to 0 and can&#39;t be increased.&#10;&#10;**Spend 5 Clarity:** The effects last for 1 hour instead."></template>
+<template class="sc-src" data-fmt="md" data-src="*You manipulate the air around your allies so they can move as freely through the sky as you can.*&#10;&#10;| **Area, Psionic** |                 **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|-----------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;fly](../../../../movement/fly.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md), and can immediately &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md). You can also &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md). While &#91;flying](../../../../movement/fly.md), a target&#39;s &#91;stability](../../../../rule/character/stability.md) is reduced to 0 and can&#39;t be increased.&#10;&#10;**Spend 5 Clarity:** The effects last for 1 hour instead."></template>

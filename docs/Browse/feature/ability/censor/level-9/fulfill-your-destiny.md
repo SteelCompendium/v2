@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You have looked at various futures, and only this one works.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |   **Triggered** |&#10;|--------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One ally** |&#10;&#10;**Trigger:** You or another hero ends their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The target takes their &#91;turn](../../../../rule/combat/turn.md) after the triggering hero, and immediately removes all &#91;conditions](../../../../rule/combat/condition.md) and negative effects on themself. During their &#91;turn](../../../../rule/combat/turn.md), the target has a double &#91;edge](../../../../rule/dice/edge.md) on &#91;power rolls](../../../../rule/dice/power-roll.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You have looked at various futures, and only this one works.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |   **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|--------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One ally** |&#10;&#10;**Trigger:** You or another hero ends their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The target takes their &#91;turn](../../../../rule/combat/turn.md) after the triggering hero, and immediately removes all &#91;conditions](../../../../rule/combat/condition.md) and negative effects on themself. During their &#91;turn](../../../../rule/combat/turn.md), the target has a double &#91;edge](../../../../rule/dice/edge.md) on &#91;power rolls](../../../../rule/dice/power-roll.md)."></template>

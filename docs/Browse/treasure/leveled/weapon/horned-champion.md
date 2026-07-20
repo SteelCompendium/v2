@@ -4,12 +4,18 @@ printing_book: "The Beastheart"
 search:
   boost: 2
 flavor: This paired helmet and barding face shield are each set with a pair of curving metal horns.
+item_prerequisite: The horns of a minotaur
 keywords:
     - Heavy Weapon
-    - 'Magic Item Prerequisite: The horns of a minotaur Project Source: Epic poem in High Kuric'
+    - Magic
+level_effects:
+    1st: Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 damage. Additionally, your abilities with the Melee and Weapon keywords also gain the Charge keyword.
+    5th: The weapon's extra damage increases to 2. Additionally, whenever you or your companion uses the Charge main action and obtains a tier 3 outcome with an ability, whoever used the action can either knock the target [prone](../../../condition/prone.md), push them 2 squares or increase the distance of a push made as part of the charge, or deal extra damage equal to their own Might score.
+    9th: The weapon's extra damage increases to 3. Additionally, when you or your companion uses the Charge main action, the movement doesn't provoke opportunity attacks.
 name: Horned Champion
 project_goal: "450"
 project_roll_characteristic: Might, Reason, or Intuition
+project_source: Epic poem in High Kuric
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/horned-champion
 treasure_type: weapon
 type: treasure

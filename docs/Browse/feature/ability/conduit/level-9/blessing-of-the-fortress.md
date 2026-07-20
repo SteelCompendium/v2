@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: Self; see below
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A magic circle extends out from you, barring foes from getting close.*&#10;&#10;| **Area, Magic**        | **Maneuver** |&#10;|------------------------|-------------:|&#10;| **📏 Self; see below** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), no enemy can approach within 5 squares of you by moving or by being &#91;force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be &#91;force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement."></template>
+<template class="sc-src" data-fmt="md" data-src="*A magic circle extends out from you, barring foes from getting close.*&#10;&#10;| **Area, Magic**        | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------------|-------------:|&#10;| **📏 Self; see below** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), no enemy can approach within 5 squares of you by moving or by being &#91;force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be &#91;force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement."></template>

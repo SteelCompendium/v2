@@ -20,7 +20,7 @@ You have the following ability.
 >
 > *You manipulate a tiny object with your mind.*
 >
-> | **Psionic, [Ranged](../rule/combat/ranged.md)** |              **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md)** |              **[Maneuver](../rule/combat/turn.md)** |
 > |---------------------|--------------------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One [size](../rule/character/size.md) 1T object** |
 >

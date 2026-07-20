@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can [shift](../../../../movement/shifting.md) up to 3 squares.
@@ -51,4 +51,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*And they said practicing fencing was a waste!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                 **Main action** |&#10;|---------------------------|--------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to 3 squares.&#10;&#10;**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent."></template>
+<template class="sc-src" data-fmt="md" data-src="*And they said practicing fencing was a waste!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                 **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to 3 squares.&#10;&#10;**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent."></template>

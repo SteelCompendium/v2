@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 7 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*There&#39;s no recovering from this.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 11 + A damage; M &lt; AVERAGE, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 16 + A damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*There&#39;s no recovering from this.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 11 + A damage; M &lt; AVERAGE, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 16 + A damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

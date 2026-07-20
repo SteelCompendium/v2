@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You reverse the effects from an evildoer.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |      **Free triggered** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target gains a &#91;condition](../../../../rule/combat/condition.md) or effect that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your &#91;Presence](../../../../rule/character/presence.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You reverse the effects from an evildoer.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |      **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target gains a &#91;condition](../../../../rule/combat/condition.md) or effect that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your &#91;Presence](../../../../rule/character/presence.md) score."></template>

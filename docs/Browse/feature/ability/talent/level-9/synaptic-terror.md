@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -54,4 +54,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*&#10;&#10;| **Area, Psionic, Telepathy** |                        **Main action** |&#10;|------------------------------|---------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |&#10;&#10;**Effect:** You and each target ally can&#39;t obtain lower than a tier 2 outcome on &#91;power rolls](../../../../rule/dice/power-roll.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Each target enemy is affected by the ability&#39;s &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** R &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** R &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** R &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Strained:** You can&#39;t use this ability if doing so would cause you to have negative clarity."></template>
+<template class="sc-src" data-fmt="md" data-src="*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*&#10;&#10;| **Area, Psionic, Telepathy** |                        **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|---------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |&#10;&#10;**Effect:** You and each target ally can&#39;t obtain lower than a tier 2 outcome on &#91;power rolls](../../../../rule/dice/power-roll.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Each target enemy is affected by the ability&#39;s &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** R &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** R &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** R &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Strained:** You can&#39;t use this ability if doing so would cause you to have negative clarity."></template>

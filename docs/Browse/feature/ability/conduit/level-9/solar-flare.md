@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You call down a sphere of fire that burns your foes to ash.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 9 fire damage&#10;- **12-16:** 14 fire damage&#10;- **17+:** 19 fire damage"></template>
+<template class="sc-src" data-fmt="md" data-src="*You call down a sphere of fire that burns your foes to ash.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 9 fire damage&#10;- **12-16:** 14 fire damage&#10;- **17+:** 19 fire damage"></template>

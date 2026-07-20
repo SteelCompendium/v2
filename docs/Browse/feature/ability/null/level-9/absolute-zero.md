@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 11 Discipline
 distance: Self
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You become the coldest thing in the timescape.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** You gain 30 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** You gain 40 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;&#10;**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold &#91;damage immunity](../../../../rule/damage/damage-immunity.md) granted by your &#91;Entropic Adaptability](../../../null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of &#91;dying](../../../../rule/health/dying.md), and you have a +2 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;potencies](../../../../rule/character/potency.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You become the coldest thing in the timescape.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** You gain 30 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** You gain 40 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;&#10;**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold &#91;damage immunity](../../../../rule/damage/damage-immunity.md) granted by your &#91;Entropic Adaptability](../../../null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of &#91;dying](../../../../rule/health/dying.md), and you have a +2 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;potencies](../../../../rule/character/potency.md)."></template>

@@ -6,11 +6,13 @@ search:
 echelon: "3"
 effect: As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double [bane](../../../rule/dice/bane.md).
 flavor: This smoothly polished quartz stone feels strangely warm to the touch.
+item_prerequisite: A small quartz
 keywords:
     - Psionic
 name: Ward Token
 project_goal: "180"
 project_roll_characteristic: '[Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Zaliac
 scc: mcdm.heroes.v1/treasure.3rd-echelon.consumable/ward-token
 treasure_type: consumable
 type: treasure

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The next [ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../../../rule/combat/turn.md) gains an [edge](../../../../rule/dice/edge.md).
@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*An ally gains the benefit of your intellect.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                  **Maneuver** |&#10;|---------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |&#10;&#10;&#10;**Effect:** The next &#91;ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next &#91;turn](../../../../rule/combat/turn.md) gains an &#91;edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Clarity:** You target one additional creature or object."></template>
+<template class="sc-src" data-fmt="md" data-src="*An ally gains the benefit of your intellect.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|---------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |&#10;&#10;&#10;**Effect:** The next &#91;ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next &#91;turn](../../../../rule/combat/turn.md) gains an &#91;edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Clarity:** You target one additional creature or object."></template>

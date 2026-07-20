@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You strike so no damage is wasted.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage&#10;- **12-16:** 10 + M damage&#10;- **17+:** 14 + M damage&#10;&#10;**Effect:** If the target is a minion or is &#91;winded](../../../../rule/health/winded.md) but isn&#39;t a leader or solo creature, they are reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md) before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*You strike so no damage is wasted.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage&#10;- **12-16:** 10 + M damage&#10;- **17+:** 14 + M damage&#10;&#10;**Effect:** If the target is a minion or is &#91;winded](../../../../rule/health/winded.md) but isn&#39;t a leader or solo creature, they are reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md) before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The [power roll](../../../../rule/dice/power-roll.md) takes a [bane](../../../../rule/dice/bane.md) against the target.
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your holy word saps an attacking enemy&#39;s strength.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |     **Triggered** |&#10;|--------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   |   **🎯 One ally** |&#10;&#10;**Trigger:** The target would take damage from an ability that uses a &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The &#91;power roll](../../../../rule/dice/power-roll.md) takes a &#91;bane](../../../../rule/dice/bane.md) against the target.&#10;&#10;**Spend 1 Piety:** The &#91;power roll](../../../../rule/dice/power-roll.md) has a double &#91;bane](../../../../rule/dice/bane.md) against the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your holy word saps an attacking enemy&#39;s strength.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |     **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|--------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   |   **🎯 One ally** |&#10;&#10;**Trigger:** The target would take damage from an ability that uses a &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The &#91;power roll](../../../../rule/dice/power-roll.md) takes a &#91;bane](../../../../rule/dice/bane.md) against the target.&#10;&#10;**Spend 1 Piety:** The &#91;power roll](../../../../rule/dice/power-roll.md) has a double &#91;bane](../../../../rule/dice/bane.md) against the target."></template>

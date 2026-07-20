@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -55,4 +55,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Telepathy** |   **Maneuver** |&#10;|----------------------------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 Special** |&#10;&#10;**Effect:** You target a number of creatures with this ability determined by the outcome of your &#91;power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Two creatures&#10;- **12-16:** Three creatures&#10;- **17+:** Five creatures&#10;&#10;**Strained:** The effect ends early if you take damage from an enemy&#39;s ability."></template>
+<template class="sc-src" data-fmt="md" data-src="*You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Telepathy** |   **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                       | **🎯 Special** |&#10;&#10;**Effect:** You target a number of creatures with this ability determined by the outcome of your &#91;power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Two creatures&#10;- **12-16:** Three creatures&#10;- **17+:** Five creatures&#10;&#10;**Strained:** The effect ends early if you take damage from an enemy&#39;s ability."></template>

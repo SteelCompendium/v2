@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 9 Essence
 distance: 4 [burst](../../../../rule/combat/burst.md)
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You create a terrarium that spans from canopy above to underbrush below.*&#10;&#10;| **Area, Earth, Green, Magic, Void** | **Main action** |&#10;|-------------------------------------|----------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**                      |  **🎯 Special** |&#10;&#10;**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next &#91;turn](../../../../rule/combat/turn.md). The area is &#91;difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their &#91;turn](../../../../rule/combat/turn.md) in the area has &#91;cover](../../../../rule/combat/cover.md).&#10;&#10;**Persistent 2:** The area remains until the start of your next &#91;turn](../../../../rule/combat/turn.md). Additionally, at the start of your &#91;turn](../../../../rule/combat/turn.md), each ally in the area can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You create a terrarium that spans from canopy above to underbrush below.*&#10;&#10;| **Area, Earth, Green, Magic, Void** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------------------|----------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**                      |  **🎯 Special** |&#10;&#10;**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next &#91;turn](../../../../rule/combat/turn.md). The area is &#91;difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their &#91;turn](../../../../rule/combat/turn.md) in the area has &#91;cover](../../../../rule/combat/cover.md).&#10;&#10;**Persistent 2:** The area remains until the start of your next &#91;turn](../../../../rule/combat/turn.md). Additionally, at the start of your &#91;turn](../../../../rule/combat/turn.md), each ally in the area can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 9 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You rip an enemy&#39;s world in twain.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Void** |               **Main action** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 9 + R corruption damage&#10;- **12-16:** 10 + R corruption damage; the target has &#91;line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next &#91;turn](../../../../rule/combat/turn.md)&#10;- **17+:** 15 + R corruption damage; the target has &#91;line of effect](../../../../rule/combat/line-of-effect.md) only to &#91;adjacent](../../../../rule/combat/adjacent.md) creatures and objects until the start of your next &#91;turn](../../../../rule/combat/turn.md)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You rip an enemy&#39;s world in twain.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Void** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 9 + R corruption damage&#10;- **12-16:** 10 + R corruption damage; the target has &#91;line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next &#91;turn](../../../../rule/combat/turn.md)&#10;- **17+:** 15 + R corruption damage; the target has &#91;line of effect](../../../../rule/combat/line-of-effect.md) only to &#91;adjacent](../../../../rule/combat/adjacent.md) creatures and objects until the start of your next &#91;turn](../../../../rule/combat/turn.md)"></template>

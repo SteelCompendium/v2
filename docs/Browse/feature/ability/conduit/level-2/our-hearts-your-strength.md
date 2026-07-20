@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*An ally gains strength from their friends.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |             **Maneuver** |&#10;|--------------------|-------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |&#10;&#10;**Effect:** Until the end of the encounter or until the target is &#91;dying](../../../../rule/health/dying.md), at the start of each of the target&#39;s &#91;turns](../../../../rule/combat/turn.md), they gain a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) and a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;rolled damage](../../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) lasts until the start of their next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*An ally gains strength from their friends.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |             **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|-------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |&#10;&#10;**Effect:** Until the end of the encounter or until the target is &#91;dying](../../../../rule/health/dying.md), at the start of each of the target&#39;s &#91;turns](../../../../rule/combat/turn.md), they gain a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) and a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;rolled damage](../../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) lasts until the start of their next &#91;turn](../../../../rule/combat/turn.md)."></template>

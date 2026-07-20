@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The gods reward those who smite their foes.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |     **Maneuver** |&#10;|--------------------|-----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Each ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), each time a target kills an enemy, they regain &#91;Stamina](../../../../rule/health/stamina.md) equal to 5 + your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*The gods reward those who smite their foes.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |     **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|-----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Each ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), each time a target kills an enemy, they regain &#91;Stamina](../../../../rule/health/stamina.md) equal to 5 + your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

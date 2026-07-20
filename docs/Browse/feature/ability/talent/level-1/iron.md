@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin turns to hard, dark metal, impenetrable and dense.*&#10;&#10;| **Metamorphosis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|------------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target&#39;s &#91;stability](../../../../rule/character/stability.md) increases by an amount equal to your &#91;Reason](../../../../rule/character/reason.md) score, and they gain 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) and 2 &#91;surges](../../../../rule/resource/surge.md). This &#91;stability](../../../../rule/character/stability.md) increase lasts until the target no longer has &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability.&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin turns to hard, dark metal, impenetrable and dense.*&#10;&#10;| **Metamorphosis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target&#39;s &#91;stability](../../../../rule/character/stability.md) increases by an amount equal to your &#91;Reason](../../../../rule/character/reason.md) score, and they gain 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) and 2 &#91;surges](../../../../rule/resource/surge.md). This &#91;stability](../../../../rule/character/stability.md) increase lasts until the target no longer has &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability.&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>

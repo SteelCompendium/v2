@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You summon your &#91;primordial storm](../../../fury/stormwight-kits/primordial-storm.md).*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage&#10;- **12-16:** 10 damage&#10;- **17+:** 15 damage&#10;&#10;**Effect:** This ability deals your primordial &#91;damage type](../../../../rule/damage/damage-type.md) and ignores &#91;damage immunity](../../../../rule/damage/damage-immunity.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You summon your &#91;primordial storm](../../../fury/stormwight-kits/primordial-storm.md).*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage&#10;- **12-16:** 10 damage&#10;- **17+:** 15 damage&#10;&#10;**Effect:** This ability deals your primordial &#91;damage type](../../../../rule/damage/damage-type.md) and ignores &#91;damage immunity](../../../../rule/damage/damage-immunity.md)."></template>

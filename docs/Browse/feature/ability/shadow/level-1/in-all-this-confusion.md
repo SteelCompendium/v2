@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: shadow
 distance: Self
 effect: You take half the damage, then can [teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You vanish in a plume of black smoke to avoid danger.*&#10;&#10;| **Magic**   | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage, then can &#91;teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.&#10;&#10;**Spend 1+ Insight:** You &#91;teleport](../../../../movement/teleport.md) 1 additional square for each insight spent."></template>
+<template class="sc-src" data-fmt="md" data-src="*You vanish in a plume of black smoke to avoid danger.*&#10;&#10;| **Magic**   | **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** You take damage.&#10;&#10;**Effect:** You take half the damage, then can &#91;teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.&#10;&#10;**Spend 1+ Insight:** You &#91;teleport](../../../../movement/teleport.md) 1 additional square for each insight spent."></template>

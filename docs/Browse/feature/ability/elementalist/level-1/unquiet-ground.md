@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: 2 [cube](../../../../rule/combat/cube.md) within 10
 effect: The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A sudden storm of detritus assaults your foes and leaves them struggling to move.*&#10;&#10;| **Area, Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 2 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** The ground beneath the area is &#91;difficult terrain](../../../../movement/difficult-terrain.md) for enemies."></template>
+<template class="sc-src" data-fmt="md" data-src="*A sudden storm of detritus assaults your foes and leaves them struggling to move.*&#10;&#10;| **Area, Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 2 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 5 damage&#10;- **17+:** 7 damage&#10;&#10;**Effect:** The ground beneath the area is &#91;difficult terrain](../../../../movement/difficult-terrain.md) for enemies."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 7 Ferocity
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Foes tremble at the sight of you.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each enemy who starts their &#91;turn](../../../../rule/combat/turn.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to you and has P &lt; STRONG is &#91;frightened](../../../../condition/frightened.md) until the end of their &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Foes tremble at the sight of you.*&#10;&#10;| **Magic**   | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each enemy who starts their &#91;turn](../../../../rule/combat/turn.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to you and has P &lt; STRONG is &#91;frightened](../../../../condition/frightened.md) until the end of their &#91;turn](../../../../rule/combat/turn.md)."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: "null"
 cost: 11 Discipline
 distance: Self
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You show shadows what true &#91;speed](../../../../rule/character/speed.md) is.*&#10;&#10;| **Psionic** | **Free triggered** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature on the encounter map ends their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) &#91;turn](../../../../rule/combat/turn.md) immediately after the triggering creature. This ability can be used only once per &#91;combat round](../../../../rule/combat/combat-round.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You show shadows what true &#91;speed](../../../../rule/character/speed.md) is.*&#10;&#10;| **Psionic** | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature on the encounter map ends their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) &#91;turn](../../../../rule/combat/turn.md) immediately after the triggering creature. This ability can be used only once per &#91;combat round](../../../../rule/combat/combat-round.md)."></template>

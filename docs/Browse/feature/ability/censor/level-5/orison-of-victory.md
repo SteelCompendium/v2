@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: 1 [burst](../../../../rule/combat/burst.md)
@@ -47,4 +47,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel your god&#39;s will to overcome hardship and inflict pain.*&#10;&#10;| **Area**       |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md).&#10;- **12-16:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;- **17+:** Each target gains 3 &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Effect:** A target can end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone target](../../../../condition/prone.md) can stand up."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel your god&#39;s will to overcome hardship and inflict pain.*&#10;&#10;| **Area**       |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md).&#10;- **12-16:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;- **17+:** Each target gains 3 &#91;surges](../../../../rule/resource/surge.md).&#10;&#10;**Effect:** A target can end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone target](../../../../condition/prone.md) can stand up."></template>

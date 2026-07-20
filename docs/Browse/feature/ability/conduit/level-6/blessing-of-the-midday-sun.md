@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [aura](../../../../rule/combat/aura.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your body emits a heat that bakes your enemies and inspires your allies.*&#10;&#10;| **Area, Magic**  |                              **Maneuver** |&#10;|------------------|------------------------------------------:|&#10;| **📏 4 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each enemy in the area takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 &#91;surge](../../../../rule/resource/surge.md) at the end of each of your &#91;turns](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your body emits a heat that bakes your enemies and inspires your allies.*&#10;&#10;| **Area, Magic**  |                              **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------------------------:|&#10;| **📏 4 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each enemy in the area takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 &#91;surge](../../../../rule/resource/surge.md) at the end of each of your &#91;turns](../../../../rule/combat/turn.md)."></template>

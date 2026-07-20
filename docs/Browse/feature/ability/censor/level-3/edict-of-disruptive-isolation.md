@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 7 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The evil within your foes detonates with holy fire that burns only the guilty.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each target takes holy damage equal to your &#91;Presence](../../../../rule/character/presence.md) score at the end of each of your &#91;turns](../../../../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are &#91;adjacent](../../../../rule/combat/adjacent.md) to any enemy."></template>
+<template class="sc-src" data-fmt="md" data-src="*The evil within your foes detonates with holy fire that burns only the guilty.*&#10;&#10;| **Area, Magic** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each target takes holy damage equal to your &#91;Presence](../../../../rule/character/presence.md) score at the end of each of your &#91;turns](../../../../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are &#91;adjacent](../../../../rule/combat/adjacent.md) to any enemy."></template>

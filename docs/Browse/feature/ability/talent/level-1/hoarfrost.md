@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You blast a foe with a pulse of cold energy.
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You blast a foe with a pulse of cold energy.*&#10;&#10;| **Cryokinesis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)**, **Strike** |     **Main action** |&#10;|----------------------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R cold damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 4 + R cold damage; M &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **17+:** 6 + R cold damage; M &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;&#10;**Strained:** You are &#91;slowed](../../../../condition/slowed.md) until the end of your next &#91;turn](../../../../rule/combat/turn.md). Additionally, a target &#91;slowed](../../../../condition/slowed.md) by this ability is &#91;restrained](../../../../condition/restrained.md) instead."></template>
+<template class="sc-src" data-fmt="md" data-src="*You blast a foe with a pulse of cold energy.*&#10;&#10;| **Cryokinesis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)**, **Strike** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                             | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 + R cold damage; M &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 4 + R cold damage; M &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **17+:** 6 + R cold damage; M &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;&#10;**Strained:** You are &#91;slowed](../../../../condition/slowed.md) until the end of your next &#91;turn](../../../../rule/combat/turn.md). Additionally, a target &#91;slowed](../../../../condition/slowed.md) by this ability is &#91;restrained](../../../../condition/restrained.md) instead."></template>

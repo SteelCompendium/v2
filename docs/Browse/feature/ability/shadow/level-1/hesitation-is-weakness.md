@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: shadow
 cost: 1 Insight
 distance: Self
@@ -39,4 +39,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Keep up the attack. Never give them a moment&#39;s grace.*&#10;&#10;| **-**       | **Free triggered** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another hero ends their &#91;turn](../../../../rule/combat/turn.md). That hero can&#39;t have used this ability to start their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take your &#91;turn](../../../../rule/combat/turn.md) after the triggering hero."></template>
+<template class="sc-src" data-fmt="md" data-src="*Keep up the attack. Never give them a moment&#39;s grace.*&#10;&#10;| **-**       | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|-------------------:|&#10;| **📏 Self** |        **🎯 Self** |&#10;&#10;**Trigger:** Another hero ends their &#91;turn](../../../../rule/combat/turn.md). That hero can&#39;t have used this ability to start their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Effect:** You take your &#91;turn](../../../../rule/combat/turn.md) after the triggering hero."></template>

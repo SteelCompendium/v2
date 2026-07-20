@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You point out an opening to your ally so they can land a killing blow.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |  **Free triggered** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target is not a leader or solo creature, and becomes &#91;winded](../../../../rule/health/winded.md).&#10;&#10;**Effect:** The target is killed. Additionally, the creature who caused the target to be &#91;winded](../../../../rule/health/winded.md) can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You point out an opening to your ally so they can land a killing blow.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |  **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Trigger:** The target is not a leader or solo creature, and becomes &#91;winded](../../../../rule/health/winded.md).&#10;&#10;**Effect:** The target is killed. Additionally, the creature who caused the target to be &#91;winded](../../../../rule/health/winded.md) can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

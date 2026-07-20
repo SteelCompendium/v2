@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You raise the target slightly into the air, then smother them against the ground.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Telekinesis** |               **Main action** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 + R damage; M &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 + R damage; M &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 14 + R damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;&#10;**Strained:** You take half the damage the target takes."></template>
+<template class="sc-src" data-fmt="md" data-src="*You raise the target slightly into the air, then smother them against the ground.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Telekinesis** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 + R damage; M &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 + R damage; M &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 14 + R damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;&#10;**Strained:** You take half the damage the target takes."></template>

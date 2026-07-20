@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 distance: 3 [aura](../../../../rule/combat/aura.md)
 effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You project an illusory &#91;aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each creature in the area has a double &#91;edge](../../../../rule/dice/edge.md) on &#91;tests](../../../../rule/test/test.md) made to &#91;hide](../../../../skill/intrigue/hide.md) or &#91;sneak](../../../../skill/intrigue/sneak.md). The &#91;aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."></template>
+<template class="sc-src" data-fmt="md" data-src="*You project an illusory &#91;aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.*&#10;&#10;| **Area, Magic** |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each creature in the area has a double &#91;edge](../../../../rule/dice/edge.md) on &#91;tests](../../../../rule/test/test.md) made to &#91;hide](../../../../skill/intrigue/hide.md) or &#91;sneak](../../../../skill/intrigue/sneak.md). The &#91;aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object."></template>

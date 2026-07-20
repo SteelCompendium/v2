@@ -33,7 +33,7 @@ type: title
 >
 > *Coming through with hot soup!<br/>I better watch out for that banana peel!*
 >
-> | **[Ranged](../rule/combat/ranged.md)**       |       **Triggered** |
+> | **[Ranged](../rule/combat/ranged.md)**       |       **[Triggered](../rule/combat/triggered-action.md)** |
 > |------------------|--------------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
 >

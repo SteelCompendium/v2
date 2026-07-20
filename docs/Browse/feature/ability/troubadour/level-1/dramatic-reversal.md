@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Give the audience a surprise.*&#10;&#10;| **Area, Magic** |                       **Main action** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** The target can &#91;shift](../../../../movement/shifting.md) 1 square and make a &#91;free strike](../../../common/main-actions/free-strike.md).&#10;- **12-16:** The target can &#91;shift](../../../../movement/shifting.md) up to 2 squares and make a &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md).&#10;- **17+:** The target can &#91;shift](../../../../movement/shifting.md) up to 3 squares and make a &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md), then can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Give the audience a surprise.*&#10;&#10;| **Area, Magic** |                       **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** The target can &#91;shift](../../../../movement/shifting.md) 1 square and make a &#91;free strike](../../../common/main-actions/free-strike.md).&#10;- **12-16:** The target can &#91;shift](../../../../movement/shifting.md) up to 2 squares and make a &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md).&#10;- **17+:** The target can &#91;shift](../../../../movement/shifting.md) up to 3 squares and make a &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md), then can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

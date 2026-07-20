@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The gods bless and damn in equal measure.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |       **Triggered** |&#10;|--------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target makes a &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The target obtains a tier 1 or tier 3 outcome on their &#91;power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within &#91;distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next &#91;power roll](../../../../rule/dice/power-roll.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The gods bless and damn in equal measure.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |       **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|--------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 One creature** |&#10;&#10;**Trigger:** The target makes a &#91;power roll](../../../../rule/dice/power-roll.md).&#10;&#10;**Effect:** The target obtains a tier 1 or tier 3 outcome on their &#91;power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within &#91;distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next &#91;power roll](../../../../rule/dice/power-roll.md)."></template>

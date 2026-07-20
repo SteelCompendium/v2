@@ -87,7 +87,7 @@ If two treasures give a creature a [bonus](../../Browse/rule/dice/bonuses-and-pe
 
 Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them [supernatural](../../Browse/rule/general/supernatural.md). You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
 
-Consumables are organized by [echelon](../../Browse/rule/general/echelon.md) to make life easy for the Director handing them out (see [Echelons](../../Browse/rule/general/echelon.md) of Play in Chapter 1: [The Basics](the-basics.md)). As a [guide](../../Browse/rule/downtime/guide.md)line, a hero should always be able to find consumable treasures or the materials required to craft consumables of their [echelon](../../Browse/rule/general/echelon.md) and lower. For example, heroes who are 5th level should be able to find consumables of 1st and 2nd [echelon](../../Browse/rule/general/echelon.md). In some cases, the Director might decide to award consumables of an [echelon](../../Browse/rule/general/echelon.md) higher than the heroes' [echelon](../../Browse/rule/general/echelon.md), but such a choice means giving the heroes more power than the encounter-building [guide](../../Browse/rule/downtime/guide.md)lines in *Draw Steel: Monsters* accounts for.
+Consumables are organized by [echelon](../../Browse/rule/general/echelon.md) to make life easy for the Director handing them out (see [Echelons](../../Browse/rule/general/echelon.md) of Play in Chapter 1: [The Basics](the-basics.md)). As a guideline, a hero should always be able to find consumable treasures or the materials required to craft consumables of their [echelon](../../Browse/rule/general/echelon.md) and lower. For example, heroes who are 5th level should be able to find consumables of 1st and 2nd [echelon](../../Browse/rule/general/echelon.md). In some cases, the Director might decide to award consumables of an [echelon](../../Browse/rule/general/echelon.md) higher than the heroes' [echelon](../../Browse/rule/general/echelon.md), but such a choice means giving the heroes more power than the encounter-building guidelines in *Draw Steel: Monsters* accounts for.
 
 Your character can carry any number of consumables at a time.
 
@@ -1134,7 +1134,7 @@ Additionally, you have the following ability.
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >
-> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |             **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |             **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |---------------------|-------------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self and any ally** |
 >
@@ -1163,7 +1163,7 @@ Additionally, you have the following ability.
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
-> | **[Melee](../../Browse/rule/combat/melee.md), Psionic**, **Strike, Weapon** |               **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), Psionic**, **Strike, Weapon** |               **[Main action](../../Browse/rule/combat/turn.md)** |
 > |----------------------------------------|------------------------------:|
 > | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                         | **🎯 One creature or object** |
 >
@@ -1973,7 +1973,7 @@ Whenever a creature within 10 squares of you deals damage to another creature, y
 
 ### Artifacts
 
-Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake—these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter—building [guide](../../Browse/rule/downtime/guide.md)lines in *Draw Steel: Monsters* expect. That's part of the fun!
+Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake—these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter—building guidelines in *Draw Steel: Monsters* expect. That's part of the fun!
 
 Typically, one creature never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful entities might want to get their hands on an artifact, characters might see armies, dragons, and even gods come to collect one from a wielder who refuses to let go.
 
@@ -2285,7 +2285,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 >
 > *Come out to play—yay!*
 >
-> | **Area, Magic** |                                **Maneuver** |
+> | **Area, Magic** |                                **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |-----------------|--------------------------------------------:|
 > | **📏 5 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area hidden to you** |
 >
@@ -2364,7 +2364,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 >
 > *Return to your grave!*
 >
-> | **Area, Magic** |                         **Maneuver** |
+> | **Area, Magic** |                         **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |-----------------|-------------------------------------:|
 > | **📏 3 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each undead enemy in the area** |
 >
@@ -2390,7 +2390,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 ##### Showstopper (5 Heroic Resource)
 
 >
-> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **[Main action](../../Browse/rule/combat/turn.md)** |
 > |---------------------------|--------------------:|
 > | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
@@ -2429,7 +2429,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Follow me!*
 >
-> | **Area**       |                       **Main action** |
+> | **Area**       |                       **[Main action](../../Browse/rule/combat/turn.md)** |
 > |----------------|--------------------------------------:|
 > | **📏 3 [burst](../../Browse/rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 >
@@ -2500,7 +2500,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 ##### The Harder They Fall (7 Heroic Resource)
 
 >
-> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **[Main action](../../Browse/rule/combat/turn.md)** |
 > |---------------------------|--------------------:|
 > | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
@@ -2543,7 +2543,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Coming through with hot soup!<br/>I better watch out for that banana peel!*
 >
-> | **[Ranged](../../Browse/rule/combat/ranged.md)**       |       **Triggered** |
+> | **[Ranged](../../Browse/rule/combat/ranged.md)**       |       **[Triggered](../../Browse/rule/combat/triggered-action.md)** |
 > |------------------|--------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 >
@@ -2568,7 +2568,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Have at thee!*
 >
-> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **[Main action](../../Browse/rule/combat/turn.md)** |
 > |---------------------------|--------------------:|
 > | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
@@ -2746,7 +2746,7 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Helloooo [Orden](../../Browse/rule/world/orden.md)!*
 >
-> | **Area, Magic** |                  **Main action** |
+> | **Area, Magic** |                  **[Main action](../../Browse/rule/combat/turn.md)** |
 > |-----------------|---------------------------------:|
 > | **📏 5 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each creature in the area** |
 >

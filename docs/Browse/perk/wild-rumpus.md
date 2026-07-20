@@ -20,7 +20,7 @@ You have the following ability.
 >
 > *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 >
-> | **Beastheart, Magic** | **Main action** |
+> | **Beastheart, Magic** | **[Main action](../rule/combat/turn.md)** |
 > |-----------------------|----------------:|
 > | **📏 Self**           |     **🎯 Self** |
 >

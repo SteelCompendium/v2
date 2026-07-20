@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 3 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your attack gives an ally hope.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|-----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)&#10;- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)&#10;- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md), and each of you gains an &#91;edge](../../../../rule/dice/edge.md) on the next &#91;ability roll](../../../../rule/dice/ability-roll.md) you make during the encounter"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your attack gives an ally hope.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)&#10;- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)&#10;- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a &#91;Recovery](../../../../rule/health/recoveries.md), and each of you gains an &#91;edge](../../../../rule/dice/edge.md) on the next &#91;ability roll](../../../../rule/dice/ability-roll.md) you make during the encounter"></template>

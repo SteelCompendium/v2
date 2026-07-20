@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter, whenever the target takes damage while &#91;winded](../../../../rule/health/winded.md), they can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the end of the encounter, whenever the target takes damage while &#91;winded](../../../../rule/health/winded.md), they can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage."></template>

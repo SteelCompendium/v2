@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Putrid yellow gas explodes from a bomb you toss.*&#10;&#10;| **Area, &#91;Ranged](../../../../rule/combat/ranged.md)**        |                  **Main action** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 poison damage&#10;- **12-16:** 5 poison damage&#10;- **17+:** 7 poison damage&#10;&#10;**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their &#91;turn](../../../../rule/combat/turn.md) in the area and has M &lt; AVERAGE is &#91;weakened](../../../../condition/weakened.md) (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Putrid yellow gas explodes from a bomb you toss.*&#10;&#10;| **Area, &#91;Ranged](../../../../rule/combat/ranged.md)**        |                  **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 2 poison damage&#10;- **12-16:** 5 poison damage&#10;- **17+:** 7 poison damage&#10;&#10;**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their &#91;turn](../../../../rule/combat/turn.md) in the area and has M &lt; AVERAGE is &#91;weakened](../../../../condition/weakened.md) (save ends)."></template>

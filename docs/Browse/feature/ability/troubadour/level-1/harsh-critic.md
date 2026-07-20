@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 3 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Just one bad review will ruin their day.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 7 + P sonic damage&#10;- **12-16:** 10 + P sonic damage&#10;- **17+:** 13 + P sonic damage&#10;&#10;**Effect:** The first time the target uses an ability before the start of your next &#91;turn](../../../../rule/combat/turn.md), any effects from the ability&#39;s &#91;tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the &#91;power roll](../../../../rule/dice/power-roll.md) work as usual."></template>
+<template class="sc-src" data-fmt="md" data-src="*Just one bad review will ruin their day.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 7 + P sonic damage&#10;- **12-16:** 10 + P sonic damage&#10;- **17+:** 13 + P sonic damage&#10;&#10;**Effect:** The first time the target uses an ability before the start of your next &#91;turn](../../../../rule/combat/turn.md), any effects from the ability&#39;s &#91;tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the &#91;power roll](../../../../rule/dice/power-roll.md) work as usual."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score and [teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a [condition](../../../../rule/combat/condition.md) or other negative effect.
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*No, no, no, you lose the audience that way. Try it like this...*&#10;&#10;| **Area, Magic, Performance** |                    **No action** |&#10;|------------------------------|---------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Each creature in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your &#91;Presence](../../../../rule/character/presence.md) score and &#91;teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can&#39;t be &#91;teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them &#91;dying](../../../../rule/health/dying.md), or result in them suffering a &#91;condition](../../../../rule/combat/condition.md) or other negative effect."></template>
+<template class="sc-src" data-fmt="md" data-src="*No, no, no, you lose the audience that way. Try it like this...*&#10;&#10;| **Area, Magic, Performance** |                    **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|---------------------------------:|&#10;| **📏 2 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Each creature in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your &#91;Presence](../../../../rule/character/presence.md) score and &#91;teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can&#39;t be &#91;teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them &#91;dying](../../../../rule/health/dying.md), or result in them suffering a &#91;condition](../../../../rule/combat/condition.md) or other negative effect."></template>

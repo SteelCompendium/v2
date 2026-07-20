@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../../../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You commune with the lingering soul of the recently dead.*&#10;&#10;| **Magic**      |             **Maneuver** |&#10;|----------------|-------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1** | **🎯 One dead creature** |&#10;&#10;**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make &#91;tests](../../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of &#91;dying](../../../../rule/health/dying.md) can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice."></template>
+<template class="sc-src" data-fmt="md" data-src="*You commune with the lingering soul of the recently dead.*&#10;&#10;| **Magic**      |             **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------|-------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1** | **🎯 One dead creature** |&#10;&#10;**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make &#91;tests](../../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of &#91;dying](../../../../rule/health/dying.md) can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice."></template>

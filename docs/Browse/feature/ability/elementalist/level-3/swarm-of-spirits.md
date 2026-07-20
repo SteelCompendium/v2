@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 7 Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
@@ -53,4 +53,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Guardian animal spirits surround you to harry your foes and bolster your allies.*&#10;&#10;| **Area, Green, Magic** |               **Main action** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 damage&#10;- **12-16:** 6 damage&#10;- **17+:** 9 damage&#10;&#10;**Effect:** Until the end of your next &#91;turn](../../../../rule/combat/turn.md), each ally in the area has each of their &#91;characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting &#91;potencies](../../../../rule/character/potency.md), and has a +1 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;saving throws](../../../../rule/general/saving-throw.md).&#10;&#10;**Persistent 1:** You make the &#91;power roll](../../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Guardian animal spirits surround you to harry your foes and bolster your allies.*&#10;&#10;| **Area, Green, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 damage&#10;- **12-16:** 6 damage&#10;- **17+:** 9 damage&#10;&#10;**Effect:** Until the end of your next &#91;turn](../../../../rule/combat/turn.md), each ally in the area has each of their &#91;characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting &#91;potencies](../../../../rule/character/potency.md), and has a +1 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;saving throws](../../../../rule/general/saving-throw.md).&#10;&#10;**Persistent 1:** You make the &#91;power roll](../../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>

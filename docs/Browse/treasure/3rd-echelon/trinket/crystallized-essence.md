@@ -6,11 +6,13 @@ search:
 echelon: "3"
 effect: While holding crystallized essence, the [distance](../../../rule/combat/distance.md) of your ranged magic abilities increases by 5. Any creatures you create or summon using magic have their [Stamina](../../../rule/health/stamina.md) increased by one-third of their Stamina maximum.
 flavor: A storm rages at the center of this color-shifting shard of rock.
+item_prerequisite: The remains of an elemental
 keywords:
     - Magic
 name: Crystallized Essence
 project_goal: "450"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Records in Rhorvic
 scc: mcdm.summoner.v1/treasure.3rd-echelon.trinket/crystallized-essence
 treasure_type: trinket
 type: treasure

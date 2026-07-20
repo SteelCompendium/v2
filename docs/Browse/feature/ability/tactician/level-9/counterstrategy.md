@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: Self
@@ -34,4 +34,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*I&#39;ve identified a way to negate their strengths.*&#10;&#10;| **-**       | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You gain 6 &#91;surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*I&#39;ve identified a way to negate their strengths.*&#10;&#10;| **-**       | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You gain 6 &#91;surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>

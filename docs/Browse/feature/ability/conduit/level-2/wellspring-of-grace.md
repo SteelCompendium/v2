@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: 3 [aura](../../../../rule/combat/aura.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A holy light is emitted from your body, healing your allies.*&#10;&#10;| **Area, Magic**  |              **Main action** |&#10;|------------------|-----------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever a target starts their &#91;turn](../../../../rule/combat/turn.md) in the area, they can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*A holy light is emitted from your body, healing your allies.*&#10;&#10;| **Area, Magic**  |              **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|-----------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever a target starts their &#91;turn](../../../../rule/combat/turn.md) in the area, they can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

@@ -5,12 +5,18 @@ search:
   boost: 2
 effect: The target takes poison damage equal to 3 + your
 flavor: These braids of articulated, wickedly barbed tails weave behind your heads, threatening painful stings.
+item_prerequisite: The stinger from a manticore's tail
 keywords:
     - Light Weapon
     - Magic
+level_effects:
+    1st: Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, you and your companion can use the following maneuver.
+    5th: The weapon's extra poison damage increases to 2. Additionally, the Scorpion Tail ability's distance increases to melee 3.
+    9th: The weapon's extra poison damage increases to 3. Additionally, the Scorpion Tail ability's distance increases to melee 4.
 name: Scorpion Tails
 project_goal: "450"
 project_roll_characteristic: Agility, Reason, or Intuition
+project_source: Texts or lore in Khemharic
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/scorpion-tails
 treasure_type: weapon
 type: treasure

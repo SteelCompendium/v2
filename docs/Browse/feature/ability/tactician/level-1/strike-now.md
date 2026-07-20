@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your foe left an opening. You point this out to an ally!*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)** | **Main action** |&#10;| ---------------------------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |&#10;&#10;**Effect:** The target can use a &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md).&#10;&#10;**Spend 5 Focus:** You target two allies instead of one."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your foe left an opening. You point this out to an ally!*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;| ---------------------------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |&#10;&#10;**Effect:** The target can use a &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md).&#10;&#10;**Spend 5 Focus:** You target two allies instead of one."></template>

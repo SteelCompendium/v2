@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 [surge](../../../../rule/resource/surge.md).
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains 1 &#91;surge](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*&#10;&#10;| **Area, Magic, Performance** |                         **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains 1 &#91;surge](../../../../rule/resource/surge.md)."></template>

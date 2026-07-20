@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: You contort your enemy's body into a stance they struggle to escape from.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You contort your enemy&#39;s body into a stance they struggle to escape from.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; A &lt; WEAK, &#91;grabbed](../../../../condition/grabbed.md)&#10;- **12-16:** 7 + A damage; A &lt; AVERAGE, &#91;grabbed](../../../../condition/grabbed.md)&#10;- **17+:** 9 + A damage; A &lt; STRONG, &#91;grabbed](../../../../condition/grabbed.md)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You contort your enemy&#39;s body into a stance they struggle to escape from.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; A &lt; WEAK, &#91;grabbed](../../../../condition/grabbed.md)&#10;- **12-16:** 7 + A damage; A &lt; AVERAGE, &#91;grabbed](../../../../condition/grabbed.md)&#10;- **17+:** 9 + A damage; A &lt; STRONG, &#91;grabbed](../../../../condition/grabbed.md)"></template>

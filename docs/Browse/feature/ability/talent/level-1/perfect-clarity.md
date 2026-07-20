@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You clear the mind of nothing but the goal.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telepathy** |            **Maneuver** |&#10;|--------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the target gains a +3 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md), and they have a double &#91;edge](../../../../rule/dice/edge.md) on the next &#91;power roll](../../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.&#10;&#10;**Strained:** You take 1d6 damage, and you can&#39;t use &#91;triggered actions](../../../../rule/combat/triggered-action.md) (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You clear the mind of nothing but the goal.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telepathy** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the target gains a +3 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md), and they have a double &#91;edge](../../../../rule/dice/edge.md) on the next &#91;power roll](../../../../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.&#10;&#10;**Strained:** You take 1d6 damage, and you can&#39;t use &#91;triggered actions](../../../../rule/combat/triggered-action.md) (save ends)."></template>

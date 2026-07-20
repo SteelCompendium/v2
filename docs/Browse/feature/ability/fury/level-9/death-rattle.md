@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -44,4 +44,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md)&#10;- **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), as does one &#91;winded](../../../../rule/health/winded.md) target who is not a leader or solo creature&#10;- **17+:** 10 psychic damage; each target who is not a leader or solo creature is &#91;winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), as does one &#91;winded](../../../../rule/health/winded.md) target who is not a leader or solo creature"></template>
+<template class="sc-src" data-fmt="md" data-src="*You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*&#10;&#10;| **Area, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md)&#10;- **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), as does one &#91;winded](../../../../rule/health/winded.md) target who is not a leader or solo creature&#10;- **17+:** 10 psychic damage; each target who is not a leader or solo creature is &#91;winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 &#91;Stamina](../../../../rule/health/stamina.md), as does one &#91;winded](../../../../rule/health/winded.md) target who is not a leader or solo creature"></template>

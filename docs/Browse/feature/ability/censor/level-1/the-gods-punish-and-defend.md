@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 3 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel holy energy to smite a foe and heal an ally.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 + M holy damage&#10;- **12-16:** 8 + M holy damage&#10;- **17+:** 11 + M holy damage&#10;&#10;**Effect:** You can spend a &#91;Recovery](../../../../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain &#91;Stamina](../../../../rule/health/stamina.md) equal to your &#91;recovery value](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel holy energy to smite a foe and heal an ally.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 5 + M holy damage&#10;- **12-16:** 8 + M holy damage&#10;- **17+:** 11 + M holy damage&#10;&#10;**Effect:** You can spend a &#91;Recovery](../../../../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain &#91;Stamina](../../../../rule/health/stamina.md) equal to your &#91;recovery value](../../../../rule/health/recoveries.md)."></template>

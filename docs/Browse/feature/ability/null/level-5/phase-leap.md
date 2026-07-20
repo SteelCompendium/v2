@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Move
+action_type: '[Move](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You leap beyond reality, leaving an afterimage of yourself.*&#10;&#10;| **Psionic** |    **Move** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You jump up to your &#91;speed](../../../../rule/character/speed.md) without provoking &#91;opportunity attacks](../../../../rule/combat/opportunity-attack.md). Until the end of your next &#91;turn](../../../../rule/combat/turn.md), a static afterimage of you remains in the space you left, and any enemy &#91;adjacent](../../../../rule/combat/adjacent.md) to your afterimage takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your &#91;Null Field](../../../null/level-1/null-field.md) ability is active, your afterimage also projects the &#91;aura](../../../../rule/combat/aura.md) from that ability, which you control as if you were in the afterimage&#39;s space."></template>
+<template class="sc-src" data-fmt="md" data-src="*You leap beyond reality, leaving an afterimage of yourself.*&#10;&#10;| **Psionic** |    **&#91;Move](../../../../rule/combat/turn.md)** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You jump up to your &#91;speed](../../../../rule/character/speed.md) without provoking &#91;opportunity attacks](../../../../rule/combat/opportunity-attack.md). Until the end of your next &#91;turn](../../../../rule/combat/turn.md), a static afterimage of you remains in the space you left, and any enemy &#91;adjacent](../../../../rule/combat/adjacent.md) to your afterimage takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your &#91;Null Field](../../../null/level-1/null-field.md) ability is active, your afterimage also projects the &#91;aura](../../../../rule/combat/aura.md) from that ability, which you control as if you were in the afterimage&#39;s space."></template>

@@ -4,12 +4,18 @@ printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
 flavor: This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.
+item_prerequisite: An ancient bronze gear covered in indecipherable runes
 keywords:
     - Medium Weapon
     - Psionic
+level_effects:
+    1st: Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 psychic damage. Additionally, whenever you deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature, you can use a maneuver to [teleport](../../../movement/teleport.md) you and that creature, letting you trade places provided you both fit into each other's spaces.
+    5th: The weapon's extra psychic damage increases to 2. Additionally, whenever you deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
+    9th: The weapon's extra psychic damage increases to 3. Additionally, whenever you deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../../../condition/weakened.md) until the end of their next [turn](../../../rule/combat/turn.md), or you can spend a [Recovery](../../../rule/health/recoveries.md).
 name: Displacer
 project_goal: "450"
 project_roll_characteristic: '[Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts in Zaliac
 scc: mcdm.heroes.v1/treasure.leveled.weapon/displacer
 treasure_type: weapon
 type: treasure

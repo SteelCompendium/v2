@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 7 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
@@ -51,4 +51,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your performance travels and doesn&#39;t stop moving until your audience is completely rocked.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 + P damage&#10;- **12-16:** 8 + P damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 11 + P damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 &#91;combat rounds](../../../../rule/combat/combat-round.md) without spending drama."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your performance travels and doesn&#39;t stop moving until your audience is completely rocked.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 5 + P damage&#10;- **12-16:** 8 + P damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 11 + P damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 &#91;combat rounds](../../../../rule/combat/combat-round.md) without spending drama."></template>

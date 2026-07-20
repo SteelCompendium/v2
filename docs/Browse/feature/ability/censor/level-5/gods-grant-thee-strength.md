@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel divine force for movement that cannot be stopped.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)** |         **Main action** |&#10;|------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target ends any &#91;condition](../../../../rule/combat/condition.md) or effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone target](../../../../condition/prone.md) can stand up. The target then gains 2 &#91;surges](../../../../rule/resource/surge.md), can &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md) while ignoring &#91;difficult terrain](../../../../movement/difficult-terrain.md), and can use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel divine force for movement that cannot be stopped.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)** |         **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target ends any &#91;condition](../../../../rule/combat/condition.md) or effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone target](../../../../condition/prone.md) can stand up. The target then gains 2 &#91;surges](../../../../rule/resource/surge.md), can &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md) while ignoring &#91;difficult terrain](../../../../movement/difficult-terrain.md), and can use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>

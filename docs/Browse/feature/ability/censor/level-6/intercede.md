@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You take your ally&#39;s place.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **Free triggered** |&#10;|-------------------|-------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature makes a &#91;strike](../../../../rule/combat/strike.md) against the target.&#10;&#10;**Effect:** The target is unaffected by the &#91;strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the &#91;strike](../../../../rule/combat/strike.md), and the target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You take your ally&#39;s place.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------------|-------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature makes a &#91;strike](../../../../rule/combat/strike.md) against the target.&#10;&#10;**Effect:** The target is unaffected by the &#91;strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the &#91;strike](../../../../rule/combat/strike.md), and the target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>

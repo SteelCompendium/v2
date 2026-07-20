@@ -10,8 +10,9 @@
     <div class="sc-card__name">Battle Wings</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">These gently undulating wings affix themselves to a creature&#39;s shoulders.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A creature's feather given as a gift by the creature</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt and Yllric <strong>Project Roll Characteristic:</strong> Agility or Intuition</div>

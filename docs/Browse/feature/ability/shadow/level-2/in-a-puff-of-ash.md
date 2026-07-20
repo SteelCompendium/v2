@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
@@ -47,4 +47,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You enchant a &#91;strike](../../../../rule/combat/strike.md) with your &#91;teleport](../../../../movement/teleport.md)ation magic.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|------------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**               | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target 1 square&#10;- **12-16:** 10 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target up to 3 squares&#10;- **17+:** 14 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target up to 5 squares"></template>
+<template class="sc-src" data-fmt="md" data-src="*You enchant a &#91;strike](../../../../rule/combat/strike.md) with your &#91;teleport](../../../../movement/teleport.md)ation magic.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**               | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target 1 square&#10;- **12-16:** 10 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target up to 3 squares&#10;- **17+:** 14 + A damage; you can &#91;teleport](../../../../movement/teleport.md) the target up to 5 squares"></template>

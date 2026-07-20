@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A single touch from you, and your enemy flies backward.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                  **Maneuver** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** &#91;Push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** &#91;Push](../../../../movement/forced-movement.md) 5&#10;- **17+:** &#91;Push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** An object you target must be your &#91;size](../../../../rule/character/size.md) or smaller. You gain an &#91;edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you &#91;push](../../../../movement/forced-movement.md) the target, they take 1 psychic damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*A single touch from you, and your enemy flies backward.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** &#91;Push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** &#91;Push](../../../../movement/forced-movement.md) 5&#10;- **17+:** &#91;Push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** An object you target must be your &#91;size](../../../../rule/character/size.md) or smaller. You gain an &#91;edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you &#91;push](../../../../movement/forced-movement.md) the target, they take 1 psychic damage."></template>

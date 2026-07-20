@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: "null"
 cost: 9 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -56,4 +56,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |  **Free triggered** |&#10;|------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves or uses a main action.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; I &lt; WEAK, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 10 + A damage; I &lt; AVERAGE, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 13 + A damage; I &lt; STRONG, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;&#10;**Effect:** This &#91;strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action."></template>
+<template class="sc-src" data-fmt="md" data-src="*You suddenly strike an enemy, then grab them in a psionically enhanced grip.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |  **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature** |&#10;&#10;**Trigger:** The target moves or uses a main action.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage; I &lt; WEAK, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **12-16:** 10 + A damage; I &lt; AVERAGE, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;- **17+:** 13 + A damage; I &lt; STRONG, &#91;restrained](../../../../condition/restrained.md) (save ends)&#10;&#10;**Effect:** This &#91;strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action."></template>

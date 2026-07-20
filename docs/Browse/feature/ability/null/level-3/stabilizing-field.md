@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 7 Discipline
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You project order, making it harder for your enemies to interfere with you and your allies.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore &#91;difficult terrain](../../../../movement/difficult-terrain.md) and reduce the &#91;potency](../../../../rule/character/potency.md) of enemy effects targeting you by 1 for you. You can also use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) at the start of each of your turns to end one effect on you that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your &#91;turn](../../../../rule/combat/turn.md). Each ally in the area also gains these benefits."></template>
+<template class="sc-src" data-fmt="md" data-src="*You project order, making it harder for your enemies to interfere with you and your allies.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore &#91;difficult terrain](../../../../movement/difficult-terrain.md) and reduce the &#91;potency](../../../../rule/character/potency.md) of enemy effects targeting you by 1 for you. You can also use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) at the start of each of your turns to end one effect on you that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your &#91;turn](../../../../rule/combat/turn.md). Each ally in the area also gains these benefits."></template>

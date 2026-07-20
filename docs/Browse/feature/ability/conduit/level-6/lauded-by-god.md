@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You beseech the gods to give your allies what they need to win the day, and the gods answer.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |      **Maneuver** |&#10;|--------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Two allies** |&#10;&#10;**Effect:** Each target gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You beseech the gods to give your allies what they need to win the day, and the gods answer.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |      **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Two allies** |&#10;&#10;**Effect:** Each target gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md)."></template>

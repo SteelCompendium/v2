@@ -109,8 +109,9 @@
     <div class="sc-card__name">Rampant Shield</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Shield</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This battered shield bears a magically animated painting of a lion rampant.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Strands from the manes of nine lions</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Vaslorian <strong>Project Roll Characteristic:</strong> Might or Intuition</div>
@@ -170,8 +171,9 @@
     <div class="sc-card__name">Thorn Dragonscale</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Armor</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon&#39;s heartbeat.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> The scales of a slain thorn dragon <strong>Project Source:</strong> Texts or lore in the First Language <strong>Project Roll Characteristic:</strong> Agility or Intuition</div>
 </div>

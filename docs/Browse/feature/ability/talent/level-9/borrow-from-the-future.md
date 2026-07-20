@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: 2 [burst](../../../../rule/combat/burst.md)
@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You lean on future heroism to assist you in the now.*&#10;&#10;| **Area, Chronopathy, Psionic** |                 **Maneuver** |&#10;|--------------------------------|-----------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |&#10;&#10;**Effect:** The targets share 6 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can&#39;t gain more than 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can&#39;t gain any clarity until the end of the next &#91;combat round](../../../../rule/combat/combat-round.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You lean on future heroism to assist you in the now.*&#10;&#10;| **Area, Chronopathy, Psionic** |                 **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|-----------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |&#10;&#10;**Effect:** The targets share 6 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can&#39;t gain more than 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can&#39;t gain any clarity until the end of the next &#91;combat round](../../../../rule/combat/combat-round.md)."></template>

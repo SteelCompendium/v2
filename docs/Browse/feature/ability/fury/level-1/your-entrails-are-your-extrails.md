@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 3 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Hard for them to fight when they&#39;re busy holding in their giblets.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; M &lt; WEAK, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 5 + M damage; M &lt; AVERAGE, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 8 + M damage; M &lt; STRONG, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;&#10;**Effect:** While &#91;bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your &#91;Might](../../../../rule/character/might.md) score at the end of each of your &#91;turns](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Hard for them to fight when they&#39;re busy holding in their giblets.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 3 + M damage; M &lt; WEAK, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **12-16:** 5 + M damage; M &lt; AVERAGE, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;- **17+:** 8 + M damage; M &lt; STRONG, &#91;bleeding](../../../../condition/bleeding.md) (save ends)&#10;&#10;**Effect:** While &#91;bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your &#91;Might](../../../../rule/character/might.md) score at the end of each of your &#91;turns](../../../../rule/combat/turn.md)."></template>

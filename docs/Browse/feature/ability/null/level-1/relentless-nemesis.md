@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 3 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You strike, and for the next few moments, your enemy can&#39;t escape you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage&#10;- **12-16:** 8 + A damage&#10;- **17+:** 12 + A damage&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), whenever the target finishes moving or being &#91;force moved](../../../../movement/forced-movement.md), you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md). You must end this &#91;shift](../../../../movement/shifting.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*You strike, and for the next few moments, your enemy can&#39;t escape you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage&#10;- **12-16:** 8 + A damage&#10;- **17+:** 12 + A damage&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), whenever the target finishes moving or being &#91;force moved](../../../../movement/forced-movement.md), you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md). You must end this &#91;shift](../../../../movement/shifting.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to the target."></template>

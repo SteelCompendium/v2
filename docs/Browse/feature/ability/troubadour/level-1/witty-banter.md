@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
@@ -52,4 +52,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A lyrical (and physical) jab insults an enemy and inspires an ally.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**       | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 + P psychic damage&#10;- **12-16:** 5 + P psychic damage&#10;- **17+:** 7 + P psychic damage&#10;&#10;**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Spend 1 Drama:** The chosen ally can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*A lyrical (and physical) jab insults an enemy and inspires an ally.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**       | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 + P psychic damage&#10;- **12-16:** 5 + P psychic damage&#10;- **17+:** 7 + P psychic damage&#10;&#10;**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Spend 1 Drama:** The chosen ally can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

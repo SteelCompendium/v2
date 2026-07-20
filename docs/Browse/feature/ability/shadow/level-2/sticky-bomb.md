@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Explosives are best when they&#39;re attached to an enemy.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |     **Main action** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next &#91;turn](../../../../rule/combat/turn.md), the bomb detonates. When the bomb detonates, you make a &#91;power roll](../../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A fire damage&#10;- **12-16:** 7 + A fire damage&#10;- **17+:** 11 + A fire damage"></template>
+<template class="sc-src" data-fmt="md" data-src="*Explosives are best when they&#39;re attached to an enemy.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature** |&#10;&#10;**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next &#91;turn](../../../../rule/combat/turn.md), the bomb detonates. When the bomb detonates, you make a &#91;power roll](../../../../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A fire damage&#10;- **12-16:** 7 + A fire damage&#10;- **17+:** 11 + A fire damage"></template>

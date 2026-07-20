@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You stir any wood&#39;s memory and learn what it has seen.*&#10;&#10;| **Green, Magic, &#91;Melee](../../../../rule/combat/melee.md)** |                  **Main action** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**          | **🎯 One mundane wooden object** |&#10;&#10;**Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&#39;s location as if you were there."></template>
+<template class="sc-src" data-fmt="md" data-src="*You stir any wood&#39;s memory and learn what it has seen.*&#10;&#10;| **Green, Magic, &#91;Melee](../../../../rule/combat/melee.md)** |                  **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|---------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**          | **🎯 One mundane wooden object** |&#10;&#10;**Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&#39;s location as if you were there."></template>

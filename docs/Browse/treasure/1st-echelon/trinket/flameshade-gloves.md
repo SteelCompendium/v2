@@ -6,12 +6,14 @@ search:
 echelon: "1"
 effect: When you use a move action while wearing these gloves, you can place one hand upon a mundane object as part of that move action. If the object is 1 square thick or less and has open space on the other side (for example, a door or wall), you pull your body through it as though the object wasn't there.
 flavor: These finely stitched gloves appear to flicker in and out of reality when first handled.
+item_prerequisite: A humanoid's shadow disconnected from its source
 keywords:
     - Hands
     - Psionic
 name: Flameshade Gloves
 project_goal: "150"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md)'
+project_source: Texts or lore in Khelt
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves
 treasure_type: trinket
 type: treasure

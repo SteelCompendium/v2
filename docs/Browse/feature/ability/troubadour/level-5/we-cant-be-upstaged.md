@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, a target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../../rule/combat/distance.md) they can [shift](../../../../movement/shifting.md) equal to your [Presence](../../../../rule/character/presence.md) score until the end of their [turn](../../../../rule/combat/turn.md).
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Swordplay so graceful it looks like you all practiced this.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, a target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to the &#91;distance](../../../../rule/combat/distance.md) they can &#91;shift](../../../../movement/shifting.md) equal to your &#91;Presence](../../../../rule/character/presence.md) score until the end of their &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Swordplay so graceful it looks like you all practiced this.*&#10;&#10;| **Area, Magic, Performance** |                         **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, a target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to the &#91;distance](../../../../rule/combat/distance.md) they can &#91;shift](../../../../movement/shifting.md) equal to your &#91;Presence](../../../../rule/character/presence.md) score until the end of their &#91;turn](../../../../rule/combat/turn.md)."></template>

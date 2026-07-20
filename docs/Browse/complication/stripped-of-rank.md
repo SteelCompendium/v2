@@ -24,7 +24,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > *"Move or die, folks."*
 >
-> | **[Ranged](../rule/combat/ranged.md)**       | **Main action** |
+> | **[Ranged](../rule/combat/ranged.md)**       | **[Main action](../rule/combat/turn.md)** |
 > |------------------|----------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One ally** |
 >

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: 4 [burst](../../../../rule/combat/burst.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You start a drumroll that roars like thunder with every impact the heroes make.*&#10;&#10;| **Area, Magic** |                          **Maneuver** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md), then gains 1 &#91;surge](../../../../rule/resource/surge.md) at the start of each &#91;combat round](../../../../rule/combat/combat-round.md) until the end of the encounter."></template>
+<template class="sc-src" data-fmt="md" data-src="*You start a drumroll that roars like thunder with every impact the heroes make.*&#10;&#10;| **Area, Magic** |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md), then gains 1 &#91;surge](../../../../rule/resource/surge.md) at the start of each &#91;combat round](../../../../rule/combat/combat-round.md) until the end of the encounter."></template>

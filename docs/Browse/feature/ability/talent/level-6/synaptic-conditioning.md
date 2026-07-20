@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*It&#39;s a subtle mindset shift. It&#39;s not that they&#39;re your enemy—you just don&#39;t like them!*&#10;&#10;| **Psionic, &#91;Melee](../../../../rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |&#10;|-------------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 10 psychic damage; the target takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)&#10;- **12-16:** 14 psychic damage; the target has a double &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)&#10;- **17+:** 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)&#10;&#10;**Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features."></template>
+<template class="sc-src" data-fmt="md" data-src="*It&#39;s a subtle mindset shift. It&#39;s not that they&#39;re your enemy—you just don&#39;t like them!*&#10;&#10;| **Psionic, &#91;Melee](../../../../rule/combat/melee.md)**, **Strike, Telepathy** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 10 psychic damage; the target takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)&#10;- **12-16:** 14 psychic damage; the target has a double &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)&#10;- **17+:** 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)&#10;&#10;**Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features."></template>

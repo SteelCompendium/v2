@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: 4 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You &#91;teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.*&#10;&#10;| **Magic**      |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;teleport](../../../../movement/teleport.md) up to 5 squares. For each target in addition to you who &#91;teleports](../../../../movement/teleport.md) away from or into a space &#91;adjacent](../../../../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your &#91;Agility](../../../../rule/character/agility.md) score. Additionally, a target who ends this movement in &#91;concealment](../../../../rule/combat/concealment.md) or &#91;cover](../../../../rule/combat/cover.md) can use the &#91;Hide](../../../common/maneuvers/hide.md) maneuver even if they are observed."></template>
+<template class="sc-src" data-fmt="md" data-src="*You &#91;teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.*&#10;&#10;| **Magic**      |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can &#91;teleport](../../../../movement/teleport.md) up to 5 squares. For each target in addition to you who &#91;teleports](../../../../movement/teleport.md) away from or into a space &#91;adjacent](../../../../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your &#91;Agility](../../../../rule/character/agility.md) score. Additionally, a target who ends this movement in &#91;concealment](../../../../rule/combat/concealment.md) or &#91;cover](../../../../rule/combat/cover.md) can use the &#91;Hide](../../../common/maneuvers/hide.md) maneuver even if they are observed."></template>

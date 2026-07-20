@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 5 Essence
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You call down a rain that burns your enemies and restores your allies.*&#10;&#10;| **Area, Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 4 acid damage&#10;- **12-16:** 6 acid damage&#10;- **17+:** 10 acid damage&#10;&#10;**Effect:** You can end one effect on yourself that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your &#91;turn](../../../../rule/combat/turn.md). Each ally in the area also gains this benefit."></template>
+<template class="sc-src" data-fmt="md" data-src="*You call down a rain that burns your enemies and restores your allies.*&#10;&#10;| **Area, Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 4 acid damage&#10;- **12-16:** 6 acid damage&#10;- **17+:** 10 acid damage&#10;&#10;**Effect:** You can end one effect on yourself that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your &#91;turn](../../../../rule/combat/turn.md). Each ally in the area also gains this benefit."></template>

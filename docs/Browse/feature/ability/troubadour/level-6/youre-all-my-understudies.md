@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*It&#39;s important for everyone to know each other&#39;s lines, just in case...*&#10;&#10;| **Area, Magic** |                 **Maneuver** |&#10;|-----------------|-----------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter, each target gains the &#91;speed](../../../../rule/character/speed.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), weapon &#91;distance](../../../../rule/combat/distance.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), disengage &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), and &#91;stability](../../../../rule/character/stability.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit&#39;s &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md)es."></template>
+<template class="sc-src" data-fmt="md" data-src="*It&#39;s important for everyone to know each other&#39;s lines, just in case...*&#10;&#10;| **Area, Magic** |                 **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|-----------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter, each target gains the &#91;speed](../../../../rule/character/speed.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), weapon &#91;distance](../../../../rule/combat/distance.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), disengage &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md), and &#91;stability](../../../../rule/character/stability.md) &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit&#39;s &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md)es."></template>

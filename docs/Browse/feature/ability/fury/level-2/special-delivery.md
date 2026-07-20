@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You ready?*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon** |            **Maneuver** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**    | **🎯 One willing ally** |&#10;&#10;**Effect:** You vertically &#91;push](../../../../movement/forced-movement.md) the target up to 4 squares. This &#91;forced movement](../../../../movement/forced-movement.md) ignores the target&#39;s &#91;stability](../../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a &#91;free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to your &#91;Might](../../../../rule/character/might.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You ready?*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**    | **🎯 One willing ally** |&#10;&#10;**Effect:** You vertically &#91;push](../../../../movement/forced-movement.md) the target up to 4 squares. This &#91;forced movement](../../../../movement/forced-movement.md) ignores the target&#39;s &#91;stability](../../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a &#91;free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to your &#91;Might](../../../../rule/character/might.md) score."></template>

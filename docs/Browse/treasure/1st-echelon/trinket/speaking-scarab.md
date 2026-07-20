@@ -6,12 +6,14 @@ search:
 echelon: "1"
 effect: Only a beastheart's companion or an animal can wear this necklace. While wearing this necklace, the creature's Reason score is 0 unless it would otherwise be higher. The creature can speak any language they know, and another creature who knows a language can teach that language to the creature as a respite activity. When the creature speaks, their voice issues from the scarab on the necklace.
 flavor: This black leather necklace is set with a golden representation of a scarab beetle.
+item_prerequisite: Jewelry worn by a voiceless talker
 keywords:
     - Neck
     - Psionic
 name: Speaking Scarab
 project_goal: "150"
 project_roll_characteristic: Reason, Intuition, or Presence
+project_source: Texts or lore in Variac
 scc: mcdm.beastheart.v1/treasure.1st-echelon.trinket/speaking-scarab
 treasure_type: trinket
 type: treasure

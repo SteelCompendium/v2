@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: shadow
 distance: Self
 effect: You take half the triggering damage, then can [shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../../../../movement/shifting.md) with [concealment](../../../../rule/combat/concealment.md) or [cover](../../../../rule/combat/cover.md), you can use the [Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed.
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*When an enemy attacks, you roll with the impact to reduce the harm.*&#10;&#10;| **-**       | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you.&#10;&#10;**Effect:** You take half the triggering damage, then can &#91;shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this &#91;shift](../../../../movement/shifting.md) with &#91;concealment](../../../../rule/combat/concealment.md) or &#91;cover](../../../../rule/combat/cover.md), you can use the &#91;Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed.&#10;&#10;**Spend 1 Insight:** The &#91;potency](../../../../rule/character/potency.md) of any effects associated with the damage are reduced by 1 for you."></template>
+<template class="sc-src" data-fmt="md" data-src="*When an enemy attacks, you roll with the impact to reduce the harm.*&#10;&#10;| **-**       | **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you.&#10;&#10;**Effect:** You take half the triggering damage, then can &#91;shift](../../../../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this &#91;shift](../../../../movement/shifting.md) with &#91;concealment](../../../../rule/combat/concealment.md) or &#91;cover](../../../../rule/combat/cover.md), you can use the &#91;Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed.&#10;&#10;**Spend 1 Insight:** The &#91;potency](../../../../rule/character/potency.md) of any effects associated with the damage are reduced by 1 for you."></template>

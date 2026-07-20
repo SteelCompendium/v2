@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -54,4 +54,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*&#10;&#10;| **Area, Psionic, Telekinesis** |                          **Main action** |&#10;|--------------------------------|-----------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;- **12-16:** 9 damage; &#91;push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 13 damage; &#91;push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** On a &#91;critical hit](../../../../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.&#10;&#10;**Strained:** You are &#91;weakened](../../../../condition/weakened.md) (save ends). If you scored a &#91;critical hit](../../../../rule/combat/critical-hit.md) with this ability, you die."></template>
+<template class="sc-src" data-fmt="md" data-src="*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*&#10;&#10;| **Area, Psionic, Telekinesis** |                          **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|-----------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;- **12-16:** 9 damage; &#91;push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 13 damage; &#91;push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** On a &#91;critical hit](../../../../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.&#10;&#10;**Strained:** You are &#91;weakened](../../../../condition/weakened.md) (save ends). If you scored a &#91;critical hit](../../../../rule/combat/critical-hit.md) with this ability, you die."></template>

@@ -24,7 +24,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 >
 > *Psionic energy [bursts](../rule/combat/burst.md) from your body in an iridescent shimmer.*
 >
-> | **Area, Psionic** |                  **Main action** |
+> | **Area, Psionic** |                  **[Main action](../rule/combat/turn.md)** |
 > |-------------------|---------------------------------:|
 > | **📏 3 [burst](../rule/combat/burst.md)**    | **🎯 Each creature in the area** |
 >

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You and your partner make a flashy show of derring-do, then get back to your corners.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**Effect:** You and the target each make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your &#91;free strike](../../../common/main-actions/free-strike.md) targets and which enemies the target creature&#39;s &#91;free strike](../../../common/main-actions/free-strike.md) targets. You then &#91;slide](../../../../movement/forced-movement.md) the target 5 squares, ignoring &#91;stability](../../../../rule/character/stability.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You and your partner make a flashy show of derring-do, then get back to your corners.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**Effect:** You and the target each make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your &#91;free strike](../../../common/main-actions/free-strike.md) targets and which enemies the target creature&#39;s &#91;free strike](../../../common/main-actions/free-strike.md) targets. You then &#91;slide](../../../../movement/forced-movement.md) the target 5 squares, ignoring &#91;stability](../../../../rule/character/stability.md)."></template>

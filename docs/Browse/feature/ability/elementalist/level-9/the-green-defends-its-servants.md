@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 11 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A luminous green shield shows its true beauty the more it cracks.*&#10;&#10;| **Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|--------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |&#10;&#10;**Effect:** You conjure an elemental shield that protects the target until the end of your next &#91;turn](../../../../rule/combat/turn.md). While the shield is active, the target can take the &#91;Defend](../../../common/main-actions/defend.md) main action as a maneuver on each of their &#91;turns](../../../../rule/combat/turn.md). The target gains 30 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.&#10;&#10;**Persistent 2:** The effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*A luminous green shield shows its true beauty the more it cracks.*&#10;&#10;| **Green, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |&#10;&#10;**Effect:** You conjure an elemental shield that protects the target until the end of your next &#91;turn](../../../../rule/combat/turn.md). While the shield is active, the target can take the &#91;Defend](../../../common/main-actions/defend.md) main action as a maneuver on each of their &#91;turns](../../../../rule/combat/turn.md). The target gains 30 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.&#10;&#10;**Persistent 2:** The effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>

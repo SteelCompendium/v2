@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Organizing your forces like feckless creatures of Law. Pitiful.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md) and make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move &#91;adjacent](../../../../rule/combat/adjacent.md) to during this &#91;shift](../../../../movement/shifting.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 damage; A &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 4 damage; A &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 6 damage; A &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*Organizing your forces like feckless creatures of Law. Pitiful.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md) and make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move &#91;adjacent](../../../../rule/combat/adjacent.md) to during this &#91;shift](../../../../movement/shifting.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 damage; A &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** 4 damage; A &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** 6 damage; A &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>

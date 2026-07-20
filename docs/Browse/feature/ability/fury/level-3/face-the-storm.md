@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 7 Ferocity
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Shocked in the face of your naked brutality, your enemy&#39;s instincts take over.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each creature you make a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) against who has P &lt; AVERAGE is &#91;taunted](../../../../condition/taunted.md) until the end of their next &#91;turn](../../../../rule/combat/turn.md). Additionally, when you use an ability that deals &#91;rolled damage](../../../../rule/damage/rolled-damage.md) against any enemy &#91;taunted](../../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your &#91;Might](../../../../rule/character/might.md) score and increases its &#91;potency](../../../../rule/character/potency.md) by 1."></template>
+<template class="sc-src" data-fmt="md" data-src="*Shocked in the face of your naked brutality, your enemy&#39;s instincts take over.*&#10;&#10;| **Magic**   | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), each creature you make a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) against who has P &lt; AVERAGE is &#91;taunted](../../../../condition/taunted.md) until the end of their next &#91;turn](../../../../rule/combat/turn.md). Additionally, when you use an ability that deals &#91;rolled damage](../../../../rule/damage/rolled-damage.md) against any enemy &#91;taunted](../../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your &#91;Might](../../../../rule/character/might.md) score and increases its &#91;potency](../../../../rule/character/potency.md) by 1."></template>

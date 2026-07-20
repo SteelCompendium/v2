@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
@@ -54,4 +54,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*&#10;&#10;| **Chronopathy, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |&#10;&#10;**Effect:** Each target can use any main action available to them as a free &#91;triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Strained:** Make a &#91;power roll](../../../../rule/dice/power-roll.md) that targets you and each enemy within &#91;distance](../../../../rule/combat/distance.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 6 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 10 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*&#10;&#10;| **Chronopathy, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |&#10;&#10;**Effect:** Each target can use any main action available to them as a free &#91;triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next &#91;turn](../../../../rule/combat/turn.md).&#10;&#10;**Strained:** Make a &#91;power roll](../../../../rule/dice/power-roll.md) that targets you and each enemy within &#91;distance](../../../../rule/combat/distance.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 4 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 6 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 10 corruption damage; &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>

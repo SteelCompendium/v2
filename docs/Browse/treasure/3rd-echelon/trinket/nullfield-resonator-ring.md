@@ -6,12 +6,14 @@ search:
 echelon: "3"
 effect: You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/null/level-1/null-field.md) ability increases by 1.
 flavor: This simple band of copper vibrates slightly when handled.
+item_prerequisite: A wafer of gallium arsenide
 keywords:
     - Psionic
     - Ring
 name: Nullfield Resonator Ring
 project_goal: "450"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Mindspeech
 scc: mcdm.heroes.v1/treasure.3rd-echelon.trinket/nullfield-resonator-ring
 treasure_type: trinket
 type: treasure
@@ -42,7 +44,7 @@ Additionally, you have the following ability.
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
-> | **[Melee](../../../rule/combat/melee.md), Psionic**, **Strike, Weapon** |               **Main action** |
+> | **[Melee](../../../rule/combat/melee.md), Psionic**, **Strike, Weapon** |               **[Main action](../../../rule/combat/turn.md)** |
 > |----------------------------------------|------------------------------:|
 > | **📏 [Melee](../../../rule/combat/melee.md) 1**                         | **🎯 One creature or object** |
 >

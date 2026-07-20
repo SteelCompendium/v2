@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: fury
 cost: 9 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -55,4 +55,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You quickly strike back at a foe.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |             **Free triggered** |&#10;|---------------------------|-------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 The triggering creature** |&#10;&#10;**Trigger:** A creature causes you to be &#91;winded](../../../../rule/health/winded.md) or &#91;dying](../../../../rule/health/dying.md), or damages you while you are &#91;winded](../../../../rule/health/winded.md) or &#91;dying](../../../../rule/health/dying.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage&#10;- **12-16:** 9 + M damage&#10;- **17+:** 13 + M damage&#10;&#10;**Effect:** You can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You quickly strike back at a foe.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |             **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|---------------------------|-------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 The triggering creature** |&#10;&#10;**Trigger:** A creature causes you to be &#91;winded](../../../../rule/health/winded.md) or &#91;dying](../../../../rule/health/dying.md), or damages you while you are &#91;winded](../../../../rule/health/winded.md) or &#91;dying](../../../../rule/health/dying.md).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage&#10;- **12-16:** 9 + M damage&#10;- **17+:** 13 + M damage&#10;&#10;**Effect:** You can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

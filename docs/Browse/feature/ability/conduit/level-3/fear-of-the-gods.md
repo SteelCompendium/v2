@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 7 Piety
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your divine magic makes a creature appear as what your enemies fear most.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 6 psychic damage; I &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 9 psychic damage; I &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 13 psychic damage; I &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Effect:** Each target is &#91;frightened](../../../../condition/frightened.md) of you or a creature you choose within &#91;distance](../../../../rule/combat/distance.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your divine magic makes a creature appear as what your enemies fear most.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 6 psychic damage; I &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 9 psychic damage; I &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 13 psychic damage; I &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;&#10;**Effect:** Each target is &#91;frightened](../../../../condition/frightened.md) of you or a creature you choose within &#91;distance](../../../../rule/combat/distance.md)."></template>

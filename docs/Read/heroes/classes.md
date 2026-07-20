@@ -13880,7 +13880,7 @@ You have the following ability.
 
 *They aren't going anywhere, but you might!*
 
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **[Triggered](../../Browse/rule/combat/triggered-action.md)** |
 |---------------------|------------------------:|
 | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
 
@@ -15212,7 +15212,7 @@ You have the following ability.
 
 *You freeze time just long enough to bring the victim to safety!*
 
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                          **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                          **[Triggered](../../Browse/rule/combat/triggered-action.md)** |
 |---------------------|---------------------------------------:|
 | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |
 

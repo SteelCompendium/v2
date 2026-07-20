@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: 2 [burst](../../../../rule/combat/burst.md)
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You move so quickly, it seems as though an army assaulted your foes.*&#10;&#10;| **Area, Psionic, Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Effect:** You can take the &#91;Disengage](../../../common/move-actions/disengage.md) move action as a &#91;free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability."></template>
+<template class="sc-src" data-fmt="md" data-src="*You move so quickly, it seems as though an army assaulted your foes.*&#10;&#10;| **Area, Psionic, Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**            | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Effect:** You can take the &#91;Disengage](../../../common/move-actions/disengage.md) move action as a &#91;free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability."></template>

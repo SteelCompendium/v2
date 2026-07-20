@@ -32,7 +32,7 @@ type: title
 >
 > *Helloooo [Orden](../rule/world/orden.md)!*
 >
-> | **Area, Magic** |                  **Main action** |
+> | **Area, Magic** |                  **[Main action](../rule/combat/turn.md)** |
 > |-----------------|---------------------------------:|
 > | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each creature in the area** |
 >

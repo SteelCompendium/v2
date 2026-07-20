@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*They&#39;re so hurt by your performance, you start to believe it yourself.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; P &lt; WEAK, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 10 + A damage; P &lt; AVERAGE, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 14 + A damage; P &lt; STRONG, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** You can become &#91;bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*They&#39;re so hurt by your performance, you start to believe it yourself.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 + A damage; P &lt; WEAK, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **12-16:** 10 + A damage; P &lt; AVERAGE, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;- **17+:** 14 + A damage; P &lt; STRONG, &#91;weakened](../../../../condition/weakened.md) (save ends)&#10;&#10;**Effect:** You can become &#91;bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target."></template>

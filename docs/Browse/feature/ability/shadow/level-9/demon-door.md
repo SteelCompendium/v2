@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
@@ -51,4 +51,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You create a temporary portal to allow a massive demonic hand to reach through.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 3**                   | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 13 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 18 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 25 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** On a &#91;critical hit](../../../../rule/combat/critical-hit.md), the target is &#91;grabbed](../../../../condition/grabbed.md) by the demon and &#91;pulled](../../../../movement/forced-movement.md) through the portal before it closes, never to be seen again."></template>
+<template class="sc-src" data-fmt="md" data-src="*You create a temporary portal to allow a massive demonic hand to reach through.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 3**                   | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 13 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 18 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 25 + A corruption damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** On a &#91;critical hit](../../../../rule/combat/critical-hit.md), the target is &#91;grabbed](../../../../condition/grabbed.md) by the demon and &#91;pulled](../../../../movement/forced-movement.md) through the portal before it closes, never to be seen again."></template>

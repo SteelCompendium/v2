@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 7 Clarity
 distance: 3 [aura](../../../../rule/combat/aura.md)
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A protective field reverses the momentum of incoming attacks.*&#10;&#10;| **Area, Psionic, Telepathy** | **Main action** |&#10;|------------------------------|----------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**                |  **🎯 Special** |&#10;&#10;**Effect:** The &#91;aura](../../../../rule/combat/aura.md) lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever an enemy targets an ally in the area with a &#91;ranged](../../../../rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.&#10;&#10;**Strained:** The size of the &#91;aura](../../../../rule/combat/aura.md) increases by 1. Whenever your &#91;aura](../../../../rule/combat/aura.md) reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director."></template>
+<template class="sc-src" data-fmt="md" data-src="*A protective field reverses the momentum of incoming attacks.*&#10;&#10;| **Area, Psionic, Telepathy** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|----------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**                |  **🎯 Special** |&#10;&#10;**Effect:** The &#91;aura](../../../../rule/combat/aura.md) lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever an enemy targets an ally in the area with a &#91;ranged](../../../../rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.&#10;&#10;**Strained:** The size of the &#91;aura](../../../../rule/combat/aura.md) increases by 1. Whenever your &#91;aura](../../../../rule/combat/aura.md) reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director."></template>

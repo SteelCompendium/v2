@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 3 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You shout a phrase that galvanizes your team.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |        **Maneuver** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md).&#10;- **12-16:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;- **17+:** Each target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You shout a phrase that galvanizes your team.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |        **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md).&#10;- **12-16:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md).&#10;- **17+:** Each target gains 3 &#91;surges](../../../../rule/resource/surge.md)."></template>

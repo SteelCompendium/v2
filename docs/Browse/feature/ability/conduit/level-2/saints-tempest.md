@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A raging storm appears, striking your foes with lightning and throwing them around with wind.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |               **Main action** |&#10;|--------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 5 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 2&#10;- **17+:** 7 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 3"></template>
+<template class="sc-src" data-fmt="md" data-src="*A raging storm appears, striking your foes with lightning and throwing them around with wind.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 5 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 2&#10;- **17+:** 7 lightning damage; vertical &#91;slide](../../../../movement/forced-movement.md) 3"></template>

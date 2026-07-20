@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
@@ -55,4 +55,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You bend gravity into a fine point and pull your foes toward it.*&#10;&#10;| **Area, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |                             **Main action** |&#10;|----------------------------------------|--------------------------------------------:|&#10;| **📏 4 &#91;cube](../../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 5 toward the center of the area&#10;- **12-16:** 9 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 7 toward the center of the area&#10;- **17+:** 13 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 10 toward the center of the area&#10;&#10;**Effect:** Targets closest to the center of the area are &#91;pulled](../../../../movement/forced-movement.md) first.&#10;&#10;**Strained:** The size of the area increases by 2. You also target yourself and each ally within &#91;distance](../../../../rule/combat/distance.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You bend gravity into a fine point and pull your foes toward it.*&#10;&#10;| **Area, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |                             **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------|--------------------------------------------:|&#10;| **📏 4 &#91;cube](../../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 5 toward the center of the area&#10;- **12-16:** 9 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 7 toward the center of the area&#10;- **17+:** 13 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 10 toward the center of the area&#10;&#10;**Effect:** Targets closest to the center of the area are &#91;pulled](../../../../movement/forced-movement.md) first.&#10;&#10;**Strained:** The size of the area increases by 2. You also target yourself and each ally within &#91;distance](../../../../rule/combat/distance.md)."></template>

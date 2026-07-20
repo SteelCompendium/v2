@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 3 Drama
 distance: 2 [burst](../../../../rule/combat/burst.md)
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You produce an entrancing note that twists the senses in a spectacular fashion.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 1; I &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 1; I &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 2; I &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;&#10;**Spend 2+ Drama:** The size of the &#91;burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent."></template>
+<template class="sc-src" data-fmt="md" data-src="*You produce an entrancing note that twists the senses in a spectacular fashion.*&#10;&#10;| **Area, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 1; I &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 1; I &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 2; I &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;&#10;**Spend 2+ Drama:** The size of the &#91;burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent."></template>

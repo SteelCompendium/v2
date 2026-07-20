@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*There once was a man from &#91;Capital](../../../../rule/world/capital.md)...*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your &#91;Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*There once was a man from &#91;Capital](../../../../rule/world/capital.md)...*&#10;&#10;| **Area, Magic, Performance** |                         **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** At the end of each of your &#91;turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your &#91;Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

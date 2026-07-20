@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: 1 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Together we are invincible!*&#10;&#10;| **Area**       |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), each target has a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;stability](../../../../rule/character/stability.md) equal to your &#91;Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Together we are invincible!*&#10;&#10;| **Area**       |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), each target has a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;stability](../../../../rule/character/stability.md) equal to your &#91;Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 &#91;surges](../../../../rule/resource/surge.md)."></template>

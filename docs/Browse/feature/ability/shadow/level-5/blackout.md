@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*&#10;&#10;| **Area, Magic** |   **Maneuver** |&#10;|-----------------|---------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Special** |&#10;&#10;**Effect:** A black cloud fills the area until the end of your next &#91;turn](../../../../rule/combat/turn.md), granting you and your allies &#91;concealment](../../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their &#91;turn](../../../../rule/combat/turn.md) in the area, you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;shift](../../../../movement/shifting.md) to a new location within the area and make a &#91;free strike](../../../common/main-actions/free-strike.md) against them."></template>
+<template class="sc-src" data-fmt="md" data-src="*You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*&#10;&#10;| **Area, Magic** |   **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|---------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Special** |&#10;&#10;**Effect:** A black cloud fills the area until the end of your next &#91;turn](../../../../rule/combat/turn.md), granting you and your allies &#91;concealment](../../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their &#91;turn](../../../../rule/combat/turn.md) in the area, you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;shift](../../../../movement/shifting.md) to a new location within the area and make a &#91;free strike](../../../common/main-actions/free-strike.md) against them."></template>

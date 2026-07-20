@@ -6,12 +6,14 @@ search:
 echelon: "3"
 effect: While holding the cross, it emits faint strings made of light that you can control with your mind.
 flavor: This shiny black marionette cross reveals a masked figure standing in its reflection where its wielder should be.
+item_prerequisite: A spool of silk, a plank of stage wood, and the soul of a famous performer
 keywords:
     - Magic
     - Psionic
 name: Cross of the Scorned Puppeteer
 project_goal: "450"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: A record of a soulbinder ritual in Anjali
 scc: mcdm.summoner.v1/treasure.3rd-echelon.trinket/cross-of-the-scorned-puppeteer
 treasure_type: trinket
 type: treasure

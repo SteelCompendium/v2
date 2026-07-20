@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: censor
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You spend a [Recovery](../../../../rule/health/recoveries.md) and the target regains [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md).
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel some of your vitality into more resilience for you or an ally.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |           **Triggered** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their &#91;turn](../../../../rule/combat/turn.md) or takes damage.&#10;&#10;**Effect:** You spend a &#91;Recovery](../../../../rule/health/recoveries.md) and the target regains &#91;Stamina](../../../../rule/health/stamina.md) equal to your &#91;recovery value](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1 Wrath:** You can end one effect on the target that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone](../../../../condition/prone.md) target can stand up."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel some of your vitality into more resilience for you or an ally.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |           **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target starts their &#91;turn](../../../../rule/combat/turn.md) or takes damage.&#10;&#10;**Effect:** You spend a &#91;Recovery](../../../../rule/health/recoveries.md) and the target regains &#91;Stamina](../../../../rule/health/stamina.md) equal to your &#91;recovery value](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1 Wrath:** You can end one effect on the target that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or a &#91;prone](../../../../condition/prone.md) target can stand up."></template>

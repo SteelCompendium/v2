@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You or one ally within [distance](../../../../rule/combat/distance.md) gains [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in &#91;melee](../../../../rule/combat/melee.md).*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I holy damage&#10;- **12-16:** 6 + I holy damage&#10;- **17+:** 9 + I holy damage&#10;&#10;**Effect:** You or one ally within &#91;distance](../../../../rule/combat/distance.md) gains &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in &#91;melee](../../../../rule/combat/melee.md).*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I holy damage&#10;- **12-16:** 6 + I holy damage&#10;- **17+:** 9 + I holy damage&#10;&#10;**Effect:** You or one ally within &#91;distance](../../../../rule/combat/distance.md) gains &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

@@ -304,7 +304,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 >
 > *You unlock the sinister secrets of pain.*
 >
-> | **Magic**   | **Maneuver** |
+> | **Magic**   | **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 >
@@ -657,7 +657,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 >
 > *You don't have a head, but you can psionically borrow another.*
 >
-> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |---------------------|----------------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One willing creature** |
 >
@@ -700,7 +700,7 @@ You can perceive ghosts and spirits that others don't sense. These [supernatural
 >
 > *The restless dead speak to you.*
 >
-> | **Magic**   | **Main action** |
+> | **Magic**   | **[Main action](../../Browse/rule/combat/turn.md)** |
 > |-------------|----------------:|
 > | **📏 Self** |     **🎯 Self** |
 >
@@ -723,7 +723,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > *Your looks don't kill—they petrify.*
 >
-> | **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+> | **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **[Main action](../../Browse/rule/combat/turn.md)** |
 > |---------------------------|--------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature** |
 >
@@ -810,7 +810,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 >
 > *Psionic energy [bursts](../../Browse/rule/combat/burst.md) from your body in an iridescent shimmer.*
 >
-> | **Area, Psionic** |                  **Main action** |
+> | **Area, Psionic** |                  **[Main action](../../Browse/rule/combat/turn.md)** |
 > |-------------------|---------------------------------:|
 > | **📏 3 [burst](../../Browse/rule/combat/burst.md)**    | **🎯 Each creature in the area** |
 >
@@ -859,7 +859,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 >
 > *You reach out with your mind to move a creature or object.*
 >
-> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**   |                  **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**   |                  **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |-------------------------------|------------------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 >
@@ -905,7 +905,7 @@ You have an identical twin—either a sibling or someone who looks so much like 
 
 #### Self-Taught {data-scc="mcdm.heroes.v1/complication/self-taught"}
 
-While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a [guide](../../Browse/rule/downtime/guide.md). What you lost in polish and tactical acumen, you now make up for in raw power.
+While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
 
 **Benefit and Drawback:** At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you can forgo gaining your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). If you do, your [strikes](../../Browse/rule/combat/strike.md) gain a damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
@@ -1000,7 +1000,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > *"Move or die, folks."*
 >
-> | **[Ranged](../../Browse/rule/combat/ranged.md)**       | **Main action** |
+> | **[Ranged](../../Browse/rule/combat/ranged.md)**       | **[Main action](../../Browse/rule/combat/turn.md)** |
 > |------------------|----------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One ally** |
 >
@@ -1069,7 +1069,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 >
 > *You make your modified collar explode.*
 >
-> | **Area, Magic** |                  **Maneuver** |
+> | **Area, Magic** |                  **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |-----------------|------------------------------:|
 > | **📏 1 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 >
@@ -1104,7 +1104,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 >
 > *You summon a wave of water to batter your foe.*
 >
-> | **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+> | **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **[Main action](../../Browse/rule/combat/turn.md)** |
 > |---------------------------| -----------------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 >

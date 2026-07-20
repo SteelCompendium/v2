@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, each target who is dead can choose to continue taking [turns](../../../../rule/combat/turn.md) after death. On each of their [turns](../../../../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use [triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take [turns](../../../../rule/combat/turn.md) this way turns to dust and blows away.
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Music pours out of your heart, filling the area with the utmost delicacy and without damper.*&#10;&#10;| **Area, Magic, Performance** |                **No action** |&#10;|------------------------------|-----------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who is dead can choose to continue taking &#91;turns](../../../../rule/combat/turn.md) after death. On each of their &#91;turns](../../../../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can&#39;t spend &#91;Recoveries](../../../../rule/health/recoveries.md) or use &#91;triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take &#91;turns](../../../../rule/combat/turn.md) this way turns to dust and blows away."></template>
+<template class="sc-src" data-fmt="md" data-src="*Music pours out of your heart, filling the area with the utmost delicacy and without damper.*&#10;&#10;| **Area, Magic, Performance** |                **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|-----------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who is dead can choose to continue taking &#91;turns](../../../../rule/combat/turn.md) after death. On each of their &#91;turns](../../../../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can&#39;t spend &#91;Recoveries](../../../../rule/health/recoveries.md) or use &#91;triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take &#91;turns](../../../../rule/combat/turn.md) this way turns to dust and blows away."></template>

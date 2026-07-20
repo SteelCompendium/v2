@@ -6,11 +6,13 @@ search:
 echelon: "4"
 effect: The hagbasket can be used as a [size](../../../rule/character/size.md) 2 mount. Its [speed](../../../rule/character/speed.md) is equal to its rider's speed, and it can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md).
 flavor: This throne woven from wood, hair, and metal floats several feet above the ground. The gentle humming it makes while it soars sounds reminiscent of a hag's cackle.
+item_prerequisite: A mundane broom, a hag's hut, and a hag's kiss
 keywords:
     - Magic
 name: Hagbasket
 project_goal: "600"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Khelt
 scc: mcdm.summoner.v1/treasure.4th-echelon.trinket/hagbasket
 treasure_type: trinket
 type: treasure

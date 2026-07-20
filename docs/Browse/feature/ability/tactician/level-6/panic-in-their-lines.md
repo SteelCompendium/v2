@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
@@ -51,4 +51,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You confuse your foes, causing them to turn on each other.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |      **Main action** |&#10;|-----------------------------------|---------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 Two creatures** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage; &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 9 + M damage; &#91;slide](../../../../movement/forced-movement.md) 3&#10;- **17+:** 13 + M damage; &#91;slide](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** If a target is &#91;force moved](../../../../movement/forced-movement.md) into another creature, they must make a &#91;free strike](../../../common/main-actions/free-strike.md) against that creature."></template>
+<template class="sc-src" data-fmt="md" data-src="*You confuse your foes, causing them to turn on each other.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |      **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------------|---------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 5**        | **🎯 Two creatures** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 6 + M damage; &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 9 + M damage; &#91;slide](../../../../movement/forced-movement.md) 3&#10;- **17+:** 13 + M damage; &#91;slide](../../../../movement/forced-movement.md) 5&#10;&#10;**Effect:** If a target is &#91;force moved](../../../../movement/forced-movement.md) into another creature, they must make a &#91;free strike](../../../common/main-actions/free-strike.md) against that creature."></template>

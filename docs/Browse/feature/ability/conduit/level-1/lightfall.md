@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: 2 [burst](../../../../rule/combat/burst.md)
 effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A rain of holy light scours your enemies and repositions your allies.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 holy damage&#10;- **12-16:** 3 holy damage&#10;- **17+:** 5 holy damage&#10;&#10;**Effect:** You can &#91;teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area."></template>
+<template class="sc-src" data-fmt="md" data-src="*A rain of holy light scours your enemies and repositions your allies.*&#10;&#10;| **Area, Magic**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 holy damage&#10;- **12-16:** 3 holy damage&#10;- **17+:** 5 holy damage&#10;&#10;**Effect:** You can &#91;teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area."></template>

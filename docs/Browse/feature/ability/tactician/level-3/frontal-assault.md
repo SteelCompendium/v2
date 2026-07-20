@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 7 Focus
 distance: Self
@@ -33,4 +33,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The purpose of a charge is to break their morale and force a retreat.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), the first time on a &#91;turn](../../../../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can &#91;push](../../../../movement/forced-movement.md) the target up to 2 squares and then &#91;shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the &#91;Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) or a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) &#91;heroic ability](../../../../rule/general/heroic-ability.md) instead of a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The purpose of a charge is to break their morale and force a retreat.*&#10;&#10;| **-**       | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), the first time on a &#91;turn](../../../../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can &#91;push](../../../../movement/forced-movement.md) the target up to 2 squares and then &#91;shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the &#91;Charge](../../../common/main-actions/charge.md) main action to target a creature marked by you can use a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) or a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md) &#91;heroic ability](../../../../rule/general/heroic-ability.md) instead of a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md)."></template>

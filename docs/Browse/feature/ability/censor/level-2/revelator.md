@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 5 Wrath
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel holy energy to harm unbelievers and reveal those hidden from your &#91;judgment](../level-1/judgment.md).*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Each target takes holy damage equal to twice your &#91;Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next &#91;turn](../../../../rule/combat/turn.md). You can then use your &#91;Judgment](../level-1/judgment.md) ability against one target as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel holy energy to harm unbelievers and reveal those hidden from your &#91;judgment](../level-1/judgment.md).*&#10;&#10;| **Area, Magic** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Each target takes holy damage equal to twice your &#91;Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next &#91;turn](../../../../rule/combat/turn.md). You can then use your &#91;Judgment](../level-1/judgment.md) ability against one target as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>

@@ -141,7 +141,7 @@ In response to another creature communicating information to you, you can spend 
 
 #### Open Book {data-scc="mcdm.heroes.v1/perk/open-book"}
 
-Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in [turn](../../Browse/rule/combat/turn.md), which you must answer honestly.
+Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.
 
 #### Pardon My Friend {data-scc="mcdm.heroes.v1/perk/pardon-my-friend"}
 
@@ -242,7 +242,7 @@ You have the following ability.
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >
-> | **Magic**              | **Main action** |
+> | **Magic**              | **[Main action](../../Browse/rule/combat/turn.md)** |
 > |------------------------|----------------:|
 > | **📏 Self; see below** |     **🎯 Self** |
 >
@@ -293,7 +293,7 @@ You have the following ability.
 >
 > *You manipulate a tiny object with your mind.*
 >
-> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |              **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |              **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |---------------------|--------------------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One [size](../../Browse/rule/character/size.md) 1T object** |
 >
@@ -308,7 +308,7 @@ You have the following ability.
 >
 > *You send a one-way telepathic message to a friend.*
 >
-> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |    **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |    **[Maneuver](../../Browse/rule/combat/turn.md)** |
 > |---------------------|----------------:|
 > | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One ally** |
 >

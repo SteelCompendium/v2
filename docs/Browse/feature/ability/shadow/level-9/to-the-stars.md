@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You attach your most potent explosive to your foe. Under less pressing circumstances, you&#39;re sure you could launch them into orbit.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**   |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 8&#10;- **12-16:** 7 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 11 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** The ground beneath a 3-&#91;cube](../../../../rule/combat/cube.md) area around the target&#39;s starting position is &#91;difficult terrain](../../../../movement/difficult-terrain.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You attach your most potent explosive to your foe. Under less pressing circumstances, you&#39;re sure you could launch them into orbit.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**   |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1 or &#91;ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 8&#10;- **12-16:** 7 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 10&#10;- **17+:** 11 + A fire damage; vertical &#91;push](../../../../movement/forced-movement.md) 15&#10;&#10;**Effect:** The ground beneath a 3-&#91;cube](../../../../rule/combat/cube.md) area around the target&#39;s starting position is &#91;difficult terrain](../../../../movement/difficult-terrain.md)."></template>

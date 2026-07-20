@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
@@ -54,4 +54,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your foe gets a glimpse of how it will end for them.*&#10;&#10;| **Chronopathy, Psionic, &#91;Melee](../../../../rule/combat/melee.md)** |  **Main action** |&#10;|---------------------------------|-----------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                  | **🎯 One enemy** |&#10;&#10;**Effect:** The target has &#91;damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are &#91;knocked prone](../../../../condition/prone.md).&#10;&#10;**Strained:** This ability gains the &#91;Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target&#39;s psyche. You make a &#91;power roll](../../../../rule/dice/power-roll.md), then are &#91;weakened](../../../../condition/weakened.md) (save ends).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 8 + P psychic damage&#10;- **12-16:** 13 + P psychic damage&#10;- **17+:** 17 + P psychic damage"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your foe gets a glimpse of how it will end for them.*&#10;&#10;| **Chronopathy, Psionic, &#91;Melee](../../../../rule/combat/melee.md)** |  **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------------|-----------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 2**                  | **🎯 One enemy** |&#10;&#10;**Effect:** The target has &#91;damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are &#91;knocked prone](../../../../condition/prone.md).&#10;&#10;**Strained:** This ability gains the &#91;Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target&#39;s psyche. You make a &#91;power roll](../../../../rule/dice/power-roll.md), then are &#91;weakened](../../../../condition/weakened.md) (save ends).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 8 + P psychic damage&#10;- **12-16:** 13 + P psychic damage&#10;- **17+:** 17 + P psychic damage"></template>

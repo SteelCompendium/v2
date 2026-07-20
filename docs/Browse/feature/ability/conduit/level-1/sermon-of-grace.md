@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You inspire your allies with tales of your &#91;saint](../../../../rule/world/saint.md)&#39;s great deeds.*&#10;&#10;| **Area, Magic** |              **Main action** |&#10;|-----------------|-----------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can spend a &#91;Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free &#91;triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or to stand up if &#91;prone](../../../../condition/prone.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You inspire your allies with tales of your &#91;saint](../../../../rule/world/saint.md)&#39;s great deeds.*&#10;&#10;| **Area, Magic** |              **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|-----------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each ally in the area** |&#10;&#10;**Effect:** Each target can spend a &#91;Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free &#91;triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or to stand up if &#91;prone](../../../../condition/prone.md)."></template>

@@ -33,7 +33,7 @@ type: title
 >
 > *Return to your grave!*
 >
-> | **Area, Magic** |                         **Maneuver** |
+> | **Area, Magic** |                         **[Maneuver](../rule/combat/turn.md)** |
 > |-----------------|-------------------------------------:|
 > | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each undead enemy in the area** |
 >

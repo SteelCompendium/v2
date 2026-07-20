@@ -6,12 +6,14 @@ search:
 echelon: "3"
 effect: While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../../../rule/combat/surprised.md). Additionally, you have a double [edge](../../../rule/dice/edge.md) on [tests](../../../rule/test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../../../rule/dice/bane.md) on [Presence](../../../rule/character/presence.md) [tests](../../../rule/test/test.md) that don't use the [Intimidate](../../../skill/interpersonal/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 flavor: This angular electrum mask is set with an excess of eye holes and a horrifying maw.
+item_prerequisite: An overmind egg, the skin of any shapeshifter
 keywords:
     - Head
     - Magic
 name: Mask of Oversight
 project_goal: "450"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in the First Language
 scc: mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight
 treasure_type: trinket
 type: treasure

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 5 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A word in prayer, and the gods show the way.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |         **Main action** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) or a &#91;strike](../../../../rule/combat/strike.md) &#91;heroic ability](../../../../rule/general/heroic-ability.md), and has a double &#91;edge](../../../../rule/dice/edge.md) on that ability. If a &#91;heroic ability](../../../../rule/general/heroic-ability.md) is chosen, reduce its &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0)."></template>
+<template class="sc-src" data-fmt="md" data-src="*A word in prayer, and the gods show the way.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |         **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) or a &#91;strike](../../../../rule/combat/strike.md) &#91;heroic ability](../../../../rule/general/heroic-ability.md), and has a double &#91;edge](../../../../rule/dice/edge.md) on that ability. If a &#91;heroic ability](../../../../rule/general/heroic-ability.md) is chosen, reduce its &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0)."></template>

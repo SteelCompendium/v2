@@ -20,7 +20,7 @@ Your bond with your companion has permeated your very soul; you are just as much
 >
 > *You ride behind your companion's eyes.*
 >
-> | **Beastheart, Magic** |     **Maneuver** |
+> | **Beastheart, Magic** |     **[Maneuver](../rule/combat/turn.md)** |
 > |-----------------------|-----------------:|
 > | **📏 Melee 1**        | **🎯 Companion** |
 >

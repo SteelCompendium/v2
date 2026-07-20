@@ -79,7 +79,7 @@ As much as it annoys the great and the good, the gods view all mortals as equals
 
 The gods and [saints](../../Browse/rule/world/saint.md) presented in this chapter are popular and well-known. Their priests, shamans, or god-callers serve the public weal and tend to the souls of the people.
 
-But the world is not for heroes alone. There are villains, as well as those who are simply mis[guide](../../Browse/rule/downtime/guide.md)d or desperate. Every pantheon has [saints](../../Browse/rule/world/saint.md), even gods, who teach the virtues of selfishness, cruelty, the pursuit of power for its own sake, and the right of the strong to do as they please.
+But the world is not for heroes alone. There are villains, as well as those who are simply misguided or desperate. Every pantheon has [saints](../../Browse/rule/world/saint.md), even gods, who teach the virtues of selfishness, cruelty, the pursuit of power for its own sake, and the right of the strong to do as they please.
 
 These religions do not usually build public temples and worship in the open, but most communities know, or very strongly suspect, who among them serve evil gods and [saints](../../Browse/rule/world/saint.md).
 
@@ -919,7 +919,7 @@ Lost ships sometimes find their navigation systems lighting up, a clear path hom
 
 OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../../Browse/ancestry/time-raider.md), though none would call him or any other being their "god."
 
-When a [time raider](../../Browse/ancestry/time-raider.md) swears, "OV [guide](../../Browse/rule/downtime/guide.md) me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](../../Browse/ancestry/time-raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider {data-scc="mcdm.heroes.v1/religion.saint/chokassa-the-time-rider"}
 

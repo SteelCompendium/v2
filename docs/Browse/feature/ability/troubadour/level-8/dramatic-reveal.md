@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A little stage trickery, and where once stood a foe, now stands a friend!*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 &#91;Stamina](../../../../rule/health/stamina.md) using an ability, you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;teleport](../../../../movement/teleport.md) an ally within &#91;distance](../../../../rule/combat/distance.md) of that ability into the creature&#39;s space in a plume of rose petals. You or the &#91;teleport](../../../../movement/teleport.md)ed ally can then make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*A little stage trickery, and where once stood a foe, now stands a friend!*&#10;&#10;| **Magic**   | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 &#91;Stamina](../../../../rule/health/stamina.md) using an ability, you can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to &#91;teleport](../../../../movement/teleport.md) an ally within &#91;distance](../../../../rule/combat/distance.md) of that ability into the creature&#39;s space in a plume of rose petals. You or the &#91;teleport](../../../../movement/teleport.md)ed ally can then make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md)."></template>

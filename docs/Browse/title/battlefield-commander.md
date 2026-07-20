@@ -31,7 +31,7 @@ type: title
 >
 > *Follow me!*
 >
-> | **Area**       |                       **Main action** |
+> | **Area**       |                       **[Main action](../rule/combat/turn.md)** |
 > |----------------|--------------------------------------:|
 > | **📏 3 [burst](../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 >

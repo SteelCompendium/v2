@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: A column of fire remains in the area until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
@@ -55,4 +55,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The air erupts into a column of smokeless flame.*&#10;&#10;| **Area, Fire, Psionic, Pyrokinesis, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|----------------------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 fire damage&#10;- **12-16:** 4 fire damage&#10;- **17+:** 6 fire damage&#10;&#10;**Effect:** A column of fire remains in the area until the start of your next &#91;turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.&#10;&#10;**Strained:** The size of the &#91;cube](../../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The air erupts into a column of smokeless flame.*&#10;&#10;| **Area, Fire, Psionic, Pyrokinesis, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 2 fire damage&#10;- **12-16:** 4 fire damage&#10;- **17+:** 6 fire damage&#10;&#10;**Effect:** A column of fire remains in the area until the start of your next &#91;turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.&#10;&#10;**Strained:** The size of the &#91;cube](../../../../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your &#91;turn](../../../../rule/combat/turn.md)."></template>

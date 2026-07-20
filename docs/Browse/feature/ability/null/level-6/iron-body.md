@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You focus until your body becomes as hard as iron.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your &#91;stability](../../../../rule/character/stability.md) gains a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You focus until your body becomes as hard as iron.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your &#91;stability](../../../../rule/character/stability.md) gains a &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

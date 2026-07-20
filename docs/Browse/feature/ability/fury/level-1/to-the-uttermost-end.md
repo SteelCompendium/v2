@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -46,4 +46,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You gut your life force to ensure a foe&#39;s demise.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 + M damage&#10;- **12-16:** 11 + M damage&#10;- **17+:** 16 + M damage&#10;&#10;**Spend 1+ Ferocity:** While you are &#91;winded](../../../../rule/health/winded.md), this ability deals an extra 1d6 damage for each ferocity spent. While you are &#91;dying](../../../../rule/health/dying.md), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 &#91;Stamina](../../../../rule/health/stamina.md) after making this &#91;strike](../../../../rule/combat/strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You gut your life force to ensure a foe&#39;s demise.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 + M damage&#10;- **12-16:** 11 + M damage&#10;- **17+:** 16 + M damage&#10;&#10;**Spend 1+ Ferocity:** While you are &#91;winded](../../../../rule/health/winded.md), this ability deals an extra 1d6 damage for each ferocity spent. While you are &#91;dying](../../../../rule/health/dying.md), it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 &#91;Stamina](../../../../rule/health/stamina.md) after making this &#91;strike](../../../../rule/combat/strike.md)."></template>

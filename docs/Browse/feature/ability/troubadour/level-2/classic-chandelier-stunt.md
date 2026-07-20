@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -38,4 +38,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Audiences love this bit.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                  **Main action** |&#10;|---------------------------|---------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |&#10;&#10;**Effect:** Each target can &#91;shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement &#91;adjacent](../../../../rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest &#91;characteristic](../../../../rule/character/characteristic.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*Audiences love this bit.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |                  **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|---------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |&#10;&#10;**Effect:** Each target can &#91;shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement &#91;adjacent](../../../../rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a &#91;melee](../../../../rule/combat/melee.md) &#91;free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest &#91;characteristic](../../../../rule/character/characteristic.md) score."></template>

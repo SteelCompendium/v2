@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 3 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You foresee the best moment to strike, then exploit it.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage&#10;- **12-16:** 10 + A damage&#10;- **17+:** 13 + A damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to half your &#91;speed](../../../../rule/character/speed.md) before or after you make this &#91;strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a &#91;free strike](../../../common/main-actions/free-strike.md) or use a &#91;signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual."></template>
+<template class="sc-src" data-fmt="md" data-src="*You foresee the best moment to strike, then exploit it.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 + A damage&#10;- **12-16:** 10 + A damage&#10;- **17+:** 13 + A damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to half your &#91;speed](../../../../rule/character/speed.md) before or after you make this &#91;strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a &#91;free strike](../../../common/main-actions/free-strike.md) or use a &#91;signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual."></template>

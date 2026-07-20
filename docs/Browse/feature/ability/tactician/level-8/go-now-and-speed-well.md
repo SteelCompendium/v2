@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You direct an attack to strike true.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |         **Main action** |&#10;|------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target gains 2 &#91;surges](../../../../rule/resource/surge.md) and can use a signature or &#91;heroic ability](../../../../rule/general/heroic-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md). The ability has a double &#91;edge](../../../../rule/dice/edge.md) on the &#91;power roll](../../../../rule/dice/power-roll.md), ignores &#91;damage immunity](../../../../rule/damage/damage-immunity.md), and increases the &#91;potency](../../../../rule/character/potency.md) of any &#91;potency](../../../../rule/character/potency.md) effects by 1."></template>
+<template class="sc-src" data-fmt="md" data-src="*You direct an attack to strike true.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |         **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target gains 2 &#91;surges](../../../../rule/resource/surge.md) and can use a signature or &#91;heroic ability](../../../../rule/general/heroic-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md). The ability has a double &#91;edge](../../../../rule/dice/edge.md) on the &#91;power roll](../../../../rule/dice/power-roll.md), ignores &#91;damage immunity](../../../../rule/damage/damage-immunity.md), and increases the &#91;potency](../../../../rule/character/potency.md) of any &#91;potency](../../../../rule/character/potency.md) effects by 1."></template>

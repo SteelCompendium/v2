@@ -188,7 +188,7 @@ If you plan on building your own campaign setting, the work of worldbuilding can
 
 ##### Start Small
 
-If you're planning on making your own campaign setting, start small. Instead of detailing every settlement on every continent on every planet in a universe, build a starting town or an initial district in a city, then work up the surrounding area in which the first adventure takes place. Use the following steps as a [guide](../../Browse/rule/downtime/guide.md):
+If you're planning on making your own campaign setting, start small. Instead of detailing every settlement on every continent on every planet in a universe, build a starting town or an initial district in a city, then work up the surrounding area in which the first adventure takes place. Use the following steps as a guide:
 
 **Locations:** Make a list of any important locations in the campaign starting point, such as an inn or house where the heroes are staying, merchants they might want to visit, and the headquarters of organizations that might be important to them.
 
@@ -508,7 +508,7 @@ On the other hand, not sharing the difficulty of every [test](../../Browse/rule/
 
 ##### Test Outcomes
 
-After a hero makes a [test](../../Browse/rule/test/test.md), it's up to you to narrate and decide the outcome, keeping some basic [guide](../../Browse/rule/downtime/guide.md)lines in mind.
+After a hero makes a [test](../../Browse/rule/test/test.md), it's up to you to narrate and decide the outcome, keeping some basic guidelines in mind.
 
 If a [test](../../Browse/rule/test/test.md) is a **failure with a consequence**, the hero doesn't just fail—they make things worse. This might mean drawing the attention of nearby foes, setting off a hazard or trap, taking damage or causing an ally to take damage, taking a [bane](../../Browse/rule/dice/bane.md) on a future [test](../../Browse/rule/test/test.md), losing a mundane item, making a friendly [NPC](../../Browse/rule/general/npc.md) angry, or even earning you a little future Malice. The consequence is up to you!
 
@@ -607,7 +607,7 @@ Refer to the details you wrote down for your [NPCs](../../Browse/rule/general/np
 
 When you're preparing for a negotiation (see Chapter 11: [Negotiation](negotiation.md)), you'll want to pick an [NPC](../../Browse/rule/general/npc.md) and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
 
-When assigning negotiation stats, keep the following [guide](../../Browse/rule/downtime/guide.md)lines in mind:
+When assigning negotiation stats, keep the following guidelines in mind:
 
 - The higher an [NPC](../../Browse/rule/general/npc.md)'s starting interest, the more likely the heroes are to end the negotiation with everything they want—and then some—from the [NPC](../../Browse/rule/general/npc.md).
 - The higher an [NPC](../../Browse/rule/general/npc.md)'s starting patience, the longer the negotiation and the more chances the heroes have to make arguments. If you want a long, rich negotiation, give your [NPC](../../Browse/rule/general/npc.md) a higher patience score.
@@ -1285,7 +1285,7 @@ You can also take any of the treasures in this book and easily reskin them. Do y
 
 #### Awarding Titles
 
-You don't need to grant heroes every title they qualify for. In fact, you probably shouldn't, lest they become too powerful too fast. As a general [guide](../../Browse/rule/downtime/guide.md)line, a hero should gain a new title about every other level, which you can accomplish using either of the following options:
+You don't need to grant heroes every title they qualify for. In fact, you probably shouldn't, lest they become too powerful too fast. As a general guideline, a hero should gain a new title about every other level, which you can accomplish using either of the following options:
 
 - You can grant a hero a title during a significant moment in a campaign, such as after defeating a villain. The heroes are each awarded a title they earned that is chosen by you.
 - You can allow a hero to choose a title they've earned from the titles available at their [echelon](../../Browse/rule/general/echelon.md) each time they achieve an even-numbered level.
@@ -1294,7 +1294,7 @@ You should check in with your players occasionally to see if they have any speci
 
 #### Awarding Renown
 
-The heroes earn [Renown](../../Browse/rule/resource/renown.md) whenever they do something of significance, such as saving a town or... well, saving the world! As a general [guide](../../Browse/rule/downtime/guide.md)line, heroes should earn 1 [Renown](../../Browse/rule/resource/renown.md) per level.
+The heroes earn [Renown](../../Browse/rule/resource/renown.md) whenever they do something of significance, such as saving a town or... well, saving the world! As a general guideline, heroes should earn 1 [Renown](../../Browse/rule/resource/renown.md) per level.
 
 If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out [Renown](../../Browse/rule/resource/renown.md) every other level. Alternatively, you can award [Renown](../../Browse/rule/resource/renown.md) after each adventure if you want the heroes to become power players in the world more quickly.
 
@@ -1317,7 +1317,7 @@ You can award [hero tokens](../../Browse/rule/resource/hero-token.md) to the pla
 
 #### Awarding Victories
 
-Use the following [guide](../../Browse/rule/downtime/guide.md)lines for awarding [Victories](../../Browse/rule/resource/victories.md) to the heroes, increasing these values as desired for notably difficult challenges.
+Use the following guidelines for awarding [Victories](../../Browse/rule/resource/victories.md) to the heroes, increasing these values as desired for notably difficult challenges.
 
 ##### Combat Encounters
 

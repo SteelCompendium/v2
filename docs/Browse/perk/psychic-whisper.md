@@ -20,7 +20,7 @@ You have the following ability.
 >
 > *You send a one-way telepathic message to a friend.*
 >
-> | **Psionic, [Ranged](../rule/combat/ranged.md)** |    **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md)** |    **[Maneuver](../rule/combat/turn.md)** |
 > |---------------------|----------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One ally** |
 >

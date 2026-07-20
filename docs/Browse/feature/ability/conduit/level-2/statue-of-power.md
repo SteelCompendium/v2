@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A marble statue of your deity rises from the earth.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |   **Maneuver** |&#10;|--------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Special** |&#10;&#10;**Effect:** A &#91;size](../../../../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within &#91;distance](../../../../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 &#91;surge](../../../../rule/resource/surge.md) at the start of each of your &#91;turns](../../../../rule/combat/turn.md). Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*A marble statue of your deity rises from the earth.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |   **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Special** |&#10;&#10;**Effect:** A &#91;size](../../../../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within &#91;distance](../../../../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 &#91;surge](../../../../rule/resource/surge.md) at the start of each of your &#91;turns](../../../../rule/combat/turn.md). Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage."></template>

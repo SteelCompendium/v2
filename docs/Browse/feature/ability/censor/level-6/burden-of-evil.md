@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You reveal a vision of your enemies&#39; fate that causes them to scramble as it staggers them.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |         **Maneuver** |&#10;|---------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 3; I &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 5; I &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 7; I &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You reveal a vision of your enemies&#39; fate that causes them to scramble as it staggers them.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |         **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|---------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** &#91;Slide](../../../../movement/forced-movement.md) 3; I &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** &#91;Slide](../../../../movement/forced-movement.md) 5; I &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** &#91;Slide](../../../../movement/forced-movement.md) 7; I &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  | **Maneuver**            |&#10;|--------------------|-------------------------|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The first time the target is &#91;dying](../../../../rule/health/dying.md) or &#91;winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  | **&#91;Maneuver](../../../../rule/combat/turn.md)**            |&#10;|--------------------|-------------------------|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The first time the target is &#91;dying](../../../../rule/health/dying.md) or &#91;winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage."></template>

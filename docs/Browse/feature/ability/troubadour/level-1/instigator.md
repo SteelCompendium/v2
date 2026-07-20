@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally [adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target's next [turn](../../../../rule/combat/turn.md).
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*I didn&#39;t do it! What?*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon**             | **Main action** |&#10;|---------------------------------------|----------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                        | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 3 + P damage&#10;- **12-16:** 6 + P damage&#10;- **17+:** 9 + P damage&#10;&#10;**Effect:** The target is &#91;taunted](../../../../condition/taunted.md) by you or a willing ally &#91;adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target&#39;s next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*I didn&#39;t do it! What?*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon**             | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------------------|----------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                        | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 3 + P damage&#10;- **12-16:** 6 + P damage&#10;- **17+:** 9 + P damage&#10;&#10;**Effect:** The target is &#91;taunted](../../../../condition/taunted.md) by you or a willing ally &#91;adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target&#39;s next &#91;turn](../../../../rule/combat/turn.md)."></template>

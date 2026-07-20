@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [aura](../../../../rule/combat/aura.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A protective &#91;aura](../../../../rule/combat/aura.md) defends your allies from harm.*&#10;&#10;| **Area, Magic**   |                          **Maneuver** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter, any &#91;ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a &#91;bane](../../../../rule/dice/bane.md) and each target has &#91;damage immunity](../../../../rule/damage/damage-immunity.md) 5."></template>
+<template class="sc-src" data-fmt="md" data-src="*A protective &#91;aura](../../../../rule/combat/aura.md) defends your allies from harm.*&#10;&#10;| **Area, Magic**   |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Until the end of the encounter, any &#91;ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a &#91;bane](../../../../rule/dice/bane.md) and each target has &#91;damage immunity](../../../../rule/damage/damage-immunity.md) 5."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The heroes&#39; armor glows with golden light, granting divine protection.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**        |       **Maneuver** |&#10;|--------------------------|-------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Four allies** |&#10;&#10;**Effect:** You can target yourself instead of one ally with this ability.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** The target gains 5 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** The target gains 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** The target gains 15 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The heroes&#39; armor glows with golden light, granting divine protection.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**        |       **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|--------------------------|-------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**         | **🎯 Four allies** |&#10;&#10;**Effect:** You can target yourself instead of one ally with this ability.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** The target gains 5 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** The target gains 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** The target gains 15 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

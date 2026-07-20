@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: "null"
 cost: 11 Discipline
 distance: Self
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You absorb an attack to empower your body.*&#10;&#10;| **Psionic** |                  **Free triggered** |&#10;| -----------------------------|------------------------------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you using an ability.&#10;&#10;**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You absorb an attack to empower your body.*&#10;&#10;| **Psionic** |                  **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;| -----------------------------|------------------------------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Trigger:** Another creature damages you using an ability.&#10;&#10;**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 &#91;surges](../../../../rule/resource/surge.md)."></template>

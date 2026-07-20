@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: 10 x 1 line within 1
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You vanish. They fall. You reappear.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon**     |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** You disappear before making the &#91;power roll](../../../../rule/dice/power-roll.md). After the &#91;power roll](../../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line."></template>
+<template class="sc-src" data-fmt="md" data-src="*You vanish. They fall. You reappear.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon**     |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** You disappear before making the &#91;power roll](../../../../rule/dice/power-roll.md). After the &#91;power roll](../../../../rule/dice/power-roll.md) is resolved, you appear in the first unoccupied space at the far end of the line."></template>

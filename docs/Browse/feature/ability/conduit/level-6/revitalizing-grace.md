@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*With a gesture, you restore your health and that of your allies.*&#10;&#10;| **Area, Magic**  |                       **Main action** |&#10;|------------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can spend any number of &#91;Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or they can stand up if &#91;prone](../../../../condition/prone.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*With a gesture, you restore your health and that of your allies.*&#10;&#10;| **Area, Magic**  |                       **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|--------------------------------------:|&#10;| **📏 4 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can spend any number of &#91;Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md), or they can stand up if &#91;prone](../../../../condition/prone.md)."></template>

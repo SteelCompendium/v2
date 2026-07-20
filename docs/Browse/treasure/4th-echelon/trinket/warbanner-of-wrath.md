@@ -6,11 +6,13 @@ search:
 echelon: "4"
 effect: You can choose to regain 1 [Recovery](../../../rule/health/recoveries.md) at the end of every combat encounter while holding the banner.
 flavor: A large banner billows from this tall flagpole. Its heraldry depicts a dragon breathing fire with outstretched wings covered in holes and tears.
+item_prerequisite: A king's deathbed veil and a solid brass flagpole
 keywords:
     - Magic
 name: Warbanner of Wrath
 project_goal: "600"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.summoner.v1/treasure.4th-echelon.trinket/warbanner-of-wrath
 treasure_type: trinket
 type: treasure

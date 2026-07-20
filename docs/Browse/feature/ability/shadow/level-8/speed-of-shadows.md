@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You make multiple &#91;strikes](../../../../rule/combat/strike.md) against a foe before they even notice they&#39;re dead.*&#10;&#10;| **Magic**   | **Main action** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You can use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) four times, use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) that gains an &#91;edge](../../../../rule/dice/edge.md) three times, or use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) that has a double &#91;edge](../../../../rule/dice/edge.md) twice. You can &#91;shift](../../../../movement/shifting.md) up to 2 squares between each use."></template>
+<template class="sc-src" data-fmt="md" data-src="*You make multiple &#91;strikes](../../../../rule/combat/strike.md) against a foe before they even notice they&#39;re dead.*&#10;&#10;| **Magic**   | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------|----------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Effect:** You can use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) four times, use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) that gains an &#91;edge](../../../../rule/dice/edge.md) three times, or use a &#91;strike](../../../../rule/combat/strike.md) &#91;signature ability](../../../../rule/combat/signature-ability.md) that has a double &#91;edge](../../../../rule/dice/edge.md) twice. You can &#91;shift](../../../../movement/shifting.md) up to 2 squares between each use."></template>

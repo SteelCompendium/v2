@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You narrate the tension of the scene and put all hope into your protagonist to &#91;turn](../../../../rule/combat/turn.md) things around.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |    **Maneuver** |&#10;|-------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |&#10;&#10;**Effect:** The target gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md), has a double &#91;edge](../../../../rule/dice/edge.md) on a &#91;power roll](../../../../rule/dice/power-roll.md) of their choice made during their next &#91;turn](../../../../rule/combat/turn.md), is no longer &#91;slowed](../../../../condition/slowed.md) or &#91;weakened](../../../../condition/weakened.md) if they were before, and can immediately take their &#91;turn](../../../../rule/combat/turn.md) after yours if they have not taken their &#91;turn](../../../../rule/combat/turn.md) already this round."></template>
+<template class="sc-src" data-fmt="md" data-src="*You narrate the tension of the scene and put all hope into your protagonist to &#91;turn](../../../../rule/combat/turn.md) things around.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |    **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 One ally** |&#10;&#10;**Effect:** The target gains 3 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md), has a double &#91;edge](../../../../rule/dice/edge.md) on a &#91;power roll](../../../../rule/dice/power-roll.md) of their choice made during their next &#91;turn](../../../../rule/combat/turn.md), is no longer &#91;slowed](../../../../condition/slowed.md) or &#91;weakened](../../../../condition/weakened.md) if they were before, and can immediately take their &#91;turn](../../../../rule/combat/turn.md) after yours if they have not taken their &#91;turn](../../../../rule/combat/turn.md) already this round."></template>

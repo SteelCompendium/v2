@@ -22,7 +22,7 @@ type: featureblock
 
 ---
 
-<div class="fb-wrap" data-role="feature">
+<div class="fb-wrap" data-role="feature"><p class="sb-backlink">A <a href="../../../../class/beastheart/">Beastheart</a> companion</p>
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deinonychus Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="fb__feats">

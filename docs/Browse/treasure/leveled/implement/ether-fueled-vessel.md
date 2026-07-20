@@ -4,12 +4,18 @@ printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
 flavor: This bronze bottle has been shaped into the form of a ghostly figure.
+item_prerequisite: Incense distilled from the essence of ether
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Psionic
+level_effects:
+    1st: While you wield this [implement](../../../rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../../rule/damage/rolled-damage.md) gain a +1 damage [bonus](../../../rule/dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../../../rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, they become insubstantial to you until the end of their next [turn](../../../rule/combat/turn.md), allowing you to pass through them freely. While insubstantial, a creature can't make [opportunity attacks](../../../rule/combat/opportunity-attack.md) against you.
+    5th: The [implement](../../../rule/treasure/implement.md)'s damage [bonus](../../../rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you move through a creature who is insubstantial to you, you can use a free [triggered action](../../../rule/combat/triggered-action.md) to deal damage to them equal to your highest [characteristic](../../../rule/character/characteristic.md) score. If you do, the insubstantial effect ends immediately after you pass through the creature and into an [adjacent](../../../rule/combat/adjacent.md) space outside them.
+    9th: The [implement](../../../rule/treasure/implement.md)'s damage [bonus](../../../rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, any creature who is insubstantial to you and isn't a leader or solo creature also can't make [opportunity attacks](../../../rule/combat/opportunity-attack.md) against your allies while they remain insubstantial.
 name: Ether-Fueled Vessel
 project_goal: "450"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.leveled.implement/ether-fueled-vessel
 treasure_type: implement
 type: treasure

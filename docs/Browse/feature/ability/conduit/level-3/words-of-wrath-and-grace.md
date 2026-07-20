@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 7 Piety
 distance: 5 [burst](../../../../rule/combat/burst.md)
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your &#91;saint](../../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*&#10;&#10;| **Area, Magic**  |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 holy damage&#10;- **12-16:** 5 holy damage&#10;- **17+:** 7 holy damage&#10;&#10;**Effect:** Each ally in the area can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your &#91;saint](../../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*&#10;&#10;| **Area, Magic**  |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 2 holy damage&#10;- **12-16:** 5 holy damage&#10;- **17+:** 7 holy damage&#10;&#10;**Effect:** Each ally in the area can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

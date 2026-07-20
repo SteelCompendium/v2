@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
@@ -44,4 +44,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You give away the ending of this battle, and it&#39;s not great for them.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 psychic damage; P &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 5 psychic damage; P &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 7 psychic damage; P &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You give away the ending of this battle, and it&#39;s not great for them.*&#10;&#10;| **Area, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 psychic damage; P &lt; WEAK, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **12-16:** 5 psychic damage; P &lt; AVERAGE, &#91;frightened](../../../../condition/frightened.md) (save ends)&#10;- **17+:** 7 psychic damage; P &lt; STRONG, &#91;frightened](../../../../condition/frightened.md) (save ends)"></template>

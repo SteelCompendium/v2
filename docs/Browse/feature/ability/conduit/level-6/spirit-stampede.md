@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 10 x 2 line within 5
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Animal spirits run through the battlefield, trampling your foes.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**     |               **Main action** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 5 damage; M &lt; WEAK, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **12-16:** 8 damage; M &lt; AVERAGE, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 11 damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*Animal spirits run through the battlefield, trampling your foes.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**     |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------------------|------------------------------:|&#10;| **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 5 damage; M &lt; WEAK, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **12-16:** 8 damage; M &lt; AVERAGE, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)&#10;- **17+:** 11 damage; M &lt; STRONG, &#91;prone and](../../../../condition/prone.md) can&#39;t stand (save ends)"></template>

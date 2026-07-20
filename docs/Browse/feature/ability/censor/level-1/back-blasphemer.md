@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 distance: 2 [cube](../../../../rule/combat/cube.md) within 1
 flavor: You channel power through your weapon to repel foes.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel power through your weapon to repel foes.*&#10;&#10;| **Area, Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 2 &#91;cube](../../../../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 holy damage; &#91;push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 4 holy damage; &#91;push](../../../../movement/forced-movement.md) 2&#10;- **17+:** 6 holy damage; &#91;push](../../../../movement/forced-movement.md) 3"></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel power through your weapon to repel foes.*&#10;&#10;| **Area, Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 2 &#91;cube](../../../../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 holy damage; &#91;push](../../../../movement/forced-movement.md) 1&#10;- **12-16:** 4 holy damage; &#91;push](../../../../movement/forced-movement.md) 2&#10;- **17+:** 6 holy damage; &#91;push](../../../../movement/forced-movement.md) 3"></template>

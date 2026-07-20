@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can reroll the first [power roll](../../../../rule/dice/power-roll.md) that [turn](../../../../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll.
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*One more, and this time make it interesting.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area can reroll the first &#91;power roll](../../../../rule/dice/power-roll.md) that &#91;turn](../../../../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll."></template>
+<template class="sc-src" data-fmt="md" data-src="*One more, and this time make it interesting.*&#10;&#10;| **Area, Magic, Performance** |                         **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area can reroll the first &#91;power roll](../../../../rule/dice/power-roll.md) that &#91;turn](../../../../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll."></template>

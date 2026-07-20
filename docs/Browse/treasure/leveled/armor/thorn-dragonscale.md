@@ -4,11 +4,18 @@ printing_book: "The Beastheart"
 search:
   boost: 2
 flavor: This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon's heartbeat.
+item_prerequisite: The scales of a slain thorn dragon
 keywords:
     - Magic
     - Medium Armor
+level_effects:
+    1st: Only a beastheart can wear this armor. While you wear this armor, you gain a +6 bonus to Stamina, and when a creature starts their turn either [grabbed](../../../condition/grabbed.md) by or grabbing you or your companion, they are [bleeding](../../../condition/bleeding.md) until the end of their next turn.
+    5th: The armor's bonus to Stamina increases to +12. Additionally, you or your companion can use a maneuver to latch onto a creature or object of size 1L or smaller within 3 squares with thorned vines, pulling the target 3 squares.
+    9th: The armor's bonus to Stamina increases to +21, and whenever you or your companion pulls a creature with thorned vines using the armor, the target also takes 5 damage and is [grabbed](../../../condition/grabbed.md) by whoever force moved them.
 name: Thorn Dragonscale
 project_goal: "450"
+project_roll_characteristic: Agility or Intuition
+project_source: Texts or lore in the First Language
 scc: mcdm.beastheart.v1/treasure.leveled.armor/thorn-dragonscale
 treasure_type: armor
 type: treasure

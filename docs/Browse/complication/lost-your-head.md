@@ -24,7 +24,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 >
 > *You don't have a head, but you can psionically borrow another.*
 >
-> | **Psionic, [Ranged](../rule/combat/ranged.md)** |                **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md)** |                **[Maneuver](../rule/combat/turn.md)** |
 > |---------------------|----------------------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One willing creature** |
 >

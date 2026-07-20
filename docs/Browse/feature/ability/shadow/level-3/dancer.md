@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 7 Insight
 distance: Self
@@ -33,4 +33,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You enter a flow state that makes you nearly impossible to pin down.*&#10;&#10;| **-**       | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, whenever an enemy moves or is &#91;force moved](../../../../movement/forced-movement.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to you or damages you, you can take the &#91;Disengage](../../../common/move-actions/disengage.md) move action as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You enter a flow state that makes you nearly impossible to pin down.*&#10;&#10;| **-**       | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, whenever an enemy moves or is &#91;force moved](../../../../movement/forced-movement.md) &#91;adjacent](../../../../rule/combat/adjacent.md) to you or damages you, you can take the &#91;Disengage](../../../common/move-actions/disengage.md) move action as a free &#91;triggered action](../../../../rule/combat/triggered-action.md)."></template>

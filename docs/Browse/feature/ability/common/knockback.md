@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../rule/combat/turn.md)'
 distance: '[Melee](../../../rule/combat/melee.md) 1'
 effect: You can usually target only creatures of your [size](../../../rule/character/size.md) or smaller. If your [Might](../../../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../../rule/character/size.md) equal to or less than your [Might](../../../rule/character/might.md) score.
 keywords:
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="| **&#91;Melee](../../../rule/combat/melee.md), Weapon** |        **Maneuver** |&#10;|-------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../rule/combat/melee.md) 1**    | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../rule/dice/power-roll.md) + &#91;Might](../../../rule/character/might.md):**&#10;&#10;- **≤11:** &#91;Push](../../../movement/forced-movement.md) 1&#10;- **12-16:** &#91;Push](../../../movement/forced-movement.md) 2&#10;- **17+:** &#91;Push](../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** You can usually target only creatures of your &#91;size](../../../rule/character/size.md) or smaller. If your &#91;Might](../../../rule/character/might.md) score is 2 or higher, you can target any creature with a &#91;size](../../../rule/character/size.md) equal to or less than your &#91;Might](../../../rule/character/might.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="| **&#91;Melee](../../../rule/combat/melee.md), Weapon** |        **&#91;Maneuver](../../../rule/combat/turn.md)** |&#10;|-------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../rule/combat/melee.md) 1**    | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../rule/dice/power-roll.md) + &#91;Might](../../../rule/character/might.md):**&#10;&#10;- **≤11:** &#91;Push](../../../movement/forced-movement.md) 1&#10;- **12-16:** &#91;Push](../../../movement/forced-movement.md) 2&#10;- **17+:** &#91;Push](../../../movement/forced-movement.md) 3&#10;&#10;**Effect:** You can usually target only creatures of your &#91;size](../../../rule/character/size.md) or smaller. If your &#91;Might](../../../rule/character/might.md) score is 2 or higher, you can target any creature with a &#91;size](../../../rule/character/size.md) equal to or less than your &#91;Might](../../../rule/character/might.md) score."></template>

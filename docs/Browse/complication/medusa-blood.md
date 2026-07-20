@@ -24,7 +24,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > *Your looks don't kill—they petrify.*
 >
-> | **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
+> | **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **[Main action](../rule/combat/turn.md)** |
 > |---------------------------|--------------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 >

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: Three 3 [cubes](../../../../rule/combat/cube.md) within 1
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.*&#10;&#10;| **Area, Magic**               |               **Main action** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 Three 3 &#91;cubes](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** A &#91;prone target](../../../../condition/prone.md) ignores this ability.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 7 sonic damage; P &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 sonic damage; P &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 13 sonic damage; P &lt; STRONG&#91;, prone](../../../../condition/prone.md)"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.*&#10;&#10;| **Area, Magic**               |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 Three 3 &#91;cubes](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** A &#91;prone target](../../../../condition/prone.md) ignores this ability.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 7 sonic damage; P &lt; WEAK&#91;, prone](../../../../condition/prone.md)&#10;- **12-16:** 10 sonic damage; P &lt; AVERAGE&#91;, prone](../../../../condition/prone.md)&#10;- **17+:** 13 sonic damage; P &lt; STRONG&#91;, prone](../../../../condition/prone.md)"></template>

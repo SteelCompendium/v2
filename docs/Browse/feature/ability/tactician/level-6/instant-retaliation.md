@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: tactician
 cost: 9 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -55,4 +55,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You &#91;parry](../level-1/parry.md) with almost &#91;supernatural](../../../../rule/general/supernatural.md) &#91;speed](../../../../rule/character/speed.md).*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon** | **Free triggered** |&#10;| ------------------------------------|-------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature deals damage to the target.&#10;&#10;**Effect:** The target takes half the damage. You then make a &#91;power roll](../../../../rule/dice/power-roll.md) against the triggering creature.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** A &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** A &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** A &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You &#91;parry](../level-1/parry.md) with almost &#91;supernatural](../../../../rule/general/supernatural.md) &#91;speed](../../../../rule/character/speed.md).*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon** | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;| ------------------------------------|-------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   |    **🎯 One ally** |&#10;&#10;**Trigger:** A creature deals damage to the target.&#10;&#10;**Effect:** The target takes half the damage. You then make a &#91;power roll](../../../../rule/dice/power-roll.md) against the triggering creature.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** A &lt; WEAK, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **12-16:** A &lt; AVERAGE, &#91;dazed](../../../../condition/dazed.md) (save ends)&#10;- **17+:** A &lt; STRONG, &#91;dazed](../../../../condition/dazed.md) (save ends)"></template>

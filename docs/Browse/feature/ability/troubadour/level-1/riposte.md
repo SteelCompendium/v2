@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target makes a [free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*&#34;I&#39;d have brought treats had I known I&#39;d be fighting a dog.&#34;*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md)**      |           **Triggered** |&#10;|----------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1** | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage from a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** The target makes a &#91;free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike."></template>
+<template class="sc-src" data-fmt="md" data-src="*&#34;I&#39;d have brought treats had I known I&#39;d be fighting a dog.&#34;*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md)**      |           **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|----------------|------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1** | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage from a &#91;melee](../../../../rule/combat/melee.md) &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** The target makes a &#91;free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike."></template>

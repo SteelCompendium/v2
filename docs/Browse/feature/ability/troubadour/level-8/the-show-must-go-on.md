@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You shine a bright light on the players on the stage and compel them to finish the performance.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **Maneuver**                  |&#10;|-------------------------|-------------------------------|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 6 damage; P &lt; WEAK, the target can&#39;t willingly leave the area (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 8 damage; P &lt; AVERAGE, the target can&#39;t willingly leave the area (save ends)&#10;- **17+:** 12 damage; the target can&#39;t willingly leave the area (&#91;EoT](../../../../rule/combat/end-of-turn.md)); if P &lt; STRONG, they can&#39;t willingly leave the area (save ends)&#10;&#10;**Effect:** Each ally within &#91;distance](../../../../rule/combat/distance.md) can&#39;t obtain lower than a tier 2 outcome on the next &#91;test](../../../../rule/test/test.md) they make before the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You shine a bright light on the players on the stage and compel them to finish the performance.*&#10;&#10;| **Area, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** | **&#91;Maneuver](../../../../rule/combat/turn.md)**                  |&#10;|-------------------------|-------------------------------|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 6 damage; P &lt; WEAK, the target can&#39;t willingly leave the area (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 8 damage; P &lt; AVERAGE, the target can&#39;t willingly leave the area (save ends)&#10;- **17+:** 12 damage; the target can&#39;t willingly leave the area (&#91;EoT](../../../../rule/combat/end-of-turn.md)); if P &lt; STRONG, they can&#39;t willingly leave the area (save ends)&#10;&#10;**Effect:** Each ally within &#91;distance](../../../../rule/combat/distance.md) can&#39;t obtain lower than a tier 2 outcome on the next &#91;test](../../../../rule/test/test.md) they make before the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>

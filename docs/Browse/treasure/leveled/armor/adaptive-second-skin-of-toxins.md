@@ -4,12 +4,18 @@ printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
 flavor: This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.
+item_prerequisite: Five rabid honey badger pelts, the quills of a hedgehog
 keywords:
     - Light Armor
     - Magic
+level_effects:
+    1st: While you wear this armor, you gain a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md), and you have immunity to acid and poison damage equal to your highest [characteristic](../../../rule/character/characteristic.md) score.
+    5th: The armor's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +12. Additionally, whenever an [adjacent](../../../rule/combat/adjacent.md) creature deals damage to you, they take 3 acid or poison damage (your choice).
+    9th: The armor's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +21, and an [adjacent](../../../rule/combat/adjacent.md) creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-[cube](../../../rule/combat/cube.md) area of liquid or gas [adjacent](../../../rule/combat/adjacent.md) to you into liquid acid or poison gas until the start of your next [turn](../../../rule/combat/turn.md). Any creature who enters the area for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 6 acid or poison damage, as appropriate.
 name: Adaptive Second Skin of Toxins
 project_goal: "450"
 project_roll_characteristic: '[Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Yllyric
 scc: mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins
 treasure_type: armor
 type: treasure

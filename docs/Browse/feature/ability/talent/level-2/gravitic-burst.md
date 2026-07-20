@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: 1 [burst](../../../../rule/combat/burst.md)
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Everyone get away from me!*&#10;&#10;| **Area, Psionic, Telekinesis** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 damage; vertical &#91;push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 6 damage; vertical &#91;push](../../../../movement/forced-movement.md) 4&#10;- **17+:** 9 damage; vertical &#91;push](../../../../movement/forced-movement.md) 6&#10;&#10;**Strained:** The size of the &#91;burst](../../../../rule/combat/burst.md) increases by 1, and you are &#91;weakened](../../../../condition/weakened.md) until the end of your &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Everyone get away from me!*&#10;&#10;| **Area, Psionic, Telekinesis** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 1 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 damage; vertical &#91;push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 6 damage; vertical &#91;push](../../../../movement/forced-movement.md) 4&#10;- **17+:** 9 damage; vertical &#91;push](../../../../movement/forced-movement.md) 6&#10;&#10;**Strained:** The size of the &#91;burst](../../../../rule/combat/burst.md) increases by 1, and you are &#91;weakened](../../../../condition/weakened.md) until the end of your &#91;turn](../../../../rule/combat/turn.md)."></template>

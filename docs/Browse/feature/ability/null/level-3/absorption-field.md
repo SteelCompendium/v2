@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 7 Discipline
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your &#91;null field](../../../null/level-1/null-field.md) absorbs kinetic energy.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your &#91;null field](../../../null/level-1/null-field.md) absorbs kinetic energy.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a &#91;bane](../../../../rule/dice/bane.md) on &#91;ability rolls](../../../../rule/dice/ability-roll.md)."></template>

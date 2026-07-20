@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Free triggered
+action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: shadow
 cost: 5 Insight
 distance: Self
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*When your enemy strikes, you reveal you were in a different place all along.*&#10;&#10;| **Magic**            | **Free triggered** |&#10;|----------------------|-------------------:|&#10;| **📏 Self**          |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature targets you with a &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** You use your &#91;Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can &#91;teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a &#91;free strike](../../../common/main-actions/free-strike.md) against them. You can then spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*When your enemy strikes, you reveal you were in a different place all along.*&#10;&#10;| **Magic**            | **Free &#91;triggered](../../../../rule/combat/triggered-action.md)** |&#10;|----------------------|-------------------:|&#10;| **📏 Self**          |        **🎯 Self** |&#10;&#10;**Trigger:** Another creature targets you with a &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** You use your &#91;Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can &#91;teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a &#91;free strike](../../../common/main-actions/free-strike.md) against them. You can then spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

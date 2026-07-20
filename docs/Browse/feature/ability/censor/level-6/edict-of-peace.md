@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: 3 [aura](../../../../rule/combat/aura.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You anticipate your foes&#39; moves and deny them.*&#10;&#10;| **Area, Magic** |                  **Maneuver** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever any target takes a &#91;triggered action](../../../../rule/combat/triggered-action.md) or a free &#91;triggered action](../../../../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your &#91;Presence](../../../../rule/character/presence.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You anticipate your foes&#39; moves and deny them.*&#10;&#10;| **Area, Magic** |                  **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 3 &#91;aura](../../../../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), whenever any target takes a &#91;triggered action](../../../../rule/combat/triggered-action.md) or a free &#91;triggered action](../../../../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your &#91;Presence](../../../../rule/character/presence.md) score."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [aura](../../../../rule/combat/aura.md)
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A whirlwind of souls of the dead flies around you at your command.*&#10;&#10;| **Area, Magic**  |                     **Maneuver** |&#10;|------------------|---------------------------------:|&#10;| **📏 4 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Each creature in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), at the end of each of your &#91;turns](../../../../rule/combat/turn.md), you can &#91;slide](../../../../movement/forced-movement.md) each creature in the area up to a number of squares equal to your &#91;Intuition](../../../../rule/character/intuition.md) score. This &#91;forced movement](../../../../movement/forced-movement.md) ignores &#91;stability](../../../../rule/character/stability.md) for your allies."></template>
+<template class="sc-src" data-fmt="md" data-src="*A whirlwind of souls of the dead flies around you at your command.*&#10;&#10;| **Area, Magic**  |                     **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|---------------------------------:|&#10;| **📏 4 &#91;aura](../../../../rule/combat/aura.md)**    | **🎯 Each creature in the area** |&#10;&#10;**Effect:** Until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md), at the end of each of your &#91;turns](../../../../rule/combat/turn.md), you can &#91;slide](../../../../movement/forced-movement.md) each creature in the area up to a number of squares equal to your &#91;Intuition](../../../../rule/character/intuition.md) score. This &#91;forced movement](../../../../movement/forced-movement.md) ignores &#91;stability](../../../../rule/character/stability.md) for your allies."></template>

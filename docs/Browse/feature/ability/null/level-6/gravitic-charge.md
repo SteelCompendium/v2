@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You channel your discipline into momentum that defies gravity.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** Vertical &#91;slide](../../../../movement/forced-movement.md) 5&#10;- **12-16:** Vertical &#91;slide](../../../../movement/forced-movement.md) 7&#10;- **17+:** Vertical &#91;slide](../../../../movement/forced-movement.md) 9&#10;&#10;**Effect:** This movement ignores &#91;stability](../../../../rule/character/stability.md). If you &#91;slide](../../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your &#91;force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature&#39;s space."></template>
+<template class="sc-src" data-fmt="md" data-src="*You channel your discipline into momentum that defies gravity.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** Vertical &#91;slide](../../../../movement/forced-movement.md) 5&#10;- **12-16:** Vertical &#91;slide](../../../../movement/forced-movement.md) 7&#10;- **17+:** Vertical &#91;slide](../../../../movement/forced-movement.md) 9&#10;&#10;**Effect:** This movement ignores &#91;stability](../../../../rule/character/stability.md). If you &#91;slide](../../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your &#91;force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature&#39;s space."></template>

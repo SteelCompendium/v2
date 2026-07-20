@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The [power roll](../../../../rule/dice/power-roll.md) gains an [edge](../../../../rule/dice/edge.md).
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You invigorate an attacking ally with divine energy.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**      |        **Triggered** |&#10;|------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**       |      **🎯 One ally** |&#10;&#10;**Trigger:** The target makes an &#91;ability roll](../../../../rule/dice/ability-roll.md) for a damage-dealing ability.&#10;&#10;**Effect:** The &#91;power roll](../../../../rule/dice/power-roll.md) gains an &#91;edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Piety:** The &#91;power roll](../../../../rule/dice/power-roll.md) has a double &#91;edge](../../../../rule/dice/edge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You invigorate an attacking ally with divine energy.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**      |        **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------------|---------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**       |      **🎯 One ally** |&#10;&#10;**Trigger:** The target makes an &#91;ability roll](../../../../rule/dice/ability-roll.md) for a damage-dealing ability.&#10;&#10;**Effect:** The &#91;power roll](../../../../rule/dice/power-roll.md) gains an &#91;edge](../../../../rule/dice/edge.md).&#10;&#10;**Spend 1 Piety:** The &#91;power roll](../../../../rule/dice/power-roll.md) has a double &#91;edge](../../../../rule/dice/edge.md)."></template>

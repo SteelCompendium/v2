@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: shadow
 cost: 1 Insight
 distance: Self
@@ -42,4 +42,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You sow a moment of confusion in combat, to your enemy&#39;s peril.*&#10;&#10;| **Magic**   | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** An enemy targets you with a &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** Choose an enemy within &#91;distance](../../../../rule/combat/distance.md) of the triggering strike, including the enemy who targeted you. The &#91;strike](../../../../rule/combat/strike.md) targets that enemy instead."></template>
+<template class="sc-src" data-fmt="md" data-src="*You sow a moment of confusion in combat, to your enemy&#39;s peril.*&#10;&#10;| **Magic**   | **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|--------------:|&#10;| **📏 Self** |     **🎯 Self** |&#10;&#10;**Trigger:** An enemy targets you with a &#91;strike](../../../../rule/combat/strike.md).&#10;&#10;**Effect:** Choose an enemy within &#91;distance](../../../../rule/combat/distance.md) of the triggering strike, including the enemy who targeted you. The &#91;strike](../../../../rule/combat/strike.md) targets that enemy instead."></template>

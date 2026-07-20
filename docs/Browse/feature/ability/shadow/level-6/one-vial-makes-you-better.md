@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*A well-timed throw of a potion will keep your allies in the fight.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |           **Maneuver** |&#10;|------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |&#10;&#10;**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the &#91;Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its &#91;potency](../../../../rule/character/potency.md) at the end of the encounter.&#10;&#10;A creature who drinks the potion can spend up to 2 &#91;Recoveries](../../../../rule/health/recoveries.md), and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter."></template>
+<template class="sc-src" data-fmt="md" data-src="*A well-timed throw of a potion will keep your allies in the fight.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |           **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three creatures** |&#10;&#10;**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the &#91;Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its &#91;potency](../../../../rule/character/potency.md) at the end of the encounter.&#10;&#10;A creature who drinks the potion can spend up to 2 &#91;Recoveries](../../../../rule/health/recoveries.md), and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter."></template>

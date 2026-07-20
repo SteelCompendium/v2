@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: 2 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You and your allies coordinate to form a new battle line.*&#10;&#10;| **Area**       |                          **Maneuver** |&#10;|----------------|--------------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** You mark two enemies within 10 squares of you. Each target can &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md). You and each target gain 2 &#91;surges](../../../../rule/resource/surge.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You and your allies coordinate to form a new battle line.*&#10;&#10;| **Area**       |                          **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 2 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** You mark two enemies within 10 squares of you. Each target can &#91;shift](../../../../movement/shifting.md) up to their &#91;speed](../../../../rule/character/speed.md). You and each target gain 2 &#91;surges](../../../../rule/resource/surge.md)."></template>

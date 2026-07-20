@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: You give your enemy a gentle tap-like an asteroid impact.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You give your enemy a gentle tap-like an asteroid impact.*&#10;&#10;| **Earth, Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R damage; &#91;push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 5 + R damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 8 + R damage; &#91;push](../../../../movement/forced-movement.md) 4"></template>
+<template class="sc-src" data-fmt="md" data-src="*You give your enemy a gentle tap-like an asteroid impact.*&#10;&#10;| **Earth, Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 3 + R damage; &#91;push](../../../../movement/forced-movement.md) 2&#10;- **12-16:** 5 + R damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **17+:** 8 + R damage; &#91;push](../../../../movement/forced-movement.md) 4"></template>

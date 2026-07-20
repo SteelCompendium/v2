@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 3 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*After some holy lightning, your enemy will think twice about their next attack.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |     **Main action** |&#10;|----------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I lightning damage&#10;- **12-16:** 6 + I lightning damage&#10;- **17+:** 9 + I lightning damage&#10;&#10;**Effect:** The first time on a &#91;turn](../../../../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*After some holy lightning, your enemy will think twice about their next attack.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)**  |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** 3 + I lightning damage&#10;- **12-16:** 6 + I lightning damage&#10;- **17+:** 9 + I lightning damage&#10;&#10;**Effect:** The first time on a &#91;turn](../../../../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends)."></template>

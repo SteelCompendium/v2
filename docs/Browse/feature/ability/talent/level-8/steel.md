@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin becomes covered in tough metal.*&#10;&#10;| **Metamorphosis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **Maneuver** |&#10;|------------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target has &#91;damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can&#39;t be made &#91;slowed](../../../../condition/slowed.md) or &#91;weakened](../../../../condition/weakened.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the &#91;forced movement](../../../../movement/forced-movement.md) &#91;distance](../../../../rule/combat/distance.md) gains a +5 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md).&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The target&#39;s skin becomes covered in tough metal.*&#10;&#10;| **Metamorphosis, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target has &#91;damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can&#39;t be made &#91;slowed](../../../../condition/slowed.md) or &#91;weakened](../../../../condition/weakened.md) until the start of your next &#91;turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the &#91;forced movement](../../../../movement/forced-movement.md) &#91;distance](../../../../rule/combat/distance.md) gains a +5 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md).&#10;&#10;**Strained:** You can&#39;t use maneuvers (save ends)."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 11 Discipline
 distance: 3 [cube](../../../../rule/combat/cube.md) within 1
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You warp reality to grow a limb for just a moment and make a single devastating attack.*&#10;&#10;| **Area, Psionic**      |               **Main action** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 psychic damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 17 psychic damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 23 psychic damage; &#91;push](../../../../movement/forced-movement.md) 7"></template>
+<template class="sc-src" data-fmt="md" data-src="*You warp reality to grow a limb for just a moment and make a single devastating attack.*&#10;&#10;| **Area, Psionic**      |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 12 psychic damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 17 psychic damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 23 psychic damage; &#91;push](../../../../movement/forced-movement.md) 7"></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You wield your weapon at blistering &#91;speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|-------------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** Unless you score a &#91;critical hit](../../../../rule/combat/critical-hit.md), this ability can&#39;t reduce a non-minion target below 1 &#91;Stamina](../../../../rule/health/stamina.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You wield your weapon at blistering &#91;speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.*&#10;&#10;| **Area, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 10 damage&#10;- **12-16:** 14 damage&#10;- **17+:** 20 damage&#10;&#10;**Effect:** Unless you score a &#91;critical hit](../../../../rule/combat/critical-hit.md), this ability can&#39;t reduce a non-minion target below 1 &#91;Stamina](../../../../rule/health/stamina.md)."></template>

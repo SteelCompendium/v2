@@ -24,7 +24,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 >
 > *You reach out with your mind to move a creature or object.*
 >
-> | **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**   |                  **Maneuver** |
+> | **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**   |                  **[Maneuver](../rule/combat/turn.md)** |
 > |-------------------------------|------------------------------:|
 > | **📏 [Ranged](../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 >

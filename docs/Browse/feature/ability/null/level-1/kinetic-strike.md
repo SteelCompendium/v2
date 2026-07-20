@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: Your opponent staggers. They cannot ignore you.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your opponent staggers. They cannot ignore you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 5 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md)), &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **17+:** 6 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md)), &#91;slide](../../../../movement/forced-movement.md) 2"></template>
+<template class="sc-src" data-fmt="md" data-src="*Your opponent staggers. They cannot ignore you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Psionic, &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                     | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 4 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md))&#10;- **12-16:** 5 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md)), &#91;slide](../../../../movement/forced-movement.md) 1&#10;- **17+:** 6 + A damage; &#91;taunted](../../../../condition/taunted.md) (&#91;EoT](../../../../rule/combat/end-of-turn.md)), &#91;slide](../../../../movement/forced-movement.md) 2"></template>

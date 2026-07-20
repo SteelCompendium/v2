@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
@@ -40,4 +40,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your divine energy restores the righteous.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**          |            **Maneuver** |&#10;|----------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target can spend a &#91;Recovery](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1+ Piety:** For each piety spent, choose one of the following &#91;enhancements](../../../../rule/treasure/enhancement.md):&#10;&#10;- You can target one additional ally within &#91;distance](../../../../rule/combat/distance.md).&#10;- You can end one effect on a target that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;- A &#91;prone target](../../../../condition/prone.md) can stand up.&#10;- A target can spend 1 additional &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your divine energy restores the righteous.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**          |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|----------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**           | **🎯 Self or one ally** |&#10;&#10;**Effect:** The target can spend a &#91;Recovery](../../../../rule/health/recoveries.md).&#10;&#10;**Spend 1+ Piety:** For each piety spent, choose one of the following &#91;enhancements](../../../../rule/treasure/enhancement.md):&#10;&#10;- You can target one additional ally within &#91;distance](../../../../rule/combat/distance.md).&#10;- You can end one effect on a target that is ended by a &#91;saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their &#91;turn](../../../../rule/combat/turn.md).&#10;- A &#91;prone target](../../../../condition/prone.md) can stand up.&#10;- A target can spend 1 additional &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

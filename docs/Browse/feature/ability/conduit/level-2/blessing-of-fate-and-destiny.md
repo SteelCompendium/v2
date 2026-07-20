@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your enemies suffer their fate; your allies embrace their destiny!*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |        **Main action** |&#10;|--------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Three creatures** |&#10;&#10;**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md):&#10;&#10;- Whenever a target makes a &#91;power roll](../../../../rule/dice/power-roll.md), they can roll three dice and choose which two rolls to use.&#10;- Whenever a target makes a &#91;power roll](../../../../rule/dice/power-roll.md), they must roll three dice and use the lowest two rolls."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your enemies suffer their fate; your allies embrace their destiny!*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |        **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------|-----------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**   | **🎯 Three creatures** |&#10;&#10;**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are &#91;dying](../../../../rule/health/dying.md):&#10;&#10;- Whenever a target makes a &#91;power roll](../../../../rule/dice/power-roll.md), they can roll three dice and choose which two rolls to use.&#10;- Whenever a target makes a &#91;power roll](../../../../rule/dice/power-roll.md), they must roll three dice and use the lowest two rolls."></template>

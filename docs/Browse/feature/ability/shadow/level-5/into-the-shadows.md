@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You sweep your foe off their feet and plunge them into absolute darkness.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |&#10;&#10;**Effect:** You and the target are removed from the encounter map until the start of your next &#91;turn](../../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a &#91;power roll](../../../../rule/dice/power-roll.md) upon your return.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 8 + A corruption damage&#10;- **12-16:** 13 + A corruption damage&#10;- **17+:** 17 + A corruption damage"></template>
+<template class="sc-src" data-fmt="md" data-src="*You sweep your foe off their feet and plunge them into absolute darkness.*&#10;&#10;| **Magic, &#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |&#10;&#10;**Effect:** You and the target are removed from the encounter map until the start of your next &#91;turn](../../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a &#91;power roll](../../../../rule/dice/power-roll.md) upon your return.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 8 + A corruption damage&#10;- **12-16:** 13 + A corruption damage&#10;- **17+:** 17 + A corruption damage"></template>

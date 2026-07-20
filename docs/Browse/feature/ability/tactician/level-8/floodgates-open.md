@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You direct your squad to strike in unison and with devastating effect.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |     **Main action** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**Effect:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md) and can use a &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md). That ability gains an &#91;edge](../../../../rule/dice/edge.md) on the &#91;power roll](../../../../rule/dice/power-roll.md) and increases the &#91;potency](../../../../rule/character/potency.md) of any &#91;potency](../../../../rule/character/potency.md) effects by 1."></template>
+<template class="sc-src" data-fmt="md" data-src="*You direct your squad to strike in unison and with devastating effect.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|--------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Three allies** |&#10;&#10;**Effect:** Each target gains 1 &#91;surge](../../../../rule/resource/surge.md) and can use a &#91;signature ability](../../../../rule/combat/signature-ability.md) as a free &#91;triggered action](../../../../rule/combat/triggered-action.md). That ability gains an &#91;edge](../../../../rule/dice/edge.md) on the &#91;power roll](../../../../rule/dice/power-roll.md) and increases the &#91;potency](../../../../rule/character/potency.md) of any &#91;potency](../../../../rule/character/potency.md) effects by 1."></template>

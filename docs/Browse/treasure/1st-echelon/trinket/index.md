@@ -130,8 +130,9 @@
     <div class="sc-card__name">Precious Collar</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This gold collar is bedazzled with semiprecious gems spelling out a cute pet name.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> One collar worn by a royal pet <strong>Project Source:</strong> Texts or lore in Vaslorian <strong>Project Roll Characteristic:</strong> Reason or Intuition</div>
 </div>

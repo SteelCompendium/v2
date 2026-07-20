@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 3 Ferocity
 distance: Self; see below
@@ -52,4 +52,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Teach them the folly of lining up for you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **Main action** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You move up to your &#91;speed](../../../../rule/character/speed.md) in a straight line, and enemy squares are not &#91;difficult terrain](../../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature&#39;s space and move them to an &#91;adjacent](../../../../rule/combat/adjacent.md) unoccupied space. You make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 3 damage&#10;- **17+:** 5 damage&#10;&#10;**Effect:** The last target you damage takes extra damage equal to your &#91;Might](../../../../rule/character/might.md) score for each &#91;opportunity attack](../../../../rule/combat/opportunity-attack.md) you trigger during your move."></template>
+<template class="sc-src" data-fmt="md" data-src="*Teach them the folly of lining up for you.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), Weapon**      | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------|----------------:|&#10;| **📏 Self; see below** |     **🎯 Self** |&#10;&#10;**Effect:** You move up to your &#91;speed](../../../../rule/character/speed.md) in a straight line, and enemy squares are not &#91;difficult terrain](../../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature&#39;s space and move them to an &#91;adjacent](../../../../rule/combat/adjacent.md) unoccupied space. You make one &#91;power roll](../../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 2 damage&#10;- **12-16:** 3 damage&#10;- **17+:** 5 damage&#10;&#10;**Effect:** The last target you damage takes extra damage equal to your &#91;Might](../../../../rule/character/might.md) score for each &#91;opportunity attack](../../../../rule/combat/opportunity-attack.md) you trigger during your move."></template>

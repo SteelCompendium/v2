@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: For each [Victory](../../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next [turn](../../../../rule/combat/turn.md), but doesn't gain the use of the [Shared Void Sense](shared-void-sense.md) ability.
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You grant allies a taste of your unearthly vision.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |    **Maneuver** |&#10;|-------------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**        |  **🎯 Special** |&#10;&#10;**Effect:** For each &#91;Victory](../../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your &#91;A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next &#91;turn](../../../../rule/combat/turn.md), but doesn&#39;t gain the use of the &#91;Shared Void Sense](shared-void-sense.md) ability."></template>
+<template class="sc-src" data-fmt="md" data-src="*You grant allies a taste of your unearthly vision.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |    **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**        |  **🎯 Special** |&#10;&#10;**Effect:** For each &#91;Victory](../../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your &#91;A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next &#91;turn](../../../../rule/combat/turn.md), but doesn&#39;t gain the use of the &#91;Shared Void Sense](shared-void-sense.md) ability."></template>

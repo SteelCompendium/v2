@@ -4,12 +4,18 @@ printing_book: "Draw Steel: Heroes"
 search:
   boost: 2
 flavor: Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.
+item_prerequisite: One jar of lightning
 keywords:
     - Feet
     - Magic
+level_effects:
+    1st: While you wear these boots, any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using your unarmed [strikes](../../../rule/combat/strike.md) deals an extra 1 lightning damage. Additionally, you gain a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md).
+    5th: The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your [turn](../../../rule/combat/turn.md) before you use a weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using your unarmed [strikes](../../../rule/combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
+    9th: The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../../movement/fly.md) lightning kick on one [adjacent](../../../rule/combat/adjacent.md) creature. That target is [pushed](../../../movement/forced-movement.md) up to 5 squares, and you can move to any square [adjacent](../../../rule/combat/adjacent.md) to the target after the [push](../../../movement/forced-movement.md).
 name: Lightning Treads
 project_goal: "450"
 project_roll_characteristic: '[Agility](../../../rule/character/agility.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Yllyric
 scc: mcdm.heroes.v1/treasure.leveled.other/lightning-treads
 treasure_type: other
 type: treasure

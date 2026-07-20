@@ -6,12 +6,14 @@ search:
 echelon: "2"
 effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).
 flavor: A perfectly preserved eyeball hangs unnervingly from a gold chain.
+item_prerequisite: An eyeball from a pirate captain who drowned at sea
 keywords:
     - Neck
     - Psionic
 name: Evilest Eye
 project_goal: "300"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye
 treasure_type: trinket
 type: treasure

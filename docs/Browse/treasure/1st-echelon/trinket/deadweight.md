@@ -6,11 +6,13 @@ search:
 echelon: "1"
 effect: While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a [melee](../../../rule/combat/melee.md) [free strike](../../../feature/common/main-actions/free-strike.md) as a [free maneuver](../../../rule/combat/free-maneuver.md) once during the fall before you hit the ground.
 flavor: Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.
+item_prerequisite: One humanoid femur, one bar of lead laced with starmetal
 keywords:
     - Magic
 name: Deadweight
 project_goal: "150"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)'
+project_source: Texts or lore in Caelian
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/deadweight
 treasure_type: trinket
 type: treasure

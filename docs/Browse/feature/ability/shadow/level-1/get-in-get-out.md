@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 3 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Move unexpectedly, strike fast, and be gone!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **Main action** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + A damage&#10;- **12-16:** 8 + A damage&#10;- **17+:** 11 + A damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md), dividing that movement before or after your &#91;strike](../../../../rule/combat/strike.md) as desired."></template>
+<template class="sc-src" data-fmt="md" data-src="*Move unexpectedly, strike fast, and be gone!*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |     **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|--------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 5 + A damage&#10;- **12-16:** 8 + A damage&#10;- **17+:** 11 + A damage&#10;&#10;**Effect:** You can &#91;shift](../../../../movement/shifting.md) up to your &#91;speed](../../../../rule/character/speed.md), dividing that movement before or after your &#91;strike](../../../../rule/combat/strike.md) as desired."></template>

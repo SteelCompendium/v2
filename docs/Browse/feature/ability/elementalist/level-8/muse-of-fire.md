@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 11 Essence
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The fire burns hot enough to sear the face of any god watching.*&#10;&#10;| **Area, Fire, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **Main action** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)&#10;- **12-16:** 10 fire damage; the Director loses 3 Malice&#10;- **17+:** 15 fire damage; the Director loses 4 Malice&#10;&#10;**Effect:** The Director&#39;s Malice can become negative as a result of this ability."></template>
+<template class="sc-src" data-fmt="md" data-src="*The fire burns hot enough to sear the face of any god watching.*&#10;&#10;| **Area, Fire, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------------------|------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)&#10;- **12-16:** 10 fire damage; the Director loses 3 Malice&#10;- **17+:** 15 fire damage; the Director loses 4 Malice&#10;&#10;**Effect:** The Director&#39;s Malice can become negative as a result of this ability."></template>

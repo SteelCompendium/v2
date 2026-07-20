@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |               **Main action** |&#10;|------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |&#10;&#10;**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 damage&#10;- **12-16:** 10 damage&#10;- **17+:** 15 damage"></template>
+<template class="sc-src" data-fmt="md" data-src="*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One creature or object** |&#10;&#10;**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 7 damage&#10;- **12-16:** 10 damage&#10;- **17+:** 15 damage"></template>

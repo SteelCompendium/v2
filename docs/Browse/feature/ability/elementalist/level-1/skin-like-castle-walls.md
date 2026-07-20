@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes half the damage.
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You cover yourself or an ally in protective stone.*&#10;&#10;| **Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |           **Triggered** |&#10;|---------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage.&#10;&#10;**Effect:** The target takes half the damage.&#10;&#10;**Spend 1 Essence:** If the damage has any &#91;potency](../../../../rule/character/potency.md) effects associated with it, the &#91;potency](../../../../rule/character/potency.md) is reduced by 1 for the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*You cover yourself or an ally in protective stone.*&#10;&#10;| **Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)**  |           **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|---------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |&#10;&#10;**Trigger:** The target takes damage.&#10;&#10;**Effect:** The target takes half the damage.&#10;&#10;**Spend 1 Essence:** If the damage has any &#91;potency](../../../../rule/character/potency.md) effects associated with it, the &#91;potency](../../../../rule/character/potency.md) is reduced by 1 for the target."></template>

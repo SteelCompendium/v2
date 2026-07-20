@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: 3 [cube](../../../../rule/combat/cube.md) within 1
@@ -45,4 +45,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You drastically increase the local entropy.*&#10;&#10;| **Area, Psionic, Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 1**    | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 cold damage; A &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 9 cold damage; A &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 13 cold damage; A &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>
+<template class="sc-src" data-fmt="md" data-src="*You drastically increase the local entropy.*&#10;&#10;| **Area, Psionic, Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|------------------------------:|&#10;| **📏 3 &#91;cube](../../../../rule/combat/cube.md) within 1**    | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 6 cold damage; A &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 9 cold damage; A &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 13 cold damage; A &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)"></template>

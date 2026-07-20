@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: Self
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from &#91;concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this &#91;turn](../../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from &#91;concealment](../../../../rule/combat/concealment.md) while in the area. At the end of this &#91;turn](../../../../rule/combat/turn.md), each enemy in the area takes cold damage equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

@@ -6,12 +6,14 @@ search:
 echelon: "2"
 effect: While you wear the Mediator's Charm, the patience of any [NPC](../../../rule/general/npc.md) you negotiate with increases by 1 (to a maximum of 5). Additionally, at the start of a negotiation, you learn one of an [NPC](../../../rule/general/npc.md)'s motivations or pitfalls of the Director's choice.
 flavor: A fancy gold earring is set with a small ruby.
+item_prerequisite: The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](../../../ancestry/devil.md)
 keywords:
     - Head
     - Psionic
 name: Mediator's Charm
 project_goal: "300"
 project_roll_characteristic: '[Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)'
+project_source: Texts or lore in Hyrallic
 scc: mcdm.heroes.v1/treasure.2nd-echelon.trinket/mediators-charm
 treasure_type: trinket
 type: treasure

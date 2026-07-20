@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -51,4 +51,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You use your weapon to create a destructive shockwave.*&#10;&#10;| **Area, Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **Main action** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 10 damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 15 damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** If this &#91;forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*You use your weapon to create a destructive shockwave.*&#10;&#10;| **Area, Magic, &#91;Melee](../../../../rule/combat/melee.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Might](../../../../rule/character/might.md):**&#10;&#10;- **≤11:** 7 damage; &#91;push](../../../../movement/forced-movement.md) 3&#10;- **12-16:** 10 damage; &#91;push](../../../../movement/forced-movement.md) 5&#10;- **17+:** 15 damage; &#91;push](../../../../movement/forced-movement.md) 7&#10;&#10;**Effect:** If this &#91;forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage."></template>

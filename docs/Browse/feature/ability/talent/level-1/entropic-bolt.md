@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
@@ -54,4 +54,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You advance an enemy&#39;s age for a moment.*&#10;&#10;| **Chronopathy, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **Main action** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + P corruption damage; P &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 3 + P corruption damage; P &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 5 + P corruption damage; P &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;&#10;**Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.&#10;&#10;**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the &#91;power roll](../../../../rule/dice/power-roll.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You advance an enemy&#39;s age for a moment.*&#10;&#10;| **Chronopathy, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), &#91;Strike](../../../../rule/combat/strike.md)** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------------------------------|------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 2 + P corruption damage; P &lt; WEAK, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **12-16:** 3 + P corruption damage; P &lt; AVERAGE, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;- **17+:** 5 + P corruption damage; P &lt; STRONG, &#91;slowed](../../../../condition/slowed.md) (save ends)&#10;&#10;**Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.&#10;&#10;**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the &#91;power roll](../../../../rule/dice/power-roll.md)."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your &#91;jam session](jam-session.md) creates new genres that compel everyone to get up and move.*&#10;&#10;| **Area, Magic** |               **Main action** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 8 sonic damage&#10;- **12-16:** 11 sonic damage&#10;- **17+:** 15 sonic damage&#10;&#10;**Effect:** Each creature within &#91;distance](../../../../rule/combat/distance.md) gains a +5 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) until the end of their next &#91;turn](../../../../rule/combat/turn.md). While under this effect, each target must use their full movement during their &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your &#91;jam session](jam-session.md) creates new genres that compel everyone to get up and move.*&#10;&#10;| **Area, Magic** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-----------------|------------------------------:|&#10;| **📏 5 &#91;burst](../../../../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** 8 sonic damage&#10;- **12-16:** 11 sonic damage&#10;- **17+:** 15 sonic damage&#10;&#10;**Effect:** Each creature within &#91;distance](../../../../rule/combat/distance.md) gains a +5 &#91;bonus](../../../../rule/dice/bonuses-and-penalties.md) to &#91;speed](../../../../rule/character/speed.md) until the end of their next &#91;turn](../../../../rule/combat/turn.md). While under this effect, each target must use their full movement during their &#91;turn](../../../../rule/combat/turn.md)."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: 3 [burst](../../../../rule/combat/burst.md)
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*What makes a good soldier? The ability to fire four shots a minute in any weather.*&#10;&#10;| **Area**       |                       **Main action** |&#10;|----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can make a &#91;ranged](../../../../rule/combat/ranged.md) &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md) against any enemy marked by you within &#91;distance](../../../../rule/combat/distance.md) of their &#91;ranged](../../../../rule/combat/ranged.md) &#91;free strike](../../../common/main-actions/free-strike.md). A target ignores &#91;banes](../../../../rule/dice/bane.md) and double &#91;banes](../../../../rule/dice/bane.md) when making this &#91;strike](../../../../rule/combat/strike.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*What makes a good soldier? The ability to fire four shots a minute in any weather.*&#10;&#10;| **Area**       |                       **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------|--------------------------------------:|&#10;| **📏 3 &#91;burst](../../../../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** Each target can make a &#91;ranged](../../../../rule/combat/ranged.md) &#91;free strike](../../../common/main-actions/free-strike.md) that gains an &#91;edge](../../../../rule/dice/edge.md) against any enemy marked by you within &#91;distance](../../../../rule/combat/distance.md) of their &#91;ranged](../../../../rule/combat/ranged.md) &#91;free strike](../../../common/main-actions/free-strike.md). A target ignores &#91;banes](../../../../rule/dice/bane.md) and double &#91;banes](../../../../rule/dice/bane.md) when making this &#91;strike](../../../../rule/combat/strike.md)."></template>

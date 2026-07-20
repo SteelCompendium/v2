@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You [slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
@@ -39,4 +39,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                                 **Maneuver** |&#10;|---------------------|---------------------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one &#91;size](../../../../rule/character/size.md) 1 creature or object** |&#10;&#10;**Effect:** You &#91;slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your &#91;Reason](../../../../rule/character/reason.md) score.&#10;&#10;**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.&#10;&#10;**Spend 3 Clarity:** You can vertical &#91;slide](../../../../movement/forced-movement.md) the target."></template>
+<template class="sc-src" data-fmt="md" data-src="*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*&#10;&#10;| **Psionic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                                 **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|---------------------|---------------------------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**    | **🎯 Self or one &#91;size](../../../../rule/character/size.md) 1 creature or object** |&#10;&#10;**Effect:** You &#91;slide](../../../../movement/forced-movement.md) the target up to a number of squares equal to your &#91;Reason](../../../../rule/character/reason.md) score.&#10;&#10;**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.&#10;&#10;**Spend 3 Clarity:** You can vertical &#91;slide](../../../../movement/forced-movement.md) the target."></template>

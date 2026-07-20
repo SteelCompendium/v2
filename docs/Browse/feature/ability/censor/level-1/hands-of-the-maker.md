@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 distance: Self
 effect: You create a mundane object of [size](../../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Presence](../../../../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You craft objects with the power of your mind.*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You create a mundane object of &#91;size](../../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your &#91;Presence](../../../../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You craft objects with the power of your mind.*&#10;&#10;| **Magic**   | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|------------:|&#10;| **📏 Self** | **🎯 Self** |&#10;&#10;**Effect:** You create a mundane object of &#91;size](../../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your &#91;Presence](../../../../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required)."></template>

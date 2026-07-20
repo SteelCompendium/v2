@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 7 Discipline
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your enemies&#39; wounds open, your allies&#39; wounds close.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there is &#91;bleeding](../../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there gains &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your enemies&#39; wounds open, your allies&#39; wounds close.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** Until the end of the encounter, the size of your &#91;Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there is &#91;bleeding](../../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a &#91;combat round](../../../../rule/combat/combat-round.md) or starts their turn there gains &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Intuition](../../../../rule/character/intuition.md) score."></template>

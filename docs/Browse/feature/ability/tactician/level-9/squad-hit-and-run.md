@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*I had to pry this secret from the &#91;shadow college](../../../shadow/level-1/shadow-college.md)s.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |            **Main action** |&#10;|------------------|---------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md), and can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to use a &#91;signature ability](../../../../rule/combat/signature-ability.md) that gains an &#91;edge](../../../../rule/dice/edge.md). After resolving their ability, each target can &#91;shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no &#91;cover](../../../../rule/combat/cover.md) or &#91;concealment](../../../../rule/combat/concealment.md), or if they are observed."></template>
+<template class="sc-src" data-fmt="md" data-src="*I had to pry this secret from the &#91;shadow college](../../../shadow/level-1/shadow-college.md)s.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |            **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|------------------|---------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 Self and two allies** |&#10;&#10;**Effect:** Each target gains 2 &#91;surges](../../../../rule/resource/surge.md), and can use a free &#91;triggered action](../../../../rule/combat/triggered-action.md) to use a &#91;signature ability](../../../../rule/combat/signature-ability.md) that gains an &#91;edge](../../../../rule/dice/edge.md). After resolving their ability, each target can &#91;shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no &#91;cover](../../../../rule/combat/cover.md) or &#91;concealment](../../../../rule/combat/concealment.md), or if they are observed."></template>

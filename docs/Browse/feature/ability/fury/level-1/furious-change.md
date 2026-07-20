@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: fury
 distance: Self
 effect: You gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Might](../../../../rule/character/might.md) score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*In your anger, you revert to a more bestial form.*&#10;&#10;| **-**       | **Triggered** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** You lose &#91;Stamina](../../../../rule/health/stamina.md) and are not &#91;dying](../../../../rule/health/dying.md).&#10;&#10;**Effect:** You gain &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Might](../../../../rule/character/might.md) score and can enter your &#91;animal form](../../../../complication/animal-form.md) or hybrid form.&#10;&#10;**Spend 1 Ferocity:** If you are not &#91;dying](../../../../rule/health/dying.md), you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*In your anger, you revert to a more bestial form.*&#10;&#10;| **-**       | **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|-------------|--------------:|&#10;| **📏 Self** |   **🎯 Self** |&#10;&#10;**Trigger:** You lose &#91;Stamina](../../../../rule/health/stamina.md) and are not &#91;dying](../../../../rule/health/dying.md).&#10;&#10;**Effect:** You gain &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your &#91;Might](../../../../rule/character/might.md) score and can enter your &#91;animal form](../../../../complication/animal-form.md) or hybrid form.&#10;&#10;**Spend 1 Ferocity:** If you are not &#91;dying](../../../../rule/health/dying.md), you can spend a &#91;Recovery](../../../../rule/health/recoveries.md)."></template>

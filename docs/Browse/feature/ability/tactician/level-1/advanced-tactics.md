@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Triggered
+action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: tactician
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Your leadership aids an ally.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |   **Triggered** |&#10;|------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |&#10;&#10;**Trigger:** The target deals damage to another creature.&#10;&#10;**Effect:** The target gains 2 &#91;surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.&#10;&#10;**Spend 1 Focus:** If the damage has any &#91;potency](../../../../rule/character/potency.md) effect associated with it, the &#91;potency](../../../../rule/character/potency.md) is increased by 1."></template>
+<template class="sc-src" data-fmt="md" data-src="*Your leadership aids an ally.*&#10;&#10;| **&#91;Ranged](../../../../rule/combat/ranged.md)**       |   **&#91;Triggered](../../../../rule/combat/triggered-action.md)** |&#10;|------------------|----------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10** | **🎯 One ally** |&#10;&#10;**Trigger:** The target deals damage to another creature.&#10;&#10;**Effect:** The target gains 2 &#91;surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.&#10;&#10;**Spend 1 Focus:** If the damage has any &#91;potency](../../../../rule/character/potency.md) effect associated with it, the &#91;potency](../../../../rule/character/potency.md) is increased by 1."></template>

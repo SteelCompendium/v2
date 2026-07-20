@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: No action
+action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../../rule/combat/turn.md) if they don't spend it.
@@ -36,4 +36,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The audience is watching, so you&#39;d better give them a show.*&#10;&#10;| **Area, Magic, Performance** |                         **No action** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains 1 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md). This &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target&#39;s &#91;turn](../../../../rule/combat/turn.md) if they don&#39;t spend it."></template>
+<template class="sc-src" data-fmt="md" data-src="*The audience is watching, so you&#39;d better give them a show.*&#10;&#10;| **Area, Magic, Performance** |                         **&#91;No action](../../../../rule/combat/turn.md)** |&#10;|------------------------------|--------------------------------------:|&#10;| **📏 5 &#91;aura](../../../../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |&#10;&#10;**Effect:** While this performance is active, each target who starts their &#91;turn](../../../../rule/combat/turn.md) in the area gains 1 of their &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md). This &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target&#39;s &#91;turn](../../../../rule/combat/turn.md) if they don&#39;t spend it."></template>

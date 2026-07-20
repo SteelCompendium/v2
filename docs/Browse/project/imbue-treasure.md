@@ -411,7 +411,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > *Their momentum, your impact.*
 >
-> | **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** | **Free triggered** |
+> | **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** | **Free [triggered](../rule/combat/triggered-action.md)** |
 > |---------------------------|-------------------:|
 > | **📏 [Melee](../rule/combat/melee.md) 1**            |   **🎯 One enemy** |
 >
@@ -478,7 +478,7 @@ A hero who has a kit that uses unarmed [strikes](../rule/combat/strike.md), such
 >
 > *I am an eternal flame, baby!*
 >
-> | **Area, Magic** |               **Main action** |
+> | **Area, Magic** |               **[Main action](../rule/combat/turn.md)** |
 > |-----------------|------------------------------:|
 > | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 >

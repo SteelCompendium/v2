@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 7 Ferocity
 distance: Self
@@ -35,4 +35,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*See how useless their weapons are!*&#10;&#10;| **Magic**   | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*See how useless their weapons are!*&#10;&#10;| **Magic**   | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**Effect:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md)."></template>

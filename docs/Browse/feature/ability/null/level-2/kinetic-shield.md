@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: Self
@@ -48,4 +48,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You manifest a force barrier that absorbs incoming kinetic energy.*&#10;&#10;| **Psionic** | **Maneuver** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** You gain 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** You gain 15 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;&#10;**Effect:** While you have &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can&#39;t be made &#91;bleeding](../../../../condition/bleeding.md) even while &#91;dying](../../../../rule/health/dying.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You manifest a force barrier that absorbs incoming kinetic energy.*&#10;&#10;| **Psionic** | **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------|-------------:|&#10;| **📏 Self** |  **🎯 Self** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Intuition](../../../../rule/character/intuition.md):**&#10;&#10;- **≤11:** You gain 10 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **12-16:** You gain 15 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;- **17+:** You gain 20 &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md).&#10;&#10;**Effect:** While you have &#91;temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can&#39;t be made &#91;bleeding](../../../../condition/bleeding.md) even while &#91;dying](../../../../rule/health/dying.md)."></template>

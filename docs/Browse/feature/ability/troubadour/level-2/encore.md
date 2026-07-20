@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: Special
@@ -37,4 +37,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Again! Again!*&#10;&#10;| **Magic, &#91;Strike](../../../../rule/combat/strike.md)** | **Main action** |&#10;|-------------------|----------------:|&#10;| **📏 Special**    |  **🎯 Special** |&#10;&#10;**Effect:** You use an ability that you have observed being used this &#91;combat round](../../../../rule/combat/combat-round.md). The ability must have the &#91;Strike](../../../../rule/combat/strike.md) keyword, cost 5 or fewer of a &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the &#91;strike](../../../../rule/combat/strike.md), you use your &#91;Presence](../../../../rule/character/presence.md) score for any &#91;power rolls](../../../../rule/dice/power-roll.md), and any damage you deal is sonic damage."></template>
+<template class="sc-src" data-fmt="md" data-src="*Again! Again!*&#10;&#10;| **Magic, &#91;Strike](../../../../rule/combat/strike.md)** | **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|-------------------|----------------:|&#10;| **📏 Special**    |  **🎯 Special** |&#10;&#10;**Effect:** You use an ability that you have observed being used this &#91;combat round](../../../../rule/combat/combat-round.md). The ability must have the &#91;Strike](../../../../rule/combat/strike.md) keyword, cost 5 or fewer of a &#91;Heroic Resource](../../../../rule/resource/heroic-resource.md), and cost no Malice. When you make the &#91;strike](../../../../rule/combat/strike.md), you use your &#91;Presence](../../../../rule/character/presence.md) score for any &#91;power rolls](../../../../rule/dice/power-roll.md), and any damage you deal is sonic damage."></template>

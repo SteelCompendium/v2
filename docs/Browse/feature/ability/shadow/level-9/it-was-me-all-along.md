@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
@@ -50,4 +50,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*After everything you&#39;ve been through together, you twist the blade and make the pain extra personal.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **Main action** |&#10;|---------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 15 + A damage&#10;- **12-16:** 21 + A damage&#10;- **17+:** 28 + A damage&#10;&#10;**Effect:** If you are disguised as a creature the target knew using your &#91;I&#39;m No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your &#91;Agility](../../../../rule/character/agility.md) score."></template>
+<template class="sc-src" data-fmt="md" data-src="*After everything you&#39;ve been through together, you twist the blade and make the pain extra personal.*&#10;&#10;| **&#91;Melee](../../../../rule/combat/melee.md), &#91;Strike](../../../../rule/combat/strike.md), Weapon** |               **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|---------------------------|------------------------------:|&#10;| **📏 &#91;Melee](../../../../rule/combat/melee.md) 1**            | **🎯 One creature or object** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Agility](../../../../rule/character/agility.md):**&#10;&#10;- **≤11:** 15 + A damage&#10;- **12-16:** 21 + A damage&#10;- **17+:** 28 + A damage&#10;&#10;**Effect:** If you are disguised as a creature the target knew using your &#91;I&#39;m No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your &#91;Agility](../../../../rule/character/agility.md) score."></template>

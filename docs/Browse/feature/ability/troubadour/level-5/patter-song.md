@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -43,4 +43,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Dazzle them with your fancy patter and they forget where they were.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |   **Maneuver** |&#10;|-------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Special** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** One ally within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turn](../../../../rule/combat/turn.md) immediately after yours.&#10;- **12-16:** Two allies within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turns](../../../../rule/combat/turn.md) immediately after yours in any order.&#10;- **17+:** Three allies within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a &#91;turn](../../../../rule/combat/turn.md) this &#91;combat round](../../../../rule/combat/combat-round.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*Dazzle them with your fancy patter and they forget where they were.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |   **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------|---------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**  | **🎯 Special** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Presence](../../../../rule/character/presence.md):**&#10;&#10;- **≤11:** One ally within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turn](../../../../rule/combat/turn.md) immediately after yours.&#10;- **12-16:** Two allies within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turns](../../../../rule/combat/turn.md) immediately after yours in any order.&#10;- **17+:** Three allies within &#91;distance](../../../../rule/combat/distance.md) can take their &#91;turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a &#91;turn](../../../../rule/combat/turn.md) this &#91;combat round](../../../../rule/combat/combat-round.md)."></template>

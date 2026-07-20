@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Main action
+action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 11 Essence
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
@@ -49,4 +49,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*Everyone and everything gets blown away in an eruption of rocks and debris.*&#10;&#10;| **Area, Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                          **Main action** |&#10;|--------------------------------|-----------------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Persistent 2:** At the start of your &#91;turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>
+<template class="sc-src" data-fmt="md" data-src="*Everyone and everything gets blown away in an eruption of rocks and debris.*&#10;&#10;| **Area, Earth, Magic, &#91;Ranged](../../../../rule/combat/ranged.md)** |                          **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|--------------------------------|-----------------------------------------:|&#10;| **📏 5 &#91;cube](../../../../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage&#10;- **12-16:** 9 damage&#10;- **17+:** 13 damage&#10;&#10;**Persistent 2:** At the start of your &#91;turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence."></template>

@@ -1,7 +1,7 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-action_type: Maneuver
+action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
@@ -41,4 +41,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*The material substance of a creature shreds away at your command.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |            **Maneuver** |&#10;|-------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the target can move through solid matter, they ignore &#91;difficult terrain](../../../../movement/difficult-terrain.md), and their movement can&#39;t provoke &#91;opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their &#91;turn](../../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.&#10;&#10;**Persistent 1:** The effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*The material substance of a creature shreds away at your command.*&#10;&#10;| **Magic, &#91;Ranged](../../../../rule/combat/ranged.md), Void** |            **&#91;Maneuver](../../../../rule/combat/turn.md)** |&#10;|-------------------------|------------------------:|&#10;| **📏 &#91;Ranged](../../../../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |&#10;&#10;**Effect:** Until the start of your next &#91;turn](../../../../rule/combat/turn.md), the target can move through solid matter, they ignore &#91;difficult terrain](../../../../movement/difficult-terrain.md), and their movement can&#39;t provoke &#91;opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their &#91;turn](../../../../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.&#10;&#10;**Persistent 1:** The effect lasts until the start of your next &#91;turn](../../../../rule/combat/turn.md)."></template>
