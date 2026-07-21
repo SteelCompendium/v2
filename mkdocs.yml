@@ -158,6 +158,7 @@ extra_javascript:
   - javascripts/sc-scale-core.js
   - javascripts/sc-scale.js
   - javascripts/steel-traits.js
+  - javascripts/sc-facet-core.js
   - javascripts/steel-feature-browser-core.js
   - javascripts/steel-feature-browser.js
   - javascripts/steel-bestiary-browser.js

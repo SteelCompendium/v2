@@ -294,6 +294,21 @@
 .sc-chip__dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: .3rem;
   vertical-align: middle; background: currentColor; opacity: .85; }
 
+/* any/all match-mode toggle on multi-valued facets (Keyword) — SC-88. Sits
+   between the facet label and its chips; "all" state borrows the chip on-accent. */
+.sc-facet-mode {
+  display: inline-flex; align-items: center; cursor: pointer; user-select: none;
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .03em; font-size: .72rem; color: var(--md-default-fg-color--lighter);
+  padding: .02rem .45rem; margin-left: .4rem; border-radius: 999px;
+  border: 1px dashed var(--fx-metal-faint); background: transparent;
+  transition: color .15s ease, border-color .15s ease, background .15s ease; }
+.sc-facet-mode:hover { color: var(--md-default-fg-color); border-color: var(--fx-metal-line); }
+.sc-facet-mode.is-all {
+  color: #06232a; background: var(--md-accent-fg-color);
+  border: 1px solid var(--md-accent-fg-color); font-weight: 600; }
+[data-md-color-scheme="default"] .sc-facet-mode.is-all { color: #f3f8f8; }
+
 /* merged Source facet: each class on its own line with its subclasses nested
    after it; childless sources (subclass-less classes, ancestries, kits) flow in
    a final plain row separated by a hairline. */

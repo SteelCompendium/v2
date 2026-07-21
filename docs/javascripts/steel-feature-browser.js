@@ -27,6 +27,9 @@
   // Pure source/subclass model + matching, loaded before this script in mkdocs.yml.
   var Core = (typeof window !== "undefined" && window.SCFeatureBrowserCore) || null;
 
+  // Shared per-facet pick matching (any/all modes), loaded before this script.
+  var FacetCore = (typeof window !== "undefined" && window.SCFacetCore) || null;
+
   // action type → crest glyph (DrawSteelGlyphs) + eyebrow label. PLACEHOLDER
   // glyphs, same set as steel-ability-cards.js — swap in one place when the
   // official action glyphs arrive.
@@ -153,8 +156,11 @@
       { key: "feature_source", label: "Track", values: uniqueSorted(null, items, "feature_source"), display: cap }
     ].filter(function (f) { return f.values.length > 1; });
 
-    var state = { q: "", sort: "name", sel: {} };
-    facets.forEach(function (f) { state.sel[f.key] = {}; });
+    // any/all toggle only where AND is satisfiable: array-valued fields (keywords).
+    facets.forEach(function (f) { f.multi = FacetCore.isMultiValued(items, f.key); });
+
+    var state = { q: "", sort: "name", sel: {}, mode: {} };
+    facets.forEach(function (f) { state.sel[f.key] = {}; state.mode[f.key] = "any"; });
     state.sel.klass = {};
     state.sel.subclass = {};
 
@@ -198,6 +204,10 @@
     elClear.addEventListener("click", function () {
       state.q = ""; elSearch.value = "";
       facets.forEach(function (f) { state.sel[f.key] = {}; });
+      facets.forEach(function (f) { state.mode[f.key] = "any"; });
+      root.querySelectorAll(".sc-facet-mode.is-all").forEach(function (b) {
+        b.classList.remove("is-all"); b.textContent = "any"; b.setAttribute("aria-pressed", "false");
+      });
       state.sel.klass = {}; state.sel.subclass = {};
       root.querySelectorAll(".sc-chip.is-on").forEach(function (c) { c.classList.remove("is-on"); c.setAttribute("aria-pressed", "false"); });
       render();
@@ -210,6 +220,17 @@
         render();
       });
     });
+    root.querySelectorAll(".sc-facet-mode").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var k = btn.dataset.facet;
+        var all = state.mode[k] !== "all";
+        state.mode[k] = all ? "all" : "any";
+        btn.textContent = all ? "all" : "any";
+        btn.classList.toggle("is-all", all);
+        btn.setAttribute("aria-pressed", all ? "true" : "false");
+        render();
+      });
+    });
 
     function matches(it) {
       if (state.q) {
@@ -218,13 +239,7 @@
       }
       for (var k in state.sel) {
         if (k === "klass" || k === "subclass") continue; // handled as one OR-group below
-        var picks = Object.keys(state.sel[k]);
-        if (!picks.length) continue;
-        var v = it[k];
-        var has = Array.isArray(v)
-          ? v.some(function (x) { return state.sel[k][x]; })
-          : state.sel[k][String(v)];
-        if (!has) return false;
+        if (!FacetCore.matchesPicks(it[k], state.sel[k], state.mode[k])) return false;
       }
       if (!Core.matchesSource(it, state.sel.klass, state.sel.subclass)) return false;
       return true;
@@ -273,7 +288,11 @@
       return '<button type="button" class="sc-chip" role="button" aria-pressed="false" data-facet="' + f.key + '" data-value="' + esc(v) + '">' +
         dot + esc(label) + '</button>';
     }).join("");
-    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' +
+    var modeBtn = f.multi
+      ? '<button type="button" class="sc-facet-mode" data-facet="' + f.key + '" aria-pressed="false" ' +
+        'title="Match any selected value (OR) — click to require all (AND)">any</button>'
+      : "";
+    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' + modeBtn +
       '<div class="sc-browse__chips">' + chips + '</div></div>';
   }
   // merged Source facet: a class chip (filters klass) leading its class-scoped
