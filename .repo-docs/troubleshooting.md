@@ -106,6 +106,39 @@ chrome has never rendered — and the unanchored `:not([data-sb-kwusage="crest"]
 selectors match `body`, so "non-crest" separators apply in every mode. Both are
 load-bearing for the current look; see workspace `FOLLOWUPS.md` #9 before "fixing".
 
+### A `.md-typeset` override leaks into the search dropdown / preview tooltips
+
+**Symptom:** search-result titles render huge (or otherwise inherit page-content
+styling), e.g. Compact Mode's `[data-compact="true"] .md-typeset h1 { font-size: 3em }`
+made dropdown titles ~3× too large (2026-06-22).
+
+**Cause:** `.md-typeset` is NOT unique to page content — Material also puts it on the
+**search-result dropdown** (`<article class="md-search-result__article md-typeset">`
+with a bare `<h1>` title) and on **preview tooltips**. A custom rule can tie Material's
+own dropdown rules on specificity (e.g. both 0,2,1) and win on source order, since
+`extra_css` loads after the theme.
+
+**Fix / rule:** scope page-content overrides under `.md-content` (Material wraps the
+article as `.md-content > .md-content__inner.md-typeset`; the dropdown + tooltips live
+outside `.md-content`). This is the established content-scoping idiom in `extra.css`.
+Before adding/editing any `.md-typeset` rule, decide whether it must be content-only —
+if so, scope it. Regression guard: `tests/compact-mode-scope.test.js`.
+
+### Global blockquote / hr styling breaks ability cards or index-card primers
+
+Two non-obvious collision hazards for any `.md-typeset blockquote` / `.md-typeset hr`
+rule (bit the 2026-06-09 canvas-redesign ◆ rule + filigree blockquote work):
+
+- **Ability cards ARE live blockquotes** (`blockquote[data-ability-type]`, decorated by
+  `ability-cards.js` + `extra.css` with `!important` accents) — global blockquote
+  styling must exclude them: `:not([data-ability-type])`.
+- **Index-card class primers** render nested `.sc-card__intro blockquote`
+  (`steel-redesign.css`) at equal specificity to `.md-typeset blockquote` — use the
+  child combinator `.md-typeset > blockquote` to hit only top-level prose blockquotes.
+- **Base `<hr>` lives in `custom_font.css`** (loads before `steel-redesign.css`): an
+  `hr::after` override must `border: none` to clear its 2px bottom/right diamond
+  borders, or they leak into the new pseudo-element.
+
 ### A custom `<details>`/`<summary>` component grows a pencil icon, blue border, second chevron
 
 **Symptom:** A build-time-rendered collapsible (e.g. the statblock Villain Actions
