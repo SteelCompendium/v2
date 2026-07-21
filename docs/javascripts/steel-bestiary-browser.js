@@ -246,8 +246,8 @@
       ? '<button type="button" class="sc-facet-mode" data-facet="' + f.key + '" aria-pressed="false" ' +
         'title="Match any selected value (OR) — click to require all (AND)">any</button>'
       : "";
-    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' + modeBtn +
-      '<div class="sc-browse__chips">' + chips + "</div></div>";
+    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' +
+      '<div class="sc-browse__chips">' + modeBtn + chips + "</div></div>";
   }
 
   window.SCBestiary = { mount: mount };
