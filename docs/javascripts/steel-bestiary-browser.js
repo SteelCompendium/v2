@@ -124,6 +124,7 @@
       facets.forEach(function (f) { state.mode[f.key] = "any"; });
       root.querySelectorAll(".sc-facet-mode.is-all").forEach(function (b) {
         b.classList.remove("is-all"); b.textContent = "any"; b.setAttribute("aria-pressed", "false");
+        b.title = "Match any selected value (OR) — click to require all (AND)";
       });
       root.querySelectorAll(".sc-chip.is-on").forEach(function (c) {
         c.classList.remove("is-on"); c.setAttribute("aria-pressed", "false");
@@ -146,6 +147,9 @@
         var all = state.mode[k] !== "all";
         state.mode[k] = all ? "all" : "any";
         btn.textContent = all ? "all" : "any";
+        btn.title = all
+          ? "Match all selected values (AND) — click to return to any (OR)"
+          : "Match any selected value (OR) — click to require all (AND)";
         btn.classList.toggle("is-all", all);
         btn.setAttribute("aria-pressed", all ? "true" : "false");
         render();
