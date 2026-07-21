@@ -12,6 +12,9 @@
 (function () {
   "use strict";
 
+  // Shared per-facet pick matching (any/all modes), loaded before this script.
+  var FacetCore = (typeof window !== "undefined" && window.SCFacetCore) || null;
+
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -68,8 +71,11 @@
       { key: "keywords", label: "Keyword", values: uniqueSorted(items, "keywords") }
     ].filter(function (f) { return f.values.length > 1; });
 
-    var state = { q: "", sort: "name", dir: 1, sel: {}, lvlMin: null, lvlMax: null, evMin: null, evMax: null };
-    facets.forEach(function (f) { state.sel[f.key] = {}; });
+    // any/all toggle only where AND is satisfiable: array-valued fields (keywords).
+    facets.forEach(function (f) { f.multi = FacetCore.isMultiValued(items, f.key); });
+
+    var state = { q: "", sort: "name", dir: 1, sel: {}, mode: {}, lvlMin: null, lvlMax: null, evMin: null, evMax: null };
+    facets.forEach(function (f) { state.sel[f.key] = {}; state.mode[f.key] = "any"; });
 
     function rangeInputs(label, key) {
       return '<div class="sc-browse__range"><span class="lbl">' + label + '</span>' +
@@ -115,6 +121,10 @@
       state.lvlMin = state.lvlMax = state.evMin = state.evMax = null;
       root.querySelectorAll("input[data-range]").forEach(function (i) { i.value = ""; });
       facets.forEach(function (f) { state.sel[f.key] = {}; });
+      facets.forEach(function (f) { state.mode[f.key] = "any"; });
+      root.querySelectorAll(".sc-facet-mode.is-all").forEach(function (b) {
+        b.classList.remove("is-all"); b.textContent = "any"; b.setAttribute("aria-pressed", "false");
+      });
       root.querySelectorAll(".sc-chip.is-on").forEach(function (c) {
         c.classList.remove("is-on"); c.setAttribute("aria-pressed", "false");
       });
@@ -126,6 +136,18 @@
         var k = chip.dataset.facet, v = chip.dataset.value;
         if (state.sel[k][v]) { delete state.sel[k][v]; chip.classList.remove("is-on"); chip.setAttribute("aria-pressed", "false"); }
         else { state.sel[k][v] = true; chip.classList.add("is-on"); chip.setAttribute("aria-pressed", "true"); }
+        render();
+      });
+    });
+
+    root.querySelectorAll(".sc-facet-mode").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var k = btn.dataset.facet;
+        var all = state.mode[k] !== "all";
+        state.mode[k] = all ? "all" : "any";
+        btn.textContent = all ? "all" : "any";
+        btn.classList.toggle("is-all", all);
+        btn.setAttribute("aria-pressed", all ? "true" : "false");
         render();
       });
     });
@@ -144,11 +166,7 @@
         if (state.evMax != null && ev > state.evMax) return false;
       }
       for (var k in state.sel) {
-        var picks = Object.keys(state.sel[k]);
-        if (!picks.length) continue;
-        var v = it[k];
-        var has = Array.isArray(v) ? v.some(function (x) { return state.sel[k][x]; }) : state.sel[k][String(v)];
-        if (!has) return false;
+        if (!FacetCore.matchesPicks(it[k], state.sel[k], state.mode[k])) return false;
       }
       return true;
     }
@@ -220,7 +238,11 @@
       return '<button type="button" class="sc-chip" role="button" aria-pressed="false" data-facet="' +
         f.key + '" data-value="' + esc(v) + '">' + esc(label) + "</button>";
     }).join("");
-    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' +
+    var modeBtn = f.multi
+      ? '<button type="button" class="sc-facet-mode" data-facet="' + f.key + '" aria-pressed="false" ' +
+        'title="Match any selected value (OR) — click to require all (AND)">any</button>'
+      : "";
+    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' + modeBtn +
       '<div class="sc-browse__chips">' + chips + "</div></div>";
   }
 
