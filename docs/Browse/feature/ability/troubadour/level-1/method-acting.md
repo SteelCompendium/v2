@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
+      name: Effect
 flavor: They're so hurt by your performance, you start to believe it yourself.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

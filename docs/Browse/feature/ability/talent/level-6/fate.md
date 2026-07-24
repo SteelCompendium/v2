@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
-effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
+effects:
+    - effect: The target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../../../condition/prone.md).
+      name: Effect
+    - effect: This ability gains the [Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../../../rule/dice/power-roll.md), then are [weakened](../../../../condition/weakened.md) (save ends).
+      name: Strained
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 8 + P psychic damage
+      tier2: 13 + P psychic damage
+      tier3: 17 + P psychic damage
 flavor: Your foe gets a glimpse of how it will end for them.
 keywords:
     - Chronopathy

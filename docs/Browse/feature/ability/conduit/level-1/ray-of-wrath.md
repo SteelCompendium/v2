@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can have this ability deal holy damage.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 + I damage
+      tier2: 4 + I damage
+      tier3: 6 + I damage
+    - effect: You can have this ability deal holy damage.
+      name: Effect
 flavor: You unleash a blast of holy light upon your foe.
 keywords:
     - Magic

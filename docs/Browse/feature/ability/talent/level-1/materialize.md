@@ -4,7 +4,15 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: A worthless [size](../../../../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../../../../rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 + R damage
+      tier2: 5 + R damage
+      tier3: 8 + R damage
+    - effect: A worthless [size](../../../../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../../../../rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+      name: Effect
+    - effect: The object explodes after the damage is dealt, and each creature [adjacent](../../../../rule/combat/adjacent.md) to the target takes damage equal to your [Reason](../../../../rule/character/reason.md) score. You also take damage equal to your [Reason](../../../../rule/character/reason.md) score that can't be reduced in any way.
+      name: Strained
 flavor: You picture an object in your mind and give it form—directly above your opponent's head.
 keywords:
     - Psionic

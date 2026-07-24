@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Melee 1
-effect: If the target is [grabbed](../../../../condition/grabbed.md) by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P < AVERAGE is [frightened](../../../../condition/frightened.md) (save ends).
+effects:
+    - roll: Power Roll + Might
+      tier1: 11 + M damage; M < WEAK [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 17 + M damage; M < AVERAGE [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 22 + M damage; M < STRONG [bleeding](../../../../condition/bleeding.md) (save ends)
+    - effect: If the target is [grabbed](../../../../condition/grabbed.md) by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P < AVERAGE is [frightened](../../../../condition/frightened.md) (save ends).
+      name: Effect
 flavor: In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.
 keywords:
     - Melee

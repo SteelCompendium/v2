@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 6 + I holy damage; I < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 9 + I holy damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 13 + I holy damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 flavor: Fear of divine judgment overwhelms your foe.
 keywords:
     - Magic

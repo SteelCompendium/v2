@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: Three 10 x 1 lines within 1
-effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../../../movement/forced-movement.md) into other targets in the same line.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 6 lightning damage; [push](../../../../movement/forced-movement.md) 1
+      tier2: 9 lightning damage; [push](../../../../movement/forced-movement.md) 2
+      tier3: 13 lightning damage; [push](../../../../movement/forced-movement.md) 3
+    - effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../../../movement/forced-movement.md) into other targets in the same line.
+      name: Effect
 flavor: Lightning [bursts](../../../../rule/combat/burst.md) forth from your body in several directions.
 keywords:
     - Area

@@ -4,7 +4,13 @@ printing_book: "The Beastheart"
 action_type: Main action
 class: beastheart
 distance: 1 burst
-effect: Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.
+effects:
+    - effect: Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.
+      name: Effect
+    - roll: Power Roll + Might
+      tier1: 1 + M damage
+      tier2: 3 + M damage
+      tier3: 4 + M damage
 keywords:
     - Area
     - Companion

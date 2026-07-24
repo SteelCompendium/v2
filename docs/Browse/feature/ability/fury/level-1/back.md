@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 3 Ferocity
 distance: 1 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 5 damage
+      tier2: 8 damage; [push](../../../../movement/forced-movement.md) 1
+      tier3: 11 damage; [push](../../../../movement/forced-movement.md) 3
 flavor: You hew about you with your mighty weapon, hurling enemies backward.
 keywords:
     - Area

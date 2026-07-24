@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 7 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../../rule/combat/combat-round.md) without spending drama.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 5 + P damage
+      tier2: 8 + P damage; [push](../../../../movement/forced-movement.md) 3
+      tier3: 11 + P damage; [push](../../../../movement/forced-movement.md) 5
+    - effect: You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../../../rule/combat/combat-round.md) without spending drama.
+      name: Effect
 flavor: Your performance travels and doesn't stop moving until your audience is completely rocked.
 keywords:
     - Magic

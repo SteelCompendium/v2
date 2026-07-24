@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
+effects:
+    - effect: You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
+      name: Effect
 flavor: The earth rises, falls, or opens up at your command.
 keywords:
     - Earth

@@ -4,7 +4,13 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Melee 1
-effect: You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.
+effects:
+    - roll: Power Roll + Reason
+      tier1: 5 + R corruption damage; 2 charges (see below)
+      tier2: 8 + R corruption damage; 3 charges
+      tier3: 11 + R corruption damage; 4 charges
+    - effect: You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.
+      name: Effect
 feature_source: summoner
 flavor: You pierce your foe and repurpose some of that 'fiber of their being' they weren't using.
 keywords:

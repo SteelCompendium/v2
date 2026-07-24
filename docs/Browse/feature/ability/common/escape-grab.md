@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../rule/combat/turn.md)'
 distance: Self
-effect: You take a [bane](../../../rule/dice/bane.md) on this maneuver if your [size](../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../condition/grabbed.md).
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: No effect.
+      tier2: You can escape the grab, but if you do, a creature who has you [grabbed](../../../condition/grabbed.md) can make a [melee](../../../rule/combat/melee.md) [free strike](../../common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../../condition/grabbed.md).
+      tier3: You are no longer [grabbed](../../../condition/grabbed.md).
+    - effect: You take a [bane](../../../rule/dice/bane.md) on this maneuver if your [size](../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../condition/grabbed.md).
+      name: Effect
 keywords: []
 name: Escape Grab
 power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'

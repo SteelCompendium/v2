@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier.
+      name: Effect
 flavor: The gods know you must prevail, and they bless your fate.
 keywords:
     - Magic

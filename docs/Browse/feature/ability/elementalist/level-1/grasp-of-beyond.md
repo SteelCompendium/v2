@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 + R corruption damage
+      tier2: 6 + R corruption damage
+      tier3: 9 + R corruption damage
+    - effect: You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+      name: Effect
 flavor: You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).
 keywords:
     - Magic

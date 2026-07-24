@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 damage
+      tier2: 6 damage
+      tier3: 8 damage
+    - effect: If you use this ability on your [turn](../../../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../../../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../../../rule/dice/power-roll.md) for both targets.
+      name: Effect
 flavor: Why strike once when you could do it twice?
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 3 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../../movement/forced-movement.md) them.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+      tier2: 6 + M damage; [push](../../../../movement/forced-movement.md) 3
+      tier3: 9 + M damage; [push](../../../../movement/forced-movement.md) 5
+    - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) in a straight line toward the target after [pushing](../../../../movement/forced-movement.md) them.
+      name: Effect
 flavor: As you force your enemy back with your weapon, you use your faith to stay close.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

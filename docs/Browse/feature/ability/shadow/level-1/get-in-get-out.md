@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 3 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 5 + A damage
+      tier2: 8 + A damage
+      tier3: 11 + A damage
+    - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+      name: Effect
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

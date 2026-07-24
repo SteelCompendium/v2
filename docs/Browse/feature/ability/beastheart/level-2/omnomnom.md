@@ -5,7 +5,15 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: Melee 1
-effect: A swallowed creature shares your companion's space, is [grabbed](../../../../condition/grabbed.md) and [restrained](../../../../condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
+effects:
+    - effect: This ability targets only creatures who are [grabbed](../../../../condition/grabbed.md) and are your companion's size or smaller.
+      name: Special
+    - roll: Power Roll + Might
+      tier1: 6 + M damage; M < WEAK the target is swallowed
+      tier2: 10 + M damage; M < AVERAGE the target is swallowed
+      tier3: 14 + M damage; M < STRONG the target is swallowed
+    - effect: A swallowed creature shares your companion's space, is [grabbed](../../../../condition/grabbed.md) and [restrained](../../../../condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
+      name: Effect
 flavor: What do you have in your mouth? No! Bad boy!
 keywords:
     - Companion

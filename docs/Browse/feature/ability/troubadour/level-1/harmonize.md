@@ -5,14 +5,17 @@ action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: troubadour
 cost: 3 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
-effect: The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
+effects:
+    - effect: The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
+      name: Effect
+    - cost: Spend 1+ Drama
+      effect: You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.
 flavor: Give the chorus a little punch.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Harmonize
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize
-spend: '1+ Drama: You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.'
 subclass: virtuoso
 subtype: triggered
 target: One ally

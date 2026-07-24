@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
+effects:
+    - effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
+      name: Effect
 flavor: You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.
 keywords:
     - Magic

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 3 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: You can [push](../../../../movement/forced-movement.md) each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 sonic damage; [push](../../../../movement/forced-movement.md) 1
+      tier2: 3 sonic damage; [push](../../../../movement/forced-movement.md) 2
+      tier3: 5 sonic damage; [push](../../../../movement/forced-movement.md) 3
+    - effect: You can [push](../../../../movement/forced-movement.md) each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
+      name: Effect
 flavor: You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.
 keywords:
     - Area

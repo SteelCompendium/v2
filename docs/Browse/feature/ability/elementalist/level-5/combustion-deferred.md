@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 9 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: When the target ends their next [turn](../../../../rule/combat/turn.md), or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy [adjacent](../../../../rule/combat/adjacent.md) to them takes fire damage equal to twice your [Reason](../../../../rule/character/reason.md) score. Each affected enemy then gains this same effect.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 8 + R fire damage
+      tier2: 13 + R fire damage
+      tier3: 17 + R fire damage
+    - effect: When the target ends their next [turn](../../../../rule/combat/turn.md), or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy [adjacent](../../../../rule/combat/adjacent.md) to them takes fire damage equal to twice your [Reason](../../../../rule/character/reason.md) score. Each affected enemy then gains this same effect.
+      name: Effect
 flavor: Your flames dance from kindling to kindling to kindling.
 keywords:
     - Fire

@@ -5,7 +5,9 @@ action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target obtains a tier 1 or tier 3 outcome on their [power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../../../../rule/dice/power-roll.md).
+effects:
+    - effect: The target obtains a tier 1 or tier 3 outcome on their [power roll](../../../../rule/dice/power-roll.md) (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next [power roll](../../../../rule/dice/power-roll.md).
+      name: Effect
 flavor: The gods bless and damn in equal measure.
 keywords:
     - Magic

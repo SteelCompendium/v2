@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: If the target dealt damage to you since the end of your last [turn](../../../rule/combat/turn.md), this [strike](../../../rule/combat/strike.md) deals additional damage equal to your [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md) score (your choice).
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage
+      tier2: 5 + M or A damage
+      tier3: 13 + M or A damage
+    - effect: If the target dealt damage to you since the end of your last [turn](../../../rule/combat/turn.md), this [strike](../../../rule/combat/strike.md) deals additional damage equal to your [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md) score (your choice).
+      name: Effect
 flavor: An enemy who tagged you will pay for that.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

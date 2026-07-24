@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 7 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+      name: Effect
 flavor: The holy [aura](../../../../rule/combat/aura.md) you project makes it painful for evil-doers to leave your reach.
 keywords:
     - Area

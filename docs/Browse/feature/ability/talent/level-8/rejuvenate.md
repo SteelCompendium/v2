@@ -5,7 +5,11 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: 'Choose two of the following effects:'
+effects:
+    - effect: 'Choose two of the following effects:'
+      name: Effect
+    - effect: You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends).
+      name: Strained
 flavor: You reshape the flow of time in the target's body to return it to an earlier state.
 keywords:
     - Chronopathy

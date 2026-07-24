@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 3 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
+      tier2: 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md)
+      tier3: 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../../../../rule/health/recoveries.md), and each of you gains an [edge](../../../../rule/dice/edge.md) on the next [ability roll](../../../../rule/dice/ability-roll.md) you make during the encounter
 flavor: Your attack gives an ally hope.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

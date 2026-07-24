@@ -4,14 +4,17 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: "null"
 distance: Self
-effect: You take half the damage.
+effects:
+    - effect: You take half the damage.
+      name: Effect
+    - cost: Spend 1 Discipline
+      effect: The [potency](../../../../rule/character/potency.md) of one effect associated with the damage is reduced by 1 for you.
 flavor: You intuit the course of an incoming attack, reducing its effects.
 keywords:
     - Psionic
 level: "1"
 name: Inertial Shield
 scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield
-spend: '1 Discipline: The [potency](../../../../rule/character/potency.md) of one effect associated with the damage is reduced by 1 for you.'
 subtype: triggered
 target: Self
 trigger: You take damage.

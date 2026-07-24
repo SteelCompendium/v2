@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 3 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 7 + A damage
+      tier2: 10 + A damage
+      tier3: 13 + A damage
+    - effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
+      name: Effect
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

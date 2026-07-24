@@ -3,6 +3,11 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 2'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 damage
+      tier2: 7 damage
+      tier3: 9 damage
 flavor: In your hands, the haft is as good as the head.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

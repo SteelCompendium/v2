@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: 3 cube within 5
-effect: If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
+effects:
+    - roll: Power Roll + Might
+      tier1: 3 fire damage
+      tier2: 5 fire damage
+      tier3: 8 fire damage
+    - effect: If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
+      name: Effect
 flavor: As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.
 keywords:
     - Area

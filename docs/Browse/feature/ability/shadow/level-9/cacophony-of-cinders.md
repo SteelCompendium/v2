@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come [adjacent](../../../../rule/combat/adjacent.md) to during the [shift](../../../../movement/shifting.md).
+effects:
+    - effect: You [shift](../../../../movement/shifting.md) up to twice your [speed](../../../../rule/character/speed.md), making one [power roll](../../../../rule/dice/power-roll.md) that targets each creature you come [adjacent](../../../../rule/combat/adjacent.md) to during the [shift](../../../../movement/shifting.md).
+      name: Effect
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
+      tier2: An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.
+      tier3: An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares.
 flavor: You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.
 keywords:
     - Magic

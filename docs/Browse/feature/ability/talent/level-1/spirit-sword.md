@@ -4,7 +4,15 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
-effect: You gain 1 [surge](../../../../rule/resource/surge.md).
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 3 + P damage
+      tier2: 6 + P damage
+      tier3: 9 + P damage
+    - effect: You gain 1 [surge](../../../../rule/resource/surge.md).
+      name: Effect
+    - effect: The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
+      name: Strained
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy

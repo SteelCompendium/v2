@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage
+      tier3: 13 + M or A damage
+    - effect: You can move up to 3 squares straight toward the target before this [strike](../../../rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
+      name: Effect
 flavor: The faster you move, the harder you hit.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

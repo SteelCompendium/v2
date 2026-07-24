@@ -5,7 +5,11 @@ action_type: Maneuver
 class: beastheart
 cost: 9 Ferocity
 distance: Self
-effect: 'Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:'
+effects:
+    - effect: 'Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:'
+      name: Effect
+    - cost: Spend 2 Ferocity
+      effect: You also transform.
 flavor: Your companion's body becomes a bank of glowing coals, a web of arcing lightning, a cloud of rumbling thunder, or a flurry of dancing ice crystals.
 keywords:
     - Companion
@@ -13,7 +17,6 @@ keywords:
 level: "6"
 name: Elements Unleashed
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-6/elements-unleashed
-spend: '2 Ferocity: You also transform.'
 subclass: spark
 target: Self
 type: ability

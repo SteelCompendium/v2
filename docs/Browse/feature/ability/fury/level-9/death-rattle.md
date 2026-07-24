@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 3 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
+      tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
+      tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
 flavor: You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.
 keywords:
     - Area

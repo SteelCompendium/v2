@@ -5,7 +5,15 @@ action_type: Free Triggered Action
 class: beastheart
 cost: 11 Ferocity
 distance: Self
-effect: Your companion makes a power roll, which targets each enemy in a 5 burst.
+effects:
+    - effect: Your companion makes a power roll, which targets each enemy in a 5 burst.
+      name: Effect
+    - roll: Power Roll + Intuition
+      tier1: 20 cold, fire, lightning, or sonic damage
+      tier2: 25 cold, fire, lightning, or sonic damage
+      tier3: 30 cold, fire, lightning, or sonic damage
+    - effect: Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.
+      name: Effect
 flavor: They'd tell stories in hushed tones of your companion's last stand—if any of them lived to tell the tale.
 keywords:
     - Area

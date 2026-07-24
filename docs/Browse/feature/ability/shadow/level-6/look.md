@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: Until the start of your next [turn](../../../../rule/combat/turn.md), any [ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../../rule/dice/edge.md).
+effects:
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), any [ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../../rule/dice/edge.md).
+      name: Effect
 flavor: You distract your foes, allowing your allies to take advantage of that distraction.
 keywords:
     - Area

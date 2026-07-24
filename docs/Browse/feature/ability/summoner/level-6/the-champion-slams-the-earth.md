@@ -4,7 +4,15 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: 4 cube within 1
-effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 [damage](../../../../rule/damage/damage.md); M < WEAK [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
+      tier2: 8 [damage](../../../../rule/damage/damage.md); M < AVERAGE [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
+      tier3: 11 [damage](../../../../rule/damage/damage.md); M < STRONG [prone](../../../../condition/prone.md) and can't stand ([save ends](../../../../rule/general/saving-throw.md))
+    - effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+      name: Effect
+    - effect: You can change the [damage type](../../../../rule/damage/damage-type.md) to be a type that your champion deals on their stat block (see [Portfolio Champion](../../../summoner/level-8/portfolio-champion.md)).
+      name: Special
 feature_source: summoner
 flavor: Your champion lays their fury upon those unfortunate enough to be in their wake.
 keywords:

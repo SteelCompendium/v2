@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 2 + R'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 4 + R'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)'
+    - effect: You must vertical [push](../../../../movement/forced-movement.md) the target instead of [sliding](../../../../movement/forced-movement.md) them.
+      name: Strained
 flavor: You lift and hurl your foe away from you.
 keywords:
     - Psionic

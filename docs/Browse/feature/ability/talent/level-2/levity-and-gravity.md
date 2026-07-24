@@ -5,6 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 6 + R damage; M < WEAK[, prone](../../../../condition/prone.md)
+      tier2: 10 + R damage; M < AVERAGE[, prone](../../../../condition/prone.md)
+      tier3: 14 + R damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
+    - effect: You take half the damage the target takes.
+      name: Strained
 flavor: You raise the target slightly into the air, then smother them against the ground.
 keywords:
     - Psionic

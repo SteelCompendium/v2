@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: 2 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 flavor: The shadows around you give way, allowing the shadow creature within you to grasp at your foes.
 keywords:
     - Area

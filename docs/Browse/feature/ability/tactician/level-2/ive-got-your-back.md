@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
-effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+      tier2: 9 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+      tier3: 12 + R damage; [taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+    - effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

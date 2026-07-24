@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../common/main-actions/free-strike.md) against a target you choose
+      tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+      tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](../../../../rule/character/speed.md) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 flavor: You speak with the voice of your [saint](../../../../rule/world/saint.md), commanding your enemies.
 keywords:
     - Magic

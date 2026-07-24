@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You infuse your weapon with holy magic that makes it difficult for your foe to get away.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

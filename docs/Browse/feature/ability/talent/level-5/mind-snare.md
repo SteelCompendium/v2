@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 10 + R psychic damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 14 + R psychic damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 20 + R psychic damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: While [slowed](../../../../condition/slowed.md) this way, the target takes 3 psychic damage for each square they willingly leave.
+      name: Effect
+    - effect: While [slowed](../../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against the target while they are [slowed](../../../../condition/slowed.md) this way.
+      name: Strained
 flavor: You latch onto your prey's brain and don't let go, like a song they can't get out of their head.
 keywords:
     - Psionic

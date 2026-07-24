@@ -5,7 +5,13 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: Self
-effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+    - effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
+      name: Effect
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 keywords:
     - Psionic

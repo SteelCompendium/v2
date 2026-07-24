@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 3 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
+effects:
+    - effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
+      name: Effect
 flavor: On your command, you and your allies force back the enemy line.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

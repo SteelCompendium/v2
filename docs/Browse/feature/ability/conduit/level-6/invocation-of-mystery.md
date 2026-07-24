@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: '"Now you see us..."'
 keywords:
     - Area

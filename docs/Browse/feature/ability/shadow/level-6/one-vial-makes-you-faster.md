@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../../rule/character/potency.md) at the end of the encounter.
+effects:
+    - effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../../rule/character/potency.md) at the end of the encounter.
+      name: Effect
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: The creature's [speed](../../../../rule/character/speed.md) is increased by 2 until the end of the encounter.
+      tier2: The creature can [fly](../../../../movement/fly.md) until the end of the encounter.
+      tier3: The creature [turns](../../../../rule/combat/turn.md) invisible until the end of their next [turn](../../../../rule/combat/turn.md).
 flavor: Each ally who catches a potion you throw can take the battle to the next level.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

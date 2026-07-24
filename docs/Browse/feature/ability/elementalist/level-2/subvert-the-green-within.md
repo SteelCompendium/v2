@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
+effects:
+    - effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
+      name: Effect
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 + R poison damage
+      tier2: 9 + R poison damage
+      tier3: 12 + R poison damage
 flavor: Fungal spores sprout inside your enemy's brain, allowing you to control their actions.
 keywords:
     - Green

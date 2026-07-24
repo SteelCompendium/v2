@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 7 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score at the end of each of your [turns](../../../../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../../../../rule/combat/adjacent.md) to any enemy.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score at the end of each of your [turns](../../../../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../../../../rule/combat/adjacent.md) to any enemy.
+      name: Effect
 flavor: The evil within your foes detonates with holy fire that burns only the guilty.
 keywords:
     - Area

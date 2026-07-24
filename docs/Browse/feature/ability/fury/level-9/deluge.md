@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
-effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../../rule/damage/damage-immunity.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 7 damage
+      tier2: 10 damage
+      tier3: 15 damage
+    - effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../../rule/damage/damage-immunity.md).
+      name: Effect
 flavor: You summon your [primordial storm](../../../fury/stormwight-kits/primordial-storm.md).
 keywords:
     - Area

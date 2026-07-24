@@ -4,7 +4,13 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Summoner's Range
-effect: 'You summon one or more minions from your [portfolio](../../../summoner/level-1/portfolio.md) into unoccupied spaces within distance. Choose one of the following options:'
+effects:
+    - effect: 'You summon one or more minions from your [portfolio](../../../summoner/level-1/portfolio.md) into unoccupied spaces within distance. Choose one of the following options:'
+      name: Effect
+    - effect: You summon one [signature minion](../../../summoner/level-1/minions.md) for each essence you spend on this ability.
+      name: Signature Minions
+    - effect: You summon the set number of minions listed on the stat block for their essence cost.
+      name: All Other Minions
 feature_source: summoner
 flavor: My power is yours, and yours, mine. I summon thee.
 keywords:

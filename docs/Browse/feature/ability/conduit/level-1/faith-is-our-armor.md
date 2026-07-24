@@ -5,7 +5,13 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can target yourself instead of one ally with this ability.
+effects:
+    - effect: You can target yourself instead of one ally with this ability.
+      name: Effect
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier2: The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      tier3: The target gains 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: The heroes' armor glows with golden light, granting divine protection.
 keywords:
     - Magic

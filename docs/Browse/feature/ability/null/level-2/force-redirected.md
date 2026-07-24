@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 8 + A damage; [slide](../../../../movement/forced-movement.md) 1
+      tier2: 12 + A damage; [slide](../../../../movement/forced-movement.md) 3
+      tier3: 16 + A damage; [slide](../../../../movement/forced-movement.md) 5
 flavor: The force of your [strike](../../../../rule/combat/strike.md) moves your target in a surprising direction.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

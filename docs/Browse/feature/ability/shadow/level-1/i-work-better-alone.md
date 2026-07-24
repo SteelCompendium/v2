@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 + A damage
+      tier2: 6 + A damage
+      tier3: 9 + A damage
+    - effect: If the target has none of your allies [adjacent](../../../../rule/combat/adjacent.md) to them, you gain 1 [surge](../../../../rule/resource/surge.md) before making the [power roll](../../../../rule/dice/power-roll.md).
+      name: Effect
 flavor: '"It''s better, just you and me. Isn''t it?"'
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

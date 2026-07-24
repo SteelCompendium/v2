@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R fire damage; [push](../../../../movement/forced-movement.md) 2
+      tier2: 5 + R fire damage; [push](../../../../movement/forced-movement.md) 3
+      tier3: 7 + R fire damage; [push](../../../../movement/forced-movement.md) 4
 flavor: A jet of heavy fire erupts where you strike.
 keywords:
     - Fire

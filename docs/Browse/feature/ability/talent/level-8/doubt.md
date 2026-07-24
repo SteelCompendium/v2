@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: 'This ability gains an [edge](../../../../rule/dice/edge.md) against a target with a soul (see *Draw Steel: Monsters*). After you make the [power roll](../../../../rule/dice/power-roll.md), you or one ally within [distance](../../../../rule/combat/distance.md) have a double [edge](../../../../rule/dice/edge.md) on the next [power roll](../../../../rule/dice/power-roll.md) you make before the end of the encounter.'
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 10 + P damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 14 + P damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 20 + P damage; P < STRONG, [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: 'This ability gains an [edge](../../../../rule/dice/edge.md) against a target with a soul (see *Draw Steel: Monsters*). After you make the [power roll](../../../../rule/dice/power-roll.md), you or one ally within [distance](../../../../rule/combat/distance.md) have a double [edge](../../../../rule/dice/edge.md) on the next [power roll](../../../../rule/dice/power-roll.md) you make before the end of the encounter.'
+      name: Effect
+    - effect: You feel dispirited until you finish a [respite](../../../../rule/resource/respite.md). If you obtain a tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md), you and the target each have [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends).
+      name: Strained
 flavor: You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.
 keywords:
     - Animapathy

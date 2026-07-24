@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 10 + M damage
+      tier2: 14 + M damage
+      tier3: 20 + M damage
+    - effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: You amplify the power of your [judgment](../level-1/judgment.md).
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

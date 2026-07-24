@@ -4,7 +4,11 @@ printing_book: "The Beastheart"
 action_type: Maneuver
 class: beastheart
 distance: Ranged 10
-effect: If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.
+effects:
+    - effect: If your companion is within range and can fit into the target space, they [teleport](../../../../movement/teleport.md) to the space. They can then make a melee free strike.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: The distance increases to ranged 15.
 flavor: You point, and your companion appears.
 keywords:
     - Beastheart
@@ -13,7 +17,6 @@ keywords:
 level: "1"
 name: Living Arrow
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/living-arrow
-spend: '1 Ferocity: The distance increases to ranged 15.'
 subclass: guardian
 target: One unoccupied space
 type: ability

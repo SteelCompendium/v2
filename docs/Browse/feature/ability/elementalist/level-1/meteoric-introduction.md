@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 + R damage; [push](../../../../movement/forced-movement.md) 2
+      tier2: 5 + R damage; [push](../../../../movement/forced-movement.md) 3
+      tier3: 8 + R damage; [push](../../../../movement/forced-movement.md) 4
 flavor: You give your enemy a gentle tap-like an asteroid impact.
 keywords:
     - Earth

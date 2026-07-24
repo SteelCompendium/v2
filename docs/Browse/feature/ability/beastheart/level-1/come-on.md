@@ -4,7 +4,13 @@ printing_book: "The Beastheart"
 action_type: Main action
 class: beastheart
 distance: Melee 1 or ranged 5
-effect: Your companion can make a melee free strike. You both [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score.
+effects:
+    - roll: Power Roll + Might
+      tier1: 2 + M damage
+      tier2: 3 + M damage
+      tier3: 4 + M damage
+    - effect: Your companion can make a melee free strike. You both [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score.
+      name: Effect
 flavor: You launch a flurry of attacks to cover your movement.
 keywords:
     - Beastheart

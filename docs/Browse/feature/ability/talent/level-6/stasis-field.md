@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
-effect: The area is frozen in time until the start of your next [turn](../../../../rule/combat/turn.md). Each object in the area is [restrained](../../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../../rule/health/stamina.md) remain undestroyed.
+effects:
+    - effect: The area is frozen in time until the start of your next [turn](../../../../rule/combat/turn.md). Each object in the area is [restrained](../../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../../rule/health/stamina.md) remain undestroyed.
+      name: Effect
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: P < WEAK, the target is [slowed](../../../../condition/slowed.md) until the effect ends
+      tier2: P < AVERAGE, the target's [speed](../../../../rule/character/speed.md) is 0 until the effect ends
+      tier3: P < STRONG, the target is [restrained](../../../../condition/restrained.md) until the effect ends
+    - effect: Any creature or object [force moved](../../../../movement/forced-movement.md) in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects [restrained](../../../../condition/restrained.md) in the area can be [force moved](../../../../movement/forced-movement.md). You are [restrained](../../../../condition/restrained.md) until the effect ends.
+      name: Strained
 flavor: Keep everything as it was. Ignore everything that will be.
 keywords:
     - Area

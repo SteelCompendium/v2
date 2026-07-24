@@ -4,7 +4,13 @@ printing_book: "The Summoner"
 action_type: Maneuver
 class: summoner
 distance: Summoner's Range
-effect: Until the end of the encounter, each target can use a [free triggered action](../../../../rule/combat/triggered-action.md) whenever they take [damage](../../../../rule/damage/damage.md) to reduce the incoming [damage](../../../../rule/damage/damage.md) by half and then lose this effect.
+effects:
+    - roll: Power Roll + Reason
+      tier1: Three creatures
+      tier2: Four creatures
+      tier3: Five creatures
+    - effect: Until the end of the encounter, each target can use a [free triggered action](../../../../rule/combat/triggered-action.md) whenever they take [damage](../../../../rule/damage/damage.md) to reduce the incoming [damage](../../../../rule/damage/damage.md) by half and then lose this effect.
+      name: Effect
 feature_source: summoner
 flavor: You call forth protective forces to keep you all from harm.
 keywords:

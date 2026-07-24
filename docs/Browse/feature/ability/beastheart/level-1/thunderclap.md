@@ -4,7 +4,11 @@ printing_book: "The Beastheart"
 action_type: Triggered Action
 class: beastheart
 distance: Melee 1
-effect: You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this [forced movement](../../../../movement/forced-movement.md) pushes the target away from the creature they damaged, the creature takes half the triggering damage.
+effects:
+    - effect: You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this [forced movement](../../../../movement/forced-movement.md) pushes the target away from the creature they damaged, the creature takes half the triggering damage.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: The [forced movement](../../../../movement/forced-movement.md) distance is doubled.
 flavor: The force of your counterattack cracks the air.
 keywords:
     - Melee
@@ -12,7 +16,6 @@ keywords:
 level: "1"
 name: Thunderclap
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/thunderclap
-spend: '1 Ferocity: The [forced movement](../../../../movement/forced-movement.md) distance is doubled.'
 subclass: punisher
 target: One enemy
 trigger: The target deals damage to a creature.

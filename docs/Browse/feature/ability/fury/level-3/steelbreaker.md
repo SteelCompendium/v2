@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: fury
 cost: 7 Ferocity
 distance: Self
-effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+effects:
+    - effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      name: Effect
 flavor: See how useless their weapons are!
 keywords:
     - Magic

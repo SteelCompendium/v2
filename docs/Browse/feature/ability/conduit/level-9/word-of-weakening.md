@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 10 + I corruption damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 15 + I corruption damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 21 + I corruption damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: While [weakened](../../../../condition/weakened.md) this way, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
+      name: Effect
 flavor: You utter a divine word that makes a foe brittle.
 keywords:
     - Magic

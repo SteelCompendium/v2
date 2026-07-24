@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: 5 x 1 line within 5
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You fire a projectile so fast that it passes through a line of foes, hamstringing them.
 keywords:
     - Area

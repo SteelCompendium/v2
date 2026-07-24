@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: 2 [burst](../../../../rule/combat/burst.md)
-effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 6 damage
+      tier2: 9 damage
+      tier3: 13 damage
+    - effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability.
+      name: Effect
 flavor: You move so quickly, it seems as though an army assaulted your foes.
 keywords:
     - Area

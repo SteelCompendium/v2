@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: You mark the target.
+effects:
+    - effect: You mark the target.
+      name: Effect
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 10 + M damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: Before the start of your next [turn](../../../../rule/combat/turn.md), the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: Your attack demoralizes your foe. Your allies begin to think you can win.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

@@ -5,6 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 9 Clarity
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 10 psychic damage; the target takes a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
+      tier2: 14 psychic damage; the target has a double [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made to harm you or your allies (save ends)
+      tier3: 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)
+    - effect: While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.
+      name: Strained
 flavor: It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!
 keywords:
     - Psionic

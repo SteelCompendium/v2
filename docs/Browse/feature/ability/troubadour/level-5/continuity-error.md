@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../../../../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../../../rule/health/stamina.md), is [weakened](../../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their [turns](../../../../rule/combat/turn.md). If either entity is reduced to 0 [Stamina](../../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../../../rule/health/stamina.md).
+effects:
+    - effect: The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../../../../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../../../rule/health/stamina.md), is [weakened](../../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their [turns](../../../../rule/combat/turn.md). If either entity is reduced to 0 [Stamina](../../../../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../../../rule/health/stamina.md).
+      name: Effect
 flavor: Your subject is written into two places at once.
 keywords:
     - Magic

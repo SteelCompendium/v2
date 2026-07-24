@@ -3,6 +3,11 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md)
+      tier1: 2 + M damage; M < WEAK, [grabbed](../../../condition/grabbed.md)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../condition/grabbed.md)
+      tier3: 11 + M damage; M < STRONG, [grabbed](../../../condition/grabbed.md)
 flavor: Attacks with your sharp and deadly claws grab the weak.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

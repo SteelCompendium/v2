@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 3 + M, R, I, or P holy damage
+      tier2: 5 + M, R, I, or P holy damage
+      tier3: 8 + M, R, I, or P holy damage
+    - effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+      name: Effect
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
     - Magic

@@ -5,7 +5,9 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: fury
 cost: 9 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You target a creature [adjacent](../../../../rule/combat/adjacent.md) to you with the same strike, using the same [power roll](../../../../rule/dice/power-roll.md) as the triggering strike.
+effects:
+    - effect: You target a creature [adjacent](../../../../rule/combat/adjacent.md) to you with the same strike, using the same [power roll](../../../../rule/dice/power-roll.md) as the triggering strike.
+      name: Effect
 flavor: Once you taste your foe's blood, you become more efficient and [turn](../../../../rule/combat/turn.md) every killing blow into an opportunity.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

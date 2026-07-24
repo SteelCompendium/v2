@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
+effects:
+    - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
+      name: Effect
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 damage
+      tier2: 6 damage
+      tier3: 9 damage
 flavor: As you move across the battlefield, every foe within reach feels your wrath.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

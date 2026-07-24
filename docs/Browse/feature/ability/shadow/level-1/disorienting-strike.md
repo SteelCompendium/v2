@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 3 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) into any square the target leaves when you [slide](../../../../movement/forced-movement.md) them.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A damage; [slide](../../../../movement/forced-movement.md) 2
+      tier2: 6 + A damage; [slide](../../../../movement/forced-movement.md) 3
+      tier3: 10 + A damage; [slide](../../../../movement/forced-movement.md) 5
+    - effect: You can [shift](../../../../movement/shifting.md) into any square the target leaves when you [slide](../../../../movement/forced-movement.md) them.
+      name: Effect
 flavor: Your attack leaves them reeling, allowing you to follow up.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

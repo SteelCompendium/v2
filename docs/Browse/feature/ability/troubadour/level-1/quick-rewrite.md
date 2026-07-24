@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 3 Drama
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+    - effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+      name: Effect
 flavor: You write something unexpected into the scene that hinders your enemy.
 keywords:
     - Area

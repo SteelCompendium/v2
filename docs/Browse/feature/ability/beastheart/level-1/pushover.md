@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 3 Ferocity
 distance: Melee 1
-effect: This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](../../../../condition/prone.md) and take extra damage equal to your Intuition score.
+effects:
+    - roll: Power Roll + Might
+      tier1: 5 + M damage; push 2
+      tier2: 8 + M damage; push 4
+      tier3: 11 + M damage; push 6
+    - effect: This forced movement can pass through your space but not end there. If the target passes through your space, they fall [prone](../../../../condition/prone.md) and take extra damage equal to your Intuition score.
+      name: Effect
 flavor: You and your companion surround your foe in order to bring them down.
 keywords:
     - Companion

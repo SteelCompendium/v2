@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 7 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: One ally within [distance](../../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 7 + I corruption damage
+      tier2: 10 + I corruption damage
+      tier3: 15 + I corruption damage
+    - effect: One ally within [distance](../../../../rule/combat/distance.md) can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
 keywords:
     - Magic

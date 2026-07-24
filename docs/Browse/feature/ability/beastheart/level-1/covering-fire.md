@@ -4,7 +4,13 @@ printing_book: "The Beastheart"
 action_type: Main action
 class: beastheart
 distance: Ranged 5
-effect: If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
+effects:
+    - roll: Power Roll + Intuition
+      tier1: 2 + I damage
+      tier2: 4 + I damage
+      tier3: 6 + I damage
+    - effect: If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
+      name: Effect
 flavor: Keep your head down, or I'll shoot it off!
 keywords:
     - Beastheart

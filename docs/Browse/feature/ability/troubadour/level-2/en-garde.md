@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 5 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 7 + **A** damage
+      tier2: 11 + **A** damage
+      tier3: 16 + **A** damage
+    - effect: The target can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) against the target.
+      name: Effect
 flavor: Wait, it's... Guard! [Turn](../../../../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

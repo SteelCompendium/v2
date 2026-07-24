@@ -5,7 +5,11 @@ action_type: Maneuver
 class: beastheart
 companion: hellhound
 distance: Melee 1 or Ranged 2
-effect: The target takes fire damage equal to 3 + the hellhound's Might score.
+effects:
+    - effect: The target takes fire damage equal to 3 + the hellhound's Might score.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.
 flavor: The hellhound exhales infernal flames.
 keywords:
     - Companion
@@ -15,7 +19,6 @@ keywords:
 level: "1"
 name: Fire Breath
 scc: mcdm.beastheart.v1/feature.ability.companion.beastheart.hellhound.level-1/fire-breath
-spend: '1 Ferocity: This ability gains a bonus to either its damage or distance equal to the hellhound''s Intuition score.'
 subtype: signature
 target: One creature or object
 type: ability

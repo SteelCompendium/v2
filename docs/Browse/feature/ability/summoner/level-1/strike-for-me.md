@@ -4,7 +4,15 @@ printing_book: "The Summoner"
 action_type: Free triggered
 class: summoner
 distance: Summoner's Range
-effect: Your minions act in place of you making a [free strike](../../../common/main-actions/free-strike.md) or using a [signature ability](../../../../rule/combat/signature-ability.md). If you were granted the [triggered action](../../../../rule/combat/triggered-action.md) against a specific target, your minions must strike the same target. If the [triggered action](../../../../rule/combat/triggered-action.md) granted you a [signature ability](../../../../rule/combat/signature-ability.md), you have an [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: Up to three targets each make a [free strike](../../../common/main-actions/free-strike.md)
+      tier2: Up to five targets each make a [free strike](../../../common/main-actions/free-strike.md)
+      tier3: Up to seven targets each make a [free strike](../../../common/main-actions/free-strike.md)
+    - effect: On a [natural 19 or 20](../../../../rule/dice/natural-19-20.md), each target makes a [free strike](../../../common/main-actions/free-strike.md).
+      name: Special
+    - effect: Your minions act in place of you making a [free strike](../../../common/main-actions/free-strike.md) or using a [signature ability](../../../../rule/combat/signature-ability.md). If you were granted the [triggered action](../../../../rule/combat/triggered-action.md) against a specific target, your minions must strike the same target. If the [triggered action](../../../../rule/combat/triggered-action.md) granted you a [signature ability](../../../../rule/combat/signature-ability.md), you have an [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md).
+      name: Effect
 feature_source: summoner
 flavor: Your minions fight in your stead.
 keywords:

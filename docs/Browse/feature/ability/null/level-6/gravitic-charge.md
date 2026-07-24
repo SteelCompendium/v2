@@ -5,7 +5,13 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: This movement ignores [stability](../../../../rule/character/stability.md). If you [slide](../../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: Vertical [slide](../../../../movement/forced-movement.md) 5
+      tier2: Vertical [slide](../../../../movement/forced-movement.md) 7
+      tier3: Vertical [slide](../../../../movement/forced-movement.md) 9
+    - effect: This movement ignores [stability](../../../../rule/character/stability.md). If you [slide](../../../../movement/forced-movement.md) into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+      name: Effect
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
     - Psionic

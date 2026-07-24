@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
+      name: Effect
 flavor: The tide begins to [turn](../../../../rule/combat/turn.md).
 keywords: []
 level: "3"

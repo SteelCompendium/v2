@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M damage
+      tier2: 6 + M damage
+      tier3: 9 + M damage
+    - effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an [opportunity attack](../../../../rule/combat/opportunity-attack.md) against you as a free [triggered action](../../../../rule/combat/triggered-action.md).
+      name: Effect
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

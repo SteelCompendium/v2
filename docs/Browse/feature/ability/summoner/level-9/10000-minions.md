@@ -4,7 +4,9 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Special
-effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each square on the ground is considered teeming with minions. An enemy that ends their [turn](../../../../rule/combat/turn.md) in an affected square takes 5 [damage](../../../../rule/damage/damage.md). This [damage](../../../../rule/damage/damage.md) can't be reduced.
+effects:
+    - effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each square on the ground is considered teeming with minions. An enemy that ends their [turn](../../../../rule/combat/turn.md) in an affected square takes 5 [damage](../../../../rule/damage/damage.md). This [damage](../../../../rule/damage/damage.md) can't be reduced.
+      name: Effect
 feature_source: summoner
 flavor: The battle is now a war. Your entire army storms the field.
 keywords:

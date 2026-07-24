@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 10 x 2 line within 5
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 5 damage; M < WEAK, [prone and](../../../../condition/prone.md) can't stand (save ends)
+      tier2: 8 damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
+      tier3: 11 damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 flavor: Animal spirits run through the battlefield, trampling your foes.
 keywords:
     - Area

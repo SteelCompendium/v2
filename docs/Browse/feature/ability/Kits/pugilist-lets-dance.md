@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you [slide](../../../movement/forced-movement.md) them.
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage
+      tier2: 6 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+      tier3: 8 + M or A damage; [slide](../../../movement/forced-movement.md) 2
+    - effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you [slide](../../../movement/forced-movement.md) them.
+      name: Effect
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

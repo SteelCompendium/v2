@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: 5 cube within 1
-effect: While [restrained](../../../../condition/restrained.md) this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.
+effects:
+    - roll: Power Roll + Might
+      tier1: 5 cold damage; I < WEAK [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 7 cold damage; I < AVERAGE [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 12 cold damage; I < STRONG [restrained](../../../../condition/restrained.md) (save ends)
+    - effect: While [restrained](../../../../condition/restrained.md) this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.
+      name: Effect
 flavor: Black frost freezes boots to the floor and creeps up trapped victims until they're completely encased in ice.
 keywords:
     - Area

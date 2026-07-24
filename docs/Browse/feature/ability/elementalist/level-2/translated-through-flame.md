@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
+effects:
+    - effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
+      name: Effect
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 fire damage
+      tier2: 5 fire damage
+      tier3: 8 fire damage
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire

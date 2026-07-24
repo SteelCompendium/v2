@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: 'When you make this [strike](../../../../rule/combat/strike.md), choose the [damage type](../../../../rule/damage/damage-type.md) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R damage
+      tier2: 4 + R damage
+      tier3: 6 + R damage
+    - effect: 'When you make this [strike](../../../../rule/combat/strike.md), choose the [damage type](../../../../rule/damage/damage-type.md) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.'
+      name: Effect
 flavor: You cast a ball of elemental energy at a foe.
 keywords:
     - Magic

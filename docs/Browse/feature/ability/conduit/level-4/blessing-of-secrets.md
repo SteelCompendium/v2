@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+effects:
+    - effect: Each creature in the area has a double [edge](../../../../rule/dice/edge.md) on [tests](../../../../rule/test/test.md) made to [hide](../../../../skill/intrigue/hide.md) or [sneak](../../../../skill/intrigue/sneak.md). The [aura](../../../../rule/combat/aura.md) lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
+      name: Effect
 flavor: You project an illusory [aura](../../../../rule/combat/aura.md) that makes you and allies harder to notice.
 keywords:
     - Area

@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target takes half the triggering damage, or the [distance](../../../../rule/combat/distance.md) of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can [push](../../../../movement/forced-movement.md) the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+effects:
+    - effect: The target takes half the triggering damage, or the [distance](../../../../rule/combat/distance.md) of the triggering [forced movement](../../../../movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../../../movement/forced-movement.md) is reduced to 0 squares, the target can [push](../../../../movement/forced-movement.md) the source of the [forced movement](../../../../movement/forced-movement.md) a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+      name: Effect
 flavor: They aren't going anywhere, but you might!
 keywords:
     - Psionic

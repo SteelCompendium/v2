@@ -3,6 +3,11 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 2'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+      tier2: 6 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) ([EoT](../../../rule/combat/end-of-turn.md))
+      tier3: 8 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) ([EoT](../../../rule/combat/end-of-turn.md))
 flavor: The well-thrown net that follows your main attack leaves your foes right where you want them.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

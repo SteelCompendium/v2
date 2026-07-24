@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../../rule/character/potency.md) at the end of the encounter.
+effects:
+    - effect: You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../../common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../../../rule/character/potency.md) at the end of the encounter.
+      name: Effect
 flavor: A well-timed throw of a potion will keep your allies in the fight.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

@@ -5,7 +5,15 @@ action_type: Main action
 class: beastheart
 cost: 5 Ferocity
 distance: 2 burst
-effect: Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
+effects:
+    - effect: This ability targets only enemies with line of effect to your companion.
+      name: Special
+    - effect: Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
+      name: Effect
+    - roll: Power Roll + Intuition
+      tier1: 4 damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 6 damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 10 damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 flavor: Surprised to see me?
 keywords:
     - Area

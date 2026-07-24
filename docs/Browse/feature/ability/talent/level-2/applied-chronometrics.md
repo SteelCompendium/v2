@@ -5,7 +5,15 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their [turn](../../../../rule/combat/turn.md). If a target is already [dazed](../../../../condition/dazed.md), that [condition](../../../../rule/combat/condition.md) ends for them.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: You target two creatures, one of which can be you.
+      tier2: You target three creatures, one of which can be you.
+      tier3: You target four creatures, one of which can be you.
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md), they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their [turn](../../../../rule/combat/turn.md). If a target is already [dazed](../../../../condition/dazed.md), that [condition](../../../../rule/combat/condition.md) ends for them.
+      name: Effect
+    - effect: Your [speed](../../../../rule/character/speed.md) is halved until the end of the encounter.
+      name: Strained
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
     - Chronopathy

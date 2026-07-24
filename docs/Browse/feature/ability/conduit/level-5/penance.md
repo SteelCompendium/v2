@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 4 corruption damage; I < WEAK, [prone and](../../../../condition/prone.md) can't stand (save ends)
+      tier2: 7 corruption damage; I < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
+      tier3: 11 corruption damage; I < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 flavor: '"If you won''t kneel, the gods will make you."'
 keywords:
     - Area

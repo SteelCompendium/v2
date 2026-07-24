@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: 2 [cube](../../../../rule/combat/cube.md) within 10
-effect: The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 damage
+      tier2: 5 damage
+      tier3: 7 damage
+    - effect: The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
+      name: Effect
 flavor: A sudden storm of detritus assaults your foes and leaves them struggling to move.
 keywords:
     - Area

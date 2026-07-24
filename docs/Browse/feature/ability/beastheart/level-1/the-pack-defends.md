@@ -4,14 +4,17 @@ printing_book: "The Beastheart"
 action_type: Triggered Action
 class: beastheart
 distance: Melee 1
-effect: The target takes half the damage.
+effects:
+    - effect: The target takes half the damage.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.
 flavor: You siphon away the pain and endure it yourself.
 keywords:
     - Magic
 level: "1"
 name: The Pack Defends
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends
-spend: '1 Ferocity: You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.'
 subclass: guardian
 target: One ally
 trigger: The target takes damage.

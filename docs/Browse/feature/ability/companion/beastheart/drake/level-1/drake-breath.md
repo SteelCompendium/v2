@@ -5,7 +5,11 @@ action_type: Maneuver
 class: beastheart
 companion: drake
 distance: 1 or 2 cube within 1
-effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../../../../companion/beastheart/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
+effects:
+    - effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../../../../companion/beastheart/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
+      name: Effect
+    - cost: Spend 1 or 2 Ferocity
+      effect: This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.
 flavor: The drake exhales a blast of flesh-melting energy.
 keywords:
     - Area
@@ -14,7 +18,6 @@ keywords:
 level: "1"
 name: Drake Breath
 scc: mcdm.beastheart.v1/feature.ability.companion.beastheart.drake.level-1/drake-breath
-spend: '1 or 2 Ferocity: This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.'
 subtype: signature
 target: Each creature in the area
 type: ability

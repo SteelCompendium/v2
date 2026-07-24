@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 9 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: The target can't communicate with anyone until the end of the encounter.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 10 + A damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 15 + A damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 21 + A damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    - effect: The target can't communicate with anyone until the end of the encounter.
+      name: Effect
 flavor: Silence is a virtue. A knife pinning their mouth shut is the next best thing.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

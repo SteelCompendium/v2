@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 distance: 2 [cube](../../../../rule/combat/cube.md) within 1
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 holy damage; [push](../../../../movement/forced-movement.md) 1
+      tier2: 4 holy damage; [push](../../../../movement/forced-movement.md) 2
+      tier3: 6 holy damage; [push](../../../../movement/forced-movement.md) 3
 flavor: You channel power through your weapon to repel foes.
 keywords:
     - Area

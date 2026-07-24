@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before one or both allies has made their [strike](../../../../rule/combat/strike.md), the ally or allies can pick a different target.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 6 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free [triggered action](../../../../rule/combat/triggered-action.md), and can use a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
+      tier2: 9 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free [triggered action](../../../../rule/combat/triggered-action.md), and can use a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
+      tier3: 13 + M damage; two allies within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free [triggered action](../../../../rule/combat/triggered-action.md), and can each use a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
+    - effect: If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../../../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before one or both allies has made their [strike](../../../../rule/combat/strike.md), the ally or allies can pick a different target.
+      name: Effect
 flavor: You lead your allies in a charge.
 keywords:
     - Charge

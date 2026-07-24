@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../../../../rule/combat/distance.md), you can choose to take the damage instead of the target.
+effects:
+    - effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../../../../rule/combat/distance.md), you can choose to take the damage instead of the target.
+      name: Effect
 flavor: You play a small ditty that plants you inside your target's heart.
 keywords:
     - Magic

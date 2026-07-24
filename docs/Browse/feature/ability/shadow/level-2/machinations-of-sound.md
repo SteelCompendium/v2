@@ -5,7 +5,13 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 4'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 5'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 7'
+    - effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+      name: Effect
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
     - Area

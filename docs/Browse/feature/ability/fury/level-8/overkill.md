@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: If the target is a minion or is [winded](../../../../rule/health/winded.md) but isn't a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md) before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 6 + M damage
+      tier2: 10 + M damage
+      tier3: 14 + M damage
+    - effect: If the target is a minion or is [winded](../../../../rule/health/winded.md) but isn't a leader or solo creature, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md) before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
+      name: Effect
 flavor: You strike so no damage is wasted.
 keywords:
     - Magic

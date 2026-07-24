@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each target can make a [free strike](../../../common/main-actions/free-strike.md).
+effects:
+    - effect: Each target can make a [free strike](../../../common/main-actions/free-strike.md).
+      name: Effect
 flavor: Your allies wait for your command—then unleash death!
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

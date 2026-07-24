@@ -3,6 +3,11 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 3 + M or A damage; you can [shift](../../../movement/shifting.md) 1 square
+      tier2: 6 + M or A damage; you can [shift](../../../movement/shifting.md) up to 2 squares
+      tier3: 8 + M or A damage; you can [shift](../../../movement/shifting.md) up to 3 squares
 flavor: A stab, and a few quick, careful steps back.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

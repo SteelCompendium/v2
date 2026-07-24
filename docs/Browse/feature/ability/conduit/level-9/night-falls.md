@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
+      name: Effect
 flavor: You summon darkness that thwarts only your foes.
 keywords:
     - Area

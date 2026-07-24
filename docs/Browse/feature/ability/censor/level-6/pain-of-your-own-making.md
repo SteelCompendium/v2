@@ -5,7 +5,9 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
+effects:
+    - effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
+      name: Effect
 flavor: You reverse the effects from an evildoer.
 keywords:
     - Magic

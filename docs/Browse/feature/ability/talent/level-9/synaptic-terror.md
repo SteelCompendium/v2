@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../../../rule/dice/power-roll.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../../../../rule/dice/power-roll.md).
+effects:
+    - effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../../../rule/dice/power-roll.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../../../../rule/dice/power-roll.md).
+      name: Effect
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
+    - effect: You can't use this ability if doing so would cause you to have negative clarity.
+      name: Strained
 flavor: You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.
 keywords:
     - Area

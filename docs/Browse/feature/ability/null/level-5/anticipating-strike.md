@@ -5,7 +5,13 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: "null"
 cost: 9 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: This [strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 7 + A damage; I < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 10 + A damage; I < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 13 + A damage; I < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+    - effect: This [strike](../../../../rule/combat/strike.md) resolves before the triggering movement or main action.
+      name: Effect
 flavor: You suddenly strike an enemy, then grab them in a psionically enhanced grip.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

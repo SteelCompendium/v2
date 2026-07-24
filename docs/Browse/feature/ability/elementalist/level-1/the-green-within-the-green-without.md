@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R damage
+      tier2: 5 + R damage
+      tier3: 7 + R damage
+    - effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
+      name: Effect
 flavor: Whipping vines erupt from a foe's body to grasp at another close by.
 keywords:
     - Green

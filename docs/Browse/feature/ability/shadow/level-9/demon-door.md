@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 11 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 3'
-effect: On a [critical hit](../../../../rule/combat/critical-hit.md), the target is [grabbed](../../../../condition/grabbed.md) by the demon and [pulled](../../../../movement/forced-movement.md) through the portal before it closes, never to be seen again.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 13 + A corruption damage; [push](../../../../movement/forced-movement.md) 3
+      tier2: 18 + A corruption damage; [push](../../../../movement/forced-movement.md) 5
+      tier3: 25 + A corruption damage; [push](../../../../movement/forced-movement.md) 7
+    - effect: On a [critical hit](../../../../rule/combat/critical-hit.md), the target is [grabbed](../../../../condition/grabbed.md) by the demon and [pulled](../../../../movement/forced-movement.md) through the portal before it closes, never to be seen again.
+      name: Effect
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
 keywords:
     - Magic

@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 7 Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 3 damage
+      tier2: 6 damage
+      tier3: 9 damage
+    - effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
+      name: Effect
+    - effect: You make the [power roll](../../../../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next [turn](../../../../rule/combat/turn.md).
+      name: Persistent 1
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
     - Area

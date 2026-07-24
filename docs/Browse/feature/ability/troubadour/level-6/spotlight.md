@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../../rule/combat/turn.md) if they don't spend it.
+effects:
+    - effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../../../rule/combat/turn.md) if they don't spend it.
+      name: Effect
 flavor: The audience is watching, so you'd better give them a show.
 keywords:
     - Area

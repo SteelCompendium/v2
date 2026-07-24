@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: Main action
 ancestry: time-raider
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 2 + R, I, or P damage;
+      tier2: 5 + R, I, or P damage; [push](../../../movement/forced-movement.md) 1
+      tier3: 7 + R, I, or P damage; [push](../../../movement/forced-movement.md) 2; M < STRONG, [prone](../../../condition/prone.md)
 flavor: You slam an invisible force down upon the target.
 keywords:
     - Psionic

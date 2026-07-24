@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
+effects:
+    - effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
+      name: Effect
 flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
 keywords:
     - Magic

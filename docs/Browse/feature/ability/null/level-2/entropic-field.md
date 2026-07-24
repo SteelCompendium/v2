@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: 3 [cube](../../../../rule/combat/cube.md) within 1
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You drastically increase the local entropy.
 keywords:
     - Area

@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or they can stand up if [prone](../../../../condition/prone.md).
+effects:
+    - effect: Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or they can stand up if [prone](../../../../condition/prone.md).
+      name: Effect
 flavor: With a gesture, you restore your health and that of your allies.
 keywords:
     - Area

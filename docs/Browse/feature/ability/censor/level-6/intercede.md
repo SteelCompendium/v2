@@ -5,7 +5,9 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md).
+effects:
+    - effect: The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: You take your ally's place.
 keywords:
     - Magic

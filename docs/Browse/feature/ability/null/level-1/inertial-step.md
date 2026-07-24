@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 5 + A damage
+      tier2: 7 + A damage
+      tier3: 10 + A damage
+    - effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
+      name: Effect
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

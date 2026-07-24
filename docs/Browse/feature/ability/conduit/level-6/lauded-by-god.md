@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each target gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
+effects:
+    - effect: Each target gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
+      name: Effect
 flavor: You beseech the gods to give your allies what they need to win the day, and the gods answer.
 keywords:
     - Magic

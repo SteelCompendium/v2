@@ -5,7 +5,11 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md).
+effects:
+    - effect: The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md).
+      name: Effect
+    - effect: You can't use maneuvers (save ends).
+      name: Strained
 flavor: The target's skin becomes covered in tough metal.
 keywords:
     - Metamorphosis

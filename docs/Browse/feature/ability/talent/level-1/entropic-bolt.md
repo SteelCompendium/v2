@@ -4,7 +4,15 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 5 + P corruption damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
+      name: Effect
+    - effect: You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md).
+      name: Strained
 flavor: You advance an enemy's age for a moment.
 keywords:
     - Chronopathy

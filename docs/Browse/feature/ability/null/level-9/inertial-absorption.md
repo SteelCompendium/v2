@@ -5,7 +5,9 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
+effects:
+    - effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: You absorb an attack to empower your body.
 keywords:
     - Psionic

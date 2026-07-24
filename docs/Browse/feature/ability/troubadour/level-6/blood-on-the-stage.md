@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 12 + A damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 18 + A damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 24 + A damage; [bleeding](../../../../condition/bleeding.md) ([EoT](../../../../rule/combat/end-of-turn.md)), or if M < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 flavor: It's love and blood or drama and blood. Either way, there's always blood.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

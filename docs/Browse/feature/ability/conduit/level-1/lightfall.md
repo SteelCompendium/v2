@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: 2 [burst](../../../../rule/combat/burst.md)
-effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 holy damage
+      tier2: 3 holy damage
+      tier3: 5 holy damage
+    - effect: You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
+      name: Effect
 flavor: A rain of holy light scours your enemies and repositions your allies.
 keywords:
     - Area

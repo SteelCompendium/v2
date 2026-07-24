@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 flavor: You skewer your enemy like a boar upon a spit.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

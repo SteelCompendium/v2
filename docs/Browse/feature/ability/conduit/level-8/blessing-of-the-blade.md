@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: At the end of each of your [turns](../../../../rule/combat/turn.md) until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 3 [surges](../../../../rule/resource/surge.md).
+effects:
+    - effect: At the end of each of your [turns](../../../../rule/combat/turn.md) until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 3 [surges](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
 keywords:
     - Area

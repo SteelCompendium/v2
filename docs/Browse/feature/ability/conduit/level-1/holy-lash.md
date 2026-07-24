@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 2
+      tier2: 5 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 3
+      tier3: 8 + I holy damage; vertical [pull](../../../../movement/forced-movement.md) 4
 flavor: A tendril of divine energy shoots forth to draw in your foe.
 keywords:
     - Magic

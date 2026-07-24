@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: 10 wall within 10
-effect: You can place this wall in occupied squares, [sliding](../../../../movement/forced-movement.md) each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../../../rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../../condition/restrained.md) (save ends).
+effects:
+    - effect: You can place this wall in occupied squares, [sliding](../../../../movement/forced-movement.md) each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../../../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../../../rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../../../condition/slowed.md) (save ends). Each enemy who is [force moved](../../../../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../../../condition/restrained.md) (save ends).
+      name: Effect
 flavor: You create a [wall of ice](wall-of-ice.md).
 keywords:
     - Area

@@ -4,7 +4,15 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 4 + P psychic damage
+      tier2: 5 + P psychic damage
+      tier3: 7 + P psychic damage
+    - effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
+      name: Effect
+    - cost: Spend 1 Drama
+      effect: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
 keywords:
     - Magic
@@ -15,7 +23,6 @@ level: "1"
 name: Witty Banter
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
-spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
 subtype: signature
 target: One creature
 tier1: 4 + P psychic damage

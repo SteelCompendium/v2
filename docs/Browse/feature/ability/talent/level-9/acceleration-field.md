@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
-effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../../rule/combat/turn.md).
+      name: Effect
+    - effect: Make a [power roll](../../../../rule/dice/power-roll.md) that targets you and each enemy within [distance](../../../../rule/combat/distance.md).
+      name: Strained
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
     - Chronopathy

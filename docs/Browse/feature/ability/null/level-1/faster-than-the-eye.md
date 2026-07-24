@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 damage
+      tier2: 5 damage
+      tier3: 7 damage
+    - effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
+      name: Effect
 flavor: You strike so quickly that your hands become a blur.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

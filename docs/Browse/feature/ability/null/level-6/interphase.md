@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: You can use up to three [signature abilities](../../../../rule/combat/signature-ability.md), each of which gains an [edge](../../../../rule/dice/edge.md).
+effects:
+    - effect: You can use up to three [signature abilities](../../../../rule/combat/signature-ability.md), each of which gains an [edge](../../../../rule/dice/edge.md).
+      name: Effect
 flavor: You slip into a faster timestream to act more quickly.
 keywords:
     - Psionic

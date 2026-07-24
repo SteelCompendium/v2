@@ -5,7 +5,9 @@ action_type: Maneuver
 class: beastheart
 cost: 9 Ferocity
 distance: Self
-effect: Your companion [shifts](../../../../movement/shifting.md) up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion's starting position can shift up to their speed and make free strikes.
+effects:
+    - effect: Your companion [shifts](../../../../movement/shifting.md) up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion's starting position can shift up to their speed and make free strikes.
+      name: Effect
 flavor: Roaring like wild beasts, your companion and your allies rush toward the foe.
 keywords:
     - Companion

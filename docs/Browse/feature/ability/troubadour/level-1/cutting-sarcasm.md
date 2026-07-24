@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 flavor: There you are, radiating your usual charisma.
 keywords:
     - Magic

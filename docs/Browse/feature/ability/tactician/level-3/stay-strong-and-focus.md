@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: '"We can do this! Keep faith and hold fast!"'
 keywords: []
 level: "3"

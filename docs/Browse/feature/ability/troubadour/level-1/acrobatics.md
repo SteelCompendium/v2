@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[No action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../../../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: Folks love a good tumble.
 keywords:
     - Area

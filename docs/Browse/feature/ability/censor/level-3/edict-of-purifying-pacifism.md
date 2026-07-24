@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 7 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target makes a [strike](../../../../rule/combat/strike.md), they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target makes a [strike](../../../../rule/combat/strike.md), they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage.
+      name: Effect
 flavor: You shed a righteous energy that punishes enemies who would harm you or your allies.
 keywords:
     - Area

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 7 Piety
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 holy damage
+      tier2: 5 holy damage
+      tier3: 7 holy damage
+    - effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: Your [saint](../../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.
 keywords:
     - Area

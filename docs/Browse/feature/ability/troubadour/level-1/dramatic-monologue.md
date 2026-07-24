@@ -4,7 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: 'Choose one of the following effects:'
+effects:
+    - effect: 'Choose one of the following effects:'
+      name: Effect
+    - cost: Spend 1 Drama
+      effect: You can choose two targets for the chosen effect.
 flavor: It doesn't need to make sense. Just say it with emotion.
 keywords:
     - Magic
@@ -12,7 +16,6 @@ keywords:
 level: "1"
 name: Dramatic Monologue
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue
-spend: '1 Drama: You can choose two targets for the chosen effect.'
 subclass: auteur
 target: Special
 type: ability

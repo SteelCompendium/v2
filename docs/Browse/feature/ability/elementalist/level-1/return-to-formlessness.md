@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
+effects:
+    - effect: You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
+      name: Effect
 flavor: With the merest touch, you cause an object to turn to slag or ash.
 keywords:
     - Fire

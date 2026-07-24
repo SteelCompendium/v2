@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 11 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score at the start of their [turns](../../../../rule/combat/turn.md), whenever they use a [supernatural](../../../../rule/general/supernatural.md) ability, or whenever they use an ability that costs Malice.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 13 + A damage; M < WEAK, the target is suppressed (save ends)
+      tier2: 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
+      tier3: 24 + A damage; M < STRONG, the target is suppressed (save ends)
+    - effect: While suppressed, a target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score at the start of their [turns](../../../../rule/combat/turn.md), whenever they use a [supernatural](../../../../rule/general/supernatural.md) ability, or whenever they use an ability that costs Malice.
+      name: Effect
 flavor: You focus your [null field](../../../null/level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A damage; A < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 flavor: You contort your enemy's body into a stance they struggle to escape from.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

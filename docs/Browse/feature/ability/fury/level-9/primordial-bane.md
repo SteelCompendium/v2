@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any [damage immunity](../../../../rule/damage/damage-immunity.md) to the chosen type and gains weakness 10 to the chosen type (save ends).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 11 + M damage
+      tier2: 16 + M damage
+      tier3: 21 + M damage
+    - effect: Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any [damage immunity](../../../../rule/damage/damage-immunity.md) to the chosen type and gains weakness 10 to the chosen type (save ends).
+      name: Effect
 flavor: You attune the target to be weaker to a specific element.
 keywords:
     - Magic

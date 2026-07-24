@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 9 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../../rule/character/might.md) score at the start of each of your [turns](../../../../rule/combat/turn.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 8 damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+      tier2: 13 damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+      tier3: 17 damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
+    - effect: You can [shift](../../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../../rule/character/might.md) score at the start of each of your [turns](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: You strike at the target like the ultimate predator you are.
 keywords:
     - Magic

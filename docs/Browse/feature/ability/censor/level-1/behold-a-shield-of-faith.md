@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 3 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Until the start of your next [turn](../../../../rule/combat/turn.md), enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M holy damage
+      tier2: 6 + M holy damage
+      tier3: 9 + M holy damage
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), enemies take a [bane](../../../../rule/dice/bane.md) on [ability rolls](../../../../rule/dice/ability-roll.md) made against you or any ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+      name: Effect
 flavor: A mighty blow [turns](../../../../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

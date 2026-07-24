@@ -5,7 +5,9 @@ action_type: Main action
 class: beastheart
 cost: 11 Ferocity
 distance: Melee 1
-effect: You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can't affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can't move or [teleport](../../../../movement/teleport.md) away from each other, but can otherwise act normally.
+effects:
+    - effect: You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can't affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can't move or [teleport](../../../../movement/teleport.md) away from each other, but can otherwise act normally.
+      name: Effect
 flavor: Your companion drags your chosen foe into storms of the Primordial Plane.
 keywords:
     - Companion

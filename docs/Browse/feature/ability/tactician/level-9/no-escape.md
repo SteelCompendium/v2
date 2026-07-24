@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You mark the target.
+effects:
+    - effect: You mark the target.
+      name: Effect
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 11 + M damage
+      tier2: 16 + M damage
+      tier3: 21 + M damage
+    - effect: If you use this ability as part of the [Charge](../../../common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can [slide](../../../../movement/forced-movement.md) that creature 1 square out of the path of your charge.
+      name: Effect
 flavor: Nothing will stop you from reaching your foe.
 keywords:
     - Charge

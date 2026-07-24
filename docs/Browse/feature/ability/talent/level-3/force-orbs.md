@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 7 Clarity
 distance: Self; see below
-effect: You create three [size](../../../../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../../../../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
+effects:
+    - effect: You create three [size](../../../../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../../../../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
+      name: Effect
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 damage
+      tier2: 3 damage
+      tier3: 5 damage
+    - effect: You create five orbs, and you are [weakened](../../../../condition/weakened.md) while you have any orbs active.
+      name: Strained
 flavor: Spheres of solid psionic energy float around you.
 keywords:
     - Psionic

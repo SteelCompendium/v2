@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 3 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 5 + P holy damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 8 + P holy damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 11 + P holy damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 flavor: You conjure memories of their sins to harry your foes.
 keywords:
     - Magic

@@ -5,7 +5,11 @@ action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: talent
 cost: 3 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is [teleport](../../../../movement/teleport.md)ed to an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+effects:
+    - effect: The target is [teleport](../../../../movement/teleport.md)ed to an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+      name: Effect
+    - effect: You can't target yourself, and you take the damage and any additional effects instead of the target.
+      name: Strained
 flavor: You freeze time just long enough to bring the victim to safety!
 keywords:
     - Psionic

@@ -4,7 +4,15 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Summoner's Range
-effect: The [minions](../../../summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../../summoner/level-1/minions.md) immediately moves up to their [speed](../../../../rule/character/speed.md) toward a creature or object.
+effects:
+    - roll: Power Roll + Reason
+      tier1: You summon four [signature minions](../../../summoner/level-1/minions.md).
+      tier2: You summon five [signature minions](../../../summoner/level-1/minions.md).
+      tier3: You summon six [signature minions](../../../summoner/level-1/minions.md).
+    - effect: The [minions](../../../summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../../summoner/level-1/minions.md) immediately moves up to their [speed](../../../../rule/character/speed.md) toward a creature or object.
+      name: Effect
+    - effect: In addition to the [minions](../../../summoner/level-1/minions.md) summoned as a part of this ability, you can choose to command any number of your [minions](../../../summoner/level-1/minions.md) within distance, provided they haven't used a main action or maneuver during the [turn](../../../../rule/combat/turn.md).
+      name: Special
 feature_source: summoner
 flavor: Your minions swell with energy until they can no longer exist in this realm.
 keywords:

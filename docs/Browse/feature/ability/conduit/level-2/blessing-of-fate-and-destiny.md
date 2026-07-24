@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../../../../rule/health/dying.md):'
+effects:
+    - effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../../../../rule/health/dying.md):'
+      name: Effect
 flavor: Your enemies suffer their fate; your allies embrace their destiny!
 keywords:
     - Magic

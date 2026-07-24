@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their [turn](../../../../rule/combat/turn.md) within 5 squares of them must use a [free maneuver](../../../../rule/combat/free-maneuver.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 5 + P damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 9 + P damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 12 + P damage; I < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their [turn](../../../../rule/combat/turn.md) within 5 squares of them must use a [free maneuver](../../../../rule/combat/free-maneuver.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
+      name: Effect
 flavor: You [turn](../../../../rule/combat/turn.md) your enemies' ire to the target.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

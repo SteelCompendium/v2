@@ -5,6 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 11 Essence
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 6 damage
+      tier2: 9 damage
+      tier3: 13 damage
+    - effect: At the start of your [turn](../../../../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
+      name: Persistent 2
 flavor: Everyone and everything gets blown away in an eruption of rocks and debris.
 keywords:
     - Area

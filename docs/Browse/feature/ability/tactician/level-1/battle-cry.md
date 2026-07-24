@@ -5,6 +5,11 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 3 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
+      tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
+      tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: You shout a phrase that galvanizes your team.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

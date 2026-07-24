@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
+effects:
+    - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
+      name: Effect
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 damage; A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 4 damage; A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 6 damage; A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 flavor: Organizing your forces like feckless creatures of Law. Pitiful.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

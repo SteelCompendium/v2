@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever any target takes a [triggered action](../../../../rule/combat/triggered-action.md) or a free [triggered action](../../../../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever any target takes a [triggered action](../../../../rule/combat/triggered-action.md) or a free [triggered action](../../../../rule/combat/triggered-action.md), that action is negated and the target takes holy damage equal to your [Presence](../../../../rule/character/presence.md) score.
+      name: Effect
 flavor: You anticipate your foes' moves and deny them.
 keywords:
     - Area

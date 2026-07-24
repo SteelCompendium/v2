@@ -5,6 +5,11 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+      tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+      tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
 flavor: Dazzle them with your fancy patter and they forget where they were.
 keywords:
     - Magic

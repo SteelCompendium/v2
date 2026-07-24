@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice.
+effects:
+    - effect: You use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) twice.
+      name: Effect
 flavor: They have no idea what the college taught you.
 keywords:
     - Magic

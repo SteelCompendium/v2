@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 7 Ferocity
 distance: Melee 1 or ranged 5
-effect: The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.
+effects:
+    - roll: Power Roll + Might
+      tier1: 9 + M damage
+      tier2: 14 + M damage
+      tier3: 19 + M damage
+    - effect: The next creature who damages the target before the start of your next turn gains 3 surges, which they can use on the triggering damage.
+      name: Effect
 flavor: You smash through their guard and shatter their armor, leaving them wide open.
 keywords:
     - Beastheart

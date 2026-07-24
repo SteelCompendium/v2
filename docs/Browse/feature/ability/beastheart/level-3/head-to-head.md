@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 7 Ferocity
 distance: Melee 1
-effect: You are [bleeding](../../../../condition/bleeding.md) (save ends). Until the end of your next turn, your companion gains an edge on power rolls.
+effects:
+    - roll: Power Roll + Might
+      tier1: 13 + M damage; P < WEAK [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 19 + M damage; P < AVERAGE [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 25 + M damage; P < STRONG [dazed](../../../../condition/dazed.md) (save ends)
+    - effect: You are [bleeding](../../../../condition/bleeding.md) (save ends). Until the end of your next turn, your companion gains an edge on power rolls.
+      name: Effect
 flavor: Your bloody-forehead smash drives your companion into a frenzy.
 keywords:
     - Beastheart

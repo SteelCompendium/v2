@@ -4,7 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target shifts up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+effects:
+    - effect: The target shifts up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score.
+      name: Effect
+    - cost: Spend 2 Clarity
+      effect: The target can use a maneuver.
 flavor: To your ally, it seems as though the world has slowed down.
 keywords:
     - Psionic
@@ -12,7 +16,6 @@ keywords:
 level: "1"
 name: Accelerate
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/accelerate
-spend: '2 Clarity: The target can use a maneuver.'
 subclass: chronopathy
 target: Self or one creature
 type: ability

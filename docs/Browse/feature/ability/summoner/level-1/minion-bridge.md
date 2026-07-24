@@ -4,7 +4,11 @@ printing_book: "The Summoner"
 action_type: Maneuver
 class: summoner
 distance: Melee 1
-effect: You [shift](../../../../movement/shifting.md) into a square adjacent to the target, including vertically.
+effects:
+    - effect: You [shift](../../../../movement/shifting.md) into a square adjacent to the target, including vertically.
+      name: Effect
+    - effect: An adjacent ally can [shift](../../../../movement/shifting.md) alongside you during this movement. They must end their movement in an unoccupied square adjacent to the last minion you moved through.
+      name: 1 Essence
 feature_source: summoner
 flavor: Your minions do everything in their power to form a safe path for you to cross.
 keywords:

@@ -5,7 +5,11 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When [pushing](../../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When [pushing](../../../../movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a [turn](../../../../rule/combat/turn.md).
+      name: Effect
+    - effect: You are [weakened](../../../../condition/weakened.md) (save ends). While you are [weakened](../../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md).
+      name: Strained
 flavor: Your psionic energy surrounds the target and pushes everything else away from them.
 keywords:
     - Psionic

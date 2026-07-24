@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 9 fire damage
+      tier2: 14 fire damage
+      tier3: 19 fire damage
 flavor: You call down a sphere of fire that burns your foes to ash.
 keywords:
     - Area

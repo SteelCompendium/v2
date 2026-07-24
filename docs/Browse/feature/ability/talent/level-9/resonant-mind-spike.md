@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 11 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 15 + R psychic damage
+      tier2: 24 + R psychic damage
+      tier3: 28 + R psychic damage
+    - effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
+      name: Effect
+    - effect: The [ability roll](../../../../rule/dice/ability-roll.md) scores a [critical hit](../../../../rule/combat/critical-hit.md) on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
+      name: Strained
 flavor: You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.
 keywords:
     - Psionic

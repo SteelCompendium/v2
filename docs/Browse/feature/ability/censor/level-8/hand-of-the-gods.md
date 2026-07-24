@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../../../../rule/combat/flanking.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 10 + M damage
+      tier2: 15 + M damage
+      tier3: 21 + M damage
+    - effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../../../../rule/combat/flanking.md).
+      name: Effect
 flavor: You use your foe as a tool against your enemies.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

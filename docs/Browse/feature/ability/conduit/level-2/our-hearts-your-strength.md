@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Until the end of the encounter or until the target is [dying](../../../../rule/health/dying.md), at the start of each of the target's [turns](../../../../rule/combat/turn.md), they gain a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) and a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This [bonus](../../../../rule/dice/bonuses-and-penalties.md) lasts until the start of their next [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: Until the end of the encounter or until the target is [dying](../../../../rule/health/dying.md), at the start of each of the target's [turns](../../../../rule/combat/turn.md), they gain a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) and a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [rolled damage](../../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This [bonus](../../../../rule/dice/bonuses-and-penalties.md) lasts until the start of their next [turn](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: An ally gains strength from their friends.
 keywords:
     - Magic

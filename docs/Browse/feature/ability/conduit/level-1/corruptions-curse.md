@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I corruption damage; M < WEAK, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+      tier2: 6 + I corruption damage; M < AVERAGE, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+      tier3: 9 + I corruption damage; M < STRONG, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 flavor: Cursed by you, your enemy takes more damage from your allies.
 keywords:
     - Magic

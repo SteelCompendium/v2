@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
+      tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
+      tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
+    - effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
+      name: Effect
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

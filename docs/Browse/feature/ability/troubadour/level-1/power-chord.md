@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: 2 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: '[Push](../../../../movement/forced-movement.md) 1'
+      tier2: '[Push](../../../../movement/forced-movement.md) 2'
+      tier3: '[Push](../../../../movement/forced-movement.md) 3'
 flavor: Your instrument rings true and your music blows everyone away.
 keywords:
     - Area

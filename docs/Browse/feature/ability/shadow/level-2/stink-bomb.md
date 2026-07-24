@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 5 Insight
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../../../../rule/combat/turn.md) in the area and has M < AVERAGE is [weakened](../../../../condition/weakened.md) (save ends).
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 2 poison damage
+      tier2: 5 poison damage
+      tier3: 7 poison damage
+    - effect: The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../../../../rule/combat/turn.md) in the area and has M < AVERAGE is [weakened](../../../../condition/weakened.md) (save ends).
+      name: Effect
 flavor: Putrid yellow gas explodes from a bomb you toss.
 keywords:
     - Area

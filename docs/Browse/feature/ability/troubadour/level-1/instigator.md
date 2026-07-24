@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally [adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target's next [turn](../../../../rule/combat/turn.md).
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 3 + P damage
+      tier2: 6 + P damage
+      tier3: 9 + P damage
+    - effect: The target is [taunted](../../../../condition/taunted.md) by you or a willing ally [adjacent](../../../../rule/combat/adjacent.md) to you until the end of the target's next [turn](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: I didn't do it! What?
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

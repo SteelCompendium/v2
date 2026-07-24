@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 11 Focus
 distance: Self
-effect: 'You gain 6 [surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).'
+effects:
+    - effect: 'You gain 6 [surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).'
+      name: Effect
 flavor: I've identified a way to negate their strengths.
 keywords: []
 level: "9"

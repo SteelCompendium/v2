@@ -5,7 +5,9 @@ action_type: Free [triggered](../../../../rule/combat/triggered-action.md)
 class: tactician
 cost: 11 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is killed. Additionally, the creature who caused the target to be [winded](../../../../rule/health/winded.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - effect: The target is killed. Additionally, the creature who caused the target to be [winded](../../../../rule/health/winded.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: You point out an opening to your ally so they can land a killing blow.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

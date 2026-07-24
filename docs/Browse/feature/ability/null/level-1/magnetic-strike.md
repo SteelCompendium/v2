@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 2'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 5 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 1
+      tier2: 8 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 2
+      tier3: 11 + A psychic damage; vertical [pull](../../../../movement/forced-movement.md) 3
 flavor: The force of your blow extends past the limits of your body, pulling your enemy closer.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

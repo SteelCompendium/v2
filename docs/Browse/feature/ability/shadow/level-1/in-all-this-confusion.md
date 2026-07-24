@@ -4,14 +4,17 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: shadow
 distance: Self
-effect: You take half the damage, then can [teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.
+effects:
+    - effect: You take half the damage, then can [teleport](../../../../movement/teleport.md) up to 4 squares after the triggering effect resolves.
+      name: Effect
+    - cost: Spend 1+ Insight
+      effect: You [teleport](../../../../movement/teleport.md) 1 additional square for each insight spent.
 flavor: You vanish in a plume of black smoke to avoid danger.
 keywords:
     - Magic
 level: "1"
 name: In All This Confusion
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion
-spend: '1+ Insight: You [teleport](../../../../movement/teleport.md) 1 additional square for each insight spent.'
 subclass: black-ash
 subtype: triggered
 target: Self

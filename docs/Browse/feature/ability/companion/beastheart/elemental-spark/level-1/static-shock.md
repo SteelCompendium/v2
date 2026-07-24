@@ -5,7 +5,11 @@ action_type: Maneuver
 class: beastheart
 companion: elemental-spark
 distance: Melee 1
-effect: The target takes lightning damage equal to 2 + the spark's Might score.
+effects:
+    - effect: The target takes lightning damage equal to 2 + the spark's Might score.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: The distance increases to melee 5.
 flavor: An arc of lightning crackles from the spark.
 keywords:
     - Companion
@@ -14,7 +18,6 @@ keywords:
 level: "1"
 name: Static Shock
 scc: mcdm.beastheart.v1/feature.ability.companion.beastheart.elemental-spark.level-1/static-shock
-spend: '1 Ferocity: The distance increases to melee 5.'
 subtype: signature
 target: One creature or object
 type: ability

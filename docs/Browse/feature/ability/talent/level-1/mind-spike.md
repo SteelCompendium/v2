@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R psychic damage
+      tier2: 4 + R psychic damage
+      tier3: 6 + R psychic damage
+    - effect: The target takes an extra 2 psychic damage. You also take 2 psychic damage that can't be reduced in any way.
+      name: Strained
 flavor: A telepathic bolt instantly zaps a creature's brain.
 keywords:
     - Psionic

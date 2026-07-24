@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 3 Ferocity
 distance: Melee 1
-effect: You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md).
+effects:
+    - roll: Power Roll + Might
+      tier1: 5 + M damage; slide 1; I < WEAK [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 8 + M damage; slide 2; I < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 11 + M damage; slide 4; I < STRONG [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md).
+      name: Effect
 flavor: Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.
 keywords:
     - Companion

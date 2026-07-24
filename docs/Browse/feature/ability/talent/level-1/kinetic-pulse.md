@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: 1 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 psychic damage
+      tier2: 5 psychic damage; [push](../../../../movement/forced-movement.md) 1
+      tier3: 7 psychic damage; [push](../../../../movement/forced-movement.md) 2
+    - effect: The size of the [burst](../../../../rule/combat/burst.md) increases by 2, and you are [bleeding](../../../../condition/bleeding.md) until the start of your next [turn](../../../../rule/combat/turn.md).
+      name: Strained
 flavor: The force of your mind hurls enemies backward.
 keywords:
     - Area

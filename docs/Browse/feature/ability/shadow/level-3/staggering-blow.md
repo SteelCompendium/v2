@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 7 Insight
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 7 + A damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 11 + A damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
+      tier3: 16 + A damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 flavor: There's no recovering from this.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](../../../../rule/resource/surge.md), which they can use immediately.
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](../../../../rule/resource/surge.md), which they can use immediately.
+      name: Effect
 flavor: Your allies see the advantages in attacking the targets you select.
 keywords: []
 level: "3"

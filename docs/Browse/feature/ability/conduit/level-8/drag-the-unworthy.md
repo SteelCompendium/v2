@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each ally the target comes [adjacent](../../../../rule/combat/adjacent.md) to during the [forced movement](../../../../movement/forced-movement.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 9 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
+      tier2: 13 + I holy damage; [slide](../../../../movement/forced-movement.md) 4
+      tier3: 18 + I holy damage; [slide](../../../../movement/forced-movement.md) 6
+    - effect: Each ally the target comes [adjacent](../../../../rule/combat/adjacent.md) to during the [forced movement](../../../../movement/forced-movement.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: You conjure an angel who moves a foe and heals your allies.
 keywords:
     - Magic

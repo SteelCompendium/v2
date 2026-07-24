@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 3 + A damage
+      tier2: 5 + A damage
+      tier3: 8 + A damage; I < STRONG[, prone](../../../../condition/prone.md)
+    - effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: Your precise strikes let your allies take advantage of a target's agony.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

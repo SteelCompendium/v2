@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: Main action
 ancestry: dragon-knight
 distance: 3 [cube](../../../rule/combat/cube.md) within 1
-effect: You choose the ability's [damage type](../../../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)
+      tier1: 2 damage
+      tier2: 4 damage
+      tier3: 6 damage
+    - effect: You choose the ability's [damage type](../../../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
+      name: Effect
 flavor: A furious exhalation of energy washes over your foes.
 keywords:
     - Area

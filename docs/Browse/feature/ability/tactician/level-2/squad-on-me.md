@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+effects:
+    - effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: Together we are invincible!
 keywords:
     - Area

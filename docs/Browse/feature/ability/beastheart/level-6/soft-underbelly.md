@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Melee 2
-effect: While [bleeding](../../../../condition/bleeding.md) this way, the target has damage weakness 5.
+effects:
+    - roll: Power Roll + Might
+      tier1: 10 + M damage; A < WEAK [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier2: 15 + M damage; A < AVERAGE [bleeding](../../../../condition/bleeding.md) (save ends)
+      tier3: 20 + M damage; A < STRONG [bleeding](../../../../condition/bleeding.md) (save ends)
+    - effect: While [bleeding](../../../../condition/bleeding.md) this way, the target has damage weakness 5.
+      name: Effect
 flavor: Your companion ducks under your enemy's guard and rakes open their soft vitals, leaving them vulnerable.
 keywords:
     - Companion

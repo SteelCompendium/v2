@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to move.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 damage; I < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 6 damage; I < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 10 damage; I < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to move.
+      name: Effect
 flavor: I will hunt you down.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

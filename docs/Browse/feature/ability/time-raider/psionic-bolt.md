@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: Main action
 ancestry: time-raider
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 2 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 1
+      tier2: 5 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 2
+      tier3: 7 + R, I, or P psychic damage; [slide](../../../movement/forced-movement.md) 3
 flavor: You shoot forth a purple beam of psychic force that moves your target.
 keywords:
     - Psionic

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: While [weakened](../../../../condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a [supernatural](../../../../rule/general/supernatural.md) ability that costs Malice.
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 8 + **A** psychic damage; M < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 12 + **A** psychic damage; M < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 16 + **A** psychic damage; M < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: While [weakened](../../../../condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a [supernatural](../../../../rule/general/supernatural.md) ability that costs Malice.
+      name: Effect
 flavor: Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

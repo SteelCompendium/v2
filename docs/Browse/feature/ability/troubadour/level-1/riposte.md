@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: troubadour
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: The target makes a [free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
+effects:
+    - effect: The target makes a [free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
+      name: Effect
 flavor: '"I''d have brought treats had I known I''d be fighting a dog."'
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

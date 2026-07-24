@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 3 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 4 + A damage; I < WEAK, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 5 + A damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 7 + A damage; I < STRONG, [dazed](../../../../condition/dazed.md) and [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You focus your psionic technique into a concussive punch.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 5 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](../../../../rule/character/presence.md) score.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
+    - effect: If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your [Presence](../../../../rule/character/presence.md) score.
+      name: Effect
 flavor: I am but a vessel. Your own deeds weigh upon you.
 keywords:
     - Magic

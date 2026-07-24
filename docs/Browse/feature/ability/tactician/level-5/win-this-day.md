@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any [conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
+effects:
+    - effect: Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any [conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
+      name: Effect
 flavor: You inspire your allies to recover and gather their strength.
 keywords:
     - Area

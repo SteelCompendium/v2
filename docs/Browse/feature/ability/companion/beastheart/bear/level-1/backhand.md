@@ -5,7 +5,11 @@ action_type: Maneuver
 class: beastheart
 companion: bear
 distance: Melee 1
-effect: The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.
+effects:
+    - effect: The target takes damage equal to 4 + the bear's Might score and is pushed up to 2 squares.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: The target is [force moved](../../../../../../movement/forced-movement.md) up to a number of additional squares equal to the bear's Might score.
 flavor: The bear casually swats the pesky foe into next week.
 keywords:
     - Companion
@@ -14,7 +18,6 @@ keywords:
 level: "1"
 name: Backhand
 scc: mcdm.beastheart.v1/feature.ability.companion.beastheart.bear.level-1/backhand
-spend: '1 Ferocity: The target is [force moved](../../../../../../movement/forced-movement.md) up to a number of additional squares equal to the bear''s Might score.'
 subtype: signature
 target: One creature or object
 type: ability

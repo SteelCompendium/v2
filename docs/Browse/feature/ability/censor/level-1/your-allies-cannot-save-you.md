@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 3 + M holy damage
+      tier2: 5 + M holy damage
+      tier3: 8 + M holy damage
+    - effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+      name: Effect
 flavor: Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

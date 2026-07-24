@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 3 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../../rule/combat/adjacent.md) creature as a main action.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 4 + R poison damage
+      tier2: 7 + R poison damage
+      tier3: 11 + R poison damage
+    - effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../../../rule/combat/adjacent.md) creature as a main action.
+      name: Effect
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 keywords:
     - Green

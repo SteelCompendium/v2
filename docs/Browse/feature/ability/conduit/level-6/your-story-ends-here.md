@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 9 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 9 + I corruption damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 14 + I corruption damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 19 + I corruption damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: If this damage kills the target, you and each ally within [distance](../../../../rule/combat/distance.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: You bend the fate of a foe, willing them to die.
 keywords:
     - Magic

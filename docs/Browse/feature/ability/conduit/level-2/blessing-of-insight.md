@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: The gods grant insight revealing where best to strike your enemies.
 keywords:
     - Magic

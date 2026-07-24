@@ -5,7 +5,13 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 7 Drama
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Instead of [sliding](../../../../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../../../../movement/forced-movement.md) targets into other creatures or objects using this ability.
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: '[Slide](../../../../movement/forced-movement.md) 3; P < WEAK, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
+      tier2: '[Slide](../../../../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
+      tier3: '[Slide](../../../../movement/forced-movement.md) 7; P < STRONG, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
+    - effect: Instead of [sliding](../../../../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../../../../movement/forced-movement.md) targets into other creatures or objects using this ability.
+      name: Effect
 flavor: No, this isn't right. That foe was over there!
 keywords:
     - Area

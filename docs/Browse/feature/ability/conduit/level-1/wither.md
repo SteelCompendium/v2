@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I corruption damage; P < WEAK, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+      tier2: 5 + I corruption damage; P < AVERAGE, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
+      tier3: 8 + I corruption damage; P < STRONG, the target takes a [bane](../../../../rule/dice/bane.md) on their next [power roll](../../../../rule/dice/power-roll.md)
 flavor: A bolt of holy energy saps the life from a foe.
 keywords:
     - Magic

@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 3 Ferocity
 distance: Self; see below
-effect: You move up to your [speed](../../../../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an [adjacent](../../../../rule/combat/adjacent.md) unoccupied space. You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.
+effects:
+    - effect: You move up to your [speed](../../../../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../../../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an [adjacent](../../../../rule/combat/adjacent.md) unoccupied space. You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy whose space you move through.
+      name: Effect
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 damage
+      tier2: 3 damage
+      tier3: 5 damage
+    - effect: The last target you damage takes extra damage equal to your [Might](../../../../rule/character/might.md) score for each [opportunity attack](../../../../rule/combat/opportunity-attack.md) you trigger during your move.
+      name: Effect
 flavor: Teach them the folly of lining up for you.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

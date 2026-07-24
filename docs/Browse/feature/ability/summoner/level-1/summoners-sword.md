@@ -4,7 +4,13 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: Melee 3
-effect: This [strike](../../../../rule/combat/strike.md) deals an additional 2 [damage](../../../../rule/damage/damage.md) for each ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+effects:
+    - roll: Power Roll + Reason
+      tier1: R damage
+      tier2: 2 + R damage
+      tier3: 4 + R damage
+    - effect: This [strike](../../../../rule/combat/strike.md) deals an additional 2 [damage](../../../../rule/damage/damage.md) for each ally [adjacent](../../../../rule/combat/adjacent.md) to you.
+      name: Effect
 feature_source: summoner
 flavor: You draw your strength from the army you surround yourself with and summon a hot blade of energy and fervor.
 keywords:

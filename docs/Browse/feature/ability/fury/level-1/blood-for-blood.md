@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 5 Ferocity
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 4 + M damage; M < WEAK, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+      tier2: 6 + M damage; M < AVERAGE, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+      tier3: 10 + M damage; M < STRONG, [bleeding](../../../../condition/bleeding.md) and [weakened](../../../../condition/weakened.md) (save ends)
+    - effect: You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+      name: Effect
 flavor: See how well they fight after you've bled them dry.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

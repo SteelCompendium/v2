@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 5 + M or A damage
+      tier2: 8 + M or A damage
+      tier3: 11 + M or A damage
+    - effect: The target is [taunted](../../../condition/taunted.md) until the end of their next [turn](../../../rule/combat/turn.md).
+      name: Effect
 flavor: The strength of your assault makes it impossible for your foe to ignore you.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

@@ -3,7 +3,13 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+      tier1: 5 + M, R, I, or P damage
+      tier2: 8 + M, R, I, or P damage
+      tier3: 11 + M, R, I, or P damage
+    - effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), any [forced movement](../../../movement/forced-movement.md) that affects the target has its [distance](../../../rule/combat/distance.md) increased by 2.
+      name: Effect
 flavor: Your weapon unleashes psionic energy that reduces your target's weight.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

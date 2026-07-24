@@ -3,6 +3,11 @@ printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 2'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 4 + M or A damage
+      tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+      tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
 flavor: When your stick speaks, your enemy moves.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'

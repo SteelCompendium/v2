@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 11 Drama
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
-effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 12 + P sonic damage; [push](../../../../movement/forced-movement.md) 5
+      tier2: 16 + P sonic damage; [push](../../../../movement/forced-movement.md) 10
+      tier3: 22 + P sonic damage; [push](../../../../movement/forced-movement.md) 15
+    - effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
+      name: Effect
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
     - Magic

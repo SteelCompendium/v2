@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: shadow
 cost: 7 Insight
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effects:
+    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      tier1: 8 + A damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 flavor: One missile—placed well and placed hard.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 9 Focus
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You and each ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 9 + M damage
+      tier2: 13 + M damage
+      tier3: 18 + M damage
+    - effect: You and each ally [adjacent](../../../../rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+      name: Effect
 flavor: You distract a foe while your allies secure their defensive gear.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

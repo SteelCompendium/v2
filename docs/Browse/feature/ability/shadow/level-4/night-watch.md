@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: shadow
 distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
-effect: The target takes half the damage. You remain hidden.
+effects:
+    - effect: The target takes half the damage. You remain hidden.
+      name: Effect
 flavor: A steely dagger from out of the blue knocks another weapon off course.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

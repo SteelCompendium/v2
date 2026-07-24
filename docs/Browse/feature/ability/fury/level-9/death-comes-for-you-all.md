@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 cost: 11 Ferocity
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+      tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+      tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
+    - effect: If this [forced movement](../../../../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
+      name: Effect
 flavor: You use your weapon to create a destructive shockwave.
 keywords:
     - Area

@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll.
+effects:
+    - effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll.
+      name: Effect
 flavor: You step back a split second to see if things play out a little differently.
 keywords:
     - Psionic

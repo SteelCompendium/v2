@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+      tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+      tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md))
+    - effect: You are [slowed](../../../../condition/slowed.md) until the end of your next [turn](../../../../rule/combat/turn.md). Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.
+      name: Strained
 flavor: You blast a foe with a pulse of cold energy.
 keywords:
     - Cryokinesis

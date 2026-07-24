@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 13 + M holy damage
+      tier2: 19 + M holy damage
+      tier3: 26 + M holy damage
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 10.
+      name: Effect
 flavor: You channel holy energy to seal an enemy's fate.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

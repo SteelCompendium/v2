@@ -5,7 +5,9 @@ action_type: Main action
 class: beastheart
 cost: 11 Ferocity
 distance: Self
-effect: You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
+effects:
+    - effect: You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
+      name: Effect
 flavor: Your enemies might be stronger than you, but that's why you're not alone.
 keywords:
     - Beastheart

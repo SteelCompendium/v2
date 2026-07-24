@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next [turn](../../../../rule/combat/turn.md).
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 2 + I corruption damage
+      tier2: 4 + I corruption damage
+      tier3: 6 + I corruption damage
+    - effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next [turn](../../../../rule/combat/turn.md).
+      name: Effect
 flavor: Divine magic tears at your foe and defends a nearby friend.
 keywords:
     - Magic

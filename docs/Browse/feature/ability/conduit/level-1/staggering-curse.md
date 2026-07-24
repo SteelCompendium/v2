@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I holy damage; [slide](../../../../movement/forced-movement.md) 1
+      tier2: 5 + I holy damage; [slide](../../../../movement/forced-movement.md) 2
+      tier3: 8 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
 flavor: A blast of judgment disorients your foe.
 keywords:
     - Magic

@@ -5,6 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 3 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 + R fire damage
+      tier2: 8 + R fire damage
+      tier3: 11 + R fire damage
+    - effect: If the target is within [distance](../../../../rule/combat/distance.md) at the start of your [turn](../../../../rule/combat/turn.md), you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence (no action required).
+      name: Persistent 1
 flavor: Fire engulfs your target and continues to churn.
 keywords:
     - Fire

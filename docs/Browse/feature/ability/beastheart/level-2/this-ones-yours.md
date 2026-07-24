@@ -3,11 +3,14 @@ printing: "1.0"
 printing_book: "The Beastheart"
 action_type: Triggered Action
 class: beastheart
-effect: You end the [forced movement](../../../../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.
+effects:
+    - effect: You end the [forced movement](../../../../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.
+      name: Effect
+    - cost: Spend 1 Ferocity
+      effect: You and your companions can each use this free triggered action on the same turn.
 level: "2"
 name: This One's Yours
 scc: mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours
-spend: '1 Ferocity: You and your companions can each use this free triggered action on the same turn.'
 subclass: punisher
 trigger: A creature [force moved](../../../../movement/forced-movement.md) by another creature enters a space adjacent to you.
 type: ability

@@ -4,7 +4,9 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target is marked by you until the end of the encounter, until you are [dying](../../../../rule/health/dying.md), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](../../../../rule/health/stamina.md), you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to mark a new target within [distance](../../../../rule/combat/distance.md).
+effects:
+    - effect: The target is marked by you until the end of the encounter, until you are [dying](../../../../rule/health/dying.md), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](../../../../rule/health/stamina.md), you can use a free [triggered action](../../../../rule/combat/triggered-action.md) to mark a new target within [distance](../../../../rule/combat/distance.md).
+      name: Effect
 flavor: You draw your allies' attention to a specific foe—with devastating effect.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

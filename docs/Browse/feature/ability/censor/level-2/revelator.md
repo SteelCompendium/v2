@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 5 Wrath
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../../../../rule/combat/turn.md). You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free [triggered action](../../../../rule/combat/triggered-action.md).
+effects:
+    - effect: Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../../../../rule/combat/turn.md). You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free [triggered action](../../../../rule/combat/triggered-action.md).
+      name: Effect
 flavor: You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../level-1/judgment.md).
 keywords:
     - Area

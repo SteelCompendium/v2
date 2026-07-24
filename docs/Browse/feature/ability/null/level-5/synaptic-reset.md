@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
+effects:
+    - effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
+      name: Effect
 flavor: You expand your nullifying power to mitigate harmful effects.
 keywords:
     - Area

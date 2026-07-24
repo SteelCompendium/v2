@@ -4,7 +4,13 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: 3 burst
-effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 psychic or sonic [damage](../../../../rule/damage/damage.md); I < WEAK [frightened](../../../../condition/frightened.md) of you ([save ends](../../../../rule/general/saving-throw.md))
+      tier2: 5 psychic or sonic [damage](../../../../rule/damage/damage.md); I < AVERAGE [frightened](../../../../condition/frightened.md) of you and all allies ([EoT](../../../../rule/combat/end-of-turn.md))
+      tier3: 7 psychic or sonic [damage](../../../../rule/damage/damage.md); I < STRONG [frightened](../../../../condition/frightened.md) of you and all allies ([save ends](../../../../rule/general/saving-throw.md))
+    - effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
+      name: Effect
 feature_source: summoner
 flavor: Your champion unleashes a bellow that shakes you to your core.
 keywords:

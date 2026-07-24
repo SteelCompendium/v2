@@ -4,7 +4,9 @@ printing_book: "The Summoner"
 action_type: Main action
 class: summoner
 distance: 5 burst
-effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can use a [free triggered action](../../../../rule/combat/triggered-action.md) once per [turn](../../../../rule/combat/turn.md) whenever they are [force moved](../../../../movement/forced-movement.md) to reduce the distance by half.
+effects:
+    - effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can use a [free triggered action](../../../../rule/combat/triggered-action.md) once per [turn](../../../../rule/combat/turn.md) whenever they are [force moved](../../../../movement/forced-movement.md) to reduce the distance by half.
+      name: Effect
 feature_source: summoner
 flavor: You surround your allies with a nigh-endless supply of summons that stand in the way of all impacts.
 keywords:

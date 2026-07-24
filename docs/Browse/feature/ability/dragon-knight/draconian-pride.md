@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: Main action
 ancestry: dragon-knight
 distance: 1 [burst](../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)
+      tier1: 2 damage
+      tier2: 5 damage; [push](../../../movement/forced-movement.md) 1
+      tier3: 7 damage; [push](../../../movement/forced-movement.md) 2
 flavor: You let loose a mighty roar to shake your foes' spirits.
 keywords:
     - Area

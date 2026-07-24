@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: tactician
 cost: 5 Focus
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: Each target who hasn't acted yet this [combat round](../../../../rule/combat/combat-round.md) can take their [turn](../../../../rule/combat/turn.md) in any order immediately after yours.
+effects:
+    - effect: Each target who hasn't acted yet this [combat round](../../../../rule/combat/combat-round.md) can take their [turn](../../../../rule/combat/turn.md) in any order immediately after yours.
+      name: Effect
 flavor: All those coordination drills you made them do finally pay off.
 keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'

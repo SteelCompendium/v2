@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: troubadour
 cost: 9 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
+effects:
+    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      tier1: 2 psychic damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
+      tier2: 5 psychic damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
+      tier3: 7 psychic damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
     - Area

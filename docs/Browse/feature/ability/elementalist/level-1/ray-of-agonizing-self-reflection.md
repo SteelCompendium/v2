@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 + R corruption damage; R < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+      tier2: 4 + R corruption damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+      tier3: 6 + R corruption damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 flavor: You inflict pain and doubt in equal measure.
 keywords:
     - Magic

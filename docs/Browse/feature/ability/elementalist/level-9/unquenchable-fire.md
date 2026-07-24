@@ -5,7 +5,13 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 11 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: This damage ignores immunity.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 13 + R fire damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+      tier2: 18 + R fire damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+      tier3: 25 + R fire damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+    - effect: This damage ignores immunity.
+      name: Effect
 flavor: You let fly a fiery missile braided with pure primal energy.
 keywords:
     - Fire

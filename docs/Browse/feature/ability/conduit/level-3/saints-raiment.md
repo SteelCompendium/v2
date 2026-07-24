@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 7 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 3 [surges](../../../../rule/resource/surge.md).
+effects:
+    - effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 3 [surges](../../../../rule/resource/surge.md).
+      name: Effect
 flavor: An ally becomes the wearer of an empowered golden cloak.
 keywords:
     - Magic

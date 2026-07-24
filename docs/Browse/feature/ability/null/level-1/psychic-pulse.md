@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 3 Discipline
 distance: 2 [burst](../../../../rule/combat/burst.md)
-effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../../../rule/combat/turn.md), each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effects:
+    - effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next [turn](../../../../rule/combat/turn.md), the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../../../rule/combat/turn.md), each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
+      name: Effect
 flavor: A burst of psionic energy interferes with your enemy's synapses.
 keywords:
     - Area

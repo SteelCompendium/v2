@@ -5,7 +5,9 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 5 Piety
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their [turn](../../../../rule/combat/turn.md) in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md).
+effects:
+    - effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target starts their [turn](../../../../rule/combat/turn.md) in the area, they can spend a [Recovery](../../../../rule/health/recoveries.md).
+      name: Effect
 flavor: A holy light is emitted from your body, healing your allies.
 keywords:
     - Area

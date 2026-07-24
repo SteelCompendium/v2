@@ -5,7 +5,9 @@ action_type: '[Triggered](../../../../rule/combat/triggered-action.md)'
 class: censor
 cost: 11 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target takes their [turn](../../../../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../../../../rule/combat/condition.md) and negative effects on themself. During their [turn](../../../../rule/combat/turn.md), the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md).
+effects:
+    - effect: The target takes their [turn](../../../../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../../../../rule/combat/condition.md) and negative effects on themself. During their [turn](../../../../rule/combat/turn.md), the target has a double [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md).
+      name: Effect
 flavor: You have looked at various futures, and only this one works.
 keywords:
     - Magic

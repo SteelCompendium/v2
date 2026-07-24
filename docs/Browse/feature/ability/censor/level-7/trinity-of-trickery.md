@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: censor
 cost: 9 Wrath
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You create two illusory duplicates of the target, which appear anywhere within [distance](../../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../../../rule/combat/turn.md), the target can move each duplicate up to their [speed](../../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+effects:
+    - effect: You create two illusory duplicates of the target, which appear anywhere within [distance](../../../../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../../../rule/combat/turn.md), the target can move each duplicate up to their [speed](../../../../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../../../rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../../../../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+      name: Effect
 flavor: Hey! I'm over here. No, here, numbskull.
 keywords:
     - Magic

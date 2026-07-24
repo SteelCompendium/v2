@@ -4,7 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: A **source of earth** emerges from an unoccupied space within [distance](../../../../rule/combat/distance.md). The source takes their [turn](../../../../rule/combat/turn.md) immediately after you, moving up to their [speed](../../../../rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next [turn](../../../../rule/combat/turn.md).
+effects:
+    - effect: A **source of earth** emerges from an unoccupied space within [distance](../../../../rule/combat/distance.md). The source takes their [turn](../../../../rule/combat/turn.md) immediately after you, moving up to their [speed](../../../../rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next [turn](../../../../rule/combat/turn.md).
+      name: Effect
+    - effect: The source takes another [turn](../../../../rule/combat/turn.md). They are dismissed at the start of your next [turn](../../../../rule/combat/turn.md).
+      name: Persistent 2
 flavor: The ground rumbles as an elemental [bursts](../../../../rule/combat/burst.md) forth, ready to serve.
 keywords:
     - Earth

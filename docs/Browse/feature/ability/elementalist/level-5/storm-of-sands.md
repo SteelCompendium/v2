@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 9 Essence
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
-effect: The area lasts until the start of your next [turn](../../../../rule/combat/turn.md). It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 2 damage
+      tier2: 5 damage
+      tier3: 7 damage
+    - effect: The area lasts until the start of your next [turn](../../../../rule/combat/turn.md). It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
+      name: Effect
+    - effect: The area remains until the start of your next [turn](../../../../rule/combat/turn.md), and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../../../../rule/dice/power-roll.md) again without spending essence.
+      name: Persistent 1
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
     - Area

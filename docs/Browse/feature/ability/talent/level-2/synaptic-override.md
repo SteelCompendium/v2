@@ -5,7 +5,15 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: talent
 cost: 5 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a [condition](../../../../rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md).
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: The target makes a [free strike](../../../common/main-actions/free-strike.md) against one enemy of your choice.
+      tier2: The target shifts up to their [speed](../../../../rule/character/speed.md) and uses their [signature ability](../../../../rule/combat/signature-ability.md) against any enemies of your choice.
+      tier3: The target moves up to their [speed](../../../../rule/character/speed.md) and uses their [signature ability](../../../../rule/combat/signature-ability.md) against any enemies of your choice.
+    - effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a [condition](../../../../rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md).
+      name: Effect
+    - effect: You take 1d6 damage and are [weakened](../../../../condition/weakened.md) until the end of your [turn](../../../../rule/combat/turn.md).
+      name: Strained
 flavor: You control an enemy's nervous system. How pleasant for them.
 keywords:
     - Psionic

@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: fury
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../../movement/shifting.md) 1 square.
+effects:
+    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      tier1: 2 + M damage
+      tier2: 5 + M damage
+      tier3: 7 + M damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
+    - effect: You can [shift](../../../../movement/shifting.md) 1 square.
+      name: Effect
 flavor: Staying in constant motion helps you slip out of reach after a brutal assault.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'

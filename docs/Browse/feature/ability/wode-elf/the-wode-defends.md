@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Heroes"
 action_type: Main action
 ancestry: wode-elf
 distance: '[Ranged](../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)
+      tier1: 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
+      tier2: 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
+      tier3: 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
 flavor: Thorny vines erupt from every surface and attempt to bind your foe.
 keywords:
     - Magic

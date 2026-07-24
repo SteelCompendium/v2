@@ -5,6 +5,11 @@ action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: elementalist
 cost: 5 Essence
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effects:
+    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      tier1: 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
+      tier2: 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
+      tier3: 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 flavor: Wrap them up in fire and melting stone.
 keywords:
     - Earth

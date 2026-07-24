@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../../rule/character/stability.md) gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effects:
+    - effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../../../rule/character/stability.md) gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
+      name: Effect
 flavor: You focus until your body becomes as hard as iron.
 keywords:
     - Psionic

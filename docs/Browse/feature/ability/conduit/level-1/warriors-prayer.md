@@ -4,7 +4,13 @@ printing_book: "Draw Steel: Heroes"
 action_type: '[Main action](../../../../rule/combat/turn.md)'
 class: conduit
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You or one ally within [distance](../../../../rule/combat/distance.md) gains [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effects:
+    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      tier1: 3 + I holy damage
+      tier2: 6 + I holy damage
+      tier3: 9 + I holy damage
+    - effect: You or one ally within [distance](../../../../rule/combat/distance.md) gains [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Intuition](../../../../rule/character/intuition.md) score.
+      name: Effect
 flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../../../../rule/combat/melee.md).
 keywords:
     - Magic

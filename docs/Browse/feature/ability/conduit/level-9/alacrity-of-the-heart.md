@@ -5,7 +5,9 @@ action_type: '[Maneuver](../../../../rule/combat/turn.md)'
 class: conduit
 cost: 11 Piety
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: The target has an additional main action they can use on their next [turn](../../../../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
+effects:
+    - effect: The target has an additional main action they can use on their next [turn](../../../../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
+      name: Effect
 flavor: You speak inspiring words to a friend and spur them to incredible feats.
 keywords:
     - Magic

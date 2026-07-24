@@ -5,7 +5,13 @@ action_type: Main action
 class: beastheart
 cost: 9 Ferocity
 distance: Ranged 15
-effect: If you are hidden, you remain hidden after the strike.
+effects:
+    - roll: Power Roll + Intuition
+      tier1: 12 + I damage
+      tier2: 18 + I damage
+      tier3: 30 + I damage
+    - effect: If you are hidden, you remain hidden after the strike.
+      name: Effect
 flavor: You channel your companion's feral senses to take the perfect shot.
 keywords:
     - Beastheart
