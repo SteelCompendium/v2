@@ -344,6 +344,24 @@ You can use an absorbed ability as if you knew it, making [power rolls](../../Br
 
 **Devil's Bargain:** You can [fly](../../Browse/movement/fly.md). Additionally, if an effect would make you [prone](../../Browse/condition/prone.md) while [flying](../../Browse/movement/fly.md), you can choose to not make you [prone](../../Browse/condition/prone.md) by losing [Stamina](../../Browse/rule/health/stamina.md) equal to the [distance](../../Browse/rule/combat/distance.md) you would have fallen from make you [prone](../../Browse/condition/prone.md).
 
+**Invulnerable:** When an [ability roll](../../Browse/rule/dice/ability-roll.md) made against you obtains a tier 1 outcome, you can ignore its damage and effects.
+
+**Leyline Walker:** Once per [turn](../../Browse/rule/combat/turn.md) as a move action, you can spend any amount of your movement to instead [teleport](../../Browse/movement/teleport.md) that [distance](../../Browse/rule/combat/distance.md).
+
+**Life:** Whenever you would die, you can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md) instead. If you have no [Recoveries](../../Browse/rule/health/recoveries.md) to spend, you die.
+
+**Magic Resistance III:** The benefit of the armor's Magic Resistance II [enhancement](../../Browse/rule/treasure/enhancement.md) extends to each ally within 3 squares of you.
+
+**Phasing III:** Your movement doesn't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md), and you can move through the space of any enemy as if they were an ally. You can't end your [turn](../../Browse/rule/combat/turn.md) in an enemy's space.
+
+**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II [enhancement](../../Browse/rule/treasure/enhancement.md) extends to each ally within 3 squares of you.
+
+**Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
+
+On your [turn](../../Browse/rule/combat/turn.md), you can [teleport](../../Browse/movement/teleport.md) to the imprint's space as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). When you are targeted by an ability, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md) to your imprint, and the [power roll](../../Browse/rule/dice/power-roll.md) for the ability is an automatic tier 1 result.
+
+**Unbending:** You can't be subjected to [forced movement](../../Browse/movement/forced-movement.md) unless you choose to be. Effects that ignore [Stability](../../Browse/rule/character/stability.md) also ignore this [enhancement](../../Browse/rule/treasure/enhancement.md).
+
 **Dragon Soul II:** While you are [winded](../../Browse/rule/health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
 ###### Dragon's Fire {data-scc="mcdm.heroes.v1/feature.ability.common/dragons-fire"}
@@ -363,38 +381,6 @@ You can use an absorbed ability as if you knew it, making [power rolls](../../Br
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div>
 </div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Invulnerable</span></div>
-<div class="sc-ability__section-body"><p>When an <a href="../../../Browse/rule/dice/ability-roll/">ability roll</a> made against you obtains a tier 1 outcome, you can ignore its damage and effects.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Leyline Walker</span></div>
-<div class="sc-ability__section-body"><p>Once per <a href="../../../Browse/rule/combat/turn/">turn</a> as a move action, you can spend any amount of your movement to instead <a href="../../../Browse/movement/teleport/">teleport</a> that <a href="../../../Browse/rule/combat/distance/">distance</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Life</span></div>
-<div class="sc-ability__section-body"><p>Whenever you would die, you can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> to regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> instead. If you have no <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> to spend, you die.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Magic Resistance III</span></div>
-<div class="sc-ability__section-body"><p>The benefit of the armor&#39;s Magic Resistance II <a href="../../../Browse/rule/treasure/enhancement/">enhancement</a> extends to each ally within 3 squares of you.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Phasing III</span></div>
-<div class="sc-ability__section-body"><p>Your movement doesn&#39;t provoke <a href="../../../Browse/rule/combat/opportunity-attack/">opportunity attacks</a>, and you can move through the space of any enemy as if they were an ally. You can&#39;t end your <a href="../../../Browse/rule/combat/turn/">turn</a> in an enemy&#39;s space.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Psionic Resistance III</span></div>
-<div class="sc-ability__section-body"><p>The benefit of the armor&#39;s Psionic Resistance II <a href="../../../Browse/rule/treasure/enhancement/">enhancement</a> extends to each ally within 3 squares of you.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Temporal Flux</span></div>
-<div class="sc-ability__section-body"><p>Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.</p><p>On your <a href="../../../Browse/rule/combat/turn/">turn</a>, you can <a href="../../../Browse/movement/teleport/">teleport</a> to the imprint&#39;s space as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a>. When you are targeted by an ability, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to <a href="../../../Browse/movement/teleport/">teleport</a> to your imprint, and the <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for the ability is an automatic tier 1 result.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Unbending</span></div>
-<div class="sc-ability__section-body"><p>You can&#39;t be subjected to <a href="../../../Browse/movement/forced-movement/">forced movement</a> unless you choose to be. Effects that ignore <a href="../../../Browse/rule/character/stability/">Stability</a> also ignore this <a href="../../../Browse/rule/treasure/enhancement/">enhancement</a>.</p></div>
 </div>
 </article>
 
