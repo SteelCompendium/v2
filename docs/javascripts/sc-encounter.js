@@ -35,7 +35,9 @@
   function mountPageAdd(E) {
     const sb = document.querySelector(".md-content .sb-wrap .sb__head");
     if (!sb || document.querySelector(".sc-enc-addpage")) return;
-    const evM = /EV\s*(\S+)/.exec((sb.querySelector(".sc-head__right-deck") || {}).textContent || "");
+    // Capture the WHOLE chip, not the first token: "EV 3 for four minions"
+    // must keep its qualifier or parseEV prices the group as one creature.
+    const evM = /EV\s*(\S.*)/.exec((sb.querySelector(".sc-head__right-deck") || {}).textContent || "");
     if (!evM) return; // no EV → not a buyable creature (companions etc.)
     const btn = document.createElement("button");
     btn.type = "button"; btn.className = "sc-enc-add sc-enc-addpage";
@@ -48,7 +50,7 @@
       const s = load();
       s.picks = E.addPick(s.picks, {
         href: location.pathname, name: name,
-        ev: evM[1], organization: org, level: lvM ? lvM[1] : "1",
+        ev: evM[1].trim(), organization: org, level: lvM ? lvM[1] : "1",
       });
       save(s);
       btn.textContent = "✓";

@@ -9,10 +9,14 @@
 })(typeof self !== "undefined" ? self : this, function () {
   "use strict";
 
+  // Accepts a bare EV ("16"), a statblock head chip ("EV 3 for 4 minions"), or
+  // "-" for creatures with no EV. The book spells the minion-group qualifier
+  // both ways ("for four minions" and "for 4 minions"), so match either.
   function parseEV(s) {
-    const m = /^(\d+)/.exec(String(s || "").trim());
+    const t = String(s || "").trim().replace(/^EV\s*/i, "");
+    const m = /^(\d+)/.exec(t);
     if (!m) return { ev: null, perFour: false };
-    return { ev: parseInt(m[1], 10), perFour: /for four/i.test(s) };
+    return { ev: parseInt(m[1], 10), perFour: /\bfor\s+(?:4|four)\b/i.test(t) };
   }
 
   function heroES(level) { return 4 + 2 * (parseInt(level, 10) || 1); }

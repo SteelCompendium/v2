@@ -10,6 +10,44 @@ test("parseEV handles plain, minion-group, and missing", () => {
   assert.deepStrictEqual(E.parseEV(""), { ev: null, perFour: false });
 });
 
+// The book spells the minion-group qualifier both ways: "3 for four minions"
+// (104 statblocks) and "3 for 4 minions" (12 — angulotl, dwarf, radenwight).
+// Both mean "this EV buys four minions".
+test("parseEV accepts the digit spelling of the minion group", () => {
+  assert.deepStrictEqual(E.parseEV("3 for 4 minions"), { ev: 3, perFour: true });
+  assert.deepStrictEqual(E.parseEV("12 for 4 minions"), { ev: 12, perFour: true });
+  // "4" must be the group size, not any stray digit
+  assert.deepStrictEqual(E.parseEV("40"), { ev: 40, perFour: false });
+  assert.deepStrictEqual(E.parseEV("14"), { ev: 14, perFour: false });
+});
+
+// The statblock-page "+" reads the head chip verbatim, e.g. "EV 3 for 4 minions".
+test("parseEV tolerates the head-chip 'EV ' prefix", () => {
+  assert.deepStrictEqual(E.parseEV("EV 3 for 4 minions"), { ev: 3, perFour: true });
+  assert.deepStrictEqual(E.parseEV("EV 10 for four minions"), { ev: 10, perFour: true });
+  assert.deepStrictEqual(E.parseEV("EV 16"), { ev: 16, perFour: false });
+  assert.deepStrictEqual(E.parseEV("EV -"), { ev: null, perFour: false });
+});
+
+// Bug report: four level-1 minions (EV 3 for four) were billed 12, not 3.
+test("a bought group of four minions costs the statblock EV once", () => {
+  ["3 for four minions", "3 for 4 minions", "EV 3 for 4 minions"].forEach((ev) => {
+    const picks = E.addPick([], { href: "m", name: "Angulotl Cleaver", ev: ev,
+      organization: "Minion", level: 1 });
+    assert.strictEqual(picks[0].count, 4, ev);
+    assert.strictEqual(E.totalEV(picks), 3, ev);
+  });
+});
+
+// Quick-build cross-check: "Eight minions fill one hero slot", and a 1st-level
+// hero's ES is 6 — so eight level-1 minions must total 6 EV.
+test("eight level-1 minions equal one 1st-level hero slot", () => {
+  const picks = E.setCount(
+    E.addPick([], { href: "m", name: "Clawfish", ev: "3 for 4 minions",
+      organization: "Minion", level: 1 }), "m", 8);
+  assert.strictEqual(E.totalEV(picks), E.heroES(1));
+});
+
 test("encounter strength math matches the book table", () => {
   assert.strictEqual(E.heroES(1), 6);          // 1st-level hero = 6
   assert.strictEqual(E.heroES(3), 10);         // book: 4+2+2+2
