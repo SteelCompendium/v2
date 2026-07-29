@@ -340,14 +340,27 @@
 /* ── KEYWORD + USAGE block ── */
 .sb__ku { margin-top: .6rem; }
 .sb__dt { margin-top: .55rem; }
-/* crest mode: keywords are chips, usage lives in the eyebrow (hide the field) */
-[data-sb-kwusage="crest"] .sb__ku { display: flex; flex-wrap: wrap; gap: .4rem; }
+/* crest mode: keywords are chips; the action type (usage) rides the same line as a
+   right-aligned pill. It used to be hidden here on the assumption the head eyebrow
+   carried it, but that eyebrow was retired (.sb__feat-eyebrow, above) — leaving
+   crest the only mode with no action type at all (SC-95). */
+[data-sb-kwusage="crest"] .sb__ku { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
 /* the chips live inside .sb__field-v (specField wrapper) and the JS joins them
    with no whitespace — so the gap that separates them must sit on .sb__field-v,
    not .sb__ku (which only holds the single keyword field in crest mode). */
 [data-sb-kwusage="crest"] .sb__field--kw .sb__field-v { display: flex; flex-wrap: wrap; gap: .4rem .5rem; }
 [data-sb-kwusage="crest"] .sb__field--kw .sb__field-l { display: none; }
-[data-sb-kwusage="crest"] .sb__field--usage { display: none; }
+[data-sb-kwusage="crest"] .sb__field--usage { display: block; margin-left: auto; }
+[data-sb-kwusage="crest"] .sb__field--usage .sb__field-l { display: none; }
+/* the pill mirrors the .sc-head__slot--chip recipe (cardhead.css) so it reads as
+   kin to the head's cost chip; inline-flex + gap for mixed link content (SC-66). */
+[data-sb-kwusage="crest"] .sb__field--usage .sb__field-v {
+  display: inline-flex; align-items: center; gap: .27em;
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .04em; font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
+  padding: .14rem .46rem;
+}
 /* text mode: space-between plain text, labels hidden (values are self-evident) */
 [data-sb-kwusage="text"] .sb__ku { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
 [data-sb-kwusage="text"] .sb__ku .sb__field-l { display: none; }
