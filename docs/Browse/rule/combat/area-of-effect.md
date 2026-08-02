@@ -42,6 +42,7 @@ When an ability creates a wall, that area is expressed as "X wall." The number X
 
 You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks [line of effect](line-of-effect.md).
 
+<!-- @type: callout | @owner: loose -->
 > **Straight Lines**
 >
 > Talking about a straight line [area of effect](area-of-effect.md) on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
