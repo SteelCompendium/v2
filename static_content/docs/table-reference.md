@@ -196,9 +196,9 @@ the origin square can be; you need
   edge on the power roll.
 - [Line of effect](Browse/rule/combat/line-of-effect.md): fully blocked by
   solid obstruction = no targeting.
-- [Opportunity attacks](Browse/rule/combat/opportunity-attack.md): leaving a
-  creature's reach without shifting → they get a melee free strike (free
-  triggered action).
+- [Opportunity attacks](Browse/rule/combat/opportunity-attack.md): willingly
+  moving out of a square adjacent to a creature without shifting → they get a
+  melee free strike (free triggered action).
 - [Surprised](Browse/rule/combat/surprised.md)
 
 ## Director Quick Numbers
