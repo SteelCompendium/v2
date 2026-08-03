@@ -28,6 +28,14 @@ When you complete the project, you earn [Renown](../rule/resource/renown.md) amo
 
 Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an [edge](../rule/dice/edge.md) on [project rolls](../rule/downtime/project-roll.md) to discover lore while you are in those areas.
 
+### Build or Repair Road Renown Table
+
+| Length              | [Renown](../rule/resource/renown.md) Earned |
+|---------------------|---------------|
+| 50 miles or less    | 1             |
+| 51-100 miles        | 2             |
+| More than 100 miles | 3             |
+
 ### Build or Repair Roads Events Table
 
 | d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

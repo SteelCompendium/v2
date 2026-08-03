@@ -32,14 +32,6 @@ When the project is completed, you have an airship. You and any creatures you de
 
 An airship is an object (giving it [damage immunity](../damage/damage-immunity.md) all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original [condition](../combat/condition.md) as a [respite](../resource/respite.md) activity.
 
-#### Build or Repair Road Renown Table
-
-| Length              | [Renown](../resource/renown.md) Earned |
-|---------------------|---------------|
-| 50 miles or less    | 1             |
-| 51-100 miles        | 2             |
-| More than 100 miles | 3             |
-
 ## Build or Repair Road {data-scc="mcdm.heroes.v1/project/build-or-repair-road"}
 
 **[Item Prerequisite](item-prerequisite.md):** Three writs of approval, from an engineers' guild, a masons' guild, and a guards' guild
@@ -57,6 +49,14 @@ The number of [project points](project-points.md) required to complete work on t
 When you complete the project, you earn [Renown](../resource/renown.md) among people in the area where the road is built, depending on the length of the road.
 
 Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an [edge](../dice/edge.md) on [project rolls](project-roll.md) to discover lore while you are in those areas.
+
+#### Build or Repair Road Renown Table
+
+| Length              | [Renown](../resource/renown.md) Earned |
+|---------------------|---------------|
+| 50 miles or less    | 1             |
+| 51-100 miles        | 2             |
+| More than 100 miles | 3             |
 
 #### Build or Repair Roads Events Table
 
