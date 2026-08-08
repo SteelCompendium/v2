@@ -45,14 +45,18 @@
   background: radial-gradient(circle at 42% 30%, #2b3137, #14181b); }
 .sc-crest > * { position: relative; z-index: 1; display: grid; place-items: center;
   /* Optical centering: the shield's mass sits in its rectangular top, so its visual
-     centroid is ~40% down (not 50%). Nudge the glyph UP ~10% of crest height so it reads
-     as centered rather than sinking toward the point. --crest-nudge scales per size below;
-     font-glyph crests (ability/trait) override it with a steeper value of their own. */
-  transform: translateY(var(--crest-nudge, -4px)); }
+     centroid is ~40.43% down (not 50%) — the shoelace-formula centroid of the --shield
+     pentagon polygon(6% 0, 94% 0, 94% 58%, 50% 100%, 6% 58%). Nudge the glyph UP to land
+     its rendered ink bbox center on that target. --crest-nudge is MEASURED per size/content
+     family (pixel ink-bbox audit, SC-129), not eyeballed: it scales per size below, and
+     font-glyph crests (ability/trait/prev/band) override it with their own measured value
+     since a DrawSteelGlyphs run's line-box position depends on its font-size:box-height
+     ratio, not just the shield geometry. */
+  transform: translateY(var(--crest-nudge, -4.3px)); }
 .sc-crest .twemoji, .sc-crest svg { width: 19px; height: 19px; color: var(--fx-metal-bright); fill: currentColor; }
 [data-md-color-scheme="default"] .sc-crest::before { background: radial-gradient(circle at 42% 30%, #f6f8f8, #dfe4e5); }
 [data-md-color-scheme="default"] .sc-crest .twemoji, [data-md-color-scheme="default"] .sc-crest svg { color: #2c3338; }
-.sc-crest.lg { width: 50px; height: 56px; --crest-nudge: -5px; }
+.sc-crest.lg { width: 50px; height: 56px; --crest-nudge: -5.6px; }
 .sc-crest.lg .twemoji, .sc-crest.lg svg { width: 24px; height: 24px; }
 /* When a crest rides a `:material-icon:{ .sc-crest }` span the icon carries Material's
    `.twemoji` class too, and `.md-typeset .twemoji{…}` (0,2,0) out-specifies `.sc-crest`

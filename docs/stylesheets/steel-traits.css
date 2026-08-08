@@ -80,7 +80,7 @@
 .sc-trait--crest .sc-trait__head { grid-template-columns: auto 1fr auto; }
 .sc-trait__crest { /* extends .sc-crest */ width: 3rem; height: 3.4rem; align-self: start; }
 .sc-trait__crest::before { inset: 1.5px; }
-.sc-trait__crest > .sc-trait__glyph { transform: translateY(-8px); } /* optical-center in shield */
+.sc-trait__crest > .sc-trait__glyph { transform: translateY(-6.5px); } /* measured ink-bbox nudge (SC-129); optical-center in shield */
 .sc-trait__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.25rem; line-height: 1;
   color: var(--act); -webkit-font-smoothing: antialiased; }
 

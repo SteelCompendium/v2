@@ -411,7 +411,7 @@
 }
 .sb__band-head::-webkit-details-marker { display: none; }
 .sb__band-head::marker { content: ""; }
-.sb__band-crest { width: 2.1rem; height: 2.4rem; }
+.sb__band-crest { width: 2.1rem; height: 2.4rem; --crest-nudge: -4px; } /* measured ink-bbox nudge (SC-129): -4px lands the "*" glyph within 0.1px of the shield's optical centroid (verified by a live nudge sweep) — pinned explicitly rather than left to inherit the shared default, since that default is independently tuned for the SVG-icon family and only numerically coincides here */
 .sb__band--villain .sb__band-glyph { color: #e0584b; }
 .sb__band--malice  .sb__band-glyph { color: #9aa2a8; }
 .sb__band-glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1rem; line-height: 1; -webkit-font-smoothing: antialiased; }
