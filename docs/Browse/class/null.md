@@ -967,7 +967,7 @@ As a 5th-level [null](null.md), you gain the following features.
 
 ### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-5/5th-level-tradition-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Tradition Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
@@ -979,21 +979,27 @@ As a 5th-level [null](null.md), you gain the following features.
 <table><thead><tr><th>Tradition</th><th>Feature</th></tr></thead><tbody><tr><td>Chronokinetic</td><td><a href="../../feature/null/level-5/instant-action/">Instant Action</a></td></tr><tr><td>Cryokinetic</td><td><a href="../../feature/null/level-5/chilling-readiness/">Chilling Readiness</a></td></tr><tr><td>Metakinetic</td><td><a href="../../feature/null/level-5/inertial-fulcrum/">Inertial Fulcrum</a></td></tr></tbody></table>
 </div>
 </section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chilling Readiness</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Cryokinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of <a href="../../rule/resource/surge/">surges</a> equal to your <a href="../../rule/resource/victories/">Victories</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inertial Fulcrum</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Metakinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>Whenever you use an ability to reduce damage dealt to you or to reduce the <a href="../../rule/combat/distance/">distance</a> of <a href="../../movement/forced-movement/">forced movement</a> imposed upon you, you can deal damage to one enemy in the area of your <a href="../../feature/null/level-1/null-field/">Null Field</a> ability equal to your <a href="../../rule/character/intuition/">Intuition</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Instant Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Chronokinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>If you&#39;re not <a href="../../rule/combat/surprised/">surprised</a> at the start of your first <a href="../../rule/combat/turn/">turn</a> in combat, you gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../rule/resource/surge/">surges</a>. If you are <a href="../../rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
+</div>
+</section>
 </div>
 </div>
 </section>
-
-### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness" data-subclass="cryokinetic"}
-
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of [surges](../rule/resource/surge.md) equal to your [Victories](../rule/resource/victories.md).
-
-### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum" data-subclass="metakinetic"}
-
-Whenever you use an ability to reduce damage dealt to you or to reduce the [distance](../rule/combat/distance.md) of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability equal to your [Intuition](../rule/character/intuition.md) score.
-
-### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action" data-subclass="chronokinetic"}
-
-If you're not [surprised](../rule/combat/surprised.md) at the start of your first [turn](../rule/combat/turn.md) in combat, you gain an [edge](../rule/dice/edge.md) on [ability rolls](../rule/dice/ability-roll.md) and gain 2 [surges](../rule/resource/surge.md). If you are [surprised](../rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../rule/combat/surprised.md) and gain the benefits of this feature.
 
 ### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 

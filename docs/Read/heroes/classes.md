@@ -9531,7 +9531,7 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 
 #### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-5/5th-level-tradition-feature"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Tradition Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
 <div class="sc-trait__body">
@@ -9543,21 +9543,27 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 <table><thead><tr><th>Tradition</th><th>Feature</th></tr></thead><tbody><tr><td>Chronokinetic</td><td><a href="../../../Browse/feature/null/level-5/instant-action/">Instant Action</a></td></tr><tr><td>Cryokinetic</td><td><a href="../../../Browse/feature/null/level-5/chilling-readiness/">Chilling Readiness</a></td></tr><tr><td>Metakinetic</td><td><a href="../../../Browse/feature/null/level-5/inertial-fulcrum/">Inertial Fulcrum</a></td></tr></tbody></table>
 </div>
 </section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chilling Readiness</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Cryokinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of <a href="../../../Browse/rule/resource/surge/">surges</a> equal to your <a href="../../../Browse/rule/resource/victories/">Victories</a>.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Inertial Fulcrum</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Metakinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>Whenever you use an ability to reduce damage dealt to you or to reduce the <a href="../../../Browse/rule/combat/distance/">distance</a> of <a href="../../../Browse/movement/forced-movement/">forced movement</a> imposed upon you, you can deal damage to one enemy in the area of your <a href="../../../Browse/feature/null/level-1/null-field/">Null Field</a> ability equal to your <a href="../../../Browse/rule/character/intuition/">Intuition</a> score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Instant Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Null · Chronokinetic</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>If you&#39;re not <a href="../../../Browse/rule/combat/surprised/">surprised</a> at the start of your first <a href="../../../Browse/rule/combat/turn/">turn</a> in combat, you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../../Browse/rule/resource/surge/">surges</a>. If you are <a href="../../../Browse/rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../../Browse/rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
+</div>
+</section>
 </div>
 </div>
 </section>
-
-#### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness" data-subclass="cryokinetic"}
-
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of [surges](../../Browse/rule/resource/surge.md) equal to your [Victories](../../Browse/rule/resource/victories.md).
-
-#### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum" data-subclass="metakinetic"}
-
-Whenever you use an ability to reduce damage dealt to you or to reduce the [distance](../../Browse/rule/combat/distance.md) of [forced movement](../../Browse/movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
-
-#### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action" data-subclass="chronokinetic"}
-
-If you're not [surprised](../../Browse/rule/combat/surprised.md) at the start of your first [turn](../../Browse/rule/combat/turn.md) in combat, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and gain 2 [surges](../../Browse/rule/resource/surge.md). If you are [surprised](../../Browse/rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../Browse/rule/combat/surprised.md) and gain the benefits of this feature.
 
 #### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
@@ -13739,7 +13745,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-1/1st-level-tradition-features"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Tradition Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
 <div class="sc-trait__body">
@@ -13868,26 +13874,34 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </div>
 </div>
 </section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Repel</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Telekinesis</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Repel</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Telekinesis</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
+<p class="sc-ability__flavor">They aren&#39;t going anywhere, but you might!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage or is <a href="../../../Browse/movement/forced-movement/">force moved</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the triggering damage, or the <a href="../../../Browse/rule/combat/distance/">distance</a> of the triggering <a href="../../../Browse/movement/forced-movement/">forced movement</a> is reduced by a number of squares equal to your <a href="../../../Browse/rule/character/reason/">Reason</a> score. If the target took damage and was force moved, you choose the effect. If the <a href="../../../Browse/movement/forced-movement/">forced movement</a> is reduced to 0 squares, the target can <a href="../../../Browse/movement/forced-movement/">push</a> the source of the <a href="../../../Browse/movement/forced-movement/">forced movement</a> a number of squares equal to your <a href="../../../Browse/rule/character/reason/">Reason</a> score.</p></div>
+</div>
+</article>
 </div>
 </div>
 </section>
-
-#### Repel {data-scc="mcdm.heroes.v1/feature.talent.level-1/repel" data-subclass="telekinesis"}
-
-You have the following ability.
-
-##### Repel {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/repel" data-subclass="telekinesis"}
-
-
-*They aren't going anywhere, but you might!*
-
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **[Triggered](../../Browse/rule/combat/triggered-action.md)** |
-|---------------------|------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
-
-**Trigger:** The target takes damage or is [force moved](../../Browse/movement/forced-movement.md).
-
-**Effect:** The target takes half the triggering damage, or the [distance](../../Browse/rule/combat/distance.md) of the triggering [forced movement](../../Browse/movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../Browse/movement/forced-movement.md) is reduced to 0 squares, the target can [push](../../Browse/movement/forced-movement.md) the source of the [forced movement](../../Browse/movement/forced-movement.md) a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+</div>
+</div>
+</section>
 
 #### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
@@ -15148,7 +15162,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 
 #### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-8/8th-level-tradition-features"}
 
-<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Tradition Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
 <div class="sc-trait__body">
@@ -15200,32 +15214,44 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 <p>During a <a href="../../../Browse/rule/resource/respite/">respite</a>, you can choose a number of creatures up to your <a href="../../../Browse/rule/character/reason/">Reason</a> score who you have communicated with using your <a href="../../../Browse/feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more <a href="../../../Browse/rule/health/recoveries/">Recoveries</a>, each other linked creature can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stasis Shield</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Chronopathy</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="triggered">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stasis Shield</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Chronopathy</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Clarity</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Triggered Action</div></div></header>
+<p class="sc-ability__flavor">You freeze time just long enough to bring the victim to safety!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self, or one creature or object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../Browse/movement/teleport/">teleport</a>ed to an unoccupied space <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t target yourself, and you take the damage and any additional effects instead of the target.</p></div>
+</div>
+</article>
 </div>
 </div>
 </section>
-
-#### Stasis Shield {data-scc="mcdm.heroes.v1/feature.talent.level-8/stasis-shield" data-subclass="chronopathy"}
-
-You have the following ability.
-
-##### Stasis Shield {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield" data-cost="3 Clarity" data-subclass="chronopathy"}
-
-
-*You freeze time just long enough to bring the victim to safety!*
-
-| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                          **[Triggered](../../Browse/rule/combat/triggered-action.md)** |
-|---------------------|---------------------------------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |
-
-**Trigger:** The target takes damage.
-
-**Effect:** The target is [teleport](../../Browse/movement/teleport.md)ed to an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
-
-**Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
-
-#### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection" data-subclass="telepathy"}
-
-The range of your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
+<section class="sc-trait" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Universal Connection</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent · Telepathy</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>The range of your <a href="../../../Browse/feature/talent/level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p>
+</div>
+</section>
+</div>
+</div>
+</section>
 
 #### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
 
