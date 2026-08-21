@@ -1233,29 +1233,60 @@ As a 2nd-level beastheart, you gain the following features.
 
 #### Stormheart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/stormheart" data-subclass="spark"}
 
-Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Stormheart</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Spark</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
+<div class="sc-trait__body">
+<p>Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.</p>
+</div>
+</section>
 
 #### Supersniffer {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/supersniffer" data-subclass="prowler"}
 
-While a creature is adjacent to your companion, that creature can't be hidden or have concealment from your companion.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Supersniffer</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Prowler</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
+<div class="sc-trait__body">
+<p>While a creature is adjacent to your companion, that creature can&#39;t be hidden or have concealment from your companion.</p>
+</div>
+</section>
 
 #### This One's Yours {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/this-ones-yours" data-subclass="punisher"}
 
-Once per turn, you or your companion can use the following free triggered action.
-
-##### This One's Yours {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours" data-subclass="punisher"}
-
-When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.
-
-**Trigger:** A creature [force moved](../movement/forced-movement.md) by another creature enters a space adjacent to you.
-
-**Effect:** You end the [forced movement](../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.
-
-**Spend 1 Ferocity:** You and your companions can each use this free triggered action on the same turn.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the This One&#39;s Yours ability">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">This One&#39;s Yours</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Punisher</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
+<div class="sc-trait__body">
+<p>Once per turn, you or your companion can use the following free triggered action.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">This One&#39;s Yours</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Punisher</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature <a href="../../movement/forced-movement/">force moved</a> by another creature enters a space adjacent to you.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You end the <a href="../../movement/forced-movement/">forced movement</a>. You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You and your companions can each use this free triggered action on the same turn.</span></div>
+</article>
+</div>
+</div>
+</section>
 
 #### Watchdog {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/watchdog" data-subclass="guardian"}
 
-You and your companion can't be surprised.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Watchdog</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Guardian</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
+<div class="sc-trait__body">
+<p>You and your companion can&#39;t be surprised.</p>
+</div>
+</section>
 
 ## 2nd-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-ability"}
 
@@ -1646,19 +1677,43 @@ As a 5th-level beastheart, you gain the following features.
 
 #### I Can Take It {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/i-can-take-it" data-subclass="punisher"}
 
-When you or your companion uses your [Thunderclap](../feature/ability/beastheart/level-1/thunderclap.md) ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Can Take It</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Punisher</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>When you or your companion uses your <a href="../../feature/ability/beastheart/level-1/thunderclap/">Thunderclap</a> ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.</p>
+</div>
+</section>
 
 #### Melt Away {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/melt-away" data-subclass="prowler"}
 
-You or your companion can use your [Shadow in the Mist](../feature/ability/beastheart/level-1/shadow-in-the-mist.md) ability even when targeted by the triggering ability.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Melt Away</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Prowler</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>You or your companion can use your <a href="../../feature/ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a> ability even when targeted by the triggering ability.</p>
+</div>
+</section>
 
 #### There For Each Other {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/there-for-each-other" data-subclass="guardian"}
 
-When you or your companion uses your [The Pack Defends](../feature/ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">There For Each Other</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Guardian</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>When you or your companion uses your <a href="../../feature/ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a> ability to spend a Recovery, you and the target both regain Stamina.</p>
+</div>
+</section>
 
 #### Wildfire Pyre {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/wildfire-pyre" data-subclass="spark"}
 
-When you or your companion deals damage with your [Pyre](../feature/ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wildfire Pyre</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Spark</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
+<div class="sc-trait__body">
+<p>When you or your companion deals damage with your <a href="../../feature/ability/beastheart/level-1/pyre/">Pyre</a> ability, each enemy adjacent to either of you takes the damage.</p>
+</div>
+</section>
 
 ### 9-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/9-ferocity-ability"}
 
@@ -2020,19 +2075,43 @@ As an 8th-level beastheart, you gain the following features.
 
 #### Born to Run {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/born-to-run" data-subclass="prowler"}
 
-You and your companion gain a +2 bonus to speed.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Born to Run</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Prowler</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>You and your companion gain a +2 bonus to speed.</p>
+</div>
+</section>
 
 #### Built for Violence {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/built-for-violence" data-subclass="punisher"}
 
-You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Built for Violence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Punisher</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.</p>
+</div>
+</section>
 
 #### Nature Will Not Harm Us {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/nature-will-not-harm-us" data-subclass="spark"}
 
-You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Nature Will Not Harm Us</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Spark</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.</p>
+</div>
+</section>
 
 #### Reflexes Perfected {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/reflexes-perfected" data-subclass="guardian"}
 
-Your and your companion's free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn't adjacent, you or your companion can make an opportunity attack, even if the enemy [shifted](../movement/shifting.md), [teleported](../movement/teleport.md), was [force moved](../movement/forced-movement.md), or another feature that doesn't provoke opportunity attacks.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Reflexes Perfected</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Beastheart · Guardian</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy <a href="../../movement/shifting/">shifted</a>, <a href="../../movement/teleport/">teleported</a>, was <a href="../../movement/forced-movement/">force moved</a>, or another feature that doesn&#39;t provoke opportunity attacks.</p>
+</div>
+</section>
 
 #### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/perk"}
 

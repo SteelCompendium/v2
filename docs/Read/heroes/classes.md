@@ -6129,23 +6129,37 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 ##### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star" data-subclass="void"}
 
-You warp gravity around your heavenly body and can [pull](../../Browse/movement/forced-movement.md) even the sturdiest titans toward your core. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you target one creature or object within [distance](../../Browse/rule/combat/distance.md) of your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability and vertical [pull](../../Browse/movement/forced-movement.md) that target up to 5 squares. If their [stability](../../Browse/rule/character/stability.md) reduces this [forced movement](../../Browse/movement/forced-movement.md), they are [pulled](../../Browse/movement/forced-movement.md) a minimum of 2 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
-
-Additionally, your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the [aura](../../Browse/rule/combat/aura.md), enemies and objects have their [stability](../../Browse/rule/character/stability.md) reduced by an amount equal to your level.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Black Hole Star</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Void</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>You warp gravity around your heavenly body and can <a href="../../../Browse/movement/forced-movement/">pull</a> even the sturdiest titans toward your core. At the end of each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you target one creature or object within <a href="../../../Browse/rule/combat/distance/">distance</a> of your <a href="../../../Browse/feature/ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability and vertical <a href="../../../Browse/movement/forced-movement/">pull</a> that target up to 5 squares. If their <a href="../../../Browse/rule/character/stability/">stability</a> reduces this <a href="../../../Browse/movement/forced-movement/">forced movement</a>, they are <a href="../../../Browse/movement/forced-movement/">pulled</a> a minimum of 2 squares. This <a href="../../../Browse/movement/forced-movement/">forced movement</a> ignores <a href="../../../Browse/rule/character/stability/">stability</a> for your allies.</p>
+<p>Additionally, your <a href="../../../Browse/feature/elementalist/level-4/mantle-of-essence/">Mantle of Essence</a> improves. While in the area of the <a href="../../../Browse/rule/combat/aura/">aura</a>, enemies and objects have their <a href="../../../Browse/rule/character/stability/">stability</a> reduced by an amount equal to your level.</p>
+</div>
+</section>
 
 ##### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation" data-subclass="green"}
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/complication/animal-form.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../../Browse/feature/elementalist/level-2/disciple-of-the-green.md) feature on your [turn](../../Browse/rule/combat/turn.md).
-
-Additionally, whenever you use your [Disciple of the Green](../../Browse/feature/elementalist/level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../Browse/complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest [speed](../../Browse/rule/character/speed.md) between the two animal forms and have all types of movement from both forms.
-
-You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chimeric Manifestation</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Green</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>Nature isn&#39;t static and unchanging, and neither are you. You can enter or exit your <a href="../../../Browse/complication/animal-form/">animal form</a> as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> the first time you use your <a href="../../../Browse/feature/elementalist/level-2/disciple-of-the-green/">Disciple of the Green</a> feature on your <a href="../../../Browse/rule/combat/turn/">turn</a>.</p>
+<p>Additionally, whenever you use your <a href="../../../Browse/feature/elementalist/level-2/disciple-of-the-green/">Disciple of the Green</a> feature, you can select an additional <a href="../../../Browse/complication/animal-form/">animal form</a> and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest <a href="../../../Browse/rule/character/speed/">speed</a> between the two animal forms and have all types of movement from both forms.</p>
+<p>You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can&#39;t combine a shark with a bear (5th level).</p>
+</div>
+</section>
 
 ##### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial" data-subclass="fire"}
 
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to target it with your [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability instead.
-
-Additionally, any enemy who starts their [turn](../../Browse/rule/combat/turn.md) [adjacent](../../Browse/rule/combat/adjacent.md) to you has fire weakness equal to your [Reason](../../Browse/rule/character/reason.md) score until the start of their next [turn](../../Browse/rule/combat/turn.md). This increases to twice your [Reason](../../Browse/rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Flame Primordial</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Fire</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
+<div class="sc-trait__body">
+<p>You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to target it with your <a href="../../../Browse/feature/ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability instead.</p>
+<p>Additionally, any enemy who starts their <a href="../../../Browse/rule/combat/turn/">turn</a> <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you has fire weakness equal to your <a href="../../../Browse/rule/character/reason/">Reason</a> score until the start of their next <a href="../../../Browse/rule/combat/turn/">turn</a>. This increases to twice your <a href="../../../Browse/rule/character/reason/">Reason</a> score if the enemy is made of or is wearing mostly metal.</p>
+</div>
+</section>
 
 ##### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
 
@@ -6153,18 +6167,23 @@ You have the following ability.
 
 ###### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
 
-
-*The ground rumbles as an elemental [bursts](../../Browse/rule/combat/burst.md) forth, ready to serve.*
-
-| **Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **[Main action](../../Browse/rule/combat/turn.md)** |
-|--------------------------|----------------:|
-| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         |  **🎯 Special** |
-
-**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The source takes their [turn](../../Browse/rule/combat/turn.md) immediately after you, moving up to their [speed](../../Browse/rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next [turn](../../Browse/rule/combat/turn.md).
-
-The source starts an encounter at full [Stamina](../../Browse/rule/health/stamina.md), but maintains their current [Stamina](../../Browse/rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../../Browse/rule/health/stamina.md) during the encounter. When the source's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
-
-**Persistent 2:** The source takes another [turn](../../Browse/rule/combat/turn.md). They are dismissed at the start of your next [turn](../../Browse/rule/combat/turn.md).
+<article class="sc-ability sc-fil" data-action="main">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summon Source of Earth</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Earth</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<p class="sc-ability__flavor">The ground rumbles as an elemental <a href="../../../Browse/rule/combat/burst/">bursts</a> forth, ready to serve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <b>source of earth</b> emerges from an unoccupied space within <a href="../../../Browse/rule/combat/distance/">distance</a>. The source takes their <a href="../../../Browse/rule/combat/turn/">turn</a> immediately after you, moving up to their <a href="../../../Browse/rule/character/speed/">speed</a> and either taking a main action or a maneuver. The source is dismissed at the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p><p>The source starts an encounter at full <a href="../../../Browse/rule/health/stamina/">Stamina</a>, but maintains their current <a href="../../../Browse/rule/health/stamina/">Stamina</a> throughout the encounter, even if they are dismissed and you use this ability again. They can&#39;t regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> during the encounter. When the source&#39;s <a href="../../../Browse/rule/health/stamina/">Stamina</a> is reduced to 0, you can&#39;t use this ability again until you earn 1 or more <a href="../../../Browse/rule/resource/victories/">Victories</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
+<div class="sc-ability__section-body"><p>The source takes another <a href="../../../Browse/rule/combat/turn/">turn</a>. They are dismissed at the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
+</div>
+</article>
 
 ###### Source of Earth {data-scc="mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth"}
 
@@ -7495,9 +7514,14 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 
 #### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos" data-subclass="stormwight"}
 
-As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
-
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your [Renown](../../Browse/rule/resource/renown.md) as 1 higher than usual. This stacks with the increase to your effective [Renown](../../Browse/rule/resource/renown.md) provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../../Browse/condition/frightened.md) of you (save ends).
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Marauder of the Primordial Chaos</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Fury · Stormwight</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
+<div class="sc-trait__body">
+<p>As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.</p>
+<p>Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your <a href="../../../Browse/rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../../Browse/rule/resource/renown/">Renown</a> provided by the Nature&#39;s Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P &lt; AVERAGE, they are <a href="../../../Browse/condition/frightened/">frightened</a> of you (save ends).</p>
+</div>
+</section>
 
 #### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
 
