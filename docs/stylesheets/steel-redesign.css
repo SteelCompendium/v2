@@ -301,18 +301,19 @@
 .sc-card__intro blockquote > * { position: relative; z-index: 1; }
 .sc-card__intro ul, .sc-card__intro ol { margin: .35rem 0 0; padding-left: 1.1rem; }
 
-.sc-card__sig { display: flex; align-items: center; gap: .55rem; margin-top: .8rem;
-  padding-top: .7rem; border-top: 1px solid var(--fx-metal-faint); }
-.sc-card__dot { width: 9px; height: 9px; border-radius: 50%; flex: 0 0 auto; background: var(--md-accent-fg-color); }
-.sc-card__dot[data-type="strike"]    { background: var(--sc-ability-strike); }
-.sc-card__dot[data-type="ranged"]    { background: var(--sc-ability-ranged); }
-.sc-card__dot[data-type="area"]      { background: var(--sc-ability-area); }
-.sc-card__dot[data-type="passive"]   { background: var(--sc-ability-passive); }
-.sc-card__dot[data-type="maneuver"]  { background: var(--sc-ability-maneuver); }
-.sc-card__dot[data-type="triggered"] { background: var(--sc-ability-triggered); }
-.sc-card__sig-label { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .06em;
-  font-size: .72rem; color: var(--fx-metal); }
-.sc-card__sig-name { font-family: var(--md-small-header-font); font-size: .95rem; color: var(--md-default-fg-color); }
+/* SC-115: the kit tile's inline signature-ability card (kitCard, cards.go) —
+   a full `.sc-ability` plate (steel-ability-cards.css) nested inside the kit
+   `.sc-card`, adopted from the DSE plugin's `ds-kit` sub-render. Replaces the
+   former one-line type+name `.sc-card__sig` (retired: it read the tile's
+   ALREADY-CARDED body, which no longer carries the info it needed).
+   No stretched-link z-index fix needed: `.sc-ability` already sets
+   `position: relative` (steel-ability-cards.css), so — being the LAST
+   positioned descendant in DOM order — it already paints above
+   `.sc-card__link`'s absolute overlay per normal CSS stacking rules; its
+   inner links stay independently clickable for the same reason the card's
+   other rendered-markdown links do (see the stretched-link comment above). */
+.sc-card__sig-card { margin-top: .9rem; padding-top: .8rem; border-top: 1px solid var(--fx-metal-faint); }
+.sc-card__sig-card .sc-ability { margin: 0; }
 
 /* Advancement-features index card: gained features + the level each is gained at */
 .sc-card__advlist { list-style: none; margin: .8rem 0 0; padding: .7rem 0 0;

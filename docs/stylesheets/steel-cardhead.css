@@ -150,6 +150,25 @@
   /* crest still spans every lane in column 1 (rule at top of file uses 1/-1) */
 }
 
+/* SC-115: the kit Browse tile's inline signature-ability card (.sc-card__sig-card,
+   steel-redesign.css) nests a full .sc-head inside a ~20rem grid tile — the SAME
+   narrow-column starvation the mobile breakpoint above exists for, just triggered
+   by container width instead of viewport width, so a container query can't share
+   that block directly (`@media (max-width: 30em)` reads the viewport, not the
+   tile). Apply the identical drop-the-third-column treatment, scoped to the class
+   instead of a breakpoint. */
+.sc-card__sig-card .sc-head__left-deck.sc-head__slot--line,
+.sc-card__sig-card .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
+
+.sc-card__sig-card .sc-head { grid-template-columns: auto minmax(0, 1fr); }
+.sc-card__sig-card .sc-head__right-eyebrow { grid-area: 4 / 2; }
+.sc-card__sig-card .sc-head__right-primary { grid-area: 5 / 2; }
+.sc-card__sig-card .sc-head__right-deck    { grid-area: 6 / 2; }
+.sc-card__sig-card .sc-head__right-eyebrow,
+.sc-card__sig-card .sc-head__right-primary,
+.sc-card__sig-card .sc-head__right-deck { justify-self: start; text-align: left; margin-left: 0; }
+.sc-card__sig-card .sc-head__right-primary { margin-top: .18rem; }
+
 /* Flat-list Feature Style hook — FEATUREBLOCKS only: their sub-feature heads inline
    to a book run-in "name · cost · usage". Statblock features deliberately KEEP the
    .sc-head grid in flat mode (little icon + name + right-aligned cost chip — see
