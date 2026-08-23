@@ -19,7 +19,10 @@
        // trait:
        action?, grants?, benefits?, tag?,        // action accents the spine
        // ability:
-       action, cost, keywords?, distance?, targets? }
+       action, cost, keywords?, conditions?, distance?, targets? }
+       // conditions[] = Draw Steel conditions the ability's MECHANICAL text
+       // mentions (inflicts / requires / removes — not distinguished; flavor
+       // excluded). Derived build-side in steel-etl internal/site/conditions.go.
    ============================================================ */
 (function () {
   "use strict";
@@ -92,10 +95,15 @@
       ? cost.replace(/^(\d+)\s*/, '<span class="num">$1</span> ')
       : esc(cost);
     var tag = cost ? '<div class="sc-prev__tag">' + costHTML + '</div>' : "";
-    var kw = (it.keywords && it.keywords.length)
-      ? '<div class="sc-prev__kw">' + it.keywords.map(function (k) {
-          return '<span class="sc-prev__chip">' + esc(k) + '</span>'; }).join("") + '</div>'
-      : "";
+    // keyword chips, then condition chips (SC-90) — a card filtered to "prone"
+    // shows on its face why it matched. Mirrors renderAbilityPrev in
+    // steel-etl/internal/site/feature_index.go; keep the two in step.
+    var chips = (it.keywords || []).map(function (k) {
+      return '<span class="sc-prev__chip">' + esc(k) + '</span>';
+    }).concat((it.conditions || []).map(function (c) {
+      return '<span class="sc-prev__chip sc-prev__chip--cond">' + esc(c) + '</span>';
+    }));
+    var kw = chips.length ? '<div class="sc-prev__kw">' + chips.join("") + '</div>' : "";
     var foot = [];
     if (ctx) foot.push(metaCell("from", esc(it.klass) + " · Lv " + it.level, true));
     if (it.distance) foot.push(metaCell("distance", md(it.distance), true));
@@ -153,6 +161,10 @@
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },
       { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") },
+      // SC-90. Matches ANY mention of the condition in the ability's mechanical
+      // text (inflict / require / remove are not distinguished); flavor text is
+      // excluded build-side. Array-valued, so it gets the any/all toggle free.
+      { key: "conditions", label: "Condition", values: uniqueSorted(null, items, "conditions"), display: cap },
       { key: "feature_source", label: "Track", values: uniqueSorted(null, items, "feature_source"), display: cap }
     ].filter(function (f) { return f.values.length > 1; });
 

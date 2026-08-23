@@ -33,7 +33,11 @@
   --sc-src-ancestry: #e0a458;
   --sc-src-kit: #6ec07a;
   --sc-src-other: var(--fx-metal);
+  /* SC-90 condition chips — conditions are afflictions, so they read in the
+     warning/poison register rather than the neutral keyword grey. */
+  --sc-cond: #c98a9b;
 }
+[data-md-color-scheme="default"] { --sc-cond: #9c5164; }
 
 
 /* ════════════════════════════════════════════════════════════
@@ -220,6 +224,10 @@
   display: inline-flex; align-items: center; line-height: 1;
   padding: .18rem .5rem; border-radius: 5px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02); }
 [data-md-color-scheme="default"] .sc-prev__chip { background: rgba(0,0,0,.02); }
+/* SC-90 — a condition the ability's rules text mentions (inflicts / requires /
+   removes). Distinguished from a keyword chip by the affliction accent only, so
+   the chip row stays one visual rhythm. */
+.sc-prev__chip--cond { color: var(--sc-cond); border-color: color-mix(in srgb, var(--sc-cond) 45%, transparent); }
 
 /* foot — a thin meta line (distance/targets for abilities; "grants" for traits) */
 .sc-prev__foot { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .9rem; margin-top: auto;
