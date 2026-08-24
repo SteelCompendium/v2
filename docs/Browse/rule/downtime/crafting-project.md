@@ -501,26 +501,26 @@ A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as t
 > **Trigger:** The target willingly moves [adjacent](../combat/adjacent.md) to you.
 >
 > **Effect:** The target takes 5 damage.
->
-> **Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](../../condition/slowed.md) (save ends). This replaces the benefit of Chilling I.
->
-> **Devastating:** Whenever you make an [ability roll](../dice/ability-roll.md) using this weapon, the number you need to roll to score a [critical hit](../combat/critical-hit.md) is reduced by 1.
->
-> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 [Stamina](../health/stamina.md) or less, they drop to 0 [Stamina](../health/stamina.md). This replaces the benefit of Disrupting I.
->
-> **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
->
-> - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-> - **Large:** Abilities using this weapon gain a +1 [melee](../combat/melee.md) [distance](../combat/distance.md) [bonus](../dice/bonuses-and-penalties.md) or a +3 [ranged](../combat/ranged.md) [distance](../combat/distance.md) [bonus](../dice/bonuses-and-penalties.md).
-> - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
->
-> **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next [turn](../combat/turn.md).
->
-> **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
->
-> **Thundering II:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can [push](../../movement/forced-movement.md) that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../../condition/prone.md) after being [pushed](../../movement/forced-movement.md). This replaces the benefit of Thundering I.
->
-> **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
+
+**Chilling II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 cold damage and is [slowed](../../condition/slowed.md) (save ends). This replaces the benefit of Chilling I.
+
+**Devastating:** Whenever you make an [ability roll](../dice/ability-roll.md) using this weapon, the number you need to roll to score a [critical hit](../combat/critical-hit.md) is reduced by 1.
+
+**Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 [Stamina](../health/stamina.md) or less, they drop to 0 [Stamina](../health/stamina.md). This replaces the benefit of Disrupting I.
+
+**Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
+
+- **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
+- **Large:** Abilities using this weapon gain a +1 [melee](../combat/melee.md) [distance](../combat/distance.md) [bonus](../dice/bonuses-and-penalties.md) or a +3 [ranged](../combat/ranged.md) [distance](../combat/distance.md) [bonus](../dice/bonuses-and-penalties.md).
+- **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
+
+**Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next [turn](../combat/turn.md).
+
+**Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
+
+**Thundering II:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can [push](../../movement/forced-movement.md) that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../../condition/prone.md) after being [pushed](../../movement/forced-movement.md). This replaces the benefit of Thundering I.
+
+**Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
 #### 5th-Level Weapon Enhancements
 
@@ -570,14 +570,14 @@ A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as t
 > - **≤11:** 7 fire damage
 > - **12-16:** 11 fire damage
 > - **17+:** 16 fire damage
->
-> **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying II.
->
-> **Thundering III:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can vertical [push](../../movement/forced-movement.md) that creature up to 5 squares and knock them [prone](../../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
->
-> **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
->
-> **Windcutting:** Whenever you use a [melee](../combat/melee.md) [signature ability](../combat/signature-ability.md) that usually targets one creature, you can take a [bane](../dice/bane.md) on the ability to target each enemy in a [cube](../combat/cube.md) 3 within [distance](../combat/distance.md). If your [signature ability](../combat/signature-ability.md) would usually cause its target to become [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md), each target in the area is instead [slowed](../../condition/slowed.md) until the end of their next [turn](../combat/turn.md).
+
+**Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying II.
+
+**Thundering III:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can vertical [push](../../movement/forced-movement.md) that creature up to 5 squares and knock them [prone](../../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+
+**Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
+
+**Windcutting:** Whenever you use a [melee](../combat/melee.md) [signature ability](../combat/signature-ability.md) that usually targets one creature, you can take a [bane](../dice/bane.md) on the ability to target each enemy in a [cube](../combat/cube.md) 3 within [distance](../combat/distance.md). If your [signature ability](../combat/signature-ability.md) would usually cause its target to become [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md), each target in the area is instead [slowed](../../condition/slowed.md) until the end of their next [turn](../combat/turn.md).
 
 #### 9th-Level Weapon Enhancements
 
