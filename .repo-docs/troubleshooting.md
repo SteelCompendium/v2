@@ -104,7 +104,9 @@ drifts off-center (it sat ~10px high when they were `.15rem`/`1.2rem`).
 silently defeats the per-mode `[data-sb-kwusage]` rules ((0,2,0)) — crest's sub-card
 chrome has never rendered — and the unanchored `:not([data-sb-kwusage="crest"])`
 selectors match `body`, so "non-crest" separators apply in every mode. Both are
-load-bearing for the current look; see workspace `FOLLOWUPS.md` #9 before "fixing".
+load-bearing for the current look; read the closed follow-up that adjudicated them
+(workspace `docs/followups-archive/2026-06-12-completed.md`, was FOLLOWUPS #8) before
+"fixing".
 
 ### A `.md-typeset` override leaks into the search dropdown / preview tooltips
 

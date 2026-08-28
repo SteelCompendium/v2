@@ -153,14 +153,14 @@ The **Color theme** (`data-sc-theme`: parchment/obsidian) and **Ability card sty
 palettes/styles are fully supported — the `applySiteTheme`/`applyCardStyle` functions,
 their null-guarded bindings, the `palette.css` `[data-sc-theme]` blocks, and the
 `ability-cards.js` modern handling all remain in place (re-add the two commented
-markup blocks to re-enable; see workspace `FOLLOWUPS.md` #6).
+markup blocks to re-enable; tracked as SC-218, was FOLLOWUPS #3).
 Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
 and is unit-tested (`devbox run -- node --test tests/*.test.js` — explicit glob; this Node rejects a bare directory). The anti-FOUC early-apply
 script in `overrides/main.html` reads the same storage key to apply everything
 (including `--sc-content-scale`) before paint. The standalone `/preferences/` page is
 retired to a redirect note (still reachable for old bookmarks) and dropped from
-`docs/.nav.yml`. Card-style changes still trigger a full reload (see workspace
-`FOLLOWUPS.md`).
+`docs/.nav.yml`. Card-style changes still trigger a full reload (tracked as SC-217,
+was FOLLOWUPS #2).
 
 ## MkDocs Plugins
 

@@ -57,6 +57,9 @@ Profiling found two bottlenecks: (1) Material re-rendering the **whole 3,097-ite
 on every page** (~half the build; fixable with **`navigation.prune`**, tested 614s→222s),
 and (2) the `roamlinks` plugin doing a full `os.walk` per bare-filename link (~15%).
 
-**Full investigation, numbers, and recommended fixes (none applied yet):** see
-[decisions/2026-06-05-ci-deploy-build-time-perf.md](decisions/2026-06-05-ci-deploy-build-time-perf.md)
-and workspace `ROADMAP.md` item 5 ("v2 CI deploy build-time performance").
+**Full investigation, numbers, and recommended fixes:** see
+[decisions/2026-06-05-ci-deploy-build-time-perf.md](decisions/2026-06-05-ci-deploy-build-time-perf.md).
+The fix was verified locally but **deliberately left unapplied** — closed at Scott's
+request 2026-06-18 because ~14 min is acceptable; see workspace
+`docs/roadmap-archive/2026-06-18-completed.md` (was ROADMAP #5). Reopen with a new
+Linear ticket if deploy time becomes a pain point again.

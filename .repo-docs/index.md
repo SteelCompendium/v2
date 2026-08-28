@@ -79,7 +79,7 @@ v2/
 - **Health:** active development
 - **Last significant change:** the 2026-07-01/02 UX wave (P1–P11) — bug batch (mobile card-head stacking, adjacency-keyed H1 hide, custom 404), navigation batch (class landing headers, Read-chapter mini-TOC/prev-next/resume, per-class ability tables, search boosts), and the table-tools suite (Table Reference tab, pinboard, encounter builder, click-to-roll dice, MD/PNG exports, statblock level scaler). Plans: workspace `docs/superpowers/plans/2026-07-01-p*.md`; analysis: `…/specs/2026-07-01-v2-ux-analysis.md`.
 - **Known blockers:** None
-- **Known issues:** statblock sticky mini-header is bulky at phone widths (workspace FOLLOWUPS #23)
+- **Known issues:** statblock sticky mini-header is bulky at phone widths (SC-223, was FOLLOWUPS #23)
 
 ## Documents in This Directory
 
