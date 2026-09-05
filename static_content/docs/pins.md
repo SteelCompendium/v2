@@ -9,8 +9,14 @@ name: Pins
 Everything you've pinned with the 📌 pin button on rules, abilities, and
 monsters, plus your own named links — stored in this browser only.
 
-Copy a section permalink and add it below, or link to campaign notes and other
-web pages. Custom links appear together; user-defined categories are not available yet.
+Copy a heading permalink from this site and add it below with your own display name.
+Open the saved section to read its content here, including child subsections and tables.
+Sections load from the site when opened; they are not offline copies. If a heading
+moves or disappears, use **Open original** to find its replacement.
+
+Other web URLs are saved as links only. Embedded content is read-only: page tools
+(such as dice rolls, scaling, and exports) remain on the original page.
+User-defined categories are not available yet.
 My Table holds up to 200 links.
 
 <div class="sc-pins-mount" markdown>

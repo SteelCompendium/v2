@@ -69,24 +69,56 @@
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
-  function renderBoard() {
+  function siteBase() {
+    // The board lives at <site root>/pins/ (also works on local previews).
+    return new URL("../", location.href).href;
+  }
+
+  function renderBoard(expandPath) {
     const mount = document.querySelector(".sc-pins-mount");
     if (!mount) return;
     // Remember the authored empty-state prose so removing the last pin can
     // restore it instead of leaving the stale rendered list behind.
     if (mount.__scEmptyHTML === undefined) mount.__scEmptyHTML = mount.innerHTML;
+    if (window.__scPinsFetch) window.__scPinsFetch.abort();
+    window.__scPinsFetch = new AbortController();
+    const signal = window.__scPinsFetch.signal;
+    const open = new Set(Array.from(mount.querySelectorAll("details[open]"), el => el.dataset.path));
+    if (expandPath) open.add(expandPath);
     const groups = window.SCPins.grouped(load());
     if (!groups.length) { mount.innerHTML = mount.__scEmptyHTML; return; }
     let h = "";
     groups.forEach(function (g) {
       h += '<h2 class="sc-pins__kind">' + esc(g.kind) + '</h2><ul class="sc-pins__list">';
       g.items.forEach(function (i) {
+        if (window.SCPinsSections && window.SCPinsSections.eligible(i.path, siteBase())) {
+          h += '<li class="sc-pins__section"><details class="sc-pins__section-fold" data-path="' + esc(i.path) + '"' + (open.has(i.path) ? ' open' : '') + '><summary>' + esc(i.title || i.path) + '</summary><div class="sc-pins__section-body"><p class="sc-pins__loading" role="status">Loading section…</p></div></details>' +
+            '<div class="sc-pins__section-actions"><a href="' + esc(i.path) + '">Open original</a><button type="button" class="sc-pins__rm" data-path="' + esc(i.path) + '" aria-label="Remove ' + esc(i.title || i.path) + '">Remove</button></div></li>';
+          return;
+        }
         h += '<li><a href="' + esc(i.path) + '">' + esc(i.title || i.path) + "</a>" +
           '<button type="button" class="sc-pins__rm" data-path="' + esc(i.path) + '" aria-label="Remove ' + esc(i.title || i.path) + '" title="Remove">×</button></li>';
       });
       h += "</ul>";
     });
     mount.innerHTML = h;
+    mount.querySelectorAll(".sc-pins__section-fold").forEach(function (fold, index) {
+      async function show() {
+        if (!fold.open || fold.dataset.loaded) return;
+        fold.dataset.loaded = "1";
+        const target = fold.querySelector(".sc-pins__section-body");
+        try {
+          const content = await window.SCPinsSections.load(fold.dataset.path, siteBase(), signal, "sc-excerpt-" + index + "-");
+          if (!signal.aborted && target.isConnected) target.replaceChildren(content);
+        } catch (error) {
+          if (signal.aborted || !target.isConnected) return;
+          target.textContent = "Could not load this section. Open the original to check the link, or close and reopen to retry.";
+          delete fold.dataset.loaded;
+        }
+      }
+      fold.addEventListener("toggle", show);
+      show();
+    });
   }
 
   function onBoardClick(ev) {
@@ -101,9 +133,9 @@
     if (!mount || document.querySelector(".sc-pins__form")) return;
     const form = document.createElement("form");
     form.className = "sc-pins__form";
-    form.innerHTML = '<h2>Add a custom link</h2>' +
-      '<p id="sc-pins-help">Paste a section permalink or any web URL and give it a name. Adding the same URL again updates its name. Saved in this browser only (up to 200 links).</p>' +
-      '<label for="sc-pins-name">Display name</label><input id="sc-pins-name" name="title" required autocomplete="off" placeholder="e.g. Our campaign notes">' +
+    form.innerHTML = '<h2>Add a section</h2>' +
+      '<p id="sc-pins-help">Copy a heading link from this site and paste it below. Its section will appear here under your chosen name. Adding the same link again renames it. Other web URLs are saved as links only.</p>' +
+      '<label for="sc-pins-name">Display name</label><input id="sc-pins-name" name="title" required autocomplete="off" placeholder="e.g. Minion rules">' +
       '<label for="sc-pins-url">URL</label><input id="sc-pins-url" name="url" required type="text" inputmode="url" spellcheck="false" autocomplete="off" aria-describedby="sc-pins-help" placeholder="https://…">' +
       '<button type="submit">Add link</button><p class="sc-pins__status" role="status" aria-live="polite"></p>';
     form.addEventListener("submit", function (ev) {
@@ -113,7 +145,7 @@
         const result = window.SCPins.addLink(load(), form.elements.title.value, form.elements.url.value, location.href, Date.now());
         if (result.error) { status.textContent = result.error; return; }
         save(result.state);
-        renderBoard();
+        renderBoard(result.state.items[result.state.items.length - 1].path);
         status.textContent = result.updated ? "Link updated." : "Link added.";
         form.reset();
         form.elements.title.focus();
@@ -126,6 +158,7 @@
 
   function init() {
     if (!window.SCPins) return;
+    if (window.__scPinsFetch) window.__scPinsFetch.abort();
     mountPinButton();
     renderBoard();
     mountLinkForm();

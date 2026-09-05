@@ -114,3 +114,19 @@ Only HTTP(S) URLs and root-relative paths are accepted, including when reading
 storage. Labels render as escaped text. User-defined categories are tracked in SC-178.
 Browser coverage: `tests/e2e/pins-custom-links.e2e.cjs` (set `E2E_BASE` and optionally
 `PLAYWRIGHT_PATH` to your installed playwright-core module).
+
+### Saved heading excerpts
+
+`sc-pins-sections.js` loads same-site heading fragments and SCC permalinks on demand.
+SCC HTML stubs resolve through their canonical target (bounded to the same site root,
+without executing scripts). DOM ranges include everything after the selected heading
+through, but excluding, the next equal-or-higher heading; this works across nested
+wrappers and includes subordinate headings and tables. Missing headings fail explicitly.
+
+The board presents native collapsible sections, preserving open states during mutations
+and aborting old requests on rerender/navigation. Excerpts preserve book markup but strip
+scripts and page controls, resolve relative resource/link URLs against the source, namespace
+IDs, and wrap wide tables for horizontal scrolling. They are read-only excerpts; live
+page tools remain on the original page. External links are never fetched. No HTML is
+stored in localStorage. `tests/e2e/pins-sections.e2e.cjs` covers the Monsters examples,
+SCC resolution, missing anchors, section boundaries and reload behavior.

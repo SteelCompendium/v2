@@ -176,6 +176,7 @@ extra_javascript:
   - javascripts/vendor/html-to-image.min.js
   - javascripts/sc-export.js
   - javascripts/sc-pins-core.js
+  - javascripts/sc-pins-sections.js
   - javascripts/sc-pins.js
   - javascripts/nav-drawer-keep-core.js
   - javascripts/nav-drawer-keep.js
