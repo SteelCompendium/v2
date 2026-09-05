@@ -36,12 +36,15 @@
     // page is index.html — heuristically: h1 present is enough; indexes get
     // pins too and that's fine, but the Browse tab roots are excluded).
     if (/\/(Browse|Read)\/?$/.test(path)) return;
-    // Main-card pages: join the card's hover-revealed control strip. Plain
+    // Main-card pages: join the card's chrome panel (SC-297) if its family is
+    // ported, else the card's legacy hover-revealed top-centre strip. Plain
     // pages (incl. Read chapters, whose EMBEDDED cards must not capture the
     // pin): the always-visible top-right page action strip (sc-pageact.js).
+    const C = window.SCChrome;
     const A = window.SCPageAct;
-    const host = A ? (A.cardHead() || A.strip())
-                   : document.querySelector(".md-content .sc-head");
+    const host = (C && C.panel()) ||
+                 (A ? (A.cardHead() || A.strip())
+                    : document.querySelector(".md-content .sc-head"));
     if (!host) return;
 
     const btn = document.createElement("button");

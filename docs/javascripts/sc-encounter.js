@@ -56,7 +56,9 @@
       btn.textContent = "✓";
       setTimeout(function () { btn.textContent = "+"; }, 1200);
     });
-    sb.appendChild(btn);
+    // SC-297: the chrome panel when the family is ported, else the legacy
+    // top-centre strip position inside the statblock head.
+    ((window.SCChrome && window.SCChrome.panel()) || sb).appendChild(btn);
   }
 
   function init() {

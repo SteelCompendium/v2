@@ -31,7 +31,10 @@
     const tpl = document.querySelector("template.sc-src");
     const card = cardNode();
     if (!tpl || !card) return;
-    const host = card.querySelector(".sc-head") || card;
+    // SC-297: the chrome panel when the family is ported, else the legacy
+    // hover-revealed top-centre strip in the card head.
+    const host = (window.SCChrome && window.SCChrome.panel()) ||
+                 card.querySelector(".sc-head") || card;
 
     const bar = document.createElement("span");
     bar.className = "sc-export";

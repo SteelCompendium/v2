@@ -85,11 +85,15 @@
     // Idempotent under navigation.instant re-fires.
     if (card.querySelector(".sc-copylink")) return;
 
-    // Statblock/featureblock: mount into the card HEAD like the pin /
+    // SC-297: on a family that carries the chrome panel, mount INTO the panel —
+    // the shared plate seated on the card's top border owns every per-card action
+    // now. Families not yet ported fall back to the old top-centre strip:
+    // statblock/featureblock mount into the card HEAD like the pin /
     // encounter-add / export buttons, so all five share one aligned row.
     // (Mounting on the wrap anchored the button to the wrap's top — which,
     // since the scaler note moved inside the wrap, is the note's text.)
-    var host = card.querySelector(".sb > .sb__head, .fb > .fb__head") || card;
+    var host = (window.SCChrome && window.SCChrome.panel()) ||
+      card.querySelector(".sb > .sb__head, .fb > .fb__head") || card;
 
     var btn = document.createElement("button");
     btn.type = "button";

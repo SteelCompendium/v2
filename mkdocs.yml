@@ -138,6 +138,9 @@ extra_css:
   - stylesheets/steel-scale.css
   - stylesheets/steel-pins.css
   - stylesheets/steel-pageact.css
+  # last: the chrome panel re-grounds the per-card control buttons the sheets
+  # above style for the legacy floating strip (SC-297)
+  - stylesheets/steel-chrome.css
 extra_javascript:
   # MathJax and Mermaid were removed: no generated page, source doc, static
   # override, or theme partial uses math ($$/arithmatex) or mermaid diagrams,
@@ -147,6 +150,9 @@ extra_javascript:
   # produce the markup are still configured in markdown_extensions above).
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  # SC-297: the shared card chrome panel. Must load BEFORE every consumer that
+  # mounts a button into it (sc-encounter, scc-card-copy, sc-export, sc-pins).
+  - javascripts/sc-chrome.js
   - javascripts/settings-core.js
   - javascripts/settings-panel.js
   - javascripts/ability-cards-core.js
