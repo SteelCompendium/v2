@@ -18,6 +18,12 @@
    steel-traits.js (runtime JSON island). See TRAITS.md.
    ============================================================ */
 
+/* ── MkDocs H1 hide (the niche carries its own name) — leaf pages only,
+   keyed on h1+hr+card ADJACENCY so container pages embedding traits keep
+   their titles. Regression test: tests/e2e/page-titles.e2e.cjs. ── */
+.md-typeset > h1:first-child:has(+ hr + .sc-trait),
+.md-typeset > h1:first-child + hr:has(+ .sc-trait) { display: none; }
+
 /* ════════════════════════════════════════════════════════════
    NICHE — the trait container
    ════════════════════════════════════════════════════════════ */
