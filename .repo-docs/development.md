@@ -100,3 +100,17 @@ The steel-etl side has Go tests for all site-builder transforms (`internal/site/
 ## Troubleshooting
 
 See [troubleshooting.md](troubleshooting.md).
+
+## My Table custom links
+
+`sc-pins-core.js` owns validation and insertion; `sc-pins.js` mounts the form
+next to `.sc-pins-mount` on each Material navigation. Existing version-1 saved pins
+remain compatible. Custom links use the same `{path,title,kind,ts}` records with
+`kind: "Custom links"`. Same-origin URLs become root-relative paths, preserving
+queries and anchors. Re-adding a path updates its display name and group. New custom
+links at the 200-item limit are rejected without evicting a saved pin.
+
+Only HTTP(S) URLs and root-relative paths are accepted, including when reading
+storage. Labels render as escaped text. User-defined categories are tracked in SC-178.
+Browser coverage: `tests/e2e/pins-custom-links.e2e.cjs` (set `E2E_BASE` and optionally
+`PLAYWRIGHT_PATH` to your installed playwright-core module).

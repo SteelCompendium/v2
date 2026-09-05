@@ -59,3 +59,33 @@ test("serialize caps at 200 newest", () => {
   assert.ok(P.has(round, "/p209/"));
   assert.ok(!P.has(round, "/p0/"));
 });
+
+const base = 'https://steelcompendium.io/v2/pins/';
+test('custom links preserve anchors, normalize local URLs, and survive storage', () => {
+  const result = P.addLink(P.parse(null), '  Combat notes  ', ' https://steelcompendium.io/v2/Read/heroes/combat/#flanking ', base, 2);
+  const saved = P.parse(P.serialize(result.state)).items[0];
+  assert.strictEqual(saved.title, 'Combat notes');
+  assert.strictEqual(saved.path, '/v2/Read/heroes/combat/#flanking');
+  assert.strictEqual(saved.kind, 'Custom links');
+  assert.strictEqual(P.addLink(result.state, 'External', 'https://example.org/notes?q=1#game', base, 3).state.items[1].path, 'https://example.org/notes?q=1#game');
+});
+test('adding an existing link renames it without toggling it away', () => {
+  const original = P.toggle(P.parse(null), item('/v2/Browse/condition/grabbed/', 'Grabbed'));
+  const result = P.addLink(original, 'Grappling reminder', base.replace('pins/', 'Browse/condition/grabbed/'), base, 2);
+  assert.strictEqual(result.updated, true);
+  assert.strictEqual(result.state.items.length, 1);
+  assert.strictEqual(result.state.items[0].title, 'Grappling reminder');
+  assert.strictEqual(original.items[0].title, 'Grabbed');
+});
+test('rejects blank names and unsafe or ambiguous links, including from storage', () => {
+  assert.ok(P.addLink(P.parse(null), ' ', 'https://example.org', base, 1).error);
+  for (const url of ['javascript:alert(1)', 'data:text/html,x', '//example.org', '/\\example.org', 'https://', 'example.org', 'java\nscript:alert(1)', 42]) {
+    assert.ok(P.addLink(P.parse(null), 'Name', url, base, 1).error, String(url));
+    assert.strictEqual(P.parse(JSON.stringify({v:1,items:[{path:url}]})).items.length, 0);
+  }
+});
+test('custom additions at capacity do not silently evict existing pins', () => {
+  const state = {v:1, items:Array.from({length:200}, (_, n) => item('/p' + n, 'Pin'))};
+  assert.ok(P.addLink(state, 'New', 'https://example.org', base, 2).error);
+  assert.strictEqual(P.addLink(state, 'Rename', '/p0', base, 2).state.items.length, 200);
+});

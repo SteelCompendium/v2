@@ -43,3 +43,29 @@
 .sc-pins__rm { background: none; border: 0; cursor: pointer; color: var(--md-default-fg-color--lighter); }
 .sc-pins__rm:hover { color: var(--md-accent-fg-color); }
 @media (max-width: 45em) { .md-typeset .sc-pins__list { columns: 1; } }
+
+/* Custom-link form shares the board's theme tokens in light and dark modes. */
+.sc-pins__form {
+  display: grid; gap: .5rem; padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .4rem;
+}
+.md-content .sc-pins__form h2 { margin: 0; }
+.md-content .sc-pins__form p { margin: 0 0 .5rem; }
+.sc-pins__form label { font-weight: 700; }
+.sc-pins__form input {
+  width: 100%; min-width: 0; padding: .5rem; font: inherit;
+  color: var(--md-default-fg-color); background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--light); border-radius: .2rem;
+}
+.sc-pins__form button {
+  justify-self: start; padding: .45rem .9rem; margin-top: .4rem;
+  border: 1px solid var(--md-accent-fg-color); border-radius: .2rem;
+  color: var(--md-accent-fg-color); cursor: pointer;
+}
+.sc-pins__form :is(input, button):focus-visible {
+  outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px;
+}
+.sc-pins__status { min-height: 1.5em; }
+.sc-pins__list a { overflow-wrap: anywhere; min-width: 0; }
+.sc-pins__rm { flex-shrink: 0; }
+@media print { .sc-pins__form, .sc-pins__rm { display: none !important; } }

@@ -82,7 +82,7 @@
       h += '<h2 class="sc-pins__kind">' + esc(g.kind) + '</h2><ul class="sc-pins__list">';
       g.items.forEach(function (i) {
         h += '<li><a href="' + esc(i.path) + '">' + esc(i.title || i.path) + "</a>" +
-          '<button type="button" class="sc-pins__rm" data-path="' + esc(i.path) + '" title="Remove">×</button></li>';
+          '<button type="button" class="sc-pins__rm" data-path="' + esc(i.path) + '" aria-label="Remove ' + esc(i.title || i.path) + '" title="Remove">×</button></li>';
       });
       h += "</ul>";
     });
@@ -96,10 +96,39 @@
     renderBoard();
   }
 
+  function mountLinkForm() {
+    const mount = document.querySelector(".sc-pins-mount");
+    if (!mount || document.querySelector(".sc-pins__form")) return;
+    const form = document.createElement("form");
+    form.className = "sc-pins__form";
+    form.innerHTML = '<h2>Add a custom link</h2>' +
+      '<p id="sc-pins-help">Paste a section permalink or any web URL and give it a name. Adding the same URL again updates its name. Saved in this browser only (up to 200 links).</p>' +
+      '<label for="sc-pins-name">Display name</label><input id="sc-pins-name" name="title" required autocomplete="off" placeholder="e.g. Our campaign notes">' +
+      '<label for="sc-pins-url">URL</label><input id="sc-pins-url" name="url" required type="text" inputmode="url" spellcheck="false" autocomplete="off" aria-describedby="sc-pins-help" placeholder="https://…">' +
+      '<button type="submit">Add link</button><p class="sc-pins__status" role="status" aria-live="polite"></p>';
+    form.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      const status = form.querySelector(".sc-pins__status");
+      try {
+        const result = window.SCPins.addLink(load(), form.elements.title.value, form.elements.url.value, location.href, Date.now());
+        if (result.error) { status.textContent = result.error; return; }
+        save(result.state);
+        renderBoard();
+        status.textContent = result.updated ? "Link updated." : "Link added.";
+        form.reset();
+        form.elements.title.focus();
+      } catch (_) {
+        status.textContent = "Could not save this link. Check that browser storage is available and try again.";
+      }
+    });
+    mount.before(form);
+  }
+
   function init() {
     if (!window.SCPins) return;
     mountPinButton();
     renderBoard();
+    mountLinkForm();
     // Guard on window, not a closure var: instant nav can re-execute this
     // script on the deployed site, and a second delegated listener makes ×
     // clicks double-fire.

@@ -14,10 +14,32 @@
     try {
       const o = JSON.parse(json);
       if (o && o.v === 1 && Array.isArray(o.items)) {
-        return { v: 1, items: o.items.filter(function (i) { return i && i.path; }) };
+        return { v: 1, items: o.items.filter(function (i) { return i && safePath(i.path); }) };
       }
     } catch (_) {}
     return { v: 1, items: [] };
+  }
+
+  // Only web URLs and root-relative site paths are navigable saved links.
+  function safePath(path) {
+    if (typeof path !== "string" || /[\u0000-\u0020\u007f\\]/.test(path)) return false;
+    if (/^\/(?!\/)/.test(path)) return true;
+    try { return /^https?:$/.test(new URL(path).protocol); } catch (_) { return false; }
+  }
+
+  function addLink(state, title, url, base, ts) {
+    title = typeof title === "string" ? title.trim() : "";
+    url = typeof url === "string" ? url.trim() : "";
+    if (!title) return { error: "Enter a display name." };
+    if (!safePath(url)) return { error: "Enter an http:// or https:// URL, or a site path starting with /." };
+    const resolved = new URL(url, base);
+    const home = new URL(base);
+    const path = resolved.origin === home.origin
+      ? resolved.pathname + resolved.search + resolved.hash : resolved.href;
+    const exists = has(state, path);
+    if (!exists && state.items.length >= 200) return { error: "My Table is full (200 links). Remove a link before adding another." };
+    const item = { path: path, title: title, kind: "Custom links", ts: ts };
+    return { state: { v: 1, items: state.items.filter(function (i) { return i.path !== path; }).concat([item]) }, updated: exists };
   }
 
   function has(state, path) {
@@ -54,7 +76,7 @@
   }
 
   function grouped(state) {
-    const by = {};
+    const by = Object.create(null);
     state.items.forEach(function (i) {
       const k = i.kind || "Other";
       (by[k] = by[k] || []).push(i);
@@ -75,5 +97,5 @@
     return JSON.stringify({ v: 1, items: items });
   }
 
-  return { parse: parse, has: has, toggle: toggle, remove: remove, kindOf: kindOf, grouped: grouped, serialize: serialize };
+  return { addLink: addLink, safePath: safePath, parse: parse, has: has, toggle: toggle, remove: remove, kindOf: kindOf, grouped: grouped, serialize: serialize };
 });
