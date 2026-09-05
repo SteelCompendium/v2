@@ -1,29 +1,33 @@
 /**
  * SCC card copy-link button.
  *
- * Statblock (.sb-wrap), featureblock (.fb-wrap), and ability (.sc-ability) card
- * pages hide their page <h1>, which also hides the native heading-permalink (¶)
- * copy affordance that scc-headerlinks.js wires elsewhere. This module restores a
- * copy affordance for those pages: it injects ONE small button into the page's
- * primary card that copies the stable /scc/<code>/ permalink (from the page's
- * <meta name="scc-permalink">) to the clipboard.
+ * Card pages hide their page <h1> (per family, so the native heading-permalink
+ * (¶) copy affordance scc-headerlinks.js wires elsewhere is hidden too). This
+ * module restores a copy affordance for those pages: it injects ONE small
+ * button into the page's primary card's chrome plate that copies the stable
+ * /scc/<code>/ permalink (from the page's <meta name="scc-permalink">) to the
+ * clipboard.
  *
- * Non-intrusive by design: the button is hidden until the card is hovered
- * (desktop) so it stays out of screenshots; on touch devices (no hover) it shows
- * faint-but-persistent (see steel-copylink.css). Hidden when printing.
+ * Non-intrusive by design: hidden until the card is hovered (desktop) so it
+ * stays out of screenshots; touch/print behaviour is the plate's, not this
+ * module's (steel-chrome.css).
  *
- * Gate: injects only when the primary card is a DIRECT child of .md-typeset — the
- * same condition the CSS uses to hide the H1 — so embedded cards (a statblock's
- * nested feature, a kit's signature ability, an index-page preview) never get a
- * button. Uses document$ so it re-runs under Material's navigation.instant, and is
- * idempotent (skips a card that already has a button). Adds no window/document
- * listeners; the per-button click handler dies with the card on body swap.
+ * SC-297 round 4 (owner ruling, decisions.md -> "Round 3"): the card AND the
+ * mount point both come from `SCChrome` — the single source of truth for "is
+ * this a card page, and which element is the card". No private selector, no
+ * private adjacency check: this mounts nothing on a page SCChrome doesn't
+ * recognize as a card page. (Round 4 fixed HIGH-1 here: `cardKind` didn't know
+ * the kit/trait families, so every kit and trait leaf page lost its only
+ * permalink affordance — not a gate problem, a missing-branch one; see
+ * scc-card-copy-core.js.) Uses document$ so it re-runs under Material's
+ * navigation.instant, and is idempotent (skips a card that already has a
+ * button). Adds no window/document listeners; the per-button click handler
+ * dies with the card on body swap.
  */
 (function () {
   "use strict";
 
   var Core = (typeof window !== "undefined" && window.SccCardCopy) || {};
-  var SELECTOR = ".sb-wrap, .fb-wrap, .sc-ability";
   // Thin-line link icon, reused verbatim from the original card design mockup
   // (reference/design-system/handoff/preview/comp-ability-card.html).
   var ICON =
@@ -70,30 +74,20 @@
     var url = Core.cleanPermalink(metaContent("scc-permalink"));
     if (!url) return;
 
-    var content = document.querySelector(".md-content");
-    if (!content) return;
-
-    var card = content.querySelector(SELECTOR);
-    if (!card) return;
+    // SC-297 round 4: SCChrome is the single card-page discriminator — no
+    // private selector, no private adjacency check here any more.
+    var C = window.SCChrome;
+    var card = C && C.anchor();
+    if (!card) return; // not a card page
 
     var kind = Core.cardKind(card.className);
     if (!kind) return;
 
-    // Primary-card gate (SC-297 D2 fix): the strict h1+hr+card adjacency every
-    // other consumer uses (sc-chrome.js, sc-pageact.js), not just "parent is
-    // .md-typeset" — an EMBEDDED card in a Read chapter satisfies that too,
-    // and used to get a copy-link that copied the chapter's own permalink.
-    if (!card.matches(".md-typeset > h1:first-child + hr + *")) return;
-
     // Idempotent under navigation.instant re-fires.
     if (card.querySelector(".sc-copylink")) return;
 
-    // SC-297 (round 2): mount INTO the shared chrome panel — statblock,
-    // featureblock and ability are all ported, so this always resolves on a
-    // card page today. The `.sb__head`/`.fb__head` fallback stays as a safety
-    // net (must keep working if the panel is ever absent on some future page).
-    var host = (window.SCChrome && window.SCChrome.panel()) ||
-      card.querySelector(".sb > .sb__head, .fb > .fb__head") || card;
+    var host = C.panel();
+    if (!host) return; // mount nothing without a plate to mount into
 
     var btn = document.createElement("button");
     btn.type = "button";

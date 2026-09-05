@@ -1,14 +1,25 @@
 /* sc-export.js — "Copy as Markdown" (from the steel-etl sc-src template
  * island) and "Download PNG" (html-to-image over the card node) on carded
- * leaf pages. Buttons join the hover-revealed top-center control strip
- * (copy-link / pin / encounter-add pattern). instant-nav safe: document$-
- * driven, idempotent per swap. */
+ * leaf pages. Buttons join the shared chrome plate (sc-chrome.js).
+ * instant-nav safe: document$-driven, idempotent per swap.
+ *
+ * SC-297 round 4 (owner ruling, decisions.md -> "Round 3"): the card comes
+ * from `SCChrome` — the single source of truth for "is this a card page, and
+ * which element is the card" — not a private descendant selector. Round 4
+ * fixed HIGH-2 here: on the three `sb-backlink` minion pages the old bare
+ * descendant selector still matched `.sb-wrap` even though `SCChrome.panel()`
+ * was null (the intervening `<p class="sb-backlink">` defeated the strict
+ * adjacency this module never enforced), so the MD/PNG pair fell into the
+ * card's plain `.sc-head` with none of the placement CSS that block used to
+ * carry (steel-copylink.css/steel-pins.css/steel-encounter.css/
+ * steel-export.css's legacy strip rules, deleted in round 2) — static,
+ * always-visible, stacked over the head. Now `SCChrome.anchor()` accepts that
+ * one optional intervening element, so those pages get a real plate too, and
+ * this module mounts nothing when there is no plate to mount into. */
 (function () {
   "use strict";
   function cardNode() {
-    return document.querySelector(
-      ".md-content .sb-wrap, .md-content .md-typeset > .sc-ability, " +
-      ".md-content .fb-wrap, .md-content .sc-kit, .md-content .md-typeset > .sc-trait");
+    return window.SCChrome && window.SCChrome.anchor();
   }
 
   // The stashed source keeps the generator's FILE-relative links
@@ -31,10 +42,8 @@
     const tpl = document.querySelector("template.sc-src");
     const card = cardNode();
     if (!tpl || !card) return;
-    // SC-297: the chrome panel when the family is ported, else the legacy
-    // hover-revealed top-centre strip in the card head.
-    const host = (window.SCChrome && window.SCChrome.panel()) ||
-                 card.querySelector(".sc-head") || card;
+    const host = window.SCChrome && window.SCChrome.panel();
+    if (!host) return; // mount nothing without a plate to mount into
 
     const bar = document.createElement("span");
     bar.className = "sc-export";

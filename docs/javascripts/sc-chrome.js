@@ -12,11 +12,23 @@
  * contract structural (a plate that no rule reveals on paper cannot be revealed by
  * a script that mounted it).
  *
- * WHICH CARDS GET A PLATE. The strict `h1:first-child + hr + <card>` adjacency —
- * the same discriminator sc-pageact.js uses, and the same condition the CSS uses to
- * hide the duplicate H1. So: the page's ONE main entity card. A page that merely
- * EMBEDS cards (a Read chapter, an index page, a statblock's nested features, a
- * kit's signature ability) matches nothing here and is untouched.
+ * WHICH CARDS GET A PLATE. The strict `h1:first-child + hr + <card>` adjacency,
+ * with one optional intervening element: `<p class="sb-backlink">` (the "Summoned
+ * by <a>…</a>" line steel-etl's class_backlinks.go inserts between the hr and
+ * certain retainer/summoner minion statblocks — SC-297 round 4, HIGH-2). Those
+ * pages ARE card pages and get the plate like any other.
+ *
+ * SC-297 round 4 (owner ruling, decisions.md -> "Round 3"): this module is the
+ * SINGLE source of truth for "is this a card page, and which element is the
+ * card" — every consumer (copy-link, pin, encounter-add, export) resolves the
+ * card through SCChrome and mounts nothing when panel() is null; none keeps its
+ * own private card-finding selector any more. sc-pageact.js's plain-page test
+ * shares this exact predicate (calls `SCChrome.anchor()` itself), so a page is
+ * never read as "card" by one seam and "plain" by the other.
+ *
+ * So: the page's ONE main entity card. A page that merely EMBEDS cards (a Read
+ * chapter, an index page, a statblock's nested features, a kit's signature
+ * ability) matches nothing here and is untouched.
  *
  * ROLLOUT — adding a card family is two edits and nothing else:
  *   1. its selector in FAMILIES below;
@@ -34,18 +46,23 @@
 (function () {
   "use strict";
 
-  // Ordered; the first family present on the page wins. One entry per ported card
-  // family — see ROLLOUT above.
+  // One entry per ported card family — see ROLLOUT above. Not order-significant:
+  // querySelector on a selector list returns the first match in DOCUMENT order,
+  // not list order, and only one family can ever be adjacent to the page's hr.
   var FAMILIES = [".sb-wrap", ".sc-ability", ".fb-wrap", ".sc-trait", ".sc-kit"];
 
-  // No bare descendant selectors: an embedded card deeper in prose must NOT match.
+  // No bare descendant selectors: an embedded card deeper in prose must NOT
+  // match. Each family matches directly after the hr, OR after the single
+  // optional `p.sb-backlink` line (see WHICH CARDS GET A PLATE above).
   var MAIN = FAMILIES.map(function (c) {
-    return ".md-typeset > h1:first-child + hr + " + c;
+    return ".md-typeset > h1:first-child + hr + " + c + ", " +
+      ".md-typeset > h1:first-child + hr + p.sb-backlink + " + c;
   }).join(", ");
 
   window.SCChrome = {
     /** The page's main entity card — the node carrying the visible card frame —
-     *  or null when this is not a card page. */
+     *  or null when this is not a card page. The single shared card-page
+     *  predicate: sc-pageact.js's plain-page test calls this too. */
     anchor: function () {
       return document.querySelector(MAIN);
     },

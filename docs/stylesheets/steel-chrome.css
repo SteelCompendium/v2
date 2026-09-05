@@ -229,13 +229,27 @@
      (0,2,0), so a bare `.sc-chrome-anchor` (0,1,0) loses and the plate would
      cover whatever sits above the card. `.md-typeset .sc-chrome-anchor
      .sc-chrome-anchor` is (0,3,0) and beats every one of them without naming
-     any family — which is what keeps the rollout to "add a family to a list". */
+     any family — which is what keeps the rollout to "add a family to a list".
+
+     2.5em, not the plugin's 2.1em (round 4): the plate's own rendered height
+     is a measured, constant 44px across every family at the site's base
+     mobile font-size (19px) — 2.1em (39.9px) is 4.1px SHORT of that, a gap
+     invisible on the five already-shipped families only because each one's
+     immediately preceding sibling (the injected h1/hr) is display:none, so
+     nothing real ever sat in the shortfall. It stopped being invisible on
+     the three sb-backlink minion pages this round legitimately turns into
+     card pages (HIGH-2): their preceding sibling is a REAL, rendered
+     `<p class="sb-backlink">`, and the plate measurably overlapped its
+     bottom 4.11px. 2.5em (47.5px) clears the plate's 44px with margin to
+     spare and does not visibly change anything on the other four families
+     (their clearance was already 90-130px of empty reserved space; this
+     only grows an already-invisible buffer by ~7px). */
   @media (hover: none) {
-    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.1em; }
+    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.5em; }
     .sc-chrome { opacity: 1; pointer-events: auto; }
   }
   @media (max-width: 30em) {
-    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.1em; }
+    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.5em; }
     .sc-chrome { opacity: 1; pointer-events: auto; }
   }
 
@@ -243,8 +257,9 @@
   /* Fixed visual order regardless of which script mounted first — the
      .sc-pageact pattern. Right-anchored and growing right-to-left means the
      LAST-ordered item is the fixed right-hand anchor a reader's eye returns to;
-     today that is the export pair, and the collapse toggle would take that slot
-     if SC-297 ever adopts one (open question). */
+     today that is the export pair. (Scott's ruling, 2026-09-05: no collapse
+     toggle on the site panel — a card page is one card, so collapsing it
+     would leave a blank page. Settled, not an open question.) */
   .sc-chrome > * { order: 9; }
   .sc-chrome .sc-copylink { order: 1; }
   .sc-chrome .sc-pin { order: 2; }
@@ -319,8 +334,16 @@
   }
 
   /* Keep the plate out of PNG card exports, like every other page control
-     (steel-export.css's .sc-export-shooting list). */
-  .sc-export-shooting .sc-chrome { display: none !important; }
+     (steel-export.css's .sc-export-shooting list). Hiding .sc-chrome already
+     hides everything normally mounted inside it; the four class names are
+     restored here too (round 4, MEDIUM-1) as the belt to that braces — so a
+     control that ever again lands outside the plate (a future HIGH-2-shaped
+     bug) still can't leak into a PNG export. */
+  .sc-export-shooting .sc-chrome,
+  .sc-export-shooting .sc-copylink,
+  .sc-export-shooting .sc-pin,
+  .sc-export-shooting .sc-enc-addpage,
+  .sc-export-shooting .sc-export { display: none !important; }
 }
 
 /* -- PRINT (layer 3: greppable from the print scheme itself) --------------- */

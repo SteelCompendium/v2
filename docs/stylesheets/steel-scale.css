@@ -1,9 +1,11 @@
 /* steel-scale.css — statblock level scaler (sc-scale.js), living in the card
    head's Level chip. −/+ steppers flank the chip, hover-revealed like the
-   top-center control strip (copy-link / pin / encounter add); they are
-   absolutely positioned so the untouched chip renders exactly as it does on
-   every other card. Scaled state: amber chip + dashed card outline + the
-   approximation note above the card. */
+   card's other page actions (copy-link / pin / encounter-add — all in the
+   chrome plate now, steel-chrome.css); they are absolutely positioned so the
+   untouched chip renders exactly as it does on every other card. Scaled
+   state: amber chip + dashed card outline + the approximation note above the
+   card. Sanctioned exception (DESIGN.md "Card header system", Q7 ruling): the
+   only other hover-revealed control left inside the card head. */
 .sc-head__right-eyebrow.sc-scale { position: relative; }
 .sc-scale__btn {
   position: absolute; top: 50%; transform: translateY(-50%);

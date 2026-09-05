@@ -15,8 +15,8 @@
 
 /* Keep the statblock sticky header out of PNG shots. The chrome plate itself
    (copy-link/pin/encounter-add/exports, all five families now) has its own
-   twin of this rule in steel-chrome.css (`.sc-export-shooting .sc-chrome`) —
-   hiding the plate hides everything mounted inside it, so this list no longer
-   needs to repeat those classes (SC-297 round 2). */
+   twin of this rule in steel-chrome.css (`.sc-export-shooting .sc-chrome`,
+   plus the four control classes individually as a belt-and-braces — round 4,
+   MEDIUM-1) — so this file only needs the one rule nothing else covers. */
 .sc-export-shooting .sb__sticky { display: none !important; }
 @media print { .sc-export { display: none !important; } }

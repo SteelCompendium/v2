@@ -1,24 +1,27 @@
 /* sc-pageact.js — shared helper for the page-level action strip (.sc-pageact):
  * an always-visible button cluster in the top-right of the content pane on
  * "plain" pages — any page whose main content is NOT a single entity card
- * (card pages carry their own hover-revealed top-center control strip).
+ * (card pages carry their own hover-revealed chrome plate, sc-chrome.js).
  * Consumers mount their buttons themselves: scc-headerlinks.js the page
  * permalink, sc-pins.js the pin; CSS `order` fixes the visual order, so mount
  * order doesn't matter. Styled by steel-pageact.css. Must load BEFORE its
- * consumers in mkdocs.yml extra_javascript. */
+ * consumers in mkdocs.yml extra_javascript (and AFTER sc-chrome.js, which it
+ * depends on — see cardHead() below).
+ *
+ * SC-297 round 4 (owner ruling): `SCChrome` is the single source of truth for
+ * "is this a card page, and which element is the card" — this module's
+ * plain-page test shares that exact predicate rather than keeping its own, so
+ * a page is never read as "card" by one seam and "plain" by the other. */
 (function () {
   "use strict";
-  // A main-card page is identified by the strict h1+hr+card adjacency — the
-  // same rule the CSS uses to hide the duplicate H1. Embedded cards deeper in
-  // prose (Read chapters carry dozens) must NOT match, so no bare descendant
-  // selectors here. querySelector returns the MAIN head: it precedes the
-  // card's sub-feature heads in document order.
-  var MAIN = [".sb-wrap", ".fb-wrap", ".sc-ability", ".sc-trait", ".sc-kit"]
-    .map(function (c) { return ".md-typeset > h1:first-child + hr + " + c + " .sc-head"; })
-    .join(", ");
   window.SCPageAct = {
-    // the main entity card's head, or null on a plain page
-    cardHead: function () { return document.querySelector(MAIN); },
+    // the main entity card's head, or null on a plain page. Delegates the
+    // card-page predicate to SCChrome.anchor() (see file header) — no private
+    // selector here any more.
+    cardHead: function () {
+      var card = window.SCChrome && window.SCChrome.anchor();
+      return card && card.querySelector(".sc-head");
+    },
     // the strip container, created on first call (per instant-nav swap the
     // old one leaves with the swapped-out content)
     strip: function () {

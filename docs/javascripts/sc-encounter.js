@@ -33,12 +33,16 @@
 
   // ── statblock-page "+ add" chip (works on any page with a statblock head) ──
   function mountPageAdd(E) {
-    // Strict card-page adjacency (SC-297 D1 fix): a plain descendant selector
-    // here used to mount the chip on the FIRST embedded statblock in a Read
-    // chapter (21 on /Read/bestiary/retainers/, one leaked chip). Same
-    // h1+hr+card discriminator every other consumer uses (sc-chrome.js,
-    // sc-pageact.js).
-    const sb = document.querySelector(".md-typeset > h1:first-child + hr + .sb-wrap .sb__head");
+    // SC-297 round 4 (owner ruling): SCChrome is the single card-page
+    // discriminator — no private selector here any more (this used to keep
+    // its own h1+hr+card adjacency, which is exactly the D1 bug's fix but
+    // ALSO exactly the kind of private duplicate the ruling retires). Also
+    // now correctly reaches the .sb-wrap on the sb-backlink minion pages
+    // (SCChrome.anchor() accepts that one optional intervening element).
+    const C = window.SCChrome;
+    const card = C && C.anchor();
+    if (!card || !card.classList.contains("sb-wrap")) return; // not a statblock card page
+    const sb = card.querySelector(".sb__head");
     if (!sb || document.querySelector(".sc-enc-addpage")) return;
     // Capture the WHOLE chip, not the first token: "EV 3 for four minions"
     // must keep its qualifier or parseEV prices the group as one creature.
@@ -61,9 +65,9 @@
       btn.textContent = "✓";
       setTimeout(function () { btn.textContent = "+"; }, 1200);
     });
-    // SC-297: the chrome panel when the family is ported, else the legacy
-    // top-centre strip position inside the statblock head.
-    ((window.SCChrome && window.SCChrome.panel()) || sb).appendChild(btn);
+    const host = C.panel();
+    if (!host) return; // mount nothing without a plate to mount into
+    host.appendChild(btn);
   }
 
   function init() {

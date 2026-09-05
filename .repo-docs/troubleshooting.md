@@ -258,9 +258,13 @@ slot paints over it.
 **Cause:** Column 3 of the 6-slot head grid is fully occupied by the right-rail slots
 (eyebrow/primary/deck); anything else placed there stacks on the same grid areas.
 
-**Fix:** Use the hover-revealed **top-center control strip** instead (absolute
-positioning off the card wrapper — every card wrapper is `position: relative`):
-copy-link at `left: 50%`, pin `+1.6rem`, encounter-add `+3.4rem`, exports `+5.2rem`.
+**Fix:** Use the hover-revealed **chrome plate** instead (`sc-chrome.js` +
+`steel-chrome.css`): resolve the card via `window.SCChrome.anchor()`, then mount into
+`window.SCChrome.panel()` — never a private selector, and never mount at all when
+`panel()` is null (SC-297 round 4 ruling: `SCChrome` is the single "is this a card
+page" predicate every consumer shares). CSS `order` in `steel-chrome.css` fixes the
+control's visual position; a new control needs a numbered `order`, nothing more.
 Contract: workspace `DESIGN.md` → "Card header system"; conventions.md has the summary.
-(SC-297, round 2: the strip above is retired — the chrome plate, `sc-chrome.js` +
-`steel-chrome.css`, is now the home a control joins via `SCChrome.panel()`.)
+(Historical: before SC-297 round 2, this was a hover-revealed top-center strip with
+hard-coded rem offsets per control — copy-link at `left: 50%`, pin `+1.6rem`,
+encounter-add `+3.4rem`, exports `+5.2rem`. Retired; do not resurrect that pattern.)

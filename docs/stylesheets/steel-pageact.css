@@ -1,8 +1,10 @@
 /* steel-pageact.css — the page-level action strip (.sc-pageact): always-visible
    page-permalink + pin buttons in the top-right of the content pane on plain
-   (non-card) pages. The page-tier sibling of the card control strip — same
-   1.7rem boxed-button look, but persistent instead of hover-revealed.
-   Mounted by sc-pageact.js + scc-headerlinks.js + sc-pins.js. */
+   (non-card) pages. The page-tier sibling of the card chrome plate
+   (steel-chrome.css) — its own 1.7rem boxed-button look, persistent instead of
+   hover-revealed (Q3 ruling: left as is, a plain page has no card edge for the
+   plate's material to sit on). Mounted by sc-pageact.js + scc-headerlinks.js +
+   sc-pins.js. */
 .md-content__inner { position: relative; }
 .sc-pageact {
   position: absolute; top: .4rem; right: .6rem; z-index: 4;

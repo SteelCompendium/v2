@@ -6,15 +6,26 @@
  *
  * Asserts, per family x scheme: the plate's right edge sits 10px inside the
  * card's border-box right edge and its bottom edge lands exactly on the card's
- * border-box top; no bottom border; opacity 0 at rest / 1 on card hover / 1 on
- * :focus-within; nothing left behind in the card head; `display: none` under
- * print; at 375px always visible with reserved top space and the same
- * geometry. Also the two SC-297 Read-chapter fixes (D1/D2): an embedded card in
- * a chapter must mount neither an encounter-add chip nor a copy-link.
+ * border-box top; no bottom border; opacity 0 at rest / 1 on card hover, back
+ * to 0 once the mouse leaves, 1 again on :focus-within WITH THE MOUSE AWAY
+ * (round 4, MEDIUM-3: a stray hover can't explain the focus result away
+ * anymore); the plate's contents are exactly the family's expected set — not
+ * just logged (round 4, MEDIUM-2: this is what would have caught HIGH-1);
+ * nothing left behind in the card head; `display: none` under print; at 375px
+ * always visible with reserved top space, the same geometry, and clearance
+ * against the last *rendered* preceding sibling (round 4, MEDIUM-3: walks
+ * past `display:none` elements — every family's injected h1/hr is hidden, so
+ * the old check against the immediate previousElementSibling measured a zero
+ * rect and could never fail). Also the two SC-297 Read-chapter fixes (D1/D2):
+ * an embedded card in a chapter must mount neither an encounter-add chip nor
+ * a copy-link.
  *
- * Originated as sc297-round1-chrome-panel.e2e.cjs (round 1, statblock + ability
- * only, 53/53). Round 2 extends it to all five ported families and the D1/D2
- * negative checks, and moves it into the repo.
+ * Originated as sc297-round1-chrome-panel.e2e.cjs (round 1, statblock +
+ * ability only, 53/53). Round 2 extended it to all five ported families and
+ * the D1/D2 negative checks, and moved it into the repo (135/135). Round 4
+ * (owner ruling, decisions.md -> "Round 3"): adds the three `sb-backlink`
+ * minion pages (HIGH-2), per-family expected-contents assertions (MEDIUM-2),
+ * and fixes the two vacuous assertions (MEDIUM-3).
  *
  * Run:
  *   cd v2
@@ -52,15 +63,41 @@ function resolvePlaywrightCore() {
 const BASE = process.env.E2E_BASE || "http://127.0.0.1:8124/";
 const BRAVE = process.env.BRAVE_PATH || "/opt/brave.com/brave/brave";
 
-// One real leaf page per ported family; `card` is a selector unique to the
-// page's MAIN card (nested/embedded instances of the same class must not
-// match — see each selector's comment).
+// One real leaf page per ported family, plus the three sb-backlink minion
+// pages (HIGH-2). `card` is a selector unique to the page's MAIN card
+// (nested/embedded instances of the same class must not match — see each
+// selector's comment). `expect` is the plate's exact expected content set,
+// sorted, by class-name-first-token (MEDIUM-2) — kit has no MD/PNG because
+// kit leaf pages carry no `<template class="sc-src">` export island at all
+// (SC-298, a steel-etl content-pipeline gap, unrelated to this rollout).
 const PAGES = [
-  { name: "statblock", url: "Browse/monster/minotaur/minotaur-sunderer/", card: ".sb-wrap" },
-  { name: "ability", url: "Browse/feature/ability/dragon-knight/dragon-breath/", card: ".md-typeset > .sc-ability" }, // bare .sc-ability also matches nested sub-features
-  { name: "featureblock", url: "Browse/monster/ogre/ogre-malice/", card: ".fb-wrap" },
-  { name: "trait", url: "Browse/feature/trait/orc/glowing-recovery/", card: ".md-typeset > .sc-trait" }, // bare .sc-trait also matches nested sub-traits
-  { name: "kit", url: "Browse/kit/cloak-and-dagger/", card: ".md-typeset > .sc-kit" },
+  { name: "statblock", url: "Browse/monster/minotaur/minotaur-sunderer/", card: ".sb-wrap",
+    expect: ["sc-copylink", "sc-enc-add", "sc-export", "sc-pin"] },
+  { name: "ability", url: "Browse/feature/ability/dragon-knight/dragon-breath/", card: ".md-typeset > .sc-ability", // bare .sc-ability also matches nested sub-features
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
+  { name: "featureblock", url: "Browse/monster/ogre/ogre-malice/", card: ".fb-wrap",
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
+  { name: "trait", url: "Browse/feature/trait/orc/glowing-recovery/", card: ".md-typeset > .sc-trait", // bare .sc-trait also matches nested sub-traits
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
+  { name: "kit", url: "Browse/kit/cloak-and-dagger/", card: ".md-typeset > .sc-kit",
+    expect: ["sc-copylink", "sc-pin"] },
+  // SC-297 round 4, HIGH-2: these three pages render
+  // <h1> -> <hr> -> <p class="sb-backlink">Summoned by <a>…</a></p> -> .sb-wrap.
+  // The intervening <p> used to defeat SCChrome's strict adjacency, so no
+  // plate mounted here at all, but sc-export.js's OWN bare descendant
+  // selector still matched and dropped the MD/PNG pair into the card head
+  // with no placement CSS. SCChrome.anchor() now accepts that one optional
+  // element, so these ARE card pages and get a normal plate. None of the
+  // three has an EV chip (they're retainer/summoner minions, not buyable by
+  // EV), so — like ability/featureblock/trait — no encounter-add mounts;
+  // that absence is a property of the page content, not this gate's family
+  // list, and is asserted the same way every other family's set is.
+  { name: "minion-razor", url: "Browse/monster/retainer/summoner/minion/razor/", card: ".sb-wrap",
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
+  { name: "minion-gorrre", url: "Browse/monster/retainer/summoner/minion/gorrre/", card: ".sb-wrap",
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
+  { name: "minion-violent", url: "Browse/monster/retainer/summoner/minion/violent/", card: ".sb-wrap",
+    expect: ["sc-copylink", "sc-export", "sc-pin"] },
 ];
 
 // SC-297 D1/D2: a Read chapter embeds many cards (21 .sb-wrap on this page)
@@ -108,7 +145,14 @@ function ok(cond, msg) { console.log((cond ? "PASS " : "FAIL ") + msg); if (!con
         ok(Math.abs(rest.rightGap - 10) < 0.6, `${tag} right edge 10px inside card border-box right (got ${rest.rightGap.toFixed(2)})`);
         ok(Math.abs(rest.bottomDelta) < 0.6, `${tag} bottom edge on the card's border-box top (delta ${rest.bottomDelta.toFixed(2)})`);
         ok(rest.borderBottom === "0px", `${tag} no bottom border (${rest.borderBottom})`);
-        console.log(`INFO ${tag} items=${JSON.stringify(rest.items)} order=${JSON.stringify(rest.order)} cardOverflow=${rest.cardOverflow}`);
+        // Round 4, MEDIUM-2: the contents are ASSERTED, not just logged — a
+        // family that silently lost a control (HIGH-1: kit and trait lost
+        // copy-link) now fails a named check instead of passing 135/135.
+        const gotSorted = rest.items.slice().sort();
+        const wantSorted = pg.expect.slice().sort();
+        ok(JSON.stringify(gotSorted) === JSON.stringify(wantSorted),
+          `${tag} plate contains exactly the expected controls (want ${JSON.stringify(wantSorted)}, got ${JSON.stringify(gotSorted)})`);
+        console.log(`INFO ${tag} order=${JSON.stringify(rest.order)} cardOverflow=${rest.cardOverflow}`);
       }
 
       // hover reveal
@@ -118,13 +162,32 @@ function ok(cond, msg) { console.log((cond ? "PASS " : "FAIL ") + msg); if (!con
       const hovOp = await page.evaluate((s) => getComputedStyle(document.querySelector(s).querySelector(":scope > .sc-chrome")).opacity, pg.card);
       ok(hovOp === "1", `${tag} revealed on card hover (opacity=${hovOp})`);
 
-      // keyboard twin
-      const focOp = await page.evaluate((s) => {
-        const p = document.querySelector(s).querySelector(":scope > .sc-chrome");
-        p.querySelector("button").focus();
-        return getComputedStyle(p).opacity;
+      // Round 4, MEDIUM-3: move the mouse away and confirm the plate actually
+      // hides again BEFORE testing :focus-within — otherwise a stray :hover
+      // (the mouse never having left the card between the two checks) can
+      // explain the "revealed" result on its own, and the focus arm proves
+      // nothing (verified: deleting :focus-within from steel-chrome.css still
+      // passed the old sequence).
+      await page.mouse.move(0, 0);
+      await page.waitForTimeout(400);
+      const awayOp = await page.evaluate((s) => getComputedStyle(document.querySelector(s).querySelector(":scope > .sc-chrome")).opacity, pg.card);
+      ok(awayOp === "0", `${tag} hides again once the mouse leaves (opacity=${awayOp})`);
+
+      // keyboard twin — mouse is now away from the card, so this cannot be
+      // :hover in disguise. Focus and the opacity readback are split across
+      // two evaluate() calls with a wait between them (matching the hover
+      // check's own move-then-wait-then-read shape): focus() synchronously
+      // triggers a fresh 0.18s opacity transition, and reading computed
+      // style in the SAME script tick that calls focus() can observe the
+      // pre-transition frame (measured: opacity still "0" immediately after
+      // focus() with pointer-events already "auto" — the non-transitioned
+      // half of the same rule had already applied).
+      await page.evaluate((s) => {
+        document.querySelector(s).querySelector(":scope > .sc-chrome").querySelector("button").focus();
       }, pg.card);
-      ok(focOp === "1", `${tag} revealed by :focus-within (opacity=${focOp})`);
+      await page.waitForTimeout(400);
+      const focOp = await page.evaluate((s) => getComputedStyle(document.querySelector(s).querySelector(":scope > .sc-chrome")).opacity, pg.card);
+      ok(focOp === "1", `${tag} revealed by :focus-within with the mouse away (opacity=${focOp})`);
 
       // legacy strip must be gone from the head
       const stray = await page.evaluate(() => ({
@@ -157,18 +220,30 @@ function ok(cond, msg) { console.log((cond ? "PASS " : "FAIL ") + msg); if (!con
         const card = document.querySelector(s);
         const p = card.querySelector(":scope > .sc-chrome");
         const cr = card.getBoundingClientRect(), pr = p.getBoundingClientRect();
-        const prev = card.previousElementSibling ? card.previousElementSibling.getBoundingClientRect() : null;
+        // Round 4, MEDIUM-3: walk past hidden/zero-rect siblings to the last
+        // one actually rendered (every family's injected h1/hr is
+        // display:none; the sb-backlink minion pages' <p> is the one case
+        // that IS rendered, and clearance must be measured against it).
+        let sib = card.previousElementSibling, prevRect = null;
+        while (sib) {
+          const cs2 = getComputedStyle(sib);
+          const r = sib.getBoundingClientRect();
+          if (cs2.display !== "none" && (r.width > 0 || r.height > 0)) { prevRect = r; break; }
+          sib = sib.previousElementSibling;
+        }
         return {
           opacity: getComputedStyle(p).opacity,
           marginTop: getComputedStyle(card).marginTop,
-          clearsPrev: prev ? pr.top - prev.bottom : null,
+          clearsPrev: prevRect ? pr.top - prevRect.bottom : null,
+          prevTag: sib ? sib.tagName + "." + sib.className : null,
           rightGap: cr.right - pr.right,
           bottomDelta: pr.bottom - cr.top,
         };
       }, pg.card);
       ok(ph.opacity === "1", `${tag} phone: always visible (opacity=${ph.opacity})`);
       ok(parseFloat(ph.marginTop) >= 30, `${tag} phone: reserved top space (margin-top=${ph.marginTop})`);
-      ok(ph.clearsPrev === null || ph.clearsPrev >= -0.5, `${tag} phone: panel clears the element above (gap=${ph.clearsPrev})`);
+      ok(ph.clearsPrev === null || ph.clearsPrev >= -0.5,
+        `${tag} phone: panel clears the last rendered element above (gap=${ph.clearsPrev}, prev=${ph.prevTag})`);
       ok(Math.abs(ph.rightGap - 10) < 0.6 && Math.abs(ph.bottomDelta) < 0.6, `${tag} phone: geometry holds (right ${ph.rightGap.toFixed(2)}, bottom ${ph.bottomDelta.toFixed(2)})`);
       await pctx.close();
     }
