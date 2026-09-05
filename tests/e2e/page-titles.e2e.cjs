@@ -53,6 +53,15 @@ const CASES = [
   { url: "Browse/monster/goblin/goblin-warrior/",                visible: false },
   { url: "Browse/kit/panther/",                                  visible: false },
   { url: "Browse/monster/goblin/goblin-malice/",                 visible: false },
+  // SC-297 round 6 (SC-301): these three render an extra
+  // <p class="sb-backlink"> SIBLING between the <hr> and the .sb-wrap
+  // ("Summoned by <a>…</a>") — steel-statblock.css's h1-hide rule now has a
+  // matching alternation for that one optional element, same as SCChrome's
+  // JS predicate (round 4) already did. Regression guard so the two can't
+  // drift apart again.
+  { url: "Browse/monster/retainer/summoner/minion/razor/",       visible: false },
+  { url: "Browse/monster/retainer/summoner/minion/gorrre/",      visible: false },
+  { url: "Browse/monster/retainer/summoner/minion/violent/",     visible: false },
 ];
 
 (async () => {

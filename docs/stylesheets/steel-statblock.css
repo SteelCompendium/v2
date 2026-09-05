@@ -48,9 +48,21 @@
    directly follows it (a statblock leaf page — the card head carries the
    name). Adjacency-keyed so container pages embedding statblocks keep their
    own titles — mirrors the ability-card rule in steel-ability-cards.css.
-   Regression test: tests/e2e/page-titles.e2e.cjs. */
+   Regression test: tests/e2e/page-titles.e2e.cjs.
+
+   The `p.sb-backlink` alternation (round 6, SC-301/round-5 MEDIUM): three
+   retainer/summoner minion pages render an extra "Summoned by <a>…</a>" line
+   (steel-etl's class_backlinks.go) between the <hr> and the .sb-wrap. SCChrome
+   (sc-chrome.js) already accepts that one optional element as still-a-card-page
+   (round 4) — this rule didn't, so those three pages were card pages to the JS
+   but plain pages to the CSS: a visible duplicate title, the same defect round
+   2b fixed for traits. Only .sb-wrap carries a backlink today (confirmed:
+   grep -rl 'sb-backlink' docs/Browse/ matches only the three minion pages) —
+   do not add this alternation to the other four families' rules speculatively. */
 .md-typeset > h1:first-child:has(+ hr + .sb-wrap),
 .md-typeset > h1:first-child + hr:has(+ .sb-wrap) { display: none; }
+.md-typeset > h1:first-child:has(+ hr + p.sb-backlink + .sb-wrap),
+.md-typeset > h1:first-child + hr:has(+ p.sb-backlink + .sb-wrap) { display: none; }
 
 /* ════════════════════════════════════════════════════════════
    PLATE
