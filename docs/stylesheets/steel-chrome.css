@@ -55,8 +55,9 @@
    the one piece of chrome that DOES occupy layout (the touch/narrow reserved
    top space) is inside `@media screen` too.
 
-   THIS ROUND (SC-297 round 1) ports TWO families — statblock (.sb-wrap) and
-   ability card (.sc-ability). Adding a family is two edits:
+   SC-297 round 2 rolls the panel out to all five families that carried the old
+   strip — statblock (.sb-wrap), ability card (.sc-ability), featureblock
+   (.fb-wrap), trait (.sc-trait) and kit (.sc-kit). Adding a family is two edits:
      1. its selector in FAMILIES, sc-chrome.js;
      2. its frame-offset block in "PER-FAMILY FRAME OFFSETS" below (and, if the
         card node CLIPS its overflow, the clip relaxation next to it).
@@ -183,6 +184,26 @@
   .md-typeset .sc-ability.sc-chrome-anchor > .sc-chrome {
     position: absolute;
     z-index: 3;
+  }
+
+  /* .fb-wrap is the same shape as .sb-wrap: an UNFRAMED wrapper whose box
+     coincides with the framed `.md-typeset.fb` inside it (which carries the
+     1px border and its own `overflow: clip` — not the anchor, so no relaxation
+     is needed here). Zero correction on both sides. */
+  .fb-wrap.sc-chrome-anchor {
+    --sc-chrome-frame-top: 0px;
+    --sc-chrome-frame-right: 0px;
+  }
+  /* .sc-trait and .sc-kit ARE the framed card (a 1px border on every side,
+     no overflow set — neither clips), so each needs its own border corrected
+     for, same as .sc-ability, and no clip relaxation. */
+  .md-typeset .sc-trait.sc-chrome-anchor {
+    --sc-chrome-frame-top: 1px;
+    --sc-chrome-frame-right: 1px;
+  }
+  .md-typeset .sc-kit.sc-chrome-anchor {
+    --sc-chrome-frame-top: 1px;
+    --sc-chrome-frame-right: 1px;
   }
 
   /* -- REVEAL -------------------------------------------------------------- */

@@ -33,7 +33,12 @@
 
   // ── statblock-page "+ add" chip (works on any page with a statblock head) ──
   function mountPageAdd(E) {
-    const sb = document.querySelector(".md-content .sb-wrap .sb__head");
+    // Strict card-page adjacency (SC-297 D1 fix): a plain descendant selector
+    // here used to mount the chip on the FIRST embedded statblock in a Read
+    // chapter (21 on /Read/bestiary/retainers/, one leaked chip). Same
+    // h1+hr+card discriminator every other consumer uses (sc-chrome.js,
+    // sc-pageact.js).
+    const sb = document.querySelector(".md-typeset > h1:first-child + hr + .sb-wrap .sb__head");
     if (!sb || document.querySelector(".sc-enc-addpage")) return;
     // Capture the WHOLE chip, not the first token: "EV 3 for four minions"
     // must keep its qualifier or parseEV prices the group as one creature.

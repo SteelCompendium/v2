@@ -1,20 +1,8 @@
-/* steel-export.css — MD / PNG export chips (sc-export.js), joining the
-   hover-revealed top-center control strip (copy-link at 50%, pin +1.6rem,
-   encounter-add +3.4rem, exports at +5.2rem). */
-.sc-head .sc-export {
-  position: absolute; z-index: 4; top: .45rem;
-  left: calc(50% + 5.2rem);
-  display: inline-flex; gap: .25rem;
-  opacity: 0; transition: opacity .18s ease;
-}
-.sb-wrap:hover .sc-export,
-.fb-wrap:hover .sc-export,
-.sc-kit:hover .sc-export,
-.sc-trait:hover .sc-export,
-.sc-ability:hover .sc-export,
-.sc-export:focus-within { opacity: 1; }
-@media (hover: none) { .sc-head .sc-export { opacity: .4; } }
+/* steel-export.css — MD / PNG export chips (sc-export.js).
 
+   SC-297 (round 2): the chip pair now mounts inside the shared chrome plate
+   (steel-chrome.css), which re-grounds position/opacity with a more specific
+   selector — all five card families that carry exports are ported. */
 .sc-export__btn {
   height: 1.7rem; padding: 0 .35rem;
   display: grid; place-items: center;
@@ -25,10 +13,10 @@
 }
 .sc-export__btn:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
 
-/* keep the page controls + statblock sticky header out of PNG shots */
-.sc-export-shooting .sc-export,
-.sc-export-shooting .sc-pin,
-.sc-export-shooting .sc-enc-addpage,
-.sc-export-shooting .sc-copylink,
+/* Keep the statblock sticky header out of PNG shots. The chrome plate itself
+   (copy-link/pin/encounter-add/exports, all five families now) has its own
+   twin of this rule in steel-chrome.css (`.sc-export-shooting .sc-chrome`) —
+   hiding the plate hides everything mounted inside it, so this list no longer
+   needs to repeat those classes (SC-297 round 2). */
 .sc-export-shooting .sb__sticky { display: none !important; }
 @media print { .sc-export { display: none !important; } }

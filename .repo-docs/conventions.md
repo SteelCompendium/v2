@@ -62,13 +62,15 @@ gets a `tests/<name>-core.test.js` (node:test). Exemplars: `settings-core.js`/`s
 the core's `window` global); stylesheets go in `extra_css`. Real-browser checks go in
 `tests/e2e/<name>.e2e.cjs` (playwright-core + Brave; see development.md → Testing).
 
-## Per-card page actions → the top-center control strip
+## Per-card page actions → the chrome plate
 
 Controls that act on a card page (copy-link, ★ pin, add-to-encounter, MD/PNG export)
-are absolutely positioned in the card's **top-center band** and hover-revealed —
-slots at `left: 50%` / `+1.6rem` / `+3.4rem` / `+5.2rem`. Never place controls in the
-`.sc-head` grid's column 3: they collide with the Level chip / role mini. Full
-contract: workspace `DESIGN.md` → "Card header system".
+mount into a shared hover-revealed **chrome plate** seated above the card's top edge
+(`sc-chrome.js` + `steel-chrome.css`), right-anchored and growing right-to-left, on
+all five card families that host page actions (statblock, featureblock, ability,
+trait, kit). Never place controls in the `.sc-head` grid's column 3: they collide
+with the Level chip / role mini. Full contract: workspace `DESIGN.md` → "Card header
+system" + "The element chrome panel".
 
 ## MkDocs Material Overrides
 

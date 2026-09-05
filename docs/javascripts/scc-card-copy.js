@@ -79,19 +79,19 @@
     var kind = Core.cardKind(card.className);
     if (!kind) return;
 
-    // Primary-card gate: same condition as the CSS H1-hide rules.
-    if (!card.parentElement || !card.parentElement.classList.contains("md-typeset")) return;
+    // Primary-card gate (SC-297 D2 fix): the strict h1+hr+card adjacency every
+    // other consumer uses (sc-chrome.js, sc-pageact.js), not just "parent is
+    // .md-typeset" — an EMBEDDED card in a Read chapter satisfies that too,
+    // and used to get a copy-link that copied the chapter's own permalink.
+    if (!card.matches(".md-typeset > h1:first-child + hr + *")) return;
 
     // Idempotent under navigation.instant re-fires.
     if (card.querySelector(".sc-copylink")) return;
 
-    // SC-297: on a family that carries the chrome panel, mount INTO the panel —
-    // the shared plate seated on the card's top border owns every per-card action
-    // now. Families not yet ported fall back to the old top-centre strip:
-    // statblock/featureblock mount into the card HEAD like the pin /
-    // encounter-add / export buttons, so all five share one aligned row.
-    // (Mounting on the wrap anchored the button to the wrap's top — which,
-    // since the scaler note moved inside the wrap, is the note's text.)
+    // SC-297 (round 2): mount INTO the shared chrome panel — statblock,
+    // featureblock and ability are all ported, so this always resolves on a
+    // card page today. The `.sb__head`/`.fb__head` fallback stays as a safety
+    // net (must keep working if the panel is ever absent on some future page).
     var host = (window.SCChrome && window.SCChrome.panel()) ||
       card.querySelector(".sb > .sb__head, .fb > .fb__head") || card;
 

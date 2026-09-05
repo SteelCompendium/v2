@@ -262,3 +262,5 @@ slot paints over it.
 positioning off the card wrapper — every card wrapper is `position: relative`):
 copy-link at `left: 50%`, pin `+1.6rem`, encounter-add `+3.4rem`, exports `+5.2rem`.
 Contract: workspace `DESIGN.md` → "Card header system"; conventions.md has the summary.
+(SC-297, round 2: the strip above is retired — the chrome plate, `sc-chrome.js` +
+`steel-chrome.css`, is now the home a control joins via `SCChrome.panel()`.)

@@ -23,8 +23,8 @@
  *   2. its `--sc-chrome-frame-top/right` block under "PER-FAMILY FRAME OFFSETS"
  *      in steel-chrome.css (plus the clip relaxation if the card node clips its
  *      own overflow, as .sc-ability does).
- * SC-297 round 1 ports statblock + ability card only; the remaining families
- * (.fb-wrap, .sc-trait, .sc-kit) still carry the old floating top-centre strip.
+ * SC-297 round 2 rolls the panel out to all five families that carried the old
+ * floating top-centre strip: statblock, featureblock, ability, trait, kit.
  *
  * instant-nav safe: no listeners at all, and no document$ subscription. panel() is
  * lazy and idempotent — it looks for an existing plate on the current main card
@@ -36,7 +36,7 @@
 
   // Ordered; the first family present on the page wins. One entry per ported card
   // family — see ROLLOUT above.
-  var FAMILIES = [".sb-wrap", ".sc-ability"];
+  var FAMILIES = [".sb-wrap", ".sc-ability", ".fb-wrap", ".sc-trait", ".sc-kit"];
 
   // No bare descendant selectors: an embedded card deeper in prose must NOT match.
   var MAIN = FAMILIES.map(function (c) {
