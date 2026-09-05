@@ -130,3 +130,12 @@ IDs, and wrap wide tables for horizontal scrolling. They are read-only excerpts;
 page tools remain on the original page. External links are never fetched. No HTML is
 stored in localStorage. `tests/e2e/pins-sections.e2e.cjs` covers the Monsters examples,
 SCC resolution, missing anchors, section boundaries and reload behavior.
+
+### My Table layout
+
+The add-section form is collapsed behind a button with `aria-expanded` and
+`aria-controls`. Opening focuses the name field; Cancel, Escape, and successful save
+close the form and restore focus to the trigger. Validation errors keep it open.
+Save confirmation lives in the visible toolbar's live region. The title and category
+headings use compact, board-scoped styles. Custom categories remain SC-178.
+`tests/e2e/pins-layout.e2e.cjs` covers the disclosure, focus, save/cancel and mobile layout.

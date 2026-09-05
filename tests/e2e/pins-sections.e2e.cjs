@@ -9,7 +9,8 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'playwright-core');
   await page.goto(base+'pins/');
   await page.evaluate(() => localStorage.clear()); await page.reload();
   const add = async (name,path) => {
-   await page.getByLabel('Display name',{exact:true}).fill(name);
+   if (!await page.locator('.sc-pins__form').isVisible()) await page.getByRole('button', {name:'Add a section', exact:true}).click();
+      await page.getByLabel('Display name',{exact:true}).fill(name);
    await page.getByLabel('URL',{exact:true}).fill(base+path);
    await page.getByRole('button',{name:'Add link',exact:true}).click();
   };
@@ -45,7 +46,7 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH || 'playwright-core');
    return {text:part.textContent, scripts:part.querySelectorAll('script').length, child:part.querySelector('h3').id, href:part.querySelector('a').href};
   });
   assert.match(result.text,/Included.*Child.*EV/); assert.doesNotMatch(result.text,/Excluded|Stop/);
-  assert.equal(result.scripts,0); assert.equal(result.child,'test-child'); assert.equal(result.href,new URL('book/next/#there',base).href);
+  assert.equal(result.scripts,0); assert.equal(result.child,'test-child'); assert.equal(result.href,new URL('/book/next/#there',base).href);
   await page.reload();
   assert.equal(await page.locator('.sc-pins__section-fold[open]').count(),0);
   await page.getByText('Minions at my table',{exact:true}).click();

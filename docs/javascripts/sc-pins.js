@@ -131,13 +131,52 @@
   function mountLinkForm() {
     const mount = document.querySelector(".sc-pins-mount");
     if (!mount || document.querySelector(".sc-pins__form")) return;
+    const toolbar = document.createElement("div");
+    toolbar.className = "sc-pins__toolbar";
+    const toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "sc-pins__add";
+    toggle.textContent = "Add a section";
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.setAttribute("aria-controls", "sc-pins-form");
+    const notice = document.createElement("span");
+    notice.setAttribute("role", "status");
+    toolbar.append(toggle, notice);
     const form = document.createElement("form");
+    form.id = "sc-pins-form";
+    form.hidden = true;
     form.className = "sc-pins__form";
     form.innerHTML = '<h2>Add a section</h2>' +
       '<p id="sc-pins-help">Copy a heading link from this site and paste it below. Its section will appear here under your chosen name. Adding the same link again renames it. Other web URLs are saved as links only.</p>' +
       '<label for="sc-pins-name">Display name</label><input id="sc-pins-name" name="title" required autocomplete="off" placeholder="e.g. Minion rules">' +
       '<label for="sc-pins-url">URL</label><input id="sc-pins-url" name="url" required type="text" inputmode="url" spellcheck="false" autocomplete="off" aria-describedby="sc-pins-help" placeholder="https://…">' +
       '<button type="submit">Add link</button><p class="sc-pins__status" role="status" aria-live="polite"></p>';
+    const cancel = document.createElement("button");
+    cancel.type = "button";
+    cancel.className = "sc-pins__cancel";
+    cancel.textContent = "Cancel";
+    const actions = document.createElement("div");
+    actions.className = "sc-pins__form-actions";
+    const submit = form.querySelector('button[type="submit"]');
+    submit.before(actions);
+    actions.append(submit, cancel);
+    function close() {
+      form.hidden = true;
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.focus();
+    }
+    toggle.addEventListener("click", function () {
+      if (!form.hidden) { close(); return; }
+      form.hidden = false;
+      toggle.setAttribute("aria-expanded", "true");
+      notice.textContent = "";
+      form.querySelector(".sc-pins__status").textContent = "";
+      form.elements.title.focus();
+    });
+    cancel.addEventListener("click", close);
+    form.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") { event.preventDefault(); close(); }
+    });
     form.addEventListener("submit", function (ev) {
       ev.preventDefault();
       const status = form.querySelector(".sc-pins__status");
@@ -148,12 +187,13 @@
         renderBoard(result.state.items[result.state.items.length - 1].path);
         status.textContent = result.updated ? "Link updated." : "Link added.";
         form.reset();
-        form.elements.title.focus();
+        notice.textContent = status.textContent;
+        close();
       } catch (_) {
         status.textContent = "Could not save this link. Check that browser storage is available and try again.";
       }
     });
-    mount.before(form);
+    mount.before(toolbar, form);
   }
 
   function init() {

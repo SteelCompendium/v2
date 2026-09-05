@@ -94,3 +94,25 @@
 @media print {
   .sc-pins__section-actions { display: none !important; }
 }
+
+/* My Table is a reference board: its controls and labels stay compact. */
+.md-content:has(.sc-pins-mount) h1 { font-size: 1.6rem; margin-bottom: .6rem; }
+.md-content .sc-pins__kind {
+  font-family: inherit; font-size: .8rem; font-weight: 700;
+  text-transform: none; letter-spacing: normal; line-height: 1.4;
+  margin: 1rem 0 .3rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-content .sc-pins__list { margin-top: .3rem; }
+.sc-pins__toolbar { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: .8rem 0; }
+.sc-pins__add {
+  padding: .35rem .7rem; border: 1px solid var(--md-accent-fg-color);
+  border-radius: .2rem; color: var(--md-accent-fg-color); cursor: pointer;
+}
+.sc-pins__add:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
+.sc-pins__form[hidden] { display: none; }
+.md-content .sc-pins__form h2 { font-size: 1rem; }
+.sc-pins__form .sc-pins__cancel { border-color: var(--md-default-fg-color--light); color: var(--md-default-fg-color); }
+@media print { .sc-pins__toolbar { display: none !important; } }
+
+.sc-pins__form-actions { display: flex; flex-wrap: wrap; gap: .6rem; }

@@ -13,6 +13,7 @@ const { chromium } = require(process.env.PLAYWRIGHT_PATH || 'playwright-core');
     await page.evaluate(() => localStorage.clear());
     await page.reload();
     const add = async (name, url) => {
+      if (!await page.locator('.sc-pins__form').isVisible()) await page.getByRole('button', {name:'Add a section', exact:true}).click();
       await page.getByLabel('Display name', {exact:true}).fill(name);
       await page.getByLabel('URL', {exact:true}).fill(url);
       await page.getByRole('button', {name:'Add link',exact:true}).click();
@@ -28,6 +29,7 @@ const { chromium } = require(process.env.PLAYWRIGHT_PATH || 'playwright-core');
     assert.equal(await page.locator('.sc-pins__list li').count(), 1);
     await add('<img src=x onerror=alert(1)>', base + 'Read/heroes/combat/#flanking');
     assert.equal(await page.locator('.sc-pins-mount img').count(), 0);
+    await page.getByRole('button', {name:'Add a section', exact:true}).click();
     await page.evaluate(() => {
       document.body.setAttribute('data-md-color-scheme', 'slate');
       document.querySelector('#sc-pins-name').value = 'Flanking reminder';
