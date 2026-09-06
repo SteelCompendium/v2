@@ -26,7 +26,7 @@
   var SNIPPET = 320;
   var LEAD = 64;
 
-  function stripTags(s) { return String(s || "").replace(/<[^>]+>/g, ""); }
+  function stripTags(s) { return String(s || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim(); }
 
   function processTerm(t) {
     t = String(t).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -102,12 +102,11 @@
     ms.addAll(records);
 
     function suggestFor(items, terms) {
+      if (!items.length) return [];
       var last = terms[terms.length - 1];
-      for (var i = 0; i < items.length; i++) {
-        var words = tokenize(items[i][0].title);
-        for (var j = 0; j < words.length; j++) {
-          if (words[j] !== last && words[j].indexOf(last) === 0) return [words[j]];
-        }
+      var words = tokenize(items[0][0].title);
+      for (var j = 0; j < words.length; j++) {
+        if (words[j] !== last && words[j].indexOf(last) === 0) return [words[j]];
       }
       return [];
     }

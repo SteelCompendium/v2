@@ -93,6 +93,22 @@ test("suggest completes the last token from the top title", () => {
   assert.strictEqual(engine.search("gob").suggest, undefined);
 });
 
+test("suggest looks only at the top group, not lower-ranked ones", () => {
+  const warEngine = Core.createEngine(MiniSearch, [
+    { location: "a/", title: "War", text: "war" },
+    { location: "b/", title: "Warlock", text: "warlock" },
+  ]);
+  // Top group for "war" is the exact-title match "War" itself, which has no
+  // completion — must not fall through to "Warlock" in a lower group.
+  assert.deepStrictEqual(warEngine.search("war", { suggest: true }).suggest, []);
+  // "warl" only matches "Warlock", which is then the top (and only) group.
+  assert.deepStrictEqual(warEngine.search("warl", { suggest: true }).suggest, ["warlock"]);
+});
+
+test("tokenize inserts a separator where a tag is stripped, not a weld", () => {
+  assert.deepStrictEqual(Core.tokenize("Effect<p>The target</p>"), ["effect", "the", "target"]);
+});
+
 test("empty query → no items", () => {
   assert.deepStrictEqual(engine.search("   ").items, []);
 });
