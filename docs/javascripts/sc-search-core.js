@@ -64,7 +64,7 @@
       var e = escapeRe(t);
       return i === arr.length - 1 ? e + "\\w*" : e + "s?";
     });
-    return parts.length ? new RegExp("(?<![\\w])(" + parts.join("|") + ")", "giu") : null;
+    return parts.length ? new RegExp("\\b(" + parts.join("|") + ")", "giu") : null;
   }
 
   function highlight(s, terms) {

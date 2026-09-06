@@ -134,3 +134,14 @@ test("tokenize inserts a separator where a tag is stripped, not a weld", () => {
 test("empty query → no items", () => {
   assert.deepStrictEqual(engine.search("   ").items, []);
 });
+
+test("highlight marks whole-word matches, not a substring inside a longer word", () => {
+  assert.strictEqual(
+    Core.highlight("goblin goblins ungoblin", ["goblin"]),
+    "<mark>goblin</mark> <mark>goblins</mark> ungoblin"
+  );
+});
+
+test("highlight does not throw on a term containing regex metacharacters", () => {
+  assert.strictEqual(typeof Core.highlight("c++ code", ["c++"]), "string");
+});
