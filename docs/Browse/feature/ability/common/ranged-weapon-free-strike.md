@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 action_type: Main action
 distance: '[Ranged](../../../rule/combat/ranged.md) 5'
 effects:

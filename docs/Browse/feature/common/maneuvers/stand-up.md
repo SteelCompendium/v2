@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Stand Up
 scc: mcdm.heroes.v1/feature.common.maneuvers/stand-up
 type: feature

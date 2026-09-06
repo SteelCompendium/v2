@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Make or Assist a Test
 scc: mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test
 type: feature

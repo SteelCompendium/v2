@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Advance
 scc: mcdm.heroes.v1/feature.common.move-actions/advance
 type: feature

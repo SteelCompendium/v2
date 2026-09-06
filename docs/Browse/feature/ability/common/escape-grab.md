@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 action_type: '[Maneuver](../../../rule/combat/turn.md)'
 distance: Self
 effects:

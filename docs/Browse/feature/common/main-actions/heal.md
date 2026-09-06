@@ -1,6 +1,8 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
+search:
+  boost: 3
 name: Heal
 scc: mcdm.heroes.v1/feature.common.main-actions/heal
 type: feature
