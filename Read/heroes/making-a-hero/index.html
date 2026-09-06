@@ -1,0 +1,2478 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  
+    <link rel="canonical" href="https://steelcompendium.io/v2/Read/heroes/making-a-hero/">
+  
+  
+    <link rel="prev" href="../the-basics/">
+  
+  
+    <link rel="next" href="../ancestries/">
+  
+  
+    
+  
+  
+  <link rel="icon" href="../../../Media/favicon.ico">
+  <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+
+    
+      
+        <title>Making a hero - Steel Compendium: Draw Steel Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/palette.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/custom_font.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/mobile.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/print.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-redesign.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-settings.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-cardhead.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-class.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-ability-cards.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-kit.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-statblock.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-featureblock.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-traits.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-project.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-indexes.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-bestiary.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-copylink.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-encounter.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-dice.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-export.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-scale.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-pins.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-pageact.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-chrome.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-PMF9SHHXNY"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-PMF9SHHXNY",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-PMF9SHHXNY",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+<meta name="scc-base" content="https://steelcompendium.io/v2/scc/">
+<meta name="scc-permalink" content="https://steelcompendium.io/v2/scc/mcdm.heroes.v1/chapter/making-a-hero/">
+
+<script>
+    (function(){
+        try {
+            const s = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}");
+            const r = document.documentElement.style;
+            if (s.large) r.setProperty("--md-large-header-font", s.large);
+            if (s.small) r.setProperty("--md-small-header-font", s.small);
+            if (s.text)  r.setProperty("--md-text-font",  s.text);
+            if (s.code)  r.setProperty("--md-code-font",  s.code);
+            if (s.width) r.setProperty("--md-max_width",   s.width);
+            if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
+            if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
+            if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.noDropcap) document.documentElement.setAttribute("data-no-dropcap", "true");
+            if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
+            if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
+            // Statblock layout preferences (data-sb-*) must always be set — an absent
+            // attribute is NOT equivalent to the "Steel Card" default in steel-statblock.css.
+            var sb = s.statblock || {};
+            // Legacy migration (matched pair with settings-panel.js prefs load):
+            // pre-featstyle prefs with a non-crest kwusage keep their flat look.
+            if (!sb.featstyle && sb.kwusage && sb.kwusage !== "crest") sb.featstyle = "flat";
+            var sbD = {kwusage:"crest",featstyle:"card",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
+            for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
+            // Featureblock layout preferences (data-fb-*) — same always-set rule
+            // as data-sb-*; an absent attribute is NOT the default.
+            var fb = s.featureblock || {};
+            var fbD = {featstyle:"card", stats:"grid"};
+            for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
+            // Statblock-preview zone visibility (data-sbprev-*) — global default
+            // seed read by statblock-preview.js; SINGLE SOURCE mirrors
+            // settings-core SBPREV_DEFAULTS + steel-etl sbPreviewDefaults.
+            var sp = s.statblockPreview || {};
+            var spD = {stats:"on", meta:"off", chars:"off", feats:"off"};
+            for (var spk in spD) {
+              var spv = (sp[spk] === "on" || sp[spk] === "off") ? sp[spk] : spD[spk];
+              document.documentElement.setAttribute("data-sbprev-"+spk, spv);
+            }
+        } catch(e) {}
+    })();
+</script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#making-a-hero" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-header__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Steel Compendium: Draw Steel Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Making a hero
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <a class="md-header__button md-icon" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener" title="Report a bug">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 8h-2.81c-.45-.8-1.07-1.5-1.82-2L17 4.41 15.59 3l-2.17 2.17a6 6 0 0 0-2.83 0L8.41 3 7 4.41 8.62 6c-.75.5-1.36 1.21-1.81 2H4v2h2.09c-.06.33-.09.66-.09 1v1H4v2h2v1c0 .34.03.67.09 1H4v2h2.81A5.99 5.99 0 0 0 15 20.18c.91-.52 1.67-1.28 2.19-2.18H20v-2h-2.09c.06-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.03-.67-.09-1H20zm-4 7a4 4 0 0 1-4 4 4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4 4 4 0 0 1 4 4zm-2-5v2h-4v-2zm-4 4h4v2h-4z"/></svg>
+      </a>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Browse/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Browse
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Books
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Bestiary/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Bestiary
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../table-reference/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Table Reference
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../pins/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  My Table
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-nav__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    Steel Compendium: Draw Steel Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../Browse/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Browse
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Books
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Draw Steel: Heroes
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Draw Steel: Heroes
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the-basics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The basics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Making a hero
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Making a hero
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#making-a-hero">Making a Hero</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-first-session">Your First Session</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#step-by-step-hero-making">Step-by-Step Hero Making</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1-think">1. Think</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2-ancestry">2. Ancestry</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-culture">3. Culture</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4-career">4. Career</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-class">5. Class</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6-kit">6. Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-add-free-strikes">7. Add Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-weapon-free-strike">Melee Weapon Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranged-weapon-free-strike">Ranged Weapon Free Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8-complication">8. Complication</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-determine-details">9. Determine Details</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10-make-connections">10. Make Connections</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adventuring-gear">Adventuring Gear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#changing-character-options">Changing Character Options</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#optional-rule-respite-ability-changes">Optional Rule: Respite Ability Changes</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-advancement">Heroic Advancement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#alternative-advancement">Alternative Advancement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adjusted-xp-advancement">Adjusted XP Advancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#milestone-advancement">Milestone Advancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-says-so">Director Says So</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-advancement-table">Heroic Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adjusted-xp-advancement-table">Adjusted XP Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ancestries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ancestries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../background/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Background
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Classes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../complications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Complications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../combat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../negotiation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Negotiation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../downtime-projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Downtime projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rewards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rewards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gods-and-religion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gods and religion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../for-the-director/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For the director
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../beastheart/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Beastheart
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../summoner/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Summoner
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Draw Steel: Monsters
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../Bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bestiary
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../table-reference/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Table Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My Table
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#making-a-hero">Making a Hero</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-first-session">Your First Session</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#step-by-step-hero-making">Step-by-Step Hero Making</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1-think">1. Think</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2-ancestry">2. Ancestry</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-culture">3. Culture</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4-career">4. Career</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-class">5. Class</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6-kit">6. Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-add-free-strikes">7. Add Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-weapon-free-strike">Melee Weapon Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranged-weapon-free-strike">Ranged Weapon Free Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8-complication">8. Complication</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-determine-details">9. Determine Details</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10-make-connections">10. Make Connections</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adventuring-gear">Adventuring Gear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#changing-character-options">Changing Character Options</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#optional-rule-respite-ability-changes">Optional Rule: Respite Ability Changes</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-advancement">Heroic Advancement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#alternative-advancement">Alternative Advancement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adjusted-xp-advancement">Adjusted XP Advancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#milestone-advancement">Milestone Advancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-says-so">Director Says So</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-advancement-table">Heroic Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#adjusted-xp-advancement-table">Adjusted XP Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Books
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Draw Steel: Heroes
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<!--Removing the auto-injected h1 element7-->
+<!---->
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 2</div>
+
+<h1 class="sc-chtitle" id="making-a-hero">Making a Hero<a class="headerlink" href="#making-a-hero" title="Permanent link">&para;</a></h1>
+<hr />
+<p>If you're not the Director, then you create and play one of the main characters in the game's story—a hero. Your hero is a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for doing so. You don't have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real world. But your hero should be someone who isn't afraid to battle monsters for altruistic reasons. If you're only interested in playing a money-grubbing sellsword, you can achieve that with these rules, but you'll likely be happier playing another game.</p>
+<p>The hero you create will be roleplayed by you. Often when referring to your hero, the rules use second-person pronouns (you/your) for shorthand, making a distinction between you and your hero only when that distinction is important.</p>
+<h3 id="your-first-session">Your First Session<a class="headerlink" href="#your-first-session" title="Permanent link">&para;</a></h3>
+<p>Getting together with your friends to make characters can be a lot of fun. Many groups spend most of their first session talking about the campaign's story, making heroes, and going over expectations for the game. It's a great way to kick off a long-term campaign.</p>
+<p>The Director should make an agenda for a campaign's first session often called "session zero." Chapter 15: <a href="../for-the-director/">For the Director</a> has all the information a Director needs to help organize a successful first session, which can include any of the following events:</p>
+<ul>
+<li>The Director and players talk about the safety tools they want to employ at the game table (whether physical or virtual), so that everyone has a good time and understands which topics should be avoided in the game's narrative and which should be embraced. For more information, check out the MCDM Tabletop Safety Toolkit at <em>mcdm.gg/SafetyToolkit</em>, which includes advice for running a successful first session.</li>
+<li>The Director discusses the campaign's world and the major story themes they want to introduce into the game. This often takes the form of a campaign pitch the Director presents to the players.</li>
+<li>The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be <a href="../../../Browse/class/null/">nulls</a> or <a href="../../../Browse/class/talent/">talents</a>. Another campaign might be grounded in more typical medieval fantasy and not have any <a href="../../../Browse/ancestry/memonek/">memonek</a> or <a href="../../../Browse/ancestry/time-raider/">time raiders</a>, or those ancestries might be exceedingly rare. In the latter case, players should know that their <a href="../../../Browse/ancestry/memonek/">memonek</a> or <a href="../../../Browse/ancestry/time-raider/">time raider</a> heroes are likely to get a lot of questions from curious <a href="../../../Browse/rule/general/npc/">NPCs</a>.</li>
+<li>The players get a chance to tell the Director what they would like to experience in the campaign. This can include anything from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out of the game.</li>
+<li>Make heroes! Once everyone understands what the campaign is about, it's the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.</li>
+<li>The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about—and raises anticipation for the next session.</li>
+</ul>
+<h3 id="step-by-step-hero-making">Step-by-Step Hero Making<a class="headerlink" href="#step-by-step-hero-making" title="Permanent link">&para;</a></h3>
+<p>Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for <em>Draw Steel</em>. That said, the order of the steps is still a suggestion, not a hard and fast rule.</p>
+<p>Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class—the choices with the most potential impact on what your character can do in the game—and then going back and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to look to learn about ancestries, classes, and other options.)</p>
+<p>You'll want a character sheet to fill out while you make your hero.</p>
+<p>Each option you can choose for your hero at 1st level includes a parenthetical selection labeled "Quick Build." This is for players who want to build a character faster without reading through all the available options, by choosing the most straightforward and archetypal option for a hero. Most quick build options don't select languages for you, because your Director knows better than us which languages will be most useful in your campaign. In addition to being called out in the text, quick build ability options within classes are indicated by a gold icon.</p>
+<p>If this is your first time making a hero, don't stress! The first time you build a character for <em>Draw Steel</em>, it might take an hour or so. Don't rush the process. Set aside some time, enjoy digging into all the options, and if you can, make your character alongside friends who are playing in the same game. The process gets a lot faster after you've done it once.</p>
+<blockquote>
+<p><strong>Character Sheets</strong></p>
+<p>You can download and print out character sheets and other free resources for <em>Draw Steel</em> at <em><a href="https://mcdm.gg/DS-Resources">https://mcdm.gg/DS-Resources</a></em>.</p>
+</blockquote>
+<h4 id="1-think">1. Think<a class="headerlink" href="#1-think" title="Permanent link">&para;</a></h4>
+<p>The first thing you should do is think about the kind of hero you want to make. Ask yourself the following questions:</p>
+<ul>
+<li>Do you fight with weapons, magic, psionics, or some combination of these capabilities?</li>
+<li>Outside of combat, what do you want your hero to do well?</li>
+<li>What did you do before becoming a hero?</li>
+<li>Why did you choose to become a hero?</li>
+<li>What is your personality like?</li>
+<li>What people, places, and objects are important to you?</li>
+<li>How will your hero complement the strengths and weaknesses of the other heroes in your party?</li>
+</ul>
+<blockquote>
+<p><strong>Ambition is Good!</strong></p>
+<p>Heroes aren't just along for the ride in the Director's story. They're active participants in that story, making decisions that change their communities, their worlds, or even the entirety of the timescape! It's good for your hero to have desires—to want to found an organization, seek justice for someone who was wronged, or craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it creates a potential problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.</p>
+<p>As the story evolves, your hero's ambitions could change. That's not a bad thing—dynamic characters are awesome! But if your hero ends up pursuing different goals over time, make sure you have a conversation with your Director about it, so they can plan accordingly.</p>
+</blockquote>
+<h4 id="2-ancestry">2. Ancestry<a class="headerlink" href="#2-ancestry" title="Permanent link">&para;</a></h4>
+<p>Choose your hero's humanoid ancestry from among the range of ancestries available in the game—<a href="../../../Browse/ancestry/devil/">devil</a>, <a href="../../../Browse/ancestry/dragon-knight/">dragon knight</a>, <a href="../../../Browse/ancestry/dwarf/">dwarf</a>, <a href="../../../Browse/ancestry/wode-elf/">wode elf</a>, <a href="../../../Browse/ancestry/high-elf/">high elf</a>, <a href="../../../Browse/ancestry/hakaan/">hakaan</a>, <a href="../../../Browse/ancestry/human/">human</a>, <a href="../../../Browse/ancestry/memonek/">memonek</a>, <a href="../../../Browse/ancestry/orc/">orc</a>, <a href="../../../Browse/ancestry/polder/">polder</a>, <a href="../../../Browse/ancestry/revenant/">revenant</a>, or <a href="../../../Browse/ancestry/time-raider/">time raider</a>. Future supplements will introduce additional ancestries you can choose from. See Chapter 3: <a href="../ancestries/">Ancestries</a> for more information.</p>
+<h4 id="3-culture">3. Culture<a class="headerlink" href="#3-culture" title="Permanent link">&para;</a></h4>
+<p>Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See Culture in Chapter 4: <a href="../background/">Background</a> for more information.</p>
+<blockquote>
+<p><strong>Choosing Skills</strong></p>
+<p>This game has lots of skills (as detailed in Skills in Chapter 9: <a href="../tests/">Tests</a>), and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might choose from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.</p>
+<p>If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from any skill group.</p>
+</blockquote>
+<h4 id="4-career">4. Career<a class="headerlink" href="#4-career" title="Permanent link">&para;</a></h4>
+<p>Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, <a href="../../../Browse/rule/resource/renown/">Renown</a>, wealth, or the potential to undertake crafting and research. See <a href="../background/">Careers</a> in Chapter 4: <a href="../background/">Background</a> for more information.</p>
+<blockquote>
+<p><strong>I Speak Their Language</strong></p>
+<p>Choosing languages at the start of a campaign can be hard because you might not know which languages are going to be most prevalent or useful. You can choose to leave some of the languages you know open until you discover what might be a good choice for the campaign you're playing in. Once you decide to take a language, you can reveal your choice in a dramatic fashion, perhaps during a negotiation where knowing a specific language would help, or when you find a tome that no other hero in your party can read.</p>
+</blockquote>
+<h4 id="5-class">5. Class<a class="headerlink" href="#5-class" title="Permanent link">&para;</a></h4>
+<p>Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting <a href="../../../Browse/rule/character/characteristic/">characteristic</a> scores that determine your character's physical and mental acumen, as well as the <a href="../../../Browse/rule/health/stamina/">Stamina</a> and <a href="../../../Browse/rule/health/recoveries/">Recoveries</a> that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a <a href="../../../Browse/class/censor/">censor</a>, <a href="../../../Browse/class/conduit/">conduit</a>, <a href="../../../Browse/class/elementalist/">elementalist</a>, <a href="../../../Browse/class/fury/">fury</a>, <a href="../../../Browse/class/null/">null</a>, <a href="../../../Browse/class/shadow/">shadow</a>, <a href="../../../Browse/class/tactician/">tactician</a>, <a href="../../../Browse/class/talent/">talent</a>, or <a href="../../../Browse/class/troubadour/">troubadour</a>. See Chapter 5: <a href="../classes/">Classes</a> for more information on each class, as well as the different types of abilities—<a href="../../../Browse/rule/combat/signature-ability/">signature abilities</a>, <a href="../../../Browse/rule/general/heroic-ability/">heroic abilities</a>, and more—that heroes of a specific class have access to.</p>
+<h4 id="6-kit">6. Kit<a class="headerlink" href="#6-kit" title="Permanent link">&para;</a></h4>
+<p>Your class might grant your hero a kit that helps define your approach to martial combat. The kit you choose provides you with equipment and a fighting style that grants a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>, as well as <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a>es to one or more of your game statistics. See Chapter 6: <a href="../kits/">Kits</a> for more information.</p>
+<h4 id="7-add-free-strikes">7. Add Free Strikes<a class="headerlink" href="#7-add-free-strikes" title="Permanent link">&para;</a></h4>
+<p>A <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> is a combat ability you can use when it's not your <a href="../../../Browse/rule/combat/turn/">turn</a>, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in <a href="../../../Browse/rule/combat/melee/">melee</a>? <a href="../../../Browse/feature/common/main-actions/free-strike/">Free strike</a>! Every hero has a <a href="../../../Browse/rule/combat/melee/">melee</a> weapon free strike and a <a href="../../../Browse/rule/combat/ranged/">ranged</a> weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a> are. A thrown dagger? A punch? The design is intended to let you use your imagination.</p>
+<p>You can also make <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a> on your turn to represent using weapons your hero isn't otherwise themed to use. A <a href="../../../Browse/ancestry/wode-elf/">wode elf</a> master archer can stab a too-close enemy with a dagger as a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>, and a greataxe-wielding <a href="../../../Browse/ancestry/orc/">orc</a> <a href="../../../Browse/class/fury/">fury</a> can use a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> to hurl a handaxe at a flying enemy staying annoyingly out of <a href="../../../Browse/rule/combat/melee/">melee</a> range.</p>
+<p>See <a href="../../../Browse/feature/common/main-actions/free-strike/">Free Strikes</a> in Chapter 10: <a href="../combat/">Combat</a> for more information on using <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a>, and see Abilities in Chapter 5: <a href="../classes/">Classes</a> for information on the ability format and how to read it.</p>
+<h6 data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike" id="melee-weapon-free-strike">Melee Weapon Free Strike<a class="headerlink" href="#melee-weapon-free-strike" title="Permanent link">&para;</a></h6>
+<address class="sc-embed" data-search-exclude="">
+<article class="sc-ability sc-fil" data-action="main">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Melee Weapon Free Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M or A damage</span></div>
+</div>
+</div>
+</article>
+</address>
+
+<h6 data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike" id="ranged-weapon-free-strike">Ranged Weapon Free Strike<a class="headerlink" href="#ranged-weapon-free-strike" title="Permanent link">&para;</a></h6>
+<address class="sc-embed" data-search-exclude="">
+<article class="sc-ability sc-fil" data-action="main">
+<header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ranged Weapon Free Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
+<div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../../Browse/rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + M or A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + M or A damage</span></div>
+</div>
+</div>
+</article>
+</address>
+
+<h4 id="8-complication">8. Complication<a class="headerlink" href="#8-complication" title="Permanent link">&para;</a></h4>
+<p>Complications represent those dramatic moments in a character's backstory that give them pathos, a dramatic reason to be an outsider, doubts about the meaning of life, an urge to avoid intimacy, or an unstoppable vendetta against an enemy from the past. Each complica tion grants a benefit and a drawback that make a character more three dimensional, but complications aren't necessary for making a great hero. Check with your Director as to whether your game is using them, and see Chapter 8: <a href="../complications/">Complications</a> for more information.</p>
+<h4 id="9-determine-details">9. Determine Details<a class="headerlink" href="#9-determine-details" title="Permanent link">&para;</a></h4>
+<p>Once you've created your hero, it's time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career and inciting incident, and class tie together into a cohesive narrative? What's their name? What do they look like? Do they have any cool scars? Any sweet tattoos? Do they still sleep with their teddy bear? These kinds of details can help define a well-rounded hero.</p>
+<h4 id="10-make-connections">10. Make Connections<a class="headerlink" href="#10-make-connections" title="Permanent link">&para;</a></h4>
+<p>Ask the Director if all the heroes start the campaign knowing each other. If they do, talk to the other players and build some connections between your characters. If you like, you can use the following prompts to make those connections, or to come up with prompts of your own:</p>
+<ul>
+<li>When you were fighting a monster, one of the party members saved your life. What were you battling and who saved you?</li>
+<li>In your group, who looks after everyone's health and well-being, and makes sure that all the characters get along? If it's not you, how do you view this other hero?</li>
+<li>Who is the grumpiest member of your party? If it isn't you, how do you react to that hero's sour nature? If it is you, how do you react to other characters teasing you or trying to cheer you up?</li>
+<li>What's one thing your fellow heroes know about you that other people do not?</li>
+<li>What's your favorite way to bond with your fellow heroes?</li>
+<li>You've known one of the other heroes in your party longer than the rest. Who is it, and how did you meet?</li>
+<li>Another hero creates food, music, clothing, <a href="../../../Browse/rule/treasure/trinket/">trinkets</a>, or something else that you enjoy. Who is that hero, and what do they make?</li>
+<li>Another hero is teaching you a new skill. Who is it, and what are they teaching you?</li>
+</ul>
+<p>Answer these questions with the other players present, and be sure to get a player's approval if your answer makes use of their character.</p>
+<h3 id="adventuring-gear">Adventuring Gear<a class="headerlink" href="#adventuring-gear" title="Permanent link">&para;</a></h3>
+<p><em>Draw Steel</em> isn't a game about tracking gear, so you don't need to list every piece of equipment you own on your character sheet. The game assumes that heroes generally have enough to eat and drink, so the rules don't expect you to track food and water either.</p>
+<p>If your character has a skill that implicitly requires gear, such as lockpicks for the Pick Lock skill or basic alchemy supplies for use with the Alchemy skill, then you have that gear. Likewise, your character is assumed to have standard useful adventuring gear, including a torch, a rope, and a backpack at minimum.</p>
+<p>At the Director's discretion, you might lose certain gear during an adventure, or your gear could break. If this happens, you might not be able to perform certain tasks as effectively without that gear.</p>
+<h3 id="changing-character-options">Changing Character Options<a class="headerlink" href="#changing-character-options" title="Permanent link">&para;</a></h3>
+<p>If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character's ancestry—you can always freely change that option between game sessions. If you want to change some aspect of your character during a session, ask your Director. If they say it's fine to swap that aspect out for something else, go for it. You shouldn't be stuck with any option that makes the game less fun for you.</p>
+<p>If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better <a href="../../../Browse/rule/combat/distance/">distance</a> with weapon <a href="../../../Browse/rule/combat/strike/">strikes</a>, doing so during a <a href="../../../Browse/rule/resource/respite/">respite</a> as talked about in Chapter 6: <a href="../kits/">Kits</a>. If no rule for swapping out an option exists, such as wanting to change a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> granted by your class because you think a different <a href="../../../Browse/rule/damage/damage-type/">damage type</a> would be more helpful against undead in an upcoming encounter, talk to your Director.</p>
+<h4 id="optional-rule-respite-ability-changes">Optional Rule: Respite Ability Changes<a class="headerlink" href="#optional-rule-respite-ability-changes" title="Permanent link">&para;</a></h4>
+<p>An optional rule the Director can include in your game is to allow heroes to change any number of signature and <a href="../../../Browse/rule/general/heroic-ability/">heroic abilities</a> granted by their class as a <a href="../../../Browse/rule/resource/respite/">respite</a> activity (see <a href="../../../Browse/rule/resource/respite/">Respite</a> in Chapter 1: <a href="../the-basics/">The Basics</a>). This allows heroes to prepare for upcoming encounters and try new builds, but the Director and the players should all be comfortable with constantly juggling and learning new abilities.</p>
+<h3 id="heroic-advancement">Heroic Advancement<a class="headerlink" href="#heroic-advancement" title="Permanent link">&para;</a></h3>
+<p>Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your <a href="../../../Browse/rule/health/stamina/">Stamina</a> increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: <a href="../classes/">Classes</a>.</p>
+<p>In the standard setup for the game, heroes gain <a href="../../../Browse/rule/resource/experience/">Experience</a> each time they finish a <a href="../../../Browse/rule/resource/respite/">respite</a> (see Building a Heroic Narrative in Chapter 1: <a href="../the-basics/">The Basics</a>). When you gain sufficient <a href="../../../Browse/rule/resource/experience/">Experience</a>, you gain a level during the same <a href="../../../Browse/rule/resource/respite/">respite</a>. The Heroic Advancement table shows exactly how much <a href="../../../Browse/rule/resource/experience/">Experience</a> (<a href="../../../Browse/rule/resource/experience/">XP</a>) you need to advance from one level to the next. The amount of <a href="../../../Browse/rule/resource/experience/">Experience</a> you gain is cumulative.</p>
+<h4 id="alternative-advancement">Alternative Advancement<a class="headerlink" href="#alternative-advancement" title="Permanent link">&para;</a></h4>
+<p>Though many games might advance using the standard setup for heroic advancement, the Director can decide that their game uses different advancement. Check with your Director about what method of advancement they plan to use.</p>
+<h5 id="adjusted-xp-advancement">Adjusted XP Advancement<a class="headerlink" href="#adjusted-xp-advancement" title="Permanent link">&para;</a></h5>
+<p>Some Directors prefer that heroes gain new levels faster or slower to suit the pace of their story. The Adjusted <a href="../../../Browse/rule/resource/experience/">XP</a> Advancement table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for <a href="../../../Browse/rule/resource/experience/">XP</a>-based advancement.</p>
+<h5 id="milestone-advancement">Milestone Advancement<a class="headerlink" href="#milestone-advancement" title="Permanent link">&para;</a></h5>
+<p>Rather than tracking <a href="../../../Browse/rule/resource/experience/">XP</a>, some games have the heroes advance in level when they achieve a particular story milestone. For example, when a party defeats the main villain of an adventure and foils their dastardly plot, each hero gains a level for achieving this <a href="../../../Browse/rule/combat/objective/">objective</a>, no matter how many obstacles they faced along the way.</p>
+<p>For many Directors using milestone advancement, the end of each adventure within a campaign serves as a milestone for gaining a new level. The Director can share these milestones with the players to encourage them to work toward particular goals, and to engage with the story and world the Director has prepared. For example, in a campaign where the heroes have to face nine evil mages, it makes sense that each time the heroes defeat a mage, they gain a level. The Director should keep milestone goals flexible, though. Defeating a mage could mean stopping them with violence, using negotiation to make them stand down, or anything else that thwarts their evil plans.</p>
+<h5 id="director-says-so">Director Says So<a class="headerlink" href="#director-says-so" title="Permanent link">&para;</a></h5>
+<p>Some games don't track <a href="../../../Browse/rule/resource/experience/">XP</a> or goals at all. The heroes simply gain a level whenever the Director decides it's appropriate for the story.</p>
+<h6 id="heroic-advancement-table">Heroic Advancement Table<a class="headerlink" href="#heroic-advancement-table" title="Permanent link">&para;</a></h6>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th><a href="../../../Browse/rule/resource/experience/">XP</a></th>
+<th>Level</th>
+<th><a href="../../../Browse/rule/resource/experience/">XP</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>0-15</td>
+<td>6th</td>
+<td>80-95</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>16-31</td>
+<td>7th</td>
+<td>96-111</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>32-47</td>
+<td>8th</td>
+<td>112-127</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>48-63</td>
+<td>9th</td>
+<td>128-143</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>64-79</td>
+<td>10th</td>
+<td>144+</td>
+</tr>
+</tbody>
+</table>
+<h6 id="adjusted-xp-advancement-table">Adjusted XP Advancement Table<a class="headerlink" href="#adjusted-xp-advancement-table" title="Permanent link">&para;</a></h6>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th><a href="../../../Browse/rule/resource/experience/">XP</a> for Double <a href="../../../Browse/rule/character/speed/">Speed</a></th>
+<th><a href="../../../Browse/rule/resource/experience/">XP</a> for Half <a href="../../../Browse/rule/character/speed/">Speed</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st</td>
+<td>0-7</td>
+<td>0-31</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>8-15</td>
+<td>32-63</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>16-23</td>
+<td>64-95</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>24-31</td>
+<td>96-127</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>32-39</td>
+<td>128-159</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>40-47</td>
+<td>160-191</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>48-55</td>
+<td>192-223</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>56-63</td>
+<td>224-255</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>64-71</td>
+<td>256-287</td>
+</tr>
+<tr>
+<td>10th</td>
+<td>72+</td>
+<td>288+</td>
+</tr>
+</tbody>
+</table>
+
+<div class="sc-provenance">
+  <small>
+    Source: Draw Steel: Heroes &middot;
+    printing 1.01b
+  </small>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../the-basics/" class="md-footer__link md-footer__link--prev" aria-label="Previous: The basics">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                The basics
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../ancestries/" class="md-footer__link md-footer__link--next" aria-label="Next: Ancestries">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Ancestries
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.
+    </div>
+  
+  
+    <div class="md-copyright__build">
+      <small>
+        build:
+          steel-etl
+          <a href="https://github.com/SteelCompendium/steel-etl/commit/5035174">5035174</a> &middot; 
+          site
+          <a href="https://github.com/SteelCompendium/v2/commit/acca1a0">acca1a0</a> (2026-09-06)
+      </small>
+    </div>
+  
+  
+    <div class="md-copyright__bug">
+      <small>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener">Report a bug</a>
+      </small>
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.indexes", "navigation.prune", "search.suggest", "search.highlight", "navigation.instant", "navigation.path", "navigation.footer", "toc.follow"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+<script>
+(function () {
+  var c = document.getElementById("__config");
+  if (!c) return;
+  try {
+    var j = JSON.parse(c.textContent);
+    j.search = "../../../javascripts/sc-search-worker.js";
+    c.textContent = JSON.stringify(j);
+  } catch (e) { /* leave Material's worker in place */ }
+})();
+</script>
+
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+        <script src="../../../javascripts/sc-chrome.js"></script>
+      
+        <script src="../../../javascripts/settings-core.js"></script>
+      
+        <script src="../../../javascripts/settings-panel.js"></script>
+      
+        <script src="../../../javascripts/ability-cards-core.js"></script>
+      
+        <script src="../../../javascripts/ability-cards.js"></script>
+      
+        <script src="../../../javascripts/steel-ability-cards.js"></script>
+      
+        <script src="../../../javascripts/sc-dice-core.js"></script>
+      
+        <script src="../../../javascripts/sc-dice.js"></script>
+      
+        <script src="../../../javascripts/statblock-preview.js"></script>
+      
+        <script src="../../../javascripts/sc-scale-core.js"></script>
+      
+        <script src="../../../javascripts/sc-scale.js"></script>
+      
+        <script src="../../../javascripts/steel-traits.js"></script>
+      
+        <script src="../../../javascripts/sc-facet-core.js"></script>
+      
+        <script src="../../../javascripts/steel-feature-browser-core.js"></script>
+      
+        <script src="../../../javascripts/steel-feature-browser.js"></script>
+      
+        <script src="../../../javascripts/steel-bestiary-browser.js"></script>
+      
+        <script src="../../../javascripts/sc-encounter-core.js"></script>
+      
+        <script src="../../../javascripts/sc-encounter.js"></script>
+      
+        <script src="../../../javascripts/browse-enhancements.js"></script>
+      
+        <script src="../../../javascripts/reading-progress.js"></script>
+      
+        <script src="../../../javascripts/keyboard-nav.js"></script>
+      
+        <script src="../../../javascripts/read-resume-core.js"></script>
+      
+        <script src="../../../javascripts/read-resume.js"></script>
+      
+        <script src="../../../javascripts/sc-pageact.js"></script>
+      
+        <script src="../../../javascripts/scc-headerlinks.js"></script>
+      
+        <script src="../../../javascripts/scc-card-copy-core.js"></script>
+      
+        <script src="../../../javascripts/scc-card-copy.js"></script>
+      
+        <script src="../../../javascripts/vendor/html-to-image.min.js"></script>
+      
+        <script src="../../../javascripts/sc-export.js"></script>
+      
+        <script src="../../../javascripts/sc-pins-core.js"></script>
+      
+        <script src="../../../javascripts/sc-pins-sections.js"></script>
+      
+        <script src="../../../javascripts/sc-pins.js"></script>
+      
+        <script src="../../../javascripts/nav-drawer-keep-core.js"></script>
+      
+        <script src="../../../javascripts/nav-drawer-keep.js"></script>
+      
+    
+
+  </body>
+</html>

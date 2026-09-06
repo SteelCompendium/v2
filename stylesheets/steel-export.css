@@ -1,0 +1,22 @@
+/* steel-export.css — MD / PNG export chips (sc-export.js).
+
+   SC-297 (round 2): the chip pair now mounts inside the shared chrome plate
+   (steel-chrome.css), which re-grounds position/opacity with a more specific
+   selector — all five card families that carry exports are ported. */
+.sc-export__btn {
+  height: 1.7rem; padding: 0 .35rem;
+  display: grid; place-items: center;
+  border-radius: .35rem; border: 1px solid var(--md-default-fg-color--lightest);
+  background: rgba(0, 0, 0, 0.4); cursor: pointer;
+  color: var(--md-default-fg-color--light);
+  font-size: .55rem; letter-spacing: .05em; line-height: 1;
+}
+.sc-export__btn:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+
+/* Keep the statblock sticky header out of PNG shots. The chrome plate itself
+   (copy-link/pin/encounter-add/exports, all five families now) has its own
+   twin of this rule in steel-chrome.css (`.sc-export-shooting .sc-chrome`,
+   plus the four control classes individually as a belt-and-braces — round 4,
+   MEDIUM-1) — so this file only needs the one rule nothing else covers. */
+.sc-export-shooting .sb__sticky { display: none !important; }
+@media print { .sc-export { display: none !important; } }

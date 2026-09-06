@@ -1,0 +1,807 @@
+/*
+ * settings-panel.js — live, in-place settings drawer.
+ * Requires window.SettingsCore (settings-core.js, loaded first).
+ * Injects a gear button into the Material header and a steel drawer into <body>.
+ * Applies changes instantly via <html> attributes / CSS custom properties,
+ * persisting to localStorage["mkdocs:fontPrefs"] (shared with the early-apply
+ * script in overrides/main.html).
+ */
+(function () {
+  "use strict";
+
+  var C = window.SettingsCore;
+  if (!C) return; // core must load first
+
+  var FONT_VARS = {
+    large: "--md-large-header-font",
+    small: "--md-small-header-font",
+    text: "--md-text-font",
+    code: "--md-code-font"
+  };
+  var WIDTH_VAR = "--md-max_width";
+  var SCALE_VAR = "--sc-content-scale";
+  var CARD_SCALE_VAR = "--sc-card-scale";
+
+  // ---------- statblock layout preferences (steel-statblock.css) ----------
+  // Each piece is an independent <html data-sb-*> attribute; presets just set a
+  // bundle of them at once. Persisted under prefs.statblock.{key}. Defaults below
+  // mirror the "Steel Card" preset and the early-apply in overrides/main.html.
+  var SB_KEYS = ["kwusage", "featstyle", "disttarget", "meta", "charline", "charbox", "villain", "wide", "stickymeta"];
+  var SB_DEFAULTS = {
+    kwusage: "crest", featstyle: "card", disttarget: "grid", meta: "grid", charline: "two",
+    charbox: "off", villain: "banded", wide: "off", stickymeta: "on"
+  };
+  // Presets are bundles of the per-piece attrs (stickymeta is a web-extra, not in presets).
+  var SB_PRESETS = {
+    steel:      { kwusage: "crest", featstyle: "card", disttarget: "grid", meta: "grid", charline: "two", charbox: "off", villain: "banded", wide: "off" },
+    sourcebook: { kwusage: "text", featstyle: "flat", disttarget: "text", meta: "ledger", charline: "one", charbox: "on", villain: "inline", wide: "off" },
+    index:      { kwusage: "grid", featstyle: "flat", disttarget: "grid", meta: "gridc", charline: "two", charbox: "onword", villain: "banded", wide: "off" }
+  };
+
+  // ---------- featureblock layout preferences (steel-featureblock.css) ----------
+  // Independent <html data-fb-*> attributes; persisted under prefs.featureblock.
+  // No presets (only two prefs). Defaults mirror the early-apply in main.html.
+  var FB_KEYS = ["featstyle", "stats"];
+  var FB_DEFAULTS = { featstyle: "card", stats: "grid" };
+
+  var FONT_OPTIONS = {
+    large: [
+      ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort (default)"],
+      ['"Test Newzald", var(--md-text-font), serif', "Test Newzald"],
+      ['"Source Serif 4"', "Source Serif 4"],
+      ['"Inter", var(--md-text-font), sans-serif', "Inter"],
+      ['"system-ui", var(--md-text-font), serif', "System UI"]
+    ],
+    small: [
+      ['"Test Newzald", var(--md-text-font), serif', "Test Newzald (default)"],
+      ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort"],
+      ['"Source Serif 4"', "Source Serif 4"],
+      ['"Inter", var(--md-text-font), sans-serif', "Inter"],
+      ['"system-ui", var(--md-text-font), serif', "System UI"]
+    ],
+    text: [
+      ['"Zilla Slab", Georgia, "Times New Roman", serif', "Zilla Slab (default)"],
+      ['"Source Serif 4"', "Source Serif 4"],
+      ['"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "Inter"],
+      ['-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "System UI"]
+    ],
+    code: [
+      ['"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace', "JetBrains Mono (default)"],
+      ['"Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace', "Fira Code"],
+      ['ui-monospace, SFMono-Regular, Menlo, Consolas, monospace', "System Monospace"]
+    ]
+  };
+
+  // Canonical Material Design "cog" path (mdiCog) — symmetric teeth.
+  var GEAR =
+    '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12,15.5A3.5,3.5 0 0,1 8.5,12A3.5,3.5 0 0,1 12,8.5A3.5,3.5 0 0,1 15.5,12A3.5,3.5 0 0,1 12,15.5M19.43,12.97C19.47,12.65 19.5,12.33 19.5,12C19.5,11.67 19.47,11.34 19.43,11L21.54,9.37C21.73,9.22 21.78,8.95 21.66,8.73L19.66,5.27C19.54,5.05 19.27,4.96 19.05,5.05L16.56,6.05C16.04,5.66 15.5,5.32 14.87,5.07L14.5,2.42C14.46,2.18 14.25,2 14,2H10C9.75,2 9.54,2.18 9.5,2.42L9.13,5.07C8.5,5.32 7.96,5.66 7.44,6.05L4.95,5.05C4.73,4.96 4.46,5.05 4.34,5.27L2.34,8.73C2.21,8.95 2.27,9.22 2.46,9.37L4.57,11C4.53,11.34 4.5,11.67 4.5,12C4.5,12.33 4.53,12.65 4.57,12.97L2.46,14.63C2.27,14.78 2.21,15.05 2.34,15.27L4.34,18.73C4.46,18.95 4.73,19.04 4.95,18.95L7.44,17.95C7.96,18.34 8.5,18.68 9.13,18.93L9.5,21.58C9.54,21.82 9.75,22 10,22H14C14.25,22 14.46,21.82 14.5,21.58L14.87,18.93C15.5,18.68 16.04,18.34 16.56,17.95L19.05,18.95C19.27,19.04 19.54,18.95 19.66,18.73L21.66,15.27C21.78,15.05 21.73,14.78 21.54,14.63L19.43,12.97Z"/></svg>';
+
+  // ---------- apply (side-effecting) ----------
+  function applyFonts(prefs) {
+    var r = document.documentElement.style;
+    Object.keys(FONT_VARS).forEach(function (k) {
+      if (prefs[k]) r.setProperty(FONT_VARS[k], prefs[k]);
+      else r.removeProperty(FONT_VARS[k]);
+    });
+  }
+  function applyWidth(value) {
+    var r = document.documentElement.style;
+    if (!value || value === "default") r.removeProperty(WIDTH_VAR);
+    else r.setProperty(WIDTH_VAR, value);
+  }
+  function applyContentScale(scale) {
+    var r = document.documentElement.style;
+    var n = C.clampScale(scale);
+    if (n === C.SCALE_DEFAULT) r.removeProperty(SCALE_VAR);
+    else r.setProperty(SCALE_VAR, String(n));
+  }
+  function applyCardScale(scale) {
+    var r = document.documentElement.style;
+    var n = C.clampCardScale(scale);
+    if (n === C.CARD_DEFAULT) r.removeProperty(CARD_SCALE_VAR);
+    else r.setProperty(CARD_SCALE_VAR, String(n));
+  }
+  function applyCompact(on) {
+    document.documentElement.setAttribute("data-compact", on ? "true" : "false");
+  }
+  function applyDropcap(off) {
+    // absent attribute ≡ drop caps shown; only stamp the explicit "hide" state
+    if (off) document.documentElement.setAttribute("data-no-dropcap", "true");
+    else document.documentElement.removeAttribute("data-no-dropcap");
+  }
+  function applySiteTheme(name) {
+    if (!name || name === "steel") document.documentElement.removeAttribute("data-sc-theme");
+    else document.documentElement.setAttribute("data-sc-theme", name);
+  }
+  function applyCardStyle(style) {
+    if (!style || style === "classic") document.documentElement.removeAttribute("data-card-style");
+    else document.documentElement.setAttribute("data-card-style", style);
+  }
+  function applyStatblocks(prefs) {
+    var sb = prefs.statblock || {};
+    var html = document.documentElement;
+    SB_KEYS.forEach(function (k) {
+      html.setAttribute("data-sb-" + k, sb[k] || SB_DEFAULTS[k]);
+    });
+    // Web-extra augmentations live on <body>; absent attr ≡ "on" in the CSS, so
+    // only stamp the explicit "off" state.
+    var body = document.body;
+    if (body) {
+      setAug(body, "links", sb.augLinks !== false);
+      setAug(body, "sticky", sb.augSticky !== false);
+    }
+  }
+  function applyFeatureblocks(prefs) {
+    var fb = prefs.featureblock || {};
+    var html = document.documentElement;
+    FB_KEYS.forEach(function (k) {
+      html.setAttribute("data-fb-" + k, fb[k] || FB_DEFAULTS[k]);
+    });
+  }
+  function applyStatblockPreview(prefs) {
+    var r = C.resolveSbPreview(prefs.statblockPreview);
+    var html = document.documentElement;
+    C.SBPREV_KEYS.forEach(function (k) {
+      html.setAttribute("data-sbprev-" + k, r[k]);
+    });
+  }
+  function setAug(body, name, on) {
+    if (on) body.removeAttribute("data-aug-" + name);
+    else body.setAttribute("data-aug-" + name, "off");
+  }
+  // Which preset (if any) the current statblock attrs match — else "custom".
+  function detectSbPreset(sb) {
+    for (var name in SB_PRESETS) {
+      var p = SB_PRESETS[name], ok = true;
+      for (var a in p) if ((sb[a] || SB_DEFAULTS[a]) !== p[a]) { ok = false; break; }
+      if (ok) return name;
+    }
+    return "custom";
+  }
+  function applyAll(prefs) {
+    applyFonts(prefs);
+    applyWidth(prefs.width);
+    applyContentScale(prefs.contentScale);
+    applyCardScale(prefs.cardScale);
+    applyCompact(!!prefs.compact);
+    applyDropcap(!!prefs.noDropcap);
+    applySiteTheme(prefs.siteTheme);
+    applyCardStyle(prefs.cardStyle);
+    applyStatblocks(prefs);
+    applyFeatureblocks(prefs);
+    applyStatblockPreview(prefs);
+  }
+
+  var prefs = C.loadPrefs(localStorage);
+  // Legacy migration (matched pair with the early-apply in overrides/main.html;
+  // the extra prefs.statblock guard is the only intended difference — main.html
+  // pre-defaults its `sb` to {}): prefs saved before data-sb-featstyle existed
+  // get it derived from kwusage, so non-crest custom/Sourcebook/Index users keep
+  // their flat look. persist() (a hoisted declaration below) writes the derived
+  // value through so storage and memory never disagree.
+  if (prefs.statblock && !prefs.statblock.featstyle && prefs.statblock.kwusage && prefs.statblock.kwusage !== "crest") {
+    prefs.statblock.featstyle = "flat";
+    persist();
+  }
+  applyAll(prefs); // re-assert (covers contentScale even if inline early-apply predates it)
+
+  function persist() { C.savePrefs(localStorage, prefs); }
+
+  // ---------- DOM helpers ----------
+  function el(tag, cls, html) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (html != null) n.innerHTML = html;
+    return n;
+  }
+  // "?" help bubble — pure-CSS tooltip (steel-settings.css .sc-set__help).
+  // Keyboard-reachable (tabindex) and read as its own label by screen readers.
+  // For checkbox rows it must sit OUTSIDE the <label> (sc-set__row--help), or
+  // hovering/clicking the bubble would toggle the control.
+  function sbHelp(text) {
+    return '<span class="sc-set__help" tabindex="0" data-tip="' + text + '" aria-label="' + text + '">?</span>';
+  }
+  function fillSelect(sel, options, selected) {
+    sel.innerHTML = "";
+    options.forEach(function (o) {
+      var opt = document.createElement("option");
+      opt.value = o[0];
+      opt.textContent = o[1];
+      if (selected && selected === o[0]) opt.selected = true;
+      sel.appendChild(opt);
+    });
+  }
+
+  // ---------- build drawer (once) ----------
+  function buildDrawer() {
+    if (document.getElementById("sc-settings-drawer")) return;
+
+    var scrim = el("div", "sc-settings-scrim");
+    scrim.id = "sc-settings-scrim";
+
+    var drawer = el("aside", "sc-settings-drawer");
+    drawer.id = "sc-settings-drawer";
+    drawer.setAttribute("role", "dialog");
+    drawer.setAttribute("aria-modal", "true");
+    drawer.setAttribute("aria-label", "Display settings");
+    drawer.setAttribute("tabindex", "-1");
+    drawer.hidden = false;
+
+    drawer.innerHTML =
+      '<div class="sc-settings-head">' +
+        '<h2>Settings</h2>' +
+        '<button type="button" class="sc-settings-close" aria-label="Close settings">&times;</button>' +
+      '</div>' +
+      '<div class="sc-settings-body">' +
+
+        // NOTE: "Theme → Color theme" (data-sc-theme: parchment/obsidian) is hidden
+        // until the alternate palettes are fully supported. Apply fn + palette.css
+        // remain in place; re-add the markup + binding below to re-enable.
+
+        '<div class="sc-set__group"><h3>Reading</h3>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-scale">Text size</label>' +
+            '<div class="sc-set__sliderwrap">' +
+              '<input class="sc-set__range" id="set-scale" type="range">' +
+              '<span class="sc-set__value" id="set-scale-val">100%</span>' +
+            '</div>' +
+            '<span class="sc-set__hint">Scales body text, headings, and tables.</span>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-card-scale">Card size</label>' +
+            '<div class="sc-set__sliderwrap">' +
+              '<input class="sc-set__range" id="set-card-scale" type="range">' +
+              '<span class="sc-set__value" id="set-card-scale-val">100%</span>' +
+            '</div>' +
+            '<span class="sc-set__hint">Scales ability &amp; trait cards and everything inside them.</span>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-compact" type="checkbox">' +
+              '<span>Compact mode &mdash; tighter spacing for dense display</span>' +
+            '</label>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-no-dropcap" type="checkbox">' +
+              '<span>Hide drop caps &mdash; remove the large engraved first letter on lead trait cards</span>' +
+            '</label>' +
+          '</div>' +
+          // NOTE: "Ability card style" (data-card-style: modern) is hidden until the
+          // Modern card style is fully supported. Apply fn + ability-cards.js handling
+          // remain in place; re-add the markup + binding below to re-enable.
+        '</div>' +
+
+        '<div class="sc-set__group"><h3>Page width</h3>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-fullwidth" type="checkbox">' +
+              '<span>Full width</span>' +
+            '</label>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-width">Max width</label>' +
+            '<div class="sc-set__sliderwrap">' +
+              '<input class="sc-set__range" id="set-width" type="range">' +
+              '<span class="sc-set__value" id="set-width-val">80em</span>' +
+            '</div>' +
+          '</div>' +
+        '</div>' +
+
+        // Statblock settings live in their own bordered box (sc-set__group--sb)
+        // so they read as one isolated unit; the box is a collapsed-by-default
+        // <details> (like Fonts) so the long control list doesn't force
+        // scrolling past it. The per-zone controls are grouped into Stats /
+        // Features / Web extras fieldsets, and every control gets a ? tooltip
+        // (sbHelp) explaining what it changes.
+        '<details class="sc-set__group sc-set__group--sb"><summary>Statblocks</summary>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-sb-preset">Preset' +
+              sbHelp("Sets all the statblock options below at once. Changing any single option switches the preset to Custom.") + '</label>' +
+            '<select class="sc-set__select" id="set-sb-preset">' +
+              '<option value="steel">Steel Card</option>' +
+              '<option value="sourcebook">Sourcebook (book layout)</option>' +
+              '<option value="index">Index Card</option>' +
+              '<option value="custom">Custom</option>' +
+            '</select>' +
+            '<span class="sc-set__hint">A starting point. Words &amp; numbers never change &mdash; only the design.</span>' +
+          '</div>' +
+          '<div class="sc-set__row sc-set__row--help">' +
+            '<label class="sc-set__toggle">' +
+              '<input id="set-sb-wide" type="checkbox">' +
+              '<span>Multi-column layout</span>' +
+            '</label>' +
+            sbHelp("Flows features into side-by-side columns when there is room, letting the statblock spread to the full page width. Pairs well with a wider page width.") +
+          '</div>' +
+
+          '<fieldset class="sc-set__sub"><legend>Stats</legend>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-meta">Secondary stats' +
+                sbHelp("Layout for the Immunity / Weakness / Movement / Captain block under the defenses row.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-meta">' +
+                '<option value="grid">Grid (label top)</option>' +
+                '<option value="gridc">Grid (centered)</option>' +
+                '<option value="ledger">Ledger</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-charline">Characteristics' +
+                sbHelp("Might, Agility, Reason, Intuition, Presence &mdash; stacked on two lines or kept to a single line.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-charline">' +
+                '<option value="two">Two lines (value over label)</option>' +
+                '<option value="one">One line</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-charbox">Boxed first letter' +
+                sbHelp("Shows the boxed first letter (M A R I P) next to each characteristic, like the printed book.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-charbox">' +
+                '<option value="off">Off</option>' +
+                '<option value="on">Boxed letter</option>' +
+                '<option value="onword">Boxed letter + word</option>' +
+              '</select>' +
+            '</div>' +
+          '</fieldset>' +
+
+          '<fieldset class="sc-set__sub"><legend>Features</legend>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-featstyle">Feature style' +
+                sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-featstyle">' +
+                '<option value="card">Cards</option>' +
+                '<option value="flat">Flat list</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-kwusage">Keyword display' +
+                sbHelp("How each feature shows its keywords and action type. Crest adds a decorative emblem.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-kwusage">' +
+                '<option value="crest">Crest (decorated)</option>' +
+                '<option value="text">Inline text</option>' +
+                '<option value="grid">Grid</option>' +
+                '<option value="ledger">Ledger</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-disttarget">Distance + target' +
+                sbHelp("How each feature shows its Distance and Target line.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-disttarget">' +
+                '<option value="text">Inline text</option>' +
+                '<option value="grid">Grid</option>' +
+                '<option value="ledger">Ledger</option>' +
+              '</select>' +
+            '</div>' +
+            '<div class="sc-set__row">' +
+              '<label class="sc-set__label" for="set-sb-villain">Villain actions' +
+                sbHelp("Keeps villain actions in their own collapsible band, or runs them inline with the other features.") + '</label>' +
+              '<select class="sc-set__select" id="set-sb-villain">' +
+                '<option value="banded">Grouped band</option>' +
+                '<option value="inline">Inline with features</option>' +
+              '</select>' +
+            '</div>' +
+          '</fieldset>' +
+
+          '<fieldset class="sc-set__sub"><legend>Web extras</legend>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-links" type="checkbox">' +
+                '<span>Link conditions &amp; keywords</span>' +
+              '</label>' +
+              sbHelp("Conditions and game terms inside the statblock link to their rules pages.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-sticky" type="checkbox">' +
+                '<span>Sticky mini-header</span>' +
+              '</label>' +
+              sbHelp("Pins the creature name and key stats to the top of the screen while you scroll a long statblock.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle">' +
+                '<input id="set-sb-stickymeta" type="checkbox">' +
+                '<span>&nbsp;&nbsp;&#8627; include secondary stats</span>' +
+              '</label>' +
+              sbHelp("Adds Movement, Immunity, Weakness, and Captain to the pinned mini-header.") +
+            '</div>' +
+          '</fieldset>' +
+          '<fieldset class="sc-set__sub"><legend>Index previews</legend>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-stats" type="checkbox"><span>Show stats</span></label>' +
+              sbHelp("Show the defenses row (Size, Speed, Stamina, Stability, Free Strike) on statblock preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-meta" type="checkbox"><span>Show secondary stats</span></label>' +
+              sbHelp("Show Immunity, Weakness, Movement, and Captain on preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-chars" type="checkbox"><span>Show characteristics</span></label>' +
+              sbHelp("Show the Might / Agility / Reason / Intuition / Presence line on preview cards.") +
+            '</div>' +
+            '<div class="sc-set__row sc-set__row--help">' +
+              '<label class="sc-set__toggle"><input id="set-sbprev-feats" type="checkbox"><span>Show feature previews</span></label>' +
+              sbHelp("List each feature (icon, name, usage, cost) on preview cards. Off by default — turns long statblocks into tall cards.") +
+            '</div>' +
+          '</fieldset>' +
+        '</details>' +
+
+        '<details class="sc-set__group sc-set__group--fb"><summary>Featureblocks</summary>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-fb-featstyle">Feature style' +
+              sbHelp("Each feature in its own card with a colored left border, or a flat list separated by diamond rules.") + '</label>' +
+            '<select class="sc-set__select" id="set-fb-featstyle">' +
+              '<option value="card">Cards</option>' +
+              '<option value="flat">Flat list</option>' +
+            '</select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-fb-stats">Stat line' +
+              sbHelp("Layout for the loose header stats (EV, Stamina, Size): boxed grid cells or hairline ledger rows.") + '</label>' +
+            '<select class="sc-set__select" id="set-fb-stats">' +
+              '<option value="grid">Grid</option>' +
+              '<option value="ledger">Ledger</option>' +
+            '</select>' +
+          '</div>' +
+        '</details>' +
+
+        '<details class="sc-set__group sc-set__group--fonts"><summary>Fonts</summary>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-font-large">Large headers (H1&ndash;H2)</label>' +
+            '<select class="sc-set__select" id="set-font-large"></select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-font-small">Small headers (H3&ndash;H6)</label>' +
+            '<select class="sc-set__select" id="set-font-small"></select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-font-text">Body text</label>' +
+            '<select class="sc-set__select" id="set-font-text"></select>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-font-code">Code</label>' +
+            '<select class="sc-set__select" id="set-font-code"></select>' +
+          '</div>' +
+        '</details>' +
+
+      '</div>' +
+      '<div class="sc-settings-foot">' +
+        '<button type="button" class="sc-settings-reset" id="set-reset">Reset all to defaults</button>' +
+      '</div>';
+
+    document.body.appendChild(scrim);
+    document.body.appendChild(drawer);
+
+    bindDrawer(drawer, scrim);
+  }
+
+  // ---------- open / close ----------
+  var lastFocus = null;
+  function openDrawer() {
+    var drawer = document.getElementById("sc-settings-drawer");
+    if (!drawer) return;
+    lastFocus = document.activeElement;
+    document.documentElement.setAttribute("data-sc-settings", "open");
+    var btn = document.getElementById("sc-settings-toggle");
+    if (btn) btn.setAttribute("aria-expanded", "true");
+    drawer.focus();
+  }
+  function closeDrawer() {
+    document.documentElement.removeAttribute("data-sc-settings");
+    var btn = document.getElementById("sc-settings-toggle");
+    if (btn) btn.setAttribute("aria-expanded", "false");
+    if (lastFocus && typeof lastFocus.focus === "function") lastFocus.focus();
+  }
+  function isOpen() {
+    return document.documentElement.getAttribute("data-sc-settings") === "open";
+  }
+
+  // ---------- bind controls ----------
+  function bindDrawer(drawer, scrim) {
+    drawer.querySelector(".sc-settings-close").addEventListener("click", closeDrawer);
+    scrim.addEventListener("click", closeDrawer);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && isOpen()) closeDrawer();
+    });
+
+    // Fonts
+    var fontIds = { large: "set-font-large", small: "set-font-small", text: "set-font-text", code: "set-font-code" };
+    Object.keys(fontIds).forEach(function (k) {
+      var sel = drawer.querySelector("#" + fontIds[k]);
+      fillSelect(sel, FONT_OPTIONS[k], prefs[k]);
+      sel.addEventListener("change", function () {
+        prefs[k] = sel.value;
+        applyFonts(prefs);
+        persist();
+      });
+    });
+
+    // Site theme (control currently hidden — guard in case markup is absent)
+    var themeSel = drawer.querySelector("#set-site-theme");
+    if (themeSel) {
+      themeSel.value = prefs.siteTheme || "steel";
+      themeSel.addEventListener("change", function () {
+        if (!themeSel.value || themeSel.value === "steel") delete prefs.siteTheme;
+        else prefs.siteTheme = themeSel.value;
+        applySiteTheme(prefs.siteTheme);
+        persist();
+      });
+    }
+
+    // Content scale slider
+    var scale = drawer.querySelector("#set-scale");
+    var scaleVal = drawer.querySelector("#set-scale-val");
+    scale.min = String(C.SCALE_MIN);
+    scale.max = String(C.SCALE_MAX);
+    scale.step = String(C.SCALE_STEP);
+    var curScale = C.clampScale(prefs.contentScale);
+    scale.value = String(curScale);
+    scaleVal.textContent = Math.round(curScale * 100) + "%";
+    scale.addEventListener("input", function () {
+      var n = C.clampScale(scale.value);
+      scaleVal.textContent = Math.round(n * 100) + "%";
+      applyContentScale(n);
+    });
+    scale.addEventListener("change", function () {
+      var n = C.clampScale(scale.value);
+      if (n === C.SCALE_DEFAULT) delete prefs.contentScale;
+      else prefs.contentScale = n;
+      applyContentScale(n);
+      persist();
+    });
+
+    // Card size slider
+    var cardScale = drawer.querySelector("#set-card-scale");
+    var cardScaleVal = drawer.querySelector("#set-card-scale-val");
+    cardScale.min = String(C.CARD_MIN);
+    cardScale.max = String(C.CARD_MAX);
+    cardScale.step = String(C.CARD_STEP);
+    var curCard = C.clampCardScale(prefs.cardScale);
+    cardScale.value = String(curCard);
+    cardScaleVal.textContent = Math.round(curCard * 100) + "%";
+    cardScale.addEventListener("input", function () {
+      var n = C.clampCardScale(cardScale.value);
+      cardScaleVal.textContent = Math.round(n * 100) + "%";
+      applyCardScale(n);
+    });
+    cardScale.addEventListener("change", function () {
+      var n = C.clampCardScale(cardScale.value);
+      if (n === C.CARD_DEFAULT) delete prefs.cardScale;
+      else prefs.cardScale = n;
+      applyCardScale(n);
+      persist();
+    });
+
+    // Compact
+    var compact = drawer.querySelector("#set-compact");
+    compact.checked = !!prefs.compact;
+    compact.addEventListener("change", function () {
+      if (compact.checked) prefs.compact = true;
+      else delete prefs.compact;
+      applyCompact(compact.checked);
+      persist();
+    });
+
+    // Hide drop caps
+    var noDropcap = drawer.querySelector("#set-no-dropcap");
+    noDropcap.checked = !!prefs.noDropcap;
+    noDropcap.addEventListener("change", function () {
+      if (noDropcap.checked) prefs.noDropcap = true;
+      else delete prefs.noDropcap;
+      applyDropcap(noDropcap.checked);
+      persist();
+    });
+
+    // Card style (control currently hidden — guard in case markup is absent).
+    // Reloads on change to re-render cards in the chosen style.
+    var card = drawer.querySelector("#set-card-style");
+    if (card) {
+      card.value = prefs.cardStyle || "classic";
+      card.addEventListener("change", function () {
+        if (!card.value || card.value === "classic") delete prefs.cardStyle;
+        else prefs.cardStyle = card.value;
+        applyCardStyle(prefs.cardStyle);
+        persist();
+        location.reload();
+      });
+    }
+
+    // Page width: full toggle + em slider
+    var full = drawer.querySelector("#set-fullwidth");
+    var width = drawer.querySelector("#set-width");
+    var widthVal = drawer.querySelector("#set-width-val");
+    width.min = String(C.WIDTH_MIN_EM);
+    width.max = String(C.WIDTH_MAX_EM);
+    width.step = String(C.WIDTH_STEP_EM);
+
+    function syncWidthUI(state) {
+      full.checked = state.full;
+      width.value = String(state.em);
+      width.disabled = state.full;
+      widthVal.textContent = state.full ? "full" : state.em + "em";
+    }
+    function commitWidth(live) {
+      var state = { full: full.checked, em: C.clampEm(width.value) };
+      var w = C.controlsToWidth(state);
+      widthVal.textContent = state.full ? "full" : state.em + "em";
+      width.disabled = state.full;
+      applyWidth(w);
+      if (!live) {
+        if (w === "none") delete prefs.width;
+        else prefs.width = w;
+        persist();
+      }
+    }
+    syncWidthUI(C.widthToControls(prefs.width));
+    full.addEventListener("change", function () { commitWidth(false); });
+    width.addEventListener("input", function () { commitWidth(true); });
+    width.addEventListener("change", function () { commitWidth(false); });
+
+    // Statblocks (selects + presets + web-extra toggles)
+    var syncSb = bindStatblocks(drawer);
+    var syncFb = bindFeatureblocks(drawer);
+    var syncSbPrev = bindStatblockPreview(drawer);
+
+    // Reset all
+    drawer.querySelector("#set-reset").addEventListener("click", function () {
+      prefs = {};
+      applyAll(prefs);
+      // resync controls
+      Object.keys(fontIds).forEach(function (k) {
+        drawer.querySelector("#" + fontIds[k]).selectedIndex = 0;
+      });
+      if (themeSel) themeSel.value = "steel";
+      scale.value = String(C.SCALE_DEFAULT);
+      scaleVal.textContent = "100%";
+      cardScale.value = String(C.CARD_DEFAULT);
+      cardScaleVal.textContent = "100%";
+      compact.checked = false;
+      noDropcap.checked = false;
+      if (card) card.value = "classic";
+      syncWidthUI(C.widthToControls(undefined));
+      syncSb();
+      syncFb();
+      syncSbPrev();
+      persist();
+    });
+  }
+
+  // ---------- bind statblock controls ----------
+  // Returns a syncUI() the Reset handler calls to re-derive every control from
+  // the (possibly just-cleared) prefs.statblock bundle.
+  function bindStatblocks(drawer) {
+    function sb() { return prefs.statblock || (prefs.statblock = {}); }
+
+    var pieceIds = {
+      kwusage: "set-sb-kwusage", featstyle: "set-sb-featstyle", disttarget: "set-sb-disttarget",
+      meta: "set-sb-meta", charline: "set-sb-charline", charbox: "set-sb-charbox", villain: "set-sb-villain"
+    };
+    var presetSel = drawer.querySelector("#set-sb-preset");
+    var wide = drawer.querySelector("#set-sb-wide");
+    var links = drawer.querySelector("#set-sb-links");
+    var sticky = drawer.querySelector("#set-sb-sticky");
+    var stickymeta = drawer.querySelector("#set-sb-stickymeta");
+
+    function syncUI() {
+      var s = prefs.statblock || {};
+      Object.keys(pieceIds).forEach(function (k) {
+        drawer.querySelector("#" + pieceIds[k]).value = s[k] || SB_DEFAULTS[k];
+      });
+      wide.checked = (s.wide || SB_DEFAULTS.wide) === "on";
+      links.checked = s.augLinks !== false;
+      sticky.checked = s.augSticky !== false;
+      stickymeta.checked = (s.stickymeta || SB_DEFAULTS.stickymeta) === "on";
+      presetSel.value = detectSbPreset(s);
+    }
+
+    function commit() { applyStatblocks(prefs); persist(); syncUI(); }
+    function setPiece(key, val) { sb()[key] = val; commit(); }
+
+    Object.keys(pieceIds).forEach(function (k) {
+      drawer.querySelector("#" + pieceIds[k]).addEventListener("change", function () {
+        setPiece(k, this.value);
+      });
+    });
+    wide.addEventListener("change", function () { setPiece("wide", this.checked ? "on" : "off"); });
+    stickymeta.addEventListener("change", function () { setPiece("stickymeta", this.checked ? "on" : "off"); });
+    links.addEventListener("change", function () { sb().augLinks = this.checked; commit(); });
+    sticky.addEventListener("change", function () { sb().augSticky = this.checked; commit(); });
+    presetSel.addEventListener("change", function () {
+      if (this.value === "custom") return;
+      var p = SB_PRESETS[this.value];
+      var s = sb();
+      for (var a in p) s[a] = p[a]; // preset bundles never touch stickymeta / augs
+      commit();
+    });
+
+    syncUI();
+    return syncUI;
+  }
+
+  // ---------- bind featureblock controls ----------
+  // Returns syncUI() the Reset handler calls to re-derive controls from prefs.
+  function bindFeatureblocks(drawer) {
+    function fb() { return prefs.featureblock || (prefs.featureblock = {}); }
+    var ids = { featstyle: "set-fb-featstyle", stats: "set-fb-stats" };
+
+    function syncUI() {
+      var s = prefs.featureblock || {};
+      FB_KEYS.forEach(function (k) {
+        drawer.querySelector("#" + ids[k]).value = s[k] || FB_DEFAULTS[k];
+      });
+    }
+    FB_KEYS.forEach(function (k) {
+      drawer.querySelector("#" + ids[k]).addEventListener("change", function () {
+        fb()[k] = this.value;
+        applyFeatureblocks(prefs);
+        persist();
+        syncUI();
+      });
+    });
+    syncUI();
+    return syncUI;
+  }
+
+  // ---------- bind statblock-preview controls ----------
+  // Returns syncUI() the Reset handler calls to re-derive controls from prefs.
+  function bindStatblockPreview(drawer) {
+    function sp() { return prefs.statblockPreview || (prefs.statblockPreview = {}); }
+    var ids = { stats: "set-sbprev-stats", meta: "set-sbprev-meta", chars: "set-sbprev-chars", feats: "set-sbprev-feats" };
+
+    function syncUI() {
+      var r = C.resolveSbPreview(prefs.statblockPreview);
+      C.SBPREV_KEYS.forEach(function (k) {
+        drawer.querySelector("#" + ids[k]).checked = r[k] === "on";
+      });
+    }
+    C.SBPREV_KEYS.forEach(function (k) {
+      drawer.querySelector("#" + ids[k]).addEventListener("change", function () {
+        sp()[k] = this.checked ? "on" : "off";
+        applyStatblockPreview(prefs);
+        persist();
+        syncUI();
+        if (window.SteelStatblockPreview && window.SteelStatblockPreview.reseed) {
+          window.SteelStatblockPreview.reseed();
+        }
+      });
+    });
+    syncUI();
+    return syncUI;
+  }
+
+  // ---------- inject header button ----------
+  function injectButton() {
+    if (document.getElementById("sc-settings-toggle")) return;
+    var header = document.querySelector(".md-header__inner");
+    if (!header) return;
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.id = "sc-settings-toggle";
+    btn.className = "md-header__button md-icon sc-settings-toggle";
+    btn.setAttribute("aria-label", "Open display settings");
+    btn.setAttribute("aria-expanded", "false");
+    btn.innerHTML = GEAR;
+    btn.addEventListener("click", function () {
+      if (isOpen()) closeDrawer(); else openDrawer();
+    });
+    // Place just before the palette toggle if present, else before search, else append.
+    var anchor = header.querySelector('[data-md-component="palette"]')
+              || header.querySelector('label[for="__search"]')
+              || header.querySelector(".md-header__option");
+    if (anchor) header.insertBefore(btn, anchor);
+    else header.appendChild(btn);
+  }
+
+  function init() {
+    injectButton();
+    buildDrawer();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+  // Re-assert after Material instant navigation (header/body may be re-rendered).
+  if (typeof document$ !== "undefined") {
+    document$.subscribe(init);
+  }
+})();

@@ -1,0 +1,76 @@
+/* steel-encounter.css — the encounter-builder tray (sc-encounter.js) + the
+   "+" column in the bestiary results table + the statblock-head add chip. */
+.sc-enc-cell { width: 2rem; text-align: center; }
+.sc-enc-add {
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+  background: none; cursor: pointer; width: 1.5rem; height: 1.5rem; line-height: 1;
+  color: var(--md-default-fg-color--light); font-size: .9rem;
+}
+.sc-enc-add:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+/* statblock pages (SC-297 round 2): the head "+" chip mounts inside the
+   shared chrome plate (steel-chrome.css), which re-grounds position/opacity
+   with a more specific selector. This class is shared with the bestiary
+   results table's "+" column button above, which stays plain-in-flow. */
+
+.sc-enc {
+  position: fixed; right: 1rem; bottom: 1rem; z-index: 20; width: 21rem; max-width: 92vw;
+  border: 1px solid var(--fx-metal-line); border-radius: .6rem;
+  background: var(--md-default-bg-color); box-shadow: 0 4px 18px rgba(0,0,0,.35);
+  font-size: .72rem;
+}
+/* only the user's collapse hides the body — an empty tray still exposes the
+   heroes/level/victories party inputs */
+.sc-enc.is-min .sc-enc__body { display: none; }
+.sc-enc.is-closed { display: none; }
+.sc-enc__head {
+  display: flex; gap: .6rem; align-items: center; padding: .5rem .8rem; position: relative;
+  cursor: pointer; user-select: none; /* whole row toggles collapse (sc-encounter.js) */
+}
+.sc-enc__head b { font-family: var(--md-small-header-font); letter-spacing: .04em; }
+.sc-enc__diff[data-diff="Standard"] { color: var(--md-accent-fg-color); }
+.sc-enc__diff[data-diff="Hard"], .sc-enc__diff[data-diff="Extreme"] { color: #e06060; }
+.sc-enc__menu-btn { margin-left: auto; background: none; border: 0; cursor: pointer; color: inherit; font-weight: 700; }
+.sc-enc__toggle { background: none; border: 0; cursor: pointer; color: inherit; transition: transform .15s ease; }
+.sc-enc__menu-btn:hover, .sc-enc__toggle:hover, .sc-enc__head:hover .sc-enc__toggle { color: var(--md-accent-fg-color); }
+/* collapsed: chevron points right; the ⋯ is hidden — its dropdown opens
+   downward, which is off-screen when the bottom-fixed tray has no body */
+.sc-enc.is-min .sc-enc__toggle { transform: rotate(-90deg); margin-left: auto; }
+.sc-enc.is-min .sc-enc__menu-btn { display: none; }
+.sc-enc__menu {
+  position: absolute; top: calc(100% - .2rem); right: .6rem; z-index: 21;
+  display: flex; flex-direction: column; min-width: 9rem;
+  border: 1px solid var(--fx-metal-line); border-radius: .4rem;
+  background: var(--md-default-bg-color); box-shadow: 0 4px 14px rgba(0,0,0,.35);
+  padding: .25rem;
+}
+.sc-enc__menu[hidden] { display: none; }
+.sc-enc__menu button {
+  background: none; border: 0; cursor: pointer; color: inherit;
+  text-align: left; padding: .3rem .5rem; border-radius: .3rem;
+}
+.sc-enc__menu button:hover { background: var(--md-default-fg-color--lightest); color: var(--md-accent-fg-color); }
+.sc-enc__body { padding: 0 .8rem .7rem; max-height: 60vh; overflow: auto; }
+.sc-enc__party { display: flex; gap: .6rem; margin-bottom: .5rem; flex-wrap: wrap; }
+.sc-enc__party input {
+  width: 3.2rem; background: inherit; color: inherit;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .3em;
+}
+.sc-enc__row { display: flex; gap: .5rem; align-items: baseline; padding: .15rem 0; }
+.sc-enc__row .cost { margin-left: auto; color: var(--md-default-fg-color--light); white-space: nowrap; }
+.sc-enc__row .ct { white-space: nowrap; }
+.sc-enc__row .ct button {
+  background: none; border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .3em; cursor: pointer; width: 1.3rem; color: inherit;
+}
+.sc-enc__row .ct b { margin: 0 .3rem; }
+.sc-enc__row .warn { cursor: help; }
+.sc-enc__bands { margin-top: .5rem; color: var(--md-default-fg-color--light); }
+.sc-enc__actions { display: flex; gap: .4rem; margin-top: .5rem; flex-wrap: wrap; }
+.sc-enc.is-empty .sc-enc__actions { display: none; }  /* nothing to share/copy yet */
+.sc-enc__actions button {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .35em; background: none; cursor: pointer; padding: .2rem .5rem; color: inherit;
+}
+.sc-enc__actions button:hover { color: var(--md-accent-fg-color); border-color: currentColor; }
+@media (max-width: 45em) { .sc-enc { right: .5rem; bottom: .5rem; } }
+@media print { .sc-enc, .sc-enc-add { display: none !important; } }

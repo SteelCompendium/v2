@@ -1,0 +1,1271 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  
+    <link rel="canonical" href="https://steelcompendium.io/v2/">
+  
+  
+  
+    <link rel="next" href="Browse/">
+  
+  
+    
+  
+  
+  <link rel="icon" href="Media/favicon.ico">
+  <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+
+    
+      
+        <title>Home - Steel Compendium: Draw Steel Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/palette.css">
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="stylesheets/custom_font.css">
+    
+      <link rel="stylesheet" href="stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="stylesheets/mobile.css">
+    
+      <link rel="stylesheet" href="stylesheets/print.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-redesign.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-settings.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-cardhead.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-class.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-ability-cards.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-kit.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-statblock.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-featureblock.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-traits.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-project.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-indexes.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-bestiary.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-copylink.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-encounter.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-dice.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-export.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-scale.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-pins.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-pageact.css">
+    
+      <link rel="stylesheet" href="stylesheets/steel-chrome.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-PMF9SHHXNY"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-PMF9SHHXNY",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-PMF9SHHXNY",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+<meta name="scc-base" content="https://steelcompendium.io/v2/scc/">
+
+<script>
+    (function(){
+        try {
+            const s = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}");
+            const r = document.documentElement.style;
+            if (s.large) r.setProperty("--md-large-header-font", s.large);
+            if (s.small) r.setProperty("--md-small-header-font", s.small);
+            if (s.text)  r.setProperty("--md-text-font",  s.text);
+            if (s.code)  r.setProperty("--md-code-font",  s.code);
+            if (s.width) r.setProperty("--md-max_width",   s.width);
+            if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
+            if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
+            if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.noDropcap) document.documentElement.setAttribute("data-no-dropcap", "true");
+            if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
+            if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
+            // Statblock layout preferences (data-sb-*) must always be set — an absent
+            // attribute is NOT equivalent to the "Steel Card" default in steel-statblock.css.
+            var sb = s.statblock || {};
+            // Legacy migration (matched pair with settings-panel.js prefs load):
+            // pre-featstyle prefs with a non-crest kwusage keep their flat look.
+            if (!sb.featstyle && sb.kwusage && sb.kwusage !== "crest") sb.featstyle = "flat";
+            var sbD = {kwusage:"crest",featstyle:"card",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
+            for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
+            // Featureblock layout preferences (data-fb-*) — same always-set rule
+            // as data-sb-*; an absent attribute is NOT the default.
+            var fb = s.featureblock || {};
+            var fbD = {featstyle:"card", stats:"grid"};
+            for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
+            // Statblock-preview zone visibility (data-sbprev-*) — global default
+            // seed read by statblock-preview.js; SINGLE SOURCE mirrors
+            // settings-core SBPREV_DEFAULTS + steel-etl sbPreviewDefaults.
+            var sp = s.statblockPreview || {};
+            var spD = {stats:"on", meta:"off", chars:"off", feats:"off"};
+            for (var spk in spD) {
+              var spv = (sp[spk] === "on" || sp[spk] === "off") ? sp[spk] : spD[spk];
+              document.documentElement.setAttribute("data-sbprev-"+spk, spv);
+            }
+        } catch(e) {}
+    })();
+</script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#steel-compendium" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-header__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="Media/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Steel Compendium: Draw Steel Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <a class="md-header__button md-icon" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener" title="Report a bug">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 8h-2.81c-.45-.8-1.07-1.5-1.82-2L17 4.41 15.59 3l-2.17 2.17a6 6 0 0 0-2.83 0L8.41 3 7 4.41 8.62 6c-.75.5-1.36 1.21-1.81 2H4v2h2.09c-.06.33-.09.66-.09 1v1H4v2h2v1c0 .34.03.67.09 1H4v2h2.81A5.99 5.99 0 0 0 15 20.18c.91-.52 1.67-1.28 2.19-2.18H20v-2h-2.09c.06-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.03-.67-.09-1H20zm-4 7a4 4 0 0 1-4 4 4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4 4 4 0 0 1 4 4zm-2-5v2h-4v-2zm-4 4h4v2h-4z"/></svg>
+      </a>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="Browse/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Browse
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="Read/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Books
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="Bestiary/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Bestiary
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="table-reference/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Table Reference
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="pins/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  My Table
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-nav__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="Media/favicon.ico" alt="logo">
+
+    </a>
+    Steel Compendium: Draw Steel Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#steel-compendium">Steel Compendium</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-to-use-this-site">How to Use This Site</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#browse">Browse</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#read">Read</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bestiary">Bestiary</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#data-formats">Data Formats</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#data-repo">Data repo</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#legacy-data-repos">Legacy data repos</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thanks">Thanks!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="Browse/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Browse
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="Read/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="Bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bestiary
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="table-reference/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Table Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="pins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My Table
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#steel-compendium">Steel Compendium</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-to-use-this-site">How to Use This Site</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#browse">Browse</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#read">Read</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bestiary">Bestiary</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#data-formats">Data Formats</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#data-repo">Data repo</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#legacy-data-repos">Legacy data repos</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thanks">Thanks!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<!--Removing the auto-injected h1 element7-->
+<!---->
+<h1 id="steel-compendium">Steel Compendium<a class="headerlink" href="#steel-compendium" title="Permanent link">&para;</a></h1>
+<p><em>A searchable, linkable reference for the <strong>Draw Steel</strong> TTRPG — curated by Xentis.</em></p>
+<p><em>The Draw Steel Compendium is an independent product published under the <a href="https://www.mcdmproductions.com/draw-steel-creator-license">DRAW STEEL Creator License</a> and is not
+affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.</em></p>
+<hr />
+<p>Welcome to the Steel Compendium! This site includes the full Draw Steel Rules and Monsters book organized for different reading styles.
+<strong>This is the current Steel Compendium.</strong> It replaces the original <a href="https://steelcompendium.io/compendium">legacy Compendium site</a>, which is <strong>no longer maintained</strong>.</p>
+<h2 id="how-to-use-this-site">How to Use This Site<a class="headerlink" href="#how-to-use-this-site" title="Permanent link">&para;</a></h2>
+<p>Use the <strong>tabs</strong> at the top to choose how you want to explore the rules:</p>
+<div class="grid cards">
+<ul>
+<li>
+<h3 id="browse"><span class="twemoji sc-crest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.5 9a2.5 2.5 0 0 0 0 5 2.5 2.5 0 0 0 0-5M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m-3.21 14.21-2.91-2.91c-.69.44-1.51.7-2.38.7C9 16 7 14 7 11.5S9 7 11.5 7a4.481 4.481 0 0 1 3.8 6.89l2.91 2.9z"/></svg></span> Browse<a class="headerlink" href="#browse" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Look up specific rules, abilities, classes, kits, and more. Each item has its own page -- easy to search and share. The best way to find something specific.</p>
+<p><a href="Browse/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Browse the rules</a></p>
+</li>
+<li>
+<h3 id="read"><span class="twemoji sc-crest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m19 2-5 4.5v11l5-4.5zM6.5 5C4.55 5 2.45 5.4 1 6.5v14.66c0 .25.25.5.5.5.1 0 .15-.07.25-.07 1.35-.65 3.3-1.09 4.75-1.09 1.95 0 4.05.4 5.5 1.5 1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.31 4.75 1.06.1.05.15.03.25.03.25 0 .5-.25.5-.5V6.5c-.6-.45-1.25-.75-2-1V19c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5V6.5C10.55 5.4 8.45 5 6.5 5"/></svg></span> Read<a class="headerlink" href="#read" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Read the rules organized by chapter, as they appear in each book. Good for reading through whole sections in order.</p>
+<p><a href="Read/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Read by chapter</a></p>
+</li>
+<li>
+<h3 id="bestiary"><span class="twemoji sc-crest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a9 9 0 0 0-9 9 8.99 8.99 0 0 0 4 7.47V22h2v-3h2v3h2v-3h2v3h2v-3.54c2.47-1.65 4-4.46 4-7.46a9 9 0 0 0-9-9m-4 9a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2m8 0a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2m-4 3 1.5 3h-3z"/></svg></span> Bestiary<a class="headerlink" href="#bestiary" title="Permanent link">&para;</a></h3>
+<hr />
+<p>Monsters and creatures of Draw Steel. Explore statblocks and featureblocks in a convenient search-and-filter view.</p>
+<p><a href="Bestiary/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Open the Bestiary</a></p>
+</li>
+</ul>
+</div>
+<p><strong>Search</strong> indexes Browse and Bestiary pages, so you get clean results without duplicates.</p>
+<h2 id="data-formats">Data Formats<a class="headerlink" href="#data-formats" title="Permanent link">&para;</a></h2>
+<p>Don't bother scraping the site! The data is already parsed and serialized to Markdown, JSON,
+and YAML, and published on GitHub.</p>
+<div class="grid cards">
+<ul>
+<li>
+<h3 id="data-repo"><span class="twemoji sc-crest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3C7.58 3 4 4.79 4 7s3.58 4 8 4 8-1.79 8-4-3.58-4-8-4M4 9v3c0 2.21 3.58 4 8 4s8-1.79 8-4V9c0 2.21-3.58 4-8 4s-8-1.79-8-4m0 5v3c0 2.21 3.58 4 8 4s8-1.79 8-4v-3c0 2.21-3.58 4-8 4s-8-1.79-8-4"/></svg></span> Data repo<a class="headerlink" href="#data-repo" title="Permanent link">&para;</a></h3>
+<hr />
+<p><strong><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14h-2V9h2m0 9h-2v-2h2M1 21h22L12 2z"/></svg></span> Work in progress.</strong> This SCC-coded data is <strong>not yet production-ready</strong> --
+the structure may change and it may contain errors.</p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-unified">data-unified</a> -- the consolidated data
+  repo: every book, in every format.</li>
+</ul>
+<p><strong>Browse</strong> -- <code>en/unified/&lt;format&gt;/</code> -- all content aggregated by type.</p>
+<p><strong>Read</strong> -- <code>en/books/&lt;book&gt;/&lt;format&gt;/</code> -- book-faithful, source-ordered (<code>heroes</code>,
+<code>monsters</code>, <code>beastheart</code>, <code>summoner</code>).</p>
+<p>Formats: Markdown, SCC-linked Markdown, Markdown for the Draw Steel Elements plugin, JSON,
+and YAML (plus annotation-stripped <code>clean</code> Markdown). Languages live under the top-level
+locale folder (<code>en/</code>, …).</p>
+</li>
+<li>
+<h3 id="legacy-data-repos"><span class="twemoji sc-crest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h7.26c1.31 1.88 3.45 3 5.74 3a7 7 0 0 0 7-7c0-1.83-.72-3.58-2-4.89V8a2 2 0 0 0-2-2h-8L9 4zm13 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m-1 1v5l3.61 2.16.75-1.22-2.86-1.69V12z"/></svg></span> Legacy data repos<a class="headerlink" href="#legacy-data-repos" title="Permanent link">&para;</a></h3>
+<hr />
+<p><strong>Deprecated.</strong> These older repos are still available, but are superseded by the
+consolidated <a href="https://github.com/SteelCompendium/data-unified">data-unified</a> repo to the
+left.</p>
+<p><details>
+<summary>Show the legacy repos</summary></p>
+<p><em>Per-book (now folded into <code>data-unified</code>):</em></p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-rules">data-rules</a> -- Heroes book → <code>en/books/heroes/</code></li>
+<li><a href="https://github.com/SteelCompendium/data-bestiary">data-bestiary</a> -- Monsters book → <code>en/books/monsters/</code></li>
+</ul>
+<p><em>Unified (everything):</em></p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-md">data-md</a> -- Markdown</li>
+<li><a href="https://github.com/SteelCompendium/data-md-dse">data-md-dse</a> -- Markdown for the Draw Steel Elements Obsidian Plugin</li>
+</ul>
+<p><em>Rules (Heroes book):</em></p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-rules-md">data-rules-md</a> -- Markdown</li>
+<li><a href="https://github.com/SteelCompendium/data-rules-md-dse">data-rules-md-dse</a> -- Markdown for the Draw Steel Elements Obsidian Plugin</li>
+<li><a href="https://github.com/SteelCompendium/data-rules-yaml">data-rules-yaml</a> -- YAML</li>
+<li><a href="https://github.com/SteelCompendium/data-rules-json">data-rules-json</a> -- JSON</li>
+<li><a href="https://github.com/SteelCompendium/data-rules-xml">data-rules-xml</a> -- XML</li>
+</ul>
+<p><em>Bestiary (Monsters book):</em></p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-bestiary-md">data-bestiary-md</a> -- Markdown</li>
+<li><a href="https://github.com/SteelCompendium/data-bestiary-md-dse">data-bestiary-md-dse</a> -- Markdown for the Draw Steel Elements Obsidian Plugin</li>
+<li><a href="https://github.com/SteelCompendium/data-bestiary-yaml">data-bestiary-yaml</a> -- YAML</li>
+<li><a href="https://github.com/SteelCompendium/data-bestiary-json">data-bestiary-json</a> -- JSON</li>
+</ul>
+<p><em>Adventures</em> (not yet populated with data):</p>
+<ul>
+<li><a href="https://github.com/SteelCompendium/data-adventures-md">data-adventures-md</a> -- Markdown</li>
+</ul>
+</details>
+</li>
+</ul>
+</div>
+<p>Please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&amp;ouid=105036387964900154878">form to report bugs</a> if you find them!</p>
+<h2 id="thanks">Thanks!<a class="headerlink" href="#thanks" title="Permanent link">&para;</a></h2>
+<p>Special thanks to the many, many individuals that helped find bugs and errors!  Please tell me what's broken; I can't manually verify each page.</p>
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+        
+          
+          <a href="Browse/" class="md-footer__link md-footer__link--next" aria-label="Next: Browse Rules">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Browse Rules
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.
+    </div>
+  
+  
+    <div class="md-copyright__build">
+      <small>
+        build:
+          steel-etl
+          <a href="https://github.com/SteelCompendium/steel-etl/commit/5035174">5035174</a> &middot; 
+          site
+          <a href="https://github.com/SteelCompendium/v2/commit/acca1a0">acca1a0</a> (2026-09-06)
+      </small>
+    </div>
+  
+  
+    <div class="md-copyright__bug">
+      <small>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener">Report a bug</a>
+      </small>
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.indexes", "navigation.prune", "search.suggest", "search.highlight", "navigation.instant", "navigation.path", "navigation.footer", "toc.follow"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+<script>
+(function () {
+  var c = document.getElementById("__config");
+  if (!c) return;
+  try {
+    var j = JSON.parse(c.textContent);
+    j.search = "javascripts/sc-search-worker.js";
+    c.textContent = JSON.stringify(j);
+  } catch (e) { /* leave Material's worker in place */ }
+})();
+</script>
+
+      <script src="assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="javascripts/tablesort.js"></script>
+      
+        <script src="javascripts/sc-chrome.js"></script>
+      
+        <script src="javascripts/settings-core.js"></script>
+      
+        <script src="javascripts/settings-panel.js"></script>
+      
+        <script src="javascripts/ability-cards-core.js"></script>
+      
+        <script src="javascripts/ability-cards.js"></script>
+      
+        <script src="javascripts/steel-ability-cards.js"></script>
+      
+        <script src="javascripts/sc-dice-core.js"></script>
+      
+        <script src="javascripts/sc-dice.js"></script>
+      
+        <script src="javascripts/statblock-preview.js"></script>
+      
+        <script src="javascripts/sc-scale-core.js"></script>
+      
+        <script src="javascripts/sc-scale.js"></script>
+      
+        <script src="javascripts/steel-traits.js"></script>
+      
+        <script src="javascripts/sc-facet-core.js"></script>
+      
+        <script src="javascripts/steel-feature-browser-core.js"></script>
+      
+        <script src="javascripts/steel-feature-browser.js"></script>
+      
+        <script src="javascripts/steel-bestiary-browser.js"></script>
+      
+        <script src="javascripts/sc-encounter-core.js"></script>
+      
+        <script src="javascripts/sc-encounter.js"></script>
+      
+        <script src="javascripts/browse-enhancements.js"></script>
+      
+        <script src="javascripts/reading-progress.js"></script>
+      
+        <script src="javascripts/keyboard-nav.js"></script>
+      
+        <script src="javascripts/read-resume-core.js"></script>
+      
+        <script src="javascripts/read-resume.js"></script>
+      
+        <script src="javascripts/sc-pageact.js"></script>
+      
+        <script src="javascripts/scc-headerlinks.js"></script>
+      
+        <script src="javascripts/scc-card-copy-core.js"></script>
+      
+        <script src="javascripts/scc-card-copy.js"></script>
+      
+        <script src="javascripts/vendor/html-to-image.min.js"></script>
+      
+        <script src="javascripts/sc-export.js"></script>
+      
+        <script src="javascripts/sc-pins-core.js"></script>
+      
+        <script src="javascripts/sc-pins-sections.js"></script>
+      
+        <script src="javascripts/sc-pins.js"></script>
+      
+        <script src="javascripts/nav-drawer-keep-core.js"></script>
+      
+        <script src="javascripts/nav-drawer-keep.js"></script>
+      
+    
+
+  </body>
+</html>

@@ -1,0 +1,4951 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  
+    <link rel="canonical" href="https://steelcompendium.io/v2/Browse/rule/test/montage-test/">
+  
+  
+    <link rel="prev" href="../group-test/">
+  
+  
+    <link rel="next" href="../reactive-test/">
+  
+  
+    
+  
+  
+  <link rel="icon" href="../../../../Media/favicon.ico">
+  <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+
+    
+      
+        <title>Montage Tests - Steel Compendium: Draw Steel Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../stylesheets/palette.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/custom_font.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/mobile.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/print.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-redesign.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-settings.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-cardhead.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-class.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-ability-cards.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-kit.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-statblock.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-featureblock.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-traits.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-project.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-indexes.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-bestiary.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-copylink.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-encounter.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-dice.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-export.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-scale.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-pins.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-pageact.css">
+    
+      <link rel="stylesheet" href="../../../../stylesheets/steel-chrome.css">
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-PMF9SHHXNY"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-PMF9SHHXNY",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-PMF9SHHXNY",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+<meta name="scc-base" content="https://steelcompendium.io/v2/scc/">
+<meta name="scc-permalink" content="https://steelcompendium.io/v2/scc/mcdm.heroes.v1/rule.test/montage-test/">
+
+<script>
+    (function(){
+        try {
+            const s = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}");
+            const r = document.documentElement.style;
+            if (s.large) r.setProperty("--md-large-header-font", s.large);
+            if (s.small) r.setProperty("--md-small-header-font", s.small);
+            if (s.text)  r.setProperty("--md-text-font",  s.text);
+            if (s.code)  r.setProperty("--md-code-font",  s.code);
+            if (s.width) r.setProperty("--md-max_width",   s.width);
+            if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
+            if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
+            if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.noDropcap) document.documentElement.setAttribute("data-no-dropcap", "true");
+            if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
+            if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
+            // Statblock layout preferences (data-sb-*) must always be set — an absent
+            // attribute is NOT equivalent to the "Steel Card" default in steel-statblock.css.
+            var sb = s.statblock || {};
+            // Legacy migration (matched pair with settings-panel.js prefs load):
+            // pre-featstyle prefs with a non-crest kwusage keep their flat look.
+            if (!sb.featstyle && sb.kwusage && sb.kwusage !== "crest") sb.featstyle = "flat";
+            var sbD = {kwusage:"crest",featstyle:"card",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
+            for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
+            // Featureblock layout preferences (data-fb-*) — same always-set rule
+            // as data-sb-*; an absent attribute is NOT the default.
+            var fb = s.featureblock || {};
+            var fbD = {featstyle:"card", stats:"grid"};
+            for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
+            // Statblock-preview zone visibility (data-sbprev-*) — global default
+            // seed read by statblock-preview.js; SINGLE SOURCE mirrors
+            // settings-core SBPREV_DEFAULTS + steel-etl sbPreviewDefaults.
+            var sp = s.statblockPreview || {};
+            var spD = {stats:"on", meta:"off", chars:"off", feats:"off"};
+            for (var spk in spD) {
+              var spv = (sp[spk] === "on" || sp[spk] === "off") ? sp[spk] : spD[spk];
+              document.documentElement.setAttribute("data-sbprev-"+spk, spv);
+            }
+        } catch(e) {}
+    })();
+</script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#montage-tests" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-header__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Steel Compendium: Draw Steel Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Montage Tests
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <a class="md-header__button md-icon" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener" title="Report a bug">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 8h-2.81c-.45-.8-1.07-1.5-1.82-2L17 4.41 15.59 3l-2.17 2.17a6 6 0 0 0-2.83 0L8.41 3 7 4.41 8.62 6c-.75.5-1.36 1.21-1.81 2H4v2h2.09c-.06.33-.09.66-.09 1v1H4v2h2v1c0 .34.03.67.09 1H4v2h2.81A5.99 5.99 0 0 0 15 20.18c.91-.52 1.67-1.28 2.19-2.18H20v-2h-2.09c.06-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.03-.67-.09-1H20zm-4 7a4 4 0 0 1-4 4 4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4 4 4 0 0 1 4 4zm-2-5v2h-4v-2zm-4 4h4v2h-4z"/></svg>
+      </a>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Browse
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../Read/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Books
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../Bestiary/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Bestiary
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../table-reference/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Table Reference
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../pins/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  My Table
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-nav__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    Steel Compendium: Draw Steel Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Browse
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Browse
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../ancestry/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ancestries
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../career/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Careers
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../class/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Classes
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../complication/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Complications
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../condition/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conditions
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../culture/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cultures
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../project/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Downtime Projects
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../dynamic-terrain/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dynamic Terrain
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../feature/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Features
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../religion/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gods & Religion
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../kit/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kits
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../monster/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Monsters
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../movement/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Movement
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../negotiation/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Negotiations
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../perk/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perks
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_17" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_17" id="__nav_2_17_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_17_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_17">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Rules
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../character/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Character
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../combat/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combat
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../damage/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Damage
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../dice/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dice
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../downtime/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Downtime
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../general/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    General
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../health/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Health
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../keyword/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Keyword
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../monster/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Monsters
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../negotiation/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Negotiations
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../organization/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Organization
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../resource/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resource
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../role/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Role
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_17_15" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Test
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2_17_15" id="__nav_2_17_15_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_17_15_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_17_15">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Test
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../group-test/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Group Tests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Montage Tests
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Montage Tests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-tests">Montage Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-and-stakes">Time and Stakes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-sets-the-scene">Director Sets the Scene</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#individual-tests-in-montage-tests">Individual Tests in Montage Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-use-the-same-skill-twice">Can't Use the Same Skill Twice</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-challenges-for-each-test">New Challenges for Each Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#introducing-more-challenges">Introducing More Challenges</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-successes-and-failures">Total Successes and Failures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#limited-rounds">Limited Rounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty">Montage Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty-table">Montage Test Difficulty Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-outcomes">Montage Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-success">Total Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#partial-success">Partial Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-failure">Total Failure</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sample-montage-test">Sample Montage Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-1">Montage Test Round 1</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interlude">Interlude</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-2">Montage Test Round 2</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-options">Other Options</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reactive-test/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reactive Tests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../test-difficulty/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Test Difficulty
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../test/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How to Make a Test
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../treasure/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Treasures
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../world/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    World
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../skill/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../title/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Titles
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../treasure/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Treasures
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../Read/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../Bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bestiary
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../table-reference/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Table Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../pins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My Table
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-tests">Montage Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-and-stakes">Time and Stakes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-sets-the-scene">Director Sets the Scene</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#individual-tests-in-montage-tests">Individual Tests in Montage Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-use-the-same-skill-twice">Can't Use the Same Skill Twice</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-challenges-for-each-test">New Challenges for Each Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#introducing-more-challenges">Introducing More Challenges</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-successes-and-failures">Total Successes and Failures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#limited-rounds">Limited Rounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty">Montage Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty-table">Montage Test Difficulty Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-outcomes">Montage Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-success">Total Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#partial-success">Partial Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-failure">Total Failure</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sample-montage-test">Sample Montage Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-1">Montage Test Round 1</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interlude">Interlude</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-2">Montage Test Round 2</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-options">Other Options</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../../../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Browse
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Rules
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Test
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<!--Removing the auto-injected h1 element7-->
+<!---->
+<h1 id="montage-tests">Montage Tests<a class="headerlink" href="#montage-tests" title="Permanent link">&para;</a></h1>
+<hr />
+<p>When a group of heroes works together over time to accomplish a common goal that requires more than a single <a href="../../character/characteristic/">characteristic</a>, the Director can call for a montage <a href="../test/">test</a>. Such <a href="../test/">tests</a> typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage <a href="../test/">tests</a>.</p>
+<p>In a montage <a href="../test/">test</a>, the players take <a href="../../combat/turn/">turns</a> making <a href="../test/">tests</a> as their characters tackle a task together in a montage <a href="../test/">test</a> round. Each hero has a chance to make a <a href="../test/">test</a> (or to assist another hero's <a href="../test/">test</a>; see Assist a <a href="../test/">Test</a> above) intended to influence the outcome of the task.</p>
+<p>A hero can also spend their <a href="../../combat/turn/">turn</a> using an item, ability, or other option they have available that they believe can help in the montage <a href="../test/">test</a>. For example, if a group of heroes want to cross an ocean on a sailing ship before a storm begins, one hero might make use of a magic fan that creates wind to keep the sails full day and night. The Director decides that this clever action gives the heroes 2 automatic successes in the montage <a href="../test/">test</a>, with no individual <a href="../test/">tests</a> necessary (see Total Successes and Failures below).</p>
+<p>Once a hero makes a <a href="../test/">test</a>, assists with a <a href="../test/">test</a>, or uses an ability or other option, they can't do anything else as part of the montage <a href="../test/">test</a> until each other hero involved in the montage <a href="../test/">test</a> does so as well. A hero can also choose to do nothing, most often if they have no one to assist and fear that their actions might make the situation worse (see Montage <a href="../test/">Test</a> Outcomes below). Once every hero has had a chance to act, the montage <a href="../test/">test</a> round ends and a new one begins.</p>
+<h2 id="time-and-stakes">Time and Stakes<a class="headerlink" href="#time-and-stakes" title="Permanent link">&para;</a></h2>
+<p>As the name suggests, <a href="./">montage tests</a> create a kind of cinematic montage in the action of the game. A <a href="./">montage test</a> can take place over the course of several hours or days, with each individual <a href="../test/">test</a> or other activity set up as a brief vignette within the montage that stars one of the heroes. Combat encounters, negotiations, and other challenges and scenes can break up a <a href="./">montage test</a> (see Sample <a href="./">Montage Test</a> below).</p>
+<p>The Director should deploy <a href="./">montage tests</a> only when the players are engaged in overcoming a goal that has stakes for the story and some sort of pressure, such as a looming deadline or impending harm. A <a href="./">montage test</a> is great for a race to get to another location before an enemy army does, a chase to escape or catch up to a foe, weathering a hazard, preparing a village for war, or similar activities. Low- or no-stakes activities such as travel through a forest with no time pressure, or training during a <a href="../../resource/respite/">respite</a> to use a new kit, can be narrated in montage style, but they don't require a <a href="./">montage test</a>.</p>
+<h2 id="director-sets-the-scene">Director Sets the Scene<a class="headerlink" href="#director-sets-the-scene" title="Permanent link">&para;</a></h2>
+<p>At the start of a <a href="./">montage test</a>, the Director should describe the scenario underlying the task at hand, and the various challenges the heroes might face as they attempt to collectively accomplish it. For example, if the heroes are chasing down a pickpocket through a crowded market, the Director might talk about the throngs of innocent people blocking the way forward, obscuring the characters' vision, and making noise that complicates attempts to hear the thief's nimble footsteps. There are also traveling carts to dodge, the <a href="../../character/speed/">speed</a> and dexterity of the pursued character to contend with, and a pack of stray dogs who chase after anyone who sprints through the market. Describing these obstacles gives the heroes ideas about what they're trying to overcome as they attempt to achieve their goals.</p>
+<h2 id="individual-tests-in-montage-tests">Individual Tests in Montage Tests<a class="headerlink" href="#individual-tests-in-montage-tests" title="Permanent link">&para;</a></h2>
+<p>The difficulty of each individual <a href="../test/">test</a> in a <a href="./">montage test</a> is set by the Director and can vary from <a href="../test/">test</a> to <a href="../test/">test</a>. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy <a href="../../character/might/">Might</a> <a href="../test/">test</a>. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard <a href="../../character/reason/">Reason</a> <a href="../test/">test</a>.</p>
+<p>The same rules and guidelines that apply to all individual <a href="../test/">tests</a> apply in <a href="./">montage tests</a>. If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the <a href="../test/">test</a> should grant an <a href="../../dice/edge/">edge</a> or a <a href="../../dice/bane/">bane</a>, they do. Individual <a href="../test/">test</a> outcomes shouldn't halt the story.</p>
+<p>The Director should couch each success or failure as it relates to the overall goal of the <a href="./">montage test</a>. If the heroes are trying to reach an ancient temple, failing a <a href="../../character/might/">Might</a> <a href="../test/">test</a> to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.</p>
+<p>The rewards and consequences of individual <a href="../test/">tests</a> made during a <a href="./">montage test</a> are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain <a href="../../resource/hero-token/">hero tokens</a> for rewards to keep the montage moving.</p>
+<h2 id="cant-use-the-same-skill-twice">Can't Use the Same Skill Twice<a class="headerlink" href="#cant-use-the-same-skill-twice" title="Permanent link">&para;</a></h2>
+<p>An individual character can't use the same skill more than once in a <a href="./">montage test</a>. Though multiple heroes can use the same skill, a <a href="../test/">test</a> or an assist with a specific skill represents each characters' entire contribution to the <a href="./">montage test</a> with that skill. At the Director's discretion, this restriction can be lifted for prolonged <a href="./">montage tests</a>, or for <a href="./">montage tests</a> that are limited in scope and have only a small number of skills that apply to them.</p>
+<h2 id="new-challenges-for-each-test">New Challenges for Each Test<a class="headerlink" href="#new-challenges-for-each-test" title="Permanent link">&para;</a></h2>
+<p>In general, when a hero makes a <a href="../test/">test</a> as part of a <a href="./">montage test</a>, they should choose new obstacles to overcome that haven't already been overcome as part of the <a href="../test/">test</a>. If the heroes are chasing a thief through the marketplace and one of them has already distracted the pack of stray dogs with a deft hand and a piece of meat, additional <a href="../test/">tests</a> made to distract the animals don't count toward the outcome of the <a href="./">montage test</a>.</p>
+<p>When it fits the scenario, the Director can adjust this restriction. If part of a <a href="./">montage test</a> involves searching for people trapped in a burning building, the Director is likely to allow multiple <a href="../test/">tests</a> to fight or avoid the fire, since this will happen throughout the <a href="./">montage test</a>, not just once.</p>
+<h3 id="introducing-more-challenges">Introducing More Challenges<a class="headerlink" href="#introducing-more-challenges" title="Permanent link">&para;</a></h3>
+<p>During a <a href="./">montage test</a>, a Director can introduce new challenges for the heroes to face. While attempting to run out of a burning building from the top floor, the characters might discover that by the time they reach the second floor, beams are starting to fall and glass windows are exploding as the structure starts to collapse. These new challenges can be incorporated into the <a href="../test/">tests</a> the heroes subsequently make.</p>
+<h2 id="total-successes-and-failures">Total Successes and Failures<a class="headerlink" href="#total-successes-and-failures" title="Permanent link">&para;</a></h2>
+<p>The Director or another player will track the total number of successes and failures the heroes earn during a <a href="./">montage test</a>. Every <a href="./">montage test</a> has a success limit and a failure limit. When the number of successful <a href="../test/">tests</a> equals the success limit, the <a href="./">montage test</a> ends and the heroes achieve total success (see <a href="./">Montage Test</a> Outcomes below). The <a href="./">montage test</a> can also end when the number of failed <a href="../test/">tests</a> equals the failure limit, and the heroes suffer total failure.</p>
+<h2 id="limited-rounds">Limited Rounds<a class="headerlink" href="#limited-rounds" title="Permanent link">&para;</a></h2>
+<p>A <a href="./">montage test</a> should last only 2 <a href="./">montage test</a> rounds. If the heroes don't end the <a href="./">montage test</a> by achieving the success limit or failure limit, the <a href="./">montage test</a> ends when the second <a href="./">montage test</a> round is over. This time limit helps to keep a <a href="./">montage test</a> from becoming a slog, and prevents heroes from simply using their turns to assist the one hero with the best chance of success. This can inspire each hero to be a more active participant in the <a href="./">montage test</a>. That said, the Director can increase the number of rounds a <a href="./">montage test</a> lasts if they wish to create a particularly grueling challenge.</p>
+<h2 id="montage-test-difficulty">Montage Test Difficulty<a class="headerlink" href="#montage-test-difficulty" title="Permanent link">&para;</a></h2>
+<p>The Director determines the success limit and failure limit of a <a href="./">montage test</a>. They can share this information or keep it secret, depending on what feels the most fun and dramatic for the situation and the players.</p>
+<p>In general, the higher the success limit, the harder and more complicated it is for the heroes to overcome the <a href="./">montage test</a>, since a hero can't make the same <a href="../test/">test</a> twice. The <a href="./">Montage Test</a> Difficulty table gives a recommended success limit and failure limit for easy, moderate, and hard <a href="./">montage tests</a> for groups with five heroes.</p>
+<h4 id="montage-test-difficulty-table">Montage Test Difficulty Table<a class="headerlink" href="#montage-test-difficulty-table" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Difficulty</th>
+<th>Success Limit</th>
+<th>Failure Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Easy</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Hard</td>
+<td>7</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p>For larger or smaller groups, the Director can make the following adjustments to keep <a href="./">montage tests</a> achievable but challenging:</p>
+<ul>
+<li>For four or fewer heroes, decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if a group has only three heroes, an easy <a href="./">montage test</a> has a success limit and failure limit of 3.</li>
+<li>For six or more heroes, increase the success and failure limits by 1 for every hero more than five.</li>
+</ul>
+<h2 id="montage-test-outcomes">Montage Test Outcomes<a class="headerlink" href="#montage-test-outcomes" title="Permanent link">&para;</a></h2>
+<p>A <a href="./">montage test</a> can have three different outcomes:</p>
+<ul>
+<li>If the heroes hit the success limit before hitting the failure limit or before the time runs out for the <a href="../test/">test</a>, they achieve total success.</li>
+<li>If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success.</li>
+<li>If the heroes hit the failure limit or time runs out, and if they don't have at least two more successes than failures, they suffer total failure.</li>
+</ul>
+<h3 id="total-success">Total Success<a class="headerlink" href="#total-success" title="Permanent link">&para;</a></h3>
+<p>If the heroes earn a total success, they achieve what they set out to do without complication. For instance, if the heroes engaged in a <a href="./">montage test</a> to cross a desert and reach a city before a tyrant's army arrives there and levels the place, a total success sees them arrive at the city gates with plenty of time to warn people of the impending assault.</p>
+<p>The heroes earn 1 <a href="../../resource/victories/">Victory</a> when they achieve total success on an easy or moderate <a href="./">montage test</a>, and 2 <a href="../../resource/victories/">Victories</a> on a hard <a href="./">montage test</a>.</p>
+<h3 id="partial-success">Partial Success<a class="headerlink" href="#partial-success" title="Permanent link">&para;</a></h3>
+<p>If the heroes earn a partial success, they succeed at what they set out to do, but there is a complication or a cost involved. For instance, when crossing the desert to reach and warn the city of the tyrant's army, a mixed success sees the characters arrive at the city gates with the enemy forces just behind them. Alternatively, the Director might allow the heroes to arrive well before the army, but they don't cover their movements well enough. The tyrant realizes the city has been warned and decides to call in a favor to have a powerful dragon join the siege.</p>
+<p>The heroes earn 1 <a href="../../resource/victories/">Victory</a> when they achieve partial success on a hard or moderate <a href="./">montage test</a>.</p>
+<h3 id="total-failure">Total Failure<a class="headerlink" href="#total-failure" title="Permanent link">&para;</a></h3>
+<p>If the heroes suffer total failure, they don't achieve what they set out to do. Just as with standard <a href="../test/">tests</a>, failure on a <a href="../group-test/">group test</a> shouldn't bring a story to a halt. Total failure should make things more interesting and challenging! With a total failure in a <a href="./">montage test</a> to cross the desert and warn the city, the characters arrive at the city to find it already under siege by the tyrant.</p>
+<h2 id="sample-montage-test">Sample Montage Test<a class="headerlink" href="#sample-montage-test" title="Permanent link">&para;</a></h2>
+<p>Four heroes must cross the vast and inhospitable Infinite Desert to warn the city of Ahset that the tyrannical Empress Vardo is coming to conquer them. If the characters arrive in time, they can organize the defenses of the city, giving its people a greater chance of defeating the tyrant.</p>
+<p>The Director determines that crossing the desert is a <a href="./">montage test</a> of hard difficulty. With four heroes involved, the success limit is 6 and the failure limit is 2 as the <a href="./">montage test</a> begins.</p>
+<h3 id="montage-test-round-1">Montage Test Round 1<a class="headerlink" href="#montage-test-round-1" title="Permanent link">&para;</a></h3>
+<p>When the <a href="../test/">test</a> begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the <a href="../test/">test</a>, since the Infinite Desert is filled with these hazards.</p>
+<p>Urdoncara, a <a href="../../../class/fury/">fury</a>, starts things off by asking to make an <a href="../../character/intuition/">Intuition</a> <a href="../test/">test</a> using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy <a href="../test/">test</a>. Urdoncara makes the <a href="../test/">test</a> and gets a total of 12, earning 1 success for the <a href="./">montage test</a>.</p>
+<p>Jorn, a <a href="../../../class/tactician/">tactician</a>, wants to make a <a href="../../character/reason/">Reason</a> <a href="../test/">test</a> using the <a href="../../../skill/exploration/climb/">Climb</a> skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the <a href="../test/">test</a> and fails with a consequence, which the Director decides will cause him to take a <a href="../../dice/bane/">bane</a> on his next <a href="../../dice/power-roll/">power roll</a> due to the exertion. The <a href="./">montage test</a> has 1 success and 1 failure.</p>
+<p>Karrel, an <a href="../../../class/elementalist/">elementalist</a>, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium <a href="../../character/reason/">Reason</a> <a href="../test/">test</a>. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the <a href="./">montage test</a>.</p>
+<p>Val, a <a href="../../../class/conduit/">conduit</a>, offers to scout ahead for the group with an <a href="../../character/intuition/">Intuition</a> <a href="../test/">test</a>, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the <a href="./">montage test</a> an <a href="../../dice/edge/">edge</a> on their <a href="../test/">test</a>. At the end of the first <a href="./">montage test</a> round, the heroes have 3 successes and 1 failure.</p>
+<h3 id="interlude">Interlude<a class="headerlink" href="#interlude" title="Permanent link">&para;</a></h3>
+<p>Before the next <a href="./">montage test</a> round, the Director pauses the <a href="./">montage test</a> to run a battle with a kingfissure worm, who attacks the heroes as they cross over an ancient ruin partially buried in the sand. After the heroes defeat the kingfissure worm, the <a href="../test/">test</a> continues.</p>
+<h3 id="montage-test-round-2">Montage Test Round 2<a class="headerlink" href="#montage-test-round-2" title="Permanent link">&para;</a></h3>
+<p>Urdoncara wants to make a <a href="../../character/might/">Might</a> <a href="../test/">test</a> using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the <a href="../test/">test</a> thanks to the <a href="../../dice/edge/">edge</a> from Val's earlier success. The <a href="./">montage test</a> has 4 successes and 1 failure.</p>
+<p>Jorn, eager to prove himself after his last failure, asks to make a <a href="../../character/might/">Might</a> <a href="../test/">test</a> using the <a href="../../../skill/interpersonal/lead/">Lead</a> skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the <a href="../../../skill/interpersonal/lead/">Lead</a> skill applies to the task. They tell Jorn that Lift is more appropriate, since the <a href="../../../class/tactician/">tactician</a> is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the <a href="../test/">test</a> at medium difficulty. Making the <a href="../test/">test</a> with a <a href="../../dice/bane/">bane</a> because of his previous failure, the <a href="../../../class/tactician/">tactician</a> rolls a 15, which is a success with a consequence. The <a href="./">montage test</a> has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.</p>
+<p>Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a <a href="../../character/reason/">Reason</a> <a href="../test/">test</a> to assist and gets a 16, granting Val an <a href="../../dice/edge/">edge</a> on her upcoming <a href="../test/">test</a>.</p>
+<p>Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard <a href="../../character/reason/">Reason</a> <a href="../test/">test</a> with an <a href="../../dice/edge/">edge</a>, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the <a href="../../../class/conduit/">conduit</a> recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the <a href="./">montage test</a>, achieving total success, and earn 2 <a href="../../resource/victories/">Victories</a>.</p>
+<h3 id="other-options">Other Options<a class="headerlink" href="#other-options" title="Permanent link">&para;</a></h3>
+<p>The heroes could have attempted other <a href="../test/">tests</a> during their travels, such as an <a href="../../character/agility/">Agility</a> <a href="../test/">test</a> using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a <a href="../../character/reason/">Reason</a> <a href="../test/">test</a> using the Nature skill to find enough food and water to keep the group hydrated and fed, or a <a href="../../character/presence/">Presence</a> <a href="../test/">test</a> using the Music skill to inspire allies to travel faster with song.</p>
+
+<div class="sc-provenance">
+  <small>
+    Source: Draw Steel: Heroes &middot;
+    printing 1.01b
+  </small>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../group-test/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Group Tests">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Group Tests
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../reactive-test/" class="md-footer__link md-footer__link--next" aria-label="Next: Reactive Tests">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Reactive Tests
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.
+    </div>
+  
+  
+    <div class="md-copyright__build">
+      <small>
+        build:
+          steel-etl
+          <a href="https://github.com/SteelCompendium/steel-etl/commit/5035174">5035174</a> &middot; 
+          site
+          <a href="https://github.com/SteelCompendium/v2/commit/acca1a0">acca1a0</a> (2026-09-06)
+      </small>
+    </div>
+  
+  
+    <div class="md-copyright__bug">
+      <small>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener">Report a bug</a>
+      </small>
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.indexes", "navigation.prune", "search.suggest", "search.highlight", "navigation.instant", "navigation.path", "navigation.footer", "toc.follow"], "search": "../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+<script>
+(function () {
+  var c = document.getElementById("__config");
+  if (!c) return;
+  try {
+    var j = JSON.parse(c.textContent);
+    j.search = "../../../../javascripts/sc-search-worker.js";
+    c.textContent = JSON.stringify(j);
+  } catch (e) { /* leave Material's worker in place */ }
+})();
+</script>
+
+      <script src="../../../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../../javascripts/tablesort.js"></script>
+      
+        <script src="../../../../javascripts/sc-chrome.js"></script>
+      
+        <script src="../../../../javascripts/settings-core.js"></script>
+      
+        <script src="../../../../javascripts/settings-panel.js"></script>
+      
+        <script src="../../../../javascripts/ability-cards-core.js"></script>
+      
+        <script src="../../../../javascripts/ability-cards.js"></script>
+      
+        <script src="../../../../javascripts/steel-ability-cards.js"></script>
+      
+        <script src="../../../../javascripts/sc-dice-core.js"></script>
+      
+        <script src="../../../../javascripts/sc-dice.js"></script>
+      
+        <script src="../../../../javascripts/statblock-preview.js"></script>
+      
+        <script src="../../../../javascripts/sc-scale-core.js"></script>
+      
+        <script src="../../../../javascripts/sc-scale.js"></script>
+      
+        <script src="../../../../javascripts/steel-traits.js"></script>
+      
+        <script src="../../../../javascripts/sc-facet-core.js"></script>
+      
+        <script src="../../../../javascripts/steel-feature-browser-core.js"></script>
+      
+        <script src="../../../../javascripts/steel-feature-browser.js"></script>
+      
+        <script src="../../../../javascripts/steel-bestiary-browser.js"></script>
+      
+        <script src="../../../../javascripts/sc-encounter-core.js"></script>
+      
+        <script src="../../../../javascripts/sc-encounter.js"></script>
+      
+        <script src="../../../../javascripts/browse-enhancements.js"></script>
+      
+        <script src="../../../../javascripts/reading-progress.js"></script>
+      
+        <script src="../../../../javascripts/keyboard-nav.js"></script>
+      
+        <script src="../../../../javascripts/read-resume-core.js"></script>
+      
+        <script src="../../../../javascripts/read-resume.js"></script>
+      
+        <script src="../../../../javascripts/sc-pageact.js"></script>
+      
+        <script src="../../../../javascripts/scc-headerlinks.js"></script>
+      
+        <script src="../../../../javascripts/scc-card-copy-core.js"></script>
+      
+        <script src="../../../../javascripts/scc-card-copy.js"></script>
+      
+        <script src="../../../../javascripts/vendor/html-to-image.min.js"></script>
+      
+        <script src="../../../../javascripts/sc-export.js"></script>
+      
+        <script src="../../../../javascripts/sc-pins-core.js"></script>
+      
+        <script src="../../../../javascripts/sc-pins-sections.js"></script>
+      
+        <script src="../../../../javascripts/sc-pins.js"></script>
+      
+        <script src="../../../../javascripts/nav-drawer-keep-core.js"></script>
+      
+        <script src="../../../../javascripts/nav-drawer-keep.js"></script>
+      
+    
+
+  </body>
+</html>

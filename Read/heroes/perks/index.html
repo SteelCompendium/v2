@@ -1,0 +1,2848 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  
+    <link rel="canonical" href="https://steelcompendium.io/v2/Read/heroes/perks/">
+  
+  
+    <link rel="prev" href="../kits/">
+  
+  
+    <link rel="next" href="../complications/">
+  
+  
+    
+  
+  
+  <link rel="icon" href="../../../Media/favicon.ico">
+  <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+
+    
+      
+        <title>Perks - Steel Compendium: Draw Steel Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/palette.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/custom_font.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/tables.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/mobile.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/print.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-redesign.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-settings.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-cardhead.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-class.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-ability-cards.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-kit.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-statblock.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-featureblock.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-traits.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-project.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-indexes.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-bestiary.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-copylink.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-encounter.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-dice.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-export.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-scale.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-pins.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-pageact.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/steel-chrome.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-PMF9SHHXNY"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-PMF9SHHXNY",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-PMF9SHHXNY",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+<meta name="scc-base" content="https://steelcompendium.io/v2/scc/">
+<meta name="scc-permalink" content="https://steelcompendium.io/v2/scc/mcdm.heroes.v1/chapter/perks/">
+
+<script>
+    (function(){
+        try {
+            const s = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}");
+            const r = document.documentElement.style;
+            if (s.large) r.setProperty("--md-large-header-font", s.large);
+            if (s.small) r.setProperty("--md-small-header-font", s.small);
+            if (s.text)  r.setProperty("--md-text-font",  s.text);
+            if (s.code)  r.setProperty("--md-code-font",  s.code);
+            if (s.width) r.setProperty("--md-max_width",   s.width);
+            if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
+            if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
+            if (s.compact) document.documentElement.setAttribute("data-compact", "true");
+            if (s.noDropcap) document.documentElement.setAttribute("data-no-dropcap", "true");
+            if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
+            if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
+            // Statblock layout preferences (data-sb-*) must always be set — an absent
+            // attribute is NOT equivalent to the "Steel Card" default in steel-statblock.css.
+            var sb = s.statblock || {};
+            // Legacy migration (matched pair with settings-panel.js prefs load):
+            // pre-featstyle prefs with a non-crest kwusage keep their flat look.
+            if (!sb.featstyle && sb.kwusage && sb.kwusage !== "crest") sb.featstyle = "flat";
+            var sbD = {kwusage:"crest",featstyle:"card",disttarget:"grid",meta:"grid",charline:"two",charbox:"off",villain:"banded",wide:"off",stickymeta:"on"};
+            for (var sk in sbD) document.documentElement.setAttribute("data-sb-"+sk, sb[sk] || sbD[sk]);
+            // Featureblock layout preferences (data-fb-*) — same always-set rule
+            // as data-sb-*; an absent attribute is NOT the default.
+            var fb = s.featureblock || {};
+            var fbD = {featstyle:"card", stats:"grid"};
+            for (var fk in fbD) document.documentElement.setAttribute("data-fb-"+fk, fb[fk] || fbD[fk]);
+            // Statblock-preview zone visibility (data-sbprev-*) — global default
+            // seed read by statblock-preview.js; SINGLE SOURCE mirrors
+            // settings-core SBPREV_DEFAULTS + steel-etl sbPreviewDefaults.
+            var sp = s.statblockPreview || {};
+            var spD = {stats:"on", meta:"off", chars:"off", feats:"off"};
+            for (var spk in spD) {
+              var spv = (sp[spk] === "on" || sp[spk] === "off") ? sp[spk] : spD[spk];
+              document.documentElement.setAttribute("data-sbprev-"+spk, spv);
+            }
+        } catch(e) {}
+    })();
+</script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#perks" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-header__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Steel Compendium: Draw Steel Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Perks
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <a class="md-header__button md-icon" href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener" title="Report a bug">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 8h-2.81c-.45-.8-1.07-1.5-1.82-2L17 4.41 15.59 3l-2.17 2.17a6 6 0 0 0-2.83 0L8.41 3 7 4.41 8.62 6c-.75.5-1.36 1.21-1.81 2H4v2h2.09c-.06.33-.09.66-.09 1v1H4v2h2v1c0 .34.03.67.09 1H4v2h2.81A5.99 5.99 0 0 0 15 20.18c.91-.52 1.67-1.28 2.19-2.18H20v-2h-2.09c.06-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.03-.67-.09-1H20zm-4 7a4 4 0 0 1-4 4 4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4 4 4 0 0 1 4 4zm-2-5v2h-4v-2zm-4 4h4v2h-4z"/></svg>
+      </a>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Browse/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Browse
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Books
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Bestiary/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Bestiary
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../table-reference/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Table Reference
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../pins/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  My Table
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="https://steelcompendium.io/v2" title="Steel Compendium: Draw Steel Rules" class="md-nav__button md-logo" aria-label="Steel Compendium: Draw Steel Rules" data-md-component="logo">
+      
+  <img src="../../../Media/favicon.ico" alt="logo">
+
+    </a>
+    Steel Compendium: Draw Steel Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../Browse/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Browse
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Books
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Books
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Draw Steel: Heroes
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Draw Steel: Heroes
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the-basics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The basics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../making-a-hero/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Making a hero
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ancestries/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ancestries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../background/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Background
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Classes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perks
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perks">Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk-types">Perk Types</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-perks">Crafting Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#area-of-expertise">Area of Expertise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#expert-artisan">Expert Artisan</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#handy">Handy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improvisation-creation">Improvisation Creation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspired-artisan">Inspired Artisan</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#traveling-artisan">Traveling Artisan</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-perks">Exploration Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#brawny">Brawny</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#camouflage-hunter">Camouflage Hunter</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#danger-sense">Danger Sense</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#friend-catapult">Friend Catapult</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-got-you">I've Got You!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#monster-whisperer">Monster Whisperer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#put-your-back-into-it">Put Your Back Into It!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#team-leader">Team Leader</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teamwork">Teamwork</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wood-wise">Wood Wise</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-perks">Interpersonal Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#charming-liar">Charming Liar</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dazzler">Dazzler</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#engrossing-monologue">Engrossing Monologue</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harmonizer">Harmonizer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lie-detector">Lie Detector</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#open-book">Open Book</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pardon-my-friend">Pardon My Friend</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#power-player">Power Player</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#so-tell-me">So Tell Me...</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spot-the-tell">Spot the Tell</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-perks">Intrigue Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#criminal-contacts">Criminal Contacts</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forgettable-face">Forgettable Face</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gum-up-the-works">Gum Up the Works</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lucky-dog">Lucky Dog</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-disguise">Master of Disguise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slipped-lead">Slipped Lead</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-perks">Lore Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#but-i-know-who-does">But I Know Who Does</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#eidetic-memory">Eidetic Memory</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#expert-sage">Expert Sage</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-read-about-this-place">I've Read About This Place</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#linguist">Linguist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#polymath">Polymath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#specialist">Specialist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#traveling-sage">Traveling Sage</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#supernatural-perks">Supernatural Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-trick">Arcane Trick</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-trick_1">Arcane Trick</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creature-sense">Creature Sense</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#familiar">Familiar</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#familiar-statblock">Familiar Statblock</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-force">Invisible Force</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-force_1">Invisible Force</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#psychic-whisper">Psychic Whisper</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#psychic-whisper_1">Psychic Whisper</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ritualist">Ritualist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thingspeaker">Thingspeaker</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../complications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Complications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../combat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../negotiation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Negotiation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../downtime-projects/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Downtime projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rewards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rewards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gods-and-religion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gods and religion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../for-the-director/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    For the director
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../beastheart/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Beastheart
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../summoner/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Summoner
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Draw Steel: Monsters
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../Bestiary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bestiary
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../table-reference/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Table Reference
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../pins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My Table
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+    
+    <label class="md-nav__title" for="__toc">
+        <span class="md-nav__icon md-icon"></span>
+        Table of contents
+    </label>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perks">Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk-types">Perk Types</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-perks">Crafting Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#area-of-expertise">Area of Expertise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#expert-artisan">Expert Artisan</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#handy">Handy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improvisation-creation">Improvisation Creation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspired-artisan">Inspired Artisan</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#traveling-artisan">Traveling Artisan</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-perks">Exploration Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#brawny">Brawny</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#camouflage-hunter">Camouflage Hunter</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#danger-sense">Danger Sense</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#friend-catapult">Friend Catapult</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-got-you">I've Got You!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#monster-whisperer">Monster Whisperer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#put-your-back-into-it">Put Your Back Into It!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#team-leader">Team Leader</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teamwork">Teamwork</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wood-wise">Wood Wise</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-perks">Interpersonal Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#charming-liar">Charming Liar</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dazzler">Dazzler</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#engrossing-monologue">Engrossing Monologue</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harmonizer">Harmonizer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lie-detector">Lie Detector</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#open-book">Open Book</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pardon-my-friend">Pardon My Friend</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#power-player">Power Player</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#so-tell-me">So Tell Me...</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spot-the-tell">Spot the Tell</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-perks">Intrigue Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#criminal-contacts">Criminal Contacts</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forgettable-face">Forgettable Face</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gum-up-the-works">Gum Up the Works</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lucky-dog">Lucky Dog</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-disguise">Master of Disguise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slipped-lead">Slipped Lead</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-perks">Lore Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#but-i-know-who-does">But I Know Who Does</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#eidetic-memory">Eidetic Memory</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#expert-sage">Expert Sage</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-read-about-this-place">I've Read About This Place</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#linguist">Linguist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#polymath">Polymath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#specialist">Specialist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#traveling-sage">Traveling Sage</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#supernatural-perks">Supernatural Perks</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-trick">Arcane Trick</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-trick_1">Arcane Trick</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creature-sense">Creature Sense</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#familiar">Familiar</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#familiar-statblock">Familiar Statblock</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-force">Invisible Force</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-force_1">Invisible Force</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#psychic-whisper">Psychic Whisper</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#psychic-whisper_1">Psychic Whisper</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ritualist">Ritualist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thingspeaker">Thingspeaker</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+    
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Books
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Draw Steel: Heroes
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<!--Removing the auto-injected h1 element7-->
+<!---->
+<div class="sc-cheyebrow">Draw Steel: Heroes · Chapter 7</div>
+
+<h1 class="sc-chtitle" id="perks">Perks<a class="headerlink" href="#perks" title="Permanent link">&para;</a></h1>
+<hr />
+<p>Heroes don't just fight monsters. They engage in exploration, investigation, negotiation, and more. Perks are features you can use to customize your hero and give them heroic moments outside of combat. Along with skills and many class features, perks make your character more than just a monster fighter. But although these features are designed to be used outside of combat, many are versatile enough that they can also be used in battle.</p>
+<p>You are granted one perk from your career and can choose other perks from your class as your level increases.</p>
+<h3 id="perk-types">Perk Types<a class="headerlink" href="#perk-types" title="Permanent link">&para;</a></h3>
+<p>Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see Skills in Chapter 9: <a href="../tests/">Tests</a>), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to <a href="../../../Browse/rule/general/supernatural/">supernatural</a> power.</p>
+<p><strong>Crafting perks</strong> improve your talent for crafting materials, and let you become an expert in the things you create.</p>
+<p><strong>Exploration perks</strong> let you better traverse and explore different environments.</p>
+<p><strong>Interpersonal perks</strong> improve your interactions with other creatures.</p>
+<p><strong>Intrigue perks</strong> make you more effective at investigating mysteries and finding the truth, even as you keep your own secrets hidden.</p>
+<p><strong>Lore perks</strong> improve your mastery of memory, language, and knowledge across a range of topics.</p>
+<p><strong><a href="../../../Browse/rule/general/supernatural/">Supernatural</a> perks</strong> let you use magic and psionics to influence the world around you.</p>
+<p>Whenever a feature allows you to gain a perk, that feature tells you which type of perk to choose.</p>
+<h3 id="crafting-perks">Crafting Perks<a class="headerlink" href="#crafting-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents crafting perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/area-of-expertise" id="area-of-expertise">Area of Expertise<a class="headerlink" href="#area-of-expertise" title="Permanent link">&para;</a></h4>
+<p>Choose one skill you already have from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>. Whenever you obtain a tier 1 outcome on an easy or medium <a href="../../../Browse/rule/test/test/">test</a> using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/expert-artisan" id="expert-artisan">Expert Artisan<a class="headerlink" href="#expert-artisan" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> as part of a crafting or <a href="../../../Browse/rule/downtime/research-project/">research project</a> that uses a skill you already have from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>, you can make the <a href="../../../Browse/rule/dice/power-roll/">power roll</a> twice and use either roll.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/handy" id="handy">Handy<a class="headerlink" href="#handy" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> to craft something and don't have a skill that applies to the <a href="../../../Browse/rule/test/test/">test</a>, you gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/improvisation-creation" id="improvisation-creation">Improvisation Creation<a class="headerlink" href="#improvisation-creation" title="Permanent link">&para;</a></h4>
+<p>Without needing to make a <a href="../../../Browse/rule/test/test/">test</a>—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/inspired-artisan" id="inspired-artisan">Inspired Artisan<a class="headerlink" href="#inspired-artisan" title="Permanent link">&para;</a></h4>
+<p>When you make a <a href="../../../Browse/rule/downtime/project-roll/">project roll</a> using a skill from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>, you can spend a <a href="../../../Browse/rule/resource/hero-token/">hero token</a> to make another <a href="../../../Browse/rule/downtime/project-roll/">project roll</a> for the same project as part of the same <a href="../../../Browse/rule/resource/respite/">respite</a> activity. You can't use this perk more than once per <a href="../../../Browse/rule/resource/respite/">respite</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/traveling-artisan" id="traveling-artisan">Traveling Artisan<a class="headerlink" href="#traveling-artisan" title="Permanent link">&para;</a></h4>
+<p>On any day when you don't take a <a href="../../../Browse/rule/resource/respite/">respite</a>, you can spend 1 uninterrupted hour working on a <a href="../../../Browse/rule/downtime/crafting-project/">crafting project</a> using a skill you have from the <a href="../../../Browse/skill/crafting/">crafting skill group</a>. If you do so, you gain 1d10 <a href="../../../Browse/rule/downtime/project-points/">project points</a> toward that project.</p>
+<blockquote>
+<p><strong>Perks and <a href="../../../Browse/rule/test/test/">Tests</a></strong></p>
+<p>The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from <a href="../../../Browse/rule/general/supernatural/">supernatural</a> perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a <a href="../../../Browse/rule/test/test/">test</a>. Perks are special because they allow a hero to attempt a specific task without a <a href="../../../Browse/rule/test/test/">test</a>, and often give a better result than a successful <a href="../../../Browse/rule/test/test/">test</a>—or even a <a href="../../../Browse/rule/test/test/">test</a> with a reward would give.</p>
+<p>For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">test</a> to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> is what the perk gets you!</p>
+</blockquote>
+<h3 id="exploration-perks">Exploration Perks<a class="headerlink" href="#exploration-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents exploration perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/brawny" id="brawny">Brawny<a class="headerlink" href="#brawny" title="Permanent link">&para;</a></h4>
+<p>Whenever you fail a <a href="../../../Browse/rule/character/might/">Might</a> <a href="../../../Browse/rule/test/test/">test</a>, you can lose <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to 1d6 + your level to improve the outcome of the <a href="../../../Browse/rule/test/test/">test</a> by one tier. You can use this perk only once per <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/camouflage-hunter" id="camouflage-hunter">Camouflage Hunter<a class="headerlink" href="#camouflage-hunter" title="Permanent link">&para;</a></h4>
+<p>Whenever you are in wilderness, once you are hidden from a creature, you don't need <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a> to stay hidden from them.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/danger-sense" id="danger-sense">Danger Sense<a class="headerlink" href="#danger-sense" title="Permanent link">&para;</a></h4>
+<p>Whenever you are in a natural environment (but not in a settlement in that environment), you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made using the Alertness skill, and you can't be <a href="../../../Browse/rule/combat/surprised/">surprised</a>. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).</p>
+<h4 data-scc="mcdm.heroes.v1/perk/friend-catapult" id="friend-catapult">Friend Catapult<a class="headerlink" href="#friend-catapult" title="Permanent link">&para;</a></h4>
+<p>As a maneuver, you grab a willing <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> ally or object of your <a href="../../../Browse/rule/character/size/">size</a> or smaller, then vertical <a href="../../../Browse/movement/forced-movement/">push</a> that target up to a number of squares equal to twice your <a href="../../../Browse/rule/character/might/">Might</a> score. If a creature you <a href="../../../Browse/movement/forced-movement/">push</a> falls as a result of this movement, the effective <a href="../../../Browse/rule/combat/distance/">distance</a> of the fall is reduced by a number of squares equal to twice your <a href="../../../Browse/rule/character/might/">Might</a> score. When you use this perk, you can't use it again until you earn 1 or more <a href="../../../Browse/rule/resource/victories/">Victories</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/ive-got-you" id="ive-got-you">I've Got You!<a class="headerlink" href="#ive-got-you" title="Permanent link">&para;</a></h4>
+<p>Whenever a willing ally falls and would land on you or <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you, you can safely catch them as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a>. Neither of you takes damage from the ally's fall.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/monster-whisperer" id="monster-whisperer">Monster Whisperer<a class="headerlink" href="#monster-whisperer" title="Permanent link">&para;</a></h4>
+<p>You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/put-your-back-into-it" id="put-your-back-into-it">Put Your Back Into It!<a class="headerlink" href="#put-your-back-into-it" title="Permanent link">&para;</a></h4>
+<p>During <a href="../../../Browse/rule/test/montage-test/">montage tests</a>, whenever you make a <a href="../../../Browse/rule/test/test/">test</a> to assist a <a href="../../../Browse/rule/test/test/">test</a> and obtain a tier 1 outcome, the assisted <a href="../../../Browse/rule/test/test/">test</a> doesn't take a <a href="../../../Browse/rule/dice/bane/">bane</a>. Additionally, once per <a href="../../../Browse/rule/test/montage-test/">montage test</a>, you can <a href="../../../Browse/rule/combat/turn/">turn</a> an ally's tier 1 <a href="../../../Browse/rule/test/test/">test</a> outcome into a tier 2 outcome.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/team-leader" id="team-leader">Team Leader<a class="headerlink" href="#team-leader" title="Permanent link">&para;</a></h4>
+<p>At the start of a <a href="../../../Browse/rule/test/group-test/">group test</a> or <a href="../../../Browse/rule/test/montage-test/">montage test</a>, you can spend a <a href="../../../Browse/rule/resource/hero-token/">hero token</a>. If you do, all participants make <a href="../../../Browse/rule/test/test/">tests</a> as if they also had any skill you have from the <a href="../../../Browse/skill/exploration/">exploration group</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/teamwork" id="teamwork">Teamwork<a class="headerlink" href="#teamwork" title="Permanent link">&para;</a></h4>
+<p>When you take your first <a href="../../../Browse/rule/combat/turn/">turn</a> during any <a href="../../../Browse/rule/test/montage-test/">montage test</a>, you can both make a <a href="../../../Browse/rule/test/test/">test</a> and assist another hero's <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/wood-wise" id="wood-wise">Wood Wise<a class="headerlink" href="#wood-wise" title="Permanent link">&para;</a></h4>
+<p>When you make a <a href="../../../Browse/rule/test/test/">test</a> using a skill from the <a href="../../../Browse/skill/exploration/">exploration skill group</a> and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h3 id="interpersonal-perks">Interpersonal Perks<a class="headerlink" href="#interpersonal-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents interpersonal perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/charming-liar" id="charming-liar">Charming Liar<a class="headerlink" href="#charming-liar" title="Permanent link">&para;</a></h4>
+<p>If you fail a <a href="../../../Browse/rule/test/test/">test</a> using the Lie skill, you don't suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can't use this perk again until you earn 1 or more <a href="../../../Browse/rule/resource/victories/">Victories</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/dazzler" id="dazzler">Dazzler<a class="headerlink" href="#dazzler" title="Permanent link">&para;</a></h4>
+<p>Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on any <a href="../../../Browse/rule/test/test/">test</a> made to influence that creature for 1 hour after the performance ends.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/engrossing-monologue" id="engrossing-monologue">Engrossing Monologue<a class="headerlink" href="#engrossing-monologue" title="Permanent link">&para;</a></h4>
+<p>Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to avoid being noticed by those creatures.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/harmonizer" id="harmonizer">Harmonizer<a class="headerlink" href="#harmonizer" title="Permanent link">&para;</a></h4>
+<p>You can make a <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">test</a> using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an <a href="../../../Browse/rule/dice/edge/">edge</a> on their <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/lie-detector" id="lie-detector">Lie Detector<a class="headerlink" href="#lie-detector" title="Permanent link">&para;</a></h4>
+<p>In response to another creature communicating information to you, you can spend a <a href="../../../Browse/rule/resource/hero-token/">hero token</a> to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/open-book" id="open-book">Open Book<a class="headerlink" href="#open-book" title="Permanent link">&para;</a></h4>
+<p>Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/pardon-my-friend" id="pardon-my-friend">Pardon My Friend<a class="headerlink" href="#pardon-my-friend" title="Permanent link">&para;</a></h4>
+<p>When an ally within 5 squares fails a <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">test</a>, you can step in and make a <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">test</a> that takes a <a href="../../../Browse/rule/dice/bane/">bane</a>, with your roll replacing the ally's roll. This perk can be used only once per <a href="../../../Browse/rule/test/test/">test</a>, even if more than one character has it.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/power-player" id="power-player">Power Player<a class="headerlink" href="#power-player" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> that uses the <a href="../../../Browse/skill/interpersonal/brag/">Brag</a>, <a href="../../../Browse/skill/interpersonal/flirt/">Flirt</a>, or <a href="../../../Browse/skill/interpersonal/intimidate/">Intimidate</a> skills, you can use <a href="../../../Browse/rule/character/might/">Might</a> instead of any other <a href="../../../Browse/rule/character/characteristic/">characteristic</a> the <a href="../../../Browse/rule/test/test/">test</a> calls for.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/so-tell-me" id="so-tell-me">So Tell Me...<a class="headerlink" href="#so-tell-me" title="Permanent link">&para;</a></h4>
+<p>Whenever you succeed on a <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">test</a> to influence one or more creatures, you can ask one creature you influenced a follow-up question after the <a href="../../../Browse/rule/test/test/">test</a> resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/spot-the-tell" id="spot-the-tell">Spot the Tell<a class="headerlink" href="#spot-the-tell" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any <a href="../../../Browse/rule/test/test/">test</a> you make to read that person in the future gains an <a href="../../../Browse/rule/dice/edge/">edge</a>.</p>
+<h3 id="intrigue-perks">Intrigue Perks<a class="headerlink" href="#intrigue-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents intrigue perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/criminal-contacts" id="criminal-contacts">Criminal Contacts<a class="headerlink" href="#criminal-contacts" title="Permanent link">&para;</a></h4>
+<p>You have access to a network of <a href="../../../Browse/perk/criminal-contacts/">criminal contacts</a>. As a <a href="../../../Browse/rule/resource/respite/">respite</a> activity while you take a <a href="../../../Browse/rule/resource/respite/">respite</a> in a settlement, you can ask a question of your contacts by making a <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">test</a>. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an <a href="../../../Browse/rule/general/npc/">NPC</a> secretly bankrolling a local assassin's guild, and so forth.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/forgettable-face" id="forgettable-face">Forgettable Face<a class="headerlink" href="#forgettable-face" title="Permanent link">&para;</a></h4>
+<p>If you spend 10 minutes or less interacting with a creature who hasn't met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any <a href="../../../Browse/rule/test/test/">test</a> that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/gum-up-the-works" id="gum-up-the-works">Gum Up the Works<a class="headerlink" href="#gum-up-the-works" title="Permanent link">&para;</a></h4>
+<p>Whenever a mundane trap activates within 3 squares, you can use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to move up to 3 squares toward it. If this movement brings you <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the mechanism, the trap can't go off unless an attempt to disarm it fails.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/lucky-dog" id="lucky-dog">Lucky Dog<a class="headerlink" href="#lucky-dog" title="Permanent link">&para;</a></h4>
+<p>Whenever you fail a <a href="../../../Browse/rule/test/test/">test</a> using any skill from the <a href="../../../Browse/skill/intrigue/">intrigue skill group</a>, you can lose <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to 1d6 + your level to improve the outcome of the <a href="../../../Browse/rule/test/test/">test</a> by one tier. You can use this perk only once per <a href="../../../Browse/rule/test/test/">test</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/master-of-disguise" id="master-of-disguise">Master of Disguise<a class="headerlink" href="#master-of-disguise" title="Permanent link">&para;</a></h4>
+<p>You can don or remove a disguise as part of any <a href="../../../Browse/rule/test/test/">test</a> you make using the Hide skill, or while using the <a href="../../../Browse/feature/common/maneuvers/hide/">Hide</a> maneuver.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/slipped-lead" id="slipped-lead">Slipped Lead<a class="headerlink" href="#slipped-lead" title="Permanent link">&para;</a></h4>
+<p>You gain an <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a <a href="../../../Browse/rule/test/test/">test</a>. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).</p>
+<h3 id="lore-perks">Lore Perks<a class="headerlink" href="#lore-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents lore perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/but-i-know-who-does" id="but-i-know-who-does">But I Know Who Does<a class="headerlink" href="#but-i-know-who-does" title="Permanent link">&para;</a></h4>
+<p>Whenever you fail a <a href="../../../Browse/rule/test/test/">test</a> to recall lore using a skill from the <a href="../../../Browse/skill/lore/">lore skill group</a>, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/eidetic-memory" id="eidetic-memory">Eidetic Memory<a class="headerlink" href="#eidetic-memory" title="Permanent link">&para;</a></h4>
+<p>Your mind is an encyclopedia, though not always an easy one to organize. When you finish a <a href="../../../Browse/rule/resource/respite/">respite</a>, choose one skill from the <a href="../../../Browse/skill/lore/">lore skill group</a> that you don't have. You have that skill until you finish your next <a href="../../../Browse/rule/resource/respite/">respite</a>. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/expert-sage" id="expert-sage">Expert Sage<a class="headerlink" href="#expert-sage" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> as part of a crafting or <a href="../../../Browse/rule/downtime/research-project/">research project</a> using a skill from the <a href="../../../Browse/skill/lore/">lore skill group</a>, you can make the <a href="../../../Browse/rule/dice/power-roll/">power roll</a> twice and use either roll.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/ive-read-about-this-place" id="ive-read-about-this-place">I've Read About This Place<a class="headerlink" href="#ive-read-about-this-place" title="Permanent link">&para;</a></h4>
+<p>Each time you enter a settlement you've never been to before, you can ask the Director one of the following questions:</p>
+<ul>
+<li>Who is the most influential public figure in this settlement?</li>
+<li>Who in this settlement would be the friendliest to us right now?</li>
+<li>What does this settlement need most from outsiders?</li>
+</ul>
+<p>If the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/linguist" id="linguist">Linguist<a class="headerlink" href="#linguist" title="Permanent link">&para;</a></h4>
+<p>You automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don't know, you can pick up enough of that language to hold a conversation or understand basic written information. Having picked up a language this way, you can subsequently learn it using the Learn New Language <a href="../../../Browse/rule/downtime/research-project/">research project</a> at half the usual project goal cost (see Chapter 12: <a href="../downtime-projects/">Downtime Projects</a>).</p>
+<h4 data-scc="mcdm.heroes.v1/perk/polymath" id="polymath">Polymath<a class="headerlink" href="#polymath" title="Permanent link">&para;</a></h4>
+<p>Whenever you make a <a href="../../../Browse/rule/test/test/">test</a> to recall lore and don't have a skill that applies to the <a href="../../../Browse/rule/test/test/">test</a>, you gain a +1 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/specialist" id="specialist">Specialist<a class="headerlink" href="#specialist" title="Permanent link">&para;</a></h4>
+<p>You are a leading expert on a particular subject. Choose one skill you have from the <a href="../../../Browse/skill/lore/">lore skill group</a>. You always have a double <a href="../../../Browse/rule/dice/edge/">edge</a> on <a href="../../../Browse/rule/test/test/">tests</a> made to recall lore using this skill. Additionally, your <a href="../../../Browse/perk/specialist/">specialist</a> knowledge grants you notoriety in fields related to the chosen skill. You treat your <a href="../../../Browse/rule/resource/renown/">Renown</a> as 1 higher when negotiating with an <a href="../../../Browse/rule/general/npc/">NPC</a> who knows your reputation, or 2 higher if they have the same skill you chose for this perk.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/traveling-sage" id="traveling-sage">Traveling Sage<a class="headerlink" href="#traveling-sage" title="Permanent link">&para;</a></h4>
+<p>On any day when you don't take a <a href="../../../Browse/rule/resource/respite/">respite</a>, you can spend 1 uninterrupted hour working on a <a href="../../../Browse/rule/downtime/research-project/">research project</a> using a skill you have from the <a href="../../../Browse/skill/lore/">lore skill group</a>. If you do so, you gain 1d10 <a href="../../../Browse/rule/downtime/project-points/">project points</a> toward that project.</p>
+<h3 id="supernatural-perks">Supernatural Perks<a class="headerlink" href="#supernatural-perks" title="Permanent link">&para;</a></h3>
+<p>This section presents <a href="../../../Browse/rule/general/supernatural/">supernatural</a> perks in alphabetical order.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/arcane-trick" id="arcane-trick">Arcane Trick<a class="headerlink" href="#arcane-trick" title="Permanent link">&para;</a></h4>
+<p>You have the following ability.</p>
+<blockquote>
+<h6 id="arcane-trick_1">Arcane Trick<a class="headerlink" href="#arcane-trick_1" title="Permanent link">&para;</a></h6>
+<p><em>You cast an entertaining spell that creates a minor but impressive magical effect.</em></p>
+<table>
+<thead>
+<tr>
+<th><strong>Magic</strong></th>
+<th style="text-align: right;"><strong><a href="../../../Browse/rule/combat/turn/">Main action</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>📏 Self; see below</strong></td>
+<td style="text-align: right;"><strong>🎯 Self</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Effect:</strong> Choose one of the following effects:</p>
+<ul>
+<li>You <a href="../../../Browse/movement/teleport/">teleport</a> a <a href="../../../Browse/rule/character/size/">size</a> 1S or smaller object <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you into an unoccupied space <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you.</li>
+<li>Until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, a part of your body shoots a shower of harmless noisy sparks that light up each square <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you.</li>
+<li>You ignite or snuff out (your choice) every mundane light source of 1L or smaller <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you.</li>
+<li>You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.</li>
+<li>Until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any <a href="../../../Browse/rule/combat/condition/">condition</a> or other drawback on those creatures.</li>
+<li>You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using <a href="../../../Browse/perk/arcane-trick/">Arcane Trick</a>.</li>
+<li>You touch a <a href="../../../Browse/rule/character/size/">size</a> 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.</li>
+</ul>
+</blockquote>
+<h4 data-scc="mcdm.heroes.v1/perk/creature-sense" id="creature-sense">Creature Sense<a class="headerlink" href="#creature-sense" title="Permanent link">&para;</a></h4>
+<p>As a maneuver, choose a creature within 10 squares. If that creature is your level or lower, you learn the keywords in their stat block (Demon, Humanoid, Undead, and so forth).</p>
+<h4 data-scc="mcdm.heroes.v1/perk/familiar" id="familiar">Familiar<a class="headerlink" href="#familiar" title="Permanent link">&para;</a></h4>
+<p>A <a href="../../../Browse/rule/general/supernatural/">supernatural</a> spirit who has taken the form of a specific small animal or animated object has chosen to be your <a href="../../../Browse/perk/familiar/">familiar</a>—or to adopt you as their <a href="../../../Browse/perk/familiar/">familiar</a>.</p>
+<p>The spirit uses the <a href="../../../Browse/perk/familiar/">familiar</a> stat block.</p>
+<p>The <a href="../../../Browse/perk/familiar/">familiar</a> can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.</p>
+<p>If your <a href="../../../Browse/perk/familiar/">familiar</a> is destroyed, you can restore them as a <a href="../../../Browse/rule/resource/respite/">respite</a> activity, or by spending a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> as a main action to bring them back into existence in an unoccupied space <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you.</p>
+<h6 id="familiar-statblock">Familiar Statblock<a class="headerlink" href="#familiar-statblock" title="Permanent link">&para;</a></h6>
+<p><strong><a href="../../../Browse/perk/familiar/">Familiar</a></strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><a href="../../../Browse/perk/familiar/">Familiar</a></th>
+<th style="text-align: center;">-</th>
+<th style="text-align: center;">Level -</th>
+<th style="text-align: center;">-</th>
+<th style="text-align: center;">EV -</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>1T</strong><br><a href="../../../Browse/rule/character/size/">Size</a></td>
+<td style="text-align: center;"><strong>5</strong><br><a href="../../../Browse/rule/character/speed/">Speed</a></td>
+<td style="text-align: center;"><strong>2x your level</strong><br><a href="../../../Browse/rule/health/stamina/">Stamina</a></td>
+<td style="text-align: center;"><strong>0</strong><br><a href="../../../Browse/rule/character/stability/">Stability</a></td>
+<td style="text-align: center;"><strong>-</strong><br><a href="../../../Browse/feature/common/main-actions/free-strike/">Free Strike</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>-</strong><br>Immunities</td>
+<td style="text-align: center;"><strong>-</strong><br>Movement</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><strong>-</strong><br>With Captain</td>
+<td style="text-align: center;"><strong>-</strong><br>Weaknesses</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>-3</strong><br><a href="../../../Browse/rule/character/might/">Might</a></td>
+<td style="text-align: center;"><strong>+2</strong><br><a href="../../../Browse/rule/character/agility/">Agility</a></td>
+<td style="text-align: center;"><strong>0</strong><br><a href="../../../Browse/rule/character/reason/">Reason</a></td>
+<td style="text-align: center;"><strong>0</strong><br><a href="../../../Browse/rule/character/intuition/">Intuition</a></td>
+<td style="text-align: center;"><strong>+1</strong><br><a href="../../../Browse/rule/character/presence/">Presence</a></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Telepathic</strong></p>
+<p>While you and your <a href="../../../Browse/perk/familiar/">familiar</a> are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.</p>
+</blockquote>
+<h4 data-scc="mcdm.heroes.v1/perk/invisible-force" id="invisible-force">Invisible Force<a class="headerlink" href="#invisible-force" title="Permanent link">&para;</a></h4>
+<p>You have the following ability.</p>
+<blockquote>
+<h6 id="invisible-force_1">Invisible Force<a class="headerlink" href="#invisible-force_1" title="Permanent link">&para;</a></h6>
+<p><em>You manipulate a tiny object with your mind.</em></p>
+<table>
+<thead>
+<tr>
+<th><strong>Psionic, <a href="../../../Browse/rule/combat/ranged/">Ranged</a></strong></th>
+<th style="text-align: right;"><strong><a href="../../../Browse/rule/combat/turn/">Maneuver</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>📏 <a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</strong></td>
+<td style="text-align: right;"><strong>🎯 One <a href="../../../Browse/rule/character/size/">size</a> 1T object</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Effect:</strong> You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your <a href="../../../Browse/rule/character/reason/">Reason</a>, <a href="../../../Browse/rule/character/intuition/">Intuition</a>, or <a href="../../../Browse/rule/character/presence/">Presence</a> score (your choice). You can use this ability to <a href="../../../Browse/rule/combat/turn/">turn</a> doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and <a href="../../../Browse/rule/character/size/">size</a> 1T. You can't use this ability to break a smaller piece off a larger object.</p>
+</blockquote>
+<h4 data-scc="mcdm.heroes.v1/perk/psychic-whisper" id="psychic-whisper">Psychic Whisper<a class="headerlink" href="#psychic-whisper" title="Permanent link">&para;</a></h4>
+<p>You have the following ability.</p>
+<blockquote>
+<h6 id="psychic-whisper_1">Psychic Whisper<a class="headerlink" href="#psychic-whisper_1" title="Permanent link">&para;</a></h6>
+<p><em>You send a one-way telepathic message to a friend.</em></p>
+<table>
+<thead>
+<tr>
+<th><strong>Psionic, <a href="../../../Browse/rule/combat/ranged/">Ranged</a></strong></th>
+<th style="text-align: right;"><strong><a href="../../../Browse/rule/combat/turn/">Maneuver</a></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>📏 <a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</strong></td>
+<td style="text-align: right;"><strong>🎯 One ally</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Effect:</strong> As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.</p>
+</blockquote>
+<h4 data-scc="mcdm.heroes.v1/perk/ritualist" id="ritualist">Ritualist<a class="headerlink" href="#ritualist" title="Permanent link">&para;</a></h4>
+<p>You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double <a href="../../../Browse/rule/dice/edge/">edge</a> on the next <a href="../../../Browse/rule/test/test/">test</a> they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.</p>
+<h4 data-scc="mcdm.heroes.v1/perk/thingspeaker" id="thingspeaker">Thingspeaker<a class="headerlink" href="#thingspeaker" title="Permanent link">&para;</a></h4>
+<p>When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:</p>
+<ul>
+<li>What was the name of the person whose emotion is imprinted on this object?</li>
+<li>Why does this emotion linger on the object?</li>
+<li>How long has it been since the object was held by the person whose emotion lingers on it?</li>
+</ul>
+<p>After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/character/intuition/">Intuition</a> and <a href="../../../Browse/rule/character/presence/">Presence</a> <a href="../../../Browse/rule/test/test/">tests</a> until you finish a <a href="../../../Browse/rule/resource/respite/">respite</a>, and you can't use this perk again while you suffer this <a href="../../../Browse/rule/dice/bane/">bane</a>.</p>
+
+<div class="sc-provenance">
+  <small>
+    Source: Draw Steel: Heroes &middot;
+    printing 1.01b
+  </small>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../kits/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Kits">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Kits
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../complications/" class="md-footer__link md-footer__link--next" aria-label="Next: Complications">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Complications
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2026 MCDM Productions, LLC.
+    </div>
+  
+  
+    <div class="md-copyright__build">
+      <small>
+        build:
+          steel-etl
+          <a href="https://github.com/SteelCompendium/steel-etl/commit/5035174">5035174</a> &middot; 
+          site
+          <a href="https://github.com/SteelCompendium/v2/commit/acca1a0">acca1a0</a> (2026-09-06)
+      </small>
+    </div>
+  
+  
+    <div class="md-copyright__bug">
+      <small>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878" target="_blank" rel="noopener">Report a bug</a>
+      </small>
+    </div>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.indexes", "navigation.prune", "search.suggest", "search.highlight", "navigation.instant", "navigation.path", "navigation.footer", "toc.follow"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+<script>
+(function () {
+  var c = document.getElementById("__config");
+  if (!c) return;
+  try {
+    var j = JSON.parse(c.textContent);
+    j.search = "../../../javascripts/sc-search-worker.js";
+    c.textContent = JSON.stringify(j);
+  } catch (e) { /* leave Material's worker in place */ }
+})();
+</script>
+
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+        <script src="../../../javascripts/sc-chrome.js"></script>
+      
+        <script src="../../../javascripts/settings-core.js"></script>
+      
+        <script src="../../../javascripts/settings-panel.js"></script>
+      
+        <script src="../../../javascripts/ability-cards-core.js"></script>
+      
+        <script src="../../../javascripts/ability-cards.js"></script>
+      
+        <script src="../../../javascripts/steel-ability-cards.js"></script>
+      
+        <script src="../../../javascripts/sc-dice-core.js"></script>
+      
+        <script src="../../../javascripts/sc-dice.js"></script>
+      
+        <script src="../../../javascripts/statblock-preview.js"></script>
+      
+        <script src="../../../javascripts/sc-scale-core.js"></script>
+      
+        <script src="../../../javascripts/sc-scale.js"></script>
+      
+        <script src="../../../javascripts/steel-traits.js"></script>
+      
+        <script src="../../../javascripts/sc-facet-core.js"></script>
+      
+        <script src="../../../javascripts/steel-feature-browser-core.js"></script>
+      
+        <script src="../../../javascripts/steel-feature-browser.js"></script>
+      
+        <script src="../../../javascripts/steel-bestiary-browser.js"></script>
+      
+        <script src="../../../javascripts/sc-encounter-core.js"></script>
+      
+        <script src="../../../javascripts/sc-encounter.js"></script>
+      
+        <script src="../../../javascripts/browse-enhancements.js"></script>
+      
+        <script src="../../../javascripts/reading-progress.js"></script>
+      
+        <script src="../../../javascripts/keyboard-nav.js"></script>
+      
+        <script src="../../../javascripts/read-resume-core.js"></script>
+      
+        <script src="../../../javascripts/read-resume.js"></script>
+      
+        <script src="../../../javascripts/sc-pageact.js"></script>
+      
+        <script src="../../../javascripts/scc-headerlinks.js"></script>
+      
+        <script src="../../../javascripts/scc-card-copy-core.js"></script>
+      
+        <script src="../../../javascripts/scc-card-copy.js"></script>
+      
+        <script src="../../../javascripts/vendor/html-to-image.min.js"></script>
+      
+        <script src="../../../javascripts/sc-export.js"></script>
+      
+        <script src="../../../javascripts/sc-pins-core.js"></script>
+      
+        <script src="../../../javascripts/sc-pins-sections.js"></script>
+      
+        <script src="../../../javascripts/sc-pins.js"></script>
+      
+        <script src="../../../javascripts/nav-drawer-keep-core.js"></script>
+      
+        <script src="../../../javascripts/nav-drawer-keep.js"></script>
+      
+    
+
+  </body>
+</html>

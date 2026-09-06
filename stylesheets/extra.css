@@ -1,0 +1,526 @@
+/* The tables used to display abilities should not have headers to avoid sorttable tables */
+th:empty {
+    display: none;
+}
+
+.md-grid {
+    max-width: var(--md-max_width);
+}
+
+/* Reading-content size multiplier, driven live by the settings panel
+   (settings-panel.js sets --sc-content-scale on <html>). The base rule below
+   restates Material's .8rem default so scale=1 is a no-op; mobile.css (loaded
+   AFTER this file) and the compact rule (higher specificity) re-apply the same
+   multiplier for their own base sizes. */
+:root {
+    --sc-content-scale: 1;
+    --sc-card-scale: 1;
+}
+
+.md-typeset {
+    font-size: calc(0.8rem * var(--sc-content-scale));
+}
+
+/* Pin the root font size — disable Material's responsive type scaling.
+   Material keeps html{font-size:125%} as the base, then steps it UP at wide
+   breakpoints (137.5% at >=100em, 150% at >=125em). Every rem-based size —
+   headings, spacing, and rem-threshold layouts like the multi-column statblock
+   (`columns: 28rem`) — resolves against that root size, so crossing a breakpoint
+   makes content enlarge and the statblock column count flip (1->2->1) mid-resize.
+   Re-declare both breakpoints at the 125% base so sizing is stable at any window
+   width. These load after Material's main.css (extra_css order) and match its
+   selector exactly, so they win on the cascade. The Text size slider
+   (--sc-content-scale) stays the intentional, persistent way to scale reading. */
+@media screen and (min-width: 100em) { html { font-size: 125%; } }
+@media screen and (min-width: 125em) { html { font-size: 125%; } }
+
+/* Card size multiplier, driven live by the settings panel (settings-panel.js
+   sets --sc-card-scale on <html>). The generated ability/trait cards size
+   everything in rem/px, so they don't follow --sc-content-scale; `zoom` scales
+   the whole card — text, padding, badges, power-roll panel — proportionally and
+   reflows correctly. Applied to top-level cards only; nested cards (abilities or
+   sub-traits inside a trait) are reset to zoom:1 so they inherit the parent
+   card's zoom instead of compounding it.
+
+   Index/landing pages don't use .sc-ability/.sc-trait — they render card GRIDS:
+   .sc-cards (Browse landing, steel-redesign.css), .sc-folders (folder nav) and
+   .sc-prevs (preview + JS browse results, steel-indexes.css). Zoom the grid
+   container (not each cell) so tracks, gaps, and card contents all scale together
+   and the auto-fill reflow stays coherent.
+
+   Statblocks: zoom the whole .sb-wrap (header, defenses, characteristics, 2×2
+   meta, AND the features) as one unit — the features inside are .sc-ability
+   elements, so they're reset to zoom:1 (like .sc-trait's nested abilities) to
+   inherit the card's zoom instead of each scaling independently. */
+.md-typeset .sc-ability,
+.md-typeset .sc-trait,
+.md-typeset .sb-wrap,
+.md-typeset .sc-cards,
+.md-typeset .sc-folders,
+.md-typeset .sc-prevs {
+    zoom: var(--sc-card-scale);
+}
+.md-typeset .sc-trait .sc-ability,
+.md-typeset .sc-trait .sc-trait,
+.md-typeset .sb-wrap .sc-ability {
+    zoom: 1;
+}
+
+.md-typeset h1 + hr {
+    margin-bottom: 2em;
+}
+
+/* Preferences page */
+.prefs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18em, 1fr));
+    gap: 1.5em;
+    margin: 1em 0;
+}
+
+.pref-card {
+    padding: 1.2em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.4em;
+    background: var(--md-default-bg-color);
+}
+
+.pref-card label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.4em;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--md-default-fg-color--light);
+}
+
+.pref-card select,
+.pref-card input[type="text"] {
+    width: 100%;
+    padding: 0.5em 0.6em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.3em;
+    background: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    font-size: 0.9em;
+    font-family: inherit;
+}
+
+.pref-card select:focus,
+.pref-card input[type="text"]:focus {
+    outline: 2px solid var(--md-accent-fg-color);
+    outline-offset: -1px;
+}
+
+.pref-card .pref-hint {
+    display: block;
+    margin-top: 0.3em;
+    font-size: 0.8em;
+    color: var(--md-default-fg-color--lighter);
+}
+
+.pref-card .pref-actions {
+    display: flex;
+    gap: 0.5em;
+    margin-top: 0.6em;
+}
+
+.pref-card button {
+    padding: 0.4em 1em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.3em;
+    background: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+    cursor: pointer;
+    font-size: 0.85em;
+}
+
+.pref-card button:hover {
+    background: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
+
+/* Unified link affordance: every navigation link underlines on hover — the one
+   interactive signal, teal everywhere (DESIGN.md "one accent carries every
+   link"). Material's default only shifts color on hover, so this adds the
+   underline for plain content links; cards, statblocks, and featureblocks
+   declare matching :hover rules in their own stylesheets. Kept at low
+   specificity so component links with their own hover (browse-index grid,
+   browse-expand summaries) keep theirs; the ¶ headerlink permalinks opt out. */
+.md-typeset a:hover { text-decoration: underline; }
+.md-typeset a.headerlink:hover { text-decoration: none; }
+
+/* Browse index: multi-column link grid */
+.md-typeset .browse-index ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14em, 1fr));
+    gap: 0.4em 1.5em;
+}
+
+.md-typeset .browse-index li {
+    margin: 0;
+    padding: 0.4em 0.6em;
+    border-radius: 0.3em;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.md-typeset .browse-index li:last-child {
+    margin-bottom: 0;
+}
+
+.md-typeset .browse-index li:hover {
+    background: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .browse-index li a {
+    display: block;
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.md-typeset .browse-index li a:hover {
+    color: var(--md-accent-fg-color);
+}
+
+.grid.cards {
+    h3 {
+        margin: 0;
+    }
+
+    hr {
+        margin-top: 0;
+    }
+}
+
+/* Browse card hover enhancement */
+.grid.cards > ul > li {
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.grid.cards > ul > li:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+}
+
+[data-md-color-scheme="slate"] .grid.cards > ul > li:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Browse card consistent height */
+.grid.cards > ul {
+    align-items: stretch;
+}
+
+.grid.cards > ul > li {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid.cards > ul > li p:last-child {
+    margin-top: auto;
+}
+
+/* Category item count badge */
+.browse-card-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.6em;
+    height: 1.6em;
+    padding: 0 0.4em;
+    margin-left: 0.5em;
+    font-size: 0.55em;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--md-accent-fg-color);
+    background: var(--md-accent-fg-color--transparent);
+    border-radius: 1em;
+    vertical-align: middle;
+    font-family: var(--md-code-font, monospace);
+}
+
+/* SCC-backed heading permalinks: distinct accent vs. the muted default ¶.
+   Material renders the ¶ as a.headerlink (hover-revealed). scc-headerlinks.js
+   adds .headerlink--scc to anchors that copy a stable /scc/<code>/ link, and a
+   transient .headerlink--copied on a successful copy. */
+.md-typeset .headerlink--scc {
+    color: var(--md-accent-fg-color);
+}
+
+.md-typeset .headerlink--scc:hover {
+    color: var(--md-accent-fg-color);
+    opacity: 1;
+}
+
+/* Brief "Copied!" confirmation rendered next to the icon. */
+.md-typeset .headerlink.headerlink--copied::after {
+    content: " Copied!";
+    font-size: 0.7em;
+    font-weight: 600;
+    color: var(--md-accent-fg-color);
+    vertical-align: middle;
+}
+
+/* Browse expandable index sections */
+.browse-expand {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 0.4em;
+    margin-bottom: 0.5em;
+    padding: 0;
+}
+
+.browse-expand summary {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.3rem 0.8em 0.3rem 0.6rem !important;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 1.2em;
+    list-style: none;
+}
+
+.browse-expand summary::before {
+    content: "\2694";
+    display: inline-block;
+    transition: transform 0.15s;
+    position: static;
+    width: 1em;
+    height: 100%;
+    font-size: 1.2em;
+    background-color: transparent;
+    -webkit-mask-image: none;
+    mask-image: none;
+}
+
+.browse-expand[open] > summary::before {
+    transform: none;
+}
+
+.browse-expand summary::-webkit-details-marker {
+    display: none;
+}
+
+.browse-expand summary a {
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+}
+
+.browse-expand summary a:hover {
+    color: var(--md-accent-fg-color);
+}
+
+.browse-expand details {
+	margin: 1em 0;
+}
+
+.browse-expand[open] {
+    border-color: var(--md-accent-fg-color--transparent);
+}
+
+.browse-expand > .browse-index {
+    padding: 0.6em 0.8em 0.5em;
+    margin: .6rem 0em;
+}
+
+.browse-expand .browse-index ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14em, 1fr));
+    gap: 0.4em 1.5em;
+}
+
+[data-md-color-scheme="slate"] .browse-expand {
+    border-color: rgba(220, 226, 230, 0.12);
+}
+
+[data-md-color-scheme="slate"] .browse-expand[open] {
+    border-color: var(--md-accent-fg-color--transparent);
+}
+
+/* ============================
+   Ability Blockquote Cards
+   ============================ */
+
+/* Add spacing between consecutive ability blockquotes (separated by <!-- --> ) */
+.md-typeset blockquote + blockquote,
+.md-typeset blockquote + p + blockquote {
+    margin-top: 1em;
+    padding-left: .6rem;
+    padding-right: .6rem;
+}
+
+/* Ability-type colored left borders (colors from palette.css) */
+.md-typeset blockquote[data-ability-type="strike"]    { border-left: 3px solid var(--sc-ability-strike)    !important; }
+.md-typeset blockquote[data-ability-type="ranged"]     { border-left: 3px solid var(--sc-ability-ranged)     !important; }
+.md-typeset blockquote[data-ability-type="maneuver"]   { border-left: 3px solid var(--sc-ability-maneuver)   !important; }
+.md-typeset blockquote[data-ability-type="triggered"]  { border-left: 3px solid var(--sc-ability-triggered)  !important; }
+.md-typeset blockquote[data-ability-type="area"]       { border-left: 3px solid var(--sc-ability-area)       !important; }
+.md-typeset blockquote[data-ability-type="passive"]    { border-left: 3px solid var(--sc-ability-passive)    !important; }
+.md-typeset blockquote[data-ability-type="villain"]    { border-left: 3px solid var(--sc-ability-villain)    !important; }
+.md-typeset blockquote[data-ability-type="special"]    { border-left: 3px solid var(--sc-ability-special)    !important; }
+
+/* Subtle hover lift for ability blockquotes */
+.md-typeset blockquote[data-ability-type] {
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.md-typeset blockquote[data-ability-type]:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-1px);
+}
+
+/* ============================
+   Dark Mode Refinements
+   ============================ */
+
+/* Browse index cards: visible borders in dark mode */
+[data-md-color-scheme="slate"] .browse-index li {
+    border-color: rgba(220, 226, 230, 0.12);
+}
+
+[data-md-color-scheme="slate"] .browse-index li:hover {
+    border-color: var(--md-accent-fg-color);
+}
+
+/* Preference dropdowns: match dark mode */
+[data-md-color-scheme="slate"] .pref-card select,
+[data-md-color-scheme="slate"] .pref-card input[type="text"] {
+    color-scheme: dark;
+}
+
+[data-md-color-scheme="slate"] .pref-card select option {
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+}
+
+/* ============================
+   Compact Mode
+   ============================ */
+
+/* Activated by data-compact="true" on <html> via preferences.js.
+   Scoped to .md-content (page content) on purpose: Material reuses the
+   `.md-typeset` class on the search-result dropdown
+   (`.md-search-result__article.md-typeset`, whose title is a bare <h1>) and on
+   preview tooltips. Without the .md-content scope these em-based heading rules
+   tie Material's own `.md-search-result .md-typeset h1` on specificity, win on
+   source order, and blow up search titles ~3x. Keep every Compact Mode rule
+   under .md-content — see tests/compact-mode-scope.test.js. */
+[data-compact="true"] .md-content .md-typeset {
+    font-size: calc(0.85rem * var(--sc-content-scale));
+    line-height: 1.5;
+}
+
+[data-compact="true"] .md-content .md-typeset h1 {
+    font-size: 3em;
+    margin: 0 0 0.15em;
+}
+
+[data-compact="true"] .md-content .md-typeset h2 {
+    font-size: 2em;
+}
+
+[data-compact="true"] .md-content .md-typeset h3 {
+    font-size: 1.75em;
+}
+
+[data-compact="true"] .md-content .md-typeset h4 {
+    font-size: 1.5em;
+}
+
+[data-compact="true"] .md-content .md-typeset h5 {
+    font-size: 1.25em;
+}
+
+[data-compact="true"] .md-content .md-typeset h6 {
+    font-size: 1.1em;
+}
+
+[data-compact="true"] .md-content .md-typeset blockquote {
+    padding: 0.4em 0.6em;
+    margin: 0.3em 0;
+}
+
+[data-compact="true"] .md-content .md-typeset p {
+    margin: 0.3em 0;
+}
+
+[data-compact="true"] .md-content .md-typeset li {
+    margin-bottom: 0.1em;
+}
+
+[data-compact="true"] .md-content .md-typeset table td,
+[data-compact="true"] .md-content .md-typeset table th {
+    padding: 0.25em 0.5em;
+}
+
+[data-compact="true"] .md-content .power-roll-tiers {
+    gap: 0.1em;
+    margin: 0.15em 0 0.3em;
+}
+
+[data-compact="true"] .md-content .power-roll-badge {
+    font-size: 1.2em;
+}
+
+/* Delay preview tooltip appearance (no official config available) */
+.md-tooltip2--active[role="dialog"] {
+    transition: transform .4s cubic-bezier(0,1,.5,1) .75s, opacity .25s .75s, z-index 0ms;
+}
+[role="dialog"] > .md-tooltip2__inner {
+    pointer-events: none;
+}
+[role="dialog"].md-tooltip2--active > .md-tooltip2__inner {
+    animation: preview-enable-interaction 0ms .75s forwards;
+}
+@keyframes preview-enable-interaction {
+    to { pointer-events: auto; }
+}
+
+/* Browse index lists shouldnt be underlined */
+.md-typeset [data-preview], .md-typeset abbr {
+    border-bottom: none;
+}
+
+/* ──────────────────────────────────────────────────────────────
+   Performance: defer layout/paint of off-screen heavy blocks.
+
+   Full-chapter "Read" pages render an entire chapter as one
+   document. The Classes chapter is by far the largest in the book:
+   docs/Read/chapter/classes.md is ~700 KB of markdown (3x the next
+   chapter) and renders to ~2.3 MB of HTML -- ~35,000 DOM nodes
+   including 555 tables. The browser has to lay out and paint that
+   entire DOM up front, which is the dominant cost of the slow load.
+
+   content-visibility:auto lets the browser skip layout/paint of
+   off-screen tables and ability cards until they are scrolled near.
+   contain-intrinsic-size reserves an estimated height so the
+   scrollbar stays roughly stable; `auto` remembers each block's
+   real size once it has been rendered. Scoped to screen -- print
+   needs the whole document laid out for pagination (see print.css). */
+@media screen {
+  .md-content article table,
+  .md-content article blockquote {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 200px;
+  }
+}
+
+/* Per-page source-printing provenance stamp (printing/printing_book
+   frontmatter injected by steel-etl site; rendered in overrides/partials/content.html) */
+.sc-provenance {
+    margin-top: 2.4rem;
+    text-align: right;
+    opacity: 0.55;
+    font-size: 0.64rem;
+}

@@ -1,0 +1,237 @@
+/* ============================================================
+   steel-featureblock.css — Draw Steel FEATUREBLOCKS (malice blocks,
+   named feature blocks, dynamic terrain), High-Fantasy Steel "Forged Band".
+   Loads AFTER steel-statblock.css. Each feature is `article.sc-ability.fb__feat`,
+   so it reuses steel-ability-cards.css internals (.sc-ability__kw / __rail /
+   __pr / __tier / __section / __enh + DrawSteelGlyphs tier badges); this sheet
+   styles the wrap/head/stats and the feature kill-block + preferences.
+
+   Preferences (data-attr on <html>, independent of data-sb-*):
+     data-fb-featstyle  card | flat    feature frame
+     data-fb-stats      grid | ledger  loose header stat line
+   Role accent: --role, from the single-source --sc-role-* tokens (palette.css).
+   ============================================================ */
+
+/* ── ROLE accent (single source: palette.css --sc-role-*) ── */
+.fb-wrap[data-role="ambusher"]   { --role: var(--sc-role-ambusher); }
+.fb-wrap[data-role="harrier"]    { --role: var(--sc-role-harrier); }
+.fb-wrap[data-role="artillery"]  { --role: var(--sc-role-artillery); }
+.fb-wrap[data-role="brute"]      { --role: var(--sc-role-brute); }
+.fb-wrap[data-role="controller"] { --role: var(--sc-role-controller); }
+.fb-wrap[data-role="leader"]     { --role: var(--sc-role-leader); }
+.fb-wrap[data-role="solo"]       { --role: var(--sc-role-solo); }
+.fb-wrap[data-role="hexer"]      { --role: var(--sc-role-hexer); }
+.fb-wrap[data-role="mount"]      { --role: var(--sc-role-mount); }
+.fb-wrap[data-role="support"]    { --role: var(--sc-role-support); }
+.fb-wrap[data-role="defender"]   { --role: var(--sc-role-defender); }
+.fb-wrap[data-role="minion"]     { --role: var(--sc-role-minion); }
+.fb-wrap[data-role="malice"],
+.fb-wrap[data-role="feature"]    { --role: var(--sc-role-malice); }
+
+/* ── MkDocs H1 hide (the card carries its own name) — leaf pages only,
+   keyed on h1+hr+card ADJACENCY so container pages embedding featureblocks
+   keep their titles. Regression test: tests/e2e/page-titles.e2e.cjs. ── */
+.md-typeset > h1:first-child:has(+ hr + .fb-wrap),
+.md-typeset > h1:first-child + hr:has(+ .fb-wrap) { display: none; }
+
+/* ── PLATE ── */
+.fb-wrap {
+  --pad: 1.2rem;
+  --fb-plate-solid: #1e2327;            /* solid mid-tone of the plate, for diamond halos */
+  position: relative; max-width: 47rem; margin: 1.7rem auto;
+}
+[data-md-color-scheme="default"] .fb-wrap { --fb-plate-solid: #f4f6f6; }
+.md-typeset.fb {
+  position: relative; margin: 0; padding: 0 0 .35rem;
+  border: 1px solid rgba(255,255,255,.06); border-radius: .65rem;
+  background: var(--fx-card-bg);
+  box-shadow: var(--fx-bevel), 0 10px 26px rgba(0,0,0,.36);
+  overflow: clip; color: var(--md-default-fg-color);
+}
+[data-md-color-scheme="default"] .md-typeset.fb {
+  border-color: var(--md-default-fg-color--lightest);
+  box-shadow: var(--fx-bevel), 0 5px 14px rgba(0,0,0,.09);
+}
+
+/* ── FORGED BAND head: role gradient + centered diamond on the bottom border ── */
+.fb__head {
+  position: relative; padding: 1rem var(--pad) 1.05rem; margin-bottom: .55rem;
+  background:
+    linear-gradient(180deg,
+      color-mix(in srgb, var(--role) 40%, var(--fb-plate-solid)),
+      color-mix(in srgb, var(--role) 9%, var(--fb-plate-solid)));
+  border-bottom: 1px solid color-mix(in srgb, var(--role) 38%, transparent);
+}
+.fb__head::after {
+  content: ""; position: absolute; left: 50%; bottom: 0; width: 9px; height: 9px;
+  transform: translate(-50%, 50%) rotate(45deg); background: var(--role);
+  box-shadow: 0 0 0 4px var(--fb-plate-solid), 0 0 0 5px color-mix(in srgb, var(--role) 40%, var(--fb-plate-solid));
+}
+.fb__eyebrow {
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: uppercase;
+  letter-spacing: .08em; font-size: .86rem; color: var(--role);
+  filter: brightness(1.15) saturate(1.1); margin-bottom: .12rem;
+}
+.md-typeset .fb__name {
+  margin: 0; font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+}
+
+/* The head DOM is now the shared 6-slot .sc-head (steel-cardhead.css) carrying the
+   .fb__head class — so the role-gradient band + centered diamond above still apply.
+   Re-attach the embossed name (was .fb__name) + the role-tinted type+role mini-title
+   (was the role-colored .fb__eyebrow) to the new head slots. */
+.md-typeset .fb__head .sc-head__left-primary {
+  font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+}
+.fb__head .sc-head__right-primary { color: var(--role); filter: brightness(1.15) saturate(1.1); }
+
+/* ── FLAVOR ── */
+.fb__flavor {
+  font-family: var(--md-small-header-font); font-style: italic;
+  color: var(--md-default-fg-color--light); font-size: .94rem; line-height: 1.55;
+  padding: 0 var(--pad); margin: 0 0 .6rem; text-wrap: pretty;
+}
+.fb__flavor a { color: var(--md-typeset-a-color); text-decoration: none; }
+.fb__flavor a:hover { text-decoration: underline; }
+
+/* ── LOOSE STATS (data-fb-stats: grid | ledger) ── */
+.fb__stats { padding: 0 var(--pad) .7rem; }
+.fb__stat-l { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .05em; font-size: .74rem; color: var(--fx-metal); }
+.fb__stat-v { color: var(--md-default-fg-color); font-size: .95rem; line-height: 1.3; text-wrap: pretty; }
+.fb__stat-v b { color: var(--sc-steel-lighter); }
+/* grid: boxed value-over-label cells, auto-fit so long values get their own row */
+[data-fb-stats="grid"] .fb__stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr)); gap: .4rem; }
+[data-fb-stats="grid"] .fb__stat {
+  border: 1px solid var(--fx-metal-faint); border-radius: 8px; padding: .45rem .6rem; min-height: 3.1rem;
+  background: rgba(0,0,0,.16); display: flex; flex-direction: column-reverse; align-items: center; justify-content: center; text-align: center; gap: .1rem;
+}
+/* scheme attr lives on <body>, data-fb-* on <html> — html-anchored attr FIRST */
+[data-fb-stats="grid"] [data-md-color-scheme="default"] .fb__stat { background: rgba(0,0,0,.022); }
+[data-fb-stats="grid"] .fb__stat-v { font-weight: 700; color: var(--sc-steel-lighter); }
+/* ledger: hairline label/value rows */
+[data-fb-stats="ledger"] .fb__stats { display: flex; flex-direction: column; }
+[data-fb-stats="ledger"] .fb__stat { display: flex; align-items: baseline; justify-content: space-between; gap: .7rem; padding: .4rem .1rem; border-bottom: 1px solid var(--fx-metal-faint); }
+[data-fb-stats="ledger"] .fb__stat-v { text-align: right; }
+
+/* ════════════════════════════════════════════════════════════
+   FEATURES
+   ════════════════════════════════════════════════════════════ */
+.fb__feats { padding: .2rem var(--pad) var(--pad); display: flex; flex-direction: column; gap: .65rem; }
+
+/* action accents. Each feature is article.sc-ability.fb__feat, so --act for
+   main/maneuver/triggered/move/none/trait is already inherited from
+   steel-ability-cards.css; add the featureblock-specific keys. */
+.fb__feat[data-action="passive"] { --act: var(--sc-act-none); }
+.fb__feat[data-action="villain"] { --act: var(--sc-role-controller); }   /* red  */
+.fb__feat[data-action="special"] { --act: var(--sc-role-mount); }        /* teal — terrain activate / deactivate */
+
+/* ── KILL BLOCK — neutralize the steel-ability-cards.css plate chrome ──
+   .fb__feat IS .sc-ability, so the kills select .fb__feat directly at the SAME
+   specificity floors as the ability-card rules; this sheet loads after
+   steel-ability-cards.css, so equal specificity wins by order:
+     .md-typeset .sc-ability                                   (0,2,0) plate
+     [data-md-color-scheme="default"] .md-typeset .sc-ability  (0,3,0) light plate
+     .md-typeset .sc-ability::before                           (0,2,1) watermark
+     .md-typeset .sc-ability:hover                             (0,3,0) hover lift
+   Keep ALL featstyle mode rules AFTER this block (they re-declare the contested
+   ::before — see the statblock flat-mode separator for the same footgun). */
+.fb .fb__feat { margin: 0; border: none; background: none; box-shadow: none; overflow: visible; transition: none; padding: 0; }
+[data-md-color-scheme="default"] .fb .fb__feat { background: none; }
+.fb .fb__feat::before { display: none; }
+.fb .fb__feat:hover { transform: none; box-shadow: none; }
+
+/* ── FEATURE HEAD — icon · (usage eyebrow over) name · cost ── */
+.fb__feat-head { display: flex; align-items: baseline; gap: .55rem; }
+.fb__feat-icon { align-self: center; font-size: 1.1rem; line-height: 1; }
+.fb__feat-titles { flex: 1; min-width: 0; }
+/* usage eyebrow ("main action (adjacent creature)") — small-caps, action-tinted,
+   the human-readable twin of the [data-action] accent. */
+.fb__feat-eyebrow { display: flex; align-items: center; gap: .5rem;
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .1em; font-size: .85rem; color: var(--act); }
+.md-typeset .fb__feat-name { font-size: 1.25rem; margin: 0; min-width: 0; }
+.fb__feat-corner { margin-left: auto; align-self: baseline; }
+.fb__feat-corner .sc-ability__cost { white-space: nowrap; }
+
+/* ── FEATURE FRAME — data-fb-featstyle: card | flat ── */
+/* card = own container with an action-colored spine */
+[data-fb-featstyle="card"] .fb__feat { background: rgba(0,0,0,.16); border-left: 3px solid var(--act); border-radius: 9px; padding: .7rem .85rem .78rem; }
+[data-fb-featstyle="card"] [data-md-color-scheme="default"] .fb__feat { background: rgba(0,0,0,.022); }
+/* flat = stylized-hr separators (line + dots + diamond), gap 0 */
+[data-fb-featstyle="flat"] .fb__feats { gap: 0; }
+[data-fb-featstyle="flat"] .fb__feat { padding: .9rem .2rem; }
+/* separator pseudos sit at the border-box top edge: visual gap = margin-top
+   (above the divider) + padding-top (below). Keep EQUAL or the diamond drifts. */
+[data-fb-featstyle="flat"] .fb__feat + .fb__feat { position: relative; margin-top: calc(1.25rem + -16px); padding-top: 1.25rem; }
+[data-fb-featstyle="flat"] .fb__feat + .fb__feat::before {
+  /* this ::before doubles as the ability-card watermark (display:none'd by the
+     kill block) — repurposing a contested pseudo must re-declare all three. */
+  display: block; opacity: 1; mix-blend-mode: normal;
+  content: ""; position: absolute; top: 2px; left: 5%; right: 5%; height: 4px;
+  background:
+    linear-gradient(to right, transparent, var(--fx-metal-line)) no-repeat left center,
+    linear-gradient(to left,  transparent, var(--fx-metal-line)) no-repeat right center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% - 24px) center,
+    radial-gradient(circle, var(--fx-metal) 1.4px, transparent 1.9px) no-repeat calc(50% + 24px) center;
+  background-size: calc(50% - 30px) 1px, calc(50% - 30px) 1px, 4px 4px, 4px 4px;
+}
+[data-fb-featstyle="flat"] .fb__feat + .fb__feat::after {
+  content: ""; position: absolute; top: 4px; left: 50%; width: 8px; height: 8px; margin: -4px 0 0 -4px;
+  background: var(--fx-metal); transform: rotate(45deg);
+  box-shadow: 0 0 0 4px var(--fb-plate-solid), 0 0 0 5px var(--fx-metal-faint);
+}
+
+/* ── feature internals spacing (reused ability-card grammar) ── */
+.fb__feat .sc-ability__kw { margin-top: .5rem; }
+.fb__feat .sc-ability__rail { margin-top: .55rem; }
+.fb__feat .sc-ability__pr { margin-top: .7rem; }
+.fb__feat .sc-ability__section { margin-top: .65rem; }
+.fb__feat .sc-ability__enh { margin-top: .85rem; }
+.fb__feat-intro, .fb__feat-body, .fb__feat-trailing { font-size: .92rem; line-height: 1.5; color: var(--md-default-fg-color--light); text-wrap: pretty; margin: .5rem 0 0; }
+.fb__feat-intro { margin-bottom: .65rem; }
+.fb__feat-intro a, .fb__feat-body a, .fb__feat-trailing a, .fb__feat .sc-ability__section-body a, .fb__feat .res a { color: var(--md-typeset-a-color); text-decoration: none; }
+.fb__feat-intro a:hover, .fb__feat-body a:hover, .fb__feat-trailing a:hover, .fb__feat .sc-ability__section-body a:hover, .fb__feat .res a:hover { text-decoration: underline; }
+
+/* ── advancement bands: fixture / retainer "Level N" feature groups ──
+   A contiguous run of features sharing a Level > 0, grouped under a small
+   role-tinted sub-head. The band is a flex column so its features keep the
+   same vertical rhythm as the main .fb__feats list. */
+.fb__band--adv {
+  display: flex;
+  flex-direction: column;
+  gap: var(--fb-feat-gap, .65rem);
+  margin-top: .85rem;
+  padding-top: .55rem;
+  border-top: 1px solid color-mix(in srgb, var(--role) 30%, transparent);
+}
+.fb__adv-head {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  font-size: .72rem;
+  color: var(--role);
+  margin-bottom: .1rem;
+}
+@media print {
+  .fb__band--adv { break-inside: avoid; border-top-color: rgba(0, 0, 0, .35); }
+}
+
+/* ════════════════════════════════════════════════════════════
+   RESPONSIVE
+   ════════════════════════════════════════════════════════════ */
+@media (max-width: 34em) {
+  .fb-wrap { --pad: .85rem; }
+  .md-typeset .fb__name { font-size: 1.7rem; }
+  [data-fb-stats="grid"] .fb__stats { grid-template-columns: 1fr 1fr; }
+}
+
+/* ════════════════════════════════════════════════════════════
+   PRINT
+   ════════════════════════════════════════════════════════════ */
+@media print {
+  .md-typeset.fb { box-shadow: none; border: 1px solid #999; break-inside: avoid; }
+  .fb__feat, .fb__stat, .fb__feat .sc-ability__pr, .fb__feat .sc-ability__section { background: none !important; }
+}

@@ -1,0 +1,352 @@
+/* ==================================================================== */
+/*  steel-chrome.css — the CARD CHROME PANEL (SC-297)                   */
+/* ==================================================================== */
+/*
+   The site port of the DSE plugin's element chrome panel (SC-169 + SC-189).
+   It REPLACES the hover-revealed top-CENTER control strip that each consumer
+   script used to mount into the card head at hard-coded rem offsets
+   (copy-link at 50%, pin +1.6rem, encounter-add +3.4rem, exports +5.2rem —
+   see the sheets those offsets still live in for the families not yet ported).
+
+   DOM, created by sc-chrome.js:
+
+     <card class="… sc-chrome-anchor">      the node carrying the VISIBLE card frame
+       …
+       <div class="sc-chrome" role="toolbar">    ← the plate, OUT OF FLOW
+         <button class="sc-copylink">            ← consumers mount their own buttons
+         <button class="sc-pin">
+         <button class="sc-enc-add sc-enc-addpage">
+         <span class="sc-export">…</span>
+       </div>
+     </card>
+
+   Visual order is fixed by `order` below, NEVER by mount order — the same
+   contract `.sc-pageact` already uses, so a consumer script can be loaded,
+   reordered or added without moving anything on screen.
+
+   THE CONTRACT this transplants verbatim from the plugin (workspace DESIGN.md →
+   "The element chrome panel"):
+     - geometry: OPTION D. The panel's right edge sits --sc-chrome-inset (10px)
+       inside the card frame's VISIBLE (border-box) right edge; the panel's
+       bottom edge lands EXACTLY on the frame's border-box top. It never paints
+       into the border row, so the card's own 1px hairline renders complete and
+       unbroken beneath the whole plate. That is why the plate has no bottom
+       border and square bottom corners: the line under it belongs to the card.
+     - material: E3 "hairline crown" — a plain rounded plate, radius on the top
+       corners only, one bright hairline along the top edge, and an UPWARD-cast
+       shadow so the plate reads as floating over what is above and resting on
+       the card below. No chamfer, no clip-path, no filter: the silhouette stays
+       a plain box so it cannot clip its own shadow or a focus ring.
+     - depth: `tuck` — the card sits slightly IN FRONT of the panel. Authored as
+       an INSET on the panel's own bottom edge (never a cast shadow on the card),
+       because an inset is clipped to the panel's border box and therefore cannot
+       reach the card's hairline, needs no stacking-order surgery, and leaves
+       every card unchanged at rest.
+     - right-anchored, grows RIGHT-TO-LEFT as items are added.
+     - hover-revealed on desktop (`:focus-within` is the keyboard twin), always
+       visible with reserved top space on touch/narrow, ABSENT in print.
+
+   PRINT is by construction, in three redundant layers, exactly as the plugin
+   does it: (1) the unscoped base below is `display: none`; (2) everything that
+   reveals or positions the plate lives inside `@media screen`, so print has no
+   rule that could reveal it; (3) an explicit `@media print` hide at the foot, so
+   `grep sc-chrome` shows the exclusion without reasoning about the cascade.
+   The panel is also out of flow, so even a leaked rule could not reflow a card;
+   the one piece of chrome that DOES occupy layout (the touch/narrow reserved
+   top space) is inside `@media screen` too.
+
+   SC-297 round 2 rolls the panel out to all five families that carried the old
+   strip — statblock (.sb-wrap), ability card (.sc-ability), featureblock
+   (.fb-wrap), trait (.sc-trait) and kit (.sc-kit). Adding a family is two edits:
+     1. its selector in FAMILIES, sc-chrome.js;
+     2. its frame-offset block in "PER-FAMILY FRAME OFFSETS" below (and, if the
+        card node CLIPS its overflow, the clip relaxation next to it).
+   Nothing else.
+*/
+
+/* -- TOKENS ---------------------------------------------------------------- */
+/* The plugin's --dse-* tokens do not exist here; each is mapped to its site
+   counterpart. The plate surface is a LITERAL rather than --fx-card-bg because
+   --fx-card-bg is a gradient and E3's plate is one flat raised step — these are
+   the solid mid-tones the card plates already resolve to (--sb-plate-solid's
+   pair, steel-statblock.css). Colour names for the record (DESIGN.md's rule —
+   hue never carries meaning here, this is material only): dark = near-black
+   blue-grey; light = near-white grey. */
+:root {
+  --sc-chrome-inset: 10px;       /* = --dse-chrome-inset, the ONE placement number */
+  --sc-chrome-surface: #232a2e;  /* = --dse-surface-raised */
+  --sc-chrome-border: rgba(176, 183, 187, 0.3);  /* = --dse-border (--fx-metal-line, softened) */
+  --sc-chrome-border-top: var(--sc-chrome-border);
+  --sc-chrome-radius: 0.4rem;    /* = --dse-radius */
+  --sc-chrome-hover: rgba(255, 255, 255, 0.09);  /* = --dse-hover */
+  /* E3 dark: bright lip at 22% white, tuck inset at 55% black, upward cast 34% */
+  --sc-chrome-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    inset 0 -5px 6px -3px rgb(0 0 0 / 55%),
+    0 -3px 7px rgb(0 0 0 / 34%);
+}
+[data-md-color-scheme="default"] {
+  --sc-chrome-surface: #f4f6f6;
+  --sc-chrome-border: var(--md-default-fg-color--lightest);
+  /* E3's light retune: on a near-white plate a light catch has to be carried by
+     CONTRAST, not brightness — the hairline goes to full white and the plate's
+     own top border is deepened a step (a literal, one step down from the light
+     border token). The cast shadow drops to 15% black, because 34% under a light
+     card reads as grime rather than lift; the tuck inset drops to 22% for the
+     same reason and in the same ratio. */
+  --sc-chrome-border-top: #a9b1b5;
+  --sc-chrome-hover: rgba(0, 0, 0, 0.07);
+  --sc-chrome-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 100%),
+    inset 0 -5px 6px -3px rgb(0 0 0 / 22%),
+    0 -3px 7px rgb(0 0 0 / 15%);
+}
+
+/* -- BASE (unscoped, structural): the plate does not exist unless screen opts in */
+.sc-chrome { display: none; }
+
+@media screen {
+
+  /* -- THE PLATE ----------------------------------------------------------- */
+  .sc-chrome-anchor { position: relative; }
+
+  .sc-chrome {
+    display: flex;
+    align-items: stretch;
+    position: absolute;
+    /* Option D, both halves. An absolutely positioned child is offset from its
+       containing block's PADDING box, but what a reader measures against is the
+       card frame's visible BORDER box. The two differ by exactly the frame's own
+       border width — the card's padding is INSIDE the padding box and does not
+       enter this — so each family republishes its border widths below and they
+       are corrected for here. Without it, a 1px-framed card seats the plate 1px
+       low, i.e. ON the hairline instead of above it, which is the exact defect
+       the plugin's round 2 fixed. */
+    right: calc(var(--sc-chrome-inset) - var(--sc-chrome-frame-right, 0px));
+    bottom: calc(100% + var(--sc-chrome-frame-top, 0px));
+    /* The plate is a child of the card, so any `> *` gutter that card applies to
+       its own content would displace it. Framework invariant: no card's content
+       gutter may move the chrome. */
+    margin: 0 !important;
+    /* Above the card's own content (.sc-ability lifts its children to z-index 1)
+       and below the statblock's sticky mini-header (z-index 5). */
+    z-index: 3;
+    /* The bottom 1px is the OPTICAL-CENTRING correction for the glyphs, and it is
+       a px because what it compensates for is a px: the plate has a 1px top border
+       and NO bottom border (the card's hairline is its floor), so symmetric inner
+       padding would seat every glyph one pixel below the plate's optical centre.
+       The breathing room itself lives on the buttons, in em, so it tracks the
+       text-size prefs. */
+    padding: 0 1px 1px;
+    background: var(--sc-chrome-surface);
+    border: 1px solid var(--sc-chrome-border);
+    border-top-color: var(--sc-chrome-border-top);
+    border-bottom: 0;
+    border-radius: var(--sc-chrome-radius) var(--sc-chrome-radius) 0 0;
+    box-shadow: var(--sc-chrome-shadow);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+  }
+
+  /* -- PER-FAMILY FRAME OFFSETS ------------------------------------------- */
+  /* One block per ported family. `--sc-chrome-frame-top/right` = that family's
+     own BORDER width on the side in question — nothing else. (The plugin reads
+     the same two numbers off the anchor at mount time and republishes them as
+     custom properties, because it cannot know its host's frame; here we author
+     both sides of the contract, so they are simply declared.)
+
+     .sb-wrap / .fb-wrap are UNFRAMED wrappers whose box coincides with the
+     framed .sb / .fb inside them, so both offsets are zero and the plate needs
+     no correction at all.
+
+     .sc-ability IS the framed card: a 1px border on every side. It also CLIPS
+     (`overflow: hidden`, which exists to keep the etched-watermark ::before's
+     square corners inside the card's 0.6rem radius), and a plate seated outside
+     the top edge cannot live inside a clipping box. The clip is relaxed only on
+     the anchor itself, and the watermark is given the card's own radius so it
+     stays rounded without the clip doing it. Scoped to .sc-chrome-anchor so
+     nested statblock features, kit signature cards and index previews — all of
+     them .sc-ability too — are untouched. */
+  .sb-wrap.sc-chrome-anchor {
+    --sc-chrome-frame-top: 0px;
+    --sc-chrome-frame-right: 0px;
+  }
+  .md-typeset .sc-ability.sc-chrome-anchor {
+    --sc-chrome-frame-top: 1px;
+    --sc-chrome-frame-right: 1px;
+    overflow: visible;
+  }
+  .md-typeset .sc-ability.sc-chrome-anchor::before { border-radius: inherit; }
+  /* …and out-specify steel-ability-cards.css's (0,3,0) content-lift rule
+     (`.md-typeset .sc-ability > * { position: relative; z-index: 1 }`), which
+     would otherwise force the plate back into the flow. */
+  .md-typeset .sc-ability.sc-chrome-anchor > .sc-chrome {
+    position: absolute;
+    z-index: 3;
+  }
+
+  /* .fb-wrap is the same shape as .sb-wrap: an UNFRAMED wrapper whose box
+     coincides with the framed `.md-typeset.fb` inside it (which carries the
+     1px border and its own `overflow: clip` — not the anchor, so no relaxation
+     is needed here). Zero correction on both sides. */
+  .fb-wrap.sc-chrome-anchor {
+    --sc-chrome-frame-top: 0px;
+    --sc-chrome-frame-right: 0px;
+  }
+  /* .sc-trait and .sc-kit ARE the framed card (a 1px border on every side,
+     no overflow set — neither clips), so each needs its own border corrected
+     for, same as .sc-ability, and no clip relaxation. */
+  .md-typeset .sc-trait.sc-chrome-anchor {
+    --sc-chrome-frame-top: 1px;
+    --sc-chrome-frame-right: 1px;
+  }
+  .md-typeset .sc-kit.sc-chrome-anchor {
+    --sc-chrome-frame-top: 1px;
+    --sc-chrome-frame-right: 1px;
+  }
+
+  /* -- REVEAL -------------------------------------------------------------- */
+  /* The cursor over the CARD or over the plate (which is a descendant of the
+     card, so :hover covers it even though it paints outside the box).
+     :focus-within is the keyboard twin — without it the plate is unreachable
+     by Tab. */
+  .sc-chrome-anchor:hover > .sc-chrome,
+  .sc-chrome-anchor:focus-within > .sc-chrome {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* -- TOUCH / NARROW ------------------------------------------------------ */
+  /* No hover on a touch device, so the plate is always visible — and because it
+     is always visible it must NOT sit on top of whatever is above the card, so
+     this is the one mode that reserves top space. Desktop reserves none.
+     Two separate blocks rather than one `(hover: none) or (max-width: 30em)`
+     query, so neither arm depends on media-query-level-4 boolean support.
+
+     The doubled class on the reserved-space rule is deliberate: every card
+     family declares its own top margin from a `.md-typeset <card>` selector
+     (0,2,0), so a bare `.sc-chrome-anchor` (0,1,0) loses and the plate would
+     cover whatever sits above the card. `.md-typeset .sc-chrome-anchor
+     .sc-chrome-anchor` is (0,3,0) and beats every one of them without naming
+     any family — which is what keeps the rollout to "add a family to a list".
+
+     2.5em, not the plugin's 2.1em (round 4): the plate's own rendered height
+     is a measured, constant 44px across every family at the site's base
+     mobile font-size (19px) — 2.1em (39.9px) is 4.1px SHORT of that, a gap
+     invisible on the five already-shipped families only because each one's
+     immediately preceding sibling (the injected h1/hr) is display:none, so
+     nothing real ever sat in the shortfall. It stopped being invisible on
+     the three sb-backlink minion pages this round legitimately turns into
+     card pages (HIGH-2): their preceding sibling is a REAL, rendered
+     `<p class="sb-backlink">`, and the plate measurably overlapped its
+     bottom 4.11px. 2.5em (47.5px) clears the plate's 44px with margin to
+     spare and does not visibly change anything on the other four families
+     (their clearance was already 90-130px of empty reserved space; this
+     only grows an already-invisible buffer by ~7px). */
+  @media (hover: none) {
+    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.5em; }
+    .sc-chrome { opacity: 1; pointer-events: auto; }
+  }
+  @media (max-width: 30em) {
+    .md-typeset .sc-chrome-anchor.sc-chrome-anchor { margin-top: 2.5em; }
+    .sc-chrome { opacity: 1; pointer-events: auto; }
+  }
+
+  /* -- THE CONSUMERS' BUTTONS ---------------------------------------------- */
+  /* Fixed visual order regardless of which script mounted first — the
+     .sc-pageact pattern. Right-anchored and growing right-to-left means the
+     LAST-ordered item is the fixed right-hand anchor a reader's eye returns to;
+     today that is the export pair. (Scott's ruling, 2026-09-05: no collapse
+     toggle on the site panel — a card page is one card, so collapsing it
+     would leave a blank page. Settled, not an open question.) */
+  .sc-chrome > * { order: 9; }
+  .sc-chrome .sc-copylink { order: 1; }
+  .sc-chrome .sc-pin { order: 2; }
+  .sc-chrome .sc-enc-add { order: 3; }
+  .sc-chrome .sc-export { order: 4; }
+
+  /* OS-window-controls density: flat, borderless, muted until hovered — the
+     plate frame is the affordance, not each glyph. Every declaration here
+     re-grounds one the consumer sheets make for the old floating strip
+     (absolute placement, the boxed 1.7rem chip, the 0/0.4 opacity ramp); those
+     sheets are left untouched so the un-ported families keep working. */
+  .sc-chrome .sc-copylink,
+  .sc-chrome .sc-pin,
+  .sc-chrome .sc-enc-add,
+  .sc-chrome .sc-export__btn {
+    position: static;
+    inset: auto;
+    transform: none;
+    opacity: 1;
+    min-width: 1.7em;
+    min-height: 1.5em;
+    width: auto;
+    height: auto;
+    /* Breathing room in em so it tracks the text-size prefs; a 1.5em floor so a
+       future smaller glyph cannot shrink the plate. */
+    padding: 0.3em 0.35em;
+    display: grid;
+    place-items: center;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    color: var(--md-default-fg-color--light);
+    cursor: pointer;
+    line-height: 1;
+  }
+  .sc-chrome .sc-copylink:hover:not([disabled]),
+  .sc-chrome .sc-pin:hover:not([disabled]),
+  .sc-chrome .sc-enc-add:hover:not([disabled]),
+  .sc-chrome .sc-export__btn:hover:not([disabled]) {
+    background: var(--sc-chrome-hover);
+    color: var(--md-accent-fg-color);
+    border-color: transparent;
+  }
+  /* A pinned card keeps the accent on its pin, as it does in the page strip. */
+  .sc-chrome .sc-pin.is-on { color: var(--md-accent-fg-color); }
+  /* the export pair is a <span> holding two buttons: it is the flex ITEM, the
+     buttons inside it are the glyphs */
+  .sc-chrome .sc-export {
+    position: static;
+    inset: auto;
+    opacity: 1;
+    display: inline-flex;
+    align-items: stretch;
+  }
+  .sc-chrome .sc-export__btn {
+    font-size: 0.62rem;
+    letter-spacing: 0.05em;
+    padding: 0.3em 0.5em;
+  }
+  .sc-chrome .sc-enc-add { font-size: 1rem; }
+  .sc-chrome .sc-copylink svg,
+  .sc-chrome .sc-pin svg { width: 0.95rem; height: 0.95rem; }
+  /* the transient "Copied" flag hangs to the LEFT of the plate */
+  .sc-chrome .sc-copylink--copied::after { right: calc(100% + 0.45rem); }
+
+  @media (pointer: coarse) {
+    .sc-chrome .sc-copylink,
+    .sc-chrome .sc-pin,
+    .sc-chrome .sc-enc-add,
+    .sc-chrome .sc-export__btn { min-width: 2.2em; min-height: 2em; }
+  }
+
+  /* Keep the plate out of PNG card exports, like every other page control
+     (steel-export.css's .sc-export-shooting list). Hiding .sc-chrome already
+     hides everything normally mounted inside it; the four class names are
+     restored here too (round 4, MEDIUM-1) as the belt to that braces — so a
+     control that ever again lands outside the plate (a future HIGH-2-shaped
+     bug) still can't leak into a PNG export. */
+  .sc-export-shooting .sc-chrome,
+  .sc-export-shooting .sc-copylink,
+  .sc-export-shooting .sc-pin,
+  .sc-export-shooting .sc-enc-addpage,
+  .sc-export-shooting .sc-export { display: none !important; }
+}
+
+/* -- PRINT (layer 3: greppable from the print scheme itself) --------------- */
+@media print {
+  .sc-chrome { display: none !important; }
+}

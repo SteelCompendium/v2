@@ -1,0 +1,196 @@
+/* steel-cardhead.css — the shared 6-slot card header (.sc-head).
+   Two columns (left "stack" / right "rail"), three lanes (eyebrow/primary/deck).
+   Every entity card composes this; per-card sheets add only color/spine specifics.
+   Tokens come from palette.css + steel-redesign.css (load order: after
+   steel-settings.css, before steel-ability-cards.css). */
+
+/* LAYOUT — a real 3-column grid (crest · left text · right rail) over three shared
+   lanes (eyebrow / primary / deck). Making the lanes grid ROWS rather than two
+   independently-stacked flex columns is load-bearing: a lane keeps its height across
+   BOTH columns, so when one side omits a slot (e.g. an ability card has no
+   right-eyebrow) the lane is still reserved by the other side and the two primaries
+   stay on the same line, instead of the shorter side collapsing upward. */
+.sc-head {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-rows: auto auto auto;
+  align-items: center;     /* center each slot within its lane */
+  row-gap: .12rem;         /* the consistent breath above + below the primary */
+}
+/* the stack / col / rail wrappers only grouped slots for the old flex layout —
+   dissolve them so every slot becomes a direct grid item placed on its own lane.
+   (Flat Feature Style re-solidifies them to `display: inline`; see below.) */
+.sc-head__stack,
+.sc-head__col,
+.sc-head__rail { display: contents; }
+
+/* crest / icon → column 1, spanning every lane, vertically centered beside the text.
+   .fb__feat-icon is the featureblock twin of .sb__feat-icon (emoji/glyph, no shield);
+   without it here the fb icon auto-places into row 1 and the name drops to row 2. */
+.sc-head .sc-crest,
+.sc-head .sb__feat-icon,
+.sc-head .fb__feat-icon { grid-column: 1; grid-row: 1 / -1; align-self: center; margin-right: .9rem; }
+
+/* lane placement: eyebrow (row 1) · primary (row 2) · deck (row 3). */
+.sc-head__left-eyebrow  { grid-area: 1 / 2; }
+.sc-head__left-primary  { grid-area: 2 / 2; }
+.sc-head__left-deck     { grid-area: 3 / 2; }
+.sc-head__right-eyebrow { grid-area: 1 / 3; }
+.sc-head__right-primary { grid-area: 2 / 3; }
+.sc-head__right-deck    { grid-area: 3 / 3; }
+.sc-head__right-eyebrow,
+.sc-head__right-primary,
+.sc-head__right-deck { justify-self: end; text-align: right; margin-left: 1.5rem; }
+/* The name (left primary) bottom-aligns in its row so it sits tight above the
+   deck. The right mini-title / cost (Solo, Signature, Hexer…) is OPTICALLY
+   CENTERED against the much larger name rather than dropped to its baseline —
+   bottom-aligning left it reading low beside the tall name. */
+.sc-head__left-primary { align-self: end; }
+.sc-head__right-primary { align-self: center; }
+
+/* Statblock/featureblock sub-feature heads wrap .sc-head in a .sb__feat-head /
+   .fb__feat-head that is itself a flex/grid (a leftover from the pre-.sc-head DOM
+   that had several head children). .sc-head is now its sole child, so it lands in
+   the wrapper's first track at content width and the right rail stops short of the
+   card edge. Make the head fill the wrapper — grid-column spans the grid variant,
+   flex grows the flex variant; the inapplicable one is simply ignored. */
+.sb__feat-head > .sc-head,
+.fb__feat-head > .sc-head { grid-column: 1 / -1; flex: 1; min-width: 0; }
+
+/* Sub-feature action icon → align to the NAME, not the full head. The shared
+   crest rule above spans the icon across all three lanes (grid-row: 1 / -1) and
+   centers it — correct for the tall main-card crest, but wrong for a sub-feature's
+   little action glyph: when the RIGHT rail carries a deck slot (e.g. a featureblock
+   feature's usage chip under its cost mini) row 3 fills, the grid grows, and a
+   full-height-centered icon drops ~12px below the single-line name. Sub-feature
+   heads only ever have a left PRIMARY (no left eyebrow/deck — see statblock_card.go
+   / featureblock_page.go), so pin the icon to the primary row and center it there:
+   it now tracks the name on one line regardless of what the right rail holds. */
+.sb__feat-head .sb__feat-icon,
+.fb__feat-head .fb__feat-icon { grid-row: 2; align-self: center; }
+
+/* lanes share emphasis on both sides. eyebrow = small context (small-caps),
+   primary = the headline, deck = quiet detail. The .md-typeset prefix on the
+   margin reset out-specifies Material's `.md-typeset h2/h3` (the name slots are
+   real headings), whose top/bottom margins otherwise leak into the lane. */
+.sc-head__slot { min-width: 0; }
+.md-typeset .sc-head__slot { margin-block: 0; }   /* kill ONLY the leaked vertical
+   h2/h3 margins — margin-inline carries the right rail's gutter (above) and must survive. */
+
+/* --line: a text line. The eyebrow carries the ◆ marker via ::before. */
+.sc-head__slot--line { font-family: var(--md-small-header-font); }
+.sc-head__left-eyebrow.sc-head__slot--line,
+.sc-head__right-eyebrow.sc-head__slot--line {
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .07em;
+  font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
+  display: flex; align-items: center; gap: .5rem;
+}
+.sc-head__left-eyebrow.sc-head__slot--line::before {
+  content: ""; width: .36rem; height: .36rem; transform: rotate(45deg);
+  background: var(--fx-metal); flex: 0 0 auto;
+}
+.sc-head__left-deck.sc-head__slot--line,
+.sc-head__right-deck.sc-head__slot--line {
+  font-variant: small-caps; letter-spacing: .05em; font-size: .92rem; line-height: 1.1;
+  color: var(--md-default-fg-color--light);
+}
+
+/* the name (left-primary) and the right mini-title: the two "title" slots. */
+.md-typeset .sc-head__left-primary {
+  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 1.5rem; line-height: 1.04; color: var(--md-default-fg-color);
+  /* Wrap between words; break inside a word only as a last resort. Material sets
+     `.md-typeset a { word-break: break-word }` for prose links; a preview card is an
+     <a>, so that rule is INHERITED here and broke every long name mid-word
+     ("UNEARTH / LY / REFLEXES"). word-break:break-word also collapses the name's
+     min-content width to ~1 char, letting the grid column starve. Reset to
+     word-break:normal (keep whole-word min-content) + overflow-wrap:break-word
+     (a single over-long word still breaks rather than overflowing/clipping). */
+  word-break: normal; overflow-wrap: break-word; hyphens: manual;
+}
+.sc-head__slot--mini {
+  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 1.35rem; line-height: 1.04; color: var(--role, var(--md-default-fg-color));
+}
+
+/* --chip: a compact pill. inline-flex + line-height 1 so the small-caps label is
+   optically centered and the pill hugs it height-wise — Material's ~1.6 body
+   line-height otherwise inflates the chip and floats the caps high.
+   gap: flex drops whitespace-only text nodes between items, so mixed content
+   ("2 <a>Malice</a>", "<a>Villain Action</a> 1") rendered with no space
+   (SC-66); every mixed chip site-wide wants exactly one space at its element
+   boundaries, so restore it as a gap. */
+.sc-head__slot--chip {
+  display: inline-flex; align-items: center; justify-content: center; text-align: center;
+  gap: .27em;
+  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  letter-spacing: .04em; font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
+  padding: .14rem .46rem;
+}
+
+/* Mobile: the right rail's content-sized column starves the name track
+   (grid cols are auto · minmax(0,1fr) · auto), wrapping long names letter-
+   by-letter. At phone widths drop the third column entirely and flow the
+   right-rail slots UNDER the left stack (lanes 4–6), left-aligned. Empty
+   slots are omitted from the DOM (writeCardHeadSlot), so unused lanes
+   collapse. Regression test: tests/e2e/cardhead-mobile.e2e.cjs. */
+@media (max-width: 30em) {
+  .sc-head__left-deck.sc-head__slot--line,
+  .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
+
+  .sc-head { grid-template-columns: auto minmax(0, 1fr); }
+  .sc-head__right-eyebrow { grid-area: 4 / 2; }
+  .sc-head__right-primary { grid-area: 5 / 2; }
+  .sc-head__right-deck    { grid-area: 6 / 2; }
+  .sc-head__right-eyebrow,
+  .sc-head__right-primary,
+  .sc-head__right-deck { justify-self: start; text-align: left; margin-left: 0; }
+  .sc-head__right-primary { margin-top: .18rem; }
+  /* crest still spans every lane in column 1 (rule at top of file uses 1/-1) */
+}
+
+/* SC-115: the kit Browse tile's inline signature-ability card (.sc-card__sig-card,
+   steel-redesign.css) nests a full .sc-head inside a ~20rem grid tile — the SAME
+   narrow-column starvation the mobile breakpoint above exists for, just triggered
+   by container width instead of viewport width, so a container query can't share
+   that block directly (`@media (max-width: 30em)` reads the viewport, not the
+   tile). Apply the identical drop-the-third-column treatment, scoped to the class
+   instead of a breakpoint. */
+.sc-card__sig-card .sc-head__left-deck.sc-head__slot--line,
+.sc-card__sig-card .sc-head__slot--mini { white-space: normal; overflow-wrap: anywhere; }
+
+.sc-card__sig-card .sc-head { grid-template-columns: auto minmax(0, 1fr); }
+.sc-card__sig-card .sc-head__right-eyebrow { grid-area: 4 / 2; }
+.sc-card__sig-card .sc-head__right-primary { grid-area: 5 / 2; }
+.sc-card__sig-card .sc-head__right-deck    { grid-area: 6 / 2; }
+.sc-card__sig-card .sc-head__right-eyebrow,
+.sc-card__sig-card .sc-head__right-primary,
+.sc-card__sig-card .sc-head__right-deck { justify-self: start; text-align: left; margin-left: 0; }
+.sc-card__sig-card .sc-head__right-primary { margin-top: .18rem; }
+
+/* Flat-list Feature Style hook — FEATUREBLOCKS only: their sub-feature heads inline
+   to a book run-in "name · cost · usage". Statblock features deliberately KEEP the
+   .sc-head grid in flat mode (little icon + name + right-aligned cost chip — see
+   statblock_card.go); only their container flattens (steel-statblock.css). Card-tier
+   heads are unaffected (they don't set these data-attrs on .sc-head). */
+[data-fb-featstyle="flat"] .fb__feat .sc-head { display: inline; gap: 0; }
+[data-fb-featstyle="flat"] .fb__feat .sc-head__stack,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__rail { display: inline; }
+[data-fb-featstyle="flat"] .fb__feat .sc-head__col--left { display: inline; }
+/* the name itself: inline the heading and drop the card-tier display size/caps so it
+   reads as a run-in instead of the .md-typeset h3 breaking to its own block line. */
+[data-fb-featstyle="flat"] .fb__feat .sc-head__left-primary {
+  display: inline; font-size: 1.08rem; line-height: inherit;
+  text-transform: none; letter-spacing: .01em;
+}
+/* keep the action glyph in the run-in too (icons stay present in flat); tighten the
+   card-grid column gutter down to an inline word-gap before the name. */
+[data-fb-featstyle="flat"] .fb__feat .fb__feat-icon { margin-right: .4rem; vertical-align: -0.12em; }
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip {
+  display: inline; border: 0; padding: 0; margin-left: 0; font-size: inherit;
+  color: var(--md-default-fg-color--light); text-transform: none; font-variant: normal;
+}
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--mini::before,
+[data-fb-featstyle="flat"] .fb__feat .sc-head__slot--chip::before { content: " · "; }
