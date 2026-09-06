@@ -8,7 +8,7 @@
   function cardNode() {
     return document.querySelector(
       ".md-content .sb-wrap, .md-content .md-typeset > .sc-ability, " +
-      ".md-content .fb-wrap, .md-content .sc-kit, .md-content .md-typeset > .sc-trait");
+      ".md-content .fb-wrap, .md-content .sc-kit, .md-content .md-typeset > .pj, .md-content .md-typeset > .sc-trait");
   }
 
   // The stashed source keeps the generator's FILE-relative links

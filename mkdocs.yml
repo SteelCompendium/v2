@@ -129,6 +129,7 @@ extra_css:
   - stylesheets/steel-statblock.css
   - stylesheets/steel-featureblock.css
   - stylesheets/steel-traits.css
+  - stylesheets/steel-project.css
   - stylesheets/steel-indexes.css
   - stylesheets/steel-bestiary.css
   - stylesheets/steel-copylink.css
