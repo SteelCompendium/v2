@@ -299,8 +299,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 **Benefit:** You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 
-##### Corrupt Spirit
-
+> ###### Corrupt Spirit
 >
 > *You unlock the sinister secrets of pain.*
 >
@@ -652,8 +651,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 **Benefit:** You have the following ability.
 
-##### Share Head
-
+> ###### Share Head
 >
 > *You don't have a head, but you can psionically borrow another.*
 >
@@ -695,8 +693,7 @@ You can perceive ghosts and spirits that others don't sense. These [supernatural
 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you have the Contact Spirits ability.
 
-##### Contact Spirits
-
+> ###### Contact Spirits
 >
 > *The restless dead speak to you.*
 >
@@ -718,8 +715,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Benefit:** You have the following ability.
 
-##### Stone Eyes
-
+> ###### Stone Eyes
 >
 > *Your looks don't kill—they petrify.*
 >
@@ -805,8 +801,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Benefit:** You have the following [heroic ability](../../Browse/rule/general/heroic-ability.md).
 
-##### Psychic Blast (Special Heroic Resource Cost)
-
+> ###### Psychic Blast (Special Heroic Resource Cost)
 >
 > *Psionic energy [bursts](../../Browse/rule/combat/burst.md) from your body in an iridescent shimmer.*
 >
@@ -854,8 +849,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 **Benefit:** You have the following ability, which you can use as a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-##### Telekinetic Grasp
-
+> ###### Telekinetic Grasp
 >
 > *You reach out with your mind to move a creature or object.*
 >
@@ -995,8 +989,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Benefit:** You have the following ability.
 
-##### Issue Order
-
+> ###### Issue Order
 >
 > *"Move or die, folks."*
 >
@@ -1064,8 +1057,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 
 **Benefit:** Even if you are a war dog yourself, other war dogs can't use their Posthumous Promotion ability on you while you wear your collar. Additionally, you have the following ability.
 
-##### Posthumous Retirement
-
+> ###### Posthumous Retirement
 >
 > *You make your modified collar explode.*
 >
@@ -1099,8 +1091,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 **Benefit:** You can automatically swim at full [speed](../../Browse/rule/character/speed.md) while moving, and you can breathe underwater. Additionally, you have the following ability.
 
-##### Rogue Wave
-
+> ###### Rogue Wave
 >
 > *You summon a wave of water to batter your foe.*
 >

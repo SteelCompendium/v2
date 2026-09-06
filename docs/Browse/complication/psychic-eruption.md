@@ -19,8 +19,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Benefit:** You have the following [heroic ability](../rule/general/heroic-ability.md).
 
-## Psychic Blast (Special Heroic Resource Cost)
-
+> ###### Psychic Blast (Special Heroic Resource Cost)
 >
 > *Psionic energy [bursts](../rule/combat/burst.md) from your body in an iridescent shimmer.*
 >

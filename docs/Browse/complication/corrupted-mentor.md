@@ -19,8 +19,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 **Benefit:** You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 
-## Corrupt Spirit
-
+> ###### Corrupt Spirit
 >
 > *You unlock the sinister secrets of pain.*
 >

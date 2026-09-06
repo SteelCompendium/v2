@@ -237,8 +237,7 @@ This section presents [supernatural](../../Browse/rule/general/supernatural.md) 
 
 You have the following ability.
 
-##### Arcane Trick
-
+> ###### Arcane Trick
 >
 > *You cast an entertaining spell that creates a minor but impressive magical effect.*
 >
@@ -288,8 +287,7 @@ If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore 
 
 You have the following ability.
 
-##### Invisible Force
-
+> ###### Invisible Force
 >
 > *You manipulate a tiny object with your mind.*
 >
@@ -303,8 +301,7 @@ You have the following ability.
 
 You have the following ability.
 
-##### Psychic Whisper
-
+> ###### Psychic Whisper
 >
 > *You send a one-way telepathic message to a friend.*
 >

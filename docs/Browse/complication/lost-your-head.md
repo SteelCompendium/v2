@@ -19,8 +19,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 **Benefit:** You have the following ability.
 
-## Share Head
-
+> ###### Share Head
 >
 > *You don't have a head, but you can psionically borrow another.*
 >

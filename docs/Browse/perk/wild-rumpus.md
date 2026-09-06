@@ -15,8 +15,7 @@ type: perk
 
 You have the following ability.
 
-## Wild Rumpus
-
+> ###### Wild Rumpus
 >
 > *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 >

@@ -19,8 +19,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 **Benefit:** You can automatically swim at full [speed](../rule/character/speed.md) while moving, and you can breathe underwater. Additionally, you have the following ability.
 
-## Rogue Wave
-
+> ###### Rogue Wave
 >
 > *You summon a wave of water to batter your foe.*
 >

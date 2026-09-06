@@ -39,8 +39,7 @@ type: treasure
 
 Additionally, you have the following ability.
 
-## Hallucination Field
-
+> ###### Hallucination Field
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >

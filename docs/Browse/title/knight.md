@@ -28,8 +28,7 @@ type: title
 - *Knightly Aegis:* Your [Stamina](../rule/health/stamina.md) maximum increases by 6.
 - *Knightly Challenge:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
-## Knightly Challenge (5 Heroic Resource)
-
+> ###### Knightly Challenge (5 Heroic Resource)
 >
 > *Have at thee!*
 >

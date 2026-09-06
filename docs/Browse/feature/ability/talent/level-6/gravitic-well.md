@@ -25,7 +25,7 @@ name: Gravitic Well
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well
 subclass: telekinesis
-target: Each creature and object in the area
+target: Each enemy and object in the area
 tier1: 6 damage; vertical [pull](../../../../movement/forced-movement.md) 5 toward the center of the area
 tier2: 9 damage; vertical [pull](../../../../movement/forced-movement.md) 7 toward the center of the area
 tier3: 13 damage; vertical [pull](../../../../movement/forced-movement.md) 10 toward the center of the area
@@ -42,7 +42,7 @@ type: ability
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
@@ -63,4 +63,4 @@ type: ability
 </article>
 
 
-<template class="sc-src" data-fmt="md" data-src="*You bend gravity into a fine point and pull your foes toward it.*&#10;&#10;| **Area, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |                             **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------|--------------------------------------------:|&#10;| **📏 4 &#91;cube](../../../../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 5 toward the center of the area&#10;- **12-16:** 9 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 7 toward the center of the area&#10;- **17+:** 13 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 10 toward the center of the area&#10;&#10;**Effect:** Targets closest to the center of the area are &#91;pulled](../../../../movement/forced-movement.md) first.&#10;&#10;**Strained:** The size of the area increases by 2. You also target yourself and each ally within &#91;distance](../../../../rule/combat/distance.md)."></template>
+<template class="sc-src" data-fmt="md" data-src="*You bend gravity into a fine point and pull your foes toward it.*&#10;&#10;| **Area, Psionic, &#91;Ranged](../../../../rule/combat/ranged.md), Telekinesis** |                             **&#91;Main action](../../../../rule/combat/turn.md)** |&#10;|----------------------------------------|--------------------------------------------:|&#10;| **📏 4 &#91;cube](../../../../rule/combat/cube.md) within 10**                | **🎯 Each enemy and object in the area** |&#10;&#10;**&#91;Power Roll](../../../../rule/dice/power-roll.md) + &#91;Reason](../../../../rule/character/reason.md):**&#10;&#10;- **≤11:** 6 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 5 toward the center of the area&#10;- **12-16:** 9 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 7 toward the center of the area&#10;- **17+:** 13 damage; vertical &#91;pull](../../../../movement/forced-movement.md) 10 toward the center of the area&#10;&#10;**Effect:** Targets closest to the center of the area are &#91;pulled](../../../../movement/forced-movement.md) first.&#10;&#10;**Strained:** The size of the area increases by 2. You also target yourself and each ally within &#91;distance](../../../../rule/combat/distance.md)."></template>

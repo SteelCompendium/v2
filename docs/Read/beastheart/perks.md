@@ -29,8 +29,7 @@ You and your companion gain an edge on tests made to track creatures, find your 
 
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
-#### Ride Along
-
+> ###### Ride Along
 >
 > *You ride behind your companion's eyes.*
 >
@@ -50,8 +49,7 @@ Your bond with your companion has permeated your very soul; you are just as much
 
 You have the following ability.
 
-#### Wild Rumpus
-
+> ###### Wild Rumpus
 >
 > *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 >

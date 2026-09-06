@@ -15,8 +15,7 @@ type: perk
 
 You have the following ability.
 
-## Psychic Whisper
-
+> ###### Psychic Whisper
 >
 > *You send a one-way telepathic message to a friend.*
 >

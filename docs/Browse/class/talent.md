@@ -1486,7 +1486,7 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>

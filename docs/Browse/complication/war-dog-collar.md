@@ -19,8 +19,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 
 **Benefit:** Even if you are a war dog yourself, other war dogs can't use their Posthumous Promotion ability on you while you wear your collar. Additionally, you have the following ability.
 
-## Posthumous Retirement
-
+> ###### Posthumous Retirement
 >
 > *You make your modified collar explode.*
 >

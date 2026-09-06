@@ -425,17 +425,13 @@ Zola is neutral toward the heroes when the negotiation begins. She knows them on
 > - **[Patience](../../Browse/rule/negotiation/patience.md): 4**
 > - **Impression: 3**
 >
-
-##### Motivations
-
+> ###### Motivations
 >
 > **Benevolence:** Zola's name, Honeycut, comes from the fact that she always gives her fellow thieves a bigger cut than her own on jobs.
 >
 > **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is "The Clock is always ticking," because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
 >
-
-##### Pitfall
-
+> ###### Pitfall
 >
 > **Higher Authority:** Zola has no [interest](../../Browse/rule/negotiation/interest.md) in serving anyone other than herself, and she scoffs at the suggestion of taking orders.
 >

@@ -82,7 +82,7 @@
 <tr><td><a href="level-5/mind-snare/">Mind Snare</a></td><td data-sort="5">5</td><td>9 Clarity</td><td>Main action</td><td>Ranged 10</td><td>One creature</td></tr>
 <tr><td><a href="level-5/soulbound/">Soulbound</a></td><td data-sort="5">5</td><td>9 Clarity</td><td>Main action</td><td>Ranged 10</td><td>Two enemies</td></tr>
 <tr><td><a href="level-6/fate/">Fate</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>Melee 2</td><td>One enemy</td></tr>
-<tr><td><a href="level-6/gravitic-well/">Gravitic Well</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>4 cube within 10</td><td>Each creature and object in the area</td></tr>
+<tr><td><a href="level-6/gravitic-well/">Gravitic Well</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>4 cube within 10</td><td>Each enemy and object in the area</td></tr>
 <tr><td><a href="level-6/greater-kinetic-grip/">Greater Kinetic Grip</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>Ranged 10</td><td>One creature or object</td></tr>
 <tr><td><a href="level-6/stasis-field/">Stasis Field</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>4 cube within 10</td><td>Each creature and object in the area</td></tr>
 <tr><td><a href="level-6/synaptic-conditioning/">Synaptic Conditioning</a></td><td data-sort="6">6</td><td>9 Clarity</td><td>Main action</td><td>Melee 2</td><td>One creature</td></tr>

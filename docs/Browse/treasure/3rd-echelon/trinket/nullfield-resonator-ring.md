@@ -39,8 +39,7 @@ type: treasure
 
 Additionally, you have the following ability.
 
-## Nullring Strike
-
+> ###### Nullring Strike
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >

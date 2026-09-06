@@ -414,8 +414,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 Additionally, you have the following ability.
 
-#### Hallucination Field
-
+> ###### Hallucination Field
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >
@@ -443,8 +442,7 @@ Additionally, you have the following ability.
 
 Additionally, you have the following ability.
 
-#### Nullring Strike
-
+> ###### Nullring Strike
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
