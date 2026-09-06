@@ -108,3 +108,26 @@
     })();
 </script>
 {% endblock %}
+
+{#-
+  SC-306: point mkdocs-material's search at our own worker (exact-title-first
+  ranking; docs/javascripts/sc-search-worker.js, ADR
+  .repo-docs/decisions/2026-09-06-custom-search-worker.md). The bundle reads
+  #__config once when it executes, so this must run BEFORE super().
+  If Material ever renames __config or its "search" key, the try/catch leaves
+  the stock worker in place and `just search-bench --gate` catches the regression.
+-#}
+{% block scripts %}
+<script>
+(function () {
+  var c = document.getElementById("__config");
+  if (!c) return;
+  try {
+    var j = JSON.parse(c.textContent);
+    j.search = "{{ 'javascripts/sc-search-worker.js' | url }}";
+    c.textContent = JSON.stringify(j);
+  } catch (e) { /* leave Material's worker in place */ }
+})();
+</script>
+{{ super() }}
+{% endblock %}
