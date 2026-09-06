@@ -446,3 +446,9 @@
 }
 /* keep the inner content above the frame layers */
 .md-typeset > blockquote:not([data-ability-type]) > * { position: relative; z-index: 1; }
+
+/* SC-306: wrapper around cards embedded into container pages, present only so
+   Material's search indexer skips the copy (see steel-etl embed_cards.go
+   markSearchExcluded). display:contents keeps the box tree identical;
+   font-style:inherit undoes the UA's italic default for <address>. */
+.sc-embed { display: contents; font-style: inherit; }
