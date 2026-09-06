@@ -116,6 +116,8 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 | `sc-export.js` (+ `vendor/html-to-image.min.js`) | Copy-as-Markdown (from the `sc-src` template island) and PNG download on carded leaf pages |
 | `sc-scale-core.js` / `sc-scale.js` | Statblock level scaler: book "Adjusting Monster Levels" formulas as deltas from printed values, with approximation banner |
 | `steel-bestiary-browser.js` | Bestiary Search & Filter mount; republishes parsed records as `window.SC_BESTIARY_ITEMS` (its mount destroys the JSON island) |
+| `sc-search-core.js` | Pure ranking core for search (MiniSearch-based); `node:test`-able |
+| `sc-search-worker.js` | Search Worker script — **not** an `extra_javascript` entry; wired in by `overrides/main.html` rewriting `__config.search` (see ADR [2026-09-06](decisions/2026-09-06-custom-search-worker.md)) |
 
 All `*-core.js` files are pure UMD modules unit-tested by `node --test tests/*.test.js`;
 the sibling mount scripts are `navigation.instant`-safe (see CLAUDE.md).
@@ -164,7 +166,7 @@ was FOLLOWUPS #2).
 
 ## MkDocs Plugins
 
-- `search`: built-in search
+- `search`: built-in index plugin; the **runtime worker is ours** (`sc-search-worker.js`, ADR [2026-09-06](decisions/2026-09-06-custom-search-worker.md))
 - `roamlinks`: Obsidian-style `[[wikilink]]` support
 - `awesome-nav`: `.nav.yml` based navigation ordering
 

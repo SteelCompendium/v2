@@ -268,3 +268,33 @@ Contract: workspace `DESIGN.md` → "Card header system"; conventions.md has the
 (Historical: before SC-297 round 2, this was a hover-revealed top-center strip with
 hard-coded rem offsets per control — copy-link at `left: 50%`, pin `+1.6rem`,
 encounter-add `+3.4rem`, exports `+5.2rem`. Retired; do not resurrect that pattern.)
+
+### Search results wrong or stock-looking after a mkdocs-material upgrade
+
+**Symptom:** exact names stop ranking first, or `just search-bench --gate` fails.
+
+**Cause:** `overrides/main.html` rewrites `#__config`'s `search` field to our
+worker before `bundle.*.js` runs. If Material renames that element/key, the
+hook fails soft and Material's lunr worker silently comes back; if the worker
+message protocol changes (types 0/1/2/3, `{items: Doc[][]}`), ours stops
+answering. Separately, embed exclusion relies on Material's search parser
+(`material/plugins/search/plugin.py`) tracking `data-search-exclude` elements
+in a set keyed by **tag name only** — steel-etl works around that today by
+wrapping each spliced card in `<address class="sc-embed" data-search-exclude=""
+>…</address>` rather than putting the attribute on the card's own
+`<div>`/`<section>`/`<article>` root (see ADR
+[2026-09-06](decisions/2026-09-06-custom-search-worker.md)). A Material upgrade
+that fixes that tag-name-keyed bug does not break us — the `<address>` wrapper
+still excludes correctly either way — but one that changes the skip semantics
+themselves (e.g. drops `data-search-exclude` support, or starts matching by
+attribute presence across nested same-tag elements) could reintroduce embed
+pollution in the index.
+
+**Fix:** compare the new `templates/base.html` `{% block config %}` and the
+worker bundle's message handling against the spec table in workspace
+`docs/superpowers/specs/2026-09-06-search-ranking-design.md`; adjust the hook
+or `sc-search-worker.js`; re-run `just build && just search-bench --gate` and
+`tests/e2e/search.e2e.cjs`. If embed pollution reappears (a container page's
+search snippet includes an embedded card's text), re-check
+`material/plugins/search/plugin.py`'s exclusion-tracking logic against the
+`<address class="sc-embed">` wrapper in `embed_cards.go`.
