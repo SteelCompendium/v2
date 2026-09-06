@@ -61,3 +61,8 @@ serve:
 # Build the site for deployment
 build:
     mkdocs build
+
+# SC-306: score the site search worker against a built index (run `just build` first).
+# Flags pass through: --worker <path> --index <path|url> --sample N --gate
+search-bench *args:
+    node tests/search/bench.cjs {{args}}
