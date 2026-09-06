@@ -170,6 +170,13 @@ was FOLLOWUPS #2).
 - `roamlinks`: Obsidian-style `[[wikilink]]` support
 - `awesome-nav`: `.nav.yml` based navigation ordering
 
+> **Search exclusion:** Material's search parser keys `data-search-exclude` elements
+> by tag name, not by attribute alone, so steel-etl wraps every card it splices into a
+> container page in `<address class="sc-embed" data-search-exclude="">` (transparent
+> via `.sc-embed { display: contents; }` in `steel-redesign.css`) rather than marking
+> the card's own root element. The ranking worker is ours (`sc-search-worker.js`); see
+> ADR [2026-09-06](decisions/2026-09-06-custom-search-worker.md).
+
 ## Key Features
 
 - `navigation.instant` + `navigation.instant.preview`: SPA-like navigation

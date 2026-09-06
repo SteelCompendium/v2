@@ -6,7 +6,7 @@
 
 Users reported that typing an item's exact name buried it. Replaying the
 production index through Material's own worker showed only 52% of unique-title
-pages ranked #1 (45% for class abilities). Causes: id-less card headings glued
+pages ranked #1 (46% for class abilities). Causes: id-less card headings glued
 onto section titles by Material's indexer (fixed in steel-etl, same ticket), a
 hard-wired trailing wildcard on every term, OR semantics with no exact-match
 bonus, stop-word removal, and sub-1 boosts on statblocks. The wildcard and OR
