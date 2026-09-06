@@ -35,7 +35,7 @@ type: feature
 <div class="sc-ability__enh"><span class="cost">Spend 1–5 Ferocity</span><span class="txt">Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="taunted weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feral Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">

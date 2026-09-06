@@ -39,7 +39,7 @@ type: feature
 <div class="sc-ability__section-body"><p>A target who is not a minion, leader, or solo creature and who is <a href="../../../../rule/health/winded/">winded</a> after taking this damage is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="restrained">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadowgrasp</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Insight</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The shadows around you give way, allowing the shadow creature within you to grasp at your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
@@ -69,7 +69,7 @@ type: feature
 <div class="sc-ability__section-body"><p>You can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> four times, use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../rule/dice/edge/">edge</a> three times, or use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that has a double <a href="../../../../rule/dice/edge/">edge</a> twice. You can <a href="../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">They Always Line Up</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Insight</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You fire a projectile so fast that it passes through a line of foes, hamstringing them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip"><a href="../../../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Weapon</span></div>

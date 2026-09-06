@@ -45,7 +45,7 @@ type: feature
 <div class="sc-ability__section-body"><p>Until the end of the encounter or you are <a href="../../../../rule/health/dying/">dying</a>, each target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can use a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> once per <a href="../../../../rule/combat/turn/">turn</a> whenever they are <a href="../../../../movement/forced-movement/">force moved</a> to reduce the distance by half.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Abjure Thee</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Cast those not affixed to this manifold into the void of a minion&#39;s existence.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>

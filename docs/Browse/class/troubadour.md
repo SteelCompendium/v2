@@ -457,7 +457,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="bleeding">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Cutting Sarcasm</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">There you are, radiating your usual charisma.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -474,7 +474,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 </div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Instigator</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">I didn&#39;t do it! What?</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -549,7 +549,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next <a href="../../rule/combat/turn/">turn</a>, any effects from the ability&#39;s <a href="../../rule/dice/tier-outcome/">tier outcomes</a> other than damage are negated for all targets. Ability effects that always happen regardless of the <a href="../../rule/dice/power-roll/">power roll</a> work as usual.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hypnotic Overtones</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You produce an entrancing note that twists the senses in a spectacular fashion.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
@@ -567,7 +567,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">The size of the <a href="../../rule/combat/burst/">burst</a> increases by 1 for every 2 drama spent.</span></div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Quick Rewrite</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You write something unexpected into the scene that hinders your enemy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -588,7 +588,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>The area is <a href="../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="prone taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Upstage</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">As you bob and weave through the crowd, you can&#39;t help but leave the audience wanting more.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -645,7 +645,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>You <a href="../../rule/combat/turn/">turn</a> invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../rule/character/speed/">speed</a> and you ignore <a href="../../movement/difficult-terrain/">difficult terrain</a>. The illusion and your invisibility last until the end of your next <a href="../../rule/combat/turn/">turn</a>, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flip the Script</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You try a different take on events, justifying the new locations everyone ended up in.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
@@ -658,7 +658,7 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>Each target can <a href="../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../movement/teleport/">teleport</a>ed target who was <a href="../../condition/slowed/">slowed</a> is no longer <a href="../../condition/slowed/">slowed</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="bleeding weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Method Acting</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">They&#39;re so hurt by your performance, you start to believe it yourself.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -922,7 +922,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against creatures with <a href="../../rule/combat/concealment/">concealment</a>. Once during their <a href="../../rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="none">
+<article class="sc-ability sc-fil" data-action="none" data-conditions="bleeding">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Never-Ending Hero</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Virtuoso</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">No Action</div></div></header>
 <p class="sc-ability__flavor">And toniiight we can truly say ♪ They will alllways find a way!♪</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
@@ -971,7 +971,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>Instead of <a href="../../movement/forced-movement/">sliding</a> a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t <a href="../../movement/forced-movement/">slide</a> targets into other creatures or objects using this ability.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Infernal Gavotte</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A spicy performance lights a fire under your allies&#39; feet.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -1244,7 +1244,7 @@ As a 5th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>Unless you score a <a href="../../rule/combat/critical-hit/">critical hit</a>, this ability can&#39;t reduce a non-minion target below 1 <a href="../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Continuity Error</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your subject is written into two places at once.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -1343,7 +1343,7 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="frightened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Here&#39;s How Your Story Ends</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Auteur</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You give away the ending of this battle, and it&#39;s not great for them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
@@ -1381,7 +1381,7 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="bleeding">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blood on the Stage</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Duelist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">It&#39;s love and blood or drama and blood. Either way, there&#39;s always blood.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>
@@ -1419,7 +1419,7 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Feedback</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Virtuoso</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
@@ -1705,7 +1705,7 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__section-body"><p>Choose one ally within <a href="../../rule/combat/distance/">distance</a>. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="slowed weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Rising Tension</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Auteur</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">You narrate the tension of the scene and put all hope into your protagonist to <a href="../../rule/combat/turn/">turn</a> things around.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -1726,7 +1726,7 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following abilities.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="bleeding">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Expert Fencer</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Troubadour · Duelist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Drama</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">If you can land the <a href="../../rule/combat/strike/">strike</a>, the crowd goes wild.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>

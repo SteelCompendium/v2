@@ -579,7 +579,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ray of Agonizing Self-Reflection</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You inflict pain and doubt in equal measure.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Void</span></div>
@@ -711,7 +711,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__section-body"><p>Mushrooms cover the target&#39;s body. While the mushrooms are on the target, you and any ally <a href="../../rule/combat/adjacent/">adjacent</a> to the target gain 1 <a href="../../rule/resource/surge/">surge</a> whenever the target takes damage. The mushrooms can be removed by the target or an <a href="../../rule/combat/adjacent/">adjacent</a> creature as a main action.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ripples in the Earth</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Like a stone was dropped into a pond, waves in the earth radiate from you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span></div>
@@ -979,7 +979,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__section-body"><p>The target is <a href="../../movement/teleport/">teleport</a>ed to another space within <a href="../../rule/combat/distance/">distance</a>. Make a <a href="../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="restrained">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Volcano&#39;s Embrace</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Wrap them up in fire and melting stone.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>
@@ -1383,7 +1383,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="restrained">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Web of All That&#39;s Come Before</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Threads you&#39;ve been weaving through your adventures create a vibrant, pearlescent web.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -1462,7 +1462,7 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="restrained">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Magma Titan</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Their body swells with lava, mud, and might, towering over their enemies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -1663,7 +1663,7 @@ You have the following ability.
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 essence to use.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone restrained">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heart of the Wode</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You call forth one of the Great Tree&#39;s many splinters to provide for your every need.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span></div>
@@ -1697,7 +1697,7 @@ You have the following ability.
 <div class="sc-ability__section-body"><p>The Director&#39;s Malice can become negative as a result of this ability.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Return to Oblivion</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You create a tear in reality that could consume everything.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip">Void</span></div>
@@ -1710,7 +1710,7 @@ You have the following ability.
 <div class="sc-ability__section-body"><p>You create a <a href="../../rule/character/size/">size</a> 1L vortex that lasts until the end of the encounter. At the start of each <a href="../../rule/combat/combat-round/">combat round</a> while the vortex is unoccupied, the vortex vertical <a href="../../movement/forced-movement/">pulls</a> 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">World Torn Asunder</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You stomp your foot and quake the whole world over.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span></div>
@@ -1809,7 +1809,7 @@ As a 9th-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__section-body"><p>You use up to three <a href="../../rule/general/heroic-ability/">heroic abilities</a> whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unquenchable Fire</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You let fly a fiery missile braided with pure primal energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip"><a href="../../rule/combat/ranged/">Ranged</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span></div>

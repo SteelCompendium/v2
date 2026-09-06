@@ -6,6 +6,7 @@ search:
 disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a polearm.
 flavor: Armed with a simple reach weapon, often a quarterstaff, a character using the Stick and Robe kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+kit_type: Martial
 melee_damage_bonus: +1/+1/+1
 melee_distance_bonus: "+1"
 name: Stick and Robe

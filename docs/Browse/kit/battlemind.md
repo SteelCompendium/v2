@@ -5,6 +5,7 @@ search:
   boost: 2
 equipment_text: You wear light armor and wield a medium weapon.
 flavor: Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+kit_type: Psionic
 melee_damage_bonus: +2/+2/+2
 name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind

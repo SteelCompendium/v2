@@ -19,7 +19,7 @@ type: feature
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 <a href="../../level-1/essence/">essence</a> to use.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blitz Tactics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Rush &#39;em! CRUSH &#39;EM!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
@@ -66,7 +66,7 @@ type: feature
 <div class="sc-ability__section-body"><p>You can choose to kill any number of your <a href="../../level-1/minions/">minions</a> within your Summoner&#39;s Range as a part of this ability, provided they haven&#39;t used a main action or maneuver during the <a href="../../../../rule/combat/turn/">turn</a>. Each target takes an additional 1 <a href="../../../../rule/damage/damage/">damage</a>, plus 1 <a href="../../../../rule/damage/damage/">damage</a> for each <a href="../../level-1/minions/">minion</a> killed this way. These <a href="../../level-1/minions/">minions</a> activate no effects upon death, and you gain no <a href="../../level-1/essence/">essence</a> from their deaths.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lead By Example</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your minions watch as your implement crackles with power, ready to slam unbelievable force into your foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>

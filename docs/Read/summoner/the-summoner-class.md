@@ -175,7 +175,7 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which replaces both your melee and ranged <a href="../../../Browse/feature/common/main-actions/free-strike/">free strikes</a>.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summoner Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A sudden burst of energy erupts from your implement and shocks your foes&#39; nerves.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
@@ -742,7 +742,7 @@ Choose two of the following minions. You can use Call Forth to summon the listed
 <div class="sc-ability__section-body"><p>In addition to the <a href="../../../Browse/feature/summoner/level-1/minions/">minions</a> summoned as a part of this ability, you can choose to command any number of your <a href="../../../Browse/feature/summoner/level-1/minions/">minions</a> within distance, provided they haven&#39;t used a main action or maneuver during the <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Distraction Tactics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your minions do the work to draw the heat away from your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
@@ -1176,7 +1176,7 @@ As a 3rd-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../Browse/rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 <a href="../../../Browse/feature/summoner/level-1/essence/">essence</a> to use.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blitz Tactics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Rush &#39;em! CRUSH &#39;EM!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
@@ -1223,7 +1223,7 @@ As a 3rd-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-ability__section-body"><p>You can choose to kill any number of your <a href="../../../Browse/feature/summoner/level-1/minions/">minions</a> within your Summoner&#39;s Range as a part of this ability, provided they haven&#39;t used a main action or maneuver during the <a href="../../../Browse/rule/combat/turn/">turn</a>. Each target takes an additional 1 <a href="../../../Browse/rule/damage/damage/">damage</a>, plus 1 <a href="../../../Browse/rule/damage/damage/">damage</a> for each <a href="../../../Browse/feature/summoner/level-1/minions/">minion</a> killed this way. These <a href="../../../Browse/feature/summoner/level-1/minions/">minions</a> activate no effects upon death, and you gain no <a href="../../../Browse/feature/summoner/level-1/essence/">essence</a> from their deaths.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lead By Example</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your minions watch as your implement crackles with power, ready to slam unbelievable force into your foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
@@ -1554,7 +1554,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You can summon the assistance of your future champion (see <a href="../../../Browse/feature/summoner/level-8/portfolio-champion/">Portfolio Champion</a>) and allow them to show off a brief display of their power. Select one of the following <a href="../../../Browse/rule/general/heroic-ability/">heroic abilities</a>, each of which costs 9 essence to use.</p>
 <div class="sc-trait__nest">
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="frightened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Champion&#39;s Cry</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your champion unleashes a bellow that shakes you to your core.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Champion</span><span class="sc-ability__chip">Magic</span></div>
@@ -1575,7 +1575,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Army&#39;s Idol</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your champion&#39;s appearance has an enchanting impact on you and your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Champion</span><span class="sc-ability__chip">Magic</span></div>
@@ -1588,7 +1588,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-ability__section-body"><p>You can use this ability as if in the space of one of your minions within your Summoner&#39;s Range.</p><p>Until the end of the encounter or you become <a href="../../../Browse/rule/health/dying/">dying</a>, each target has a +2 <a href="../../../Browse/rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../Browse/rule/general/saving-throw/">saving throws</a>.</p><p>Each target can immediately make each of their <a href="../../../Browse/rule/general/saving-throw/">saving throws</a> and stand up from <a href="../../../Browse/condition/prone/">prone</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Champion Slams the Earth</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your champion lays their fury upon those unfortunate enough to be in their wake.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Champion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Weapon</span></div>
@@ -1613,7 +1613,7 @@ As a 6th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-ability__section-body"><p>You can change the <a href="../../../Browse/rule/damage/damage-type/">damage type</a> to be a type that your champion deals on their stat block (see <a href="../../../Browse/feature/summoner/level-8/portfolio-champion/">Portfolio Champion</a>).</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Their Pall Shrouds All</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">9 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your champion fills the area with a thick haze hiding friend from foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Champion</span><span class="sc-ability__chip">Magic</span></div>
@@ -1984,7 +1984,7 @@ As a 9th-level [summoner](../../Browse/class/summoner.md), you gain the followin
 <div class="sc-ability__section-body"><p>Until the end of the encounter or you are <a href="../../../Browse/rule/health/dying/">dying</a>, each target has <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> 5 and can use a <a href="../../../Browse/rule/combat/triggered-action/">free triggered action</a> once per <a href="../../../Browse/rule/combat/turn/">turn</a> whenever they are <a href="../../../Browse/movement/forced-movement/">force moved</a> to reduce the distance by half.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="slowed weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">I Abjure Thee</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">11 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Cast those not affixed to this manifold into the void of a minion&#39;s existence.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>

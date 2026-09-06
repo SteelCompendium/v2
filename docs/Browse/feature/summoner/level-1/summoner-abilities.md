@@ -75,7 +75,7 @@ type: feature
 <div class="sc-ability__section-body"><p>In addition to the <a href="../minions/">minions</a> summoned as a part of this ability, you can choose to command any number of your <a href="../minions/">minions</a> within distance, provided they haven&#39;t used a main action or maneuver during the <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
-<article class="sc-ability sc-fil" data-action="maneuver">
+<article class="sc-ability sc-fil" data-action="maneuver" data-conditions="taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Distraction Tactics</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Essence</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <p class="sc-ability__flavor">Your minions do the work to draw the heat away from your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>

@@ -6,6 +6,7 @@ search:
 disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a whip.
 flavor: The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+kit_type: Martial
 melee_damage_bonus: +1/+1/+1
 melee_distance_bonus: "+1"
 name: Whirlwind

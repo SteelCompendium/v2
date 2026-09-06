@@ -6,6 +6,7 @@ search:
 disengage_bonus: "+1"
 equipment_text: You wear light armor and wield a shield and a light weapon.
 flavor: The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+kit_type: Martial
 melee_damage_bonus: +1/+1/+1
 name: Raider
 ranged_damage_bonus: +1/+1/+1

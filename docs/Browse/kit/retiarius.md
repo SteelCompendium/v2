@@ -6,6 +6,7 @@ search:
 disengage_bonus: "+1"
 equipment_text: You wear light armor and wield several ensnaring weapons and a polearm.
 flavor: The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+kit_type: Martial
 melee_damage_bonus: +2/+2/+2
 melee_distance_bonus: "+1"
 name: Retiarius
@@ -44,7 +45,7 @@ type: kit
 
 ### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
 
-<article class="sc-ability sc-fil" data-action="main">
+<article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Net and Stab</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Retiarius</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The well-thrown net that follows your main attack leaves your foes right where you want them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip"><a href="../../rule/combat/melee/">Melee</a></span><span class="sc-ability__chip"><a href="../../rule/combat/strike/">Strike</a></span><span class="sc-ability__chip">Weapon</span></div>

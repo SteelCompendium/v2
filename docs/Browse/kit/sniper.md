@@ -6,6 +6,7 @@ search:
 disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a bow.
 flavor: The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
+kit_type: Martial
 name: Sniper
 ranged_damage_bonus: +0/+0/+4
 ranged_distance_bonus: "+10"
