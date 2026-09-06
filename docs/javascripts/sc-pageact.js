@@ -13,7 +13,7 @@
   // prose (Read chapters carry dozens) must NOT match, so no bare descendant
   // selectors here. querySelector returns the MAIN head: it precedes the
   // card's sub-feature heads in document order.
-  var MAIN = [".sb-wrap", ".fb-wrap", ".sc-ability", ".sc-trait", ".sc-kit", ".pj"]
+  var MAIN = [".sb-wrap", ".fb-wrap", ".sc-ability", ".sc-trait", ".sc-kit"]
     .map(function (c) { return ".md-typeset > h1:first-child + hr + " + c + " .sc-head"; })
     .join(", ");
   window.SCPageAct = {

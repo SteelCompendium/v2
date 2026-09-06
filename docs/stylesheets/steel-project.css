@@ -114,7 +114,3 @@
   .pj__head::after { box-shadow: none; }
   .pj__item { break-inside: avoid; }
 }
-
-/* Match the shared page-action discriminator and avoid a duplicate title. */
-.md-typeset > h1:first-child:has(+ hr + .pj),
-.md-typeset > h1:first-child + hr:has(+ .pj) { display: none; }
