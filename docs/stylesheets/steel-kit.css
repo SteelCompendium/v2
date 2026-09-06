@@ -75,8 +75,12 @@
 /* ── SIGNATURE ABILITY ──
    embedItemCards leaves: </section>, the (redundant) marker heading, then the
    spliced .sc-ability card. Hide the marker heading; the ability card is its own
-   card below the kit plate — same width, aligned, with a gap between the two. */
+   card below the kit plate — same width, aligned, with a gap between the two.
+   SC-306: the spliced card is wrapped in a search-exclusion `<address
+   class="sc-embed">` (display:contents), so the ability card sits one level
+   deeper than a direct `h3 + .sc-ability` sibling — match both shapes. */
 .md-typeset .sc-kit + h3[data-scc] { display: none; }
-.md-typeset .sc-kit + h3[data-scc] + .sc-ability {
+.md-typeset .sc-kit + h3[data-scc] + .sc-ability,
+.md-typeset .sc-kit + h3[data-scc] + .sc-embed > .sc-ability {
   max-width: 47rem; margin: 1.1rem auto 1.7rem;
 }
